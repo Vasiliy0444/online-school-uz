@@ -1,6 +1,119 @@
 {
   "_note": "ID объектов, созданных в Meta. Заполняется при заливке через MCP; build_launch.py переносит их в реестр.",
-  "media": {},
+  "media": {
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/01 Инста — эксперт на фото/I1-1 Как заработать на ИИ в 2026 — 4x5.png": {
+      "image_hash": "4d12a084f946cb2ca54459cadad23a2c",
+      "name": "I1-1 4x5"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/01 Инста — эксперт на фото/I1-1 Как заработать на ИИ в 2026 — 9x16.png": {
+      "image_hash": "e919f4e5b9fd20517414e400723f06e6",
+      "name": "I1-1 9x16"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/01 Инста — эксперт на фото/I1-2 Как начать зарабатывать удалённо и выйти — 4x5.png": {
+      "image_hash": "ed4ff7d425ff830c8e9315c66a53ac07",
+      "name": "I1-2 4x5"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/01 Инста — эксперт на фото/I1-2 Как начать зарабатывать удалённо и выйти — 9x16.png": {
+      "image_hash": "99f31a103ed56195a1f5386162d44daf",
+      "name": "I1-2 9x16"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/02 Инста — вопрос-ответ/I2-1 Как выйти на $1000 удалённо — 4x5.png": {
+      "image_hash": "4b0cf8c561870f603549f172eedf19e4",
+      "name": "I2-1 4x5"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/02 Инста — вопрос-ответ/I2-1 Как выйти на $1000 удалённо — 9x16.png": {
+      "image_hash": "b4476cab9f8b67b59b1511d53ebdf032",
+      "name": "I2-1 9x16"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/02 Инста — вопрос-ответ/I2-2 Надоело брать деньги у родителей — 4x5.png": {
+      "image_hash": "5d09ce9a4380aacac4aa2d5f60586e9c",
+      "name": "I2-2 4x5"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/02 Инста — вопрос-ответ/I2-2 Надоело брать деньги у родителей — 9x16.png": {
+      "image_hash": "c1efc77373d5d69e1b556b933a50ebfb",
+      "name": "I2-2 9x16"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/02 Инста — вопрос-ответ/I2-3 Работаю целый день, но денег — 4x5.png": {
+      "image_hash": "28e30c8727d6309a4aad398d2e3ce58e",
+      "name": "I2-3 4x5"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/02 Инста — вопрос-ответ/I2-3 Работаю целый день, но денег — 9x16.png": {
+      "image_hash": "a87d89b79e87999498dd7c506d920c80",
+      "name": "I2-3 9x16"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/08 Инста — короткие тексты (A-B)/I1-1S Как зарабатывать $1000 в месяц — 4x5.png": {
+      "image_hash": "e9ca542053e53cde8d29459155ca3d2e",
+      "name": "I1-1S 4x5"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/08 Инста — короткие тексты (A-B)/I1-1S Как зарабатывать $1000 в месяц — 9x16.png": {
+      "image_hash": "43b3fe61260b395abd5696ae0d282ae6",
+      "name": "I1-1S 9x16"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/08 Инста — короткие тексты (A-B)/I1-2S Как выйти на $1000 удалённо — 4x5.png": {
+      "image_hash": "fca762469efc39ba73d1ad2adfec2474",
+      "name": "I1-2S 4x5"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/08 Инста — короткие тексты (A-B)/I1-2S Как выйти на $1000 удалённо — 9x16.png": {
+      "image_hash": "a5c518fe7f09eb542f569d405b6f8f1f",
+      "name": "I1-2S 9x16"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/08 Инста — короткие тексты (A-B)/I2-1S Как выйти на $1000 удалённо — 4x5.png": {
+      "image_hash": "da90239fbbbe001c92efd319adcab242",
+      "name": "I2-1S 4x5"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/08 Инста — короткие тексты (A-B)/I2-1S Как выйти на $1000 удалённо — 9x16.png": {
+      "image_hash": "889b3a55e94068ebe4e5520f47fa4899",
+      "name": "I2-1S 9x16"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/08 Инста — короткие тексты (A-B)/I2-2S Надоело брать деньги у родителей. Что — 4x5.png": {
+      "image_hash": "8eb5a6e34696c40cecd8caa7fa9eb0e3",
+      "name": "I2-2S 4x5"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/08 Инста — короткие тексты (A-B)/I2-2S Надоело брать деньги у родителей. Что — 9x16.png": {
+      "image_hash": "b78b0372a6a60ae078ba319f19ac1d5c",
+      "name": "I2-2S 9x16"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/08 Инста — короткие тексты (A-B)/I2-3S Работаю весь день, а денег не — 4x5.png": {
+      "image_hash": "0589cd1ecb2d19b3eea7cef178af684f",
+      "name": "I2-3S 4x5"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/08 Инста — короткие тексты (A-B)/I2-3S Работаю весь день, а денег не — 9x16.png": {
+      "image_hash": "841e28e687742aec5be3c2220644c6bb",
+      "name": "I2-3S 9x16"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/04 Мемы/M2 Пишем от руки — 4x5.mp4": {
+      "video_id": "1424312466541310",
+      "name": "M2 4x5"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/04 Мемы/M2 Пишем от руки — 9x16.mp4": {
+      "video_id": "1624211942702639",
+      "name": "M2 9x16"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/04 Мемы/M3 Каждому по курсу — 4x5.png": {
+      "image_hash": "d61d55e9087b3afa78433a90db8d8559",
+      "name": "M3 4x5"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/04 Мемы/M3 Каждому по курсу — 9x16.png": {
+      "image_hash": "abc92b78e87546fff68199696354e5ed",
+      "name": "M3 9x16"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/04 Мемы/M4 Как научиться зарабатывать на ИИ — 4x5.png": {
+      "image_hash": "543bfae5635b2259a2641000acc862c1",
+      "name": "M4 4x5"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/04 Мемы/M4 Как научиться зарабатывать на ИИ — 9x16.png": {
+      "image_hash": "411bdf1359cbb7d04091070a88b57bbb",
+      "name": "M4 9x16"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/04 Мемы/M5 Раздаём курс по заработку на ИИ! — 4x5.png": {
+      "image_hash": "ab69546ab5a9f39d52e04781193fb74c",
+      "name": "M5 4x5"
+    },
+    "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/04 Мемы/M5 Раздаём курс по заработку на ИИ! — 9x16.png": {
+      "image_hash": "fe28c0ce1f578e362a3e42712e85258a",
+      "name": "M5 9x16"
+    }
+  },
   "audiences": {},
   "campaigns": {},
   "adsets": {},
