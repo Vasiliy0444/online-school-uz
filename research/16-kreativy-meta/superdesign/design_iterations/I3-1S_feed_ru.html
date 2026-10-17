@@ -1,0 +1,45 @@
+<!doctype html><html><head><meta charset='utf-8'><link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Roboto+Condensed:wght@400;500;700;800&family=Courier+Prime:wght@400;700&family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,600;1,700;1,800;1,900&family=Montserrat+Alternates:wght@600;700;800&family=Roboto:wght@300;400;500;700;900&family=Caveat:wght@500;600;700&family=PT+Serif:wght@400;700&display=block'><style>html,body{margin:0;padding:0}body{width:1080px;height:1350px;position:relative;overflow:hidden;-webkit-font-smoothing:antialiased;text-rendering:geometricPrecision}*{box-sizing:border-box}.hl{display:inline;-webkit-box-decoration-break:clone;box-decoration-break:clone}.strike{position:relative;white-space:nowrap;display:inline-block}.strike:after{content:'';position:absolute;left:-5%;right:-5%;top:50%;height:.1em;background:#ff2a2a;transform:rotate(-7deg);border-radius:.05em}.nb{white-space:nowrap}.abs{position:absolute}
+.bg{position:absolute;inset:0}
+.shade{position:absolute;inset:0}
+.stack{position:absolute;display:flex;flex-direction:column;align-items:center;gap:.18em}
+.b1{font:900 1em/1.02 Montserrat,sans-serif;text-transform:uppercase;padding:.14em .32em;text-align:center}
+.b2{font:800 .44em/1.15 Montserrat,sans-serif;text-transform:uppercase;padding:.3em .6em;text-align:center}
+.strip{position:absolute;left:0;right:0;text-align:center}
+.strip span{display:inline-block;font:800 34px/1.2 Montserrat,sans-serif;text-transform:uppercase;padding:14px 26px}
+.q{font:800 1em/1.18 Montserrat,sans-serif}
+.q .hl{background:#FFC21A;color:#111;padding:.06em .3em;border-radius:.16em}
+.it{font:italic 800 1em/1.2 Montserrat,sans-serif;color:#fff;text-align:right;text-shadow:0 2px 10px rgba(0,0,0,.35)}
+.it .kw{background:#FFC21A;color:#111;padding:0 .2em;border-radius:.12em;text-shadow:none}
+.mini{display:inline-block;font:800 32px/1.2 Montserrat,sans-serif;text-transform:uppercase;background:#FFD95A;color:#111;padding:10px 22px}
+</style></head><body><div class="bg" style="background-image:url(file:///Users/Bel-a/Desktop/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D1%8B%20%D1%81%D0%BF%D0%B8%D0%BA%D0%B5%D1%80%D0%B0/Story%20Aug%203%2C%202024%20at%2000%3A17.jpeg);background-size:1242px 2208px;background-position:-123px -6px;background-repeat:no-repeat"></div><div class="shade" style="background:linear-gradient(to bottom,rgba(0,0,0,.15),rgba(0,0,0,0) 40%,rgba(0,0,0,.25))"></div><div class="stack" data-box data-maxh="640" style="left:60px;right:60px;top:90px;font-size:86px"><div class="b1" style="background:#FFC21A;color:#111">План выхода на $1000 — в подарок</div><div class="b2" style="background:#FFC21A;color:#111;margin-top:.3em">Профессия: AI⁠-⁠специалист</div></div><div class="abs" style="left:40px;right:40px;bottom:50px;display:flex;flex-direction:column;align-items:center;gap:14px;text-align:center"><span style="display:inline-block;background:#FFC21A;color:#111;font:800 36px/1.2 Montserrat,sans-serif;text-transform:uppercase;padding:14px 26px">Забирай за 0 сум ⬇️</span></div>
+<script>
+function contentH(el){
+  const gap = parseFloat(getComputedStyle(el).rowGap) || 0; const kids = Array.from(el.children);
+  return kids.reduce((s, k) => s + k.getBoundingClientRect().height, 0) + gap * Math.max(0, kids.length - 1);
+}
+function fitCol(el){
+  const max = el.clientHeight; let fs = parseFloat(getComputedStyle(el).fontSize); let g = 0;
+  while (contentH(el) > max - 24 && g < 90) { fs *= 0.97; el.style.fontSize = fs + 'px'; g++; }
+}
+function fitBox(el){
+  const maxh = parseFloat(el.dataset.maxh || 1e9); const maxw = parseFloat(el.dataset.maxw || 1e9);
+  let fs = parseFloat(getComputedStyle(el).fontSize); let g = 0;
+  while ((el.offsetHeight > maxh + 1 || el.scrollWidth > maxw + 1) && g < 90) { fs *= 0.97; el.style.fontSize = fs + 'px'; g++; }
+}
+function fillBelow(){
+  const hw = document.querySelector('.headwrap'); const img = document.querySelector('img[data-fill]');
+  if (!hw || !img) return;
+  const [x0, y0, x1, y1, iw, ih, cx, drop, maxh] = img.dataset.fill.split(',').map(Number);
+  const H = document.body.clientHeight; const top = hw.getBoundingClientRect().bottom + 36;
+  const contentH = Math.min(maxh, H - top + drop); const sc = contentH / (y1 - y0);
+  img.style.width = (iw * sc) + 'px'; img.style.top = (H + drop - contentH - y0 * sc) + 'px'; img.style.left = (cx - (x0 + x1) / 2 * sc) + 'px';
+  const tag = document.querySelector('.tag'); if (tag && !tag.dataset.fixed) tag.style.top = (H + drop - contentH + contentH * 0.30) + 'px';
+}
+document.fonts.ready.then(() => {
+  document.querySelectorAll('[data-box]').forEach(fitBox);
+  document.querySelectorAll('[data-col]').forEach(fitCol);
+  fillBelow();
+  document.body.dataset.ready = 1;
+});
+</script>
+</body></html>

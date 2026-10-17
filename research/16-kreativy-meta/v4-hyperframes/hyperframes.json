@@ -1,0 +1,60 @@
+{
+  "$schema": "https://hyperframes.heygen.com/schema/hyperframes.json",
+  "registry": "https://raw.githubusercontent.com/heygen-com/hyperframes/main/registry",
+  "paths": {
+    "blocks": "compositions",
+    "components": "compositions/components",
+    "assets": "assets"
+  },
+  "media": {
+    "autoProxy": true
+  },
+  "authoringSkill": "general-video",
+  "registryItems": [
+    {
+      "name": "whip-pan-cut",
+      "type": "hyperframes:component",
+      "target": "compositions/components/whip-pan-cut.html"
+    },
+    {
+      "name": "rgb-glitch-text",
+      "type": "hyperframes:component",
+      "target": "compositions/components/rgb-glitch-text.html"
+    },
+    {
+      "name": "number-wheel",
+      "type": "hyperframes:component",
+      "target": "compositions/components/number-wheel.html"
+    },
+    {
+      "name": "success-check",
+      "type": "hyperframes:component",
+      "target": "compositions/components/success-check.html"
+    },
+    {
+      "name": "agent-cursor",
+      "type": "hyperframes:component",
+      "target": "compositions/components/agent-cursor.html"
+    },
+    {
+      "name": "editorial-flash-overlay",
+      "type": "hyperframes:block",
+      "target": "compositions/editorial-flash-overlay.html"
+    },
+    {
+      "name": "mk-clone-wall-transition",
+      "type": "hyperframes:block",
+      "target": "compositions/mk-clone-wall-transition.html"
+    },
+    {
+      "name": "hw-path-text",
+      "type": "hyperframes:block",
+      "target": "compositions/hw-path-text.html"
+    },
+    {
+      "name": "caption-kinetic-slam",
+      "type": "hyperframes:component",
+      "target": "compositions/components/caption-kinetic-slam.html"
+    }
+  ]
+}

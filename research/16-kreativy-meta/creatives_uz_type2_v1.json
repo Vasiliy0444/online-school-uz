@@ -1,0 +1,151 @@
+{
+  "about": "Карусели «Красивые дизайны» (тип 2) из 15-strategiya-targeta-meta/04-texts-static.json: тексты 2-1, 2-1b, 2-3, 2-4 на узбекском (латиница), 11.10.2026. 2-2 не переведён — нужен реальный кейс. Стиль и термины — как в creatives_uz_v1.json: обращение «siz», AI-mutaxassis, mini-kurs, Telegram, bepul, so‘m. В text_uz сохранены «·» и двоеточия на тех же местах — по ним build.py (k_rows) делит строки на метку и значение. visual, why, sources не переводились. Перевод сделан ИИ (Claude); перед запуском — вычитка носителем языка.",
+  "texts": [
+    {
+      "id": "2-1",
+      "headline_uz": "Taksi, smenali ish, Uzum yoki onlayn kasb?",
+      "subline_uz": "3 savol bo‘yicha solishtirdik: start, pul, yil o‘tib nima bo‘ladi",
+      "badge_uz": "Mini-kurs: 1-dars",
+      "cta_uz": "Bepul mini-kursni boshlash",
+      "cards": [
+        {
+          "n": 1,
+          "title_uz": "Taksi, smenali ish, Uzum yoki onlayn kasb?",
+          "text_uz": "3 savol bo‘yicha solishtirdik: start, pul, yil o‘tib nima bo‘ladi"
+        },
+        {
+          "n": 2,
+          "title_uz": "Taksi",
+          "text_uz": "Start: mashina · Pul: taxminan 8 mln so‘m, ekonom tarifda 26 ta to‘liq smena uchun · Yil o‘tib: rulda o‘tirgan soatga to‘lashadi"
+        },
+        {
+          "n": 3,
+          "title_uz": "Smenali ish: operator, administrator",
+          "text_uz": "Start: kunduzgi grafikli vakansiya · Pul: oyiga 5 mln so‘mdan, soliqdan oldin · Yil o‘tib: ko‘nikma deyarli o‘smaydi"
+        },
+        {
+          "n": 4,
+          "title_uz": "Uzum: tovar sotish",
+          "text_uz": "Start: tovarga pul · Pul: tovar va talabga bog‘liq · Yil o‘tib: savdo tajribasi"
+        },
+        {
+          "n": 5,
+          "title_uz": "Onlayn AI-mutaxassis kasbi",
+          "text_uz": "Start: noutbuk, neyrotarmoqlar bepul · Pul: 3,5 mln so‘mdan 3–4 ta buyurtma ≈ oyiga $1000, yo‘l — 2–3 oy · Yil o‘tib: portfolio, doimiy mijozlar · Minus: mijozni o‘zingiz qidirasiz — buni o‘rgatamiz",
+          "small_uz": "Hisob-kitob, va’da emas: daromad harakatlaringizga bog‘liq"
+        },
+        {
+          "n": 6,
+          "title_uz": "Raqamlar bilan to‘liq solishtirish — 1-darsda",
+          "text_uz": "Telegramda bepul mini-kurs, telefondan ko‘rsa bo‘ladi"
+        }
+      ],
+      "notes_uz": "Метки строк «Старт / Деньги / Через год» → «Start / Pul / Yil o‘tib»; двоеточие на тех же местах — k_rows делит строку по первому «:». «Смены» → «smenali ish» (smena — живое слово: «kunduzgi smena»). «Через год: платят за часы за рулём» → «rulda o‘tirgan soatga to‘lashadi» (+26%). Вариант B из поля alt (решает Вася): «5 yil o‘tib: o‘sha taksichi, faqat mashinasi eskiroq» — тогда метку «Yil o‘tib» сменить на «5 yil o‘tib» на всех карточках. «Нейросети» → neyrotarmoqlar (так у Sfera и Smmikramovna). «Заказ» → buyurtma, «по 3,5 млн» → «3,5 mln so‘mdan». «Расчёт, не обещание» → «Hisob-kitob, va’da emas» — «va’da» с тутуком (’), как «Quruq va’dalar emas» у Hirex. Кнопка — отглагольное имя «…boshlash», как кнопки в корпусе («Bepul darsga yozilish», «BEPUL KO‘RISH»)."
+    },
+    {
+      "id": "2-1b",
+      "headline_uz": "O‘qish bilan qaysi ish mos keladi?",
+      "subline_uz": "Taksi, smenali ish, Uzum yoki onlayn kasb: start, o‘qish va yil bo‘yicha solishtirdik",
+      "badge_uz": "Mini-kurs: 1-dars",
+      "cta_uz": "Bepul mini-kursni boshlash",
+      "cards": [
+        {
+          "n": 1,
+          "title_uz": "O‘qish bilan qaysi ish mos keladi?",
+          "text_uz": "Taksi, smenali ish, Uzum yoki onlayn kasb: start, o‘qish va yil bo‘yicha solishtirdik"
+        },
+        {
+          "n": 2,
+          "title_uz": "Taksi",
+          "text_uz": "Start: mashina · O‘qish bilan: kechqurun rulda smena · Yil o‘tib: rulda o‘tirgan soatga to‘lashadi"
+        },
+        {
+          "n": 3,
+          "title_uz": "Smenali ish: operator, administrator",
+          "text_uz": "Start: kunduzgi grafikli vakansiya · O‘qish bilan: kunduzi dars — mos kelmaydi · Yil o‘tib: ko‘nikma deyarli o‘smaydi"
+        },
+        {
+          "n": 4,
+          "title_uz": "Uzum: tovar sotish",
+          "text_uz": "Start: tovarga pul · O‘qish bilan: mos keladi · Yil o‘tib: savdo tajribasi"
+        },
+        {
+          "n": 5,
+          "title_uz": "Onlayn AI-mutaxassis kasbi",
+          "text_uz": "Start: noutbuk va bepul neyrotarmoqlar · O‘qish bilan: haftasiga 2–3 kecha · Yil o‘tib: portfolio, doimiy mijozlar, ish narxi oshadi · Minus: mijozni o‘zingiz qidirasiz — buni o‘rgatamiz"
+        },
+        {
+          "n": 6,
+          "title_uz": "To‘liq solishtirish — 1-darsda",
+          "text_uz": "Telegramda bepul mini-kurs, telefondan ko‘rsa bo‘ladi"
+        }
+      ],
+      "notes_uz": "«Что совместить с парами?» → «O‘qish bilan qaysi ish mos keladi?» («какая работа совместима с учёбой»): «пары» переданы через «o‘qish / dars» — студенческое «para» звучит по-русски. Одно слово на всю карусель: «можно совмещать» → «mos keladi», «не совместить» → «mos kelmaydi». Метка «С учёбой» → «O‘qish bilan». «2–3 вечера» → «2–3 kecha», как «2 kecha» в I1-3. Вариант B для такси — как в 2-1. Заголовок +42% (34 знака): короче «O‘qishga qaysi ish mos?» (23), но тогда «совместить» звучит как «подходит для учёбы»."
+    },
+    {
+      "id": "2-3",
+      "headline_uz": "Birjasiz mijoz qayerdan topiladi",
+      "subline_uz": "10 ta kanaldan 3 tasi. Qolgan 7 tasi — 1-dars bonusida",
+      "badge_uz": "Bonus: Top-10 kanal",
+      "cta_uz": "Bepul mini-kursni boshlash",
+      "cards": [
+        {
+          "n": 1,
+          "title_uz": "Birjasiz mijoz qayerdan topiladi",
+          "text_uz": "10 ta kanaldan 3 tasi. Qolgan 7 tasi — 1-dars bonusida"
+        },
+        {
+          "n": 2,
+          "title_uz": "Nega birjadan boshlamaslik kerak",
+          "text_uz": "«Olti-yetti oyda to‘rt yuz dollar chiqdi… raqobat katta» — intervyumizdan. Sharhsiz yangi boshlovchiga u yerda qiyin"
+        },
+        {
+          "n": 3,
+          "title_uz": "1-kanal. Tanishlar",
+          "text_uz": "Kontaktlarni oching: amakingiz do‘koni, do‘stingiz kafesi, o‘quv markazi. Sizga allaqachon ishonishadi"
+        },
+        {
+          "n": 4,
+          "title_uz": "2-kanal. Yandex Xaritalar",
+          "text_uz": "Sohani kiriting: «gullar», «avtoservis». «Sayt» qatori yo‘qmi — egasiga yozing. Toshkentdagi 300 ta kompaniyani tekshirdik: 146 tasida sayt yo‘q"
+        },
+        {
+          "n": 5,
+          "title_uz": "3-kanal. Telegramdagi vakansiya chatlari",
+          "text_uz": "U yerda dizayner, SMM va mobilograf qidirishadi. Sinov ishi bilan yozing, hatto so‘ralmagan bo‘lsa ham"
+        },
+        {
+          "n": 6,
+          "title_uz": "Yana 7 ta kanal — «Top-10 kanal» bonusida",
+          "text_uz": "Mini-kursning 1-darsi bilan birga keladi"
+        }
+      ],
+      "notes_uz": "Заголовок без «?», как в оригинале; безличное «…qayerdan topiladi» — как «Pul qanday topiladi». «Заказчики» → mijoz (одно слово с v1). Цитата из интервью переведена: если Саидазим говорил по-узбекски, лучше поставить его дословные слова; в sources она помечена как самоотчёт*. «Отзывы» → sharh (так на Uzum). «Введи нишу» → «Sohani kiriting» — чтобы не повторять «yozing», которое ниже значит «напишите». «Откликайся с пробной работой» → «Sinov ishi bilan yozing». «Яндекс Карты» → Yandex Xaritalar (узбекское название приложения, не сверял с интерфейсом). Цифра 146 из 300 в sources помечена «не проверено» — на карточке оговорки нет, как и в русском."
+    },
+    {
+      "id": "2-4",
+      "headline_uz": "Ko‘pchilik chetga ishlagani ketadi. Halol solishtirdik",
+      "subline_uz": "U yerda boshida ko‘proq. Uyda — oila yoningizda, ko‘nikma o‘sadi",
+      "badge_uz": "Bepul, o‘zbek tilida",
+      "cta_uz": "Bepul mini-kursni boshlash",
+      "cards": [
+        {
+          "n": 1,
+          "title_uz": "U yerda",
+          "text_uz": "Boshida ko‘proq · Minus: patent, ijara, ovqat · Oiladan yillab uzoqda"
+        },
+        {
+          "n": 2,
+          "title_uz": "Uyda",
+          "text_uz": "Boshida kamroq · Mijozlar — shahringizdagi biznes: 8 ta viloyat markazida 784 ta kompaniyani tekshirdik, 718 tasida sayt yo‘q · Ko‘nikma har oy o‘sadi · Oila yoningizda"
+        },
+        {
+          "n": 3,
+          "title_uz": "Ilk qadam — bepul",
+          "text_uz": "Telegramda o‘zbek tilida mini-kurs: 3 ta dars va amaliy dars"
+        }
+      ],
+      "notes_uz": "Третье лицо сохранено («Ko‘pchilik…»): правило Meta о личных признаках. «Уезжают на заработки» → «chetga ishlagani ketadi»; слово «mardikor» не брал — оттенок чернорабочего. Сумм нет, как в оригинале: «Там больше на старте» → «U yerda boshida ko‘proq» без слова «деньги». «Областные города» → «viloyat markazlari». «Первый шаг» → «Ilk qadam», как «ilk qadamni tashlang» в корпусе. Тема чувствительная, в check прямо сказано «Перевод — носитель языка»: этот вариант — черновик для вычитки, не финал."
+    }
+  ]
+}

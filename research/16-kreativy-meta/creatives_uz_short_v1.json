@@ -1,0 +1,138 @@
+{
+  "creatives": [
+    {
+      "id": "I1-1S",
+      "base": "I1-1",
+      "fields_uz": {
+        "headline": "AI orqali oyiga $1000 qanday topiladi?",
+        "cta": "3 ta dars — bepul"
+      },
+      "len": {
+        "ru": 54,
+        "uz": 55
+      },
+      "notes": "headline — финальный I1-1 «2026-yilda AI orqali oyiga barqaror $1000 qanday topiladi?» без «2026-yilda» и «barqaror»: в русском коротком «в 2026 году» и «стабильные» тоже убраны. «Qanday topiladi» («pul topish» = зарабатывать) — живой безличный вопрос, который выбрал редактор вместо кальки «qanday qilib … mumkin». cta — «3 ta dars» и «bepul» из финального «3 ta bepul darsni oling»; глагол убран, как «Получи» в русском. Модель «X — bepul»: «Birinchi dars — bepul!» у King's Academy (https://www.facebook.com/ads/library/?id=815319958117271) и Thompson School_Navoi (https://www.facebook.com/ads/library/?id=962742259511694)."
+    },
+    {
+      "id": "I1-2S",
+      "base": "I1-2",
+      "fields_uz": {
+        "headline": "Masofadan $1000 qanday topiladi?",
+        "subline": "Bepul mini-kurs",
+        "course_name": "«AI: 0 dan $1000 gacha»"
+      },
+      "len": {
+        "ru": 68,
+        "uz": 70
+      },
+      "notes": "headline — запасной вопрос финального I2-1 (alt_uz) «Masofadan $1000 qanday topiladi?», 32 знака, +14%. Основной вариант финала «Masofadan $1000 ga qanday chiqiladi?» — 36 знаков, +29%, по длине не проходит. Потеря та же, что отметил переводчик финала: «topiladi» = «зарабатывается», без оттенка «выйти на уровень». subline — «Bepul mini-kurs», как кнопка M1 в финале. course_name — из финального «AI bilan 0 dan ilk $1000 gacha»: «ilk» убрано вслед за «первой». «AI bilan» стало «AI:», иначе 28 знаков, +40%. «AI: 0 dan $1000 gacha» — 23 знака, ровно +15%. Модель «0 dan … gacha» — как «0 dan 100 gacha» у Myfxbro (https://www.facebook.com/ads/library/?id=1095898190053365)."
+    },
+    {
+      "id": "I2-1S",
+      "base": "I2-1",
+      "fields_uz": {
+        "sticker_title": "Menga savol bering",
+        "question": "Masofadan $1000 qanday topiladi?",
+        "answer": [
+          "AI-mutaxassis kasbini 3 ta darsda egallang"
+        ],
+        "bullets": [
+          "noldan",
+          "sarmoyasiz"
+        ],
+        "price_old": "3 mln so‘m",
+        "price_new": "0 so‘m",
+        "cta": "Oling"
+      },
+      "len": {
+        "ru": 124,
+        "uz": 129
+      },
+      "notes": "sticker_title, price_old, price_new — как в финале. «0 so‘m» на 1 знак длиннее «0 сум» (+20%) — форма задана в ТЗ, короче не бывает. question — запасной вопрос финального I2-1 (alt_uz), тот же, что в I1-2S; безличная форма, так спрашивают в директе. answer — «AI-mutaxassis kasbini egallang» из финала; «за 3 урока» → «3 ta darsda»: окончание -da значит «за такой-то срок», как «3 oydayoq» в финальном I2-4 и «16 ta darsda» у Najot Ta'lim (https://www.facebook.com/ads/library/?id=1826954785397678). «3 ta darsda» стоит прямо перед глаголом — ударное место, как «за 3 урока» в конце русской фразы. bullets — «noldan» («с нуля» без «полного», как в русском коротком; в финале «mutlaqo noldan»), «sarmoyasiz» из финала. cta — «Oling», как кнопка M5 в финале; «Hoziroq» убрано вслед за «сейчас»."
+    },
+    {
+      "id": "I2-2S",
+      "base": "I2-2",
+      "fields_uz": {
+        "sticker_title": "Menga savol bering",
+        "question": "Ota-onamdan pul olaverish jonimga tegdi. Maslahat bering",
+        "answer": [
+          "Onlayn AI-mutaxassis kasbini bo‘sh vaqtingizda egallang"
+        ],
+        "price_old": "3 mln so‘m",
+        "price_new": "0 so‘m",
+        "cta": "Rejani oling"
+      },
+      "len": {
+        "ru": 149,
+        "uz": 157
+      },
+      "notes": "question — первая часть дословно из финала: «Ota-onamdan pul olaverish jonimga tegdi» (живое «достало»). Финальное «Nima maslahat berasiz?» давало 63 знака (+26%), заменено на «Maslahat bering» — 56 знаков, +12%. Смысл тот же: просьба о совете, к блогеру на «siz»; так пишут в директ и в комментариях. answer — из финала: «Onlayn «AI-mutaxassis» kasbini egallang» + «bo‘sh vaqtingizda» из второго ответа. Кавычки сняты, как в русском коротком. «Bo‘sh vaqtingizda» стоит перед глаголом — ударное место, как «— в свободное время» в русском; модель «Bo’sh vaqtingizda onlayn o’rganish» у 7edu (https://www.facebook.com/ads/library/?id=3093712464157730). cta — «Rejani oling» из финального CTA «Kursga ro‘yxatdan o‘tib, qadam-baqadam rejani oling!»."
+    },
+    {
+      "id": "I2-3S",
+      "base": "I2-3",
+      "fields_uz": {
+        "sticker_title": "Menga savol bering",
+        "question": "Kun bo‘yi ishlayman, lekin pulim yetmayapti. Nima qilay?",
+        "answer": [
+          "Vaqtingizni emas, natijani soting",
+          "Qanday qilib — bepul mini-kursda ko‘rsataman"
+        ],
+        "cta": "Kun oxirigacha oling"
+      },
+      "len": {
+        "ru": 155,
+        "uz": 171
+      },
+      "notes": "question — из финала «Kun bo‘yi ishlayman, lekin pulim umuman yetmayapti» без «umuman» (в русском коротком «вообще» убрано). «Что делать?» → «Nima qilay?» — «что мне делать?», живая речь; финальное «Qanday qilib ko‘proq pul topsam bo‘ladi?» отвечало на другой вопрос. answer[0] — из финального «Vaqtingizni emas, tayyor natijani sotishni o‘rganish kerak» → прямой призыв «… natijani soting», как «Продавай» в русском. answer[1] — «mini-kurs» и «ko‘rsataman» из финального «Mini-kurs tayyorladim: unda … qanday chiqishni ko‘rsataman»; «Как —» → «Qanday qilib —» (одно «qanday» по-узбекски скорее «какой»). cta — «kun oxirigacha» из финального ответа «Uni bugun kun oxirigacha bepul sovg‘a qilaman» + «oling»."
+    },
+    {
+      "id": "I2-4S",
+      "base": "I2-4",
+      "fields_uz": {
+        "sticker_title": "Menga savol bering",
+        "question": "Ota-onamdan pul so‘rashga uyalaman",
+        "answer": [
+          "Biznes KO‘P to‘laydigan ko‘nikmani egallang — AI-mutaxassis"
+        ],
+        "price_old": "3 mln so‘m",
+        "price_new": "0 so‘m",
+        "cta": "Kurs bugun bepul"
+      },
+      "len": {
+        "ru": 144,
+        "uz": 143
+      },
+      "notes": "question — первая фраза финала дословно. answer — «Biznes», «KO‘P» капсом и «to‘lash» из финального «Biznes unga KO‘P to‘lashga tayyor»; «ko‘nikma egallash» и «AI-mutaxassis» оттуда же. «За который бизнес платит» → причастие «biznes … to‘laydigan»; тире перед «AI-mutaxassis» — как в русском. cta — «bepul» сказуемым, модель «Ishtirok bepul» у Terms (https://www.facebook.com/ads/library/?id=1844833316887299); «bugun» перед сказуемым — ударное место, как «сегодня» в конце русской фразы."
+    },
+    {
+      "id": "I3-1S",
+      "base": "I3-1",
+      "fields_uz": {
+        "headline": "$1000 ga chiqish rejasi — sovg‘a",
+        "subline": "Kasb: AI-mutaxassis",
+        "cta": "0 so‘mga oling"
+      },
+      "len": {
+        "ru": 72,
+        "uz": 65
+      },
+      "notes": "headline — финальное «Sovg‘a: $1000 ga chiqish rejasi» переставлено под новый русский порядок «План … — в подарок»: «$1000 ga chiqish rejasi — sovg‘a» (так был записан запасной вариант v1). Длина как у русского, 32 знака. Если нужен порядок финала — «Sovg‘a: $1000 ga chiqish rejasi», 31 знак, смысл тот же. subline — из финального «Masofaviy kasb: biznes uchun AI-mutaxassis» → «Kasb: AI-mutaxassis». cta — из финального «Pastdagi havola orqali 0 so‘mga oling» → «0 so‘mga oling»."
+    },
+    {
+      "id": "I3-3S",
+      "base": "I3-3",
+      "fields_uz": {
+        "headline": "Mijoz topa olmayapsizmi?",
+        "subline": "AI-mutaxassis bo‘ling — sayt va bot uchun biznes o‘zi to‘laydi",
+        "cta": "Mini-kurs — bepul"
+      },
+      "len": {
+        "ru": 102,
+        "uz": 103
+      },
+      "notes": "headline — в русском теперь «Не можешь найти», а не «Не умеешь находить», как в I3-3. Поэтому не финальное «topishni bilmaysizmi» («не умеете»), а «topa olmayapsizmi» («не получается найти»). Модель — «Uzum’da pul qila olmayapsizmi?» у Qadam.online (https://www.facebook.com/ads/library/?id=948699484458906) и «ish topa olmayapti» у International Digital University (https://www.facebook.com/ads/library/?id=960551267027834); «Mijoz» — из финального I3-3. subline — «AI-mutaxassis bo‘ling» из финального M6; «бизнес сам платит за…» → «… uchun biznes o‘zi to‘laydi», модель «Yuqori bal uchun maktab o'zi to'laydi» у Mr.Doniyor IELTS (https://www.facebook.com/ads/library/?id=877487781964225); «sayt va bot» — как «sayt va bot yasashni» у Najot Ta'lim (https://www.facebook.com/ads/library/?id=1643097997531754). cta — «Mini-kurs — bepul», модель «Birinchi dars — bepul!» у King's Academy."
+    }
+  ]
+}

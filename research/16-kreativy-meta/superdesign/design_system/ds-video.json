@@ -1,0 +1,6 @@
+{
+  "name": "Видео: уведомления, рукописный ролик, моушн-монтаж",
+  "V2_notifications": {"canvas": [1080, 1920], "fps": 30, "duration_s": 12, "wallpaper": "фото Никиты (ночное) + лёгкое размытие", "clock": {"family": "-apple-system / SF Pro", "weight": 600, "size": 230}, "notification": {"bg": "rgba(245,245,245,.78)", "blur": "backdrop 30px", "radius": 44, "title_weight": 600, "size": 38}, "sound": "синтезированный короткий «дзынь» на каждое уведомление"},
+  "M2_handwriting": {"ref": "refs/video/M2_ot_ruki.mov", "canvas": [[1080, 1350], [1080, 1920]], "paper": "#FBFAF7 с лёгким шумом", "ink": "#151515", "font": {"family": "Caveat", "weights": [500, 700]}, "reveal": "построчно слева направо, ручка едет за буквой", "doodles": "стрелки, подчёркивания, звёздочка, галочки, маркер-выделение розовым в конце", "duration_s": 26},
+  "V1_montage": {"canvas": [1080, 1920], "fps": 30, "duration_s": 18, "style": "быстрые смены сцен каждые 1,2–2 с: зум, сдвиг, глитч; кинетическая типографика Montserrat 900; фото Никиты с эффектом Кена Бернса; макеты сайта, бота и рилса", "palette": {"bg": "#0B0B12", "accent": "#7C5CFF", "accent2": "#21E6C1", "text": "#FFFFFF"}}
+}

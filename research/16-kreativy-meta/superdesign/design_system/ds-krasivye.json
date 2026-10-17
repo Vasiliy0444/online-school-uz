@@ -1,0 +1,21 @@
+{
+  "name": "Красивые дизайны: карусели 1:1",
+  "references": "референсов нет — «красивые сам нарисует»; стиль редакционный, контрастный к остальным типам",
+  "canvas": {"carousel": [1080, 1080]},
+  "colors": {"bg": "#F5F1EA", "ink": "#121212", "muted": "#6B6660", "accent": "#5B3CFF", "accent_2": "#21E6C1", "line": "rgba(18,18,18,.12)", "highlight_card_bg": "#5B3CFF", "highlight_card_ink": "#FFFFFF"},
+  "typography": {
+    "hook": {"family": "Montserrat", "weight": 900, "size": 92, "lineHeight": 1.02, "letterSpacing": "-0.02em"},
+    "title": {"family": "Montserrat", "weight": 800, "size": 70, "lineHeight": 1.06},
+    "row_label": {"family": "Inter", "weight": 700, "size": 30, "transform": "uppercase", "letterSpacing": ".08em", "color": "#6B6660"},
+    "row_value": {"family": "Inter", "weight": 600, "size": 44, "lineHeight": 1.2},
+    "badge": {"family": "Inter", "weight": 700, "size": 30, "bg": "#121212", "color": "#F5F1EA", "radius": 999},
+    "number": {"family": "Montserrat", "weight": 900, "size": 220, "style": "контур 3px, цвет линии #121212 при 12% заливки"}
+  },
+  "components": {
+    "cover": "крупный хук слева, снизу справа вырезанный Никита с мягкой тенью, бейдж сверху",
+    "row_card": "номер карточки контуром, заголовок, строки «метка — значение» через тонкие разделители",
+    "highlight_card": "та же сетка, фон фиолетовый, текст белый",
+    "cta_card": "кнопка-пилюля #5B3CFF, Никита справа, стрелка «листай/жми»",
+    "pager": "точки пагинации внизу, активная — #5B3CFF"
+  }
+}

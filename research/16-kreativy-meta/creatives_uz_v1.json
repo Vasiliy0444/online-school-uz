@@ -1,0 +1,1653 @@
+{
+  "about": "Узбекская версия (латиница) текстов креативов из creatives_ru.json, v1, 11.10.2026. fields_uz — те же ключи, что fields_ru. alt_uz — короткий или дословный запасной вариант там, где основной не влез в +20% или пришлось перестроить фразу. Орфография: o‘ и g‘ — знак ‘ (U+2018), тутук — ’ (U+2019); слов с тутуком в текстах креативов не оказалось. Обращение — «siz» везде. Цитаты в glossary и address_form — дословно из корпуса, со своими апострофами. Перевод сделан ИИ (Claude) по корпусу конкурентов; перед запуском рекламы — вычитка носителем языка. Если текст набирается капсом, ‘ сохраняется: SOVG‘A, O‘RGANING. Совместимо с build.py и video.py (ключи fields_uz, video_extra_uz; «so‘m» с U+2018 ловится их подсветкой сумм), но рендер читает файл creatives_uz.json — после вычитки сохранить копию под этим именем.",
+  "source": {
+    "ru": "creatives_ru.json",
+    "corpus": "00-сырьё/uz-korpus-konkurentov.txt (220 объявлений)"
+  },
+  "address_form": {
+    "choice": "siz",
+    "why": "В корпусе обращение на «siz» — норма рекламы. Из 220 объявлений 205 написаны только на «siz», целиком на «sen» — 0. «sen» встречается в 4 объявлениях, и каждый раз как вкрапление внутри текста на «siz» (см. sen_cases). В нашей нише (ИИ, заработок, фриланс/IT, монтаж, SMM — 114 объявлений): 102 на «siz», 0 на «sen», 3 смешанных, 9 без маркеров. Вежливые призывы на -ing/-ng: 353, голые призывы на «sen»: 1 («kutib ol!»).",
+    "counts": {
+      "ads_total": 220,
+      "all_ads": {
+        "siz_only": 205,
+        "sen_only": 0,
+        "mixed": 4,
+        "no_marker": 11
+      },
+      "niche_ads": {
+        "siz_only": 102,
+        "sen_only": 0,
+        "mixed": 3,
+        "no_marker": 9,
+        "total": 114
+      },
+      "imperatives_siz_ing": 353,
+      "imperatives_sen_bare": 1,
+      "pairs_siz_vs_sen": {
+        "ro‘yxatdan o‘ting — ro‘yxatdan o‘t": "63 — 0",
+        "oling — ol": "26 — 1",
+        "bosing — bos": "25 — 0",
+        "местоимение siz* — sen*": "254 — 1"
+      }
+    },
+    "sen_cases": [
+      {
+        "quote": "Roadshow’ni kutib ol!",
+        "advertiser": "Школа цифровых технологий School 21",
+        "url": "https://www.facebook.com/ads/library/?id=1538371024990752",
+        "comment": "«sen» к городу Навои как к другу, дальше в тексте «siz»"
+      },
+      {
+        "quote": "o‘zingni rivojlantirmoqchimisiz",
+        "advertiser": "Bio Med Academy",
+        "url": "https://www.facebook.com/ads/library/?id=2203123063647729",
+        "comment": "«o‘zingni» (sen) приклеено к глаголу на «siz» — оговорка"
+      },
+      {
+        "quote": "o’tirsang, vaqting zoe ketadi",
+        "advertiser": "DATA learning centre",
+        "url": "https://www.facebook.com/ads/library/?id=3106990886163960",
+        "comment": "цитата поговорки в кавычках, сам текст на «siz»"
+      },
+      {
+        "quote": "Bu kasb senga nafaqat",
+        "advertiser": "Pm.rob1ya",
+        "url": "https://www.facebook.com/ads/library/?id=917757490638929",
+        "comment": "одна фраза на «sen» в тексте на «siz»"
+      }
+    ],
+    "question_field": "В поле question подписчик говорит о себе в 1-м лице, а к блогеру обращается на «siz» («Nima maslahat berasiz?»): эксперту-блогеру в Узбекистане пишут на «вы».",
+    "note": "Проверено скриптом: «sen»-маркеры искались по местоимениям, окончаниям -san/-sang и голым призывам; ложные срабатывания (TREYDING, Hasan, «top mutaxassis») исключены вручную."
+  },
+  "glossary": [
+    {
+      "ru": "ИИ / AI",
+      "uz": "AI",
+      "corpus_freq": "AI — 58 упоминаний в 38 объявлениях; sun’iy intellekt (все написания) — 45 упоминаний в 33 объявлениях; SI — 5 упоминаний в 1 объявлении",
+      "examples": [
+        {
+          "quote": "AI orqali daromad qilish mumkin",
+          "advertiser": "Shahlo.alikhanova",
+          "url": "https://www.facebook.com/ads/library/?id=2266546904194108"
+        },
+        {
+          "quote": "AI bilan ishlashni o'rganasiz",
+          "advertiser": "Najot Ta'lim",
+          "url": "https://www.facebook.com/ads/library/?id=1826954785397678"
+        }
+      ],
+      "note": "AI чаще, чем sun’iy intellekt, и короче (2 знака против 16) — для текста на картинке решает. SI отброшено: встречается только у Skillbox (перевод российской компании)."
+    },
+    {
+      "ru": "заработать на ИИ",
+      "uz": "AI orqali pul ishlash",
+      "corpus_freq": "«AI orqali» — 3 упоминания в 3 объявлениях; «sun’iy intellekt orqali/yordamida» — 18 упоминаний в 16 объявлениях",
+      "examples": [
+        {
+          "quote": "Sun'iy Intellekt Orqali Daromad Qilish Mumkin",
+          "advertiser": "Shahlo.alikhanova",
+          "url": "https://www.facebook.com/ads/library/?id=2266546904194108"
+        },
+        {
+          "quote": "Sun'iy intellekt + YouTube orqali",
+          "advertiser": "Agancy Meta Ads",
+          "url": "https://www.facebook.com/ads/library/?id=1081982550861819"
+        }
+      ]
+    },
+    {
+      "ru": "с помощью ИИ",
+      "uz": "AI yordamida",
+      "corpus_freq": "4 упоминания в 4 объявлениях",
+      "examples": [
+        {
+          "quote": "AI yordamida kontent yaratish",
+          "advertiser": "Qadam.online",
+          "url": "https://www.facebook.com/ads/library/?id=3151275158402902"
+        },
+        {
+          "quote": "AI yordamida real natijaga",
+          "advertiser": "Proweb - It o’quv markazi",
+          "url": "https://www.facebook.com/ads/library/?id=1314366757175507"
+        }
+      ]
+    },
+    {
+      "ru": "AI-специалист / ИИ-специалист / специалист по AI",
+      "uz": "AI-mutaxassis; профессия — AI-mutaxassis kasbi",
+      "corpus_freq": "«AI-mutaxassis» в корпусе — 0; mutaxassis* — 38 упоминаний в 31 объявлении",
+      "examples": [
+        {
+          "quote": "eng istiqbolli kasb — AI-dasturchi",
+          "advertiser": "Proweb - It o’quv markazi",
+          "url": "https://www.facebook.com/ads/library/?id=27651369317875968"
+        },
+        {
+          "quote": "3 oyda SMM mutaxassisi bo‘lib",
+          "advertiser": "Space Academy",
+          "url": "https://www.facebook.com/ads/library/?id=2852417701795009"
+        },
+        {
+          "quote": "Data Analyst kasbi",
+          "advertiser": "MAAB Academy",
+          "url": "https://www.facebook.com/ads/library/?id=1972455443721632"
+        }
+      ],
+      "note": "Собрано по модели AI-dasturchi (Proweb): аббревиатура + дефис + профессия; «X kasbi» — как Data Analyst kasbi. Если носитель на вычитке предпочтёт изафет — «AI mutaxassisi» (как SMM mutaxassisi), менять везде разом."
+    },
+    {
+      "ru": "мини-курс",
+      "uz": "mini-kurs",
+      "corpus_freq": "«mini-kurs» в корпусе — 0; «bepul dars» — 31 упоминание в 29 объявлениях",
+      "examples": [
+        {
+          "quote": "Mini ilova (Mini App)",
+          "advertiser": "Telegrambot xizmatlari",
+          "url": "https://www.facebook.com/ads/library/?id=879542731403406"
+        },
+        {
+          "quote": "Birinchi bepul darsda qatnashish",
+          "advertiser": "Sfera academy",
+          "url": "https://www.facebook.com/ads/library/?id=1092976069799567"
+        }
+      ],
+      "note": "Слова нет у конкурентов (они пишут «bepul dars», «bepul ochiq dars»), но приставка mini- им знакома, а «mini-kurs» понятен без перевода. Оставлено по ТЗ."
+    },
+    {
+      "ru": "урок / 3 урока",
+      "uz": "dars / 3 ta dars",
+      "corpus_freq": "5 упоминаний в 4 объявлениях",
+      "examples": [
+        {
+          "quote": "16 ta dars",
+          "advertiser": "interno.school.uz",
+          "url": "https://www.facebook.com/ads/library/?id=2907418496275290"
+        }
+      ]
+    },
+    {
+      "ru": "бесплатно / бесплатный; абсолютно бесплатно; БЕСПЛАТНО; без оплаты",
+      "uz": "bepul; mutlaqo bepul; BEPUL; to‘lovsiz",
+      "corpus_freq": "bepul — 159 упоминаний в 124 объявлениях; mutlaqo bepul — 13 упоминаний в 12 объявлениях; tekin — 1 упоминание в 1 объявлении",
+      "examples": [
+        {
+          "quote": "online va mutlaqo bepul o‘rgatiladi",
+          "advertiser": "SMM AI Savodxon",
+          "url": "https://www.facebook.com/ads/library/?id=2161315614777262"
+        },
+        {
+          "quote": "Masterklassda qatnashish BEPUL",
+          "advertiser": "Agancy Meta Ads",
+          "url": "https://www.facebook.com/ads/library/?id=1081982550861819"
+        }
+      ],
+      "note": "«Без оплаты» (M7) → to‘lovsiz, чтобы не повторять BEPUL с соседней плашки."
+    },
+    {
+      "ru": "Telegram / в Telegram",
+      "uz": "Telegram / Telegramda (суффикс слитно)",
+      "corpus_freq": "47 упоминаний в 38 объявлениях",
+      "examples": [
+        {
+          "quote": "vebinar havolasi Telegram kanalimizda",
+          "advertiser": "Shahlo.alikhanova",
+          "url": "https://www.facebook.com/ads/library/?id=1632092101784848"
+        },
+        {
+          "quote": "Telegramdan murojaat",
+          "advertiser": "Worknet Xususiy bandlik agentligi",
+          "url": "https://www.facebook.com/ads/library/?id=2041172516603521"
+        }
+      ],
+      "note": "Слитно чаще, чем через апостроф (Telegram’dan), и не путается с тутуком."
+    },
+    {
+      "ru": "регистрируйся",
+      "uz": "ro‘yxatdan o‘ting",
+      "corpus_freq": "63 упоминания в 62 объявлениях; «ro‘yxatdan o‘t» — 0",
+      "examples": [
+        {
+          "quote": "pastdagi havola orqali ro`yxatdan o`ting!",
+          "advertiser": "Sfera academy",
+          "url": "https://www.facebook.com/ads/library/?id=1092976069799567"
+        }
+      ]
+    },
+    {
+      "ru": "получи / забирай",
+      "uz": "oling",
+      "corpus_freq": "26 упоминаний в 23 объявлениях; голое «ol» — 1",
+      "examples": [
+        {
+          "quote": "Bepul qo'llanma va qisqa testni oling",
+          "advertiser": "Uzecom",
+          "url": "https://www.facebook.com/ads/library/?id=1408807217279383"
+        },
+        {
+          "quote": "bepul konsultatsiya oling",
+          "advertiser": "Ilmtown",
+          "url": "https://www.facebook.com/ads/library/?id=2527935354345626"
+        }
+      ]
+    },
+    {
+      "ru": "нажимай / кликай; кнопка",
+      "uz": "bosing; tugma",
+      "corpus_freq": "19 упоминаний в 19 объявлениях",
+      "examples": [
+        {
+          "quote": "Pastdagi tugmani bosing va hoziroq tomosha qiling",
+          "advertiser": "Shahlo.alikhanova",
+          "url": "https://www.facebook.com/ads/library/?id=2266546904194108"
+        }
+      ]
+    },
+    {
+      "ru": "зарабатывать; заработок / доход",
+      "uz": "pul ishlash (с суммой — «$1000 ishlash»); daromad",
+      "corpus_freq": "pul ishlash — 8 упоминаний в 7 объявлениях; pul topish — 6 упоминаний в 5 объявлениях; daromad qilish — 24 упоминания в 17 объявлениях; daromad topish — 15 упоминаний в 12 объявлениях",
+      "examples": [
+        {
+          "quote": "Internetda pul ishlashning qonuniy usuli",
+          "advertiser": "Uznetix",
+          "url": "https://www.facebook.com/ads/library/?id=1687841545835931"
+        },
+        {
+          "quote": "undan pul ishlamayapsizmi?",
+          "advertiser": "Space Academy",
+          "url": "https://www.facebook.com/ads/library/?id=1053401327099594"
+        }
+      ],
+      "note": "«daromad qilish» у школ встречается чаще, но «pul ishlash» живее для 18–30, короче на 3 знака и сочетается с суммой («$1000 ishlash»). Существительное «заработок/доход» — daromad."
+    },
+    {
+      "ru": "выйти на $1000 (в месяц)",
+      "uz": "(oyiga) $1000 ga chiqish; с существительным — $1000 daromadga chiqish",
+      "corpus_freq": "4 упоминания в 4 объявлениях",
+      "examples": [
+        {
+          "quote": "oyiga 1000$ daromadga chiqish",
+          "advertiser": "Agancy Meta Ads",
+          "url": "https://www.facebook.com/ads/library/?id=1081982550861819"
+        },
+        {
+          "quote": "qisqa muddatda daromadga chiqing",
+          "advertiser": "Chocoberry zara",
+          "url": "https://www.facebook.com/ads/library/?id=3081718902024163"
+        }
+      ]
+    },
+    {
+      "ru": "первые $1000",
+      "uz": "ilk $1000",
+      "corpus_freq": "7 упоминаний в 7 объявлениях",
+      "examples": [
+        {
+          "quote": "Birinchi qadamdan ilk daromadgacha",
+          "advertiser": "Ipak Yuli Bank",
+          "url": "https://www.facebook.com/ads/library/?id=1572641257652554"
+        }
+      ]
+    },
+    {
+      "ru": "от $1000",
+      "uz": "$1000+",
+      "corpus_freq": "1 упоминание в 1 объявлении",
+      "examples": [
+        {
+          "quote": "oyiga $1000+ daromad topish",
+          "advertiser": "Shams Mobilografiya kursi",
+          "url": "https://www.facebook.com/ads/library/?id=1029504626808011"
+        }
+      ],
+      "note": "«$1000 dan ko‘p» значило бы «больше 1000» — это усиление обещания."
+    },
+    {
+      "ru": "суффикс после суммы ($1000 ga, $200 ga, $100 dan)",
+      "uz": "через пробел",
+      "corpus_freq": "16 упоминаний в 13 объявлениях",
+      "examples": [
+        {
+          "quote": "$1.000 gacha pul mukofotlari",
+          "advertiser": "Registon Kokand",
+          "url": "https://www.facebook.com/ads/library/?id=1610900763774598"
+        },
+        {
+          "quote": "oyiga $500–$2000 gacha",
+          "advertiser": "Qadam.online",
+          "url": "https://www.facebook.com/ads/library/?id=3151275158402902"
+        }
+      ]
+    },
+    {
+      "ru": "стабильные",
+      "uz": "barqaror",
+      "corpus_freq": "barqaror — 7 упоминаний в 7 объявлениях; stabil — 2 упоминания в 2 объявлениях",
+      "examples": [
+        {
+          "quote": "barqaror daromad",
+          "advertiser": "MAAB Academy",
+          "url": "https://www.facebook.com/ads/library/?id=1972455443721632"
+        }
+      ]
+    },
+    {
+      "ru": "удалённо; удалённая профессия",
+      "uz": "masofadan; masofaviy kasb",
+      "corpus_freq": "masofadan/masofaviy — 8 упоминаний в 6 объявлениях; uydan turib — 10 упоминаний в 9 объявлениях",
+      "examples": [
+        {
+          "quote": "masofadan ishlash mumkin",
+          "advertiser": "SMM AI Savodxon",
+          "url": "https://www.facebook.com/ads/library/?id=1087852237028847"
+        },
+        {
+          "quote": "100% masofaviy ish",
+          "advertiser": "Onlayn Ish",
+          "url": "https://www.facebook.com/ads/library/?id=1241948574791090"
+        }
+      ],
+      "note": "«uydan turib» встречается чаще, но значит «из дома» — уже, чем «удалённо»."
+    },
+    {
+      "ru": "онлайн-профессия",
+      "uz": "onlayn kasb (onlayn AI-mutaxassis kasbi)",
+      "corpus_freq": "63 упоминания в 48 объявлениях",
+      "examples": [
+        {
+          "quote": "bepul onlayn vebinar",
+          "advertiser": "Shahlo.alikhanova",
+          "url": "https://www.facebook.com/ads/library/?id=1632092101784848"
+        }
+      ],
+      "note": "Пишем onlayn — официальная орфография; online у конкурентов тоже есть."
+    },
+    {
+      "ru": "с полного нуля; с 0 до …",
+      "uz": "mutlaqo noldan; 0 dan … gacha",
+      "corpus_freq": "51 упоминание в 41 объявлении",
+      "examples": [
+        {
+          "quote": "Noldan - ishonchli mutaxassis darajasigacha",
+          "advertiser": "(без имени)",
+          "url": "https://www.facebook.com/ads/library/?id=1931311357559524"
+        },
+        {
+          "quote": "0 dan 100 gacha",
+          "advertiser": "Myfxbro",
+          "url": "https://www.facebook.com/ads/library/?id=1095898190053365"
+        }
+      ]
+    },
+    {
+      "ru": "без вложений",
+      "uz": "sarmoyasiz",
+      "corpus_freq": "3 упоминания в 3 объявлениях",
+      "examples": [
+        {
+          "quote": "Sarmoyasiz daromad",
+          "advertiser": "Uzum Tezkor",
+          "url": "https://www.facebook.com/ads/library/?id=2251243329051126"
+        },
+        {
+          "quote": "Boshlash uchun sarmoya kerak emas",
+          "advertiser": "Uzum Tezkor",
+          "url": "https://www.facebook.com/ads/library/?id=1108071958545358"
+        }
+      ]
+    },
+    {
+      "ru": "без знания программирования",
+      "uz": "dasturlashni bilmasdan",
+      "corpus_freq": "«dasturlashni bilmasdan» — 0; kodsiz / kod yozmasdan — 2 упоминания в 2 объявлениях",
+      "examples": [
+        {
+          "quote": "kod yozmasdan ilova yaratishni",
+          "advertiser": "Proweb - It o’quv markazi",
+          "url": "https://www.facebook.com/ads/library/?id=27651369317875968"
+        },
+        {
+          "quote": "kodsiz va tajribasiz",
+          "advertiser": "interno.school.uz",
+          "url": "https://www.facebook.com/ads/library/?id=2907418496275290"
+        }
+      ],
+      "note": "В оригинале речь о знаниях, а «kod yozmasdan» — «не написав код». Если нужно короче — kodsiz (6 знаков)."
+    },
+    {
+      "ru": "сегодня до конца дня; только сегодня; до 23:59",
+      "uz": "bugun kun oxirigacha; faqat bugun; soat 23:59 gacha",
+      "corpus_freq": "«kun oxirigacha» — 0; дедлайн через -gacha — 2 упоминания в 2 объявлениях",
+      "examples": [
+        {
+          "quote": "30-sentabrgacha ro‘yxatdan o‘ting",
+          "advertiser": "Yandex Uzbekistan",
+          "url": "https://www.facebook.com/ads/library/?id=1789515499030176"
+        },
+        {
+          "quote": "Faqat 7-sentabrgacha",
+          "advertiser": "Irodahoca",
+          "url": "https://www.facebook.com/ads/library/?id=942596058894578"
+        },
+        {
+          "quote": "soat 20:30",
+          "advertiser": "Shahlo.alikhanova",
+          "url": "https://www.facebook.com/ads/library/?id=1632092101784848"
+        }
+      ],
+      "note": "Своего «до конца дня» в корпусе нет; взята литературная норма и модель дедлайна «-gacha» из корпуса."
+    },
+    {
+      "ru": "сум; млн; 0 сум вместо 3 млн",
+      "uz": "so‘m; mln; 3 mln o‘rniga 0 so‘m",
+      "corpus_freq": "so‘m — 35 упоминаний в 23 объявлениях; mln — 8 упоминаний в 6 объявлениях",
+      "examples": [
+        {
+          "quote": "1 mln 200 ming so'mlik chegirma",
+          "advertiser": "Najot Ta'lim",
+          "url": "https://www.facebook.com/ads/library/?id=1379707713766932"
+        },
+        {
+          "quote": "iPhone oʻrniga",
+          "advertiser": "Hirex",
+          "url": "https://www.facebook.com/ads/library/?id=1392576396388893"
+        }
+      ]
+    },
+    {
+      "ru": "сейчас",
+      "uz": "hoziroq",
+      "corpus_freq": "58 упоминаний в 57 объявлениях",
+      "examples": [
+        {
+          "quote": "hoziroq pastdagi havola orqali",
+          "advertiser": "Sfera academy",
+          "url": "https://www.facebook.com/ads/library/?id=1092976069799567"
+        }
+      ]
+    },
+    {
+      "ru": "по ссылке (ниже)",
+      "uz": "(pastdagi) havola orqali; havolada",
+      "corpus_freq": "29 упоминаний в 29 объявлениях",
+      "examples": [
+        {
+          "quote": "quyidagi havola orqali ro'yxatdan o'ting",
+          "advertiser": "Najot Ta'lim",
+          "url": "https://www.facebook.com/ads/library/?id=1826954785397678"
+        }
+      ]
+    },
+    {
+      "ru": "дарю / дарим",
+      "uz": "sovg‘a qilaman / sovg‘a qilamiz",
+      "corpus_freq": "9 упоминаний в 8 объявлениях",
+      "examples": [
+        {
+          "quote": "chek-list sovg'a",
+          "advertiser": "Interno Management School",
+          "url": "https://www.facebook.com/ads/library/?id=27676140485373532"
+        },
+        {
+          "quote": "yangi imkoniyat sovg‘a qiling",
+          "advertiser": "Yulduz vizajist",
+          "url": "https://www.facebook.com/ads/library/?id=1774066900681935"
+        }
+      ]
+    },
+    {
+      "ru": "освоить профессию",
+      "uz": "kasbini egallash",
+      "corpus_freq": "8 упоминаний в 6 объявлениях",
+      "examples": [
+        {
+          "quote": "Zamonaviy kasblarni egallab",
+          "advertiser": "Sam It Global",
+          "url": "https://www.facebook.com/ads/library/?id=1700300877712612"
+        },
+        {
+          "quote": "talabgir kasbni egallashni",
+          "advertiser": "Sharqyulduzi",
+          "url": "https://www.facebook.com/ads/library/?id=1091209530026836"
+        }
+      ]
+    },
+    {
+      "ru": "востребованный навык",
+      "uz": "talabgir ko‘nikma",
+      "corpus_freq": "15 упоминаний в 14 объявлениях",
+      "examples": [
+        {
+          "quote": "eng talabgir ko‘nikmalardan biridir",
+          "advertiser": "Skillbox Узбекистан",
+          "url": "https://www.facebook.com/ads/library/?id=28394826766870262"
+        }
+      ]
+    },
+    {
+      "ru": "рилс",
+      "uz": "Reels",
+      "corpus_freq": "6 упоминаний в 5 объявлениях",
+      "examples": [
+        {
+          "quote": "Reels va sotuvchi kontent yaratish",
+          "advertiser": "Space Academy",
+          "url": "https://www.facebook.com/ads/library/?id=1053401327099594"
+        }
+      ]
+    },
+    {
+      "ru": "создавать сайты, ботов; контент",
+      "uz": "sayt, bot yasash; kontent / Reels yaratish",
+      "corpus_freq": "10 упоминаний в 9 объявлениях",
+      "examples": [
+        {
+          "quote": "sayt va bot yasashni",
+          "advertiser": "Najot Ta'lim",
+          "url": "https://www.facebook.com/ads/library/?id=1643097997531754"
+        },
+        {
+          "quote": "sayt va botlar yaratyapti",
+          "advertiser": "interno.school.uz",
+          "url": "https://www.facebook.com/ads/library/?id=2907418496275290"
+        }
+      ]
+    },
+    {
+      "ru": "пошаговый",
+      "uz": "qadam-baqadam",
+      "corpus_freq": "2 упоминания в 2 объявлениях",
+      "examples": [
+        {
+          "quote": "qadam-baqadam ko'rsatma",
+          "advertiser": "Uzecom",
+          "url": "https://www.facebook.com/ads/library/?id=1408807217279383"
+        }
+      ]
+    },
+    {
+      "ru": "Хочешь …?",
+      "uz": "…ni xohlaysizmi?",
+      "corpus_freq": "24 упоминания в 23 объявлениях",
+      "examples": [
+        {
+          "quote": "qo‘shimcha daromad qilishni xohlaysizmi?",
+          "advertiser": "Qadam.online",
+          "url": "https://www.facebook.com/ads/library/?id=3151275158402902"
+        }
+      ]
+    },
+    {
+      "ru": "клиент",
+      "uz": "mijoz",
+      "corpus_freq": "36 упоминаний в 24 объявлениях",
+      "examples": [
+        {
+          "quote": "mijoz topib, daromad qilyapti",
+          "advertiser": "DATA learning centre",
+          "url": "https://www.facebook.com/ads/library/?id=3106990886163960"
+        }
+      ]
+    },
+    {
+      "ru": "ролик",
+      "uz": "rolik",
+      "corpus_freq": "1 (roligidan); чаще «video»",
+      "examples": [
+        {
+          "quote": "reklama roligidan",
+          "advertiser": "interno.school.uz",
+          "url": "https://www.facebook.com/ads/library/?id=2907418496275290"
+        }
+      ]
+    },
+    {
+      "ru": "Надоело …",
+      "uz": "…averish jonimga tegdi",
+      "corpus_freq": "1 (та же конструкция)",
+      "examples": [
+        {
+          "quote": "hadeb bo'yayverish joningizga tegdimi?",
+          "advertiser": "Antisilverin",
+          "url": "https://www.facebook.com/ads/library/?id=1294160482268902"
+        }
+      ]
+    }
+  ],
+  "m1_options": [
+    {
+      "rank": 1,
+      "white": "O‘rgan",
+      "box": "Ing",
+      "reads_as": "O‘rganing",
+      "box_letters": 3,
+      "why": "Лучший. Белая часть — самостоятельное слово «o‘rgan» («учись»), плашка «Ing» превращает его в вежливое «научитесь». Три буквы в плашке, как «Ись»; разрез по границе корня и окончания — ровно как «Науч|Ись»."
+    },
+    {
+      "rank": 2,
+      "white": "O‘rga",
+      "box": "ning",
+      "reads_as": "O‘rganing",
+      "box_letters": 4,
+      "why": "Плашка из 4 букв, «ning» похоже на родительный падеж — забавно, но белая часть «o‘rga» сама по себе не слово, шутка с логотипом слабее."
+    },
+    {
+      "rank": 3,
+      "white": "O‘zlashtir",
+      "box": "Ing",
+      "reads_as": "O‘zlashtiring",
+      "box_letters": 3,
+      "why": "«Освойте» — смысл тот же, строка ниже не меняется. Минус: белое слово в 10 знаков против 3 в плашке, логотип перекошен."
+    },
+    {
+      "rank": "отброшен",
+      "white": "O‘r",
+      "box": "gan",
+      "reads_as": "O‘rgan",
+      "box_letters": 3,
+      "why": "Лучшая игра слов («учись» на «sen»), но ломает единое обращение «siz» во всех креативах."
+    }
+  ],
+  "creatives": [
+    {
+      "id": "I1-1",
+      "type": "insta_expert",
+      "fields_uz": {
+        "headline": "Qanday qilib 2026-yilda AI orqali oyiga barqaror $1000 daromadga chiqish mumkin?",
+        "cta": "3 ta bepul darsni oling"
+      },
+      "notes_uz": "Вопрос построен по формуле конкурента «Qanday qilib … orqali daromad qilish mumkin?» (Shahlo), «выйти на $1000 в месяц» → «oyiga $1000 daromadga chiqish» — дословно как у Agancy Meta Ads. «Заработать на ИИ» и «выйти на $1000» слиты в одно действие, иначе +40% длины. «Стабильные» → barqaror (в корпусе 7 раз, stabil — 2).",
+      "len_check": {
+        "headline": {
+          "ru": 69,
+          "uz": 80,
+          "diff_pct": 16
+        },
+        "cta": {
+          "ru": 25,
+          "uz": 23,
+          "diff_pct": -8
+        },
+        "over_20pct": []
+      }
+    },
+    {
+      "id": "I1-2",
+      "type": "insta_expert",
+      "fields_uz": {
+        "headline": "Masofaviy ishni qanday boshlash va $1000 ga chiqish mumkin?",
+        "subline": "Bepul mini-kursda bilib oling",
+        "course_name": "«AI bilan 0 dan ilk $1000 gacha»"
+      },
+      "alt_uz": {
+        "headline": "Masofadan pul ishlashni qanday boshlash va $1000 ga chiqish mumkin?"
+      },
+      "alt_len": {
+        "headline": {
+          "ru": 50,
+          "uz": 67,
+          "diff_pct": 34
+        }
+      },
+      "notes_uz": "«Начать зарабатывать удалённо» → «masofaviy ishni boshlash» («начать удалённую работу»): деньги несёт «$1000», а «начать» важно для новичков. Дословный вариант с «pul ishlash» — 67 знаков (+34%), лежит в alt_uz. Название курса: «на AI» → «AI bilan» (в остальных текстах «AI orqali», здесь так короче и звучит как название); «первой» → ilk (как «ilk daromad», «ilk qadam» у конкурентов).",
+      "len_check": {
+        "headline": {
+          "ru": 50,
+          "uz": 59,
+          "diff_pct": 18
+        },
+        "subline": {
+          "ru": 30,
+          "uz": 29,
+          "diff_pct": -3
+        },
+        "course_name": {
+          "ru": 27,
+          "uz": 32,
+          "diff_pct": 19
+        },
+        "over_20pct": []
+      }
+    },
+    {
+      "id": "I1-3",
+      "type": "insta_expert",
+      "fields_uz": {
+        "headline": "Bu saytni X so‘mga sotdim, yasashga 2 kecha ketdi!",
+        "subline": "Siz ham xohlaysizmi?",
+        "cta": "Bepul kursga ro‘yxatdan o‘ting!"
+      },
+      "notes_uz": "Порядок как в оригинале: сначала деньги, потом скорость. «Сделал за 2 вечера» → «yasashga 2 kecha ketdi» (разговорное «ушло 2 вечера»). «Хочешь так же?» → «Siz ham xohlaysizmi?» — короче на «siz» не сказать (+43%, это 6 знаков). «Х сум» осталась заглушкой: X so‘m.",
+      "len_check": {
+        "headline": {
+          "ru": 53,
+          "uz": 50,
+          "diff_pct": -6
+        },
+        "subline": {
+          "ru": 14,
+          "uz": 20,
+          "diff_pct": 43
+        },
+        "cta": {
+          "ru": 33,
+          "uz": 31,
+          "diff_pct": -6
+        },
+        "over_20pct": [
+          "subline"
+        ]
+      }
+    },
+    {
+      "id": "I1-4",
+      "type": "insta_expert",
+      "fields_uz": {
+        "headline": "2026-yilda AI orqali pul ishlashning 5 usuli",
+        "cta": "Bepul darsni Telegramda oling"
+      },
+      "notes_uz": "Структура «pul ishlashning … usuli» — как у Uznetix («Internetda pul ishlashning qonuniy usuli»). Разговорнее «5 ta usuli» — 47 знаков (+21%), можно, если влезает. «В Telegram» → «Telegramda»: суффикс слитно, так чаще в корпусе.",
+      "len_check": {
+        "headline": {
+          "ru": 39,
+          "uz": 44,
+          "diff_pct": 13
+        },
+        "cta": {
+          "ru": 33,
+          "uz": 29,
+          "diff_pct": -12
+        },
+        "over_20pct": []
+      }
+    },
+    {
+      "id": "I2-1",
+      "type": "insta_qa",
+      "fields_uz": {
+        "sticker_title": "Menga savol bering",
+        "question": "Masofadan $1000 ga qanday chiqiladi?",
+        "answer": [
+          "Shunchaki shu 3 ta darsni o‘rganib, AI-mutaxassis kasbini egallang"
+        ],
+        "bullets": [
+          "sarmoyasiz",
+          "dasturlashni bilmasdan",
+          "mutlaqo noldan"
+        ],
+        "price_old": "3 mln so‘m",
+        "price_new": "0 so‘m",
+        "cta": "Hoziroq oling"
+      },
+      "alt_uz": {
+        "question": "Masofadan $1000 qanday topiladi?"
+      },
+      "alt_len": {
+        "question": {
+          "ru": 28,
+          "uz": 32,
+          "diff_pct": 14
+        }
+      },
+      "notes_uz": "Стикер: узбекского интерфейса в Instagram нет, но текст вопросного стикера редактируется — пишем по-узбекски. Вопрос подписчика — безличная форма «…qanday chiqiladi?», так спрашивают в директе; +33% к короткому вопросу неизбежно: в макете стикер уйдёт в 2 строки. Вариант в 32 знака — в alt_uz («topiladi» — «зарабатывается», без оттенка «выйти на уровень»). «Просто изучи… и освой» → деепричастие «o‘rganib, … egallang» вместо «va»: короче и естественнее.",
+      "len_check": {
+        "sticker_title": {
+          "ru": 16,
+          "uz": 18,
+          "diff_pct": 12
+        },
+        "question": {
+          "ru": 28,
+          "uz": 36,
+          "diff_pct": 29
+        },
+        "answer[0]": {
+          "ru": 57,
+          "uz": 66,
+          "diff_pct": 16
+        },
+        "bullets[0]": {
+          "ru": 12,
+          "uz": 10,
+          "diff_pct": -17
+        },
+        "bullets[1]": {
+          "ru": 27,
+          "uz": 22,
+          "diff_pct": -19
+        },
+        "bullets[2]": {
+          "ru": 14,
+          "uz": 14,
+          "diff_pct": 0
+        },
+        "price_old": {
+          "ru": 9,
+          "uz": 10,
+          "diff_pct": 11
+        },
+        "price_new": {
+          "ru": 5,
+          "uz": 6,
+          "diff_pct": 20
+        },
+        "cta": {
+          "ru": 14,
+          "uz": 13,
+          "diff_pct": -7
+        },
+        "over_20pct": [
+          "question"
+        ]
+      }
+    },
+    {
+      "id": "I2-2",
+      "type": "insta_qa",
+      "fields_uz": {
+        "sticker_title": "Menga savol bering",
+        "question": "Ota-onamdan pul olaverish jonimga tegdi, o‘z pulimga yashamoqchiman, lekin vaqtim kam. Nima maslahat berasiz?",
+        "answer": [
+          "Onlayn «AI-mutaxassis» kasbini egallang va sarmoyasiz, dasturlashni bilmasdan pul ishlashni boshlang!",
+          "To‘liq masofadan, bo‘sh vaqtingizda ishlash mumkin"
+        ],
+        "cta": "Kursga ro‘yxatdan o‘tib, qadam-baqadam rejani oling!",
+        "price_old": "3 mln so‘m",
+        "price_new": "0 so‘m"
+      },
+      "notes_uz": "Подписчик: «Надоело брать деньги» → «pul olaverish jonimga tegdi» — живое «достало», та же конструкция «-averish + joniga tegdi» есть в корпусе (Antisilverin). «Хочу начать жить на свои» → «o‘z pulimga yashamoqchiman». «Что посоветуешь?» → «Nima maslahat berasiz?» — блогеру пишут на «siz». «Регистрируйся и получи» → «ro‘yxatdan o‘tib, … oling»: деепричастие экономит «va».",
+      "len_check": {
+        "sticker_title": {
+          "ru": 16,
+          "uz": 18,
+          "diff_pct": 12
+        },
+        "question": {
+          "ru": 93,
+          "uz": 109,
+          "diff_pct": 17
+        },
+        "answer[0]": {
+          "ru": 102,
+          "uz": 101,
+          "diff_pct": -1
+        },
+        "answer[1]": {
+          "ru": 43,
+          "uz": 50,
+          "diff_pct": 16
+        },
+        "cta": {
+          "ru": 46,
+          "uz": 52,
+          "diff_pct": 13
+        },
+        "price_old": {
+          "ru": 9,
+          "uz": 10,
+          "diff_pct": 11
+        },
+        "price_new": {
+          "ru": 5,
+          "uz": 6,
+          "diff_pct": 20
+        },
+        "over_20pct": []
+      }
+    },
+    {
+      "id": "I2-3",
+      "type": "insta_qa",
+      "fields_uz": {
+        "sticker_title": "Menga savol bering",
+        "question": "Kun bo‘yi ishlayman, lekin pulim umuman yetmayapti. Qanday qilib ko‘proq pul topsam bo‘ladi?",
+        "answer": [
+          "Vaqtingizni emas, tayyor natijani sotishni o‘rganish kerak. Shunda kam ishlaysiz, lekin sizga ko‘p to‘lashadi",
+          "Mini-kurs tayyorladim: unda AI-mutaxassis kasbida ilk $1000 ga qanday chiqishni ko‘rsataman",
+          "Uni bugun kun oxirigacha bepul sovg‘a qilaman"
+        ],
+        "cta": "Bosing va oling!"
+      },
+      "notes_uz": "Вопрос: «денег не хватает» → «pulim yetmayapti» (настоящее длительное — «сейчас не хватает»). «Как начать зарабатывать больше» → «qanday qilib ko‘proq pul topsam bo‘ladi» — так пишет подписчик, «начать» по-узбекски тут лишнее. Ответ: «платить будут много» → «sizga ko‘p to‘lashadi» дословно. «Я сделал мини-курс, в котором…» → «Mini-kurs tayyorladim: unda…» — как «BEPUL dars tayyorlab qo‘ydim» у Edupro. «Дарю бесплатно» — оба слова сохранены, как в оригинале.",
+      "len_check": {
+        "sticker_title": {
+          "ru": 16,
+          "uz": 18,
+          "diff_pct": 12
+        },
+        "question": {
+          "ru": 79,
+          "uz": 92,
+          "diff_pct": 16
+        },
+        "answer[0]": {
+          "ru": 111,
+          "uz": 109,
+          "diff_pct": -2
+        },
+        "answer[1]": {
+          "ru": 94,
+          "uz": 91,
+          "diff_pct": -3
+        },
+        "answer[2]": {
+          "ru": 39,
+          "uz": 45,
+          "diff_pct": 15
+        },
+        "cta": {
+          "ru": 18,
+          "uz": 16,
+          "diff_pct": -11
+        },
+        "over_20pct": []
+      }
+    },
+    {
+      "id": "I2-4",
+      "type": "insta_qa",
+      "fields_uz": {
+        "sticker_title": "Menga savol bering",
+        "question": "Ota-onamdan pul so‘rashga uyalaman. Aslida o‘zim ularga yordam berishim kerak-ku... Lekin pulim yetmayapti",
+        "answer": [
+          "Buning uchun talabgir ko‘nikma egallash kerak. Biznes unga KO‘P to‘lashga tayyor",
+          "2026-yilda bu — AI-mutaxassis kasbi. Hozir bu sohada mutlaqo nol bo‘lsangiz ham, 3 oydayoq oyiga $1000 ishlay boshlash mumkin",
+          "Bugun kun oxirigacha kursni mutlaqo bepul sovg‘a qilaman. Tugmani bosing va hoziroq oling"
+        ],
+        "price_old": "3 mln so‘m",
+        "price_new": "0 so‘m"
+      },
+      "notes_uz": "«Вообще уже сам должен им помогать...» → «Aslida o‘zim ularga yordam berishim kerak-ku...»: частица -ku передаёт досаду. В ответе одно предложение разбито на два, чтобы «KO‘P» капсом осталось в конце, как «МНОГО» в оригинале. «Выйти на первые $1000 в месяц уже через 3 месяца» → «3 oydayoq oyiga $1000 ishlay boshlash» («начать зарабатывать $1000 в месяц»): «первые» передано через «boshlash», «mumkin» сохранено, обещание не усилено.",
+      "len_check": {
+        "sticker_title": {
+          "ru": 16,
+          "uz": 18,
+          "diff_pct": 12
+        },
+        "question": {
+          "ru": 91,
+          "uz": 106,
+          "diff_pct": 16
+        },
+        "answer[0]": {
+          "ru": 82,
+          "uz": 80,
+          "diff_pct": -2
+        },
+        "answer[1]": {
+          "ru": 136,
+          "uz": 125,
+          "diff_pct": -8
+        },
+        "answer[2]": {
+          "ru": 86,
+          "uz": 89,
+          "diff_pct": 3
+        },
+        "price_old": {
+          "ru": 9,
+          "uz": 10,
+          "diff_pct": 11
+        },
+        "price_new": {
+          "ru": 5,
+          "uz": 6,
+          "diff_pct": 20
+        },
+        "over_20pct": []
+      }
+    },
+    {
+      "id": "I3-1",
+      "type": "insta_text",
+      "fields_uz": {
+        "headline": "$1000 ga chiqish rejasini sovg‘a qilaman",
+        "subline": "Masofaviy kasb: biznes uchun AI-mutaxassis",
+        "bullets": [
+          "dasturlashni bilmasdan",
+          "mutlaqo noldan",
+          "sarmoyasiz"
+        ],
+        "cta": "Pastdagi havola orqali 0 so‘mga oling"
+      },
+      "alt_uz": {
+        "headline": "$1000 ga chiqish rejasi — sovg‘a"
+      },
+      "alt_len": {
+        "headline": {
+          "ru": 25,
+          "uz": 32,
+          "diff_pct": 28
+        }
+      },
+      "notes_uz": "«Дарю план выхода на $1000» по-узбекски длиннее на 60%: суффиксы «ga chiqish rejasini» не сжать, в макете заголовок станет в 3 строки вместо 2. Короткий вариант в alt_uz — 31 знак (+24%), без «я дарю», но с «подарок». «Удалённая профессия» → «Masofaviy kasb». «За 0 сум» → «0 so‘mga».",
+      "len_check": {
+        "headline": {
+          "ru": 25,
+          "uz": 40,
+          "diff_pct": 60
+        },
+        "subline": {
+          "ru": 49,
+          "uz": 42,
+          "diff_pct": -14
+        },
+        "bullets[0]": {
+          "ru": 27,
+          "uz": 22,
+          "diff_pct": -19
+        },
+        "bullets[1]": {
+          "ru": 14,
+          "uz": 14,
+          "diff_pct": 0
+        },
+        "bullets[2]": {
+          "ru": 12,
+          "uz": 10,
+          "diff_pct": -17
+        },
+        "cta": {
+          "ru": 31,
+          "uz": 37,
+          "diff_pct": 19
+        },
+        "over_20pct": [
+          "headline"
+        ]
+      }
+    },
+    {
+      "id": "I3-2",
+      "type": "insta_text",
+      "fields_uz": {
+        "headline": "Bunday saytni 1 kechada, dasturlashni bilmasdan, faqat AI yordamida yasadim va $200 ga sotdim",
+        "subline": "Siz ham xohlaysizmi?",
+        "cta": "Hoziroq bepul kursga ro‘yxatdan o‘ting"
+      },
+      "notes_uz": "Порядок фактов как в оригинале. «Продал за $200» → «$200 ga sotdim»: суффикс после суммы через пробел, как «$1.000 gacha» у конкурентов. «Сайт сделал» → «yasadim» (sayt yasash — как у Najot Ta’lim).",
+      "len_check": {
+        "headline": {
+          "ru": 97,
+          "uz": 93,
+          "diff_pct": -4
+        },
+        "subline": {
+          "ru": 14,
+          "uz": 20,
+          "diff_pct": 43
+        },
+        "cta": {
+          "ru": 39,
+          "uz": 38,
+          "diff_pct": -3
+        },
+        "over_20pct": [
+          "subline"
+        ]
+      }
+    },
+    {
+      "id": "I3-3",
+      "type": "insta_text",
+      "fields_uz": {
+        "headline": "Mijoz topishni bilmaysizmi va xizmatingizni arzonga sotasizmi?",
+        "subline": "AI-mutaxassis kasbini egallang va 2 oydayoq ilk $1000 ga chiqing",
+        "cta": "Bepul mini-kurs — havolada"
+      },
+      "notes_uz": "«Не умеешь находить» → «topishni bilmaysizmi» (не умеете, а не «не можете»). «Берёшь дёшево за свои услуги» → «xizmatingizni arzonga sotasizmi» — «продаёте услугу дёшево». «Выйди на первые $1000» → «ilk $1000 ga chiqing». «По ссылке» → «havolada».",
+      "len_check": {
+        "headline": {
+          "ru": 59,
+          "uz": 62,
+          "diff_pct": 5
+        },
+        "subline": {
+          "ru": 73,
+          "uz": 64,
+          "diff_pct": -12
+        },
+        "cta": {
+          "ru": 30,
+          "uz": 26,
+          "diff_pct": -13
+        },
+        "over_20pct": []
+      }
+    },
+    {
+      "id": "V1",
+      "type": "video_montage",
+      "fields_uz": {
+        "scenes": [
+          "Bu rolikni AI yaratdi",
+          "Bunaqasini mijozlarga $100 dan sotamiz",
+          "Dizayn, montaj va dasturlashni bilmasdan qilamiz",
+          "Bitta rolikka — ikki soatcha",
+          "Siz ham onlayn AI-mutaxassis kasbini egallab, $1000 ga chiqmoqchimisiz?"
+        ],
+        "bullets": [
+          "mutlaqo noldan",
+          "dasturlashni bilmasdan",
+          "sarmoyasiz"
+        ],
+        "cta_scenes": [
+          "Pastdagi tugmani bosing va bepul kursni ko‘ring",
+          "Kun oxirigacha olishga ulguring, hozircha bepul. Keyin — 3 mln so‘m",
+          "Bosing"
+        ],
+        "chips": [
+          "dizayn",
+          "montaj",
+          "dasturlash"
+        ],
+        "button": "Bepul ko‘rish",
+        "kw4": [
+          "ikki soatcha"
+        ],
+        "kw5": [
+          "AI-mutaxassis",
+          "$1000"
+        ]
+      },
+      "notes_uz": "«Такие мы продаём по $100» → «Bunaqasini … $100 dan sotamiz»: разговорное bunaqa, «-dan» = «по» за штуку. «Пару часов» → «ikki soatcha» (около двух часов); «bir-ikki soat» значит «час-два» и ускорило бы обещание. «Успей забрать…, пока он бесплатный» → «olishga ulguring, hozircha bepul». «Переходи по кнопке» → «tugmani bosing» — так в 19 объявлениях корпуса. Кнопка «Смотреть бесплатно» → «Bepul ko‘rish» — дословно как у Shahlo («BEPUL KO‘RISH»). kw4/kw5 — точные подстроки сцен 4 и 5: video.py подсвечивает по точному совпадению.",
+      "len_check": {
+        "scenes[0]": {
+          "ru": 20,
+          "uz": 21,
+          "diff_pct": 5
+        },
+        "scenes[1]": {
+          "ru": 33,
+          "uz": 38,
+          "diff_pct": 15
+        },
+        "scenes[2]": {
+          "ru": 55,
+          "uz": 48,
+          "diff_pct": -13
+        },
+        "scenes[3]": {
+          "ru": 26,
+          "uz": 28,
+          "diff_pct": 8
+        },
+        "scenes[4]": {
+          "ru": 69,
+          "uz": 71,
+          "diff_pct": 3
+        },
+        "bullets[0]": {
+          "ru": 14,
+          "uz": 14,
+          "diff_pct": 0
+        },
+        "bullets[1]": {
+          "ru": 27,
+          "uz": 22,
+          "diff_pct": -19
+        },
+        "bullets[2]": {
+          "ru": 12,
+          "uz": 10,
+          "diff_pct": -17
+        },
+        "cta_scenes[0]": {
+          "ru": 48,
+          "uz": 47,
+          "diff_pct": -2
+        },
+        "cta_scenes[1]": {
+          "ru": 65,
+          "uz": 67,
+          "diff_pct": 3
+        },
+        "cta_scenes[2]": {
+          "ru": 6,
+          "uz": 6,
+          "diff_pct": 0
+        },
+        "chips[0]": {
+          "ru": 6,
+          "uz": 6,
+          "diff_pct": 0
+        },
+        "chips[1]": {
+          "ru": 6,
+          "uz": 6,
+          "diff_pct": 0
+        },
+        "chips[2]": {
+          "ru": 16,
+          "uz": 10,
+          "diff_pct": -38
+        },
+        "button": {
+          "ru": 18,
+          "uz": 13,
+          "diff_pct": -28
+        },
+        "over_20pct": []
+      }
+    },
+    {
+      "id": "V2",
+      "type": "video_notifications",
+      "fields_uz": {
+        "notif_bank": "Karta to‘ldirildi: +2 540 000 so‘m",
+        "notif_client": "Ertaga $350 o‘tkazamiz. Sayt zo‘r chiqibdi, rahmat!",
+        "notif_tg": "Menga sizni tavsiya qilishdi: bot yasashni bilar ekansiz. Yordam bera olasizmi?",
+        "caption": "AI-mutaxassis kasbini egallang va pul ishlashni boshlang",
+        "cta": "Bepul kurs — pastdagi havolada"
+      },
+      "video_extra_uz": {
+        "notif_bank_title": "Uzum Bank",
+        "notif_client_title": "Dilshod (mijoz)",
+        "notif_tg_title": "Sardor",
+        "date": "Yakshanba, 11-oktabr",
+        "now": "hozir"
+      },
+      "alt_uz": {
+        "notif_bank": "Kirim: +2 540 000 so‘m"
+      },
+      "alt_len": {
+        "notif_bank": {
+          "ru": 32,
+          "uz": 22,
+          "diff_pct": -31
+        }
+      },
+      "notes_uz": "Банк: «Пополнение карты» → «Karta to‘ldirildi» — «to‘ldirish» в узбекских финприложениях значит «пополнение» (точную строку Uzum Bank не проверял). Короче — «Kirim» («приход») в alt_uz. Клиент: «Сайт отличный» → «Sayt zo‘r chiqibdi» — «классно получился». Telegram: «говорят, вы умеете» → «bilar ekansiz» — узбекская форма пересказа -ekan заменяет «говорят». «Собирать ботов» → «bot yasash» (Najot Ta’lim), а не калька «yig‘ish». video_extra_uz: дата в узбекском порядке, 11.10.2026 — воскресенье (yakshanba), «oktabr» по официальной орфографии; «сейчас» → «hozir».",
+      "len_check": {
+        "notif_bank": {
+          "ru": 32,
+          "uz": 34,
+          "diff_pct": 6
+        },
+        "notif_client": {
+          "ru": 46,
+          "uz": 51,
+          "diff_pct": 11
+        },
+        "notif_tg": {
+          "ru": 75,
+          "uz": 79,
+          "diff_pct": 5
+        },
+        "caption": {
+          "ru": 51,
+          "uz": 56,
+          "diff_pct": 10
+        },
+        "cta": {
+          "ru": 30,
+          "uz": 30,
+          "diff_pct": 0
+        },
+        "over_20pct": []
+      }
+    },
+    {
+      "id": "M1",
+      "type": "meme",
+      "fields_uz": {
+        "logo_word_white": "O‘rgan",
+        "logo_word_box": "Ing",
+        "line1": "AI yordamida sayt, bot va Reels yaratishni.",
+        "line2": "Bunga pul to‘lashadi.",
+        "cta": "Bepul mini-kurs"
+      },
+      "alt_uz": {
+        "line2": "Bu pul qiladi."
+      },
+      "alt_len": {
+        "line2": {
+          "ru": 14,
+          "uz": 14,
+          "diff_pct": 0
+        }
+      },
+      "notes_uz": "Логотип «O‘rgan|Ing» = «O‘rganing» («научитесь»), варианты — в m1_options. Порядок слов инвертирован: глагол-логотип сверху, дополнение «…yaratishni» ниже — для слогана это норма. «Рилс» → «Reels», как пишут конкуренты. «За это платят» → «Bunga pul to‘lashadi» (+50%, но это 7 знаков); короче и хлёстче — «Bu pul qiladi.» («это приносит деньги») в alt_uz.",
+      "len_check": {
+        "logo_word_white": {
+          "ru": 4,
+          "uz": 6,
+          "diff_pct": 50
+        },
+        "logo_word_box": {
+          "ru": 3,
+          "uz": 3,
+          "diff_pct": 0
+        },
+        "line1": {
+          "ru": 43,
+          "uz": 43,
+          "diff_pct": 0
+        },
+        "line2": {
+          "ru": 14,
+          "uz": 21,
+          "diff_pct": 50
+        },
+        "cta": {
+          "ru": 20,
+          "uz": 15,
+          "diff_pct": -25
+        },
+        "over_20pct": [
+          "logo_word_white",
+          "line2"
+        ]
+      }
+    },
+    {
+      "id": "M2",
+      "type": "video_handwriting",
+      "fields_uz": {
+        "lines": [
+          "Bepul mini-kurs sovg‘a qilamiz:",
+          "onlayn AI-mutaxassis kasbini qanday egallash va $1000+ ishlay boshlash mumkin?",
+          "Havola orqali o‘ting va bepul oling",
+          "3 mln o‘rniga 0 so‘m — faqat kun oxirigacha",
+          "Bosing. Nima kutyapsiz?!"
+        ],
+        "blocks": [
+          {
+            "text": "Bepul mini-kurs sovg‘a qilamiz!",
+            "size": 120,
+            "weight": 700,
+            "align": "center",
+            "underline": true,
+            "star": false
+          },
+          {
+            "text": "Onlayn AI-mutaxassis kasbini qanday egallash va $1000+ ishlay boshlash mumkin?",
+            "size": 84,
+            "weight": 600,
+            "gap": 40,
+            "star": true
+          },
+          {
+            "text": "Havola orqali o‘ting va ==bepul== oling",
+            "size": 84,
+            "weight": 600,
+            "gap": 36,
+            "arrow": false
+          },
+          {
+            "text": "~~3 mln so‘m~~ → [[0 so‘m]]",
+            "size": 110,
+            "weight": 700,
+            "gap": 30,
+            "align": "center",
+            "nowrap": true
+          },
+          {
+            "text": "faqat kun oxirigacha!",
+            "size": 84,
+            "weight": 600,
+            "align": "center"
+          },
+          {
+            "text": "Bosing! Nima kutyapsiz?",
+            "size": 100,
+            "weight": 700,
+            "gap": 40,
+            "align": "center",
+            "downs": true
+          }
+        ]
+      },
+      "notes_uz": "«Дарим» → «sovg‘a qilamiz». «От $1000» → «$1000+», как «oyiga $1000+ daromad» у Shams; «$1000 dan ko‘p» значило бы «больше 1000» — усиление. «0 сум вместо 3 млн» → «3 mln o‘rniga 0 so‘m»: по-узбекски «вместо» стоит после старой цены, и 0 оказывается в конце, как развязка. «Чего ждёшь?!» → «Nima kutyapsiz?!». blocks: разметка ==…==, ~~…~~, [[…]] и все параметры стиля сохранены; подсветка ==bepul== стоит перед «oling» — по-узбекски глагол в конце. Блок с ценой (nowrap, 110px): «3 mln so‘m → 0 so‘m» на 2 знака длиннее русского — проверить, что не вылезает за край.",
+      "len_check": {
+        "lines[0]": {
+          "ru": 27,
+          "uz": 31,
+          "diff_pct": 15
+        },
+        "lines[1]": {
+          "ru": 75,
+          "uz": 78,
+          "diff_pct": 4
+        },
+        "lines[2]": {
+          "ru": 38,
+          "uz": 35,
+          "diff_pct": -8
+        },
+        "lines[3]": {
+          "ru": 40,
+          "uz": 43,
+          "diff_pct": 8
+        },
+        "lines[4]": {
+          "ru": 20,
+          "uz": 24,
+          "diff_pct": 20
+        },
+        "blocks[0].text": {
+          "ru": 27,
+          "uz": 31,
+          "diff_pct": 15
+        },
+        "blocks[1].text": {
+          "ru": 75,
+          "uz": 78,
+          "diff_pct": 4
+        },
+        "blocks[2].text": {
+          "ru": 42,
+          "uz": 39,
+          "diff_pct": -7
+        },
+        "blocks[3].text": {
+          "ru": 25,
+          "uz": 27,
+          "diff_pct": 8
+        },
+        "blocks[4].text": {
+          "ru": 20,
+          "uz": 21,
+          "diff_pct": 5
+        },
+        "blocks[5].text": {
+          "ru": 19,
+          "uz": 23,
+          "diff_pct": 21
+        },
+        "over_20pct": [
+          "blocks[5].text"
+        ]
+      }
+    },
+    {
+      "id": "M3",
+      "type": "meme",
+      "fields_uz": {
+        "title_line1": "Har kimga kurs:",
+        "title_line2": "«AI sari yo‘l»",
+        "subline": "Kasbingizni o‘zgartirib, AI orqali pul ishlashni siz ham o‘rgana olasiz",
+        "today": "Faqat bugun!",
+        "price_old": "3 mln so‘m",
+        "price_new": "0 so‘m"
+      },
+      "notes_uz": "Двоеточие в первой строке — чтобы название курса стояло после, как в оригинале (без него по-узбекски нужно ««AI sari yo‘l» kursi»). «Путь в ИИ» → «AI sari yo‘l»: sari = «к, в сторону», у конкурентов «treyding sari ilk qadam». «Можешь и ты» → «siz ham … o‘rgana olasiz»: «siz ham» перед глаголом — это и есть логическое ударение.",
+      "len_check": {
+        "title_line1": {
+          "ru": 16,
+          "uz": 15,
+          "diff_pct": -6
+        },
+        "title_line2": {
+          "ru": 11,
+          "uz": 14,
+          "diff_pct": 27
+        },
+        "subline": {
+          "ru": 60,
+          "uz": 71,
+          "diff_pct": 18
+        },
+        "today": {
+          "ru": 15,
+          "uz": 12,
+          "diff_pct": -20
+        },
+        "price_old": {
+          "ru": 9,
+          "uz": 10,
+          "diff_pct": 11
+        },
+        "price_new": {
+          "ru": 5,
+          "uz": 6,
+          "diff_pct": 20
+        },
+        "over_20pct": [
+          "title_line2"
+        ]
+      }
+    },
+    {
+      "id": "M4",
+      "type": "meme",
+      "fields_uz": {
+        "line1": "AI orqali qanday pul ishlash mumkin?",
+        "line2": "Kursda o‘rganing!",
+        "line3": "Faqat bugun soat 23:59 gacha bepul"
+      },
+      "alt_uz": {
+        "line1": "AI orqali pul ishlashni qanday o‘rganish mumkin?",
+        "line2": "Kursda bilib oling!"
+      },
+      "alt_len": {
+        "line1": {
+          "ru": 33,
+          "uz": 48,
+          "diff_pct": 45
+        },
+        "line2": {
+          "ru": 15,
+          "uz": 19,
+          "diff_pct": 27
+        }
+      },
+      "notes_uz": "Дословно «Как научиться зарабатывать на ИИ?» = 48 знаков (+45%). В fields_uz «научиться» перенесено во вторую строку: «Как заработать на AI? — Научитесь на курсе!». Смысл объявления тот же, обе строки в пределах +20%. Дословная пара — в alt_uz. «До 23:59» → «soat 23:59 gacha», как «soat 20:30» в корпусе.",
+      "len_check": {
+        "line1": {
+          "ru": 33,
+          "uz": 36,
+          "diff_pct": 9
+        },
+        "line2": {
+          "ru": 15,
+          "uz": 17,
+          "diff_pct": 13
+        },
+        "line3": {
+          "ru": 33,
+          "uz": 34,
+          "diff_pct": 3
+        },
+        "over_20pct": []
+      }
+    },
+    {
+      "id": "M5",
+      "type": "meme_white",
+      "fields_uz": {
+        "headline": "AI orqali daromad kursini tarqatamiz!",
+        "price_old": "3 mln so‘m",
+        "free": "Bepul!!",
+        "cta": "Oling"
+      },
+      "notes_uz": "«Курс по заработку на ИИ» → «AI orqali daromad kursi»: существительное «заработок» = daromad, модель «[тема] kursi» как «AI kontent yaratish kursi» у Morgouza. «Раздаём» → «tarqatamiz». Вариант с глаголом «AI orqali pul ishlash kursini tarqatamiz!» = 41 знак (+28%).",
+      "len_check": {
+        "headline": {
+          "ru": 32,
+          "uz": 37,
+          "diff_pct": 16
+        },
+        "price_old": {
+          "ru": 9,
+          "uz": 10,
+          "diff_pct": 11
+        },
+        "free": {
+          "ru": 11,
+          "uz": 7,
+          "diff_pct": -36
+        },
+        "cta": {
+          "ru": 7,
+          "uz": 5,
+          "diff_pct": -29
+        },
+        "over_20pct": []
+      }
+    },
+    {
+      "id": "M6",
+      "type": "meme",
+      "fields_uz": {
+        "top": "Uyda kompyuterda ishlashni xohlaysizmi?",
+        "in_meme": "AI-mutaxassis bo‘ling",
+        "bottom": "Kursni 0 so‘mga oling!"
+      },
+      "notes_uz": "Надпись в меме — 2 слова: «AI-mutaxassis bo‘ling» («Станьте AI-специалистом»). «Работать дома за компьютером» → «uyda kompyuterda ishlash».",
+      "len_check": {
+        "top": {
+          "ru": 36,
+          "uz": 39,
+          "diff_pct": 8
+        },
+        "in_meme": {
+          "ru": 21,
+          "uz": 21,
+          "diff_pct": 0
+        },
+        "bottom": {
+          "ru": 22,
+          "uz": 22,
+          "diff_pct": 0
+        },
+        "over_20pct": []
+      }
+    },
+    {
+      "id": "M7",
+      "type": "meme",
+      "fields_uz": {
+        "headline": "AI orqali $1000+ ishlashni o‘rgatamiz!",
+        "price_old": "3 mln so‘m",
+        "free": "BEPUL",
+        "cta": "Darslar to‘lovsiz ekan, olib qoling!"
+      },
+      "notes_uz": "«Научим зарабатывать от $1000» → «$1000+ ishlashni o‘rgatamiz»: с суммой глагол «ishlash» без «pul» звучит естественнее. «Пока доступны без оплаты» → «to‘lovsiz ekan, olib qoling» — оборот «…ekan, …-ib qoling» («пока есть — хватайте»); «to‘lovsiz», а не «bepul», чтобы не повторять BEPUL с плашки.",
+      "len_check": {
+        "headline": {
+          "ru": 35,
+          "uz": 38,
+          "diff_pct": 9
+        },
+        "price_old": {
+          "ru": 9,
+          "uz": 10,
+          "diff_pct": 11
+        },
+        "free": {
+          "ru": 9,
+          "uz": 5,
+          "diff_pct": -44
+        },
+        "cta": {
+          "ru": 44,
+          "uz": 36,
+          "diff_pct": -18
+        },
+        "over_20pct": []
+      }
+    }
+  ]
+}

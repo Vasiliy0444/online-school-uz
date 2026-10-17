@@ -1,0 +1,12 @@
+{
+  "name": "Мемы — у каждого свой референс",
+  "rule": "Максимально близко к референсу: та же композиция, шрифт, цвет и шутка; текст — наш, на узбекском; логотипы чужих школ убраны.",
+  "items": {
+    "M1": {"ref": "refs/memes/M1_nauchis.png", "bg": "#000000", "logo": {"white_part": {"family": "Montserrat", "weight": 800, "color": "#FFFFFF"}, "box_part": {"bg": "#FF9000", "color": "#000000", "radius": 18, "family": "Montserrat", "weight": 800}}, "body": {"family": "Montserrat", "weight": 500, "color": "#FFFFFF"}},
+    "M3": {"ref": "refs/memes/M3_kazhdomu.png", "bg": "фото Никиты, затемнённое", "labels": {"bg": "#FFFFFF", "color": "#111111", "family": "Montserrat", "weight": 800, "rotate": "-3deg"}, "sub": {"family": "Montserrat", "weight": 800, "color": "#FFFFFF"}, "price": {"today": "Montserrat 300 белый", "old": "белый, зачёркнут красным #FF2A2A", "new": "Montserrat 900 #FF2A2A"}, "cats": "assets/cutouts/cat_left.png, cat_right.png — вырезаны из референса"},
+    "M4": {"ref": "refs/memes/M4_stolb.jpg", "method": "старый текст и логотип стёрты медианным фильтром по бумаге, новый текст тем же шрифтом (Montserrat 500, #1F1F1F)"},
+    "M5": {"ref": "нет — «просто на белом фоне»", "bg": "#FFFFFF", "headline": {"family": "Montserrat", "weight": 900, "color": "#111111"}, "accent": "#E5197F"},
+    "M6": {"ref": "refs/memes/M6_rick.jpg", "method": "два кадра мема из референса; надпись в дыре заменена; верх — вопрос, низ — призыв", "font": {"family": "Montserrat Alternates", "weight": 700}, "accent": "#8E5BD0"},
+    "M7": {"ref": "refs/memes/M7_inoplanetyane.png", "bg": "#1A1A1A", "headline": {"family": "Roboto", "weight": 700, "color": "#FFFFFF"}, "accent": {"color": "#D63CF0", "family": "Montserrat", "weight": 900}, "aliens": "вырезаны из референса"}
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Инста: вопрос-ответ (сторис с вопросом подписчика)",
+  "references": ["refs/insta/insta__и1.jpg.jpg", "refs/insta/insta__и2.jpg.jpg", "refs/insta/insta__и3.jpg.jpg", "refs/insta/insta__и4.jpg.jpg", "refs/insta/insta__0_1.MOV.jpg", "refs/insta/insta__0_2.MOV.jpg", "refs/insta/insta__0_3.MOV.jpg", "refs/insta/insta__0_4.MOV.jpg"],
+  "canvas": {"story": [1080, 1920], "feed": [1080, 1350], "safe_zone_story": {"top": 250, "bottom": 340, "sides": 64}},
+  "colors": {
+    "sticker_header_gradients": {"insta": ["#9B2BD8", "#E0306A", "#F5333F"], "pink": ["#F9C9D6", "#F9C9D6"], "black": ["#1C1C1C", "#1C1C1C"], "orange": ["#F5822A", "#F25C2A"]},
+    "sticker_body": "#FFFFFF",
+    "question_text": {"insta": "#8E1EB0", "pink": "#2A2A2A", "black": "#2A2A2A", "orange": "#E8742C"},
+    "highlights": {"magenta": "#E2186F", "pink_soft": "#FBE3EC", "black": "#1E1A1A", "white": "#FFFFFF", "green": "#5DBB4A", "red": "#E8242F", "yellow": "#FFD43B"},
+    "text_on_highlight": {"magenta": "#FFFFFF", "white": "#E2186F", "black": "#F6D98E", "green": "#FFFFFF", "red": "#FFFFFF", "yellow": "#111111"}
+  },
+  "typography": {
+    "sticker_header": {"family": "Inter", "weight": 500, "size": 34},
+    "sticker_question": {"family": "Inter", "weight": 500, "size": 46, "lineHeight": 1.22, "align": "center"},
+    "ig_strong": {"family": "Roboto Condensed", "weight": 500, "transform": "uppercase", "size": 62, "lineHeight": 1.08, "note": "шрифт сторис «Strong»"},
+    "ig_classic": {"family": "Inter", "weight": 700, "size": 54, "lineHeight": 1.2, "note": "шрифт сторис «Classic»"},
+    "ig_typewriter": {"family": "Courier Prime", "weight": 700, "size": 46, "lineHeight": 1.25, "note": "шрифт сторис «Typewriter»"},
+    "ig_modern": {"family": "Montserrat", "weight": 600, "style": "italic", "transform": "uppercase", "letterSpacing": "0.16em", "size": 46, "note": "шрифт сторис «Modern»"}
+  },
+  "components": {
+    "question_sticker": {"width": "78% канваса", "radius": 34, "header_height": 96, "body_padding": [34, 44, 40, 44], "shadow": "0 10px 30px rgba(0,0,0,.18)", "position": "верх, по центру или со сдвигом влево, чуть наклонён (−2…+3°) как в 0_3 / 0_4"},
+    "highlight_text": {"technique": "inline + box-decoration-break: clone; строки касаются друг друга", "radius": 14, "padding": "0.12em 0.32em"},
+    "bullets": {"style": "каждая строка — отдельная плашка, шрифт Modern, тире в начале", "align": "right"},
+    "price": {"old": "зачёркнуто красной линией, плашка белая", "new": "крупно, плашка зелёная или жёлтая"},
+    "cta": {"style": "плашка чёрная/зелёная/малиновая, шрифт Strong, в конце эмодзи ⬇️"}
+  },
+  "photo": {"source": "фото Никиты на весь фон, без затемнения; подложка под текст — сами плашки", "focus": "лицо не закрывать стикером"},
+  "rules": ["Никаких элементов интерфейса Instagram (полосок прогресса, кнопок) — Meta отклоняет «несуществующие функции».", "Каждый креатив серии — своя комбинация цвета шапки и шрифтов, как в референсах.", "Текст вопроса — живая речь подписчика."]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Инста: текст и фон",
+  "references": ["refs/insta/insta__4.mp4.jpg", "refs/insta/insta__photo_2021-06-07_12-05-41 (2).mp4.jpg", "refs/insta/insta__ок.mp4.jpg", "refs/insta/insta__5.mp4.jpg"],
+  "canvas": {"story": [1080, 1920], "feed": [1080, 1350]},
+  "colors": {"yellow": "#FFC21A", "yellow_soft": "#FFD95A", "black": "#111111", "white": "#FFFFFF", "pink": "#E8156B", "overlay": "rgba(0,0,0,.45)"},
+  "typography": {
+    "block_title": {"family": "Montserrat", "weight": 900, "transform": "uppercase", "size": 78, "lineHeight": 1.05},
+    "block_sub": {"family": "Montserrat", "weight": 800, "transform": "uppercase", "size": 34},
+    "italic_note": {"family": "Montserrat", "weight": 800, "style": "italic", "size": 44},
+    "cta": {"family": "Montserrat", "weight": 800, "transform": "uppercase", "size": 34}
+  },
+  "components": {
+    "stacked_blocks": "прямоугольные плашки без скругления, друг под другом: жёлтая с чёрным текстом, чёрная с белым, маленькая жёлтая с подзаголовком (как «ВЫ МАМА? / ЛЮБИТЕ ПЕЧЬ?»)",
+    "highlight_word": "одно слово в жёлтой плашке внутри белого курсива (как «сахара и муки!»)",
+    "doodles": "рукописная стрелка/петля, пунктирный путь самолётика, эмодзи 🚀 ✈️ ⬇️",
+    "photo": "фото Никиты на весь фон; для тёмного варианта — затемнение 45%"
+  },
+  "rules": ["Минимум текста на плашку.", "Главный вопрос — самой крупной плашкой сверху.", "Призыв — внизу маленькой жёлтой плашкой со стрелкой."]
+}

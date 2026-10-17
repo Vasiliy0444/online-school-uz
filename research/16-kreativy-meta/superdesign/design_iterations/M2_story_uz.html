@@ -1,0 +1,130 @@
+<!doctype html><html><head><meta charset='utf-8'><link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Roboto+Condensed:wght@400;500;700;800&family=Courier+Prime:wght@400;700&family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,600;1,700;1,800;1,900&family=Montserrat+Alternates:wght@600;700;800&family=Roboto:wght@300;400;500;700;900&family=Caveat:wght@500;600;700&family=PT+Serif:wght@400;700&display=block'><style>html,body{margin:0;padding:0}body{width:1080px;height:1920px;position:relative;overflow:hidden;-webkit-font-smoothing:antialiased;text-rendering:geometricPrecision}*{box-sizing:border-box}.hl{display:inline;-webkit-box-decoration-break:clone;box-decoration-break:clone}.strike{position:relative;white-space:nowrap;display:inline-block}.strike:after{content:'';position:absolute;left:-5%;right:-5%;top:50%;height:.1em;background:#ff2a2a;transform:rotate(-7deg);border-radius:.05em}.nb{white-space:nowrap}.abs{position:absolute}
+body{background:#FBFAF6}
+#paper{position:absolute;inset:0;background:radial-gradient(130% 90% at 50% 40%,#FFFFFF 0%,#FAF8F3 70%,#F1EEE6 100%)}
+#grain{position:absolute;inset:0;opacity:.32;mix-blend-mode:multiply}
+.ln{position:absolute;white-space:nowrap;color:#151515;font-family:Caveat,cursive;line-height:1.05;padding-right:.18em}
+.ln .box{position:relative}
+svg.doodle{position:absolute;left:0;top:0;overflow:visible;pointer-events:none}
+svg.doodle path{fill:none;stroke:#151515;stroke-linecap:round;stroke-linejoin:round}
+#hl path{stroke:#FF5FA2;opacity:.38;stroke-linecap:butt}
+#pen{position:absolute;left:0;top:0;width:10px;height:10px;overflow:visible;filter:drop-shadow(18px 22px 14px rgba(0,0,0,.22))}
+</style></head><body><div id="paper"></div><svg id="grain" width="100%" height="100%"><filter id="n"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 .5  0 0 0 0 .45  0 0 0 0 .4  0 0 0 .35 0"/></filter><rect width="100%" height="100%" filter="url(#n)"/></svg><div id="lines"></div><svg class="doodle" id="dd" width="1080" height="1920"></svg><svg class="doodle" id="hl" width="1080" height="1920"></svg><svg id="pen" width="10" height="10" style="overflow:visible"><g transform="rotate(32)"><path d="M0 0 L-9 -34 L9 -34 Z" fill="#111"/><rect x="-17" y="-120" width="34" height="88" rx="6" fill="#1b1b1b"/><rect x="-19" y="-520" width="38" height="404" rx="14" fill="url(#pg)"/><rect x="-21" y="-560" width="42" height="70" rx="12" fill="#111"/><rect x="-4" y="-470" width="8" height="300" rx="4" fill="rgba(255,255,255,.55)"/><defs><linearGradient id="pg" x1="0" x2="1"><stop offset="0" stop-color="#cfd3d8"/><stop offset=".5" stop-color="#f7f8fa"/><stop offset="1" stop-color="#b9bec4"/></linearGradient></defs></g></svg>
+<script>
+function contentH(el){
+  const gap = parseFloat(getComputedStyle(el).rowGap) || 0; const kids = Array.from(el.children);
+  return kids.reduce((s, k) => s + k.getBoundingClientRect().height, 0) + gap * Math.max(0, kids.length - 1);
+}
+function fitCol(el){
+  const max = el.clientHeight; let fs = parseFloat(getComputedStyle(el).fontSize); let g = 0;
+  while (contentH(el) > max - 24 && g < 90) { fs *= 0.97; el.style.fontSize = fs + 'px'; g++; }
+}
+function fitBox(el){
+  const maxh = parseFloat(el.dataset.maxh || 1e9); const maxw = parseFloat(el.dataset.maxw || 1e9);
+  let fs = parseFloat(getComputedStyle(el).fontSize); let g = 0;
+  while ((el.offsetHeight > maxh + 1 || el.scrollWidth > maxw + 1) && g < 90) { fs *= 0.97; el.style.fontSize = fs + 'px'; g++; }
+}
+function fillBelow(){
+  const hw = document.querySelector('.headwrap'); const img = document.querySelector('img[data-fill]');
+  if (!hw || !img) return;
+  const [x0, y0, x1, y1, iw, ih, cx, drop, maxh] = img.dataset.fill.split(',').map(Number);
+  const H = document.body.clientHeight; const top = hw.getBoundingClientRect().bottom + 36;
+  const contentH = Math.min(maxh, H - top + drop); const sc = contentH / (y1 - y0);
+  img.style.width = (iw * sc) + 'px'; img.style.top = (H + drop - contentH - y0 * sc) + 'px'; img.style.left = (cx - (x0 + x1) / 2 * sc) + 'px';
+  const tag = document.querySelector('.tag'); if (tag && !tag.dataset.fixed) tag.style.top = (H + drop - contentH + contentH * 0.30) + 'px';
+}
+document.fonts.ready.then(() => {
+  document.querySelectorAll('[data-box]').forEach(fitBox);
+  document.querySelectorAll('[data-col]').forEach(fitCol);
+  fillBelow();
+  });
+</script>
+
+<script>
+function clamp(x,a,b){return Math.max(a,Math.min(b,x))}
+function ease(x){return x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2}
+function spring(x){x=clamp(x,0,1);return 1-Math.cos(x*Math.PI*2.2)*Math.exp(-5.5*x)}
+function prog(t,a,b){return clamp((t-a)/(b-a),0,1)}
+</script>
+
+<script>
+const BLOCKS = [{"text": "Bepul mini-kurs sovg‘a qilamiz!", "size": 120, "weight": 700, "align": "center", "underline": true, "star": false}, {"text": "Onlayn AI-mutaxassis kasbini qanday egallash va $1000+ ishlay boshlash mumkin?", "size": 84, "weight": 600, "gap": 40, "star": true}, {"text": "Havola orqali o‘ting va ==bepul== oling", "size": 84, "weight": 600, "gap": 36, "arrow": false}, {"text": "~~3 mln so‘m~~ → [[0 so‘m]]", "size": 110, "weight": 700, "gap": 30, "align": "center", "nowrap": true}, {"text": "faqat kun oxirigacha!", "size": 84, "weight": 600, "align": "center"}, {"text": "Bosing! Nimani kutyapsiz?", "size": 100, "weight": 700, "gap": 40, "align": "center", "downs": true}]; const AREA = {"x": 70, "y": 250, "w": 940, "h": 1330}; const SPEED = 700;
+window.DURATION = 0; window.WRITE = [];
+const L = []; const D = [];
+function mk(tag, attrs){ const e=document.createElementNS('http://www.w3.org/2000/svg', tag); for (const k in attrs) e.setAttribute(k, attrs[k]); return e; }
+function wrapWords(text, fontCss, maxW){
+  const c = document.createElement('canvas').getContext('2d'); c.font = fontCss;
+  const words = text.split(' '); const lines = []; let cur = '';
+  for (const wd of words){ const t = cur ? cur + ' ' + wd : wd; if (c.measureText(t.replace(/[\[\]~=]/g,'')).width > maxW && cur){ lines.push(cur); cur = wd; } else cur = t; }
+  if (cur) lines.push(cur); return lines;
+}
+function markup(s){
+  return s.replace(/~~(.+?)~~/g,'<span class="strk">$1</span>').replace(/\[\[(.+?)\]\]/g,'<span class="box">$1</span>').replace(/==(.+?)==/g,'<span class="hlt">$1</span>');
+}
+function layout(scale){
+  const host = document.getElementById('lines'); host.innerHTML=''; L.length = 0;
+  let y = AREA.y;
+  for (const b of BLOCKS){
+    const size = b.size * scale; const font = `${b.weight||600} ${size}px Caveat`;
+    y += (b.gap||0) * scale;
+    const lines = b.nowrap ? [b.text] : wrapWords(b.text, font, (AREA.w - (b.indent||0)) * 0.93);
+    for (const ln of lines){
+      const d = document.createElement('div'); d.className='ln'; d.style.font = font; d.style.lineHeight='1.08';
+      d.innerHTML = markup(ln); host.appendChild(d);
+      const wpx = d.offsetWidth; let x = AREA.x + (b.indent||0);
+      if (b.align === 'center') x = AREA.x + (AREA.w - wpx)/2; if (b.align === 'right') x = AREA.x + AREA.w - wpx;
+      d.style.left = x + 'px'; d.style.top = y + 'px';
+      L.push({el:d, x, y, w:wpx, h:d.offsetHeight, block:b});
+      y += d.offsetHeight * 0.98;
+    }
+    if (b.downs) y += 140 * scale;
+  }
+  return y;
+}
+function build(){
+  let scale = 1; let bottom = layout(scale);
+  while (bottom > AREA.y + AREA.h && scale > .5){ scale *= .96; bottom = layout(scale); }
+  const shift = (AREA.y + AREA.h - bottom) / 2; L.forEach(o => { o.y += shift; o.el.style.top = o.y + 'px'; });
+  const dd = document.getElementById('dd'), hl = document.getElementById('hl');
+  const add = (svg, d, w, dur, extra) => { const p = mk('path', {d, 'stroke-width': w}); svg.appendChild(p); const o = Object.assign({p, dur}, extra||{}); D.push(o); return o; };
+  let t = 0.6; const HL = [];
+  L.forEach((o, i) => {
+    const b = o.block; const last = !L[i+1] || L[i+1].block !== b;
+    o.t0 = t; o.t1 = t + Math.max(.45, o.w / SPEED); t = o.t1 + .12;
+    const seq = [];
+    o.el.querySelectorAll('.strk').forEach(sp => { const q = sp.getBoundingClientRect(); seq.push(add(dd, `M${q.left-8} ${q.top+q.height*.62} C ${q.left+q.width*.3} ${q.top+q.height*.5}, ${q.left+q.width*.7} ${q.top+q.height*.68}, ${q.right+10} ${q.top+q.height*.52}`, 7, .45)); });
+    o.el.querySelectorAll('.box').forEach(sp => { const q = sp.getBoundingClientRect(); const x0=q.left-18,y0=q.top+6,x1=q.right+18,y1=q.bottom-4; seq.push(add(dd, `M${x0+12} ${y0} L${x1} ${y0+5} L${x1-5} ${y1} L${x0} ${y1-4} L${x0+6} ${y0-12}`, 6, .7)); });
+    o.el.querySelectorAll('.hlt').forEach(sp => { const q = sp.getBoundingClientRect(); HL.push(add(hl, `M${q.left-6} ${q.top+q.height*.64} L${q.right+6} ${q.top+q.height*.6}`, q.height*.55, .5, {hl:true})); });
+    if (last && b.underline){ seq.push(add(dd, `M${o.x} ${o.y+o.h*.98} q ${o.w*.25} -14 ${o.w*.5} 0 t ${o.w*.5} 0`, 6, .6)); }
+    if (last && b.arrow){ const x=o.x+o.w+24, y=o.y+o.h*.58; seq.push(add(dd, `M${x} ${y} C ${x+40} ${y-30}, ${x+80} ${y+10}, ${x+120} ${y-6} M${x+92} ${y-34} L${x+122} ${y-6} L${x+88} ${y+18}`, 6, .55)); }
+    if (last && b.star){ const x=Math.min(o.x+o.w+50, AREA.x+AREA.w-20), y=o.y+o.h*.35; seq.push(add(dd, `M${x} ${y-34} L${x+10} ${y-6} L${x+40} ${y-4} L${x+16} ${y+14} L${x+26} ${y+44} L${x} ${y+26} L${x-26} ${y+44} L${x-16} ${y+14} L${x-40} ${y-4} L${x-10} ${y-6} Z`, 5, .6)); }
+    if (last && b.downs){ for (let k=0;k<3;k++){ const x = AREA.x + AREA.w/2 + (k-1)*110, y = o.y + o.h + 24; seq.push(add(dd, `M${x} ${y} L${x} ${y+86} M${x-26} ${y+58} L${x} ${y+88} L${x+26} ${y+58}`, 7, .32)); } }
+    seq.forEach(d => { d.t0 = t; t += d.dur + .08; });
+    t += (last ? .3 : .05) + (b.pause||0);
+  });
+  HL.forEach((d, k) => { d.t0 = t + .2 + k * .5; });
+  const endT = t + .2 + HL.length * .5;
+  D.forEach(d => { const len = d.p.getTotalLength(); d.len = len; d.p.style.strokeDasharray = len; d.p.style.strokeDashoffset = len; });
+  window.DURATION = Math.ceil((endT + 2.6) * 10) / 10;
+  window.WRITE = L.map(o => [o.t0, o.t1]).concat(D.filter(d => !d.hl).map(d => [d.t0, d.t0 + d.dur]));
+}
+function penAt(t){
+  // где перо: пишет строку, рисует дудл или едет к следующей
+  for (const o of L){ if (t >= o.t0 && t <= o.t1){ const p = (t - o.t0)/(o.t1 - o.t0); return [o.x + p*o.w, o.y + o.h*.78 + 6*Math.sin(t*38) - 10*Math.abs(Math.sin(t*9))]; } }
+  for (const d of D){ if (t >= d.t0 && t <= d.t0 + d.dur){ const p = (t - d.t0)/d.dur; const pt = d.p.getPointAtLength(p*d.len); return [pt.x, pt.y]; } }
+  // между — плавно к следующему старту
+  const ev = [...L.map(o => ({t0:o.t0, t1:o.t1, a:[o.x, o.y+o.h*.78], b:[o.x+o.w, o.y+o.h*.78]})), ...D.map(d => ({t0:d.t0, t1:d.t0+d.dur, a:[d.p.getPointAtLength(0).x, d.p.getPointAtLength(0).y], b:[d.p.getPointAtLength(d.len).x, d.p.getPointAtLength(d.len).y]}))].sort((x,y) => x.t0 - y.t0);
+  let prev = null, next = null; for (const e of ev){ if (e.t1 <= t) prev = e; else if (e.t0 > t){ next = e; break; } }
+  if (!next) return prev ? [prev.b[0] + 700*ease(clamp((t-prev.t1)/1.0,0,1)), prev.b[1] + 1000*ease(clamp((t-prev.t1)/1.0,0,1))] : [AREA.x, AREA.y];
+  if (!prev) return [next.a[0] + 300*(1-clamp(t/next.t0,0,1)), next.a[1] + 500*(1-clamp(t/next.t0,0,1))];
+  const p = ease(clamp((t - prev.t1)/(next.t0 - prev.t1), 0, 1));
+  return [prev.b[0] + (next.a[0]-prev.b[0])*p, prev.b[1] + (next.a[1]-prev.b[1])*p - 40*Math.sin(p*Math.PI)];
+}
+function setT(t){
+  for (const o of L){ const p = clamp((t - o.t0)/(o.t1 - o.t0), 0, 1); o.el.style.clipPath = p >= 1 ? 'none' : `inset(-20px ${(1-p)*100}% -30px -10px)`; o.el.style.visibility = p > 0 ? 'visible' : 'hidden'; }
+  for (const d of D){ const p = clamp((t - d.t0)/d.dur, 0, 1); d.p.style.strokeDashoffset = d.len * (1 - p); }
+  const [x, y] = penAt(t); const pen = document.getElementById('pen'); pen.style.transform = `translate(${x}px, ${y}px)`;
+}
+window.setT = setT;
+Promise.all(['500','600','700'].map(wt => document.fonts.load(wt + ' 80px Caveat', 'АБВabcʻ‘’$0'))).then(() => document.fonts.ready).then(() => { build(); setT(0); document.body.dataset.ready = 1; });
+</script>
+</body></html>

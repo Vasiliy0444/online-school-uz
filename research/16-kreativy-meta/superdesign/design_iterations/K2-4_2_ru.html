@@ -1,0 +1,45 @@
+<!doctype html><html><head><meta charset='utf-8'><link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Roboto+Condensed:wght@400;500;700;800&family=Courier+Prime:wght@400;700&family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,600;1,700;1,800;1,900&family=Montserrat+Alternates:wght@600;700;800&family=Roboto:wght@300;400;500;700;900&family=Caveat:wght@500;600;700&family=PT+Serif:wght@400;700&display=block'><style>html,body{margin:0;padding:0}body{width:1080px;height:1080px;position:relative;overflow:hidden;-webkit-font-smoothing:antialiased;text-rendering:geometricPrecision}*{box-sizing:border-box}.hl{display:inline;-webkit-box-decoration-break:clone;box-decoration-break:clone}.strike{position:relative;white-space:nowrap;display:inline-block}.strike:after{content:'';position:absolute;left:-5%;right:-5%;top:50%;height:.1em;background:#ff2a2a;transform:rotate(-7deg);border-radius:.05em}.nb{white-space:nowrap}.abs{position:absolute}
+body{background:#F5F1EA;color:#121212}
+.kbg{position:absolute;inset:0;background:radial-gradient(70% 60% at 85% 10%,rgba(91,60,255,.10),transparent 60%),radial-gradient(60% 50% at 0% 100%,rgba(33,230,193,.12),transparent 60%),#F5F1EA}
+.badge{position:absolute;left:70px;top:64px;background:#121212;color:#F5F1EA;font:700 28px/1 Inter,sans-serif;padding:16px 26px;border-radius:999px;letter-spacing:.02em}
+.num{position:absolute;right:56px;top:20px;font:900 230px/1 Montserrat,sans-serif;color:transparent;-webkit-text-stroke:3px rgba(18,18,18,.16)}
+.ttl{position:absolute;left:70px;right:70px;font:800 66px/1.06 Montserrat,sans-serif;letter-spacing:-.01em}
+.rows{position:absolute;left:70px;right:70px;display:flex;flex-direction:column}
+.row{padding:22px 0;border-top:2px solid rgba(18,18,18,.12)}
+.row .lb{font:700 28px/1.2 Inter,sans-serif;text-transform:uppercase;letter-spacing:.08em;color:#6B6660;margin-bottom:8px}
+.row .vl{font:600 42px/1.22 Inter,sans-serif}
+.hi{background:#5B3CFF;color:#fff}
+.hi .kbg{background:radial-gradient(70% 60% at 85% 10%,rgba(255,255,255,.18),transparent 60%),#5B3CFF}
+.hi .row{border-top-color:rgba(255,255,255,.25)} .hi .row .lb{color:rgba(255,255,255,.7)} .hi .num{-webkit-text-stroke-color:rgba(255,255,255,.3)} .hi .badge{background:#fff;color:#5B3CFF}
+.small{position:absolute;left:70px;right:70px;bottom:120px;font:500 30px/1.3 Inter,sans-serif;opacity:.75}
+.dots{position:absolute;left:70px;bottom:60px;display:flex;gap:12px}
+.dots i{width:16px;height:16px;border-radius:50%;background:rgba(18,18,18,.18)}
+.dots i.on{background:#5B3CFF;width:44px;border-radius:9px}
+.hi .dots i{background:rgba(255,255,255,.35)} .hi .dots i.on{background:#fff}
+.hook{position:absolute;left:70px;width:640px;font:900 92px/1.02 Montserrat,sans-serif;letter-spacing:-.02em}
+.sub{position:absolute;left:70px;width:600px;font:500 38px/1.3 Inter,sans-serif;color:#3a3633}
+.btn{display:inline-block;background:#5B3CFF;color:#fff;font:800 40px/1.1 Montserrat,sans-serif;padding:30px 50px;border-radius:999px;box-shadow:0 16px 40px rgba(91,60,255,.35)}
+.swipe{position:absolute;right:70px;bottom:52px;font:700 28px/1 Inter,sans-serif;color:#6B6660}
+.kcut{position:absolute;filter:drop-shadow(0 30px 40px rgba(0,0,0,.18))}
+.hi-wrap{}</style></head><body><div class="hi" style="position:absolute;inset:0"><div class="kbg"></div><div class="num">01</div><div class="ttl" data-box data-maxh="230" style="top:90px;right:300px">Дома</div><div class="rows" data-box data-maxh="640" style="top:330px"><div class="row"><div class="vl">Сначала меньше</div></div><div class="row"><div class="lb">Заказчики — бизнес твоего города</div><div class="vl">проверили 784 компании в 8 областных городах, у 718 нет сайта</div></div><div class="row"><div class="vl">Навык растёт каждый месяц</div></div><div class="row"><div class="vl">Семья рядом</div></div></div><div class="dots"><i class=""></i><i class="on"></i><i class=""></i></div></div>
+<script>
+function contentH(el){
+  const gap = parseFloat(getComputedStyle(el).rowGap) || 0; const kids = Array.from(el.children);
+  return kids.reduce((s, k) => s + k.getBoundingClientRect().height, 0) + gap * Math.max(0, kids.length - 1);
+}
+function fitCol(el){
+  const max = el.clientHeight; let fs = parseFloat(getComputedStyle(el).fontSize); let g = 0;
+  while (contentH(el) > max - 24 && g < 90) { fs *= 0.97; el.style.fontSize = fs + 'px'; g++; }
+}
+function fitBox(el){
+  const maxh = parseFloat(el.dataset.maxh || 1e9); const maxw = parseFloat(el.dataset.maxw || 1e9);
+  let fs = parseFloat(getComputedStyle(el).fontSize); let g = 0;
+  while ((el.offsetHeight > maxh + 1 || el.scrollWidth > maxw + 1) && g < 90) { fs *= 0.97; el.style.fontSize = fs + 'px'; g++; }
+}
+document.fonts.ready.then(() => {
+  document.querySelectorAll('[data-box]').forEach(fitBox);
+  document.querySelectorAll('[data-col]').forEach(fitCol);
+  document.body.dataset.ready = 1;
+});
+</script>
+</body></html>

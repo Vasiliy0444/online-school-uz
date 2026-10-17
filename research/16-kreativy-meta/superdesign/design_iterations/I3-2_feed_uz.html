@@ -1,0 +1,57 @@
+<!doctype html><html><head><meta charset='utf-8'><link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Roboto+Condensed:wght@400;500;700;800&family=Courier+Prime:wght@400;700&family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,600;1,700;1,800;1,900&family=Montserrat+Alternates:wght@600;700;800&family=Roboto:wght@300;400;500;700;900&family=Caveat:wght@500;600;700&family=PT+Serif:wght@400;700&display=block'><style>html,body{margin:0;padding:0}body{width:1080px;height:1350px;position:relative;overflow:hidden;-webkit-font-smoothing:antialiased;text-rendering:geometricPrecision}*{box-sizing:border-box}.hl{display:inline;-webkit-box-decoration-break:clone;box-decoration-break:clone}.strike{position:relative;white-space:nowrap;display:inline-block}.strike:after{content:'';position:absolute;left:-5%;right:-5%;top:50%;height:.1em;background:#ff2a2a;transform:rotate(-7deg);border-radius:.05em}.nb{white-space:nowrap}.abs{position:absolute}
+body{background:#111}
+#site{position:absolute;left:0;top:0;width:100%}
+#site img{width:100%;display:block}
+#ph{position:absolute;inset:0;background:repeating-linear-gradient(45deg,#2a2a2a 0 40px,#242424 40px 80px);display:flex;align-items:center;justify-content:center;color:#888;font:800 64px/1.2 Inter,sans-serif;text-align:center}
+#shade{position:absolute;inset:0;background:linear-gradient(to bottom,rgba(0,0,0,.55),rgba(0,0,0,.1) 45%,rgba(0,0,0,.65))}
+.blk{position:absolute;left:60px;right:60px;text-align:center}
+.blk span{display:inline;-webkit-box-decoration-break:clone;box-decoration-break:clone;padding:.1em .3em}
+</style></head><body><div id="site"><img src="file:///Users/Bel-a/Desktop/CURSOR/%D0%91%D0%98%D0%97%D0%9D%D0%95%D0%A1/%D0%9E%D0%BD%D0%BB%D0%B0%D0%B8%CC%86%D0%BD%20%D1%88%D0%BA%D0%BE%D0%BB%D0%B0%20%D0%A3%D0%97/research/16-kreativy-meta/assets/site_fullpage.png"></div><div id="shade"></div><div class="blk" id="t1" data-box data-maxh="430" style="top:70px;font:900 60px/1.18 Montserrat,sans-serif"><span style="background:#FFC21A;color:#111">Bunday saytni 2 kunda, dasturlashni bilmasdan, faqat AI yordamida yasadim va 3 mln so‘mga sotdim</span></div><div class="blk" id="t2" style="top:820px;font:900 70px/1.1 Montserrat,sans-serif;text-transform:uppercase"><span style="background:#111;color:#fff">Siz ham xohlaysizmi?</span></div><div class="blk" id="t3" style="top:1050px;font:800 38px/1.2 Montserrat,sans-serif;text-transform:uppercase"><span style="background:#FFD95A;color:#111">Hoziroq bepul kursga ro‘yxatdan o‘ting ⬇️</span></div>
+<script>
+function contentH(el){
+  const gap = parseFloat(getComputedStyle(el).rowGap) || 0; const kids = Array.from(el.children);
+  return kids.reduce((s, k) => s + k.getBoundingClientRect().height, 0) + gap * Math.max(0, kids.length - 1);
+}
+function fitCol(el){
+  const max = el.clientHeight; let fs = parseFloat(getComputedStyle(el).fontSize); let g = 0;
+  while (contentH(el) > max - 24 && g < 90) { fs *= 0.97; el.style.fontSize = fs + 'px'; g++; }
+}
+function fitBox(el){
+  const maxh = parseFloat(el.dataset.maxh || 1e9); const maxw = parseFloat(el.dataset.maxw || 1e9);
+  let fs = parseFloat(getComputedStyle(el).fontSize); let g = 0;
+  while ((el.offsetHeight > maxh + 1 || el.scrollWidth > maxw + 1) && g < 90) { fs *= 0.97; el.style.fontSize = fs + 'px'; g++; }
+}
+function fillBelow(){
+  const hw = document.querySelector('.headwrap'); const img = document.querySelector('img[data-fill]');
+  if (!hw || !img) return;
+  const [x0, y0, x1, y1, iw, ih, cx, drop, maxh] = img.dataset.fill.split(',').map(Number);
+  const H = document.body.clientHeight; const top = hw.getBoundingClientRect().bottom + 36;
+  const contentH = Math.min(maxh, H - top + drop); const sc = contentH / (y1 - y0);
+  img.style.width = (iw * sc) + 'px'; img.style.top = (H + drop - contentH - y0 * sc) + 'px'; img.style.left = (cx - (x0 + x1) / 2 * sc) + 'px';
+  const tag = document.querySelector('.tag'); if (tag && !tag.dataset.fixed) tag.style.top = (H + drop - contentH + contentH * 0.30) + 'px';
+}
+document.fonts.ready.then(() => {
+  document.querySelectorAll('[data-box]').forEach(fitBox);
+  document.querySelectorAll('[data-col]').forEach(fitCol);
+  fillBelow();
+  document.body.dataset.ready = 1;
+});
+</script>
+
+<script>
+function clamp(x,a,b){return Math.max(a,Math.min(b,x))}
+function ease(x){return x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2}
+function spring(x){x=clamp(x,0,1);return 1-Math.cos(x*Math.PI*2.2)*Math.exp(-5.5*x)}
+function prog(t,a,b){return clamp((t-a)/(b-a),0,1)}
+</script>
+
+<script>
+window.DURATION = 10.0;
+function setT(t){
+  const s = document.getElementById('site');
+  if (s){ const H = s.offsetHeight - innerHeight; s.style.transform = `translateY(${-Math.max(0,H) * ease(clamp(t/9.5,0,1))}px)`; }
+  [['t1',.3],['t2',3.0],['t3',4.2]].forEach(([id,a]) => { const e=document.getElementById(id); const p=spring(clamp((t-a)/.5,0,1)); e.style.opacity=clamp((t-a)/.2,0,1); e.style.transform=`translateY(${(1-p)*40}px)`; });
+}
+window.setT = setT;
+</script>
+</body></html>

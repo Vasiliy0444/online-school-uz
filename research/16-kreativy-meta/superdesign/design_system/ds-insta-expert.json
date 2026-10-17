@@ -1,0 +1,18 @@
+{
+  "name": "Инста: эксперт на картинке",
+  "references": ["refs/insta/insta__7.jpg.jpg", "refs/insta/insta__5.mp4.jpg"],
+  "canvas": {"story": [1080, 1920], "feed": [1080, 1350]},
+  "colors": {"bg": "#F3F3F3", "accent": "#EE3330", "accent_dark": "#C81F1C", "text": "#262626", "stripe_gray": "rgba(150,150,150,.35)", "tag_border": "#2B2B2B"},
+  "typography": {
+    "headline": {"family": "Montserrat", "weight": 800, "size": 76, "lineHeight": 1.08, "align": "center", "accent_words": "ключевые слова красным"},
+    "cta": {"family": "Montserrat", "weight": 600, "size": 42, "lineHeight": 1.18, "color": "#FFFFFF"},
+    "name_tag": {"family": "Inter", "weight": 500, "size": 30}
+  },
+  "components": {
+    "background": "светлый фон, по углам диагональные ленты: красная сверху справа и снизу слева, серая полупрозрачная рядом",
+    "cta_pill": {"bg": "#EE3330", "radius": 999, "padding": [26, 64], "shadow": "0 10px 24px rgba(238,51,48,.35)"},
+    "expert_cutout": {"position": "нижние 60% канваса", "effect": "белое свечение по контуру (drop-shadow 0 0 18px #fff ×2)", "fade": "низ уходит в фон"},
+    "name_tag": {"bg": "#FFFFFF", "border": "2px solid #2B2B2B", "radius": 10, "dot": "красный круг 22px в левом верхнем углу"}
+  },
+  "rules": ["Лицо эксперта — главный визуальный якорь, заголовок над головой.", "Одна кнопка-пилюля.", "Ключевые слова красным: деньги, срок, «бесплатно»."]
+}

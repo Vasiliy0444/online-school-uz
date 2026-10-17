@@ -1,0 +1,871 @@
+<!DOCTYPE html>
+<html lang="uz">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1080, height=1920">
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      /* V4 «Bu rolikni AI yaratdi» — 1080×1920, 30 fps, 120 BPM. Время — timeline.json. */
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body { width: 1080px; height: 1920px; overflow: hidden; background: #0b0a12; }
+      #root { position: relative; width: 100%; height: 100%; overflow: hidden; background: #0b0a12;
+        font-family: "Montserrat", sans-serif; color: #f5f4fa; }
+      .layer { position: absolute; inset: 0; pointer-events: none; }
+      .mono { font-family: "JetBrains Mono", monospace; font-weight: 700; }
+
+      /* ---------- комната: цветной свет, точки, виньетка, зерно ---------- */
+      #bg { z-index: 0; background: #0b0a12; overflow: hidden; }
+      .blob { position: absolute; border-radius: 50%; }
+      #blob-v { width: 1500px; height: 1500px; left: -620px; top: -260px;
+        background: radial-gradient(circle, rgba(104, 58, 214, 0.42) 0%, rgba(104, 58, 214, 0) 62%); }
+      #blob-a { width: 1600px; height: 1600px; left: 160px; top: 1050px;
+        background: radial-gradient(circle, rgba(214, 110, 40, 0.36) 0%, rgba(214, 110, 40, 0) 60%); }
+      #blob-b { width: 1100px; height: 1100px; left: 420px; top: 300px;
+        background: radial-gradient(circle, rgba(52, 82, 230, 0.2) 0%, rgba(52, 82, 230, 0) 62%); }
+      .dots { background-image: radial-gradient(rgba(255, 255, 255, 0.1) 1.4px, rgba(255, 255, 255, 0) 1.8px);
+        background-size: 36px 36px; opacity: 0.6; }
+      #vignette { z-index: 15;
+        background: radial-gradient(ellipse 78% 62% at 50% 45%, rgba(0, 0, 0, 0) 55%, rgba(0, 0, 0, 0.6) 100%); }
+      #grain { z-index: 30; background-image: url("assets/grain.png"); background-size: 256px 256px; opacity: 0.05; }
+
+      /* ---------- сцены ---------- */
+      .scene { position: absolute; inset: 0; overflow: hidden; }
+      .stage { position: absolute; inset: 0; }
+      #s1 { z-index: 1; }
+      #s2 { z-index: 2; opacity: 0; }
+      #s3 { z-index: 3; opacity: 0; }
+      #s4 { z-index: 4; opacity: 0; }
+      #s5 { z-index: 5; opacity: 0; }
+      #s6 { z-index: 6; opacity: 0; }
+      #cw { z-index: 7; opacity: 0; }
+      #s7 { z-index: 8; opacity: 0; }
+      #s8 { z-index: 9; opacity: 0; }
+
+      /* ---------- типографика ---------- */
+      .acc { color: #7c95ff; text-shadow: 0 0 28px rgba(77, 107, 255, 0.55), 0 0 2px rgba(124, 149, 255, 0.6); }
+      .w { display: inline-block; white-space: nowrap; }
+      .dot { display: inline-block; width: 0.2em; height: 0.2em; margin-left: 0.07em; border-radius: 50%;
+        background: #9fb2ff; box-shadow: 0 0 0.22em #4d6bff, 0 0 0.6em rgba(77, 107, 255, 0.75); }
+      .chip { display: inline-flex; align-items: center; gap: 18px; height: 64px; padding-right: 24px;
+        font-family: "JetBrains Mono", monospace; font-weight: 700; font-size: 38px; letter-spacing: 0.16em;
+        text-transform: uppercase; color: #f5f4fa; background: rgba(255, 255, 255, 0.07);
+        border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 10px; overflow: hidden; }
+      .chip::before { content: ""; width: 8px; align-self: stretch; background: #ffd23f; }
+      .glass { background: linear-gradient(160deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.03)), rgba(24, 22, 40, 0.78);
+        border: 1px solid rgba(255, 255, 255, 0.14); border-radius: 32px;
+        box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1) inset, 0 40px 80px rgba(0, 0, 0, 0.45); }
+
+      /* ---------- HUD (декор, вне безопасной зоны) ---------- */
+      #hud { z-index: 40; }
+      .crop { position: absolute; width: 34px; height: 34px; border: 0 solid rgba(245, 244, 250, 0.9); opacity: 0.45; }
+      #cr-tl { left: 65px; top: 270px; border-left-width: 3px; border-top-width: 3px; }
+      #cr-tr { left: 981px; top: 270px; border-right-width: 3px; border-top-width: 3px; }
+      #cr-bl { left: 65px; top: 1214px; border-left-width: 3px; border-bottom-width: 3px; }
+      #cr-br { left: 981px; top: 1214px; border-right-width: 3px; border-bottom-width: 3px; }
+      .hud-row { position: absolute; left: 65px; right: 65px; height: 34px; display: flex; align-items: center;
+        justify-content: space-between; font-family: "JetBrains Mono", monospace; font-weight: 700; font-size: 22px;
+        letter-spacing: 0.2em; color: rgba(245, 244, 250, 0.62); }
+      #hud-top { top: 194px; }
+      #hud-bot { top: 1286px; }
+      #rec-dot { display: inline-block; width: 14px; height: 14px; margin-right: 12px; border-radius: 50%; background: #ff3d5a;
+        vertical-align: 1px; }
+      #ruler { position: relative; flex: 1; height: 6px; margin: 0 26px; border-radius: 3px; overflow: hidden;
+        background: rgba(255, 255, 255, 0.12); }
+      #ruler-fill { position: absolute; left: 0; top: 0; width: 100%; height: 100%; display: block; background: #7c95ff; }
+      .rt { position: absolute; top: 0; width: 3px; height: 100%; margin-left: -1px; background: #0b0a12; display: block; }
+
+      /* ---------- оверлеи переходов ---------- */
+      .gl { left: -90px; right: -90px; opacity: 0; z-index: 20; }
+      .gl b { position: absolute; left: 0; right: 0; display: block; }
+      #gl-r b { background: rgba(255, 61, 90, 0.35); }
+      #gl-g b { background: rgba(46, 212, 122, 0.35); }
+      #gl-b b { background: rgba(77, 107, 255, 0.35); }
+      #flash { z-index: 21; background: #ffffff; opacity: 0; }
+
+      /* ---------- S1 хук ---------- */
+      .arc-t { font-family: "Montserrat", sans-serif; font-weight: 900; font-size: 112px; letter-spacing: 0.01em; }
+      .rgb { position: absolute; left: 0; right: 0; text-align: center; font-weight: 900; }
+      .rgb span, .rgb strong { position: absolute; inset: 0; display: block; font-weight: 900; }
+      .rgb .g-r { color: #ff3d5a; opacity: 0; }
+      .rgb .g-c { color: #22d3ee; opacity: 0; }
+      #s1-ai { top: 690px; height: 330px; font-size: 340px; line-height: 330px; letter-spacing: -0.02em; }
+      #s1-yar { position: absolute; left: 0; right: 0; top: 1030px; text-align: center; font-size: 150px; font-weight: 900; line-height: 1; }
+
+      /* ---------- S2 карточки ---------- */
+      .card { position: absolute; width: 176px; height: 306px; }
+      .ui { position: absolute; inset: 0; overflow: hidden; border-radius: 24px; border: 1px solid rgba(255, 255, 255, 0.18);
+        background: #15141f; box-shadow: 0 30px 60px rgba(0, 0, 0, 0.55); }
+      .ui .shot { position: absolute; inset: 0; width: 100%; height: 100%; display: block; object-fit: cover; object-position: top center; }
+      .tag { position: absolute; width: 112px; height: 50px; border-radius: 25px; z-index: 40;
+        background: rgba(11, 10, 18, 0.95); border: 2px solid #7c95ff; color: #a9baff; font-weight: 900; font-size: 30px;
+        line-height: 46px; text-align: center; box-shadow: 0 0 24px rgba(77, 107, 255, 0.55); }
+      #s2-shine { position: absolute; left: 0; top: 380px; width: 240px; height: 560px; opacity: 0;
+        background: linear-gradient(90deg, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.24), rgba(255, 255, 255, 0)); }
+      .sub { position: absolute; left: 65px; right: 65px; text-align: center; }
+      #s2-sub { top: 960px; }
+      #s2-l1 { font-size: 60px; font-weight: 700; line-height: 1.15; }
+      #s2-l2 { font-size: 84px; font-weight: 900; line-height: 1.12; margin-top: 6px; }
+
+      /* ---------- S3 список ---------- */
+      #s3-h1 { position: absolute; left: 90px; right: 90px; top: 368px; font-size: 62px; font-weight: 700; line-height: 1.15; }
+      #s3-kw { position: absolute; left: 90px; right: 65px; top: 528px; font-size: 104px; font-weight: 900; line-height: 1.02; }
+      .kwl { display: block; white-space: nowrap; }
+      #s3-rows { position: absolute; left: 90px; right: 90px; top: 790px; display: flex; flex-direction: column; gap: 22px; }
+      .row { display: flex; align-items: center; gap: 28px; height: 110px; }
+      .num { font-family: "JetBrains Mono", monospace; font-weight: 700; font-size: 40px; color: #7c95ff; }
+      .word { position: relative; display: inline-block; font-size: 80px; font-weight: 700; line-height: 1; }
+      .wt { display: inline-block; }
+      .strike { position: absolute; left: -8px; right: -8px; top: 50%; height: 8px; margin-top: -2px; border-radius: 4px;
+        background: #ff3d5a; box-shadow: 0 0 14px rgba(255, 61, 90, 0.6); display: block; }
+
+      /* ---------- S4 таймлайн ---------- */
+      #s4-title { position: absolute; left: 90px; right: 230px; top: 300px; }
+      #s4-l1 { font-size: 64px; font-weight: 700; line-height: 1.15; }
+      #s4-kw { font-size: 96px; font-weight: 900; line-height: 1.12; white-space: nowrap; }
+      #s4-clock { position: absolute; left: 860px; top: 284px; width: 130px; height: 130px; }
+      #s4-panel { position: absolute; left: 65px; top: 560px; width: 950px; height: 640px; }
+      #s4-chip { position: absolute; left: 28px; top: 24px; }
+      #s4-ruler { position: absolute; left: 120px; right: 30px; top: 98px; height: 32px; display: flex; justify-content: space-between;
+        font-family: "JetBrains Mono", monospace; font-weight: 700; font-size: 19px; color: rgba(245, 244, 250, 0.62);
+        border-bottom: 2px solid rgba(255, 255, 255, 0.14); }
+      .trk { position: absolute; left: 0; right: 0; }
+      .lab { position: absolute; left: 28px; top: 50%; margin-top: -14px; font-family: "JetBrains Mono", monospace;
+        font-weight: 700; font-size: 22px; color: rgba(245, 244, 250, 0.66); }
+      .lane { position: absolute; left: 120px; right: 30px; top: 0; bottom: 0; border-radius: 12px; background: rgba(255, 255, 255, 0.04); }
+      #lane-v { display: flex; gap: 6px; padding: 8px 0; }
+      .th { flex: 1; border-radius: 10px; display: block; border: 1px solid rgba(255, 255, 255, 0.22); }
+      #s4-wave { position: absolute; inset: 0; display: flex; align-items: center; justify-content: space-between; padding: 0 6px; }
+      .bar { width: 6px; border-radius: 3px; background: #2ed47a; display: block; }
+      .pill { position: absolute; height: 64px; border-radius: 14px; display: flex; align-items: center; justify-content: center;
+        font-family: "JetBrains Mono", monospace; font-weight: 700; font-size: 24px; color: #0b0a12; }
+      #s4-playhead { position: absolute; left: 120px; top: 92px; bottom: 28px; width: 3px; margin-left: -1px;
+        background: rgba(255, 255, 255, 0.92); box-shadow: 0 0 12px rgba(124, 149, 255, 0.8); }
+      #s4-knob { position: absolute; left: -12px; top: -12px; width: 27px; height: 27px; border-radius: 50%; display: block;
+        background: #9fb2ff; box-shadow: 0 0 14px #4d6bff, 0 0 34px rgba(77, 107, 255, 0.8); }
+
+      /* ---------- S5 счётчик ---------- */
+      #s5-card { position: absolute; left: 65px; top: 290px; width: 950px; height: 560px; }
+      #s5-label { position: absolute; left: 44px; top: 38px; font-size: 40px; font-weight: 700; color: rgba(245, 244, 250, 0.8); }
+      #s5-chip { position: absolute; right: 36px; top: 28px; height: 64px; padding: 0 24px; border-radius: 32px;
+        border: 2px solid #7c95ff; background: rgba(77, 107, 255, 0.14); color: #a9baff; font-weight: 900; font-size: 36px; line-height: 60px; }
+      #s5-glow { position: absolute; left: 10px; top: 110px; width: 640px; height: 220px; opacity: 0.35;
+        background: radial-gradient(ellipse at 40% 50%, rgba(77, 107, 255, 0.55) 0%, rgba(77, 107, 255, 0) 70%); }
+      #s5-count { position: absolute; left: 40px; top: 96px; font-size: 200px; font-weight: 900; line-height: 1;
+        letter-spacing: -0.02em; white-space: nowrap; }
+      #s5-chart { position: absolute; left: 45px; top: 320px; width: 860px; height: 210px; overflow: visible; }
+      #s5-chart .gline { stroke: rgba(255, 255, 255, 0.1); stroke-width: 2; }
+      #s5-stair { fill: none; stroke: #7c95ff; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round;
+        filter: drop-shadow(0 0 8px rgba(77, 107, 255, 0.9)); }
+      #s5-spark { fill: #dfe6ff; filter: drop-shadow(0 0 10px #4d6bff) drop-shadow(0 0 22px rgba(77, 107, 255, 0.9)); }
+      #s5-q { position: absolute; left: 80px; right: 80px; top: 890px; text-align: center; }
+      #s5-q1 { font-size: 52px; font-weight: 700; line-height: 1.18; }
+      #s5-q2 { font-size: 76px; font-weight: 900; line-height: 1.08; margin-top: 10px; }
+
+      /* ---------- S6 чек-лист ---------- */
+      #s6-h { position: absolute; left: 90px; right: 65px; top: 300px; }
+      #s6-bepul { font-size: 190px; font-weight: 900; line-height: 0.95; }
+      #s6-mini { font-size: 132px; font-weight: 900; line-height: 1; margin-top: 22px; white-space: nowrap; }
+      #s6-items { position: absolute; left: 90px; right: 65px; top: 700px; display: flex; flex-direction: column; gap: 26px; }
+      .item { display: flex; align-items: center; gap: 30px; height: 120px; }
+      .ck { width: 96px; height: 96px; flex: none; overflow: visible; }
+      .ck circle { fill: rgba(46, 212, 122, 0.14); stroke: #2ed47a; stroke-width: 5; }
+      .ck path { fill: none; stroke: #2ed47a; stroke-width: 9; stroke-linecap: round; stroke-linejoin: round; }
+      .it-t { font-size: 58px; font-weight: 700; white-space: nowrap; }
+
+      /* ---------- S7 стена ---------- */
+      #s7 { background:
+          radial-gradient(circle at 130px 490px, rgba(104, 58, 214, 0.42) 0, rgba(104, 58, 214, 0) 465px),
+          radial-gradient(circle at 960px 1850px, rgba(214, 110, 40, 0.36) 0, rgba(214, 110, 40, 0) 480px),
+          radial-gradient(circle at 970px 850px, rgba(52, 82, 230, 0.2) 0, rgba(52, 82, 230, 0) 340px), #0b0a12; }
+      #s7-chip-wrap { position: absolute; left: 0; right: 0; top: 290px; display: flex; justify-content: center; }
+      #s7-wall { position: absolute; left: 65px; right: 65px; top: 370px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px 25px; }
+      .tile { position: relative; height: 112px; display: flex; align-items: center; justify-content: center; border-radius: 16px;
+        background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.09); }
+      .ti { position: absolute; left: 12px; top: 8px; font-family: "JetBrains Mono", monospace; font-weight: 700; font-size: 15px;
+        font-style: normal; color: rgba(245, 244, 250, 0.58); }
+      #s7-wall span { font-size: 54px; font-weight: 900; line-height: 1; letter-spacing: 0.01em; }
+      #s7-wall .t1 { color: #f5f4fa; }
+      #s7-wall .t2 { color: #ffffff; background: #4d6bff; padding: 8px 18px; border-radius: 10px; }
+      #s7-wall .t3 { color: #0b0a12; padding: 4px 12px;
+        background: linear-gradient(rgba(255, 210, 63, 0) 14%, #ffd23f 14%, #ffd23f 90%, rgba(255, 210, 63, 0) 90%); }
+      #s7-wall .t4 { color: #f5f4fa; text-decoration: underline; text-decoration-color: #7c95ff; text-decoration-thickness: 6px; text-underline-offset: 8px; }
+      #s7-wall .t5 { background-image: linear-gradient(90deg, #8fa6ff, #ff7ab8); -webkit-background-clip: text; background-clip: text; color: rgba(0, 0, 0, 0); }
+      #s7-wall .t6 { font-weight: 400; font-size: 38px; letter-spacing: 0.38em; color: #f5f4fa; }
+      #s7-wall .t7 { color: #0b0a12; background: #f5f4fa; padding: 10px 22px; border-radius: 999px; }
+      #s7-wall .t8 { color: #ffc2e6; text-shadow: 0 0 8px #ff3da5, 0 0 22px #ff3da5; }
+      #s7-wall .t9 { display: inline-block; color: #f5f4fa; transform: skewX(-14deg); }
+      #s7-wall .t10 { color: #a9baff; text-shadow: 1px 1px 0 #3a4fd0, 2px 2px 0 #3a4fd0, 3px 3px 0 #33459f, 4px 4px 0 #2b3a88,
+        5px 5px 0 #233072, 6px 6px 0 #1b255c; }
+      #s7-wall .t11 { background-image: linear-gradient(90deg, #8fa6ff 0, #8fa6ff 56%, #f5f4fa 56%, #f5f4fa 100%);
+        -webkit-background-clip: text; background-clip: text; color: rgba(0, 0, 0, 0); }
+      #s7-wall .t12 { font-family: "JetBrains Mono", monospace; font-weight: 700; color: #2ed47a; letter-spacing: 0.08em; }
+      #s7-zero { position: absolute; left: 0; right: 0; top: 905px; text-align: center; font-size: 190px; font-weight: 900; line-height: 1; }
+      #s7-later { position: absolute; left: 0; right: 0; top: 1112px; text-align: center; font-size: 60px; font-weight: 700;
+        color: rgba(245, 244, 250, 0.92); }
+      #s7-later .red { color: #ff6b80; }
+
+      /* ---------- флёрри: стена BEPUL (mk-clone-wall-transition, 9:16) ---------- */
+      #cw { background: #ffd23f; isolation: isolate; overflow: hidden; }
+      #cw-rows { position: absolute; inset: 0; }
+      .cw-row { position: absolute; left: 0; white-space: nowrap; font-weight: 900; font-size: 220px; line-height: 1;
+        letter-spacing: -0.02em; color: #0b0a12; }
+      #cw-inv { background: #ffd23f; mix-blend-mode: difference; clip-path: inset(0% 100% 0% 0%); }
+
+      /* ---------- S8 призыв ---------- */
+      #s8-h { position: absolute; left: 60px; right: 60px; top: 296px; text-align: center; }
+      #s8-l1 { font-size: 72px; font-weight: 700; line-height: 1.16; white-space: nowrap; }
+      #s8-l2 { font-size: 72px; font-weight: 900; line-height: 1.16; white-space: nowrap; }
+      #s8-card { position: absolute; left: 90px; width: 900px; top: 522px; height: 200px; display: flex; align-items: center;
+        gap: 28px; padding: 0 30px; }
+      .pl { position: relative; width: 140px; height: 140px; flex: none; border-radius: 30px;
+        background: linear-gradient(150deg, #4d6bff, #a259ff); box-shadow: 0 0 40px rgba(77, 107, 255, 0.45); }
+      .pl svg { position: absolute; left: 30px; top: 30px; width: 80px; height: 80px; }
+      #s8-t1 { font-size: 52px; font-weight: 900; line-height: 1.1; white-space: nowrap; }
+      #s8-t2 { font-size: 34px; font-weight: 700; line-height: 1.2; margin-top: 6px; color: rgba(245, 244, 250, 0.78); white-space: nowrap; }
+      #s8-final { position: absolute; left: 0; right: 0; top: 786px; text-align: center; font-size: 160px; font-weight: 900;
+        line-height: 1; letter-spacing: 0.01em; }
+      #s8-chev { position: absolute; left: 420px; top: 980px; width: 240px; height: 250px; overflow: visible; }
+      #s8-chev path { fill: none; stroke: #7c95ff; stroke-width: 18; stroke-linecap: round; stroke-linejoin: round;
+        filter: drop-shadow(0 0 12px rgba(77, 107, 255, 0.85)); }
+    </style>
+  </head>
+  <body>
+    <div data-hf-id="hf-epvd" id="root" data-composition-id="main" data-start="0" data-duration="32.5" data-width="1080" data-height="1920" data-composition-variables="[{ &quot;id&quot;: &quot;fbstore&quot;, &quot;type&quot;: &quot;enum&quot;, &quot;role&quot;: &quot;content&quot;, &quot;label&quot;: &quot;fbstore.shop на сцене 2&quot;, &quot;description&quot;: &quot;Магазин FB-аккаунтов: в рекламе Meta риск отказа. off — 6 карточек без него.&quot;, &quot;default&quot;: &quot;on&quot;, &quot;options&quot;: [{ &quot;value&quot;: &quot;on&quot;, &quot;label&quot;: &quot;Показать&quot; }, { &quot;value&quot;: &quot;off&quot;, &quot;label&quot;: &quot;Убрать&quot; }] }]">
+      <!-- комната -->
+      <div data-hf-id="hf-qawk" id="bg" class="layer">
+        <div data-hf-id="hf-39ba" id="blob-v" class="blob" data-layout-allow-overflow=""></div>
+        <div data-hf-id="hf-x001" id="blob-a" class="blob" data-layout-allow-overflow=""></div>
+        <div data-hf-id="hf-0y42" id="blob-b" class="blob" data-layout-allow-overflow=""></div>
+        <div data-hf-id="hf-n689" class="layer dots"></div>
+      </div>
+
+      <!-- S1 хук -->
+      <div data-hf-id="hf-yihu" id="s1" class="scene">
+        <div data-hf-id="hf-sa1w" id="s1-stage" class="stage" data-layout-allow-overflow="">
+          <svg data-hf-id="hf-97yq" class="layer" viewBox="0 0 1080 1920" aria-label="Bu rolikni">
+            <defs data-hf-id="hf-mh0t"><path data-hf-id="hf-abfh" id="arcPath" d="M 150 660 Q 540 300 930 660" /></defs>
+            <g data-hf-id="hf-gm1c" id="arc-r" data-layout-allow-overlap=""><text data-hf-id="hf-p0z5" class="arc-t" fill="#ff3d5a" data-layout-allow-overlap=""><textpath data-hf-id="hf-rtjq" data-layout-allow-overlap="" href="#arcPath" startOffset="50%" text-anchor="middle">Bu rolikni</textpath></text></g>
+            <g data-hf-id="hf-2gi1" id="arc-c" data-layout-allow-overlap=""><text data-hf-id="hf-zo5r" class="arc-t" fill="#22d3ee" data-layout-allow-overlap=""><textpath data-hf-id="hf-jz22" data-layout-allow-overlap="" href="#arcPath" startOffset="50%" text-anchor="middle">Bu rolikni</textpath></text></g>
+            <g data-hf-id="hf-3hdd" id="arc-main"><text data-hf-id="hf-pqug" class="arc-t" fill="#f5f4fa"><textpath data-hf-id="hf-qhpg" href="#arcPath" startOffset="50%" text-anchor="middle">Bu rolikni</textpath></text></g>
+          </svg>
+          <div data-hf-id="hf-oq9u" id="s1-ai" class="rgb"><span data-hf-id="hf-e9if" class="g-r" data-layout-allow-overlap="">AI</span><span data-hf-id="hf-9fqw" class="g-c" data-layout-allow-overlap="">AI</span><strong data-hf-id="hf-menr" class="acc">AI</strong></div>
+          <div data-hf-id="hf-g1x2" id="s1-yar"><span data-hf-id="hf-xlaz" id="s1-yar-in" class="w">yaratdi<span data-hf-id="hf-jkr6" id="s1-dot" class="dot"></span></span></div>
+        </div>
+      </div>
+
+      <!-- S2 карточки -->
+      <div data-hf-id="hf-ukdt" id="s2" class="scene">
+        <div data-hf-id="hf-grob" id="s2-stage" class="stage" data-layout-allow-overflow="">
+          <div data-hf-id="hf-e6ti" id="s2-fan" class="layer" data-layout-allow-overlap=""></div>
+          <div data-hf-id="hf-ftx5" id="s2-shine" data-layout-allow-overflow=""></div>
+          <div data-hf-id="hf-mxl2" id="s2-sub" class="sub">
+            <div data-hf-id="hf-rzsq" id="s2-l1"><span data-hf-id="hf-ub2b" class="w">Bunaqasini</span> <span data-hf-id="hf-42i8" class="w">mijozlarga</span></div>
+            <div data-hf-id="hf-hnsx" id="s2-l2" class="acc"><span data-hf-id="hf-q5ef" class="w">$100</span> <span data-hf-id="hf-zqmr" class="w">dan</span> <span data-hf-id="hf-rs6f" class="w">sotamiz<span data-hf-id="hf-0yyd" id="s2-dot" class="dot"></span></span></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- S3 список -->
+      <div data-hf-id="hf-tsq0" id="s3" class="scene">
+        <div data-hf-id="hf-nkoe" id="s3-stage" class="stage" data-layout-allow-overflow="">
+                    <div data-hf-id="hf-odp9" id="s3-h1" data-layout-allow-overlap=""><span data-hf-id="hf-ezvx" class="w" data-layout-allow-overlap="">Dizayn,</span> <span data-hf-id="hf-872b" class="w" data-layout-allow-overlap="">montaj</span> <span data-hf-id="hf-acpv" class="w" data-layout-allow-overlap="">va</span> <span data-hf-id="hf-3ii8" class="w" data-layout-allow-overlap="">dasturlashni</span></div>
+          <div data-hf-id="hf-nr0m" id="s3-kw" class="acc"><div data-hf-id="hf-37wv" id="s3-kw1" class="kwl">BILMASDAN</div><div data-hf-id="hf-2zfc" id="s3-kw2" class="kwl">QILAMIZ<span data-hf-id="hf-ydqg" id="s3-dot" class="dot"></span></div></div>
+          <div data-hf-id="hf-ehef" id="s3-rows">
+            <div data-hf-id="hf-i57m" class="row" id="row0"><span data-hf-id="hf-cshg" class="num">01</span><span data-hf-id="hf-v9ab" class="word" data-layout-allow-occlusion=""><span data-hf-id="hf-lhml" class="wt" data-layout-allow-occlusion="">dizayn</span><i data-hf-id="hf-7qtu" class="strike"></i></span></div>
+            <div data-hf-id="hf-m3bn" class="row" id="row1"><span data-hf-id="hf-blkd" class="num">02</span><span data-hf-id="hf-stoj" class="word" data-layout-allow-occlusion=""><span data-hf-id="hf-1x0h" class="wt" data-layout-allow-occlusion="">montaj</span><i data-hf-id="hf-rffa" class="strike"></i></span></div>
+            <div data-hf-id="hf-dffs" class="row" id="row2"><span data-hf-id="hf-bzve" class="num">03</span><span data-hf-id="hf-sfdi" class="word" data-layout-allow-occlusion=""><span data-hf-id="hf-6b4j" class="wt" data-layout-allow-occlusion="">dasturlash</span><i data-hf-id="hf-rtqb" class="strike"></i></span></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- S4 таймлайн -->
+      <div data-hf-id="hf-pulz" id="s4" class="scene">
+        <div data-hf-id="hf-9c7x" id="s4-stage" class="stage" data-layout-allow-overflow="">
+          <div data-hf-id="hf-e5jh" id="s4-title">
+            <div data-hf-id="hf-f1ko" id="s4-l1"><span data-hf-id="hf-t0bg" class="w">Bitta</span> <span data-hf-id="hf-wco5" class="w">rolikka —</span></div>
+            <div data-hf-id="hf-xhnw" id="s4-kw" class="acc" data-layout-allow-overlap="">ikki soatcha</div>
+          </div>
+          <svg data-hf-id="hf-941j" id="s4-clock" viewBox="0 0 160 160">
+            <circle data-hf-id="hf-l7ft" cx="80" cy="80" r="70" fill="rgba(255,255,255,0.05)" stroke="rgba(245,244,250,0.6)" stroke-width="6" />
+            <line data-hf-id="hf-0bj9" x1="80" y1="18" x2="80" y2="30" stroke="rgba(245,244,250,0.6)" stroke-width="5" stroke-linecap="round" />
+            <line data-hf-id="hf-en00" x1="142" y1="80" x2="130" y2="80" stroke="rgba(245,244,250,0.6)" stroke-width="5" stroke-linecap="round" />
+            <line data-hf-id="hf-ehe6" x1="80" y1="142" x2="80" y2="130" stroke="rgba(245,244,250,0.6)" stroke-width="5" stroke-linecap="round" />
+            <line data-hf-id="hf-kc6h" x1="18" y1="80" x2="30" y2="80" stroke="rgba(245,244,250,0.6)" stroke-width="5" stroke-linecap="round" />
+            <line data-hf-id="hf-q9fx" id="hand-h" x1="80" y1="80" x2="80" y2="46" stroke="#f5f4fa" stroke-width="9" stroke-linecap="round" />
+            <line data-hf-id="hf-lxxp" id="hand-m" x1="80" y1="80" x2="80" y2="26" stroke="#7c95ff" stroke-width="6" stroke-linecap="round" />
+            <circle data-hf-id="hf-bk55" cx="80" cy="80" r="8" fill="#7c95ff" />
+          </svg>
+          <div data-hf-id="hf-np6e" id="s4-panel" class="glass">
+            <div data-hf-id="hf-bo58" id="s4-chip" class="chip">AI-MONTAJ</div>
+            <div data-hf-id="hf-s0n7" id="s4-ruler"><span data-hf-id="hf-2nbl">00:00</span><span data-hf-id="hf-1gei">00:05</span><span data-hf-id="hf-1vns">00:10</span><span data-hf-id="hf-zw4n">00:15</span><span data-hf-id="hf-xz9f">00:20</span><span data-hf-id="hf-wscc">00:25</span></div>
+            <div data-hf-id="hf-k5h5" class="trk" style="top: 150px; height: 120px"><span data-hf-id="hf-18dz" class="lab">V1</span><div data-hf-id="hf-0ujr" class="lane" id="lane-v"></div></div>
+            <div data-hf-id="hf-vr4x" class="trk" style="top: 284px; height: 120px"><span data-hf-id="hf-1bbs" class="lab">A1</span><div data-hf-id="hf-lxgo" class="lane" id="lane-a"><div data-hf-id="hf-pviy" id="s4-wave"></div></div></div>
+            <div data-hf-id="hf-1jab" class="trk" style="top: 418px; height: 190px"><span data-hf-id="hf-5w91" class="lab">SFX</span><div data-hf-id="hf-bq1e" class="lane" id="lane-s"></div></div>
+            <div data-hf-id="hf-lsdf" id="s4-playhead" data-layout-allow-occlusion=""><i data-hf-id="hf-n5xp" id="s4-knob"></i></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- S5 счётчик -->
+      <div data-hf-id="hf-lwhy" id="s5" class="scene">
+        <div data-hf-id="hf-7ooo" id="s5-stage" class="stage" data-layout-allow-overflow="">
+          <div data-hf-id="hf-cl6x" id="s5-card" class="glass">
+            <div data-hf-id="hf-6ury" id="s5-label">Hisob-kitob, va’da emas</div>
+            <div data-hf-id="hf-deab" id="s5-chip">10 × $100</div>
+            <div data-hf-id="hf-gkvx" id="s5-glow"></div>
+            <div data-hf-id="hf-46yo" id="s5-count" class="acc" data-layout-allow-overlap="">$100</div>
+            <svg data-hf-id="hf-0n0b" id="s5-chart" viewBox="0 0 860 210">
+              <line data-hf-id="hf-tsn4" class="gline" x1="0" y1="200" x2="860" y2="200" />
+              <line data-hf-id="hf-d6hq" class="gline" x1="0" y1="133" x2="860" y2="133" />
+              <line data-hf-id="hf-mirc" class="gline" x1="0" y1="66" x2="860" y2="66" />
+              <path data-hf-id="hf-4s2w" id="s5-stair" d="M10 200" />
+              <circle data-hf-id="hf-i7tt" id="s5-spark" cx="10" cy="200" r="11" />
+            </svg>
+          </div>
+          <div data-hf-id="hf-r34r" id="s5-q">
+            <div data-hf-id="hf-mphc" id="s5-q1"><span data-hf-id="hf-da5y" class="w">Siz</span> <span data-hf-id="hf-z4yy" class="w">ham</span> <span data-hf-id="hf-6wf1" class="w">onlayn</span> <span data-hf-id="hf-snbh" class="w">AI-mutaxassis</span> <span data-hf-id="hf-6drt" class="w">kasbini</span> <span data-hf-id="hf-t5ow" class="w">egallab,</span></div>
+            <div data-hf-id="hf-peb3" id="s5-q2" class="acc">oyiga $1000 topmoqchimisiz?</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- S6 чек-лист -->
+      <div data-hf-id="hf-hydx" id="s6" class="scene">
+        <div data-hf-id="hf-ks33" id="s6-stage" class="stage" data-layout-allow-overflow="">
+          <div data-hf-id="hf-y389" id="s6-h"><div data-hf-id="hf-e7i3" id="s6-bepul" class="acc">Bepul</div><div data-hf-id="hf-pcer" id="s6-mini">mini-kurs<span data-hf-id="hf-7ki9" id="s6-dot" class="dot"></span></div></div>
+          <div data-hf-id="hf-citd" id="s6-items">
+            <div data-hf-id="hf-urb4" class="item" id="it0"><svg data-hf-id="hf-9oao" class="ck" viewBox="0 0 96 96"><circle data-hf-id="hf-5ly0" cx="48" cy="48" r="42" /><path data-hf-id="hf-btgr" d="M27 50 L42 64 L70 34" /></svg><span data-hf-id="hf-g8ka" class="it-t">mutlaqo noldan</span></div>
+            <div data-hf-id="hf-viyx" class="item" id="it1"><svg data-hf-id="hf-lttk" class="ck" viewBox="0 0 96 96"><circle data-hf-id="hf-qze8" cx="48" cy="48" r="42" /><path data-hf-id="hf-idhn" d="M27 50 L42 64 L70 34" /></svg><span data-hf-id="hf-favu" class="it-t">dasturlashni bilmasdan</span></div>
+            <div data-hf-id="hf-zh2y" class="item" id="it2"><svg data-hf-id="hf-kmwh" class="ck" viewBox="0 0 96 96"><circle data-hf-id="hf-psh5" cx="48" cy="48" r="42" /><path data-hf-id="hf-hz6m" d="M27 50 L42 64 L70 34" /></svg><span data-hf-id="hf-cqcv" class="it-t">sarmoyasiz</span></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- флёрри: стена BEPUL -->
+      <div data-hf-id="hf-pkd8" id="cw" class="layer" data-layout-allow-overflow="" data-layout-allow-overlap="">
+        <div data-hf-id="hf-qpse" id="cw-rows" data-layout-allow-overflow="" data-layout-allow-overlap=""></div>
+        <div data-hf-id="hf-xet5" id="cw-inv" class="layer"></div>
+      </div>
+
+      <!-- S7 стена стилей -->
+      <div data-hf-id="hf-ez4c" id="s7" class="scene">
+        <div data-hf-id="hf-6vy5" class="layer dots"></div>
+        <div data-hf-id="hf-hh9u" id="s7-stage" class="stage" data-layout-allow-overflow="">
+          <div data-hf-id="hf-3k8j" id="s7-chip-wrap"><div data-hf-id="hf-5mac" id="s7-chip" class="chip">kun oxirigacha</div></div>
+          <div data-hf-id="hf-iy8g" id="s7-wall">
+            <div data-hf-id="hf-f6ek" class="tile"><i data-hf-id="hf-qz8e" class="ti">01</i><span data-hf-id="hf-1nqy" class="t1">BEPUL</span></div>
+            <div data-hf-id="hf-8r7o" class="tile"><i data-hf-id="hf-rdjf" class="ti">02</i><span data-hf-id="hf-jxu7" class="t2">BEPUL</span></div>
+            <div data-hf-id="hf-7kal" class="tile"><i data-hf-id="hf-rrug" class="ti">03</i><span data-hf-id="hf-7qwc" class="t3">BEPUL</span></div>
+            <div data-hf-id="hf-7ylm" class="tile"><i data-hf-id="hf-ozp9" class="ti">04</i><span data-hf-id="hf-6etl" class="t4">BEPUL</span></div>
+            <div data-hf-id="hf-9y4r" class="tile"><i data-hf-id="hf-pe0a" class="ti">05</i><span data-hf-id="hf-ttam" class="t5">BEPUL</span></div>
+            <div data-hf-id="hf-acfs" class="tile"><i data-hf-id="hf-psbb" class="ti">06</i><span data-hf-id="hf-as6b" class="t6">BEPUL</span></div>
+            <div data-hf-id="hf-95ip" class="tile"><i data-hf-id="hf-q6mc" class="ti">07</i><span data-hf-id="hf-054w" class="t7">BEPUL</span></div>
+            <div data-hf-id="hf-9jtq" class="tile"><i data-hf-id="hf-trdl" class="ti">08</i><span data-hf-id="hf-z1kt" class="t8">BEPUL</span></div>
+            <div data-hf-id="hf-bjcv" class="tile"><i data-hf-id="hf-u5om" class="ti">09</i><span data-hf-id="hf-ke2q" class="t9">BEPUL</span></div>
+            <div data-hf-id="hf-bxnw" class="tile"><i data-hf-id="hf-pt9k" class="ti">10</i><span data-hf-id="hf-1umq" class="t10">BEPUL</span></div>
+            <div data-hf-id="hf-s3do" class="tile"><i data-hf-id="hf-peyj" class="ti">11</i><span data-hf-id="hf-upjh" class="t11">BEPUL</span></div>
+            <div data-hf-id="hf-rp2n" class="tile"><i data-hf-id="hf-p0ni" class="ti">12</i><span data-hf-id="hf-a10k" class="t12">BEPUL</span></div>
+          </div>
+          <div data-hf-id="hf-4og3" id="s7-zero" class="acc">0 so‘m</div>
+          <div data-hf-id="hf-ur5y" id="s7-later">Keyin — <span data-hf-id="hf-euiv" class="red">3 mln so‘m</span></div>
+        </div>
+      </div>
+
+      <!-- S8 призыв -->
+      <div data-hf-id="hf-b10b" id="s8" class="scene">
+        <div data-hf-id="hf-jlkx" id="s8-stage" class="stage" data-layout-allow-overflow="">
+          <div data-hf-id="hf-d02j" id="s8-h">
+            <div data-hf-id="hf-qqvg" id="s8-l1"><span data-hf-id="hf-u973" class="w">Pastdagi</span> <span data-hf-id="hf-d7jn" class="w">tugmani</span> <span data-hf-id="hf-j59k" class="w">bosing</span></div>
+            <div data-hf-id="hf-qfbz" id="s8-l2" class="acc"><span data-hf-id="hf-32cx" class="w">va</span> <span data-hf-id="hf-p9iy" class="w">bepul</span> <span data-hf-id="hf-bvey" class="w">kursni</span> <span data-hf-id="hf-6idw" class="w">ko‘ring</span></div>
+          </div>
+          <div data-hf-id="hf-ppq2" id="s8-card" class="glass">
+            <div data-hf-id="hf-3f18" class="pl"><svg data-hf-id="hf-e2ht" viewBox="0 0 80 80"><path data-hf-id="hf-ifvo" d="M40 4 C43 26 54 37 76 40 C54 43 43 54 40 76 C37 54 26 43 4 40 C26 37 37 26 40 4 Z" fill="#ffffff" /></svg></div>
+            <div data-hf-id="hf-yeow"><div data-hf-id="hf-r0zv" id="s8-t1">Bepul mini-kurs</div><div data-hf-id="hf-a4gz" id="s8-t2">Onlayn AI-mutaxassis kasbi</div></div>
+          </div>
+          <div data-hf-id="hf-qz5n" id="s8-final" class="acc">BOSING</div>
+          <svg data-hf-id="hf-0yi6" id="s8-chev" viewBox="0 0 240 250">
+            <path data-hf-id="hf-28kh" class="chev" d="M30 20 L120 80 L210 20" />
+            <path data-hf-id="hf-y21g" class="chev" d="M30 100 L120 160 L210 100" />
+            <path data-hf-id="hf-60ub" class="chev" d="M30 180 L120 240 L210 180" />
+          </svg>
+        </div>
+      </div>
+
+      <!-- поверх сцен -->
+      <div data-hf-id="hf-phcv" id="vignette" class="layer"></div>
+      <div data-hf-id="hf-d2i3" id="gl-r" class="layer gl" data-layout-allow-overflow=""><b data-hf-id="hf-ufq5" style="top: 380px; height: 70px"></b><b data-hf-id="hf-vgaq" style="top: 860px; height: 140px"></b><b data-hf-id="hf-ut5z" style="top: 1320px; height: 40px"></b></div>
+      <div data-hf-id="hf-bfla" id="gl-g" class="layer gl" data-layout-allow-overflow=""><b data-hf-id="hf-c0oc" style="top: 520px; height: 40px"></b><b data-hf-id="hf-s3me" style="top: 1010px; height: 90px"></b><b data-hf-id="hf-48ax" style="top: 1500px; height: 60px"></b></div>
+      <div data-hf-id="hf-u7az" id="gl-b" class="layer gl" data-layout-allow-overflow=""><b data-hf-id="hf-naa6" style="top: 300px; height: 110px"></b><b data-hf-id="hf-rabn" style="top: 700px; height: 50px"></b><b data-hf-id="hf-9ubq" style="top: 1180px; height: 120px"></b></div>
+      <div data-hf-id="hf-h9xl" id="flash" class="layer"></div>
+      <div data-hf-id="hf-48ym" id="grain" class="layer"></div>
+
+      <!-- HUD -->
+      <div data-hf-id="hf-rtps" id="hud" class="layer">
+        <i data-hf-id="hf-83wg" class="crop" id="cr-tl"></i><i data-hf-id="hf-6kh2" class="crop" id="cr-tr"></i><i data-hf-id="hf-8qu2" class="crop" id="cr-bl"></i><i data-hf-id="hf-vk98" class="crop" id="cr-br"></i>
+        <div data-hf-id="hf-gwrf" id="hud-top" class="hud-row"><span data-hf-id="hf-3q91"><i data-hf-id="hf-81ar" id="rec-dot"></i>REC</span><span data-hf-id="hf-nf67">AI-MONTAJ</span><span data-hf-id="hf-tphd" id="tc">00:00:00:00</span></div>
+        <div data-hf-id="hf-2bmd" id="hud-bot" class="hud-row"><span data-hf-id="hf-x1nw" id="chap">01/08</span><div data-hf-id="hf-lf03" id="ruler"><b data-hf-id="hf-1lyc" id="ruler-fill"></b></div><span data-hf-id="hf-xra0">1080×1920 · 30P · 120 BPM</span></div>
+      </div>
+
+      <audio data-hf-id="hf-m3dy" id="sfx-mix" src="assets/audio/v4_sfx.wav" data-start="0" data-duration="32.5" data-track-index="9" data-volume="1"></audio>
+    </div>
+
+    <script>
+      (function () {
+        "use strict";
+        const TL = /*TL-BEGIN*/ {"fps":30,"bpm":120,"beat":0.5,"duration":32.5,"scenes":[0,2.5,6.0,10.0,13.5,18.5,21.5,26.5],"s1":{"start":0.0,"ai":0.5,"yar":1.0,"dot":1.25,"glitch":1.75,"out":2.5},"s2":{"start":2.5,"cards":2.55,"cardStep":0.06,"words":[3.0,3.25,3.5,3.75,4.0],"dot":4.25,"tags":3.5,"tagStep":0.08,"shine":4.75,"push":5.25,"out":6.0,"cardCount":7},"s3":{"start":6.0,"head":[6.25,6.375,6.5,6.625],"kw1":6.75,"kw2":7.0,"dot":7.25,"rows":[7.5,8.0,8.5],"strike":0.25,"bloom":9.25,"out":10.0},"s4":{"start":10.0,"title":[10.25,10.375],"kw":10.5,"clock":10.55,"clockEnd":12.55,"panel":10.625,"thumbs":10.75,"thumbStep":0.05,"sfx":[11.0,11.25,11.5,11.75,12.0],"play0":10.75,"play1":13.35,"out":13.5},"s5":{"start":13.5,"card":13.75,"label":13.85,"count0":14.0,"stepGap":0.2,"steps":10,"q1":14.5,"q1Step":0.125,"q2":15.875,"chip":16.125,"bloom":17.25,"out":18.5,"push":16.25},"s6":{"start":18.5,"bepul":18.75,"mini":19.0,"dot":19.25,"items":[19.5,20.0,20.5],"out":21.5},"s7":{"start":21.5,"chip":21.6,"tiles":21.65,"tileStep":0.06,"riser":21.75,"zero":22.75,"later":23.25,"wave":24.25,"out":25.0},"wall":{"start":25.0,"cardOut":25.5,"invert":25.75,"speed":26.0,"flash":26.25,"swap":26.45,"out":26.5},"s8":{"start":26.5,"l1":[26.625,26.875,27.125],"l2":[27.375,27.625,27.875,28.125],"card":28.375,"final":29.0,"chev":29.25,"end":32.5}} /*TL-END*/;
+        const DUR = TL.duration;
+        const LANE_W = 800;
+        const E = { out: "expo.out", in: "power3.in", inOut: "power3.inOut", slam: "power4.out" };
+        const tl = gsap.timeline({ paused: true });
+        const $ = (s) => document.querySelector(s);
+        const $$ = (s) => Array.from(document.querySelectorAll(s));
+        const pad = (n) => String(n).padStart(2, "0");
+
+        // лесенка S5: 9 ступеней ($100 → $1000), вершины в координатах viewBox 0 0 860 210
+        const STAIR = [[10, 200]];
+        for (let i = 1; i <= 9; i++) STAIR.push([10 + 93 * i, 200 - 20 * (i - 1)], [10 + 93 * i, 200 - 20 * i]);
+        const SEGS = STAIR.slice(1).map((b, k) => ({ a: STAIR[k], b, len: Math.hypot(b[0] - STAIR[k][0], b[1] - STAIR[k][1]) }));
+        const STAIR_LEN = SEGS.reduce((sum, seg) => sum + seg.len, 0);
+        function stairAt(dist) {
+          let left = Math.max(0, dist);
+          for (const seg of SEGS) {
+            if (left <= seg.len) {
+              const f = seg.len ? left / seg.len : 0;
+              return [seg.a[0] + (seg.b[0] - seg.a[0]) * f, seg.a[1] + (seg.b[1] - seg.a[1]) * f];
+            }
+            left -= seg.len;
+          }
+          return STAIR[STAIR.length - 1];
+        }
+
+        // детерминированный «шум» вместо Math.random
+        function hash(i, salt) {
+          let h = Math.imul((i | 0) ^ 0x9e3779b9, 0x85ebca6b) ^ Math.imul((salt | 0) + 0x632be5ab, 0xc2b2ae35);
+          h ^= h >>> 13;
+          h = Math.imul(h, 0x27d4eb2f);
+          h ^= h >>> 16;
+          return (h >>> 0) / 4294967296;
+        }
+
+        /* ---------- статичный DOM, который проще собрать циклом ---------- */
+        // сцена 2: настоящие сайты (скрины assets/sites, iPhone 13, первый экран)
+        const SITES = [
+          ["fbstore", "fbstore.shop"], ["synapt-cases", "synapt.tech"], ["racescout", "racescout.ai"],
+          ["mrktcorrect", "mrktcorrect.com"], ["automyai", "automyai.ru"], ["oreshkinmedialab-light", "oreshkinmedialab.ru"],
+          ["ondrejmachart", "ondrejmachart.com"],
+        ];
+        function buildCards() {
+          const vars = window.__hyperframes && window.__hyperframes.getVariables ? window.__hyperframes.getVariables() : {};
+          const sites = SITES.filter(([slug]) => !(slug === "fbstore" && vars.fbstore === "off"));
+          const n = sites.length;
+          const mid = (n - 1) / 2;
+          const step = n >= 7 ? 124 : 140;
+          const fan = $("#s2-fan");
+          sites.forEach(([slug, name], i) => {
+            const off = i - mid;
+            const card = document.createElement("div");
+            card.className = "card";
+            card.style.cssText = `left:${Math.round(540 + off * step - 88)}px;top:${Math.round(452 + Math.abs(off) * 16)}px;z-index:${20 - Math.round(Math.abs(off) * 2)}`;
+            const rot = off * 4.5;
+            card.dataset.rot = String(rot);
+            card.dataset.order = String(Math.abs(off));
+            card.innerHTML = `<div class="ui"><img class="shot" src="assets/sites/${slug}.jpg" alt="${name}"></div>`;
+            fan.appendChild(card);
+            // ценник — отдельный верхний слой у нижнего края своей карточки, с тем же наклоном
+            const cx = 540 + off * step;
+            const cy = 452 + Math.abs(off) * 16 + 153;
+            const a = (rot * Math.PI) / 180;
+            const tag = document.createElement("div");
+            tag.className = "tag";
+            tag.textContent = "$100";
+            tag.dataset.rot = String(rot);
+            tag.setAttribute("data-layout-allow-overlap", "");
+            tag.style.cssText = `left:${Math.round(cx - 112 * Math.sin(a) - 56)}px;top:${Math.round(cy + 112 * Math.cos(a) - 25)}px`;
+            fan.appendChild(tag);
+          });
+        }
+
+        function buildDom() {
+          buildCards();
+          const grads = ["linear-gradient(160deg,#4d6bff,#a259ff)", "linear-gradient(160deg,#ff5f9e,#ffb547)",
+            "linear-gradient(160deg,#22d3ee,#3a6bff)", "linear-gradient(160deg,#a259ff,#ff5f9e)"];
+          const laneV = $("#lane-v");
+          for (let i = 0; i < 12; i++) {
+            const th = document.createElement("i");
+            th.className = "th";
+            th.style.background = grads[i % grads.length];
+            laneV.appendChild(th);
+          }
+          const wave = $("#s4-wave");
+          for (let i = 0; i < 64; i++) {
+            const bar = document.createElement("i");
+            bar.className = "bar";
+            const env = 0.45 + 0.55 * Math.abs(Math.sin(i * 0.31));
+            bar.style.height = Math.round(14 + hash(i, 21) * 86 * env) + "px";
+            wave.appendChild(bar);
+          }
+          const pills = [["Whoosh", 10, 22, 180, "#ff5f9e"], ["Pop", 205, 104, 120, "#7c95ff"], ["Riser", 340, 22, 160, "#ffb547"],
+            ["Glitch", 470, 104, 170, "#a259ff"], ["Zoom", 600, 22, 150, "#2ed47a"]];
+          const laneS = $("#lane-s");
+          pills.forEach(([name, x, y, w, color]) => {
+            const pill = document.createElement("div");
+            pill.className = "pill";
+            pill.setAttribute("data-layout-allow-occlusion", "");
+            pill.textContent = name;
+            pill.style.cssText = `left:${x}px;top:${y}px;width:${w}px;background:${color}`;
+            laneS.appendChild(pill);
+          });
+          const rows = $("#cw-rows");
+          for (let r = 0; r < 10; r++) {
+            const row = document.createElement("div");
+            row.className = "cw-row";
+            row.setAttribute("data-layout-allow-overlap", "");
+            row.style.top = -50 + r * 200 + "px";
+            row.textContent = Array(6).fill("BEPUL").join(" ");
+            rows.appendChild(row);
+          }
+          $("#s5-stair").setAttribute("d", "M" + STAIR.map((pt) => pt.join(" ")).join(" L"));
+          const ruler = $("#ruler");
+          TL.scenes.slice(1).forEach((t) => {
+            const tick = document.createElement("i");
+            tick.className = "rt";
+            tick.style.left = ((t / DUR) * 100).toFixed(3) + "%";
+            ruler.appendChild(tick);
+          });
+        }
+
+        /* ---------- подгонка длинных строк под ширину (canvas, без reflow) ---------- */
+        const ctx = document.createElement("canvas").getContext("2d");
+        function fit(sel, maxW, maxSize) {
+          const el = $(sel);
+          const cs = getComputedStyle(el);
+          ctx.font = `${cs.fontWeight} ${maxSize}px ${cs.fontFamily}`;
+          const width = ctx.measureText(el.textContent.trim()).width;
+          const size = Math.min(maxSize, Math.floor((maxSize * maxW) / width));
+          el.style.fontSize = size + "px";
+          return size;
+        }
+        function fitAll() {
+          fit("#s2-l1", 900, 60);
+          fit("#s2-l2", 860, 84);
+          fit("#s4-kw", 740, 96);
+          const l1 = fit("#s8-l1", 900, 72);
+          const l2 = fit("#s8-l2", 900, 72);
+          $("#s8-l1").style.fontSize = $("#s8-l2").style.fontSize = Math.min(l1, l2) + "px";
+          fit("#s8-t2", 620, 34);
+          [0, 1, 2].forEach((i) => fit(`#it${i} .it-t`, 760, 58));
+        }
+
+        /* ---------- центры «точек»: в них ныряет камера на переходах ---------- */
+        function centerIn(el, scene) {
+          const r = el.getBoundingClientRect();
+          const s = scene.getBoundingClientRect();
+          const k = s.width / 1080;
+          return { x: (r.left + r.width / 2 - s.left) / k, y: (r.top + r.height / 2 - s.top) / k };
+        }
+        function measure() {
+          const o = {};
+          o.s2 = centerIn($("#s2-dot"), $("#s2"));
+          o.s3 = centerIn($("#s3-dot"), $("#s3"));
+          o.s4a = centerIn($("#s4-knob"), $("#s4"));
+          o.s4b = { x: o.s4a.x + LANE_W, y: o.s4a.y };
+          const scene = $("#s5").getBoundingClientRect();
+          const chart = $("#s5-chart").getBoundingClientRect();
+          const k = scene.width / 1080;
+          const u = chart.width / 860;
+          const ends = [STAIR[0], STAIR[STAIR.length - 1]];
+          [o.s5a, o.s5b] = ends.map(([x, y]) => ({ x: (chart.left - scene.left + x * u) / k, y: (chart.top - scene.top + y * u) / k }));
+          o.s6 = centerIn($("#s6-dot"), $("#s6"));
+          return o;
+        }
+
+        /* ---------- общие приёмы ---------- */
+        function words(sel, times, rise = 26) {
+          $$(sel).forEach((el, i) => {
+            tl.fromTo(el, { opacity: 0, y: rise, filter: "blur(6px)" },
+              { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.32, ease: E.out }, times[i]);
+          });
+        }
+        function slam(sel, t, from = 1.6, origin = "50% 50%") {
+          tl.fromTo(sel, { scale: from, opacity: 0, filter: "blur(16px)", transformOrigin: origin },
+            { scale: 1, opacity: 1, filter: "blur(0px)", duration: 0.45, ease: E.slam }, t);
+        }
+        function popDot(sel, t) {
+          tl.fromTo(sel, { scale: 0 }, { scale: 1, duration: 0.32, ease: "back.out(3)" }, t);
+        }
+        function shake(sel, t0, amp) {
+          [[1, -0.7], [-0.8, 0.5], [0.5, -0.4], [-0.3, 0.2], [0, 0]].forEach(([dx, dy], k) => {
+            tl.set(sel, { x: dx * amp, y: dy * amp }, t0 + k / TL.fps);
+          });
+        }
+        // chromatic-glitch: RGB-призраки за основным текстом, время квантовано по кадрам
+        function rgbBurst(sel, t0, frames, amp) {
+          for (let k = 0; k < frames; k++) {
+            const t = t0 + k / TL.fps;
+            const a = amp * (1 - k / frames);
+            tl.set(`${sel} .g-r`, { x: -a * (0.6 + hash(k, t0 * 100) * 0.8), y: (hash(k, 5) - 0.5) * a * 0.4, opacity: 0.9 }, t);
+            tl.set(`${sel} .g-c`, { x: a * (0.6 + hash(k, t0 * 100 + 1) * 0.8), y: (hash(k, 6) - 0.5) * a * 0.4, opacity: 0.9 }, t);
+          }
+          tl.set([`${sel} .g-r`, `${sel} .g-c`], { x: 0, y: 0, opacity: 0 }, t0 + frames / TL.fps);
+        }
+
+        /* ---------- переходы ---------- */
+        function zoomThrough(oldSel, newSel, T, oOld, oNew) {
+          tl.set(oldSel, { transformOrigin: `${oOld.x}px ${oOld.y}px` }, T);
+          tl.to(oldSel, { scale: 2.5, filter: "blur(8px)", duration: 0.4, ease: E.in }, T);
+          tl.to(oldSel, { opacity: 0, duration: 0.3, ease: "power2.in" }, T);
+          tl.fromTo(newSel, { scale: 0.5, opacity: 0, filter: "blur(8px)", transformOrigin: `${oNew.x}px ${oNew.y}px` },
+            { scale: 1, opacity: 1, filter: "blur(0px)", duration: 0.4, ease: E.out }, T + 0.25);
+        }
+        function glitchCut(oldSel, newSel, T) {
+          const ids = ["#gl-r", "#gl-g", "#gl-b"];
+          for (let k = 0; k < 6; k++) {
+            const t = T + k / TL.fps;
+            ids.forEach((id, j) => {
+              tl.set(id, { opacity: 1, x: (hash(k, 40 + j) - 0.5) * 120, y: (hash(k, 50 + j) - 0.5) * 50 }, t);
+            });
+            tl.set(k < 3 ? oldSel : newSel, { x: (hash(k, 60) - 0.5) * 60 }, t);
+          }
+          tl.set(oldSel, { opacity: 0, x: 0 }, T + 3 / TL.fps);
+          tl.set(newSel, { opacity: 1 }, T + 3 / TL.fps);
+          tl.set(ids, { opacity: 0, x: 0, y: 0 }, T + 6 / TL.fps);
+          tl.set(newSel, { x: 0 }, T + 6 / TL.fps);
+        }
+        function pulseCrops(T) {
+          tl.to(".crop", { opacity: 1, borderColor: "rgba(159,178,255,1)", duration: 0.06, ease: "none" }, T);
+          tl.to(".crop", { opacity: 0.45, borderColor: "rgba(245,244,250,0.9)", duration: 0.45, ease: "power2.out" }, T + 0.06);
+        }
+        // флёрри: кадр S7 сжимается в карточку, за ним жёлтая стена BEPUL, инверсия, пересвет в S8
+        function cloneWall() {
+          const W = TL.wall;
+          tl.set("#cw", { opacity: 1 }, W.start);
+          tl.set("#s7", { transformOrigin: "540px 860px" }, W.start);
+          tl.to("#s7", { scale: 0.6, borderRadius: 56, boxShadow: "0 60px 140px rgba(0,0,0,0.6)", duration: 0.42, ease: E.inOut }, W.start);
+          tl.to("#s7", { y: -1500, rotation: -9, duration: 0.4, ease: E.in }, W.cardOut);
+          tl.set("#s7", { opacity: 0 }, W.cardOut + 0.42);
+          $$(".cw-row").forEach((row, r) => {
+            const [a, b] = r % 2 ? [-1000, -100] : [-100, -1000];
+            tl.fromTo(row, { x: a }, { x: b, duration: W.out - W.start, ease: "power2.in" }, W.start);
+          });
+          tl.fromTo("#cw-inv", { clipPath: "inset(0% 100% 0% 0%)" },
+            { clipPath: "inset(0% 0% 0% 0%)", duration: 0.22, ease: "power2.inOut" }, W.invert);
+          tl.fromTo("#cw-rows", { scale: 1 }, { scale: 1.16, duration: W.out - W.speed, ease: "power2.in" }, W.speed);
+          tl.to("#flash", { opacity: 0.8, duration: W.swap - W.flash, ease: "power2.in" }, W.flash);
+          tl.set("#cw", { opacity: 0 }, W.swap);
+          tl.set("#s8", { opacity: 1 }, W.swap);
+          tl.to("#flash", { opacity: 0, duration: 0.4, ease: "power2.out" }, W.swap);
+        }
+
+        /* ---------- HUD и комната ---------- */
+        function buildChrome() {
+          const tc = $("#tc");
+          const clock = { t: 0 };
+          const last = Math.round(DUR * TL.fps) - 1;
+          tl.to(clock, {
+            t: DUR, duration: DUR, ease: "none",
+            onUpdate: () => {
+              const f = Math.min(Math.round(clock.t * TL.fps), last);
+              tc.textContent = `00:00:${pad(Math.floor(f / TL.fps))}:${pad(f % TL.fps)}`;
+            },
+          }, 0);
+          tl.fromTo("#ruler-fill", { scaleX: 0, transformOrigin: "0% 50%" }, { scaleX: 1, duration: DUR, ease: "none" }, 0);
+          tl.fromTo("#rec-dot", { opacity: 1 },
+            { opacity: 0.15, duration: TL.beat, ease: "steps(1)", yoyo: true, repeat: Math.max(0, Math.floor(DUR / TL.beat) - 1) }, 0);
+          TL.scenes.forEach((t, i) => tl.set("#chap", { textContent: `${pad(i + 1)}/08` }, t));
+          [["#blob-v", 70, 50, 8], ["#blob-a", -90, -60, 6.5], ["#blob-b", -60, 80, 10]].forEach(([id, x, y, d]) => {
+            tl.to(id, { x, y, duration: d, ease: "sine.inOut", yoyo: true, repeat: Math.max(0, Math.floor(DUR / d) - 1) }, 0);
+          });
+          [2.5, 6.0, 10.0, 13.5, 18.5, 21.5, TL.wall.start, TL.wall.swap].forEach(pulseCrops);
+        }
+
+        /* ---------- сцены ---------- */
+        function buildS1() {
+          const S = TL.s1;
+          for (let k = 0; k < 9; k++) {
+            const a = 1 - k / 9;
+            tl.set("#arc-r", { x: -12 * a + (hash(k, 11) - 0.5) * 36 * a, y: (hash(k, 12) - 0.5) * 14 * a, opacity: 0.9 * a }, k / TL.fps);
+            tl.set("#arc-c", { x: 12 * a + (hash(k, 13) - 0.5) * 36 * a, y: (hash(k, 14) - 0.5) * 14 * a, opacity: 0.9 * a }, k / TL.fps);
+          }
+          tl.set(["#arc-r", "#arc-c"], { x: 0, y: 0, opacity: 0 }, 9 / TL.fps);
+          tl.fromTo("#arc-main", { scale: 1.07, svgOrigin: "540 560" }, { scale: 1, duration: 0.7, ease: E.out }, 0);
+          slam("#s1-ai", S.ai, 1.7);
+          rgbBurst("#s1-ai", S.ai, 6, 28);
+          shake("#s1-stage", S.ai, 14);
+          tl.fromTo("#s1-yar-in", { x: 380, opacity: 0, skewX: -14 }, { x: 0, opacity: 1, skewX: 0, duration: 0.45, ease: E.out }, S.yar);
+          popDot("#s1-dot", S.dot);
+          rgbBurst("#s1-ai", S.glitch, 8, 20);
+          tl.fromTo("#s1-stage", { scale: 1, transformOrigin: "540px 820px" }, { scale: 1.045, duration: S.out - S.yar, ease: "sine.inOut" }, S.yar);
+        }
+
+        function buildS2() {
+          const S = TL.s2;
+          const cards = $$("#s2-fan .card");
+          // веер раскрывается от центра к краям, ценники $100 падают каскадом на слово «$100»
+          cards.slice().sort((a, b) => Number(a.dataset.order) - Number(b.dataset.order)).forEach((card, k) => {
+            tl.fromTo(card, { x: 452 - card.offsetLeft, y: 140, rotation: 0, scale: 0.6, opacity: 0 },
+              { x: 0, y: 0, rotation: Number(card.dataset.rot), scale: 1, opacity: 1, duration: 0.6, ease: "back.out(1.3)" }, S.cards + k * S.cardStep);
+          });
+          words("#s2-sub .w", S.words);
+          $$("#s2-fan .tag").forEach((tag, i) => {
+            const rot = Number(tag.dataset.rot);
+            tl.fromTo(tag, { scale: 0, opacity: 0, rotation: rot - 12 },
+              { scale: 1, opacity: 1, rotation: rot, duration: 0.35, ease: "back.out(2.2)" }, S.tags + i * S.tagStep);
+          });
+          popDot("#s2-dot", S.dot);
+          tl.fromTo("#s2-shine", { x: -400, skewX: -20, opacity: 0 }, { x: 1400, skewX: -20, opacity: 1, duration: 0.7, ease: "power2.inOut" }, S.shine);
+          tl.fromTo("#s2-stage", { scale: 1, transformOrigin: "540px 760px" }, { scale: 1.05, duration: S.out - S.push, ease: "power2.in" }, S.push);
+        }
+
+        function buildS3() {
+          const S = TL.s3;
+          words("#s3-h1 .w", S.head);
+          slam("#s3-kw1", S.kw1, 1.5, "0% 50%");
+          tl.fromTo("#s3-kw2", { x: -260, opacity: 0 }, { x: 0, opacity: 1, duration: 0.42, ease: E.out }, S.kw2);
+          popDot("#s3-dot", S.dot);
+          S.rows.forEach((t, i) => {
+            tl.fromTo(`#row${i}`, { y: 40, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4, ease: E.out }, t);
+            tl.fromTo(`#row${i} .strike`, { scaleX: 0, transformOrigin: "0% 50%" }, { scaleX: 1, duration: 0.28, ease: "power2.out" }, t + S.strike);
+            tl.to(`#row${i} .wt`, { opacity: 0.5, duration: 0.28, ease: "power2.out" }, t + S.strike);
+          });
+          tl.to("#s3-kw", { textShadow: "0 0 60px rgba(77,107,255,0.95), 0 0 2px rgba(124,149,255,0.6)", duration: 0.4, yoyo: true, repeat: 1, ease: "sine.inOut" }, S.bloom);
+        }
+
+        function buildS4() {
+          const S = TL.s4;
+          const run = S.play1 - S.play0;
+          words("#s4-l1 .w", S.title);
+          slam("#s4-kw", S.kw, 1.45, "0% 50%");
+          tl.fromTo("#s4-clock", { scale: 0.4, opacity: 0, rotation: -40, transformOrigin: "50% 50%" },
+            { scale: 1, opacity: 1, rotation: 0, duration: 0.45, ease: "back.out(1.8)" }, S.clock - 0.05);
+          tl.fromTo("#hand-m", { rotation: 0, svgOrigin: "80 80" }, { rotation: 720, duration: S.clockEnd - S.clock, ease: E.inOut }, S.clock);
+          tl.fromTo("#hand-h", { rotation: 0, svgOrigin: "80 80" }, { rotation: 60, duration: S.clockEnd - S.clock, ease: E.inOut }, S.clock);
+          tl.fromTo("#s4-panel", { y: 90, opacity: 0 }, { y: 0, opacity: 1, duration: 0.5, ease: E.out }, S.panel);
+          $$("#lane-v .th").forEach((el, i) => {
+            tl.fromTo(el, { scaleY: 0, opacity: 0, transformOrigin: "50% 100%" },
+              { scaleY: 1, opacity: 1, duration: 0.25, ease: "back.out(1.6)" }, S.thumbs + i * S.thumbStep);
+          });
+          tl.fromTo("#s4-wave", { clipPath: "inset(0% 100% 0% 0%)" }, { clipPath: "inset(0% 0% 0% 0%)", duration: run, ease: "none" }, S.play0);
+          tl.fromTo("#s4-playhead", { x: 0 }, { x: LANE_W, duration: run, ease: "none" }, S.play0);
+          $$("#lane-s .pill").forEach((el, i) => {
+            tl.fromTo(el, { scale: 0, opacity: 0 }, { scale: 1, opacity: 1, duration: 0.3, ease: "back.out(2.2)" }, S.sfx[i]);
+          });
+        }
+
+        function buildS5() {
+          const S = TL.s5;
+          const jumps = S.steps - 1;
+          const run = jumps * S.stepGap;
+          const count = $("#s5-count");
+          const path = $("#s5-stair");
+          const spark = $("#s5-spark");
+          const len = STAIR_LEN;
+          tl.fromTo("#s5-card", { y: 90, opacity: 0, scale: 0.96 }, { y: 0, opacity: 1, scale: 1, duration: 0.55, ease: E.out }, S.card);
+          tl.fromTo("#s5-label", { y: 14, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4, ease: E.out }, S.label);
+          // счёт ступенями по $100: число и лесенка меняются в одни и те же моменты
+          const value = { v: 100 };
+          tl.to(value, { v: 1000, duration: run, ease: `steps(${jumps})`, onUpdate: () => { count.textContent = "$" + Math.round(value.v); } }, S.count0);
+          tl.fromTo(count, { scale: 0.55, transformOrigin: "0% 60%" }, { scale: 1, duration: run, ease: "power1.inOut" }, S.count0);
+          tl.set(path, { strokeDasharray: len, strokeDashoffset: len }, 0);
+          const draw = { p: 0 };
+          tl.to(draw, {
+            p: 1, duration: run, ease: "none",
+            onUpdate: () => {
+              path.style.strokeDashoffset = len * (1 - draw.p);
+              const [x, y] = stairAt(len * draw.p);
+              spark.setAttribute("cx", x.toFixed(2));
+              spark.setAttribute("cy", y.toFixed(2));
+            },
+          }, S.count0);
+          tl.to(spark, { attr: { r: 20 }, duration: 0.2, yoyo: true, repeat: 1, ease: "sine.inOut" }, S.count0 + run);
+          words("#s5-q1 .w", $$("#s5-q1 .w").map((_, i) => S.q1 + i * S.q1Step));
+          slam("#s5-q2", S.q2, 1.35);
+          tl.fromTo("#s5-chip", { scale: 0, opacity: 0 }, { scale: 1, opacity: 1, duration: 0.35, ease: "back.out(2.2)" }, S.chip);
+          tl.to("#s5-glow", { opacity: 0.9, duration: 0.5, yoyo: true, repeat: 1, ease: "sine.inOut" }, S.bloom);
+          tl.fromTo("#s5-stage", { scale: 1, transformOrigin: "540px 760px" }, { scale: 1.04, duration: S.out - S.push, ease: "sine.inOut" }, S.push);
+        }
+
+        function buildS6() {
+          const S = TL.s6;
+          slam("#s6-bepul", S.bepul, 1.6, "0% 50%");
+          tl.fromTo("#s6-mini", { y: 90, rotation: 4, opacity: 0, transformOrigin: "0% 100%" },
+            { y: 0, rotation: 0, opacity: 1, duration: 0.5, ease: "circ.out" }, S.mini);
+          popDot("#s6-dot", S.dot);
+          S.items.forEach((t, i) => {
+            const check = $(`#it${i} .ck path`);
+            const len = check.getTotalLength();
+            tl.fromTo(`#it${i} .ck`, { scale: 0.6, rotation: -18, opacity: 0, transformOrigin: "50% 50%" },
+              { scale: 1, rotation: 0, opacity: 1, duration: 0.34, ease: "back.out(1.8)" }, t);
+            tl.fromTo(check, { strokeDasharray: len, strokeDashoffset: len }, { strokeDashoffset: 0, duration: 0.4, ease: "power2.out" }, t + 0.12);
+            tl.fromTo(`#it${i} .it-t`, { x: 50, opacity: 0 }, { x: 0, opacity: 1, duration: 0.4, ease: E.out }, t + 0.05);
+          });
+        }
+
+        function buildS7() {
+          const S = TL.s7;
+          tl.fromTo("#s7-chip", { y: -30, opacity: 0 }, { y: 0, opacity: 1, duration: 0.35, ease: E.out }, S.chip);
+          const tiles = $$("#s7-wall .tile");
+          tiles.forEach((el, i) => {
+            tl.fromTo(el, { y: -60, opacity: 0, scale: 0.9 }, { y: 0, opacity: 1, scale: 1, duration: 0.4, ease: "back.out(1.4)" }, S.tiles + i * S.tileStep);
+          });
+          slam("#s7-zero", S.zero, 1.8);
+          shake("#s7-stage", S.zero, 12);
+          tl.fromTo("#s7-later", { y: 40, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4, ease: E.out }, S.later);
+          tiles.forEach((el, i) => {
+            const t = S.wave + (i % 3) * 0.06 + Math.floor(i / 3) * 0.08;
+            tl.to(el, { backgroundColor: "rgba(124,149,255,0.24)", duration: 0.12, yoyo: true, repeat: 1, ease: "none" }, t);
+          });
+        }
+
+        function buildS8() {
+          const S = TL.s8;
+          words("#s8-l1 .w", S.l1);
+          words("#s8-l2 .w", S.l2);
+          tl.fromTo("#s8-card", { y: 70, opacity: 0, scale: 0.96 }, { y: 0, opacity: 1, scale: 1, duration: 0.5, ease: E.out }, S.card);
+          slam("#s8-final", S.final, 1.45);
+          // нижний HUD гаснет: между стрелкой и настоящей кнопкой Meta ничего лишнего
+          tl.to("#hud-bot", { opacity: 0, duration: 0.4, ease: "power2.out" }, S.final);
+          const chevs = $$("#s8-chev .chev");
+          chevs.forEach((el, i) => {
+            tl.fromTo(el, { y: -30, opacity: 0 }, { y: 0, opacity: 0.35, duration: 0.3, ease: E.out }, S.chev + i * 0.08);
+            // волна света сверху вниз в восьмые доли — стрелка «ведёт» к кнопке под видео
+            const t0 = S.chev + 0.4 + i * 0.125;
+            const half = TL.beat / 2;
+            tl.to(el, { opacity: 1, duration: half, ease: "sine.inOut", yoyo: true, repeat: Math.max(0, Math.floor((S.end - t0) / half) - 1) }, t0);
+          });
+          const bob = S.chev + 0.4;
+          tl.fromTo("#s8-chev", { y: 0 }, { y: 16, duration: TL.beat, ease: "sine.inOut", yoyo: true, repeat: Math.max(0, Math.floor((S.end - bob) / TL.beat) - 1) }, bob);
+        }
+
+        function build() {
+          buildDom();
+          fitAll();
+          const o = measure();
+          buildChrome();
+          buildS1();
+          buildS2();
+          buildS3();
+          buildS4();
+          buildS5();
+          buildS6();
+          buildS7();
+          buildS8();
+          glitchCut("#s1", "#s2", TL.s2.start);
+          zoomThrough("#s2", "#s3", TL.s3.start, o.s2, o.s3);
+          zoomThrough("#s3", "#s4", TL.s4.start, o.s3, o.s4a);
+          zoomThrough("#s4", "#s5", TL.s5.start, o.s4b, o.s5a);
+          zoomThrough("#s5", "#s6", TL.s6.start, o.s5b, o.s6);
+          glitchCut("#s6", "#s7", TL.s7.start);
+          cloneWall();
+          window.__timelines["main"] = tl;
+          if (window.__hfForceTimelineRebind) window.__hfForceTimelineRebind();
+        }
+
+        const fonts = ["900 100px Montserrat", "700 100px Montserrat", "400 100px Montserrat", '700 40px "JetBrains Mono"'];
+        Promise.all(fonts.map((f) => document.fonts.load(f)))
+          .catch(() => null)
+          .then(() => document.fonts.ready)
+          .then(build);
+      })();
+    </script>
+  </body>
+</html>
