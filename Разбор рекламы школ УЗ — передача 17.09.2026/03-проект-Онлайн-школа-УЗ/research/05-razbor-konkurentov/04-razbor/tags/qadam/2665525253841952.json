@@ -1,0 +1,99 @@
+{
+ "creative_id": "2665525253841952",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "7 yil bo'ldi / Dekretda o'trib pul topishni",
+  "types": [
+   "история",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.5s: «7 yil bo'ldi»; женщина красится у зеркала, лицо в отражении",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.5s: «Dekretda o'trib pul topishni»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Yeddi yil boldi, uydidikriyatda otirib pul tapishini boshlagyanimga.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для мам",
+   "удалёнка и свобода",
+   "доход"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈00:29): кухня: «Ertalabdan Kechgacha», «Uyni», «Ro'zg'orni», «Qozon tavoqni»",
+    "timecode": "00:29"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:32] Farzan tarbiyasini tashab koymastan,",
+    "timecode": "00:32"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:37] xar bir ayan orzu qiladi.",
+    "timecode": "00:37"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:43] Bana uydu otri,",
+    "timecode": "00:43"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:44] beye malol online savda qilashmikun.",
+    "timecode": "00:44"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:14] Qachanki, uzini puli bogenda.",
+    "timecode": "00:14"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "нет призыва",
+  "destination": "лендинг",
+  "funnel_stage": "Telegram"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук — крупный текст на кадрах; речь: «Yetti yil bo'ldi, uyda dekretda o'tirib pul topishni boshlaganimga» (написание исправлено; перевод: «7 лет, как я начала зарабатывать, сидя дома в декрете»). Ведущая рассказывает от первого лица; ученицей не названа, в кадре не подписана (в utm ссылки указано имя — возможно, приглашённая блогерша, по кадрам не подтверждается). Смысл: женщине нужны свои деньги и спокойствие, не бросая дом и детей → Uzum Market из дома → Qadam Education учит «qadamma-qadam noldan daromadgacha»; онлайн для регионов, офлайн в Ташкенте у метро «Kosmonavtlar» (кадр 4 — карта). Оффера и призыва в расшифровке нет: речь заканчивается на 01:09 («kelib offline darslarda ishtirok etishingiz mumkin»), последние ~8 с без речи и без обзорного кадра — in_creative «нет призыва» по доступным данным. Этап «Telegram» — по адресу ссылки (/uzum-tg)."
+}

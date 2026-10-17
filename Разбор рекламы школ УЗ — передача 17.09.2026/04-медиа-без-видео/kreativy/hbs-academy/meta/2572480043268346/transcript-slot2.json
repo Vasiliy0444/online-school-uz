@@ -1,0 +1,106 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.68,
+   "text": "Trading organimanda bir videodan ikinci videoga otibiribismi,"
+  },
+  {
+   "start": 3.68,
+   "end": 6.52,
+   "text": "bir trader başqa strategegana itan ikid zesi,"
+  },
+  {
+   "start": 6.52,
+   "end": 8.16,
+   "text": "butunliy başqa suli korsidag."
+  },
+  {
+   "start": 8.16,
+   "end": 10.24,
+   "text": "Siz zesi, kob malumati kores,"
+  },
+  {
+   "start": 10.24,
+   "end": 13.68,
+   "text": "lekin, oqirdi, sauda nimadan boshlashchi baribiri bilmiz."
+  },
+  {
+   "start": 13.68,
+   "end": 16.08,
+   "text": "Chuki, tarkog malumatili kob bolishmukun,"
+  },
+  {
+   "start": 16.08,
+   "end": 18.24,
+   "text": "ammo, sizgi boshida oqir gache,"
+  },
+  {
+   "start": 18.24,
+   "end": 19.44,
+   "text": "chunali tizim gerey."
+  },
+  {
+   "start": 19.44,
+   "end": 20.68,
+   "text": "Qaysa aksantallish,"
+  },
+  {
+   "start": 20.68,
+   "end": 22.32,
+   "text": "unni qanaq taqli klish,"
+  },
+  {
+   "start": 22.32,
+   "end": 23.8,
+   "text": "kachi o sauda ge kirish,"
+  },
+  {
+   "start": 23.8,
+   "end": 25.48,
+   "text": "viriski qanaq boshkarish,"
+  },
+  {
+   "start": 25.48,
+   "end": 27.6,
+   "text": "bulani hamisi birbirige baqli."
+  },
+  {
+   "start": 27.6,
+   "end": 32.72,
+   "text": "HBS Express kursu da, shu jaryanani doldan baxilattirib, ketmikib orginiz."
+  },
+  {
+   "start": 32.72,
+   "end": 34.92,
+   "text": "Kurs toshkin shakridi offline formatdi,"
+  },
+  {
+   "start": 34.92,
+   "end": 36.92,
+   "text": "dhi bir yarmayi dalin edib."
+  },
+  {
+   "start": 36.92,
+   "end": 40.04,
+   "text": "Yani, ayli dalamidi tarqaq videolani korub yur shorligi,"
+  },
+  {
+   "start": 40.04,
+   "end": 41.8,
+   "text": "redigini bizimliyi orgini."
+  },
+  {
+   "start": 41.8,
+   "end": 43.8,
+   "text": "Haziro, ariyizib baldirin."
+  }
+ ],
+ "chars": 700,
+ "chars_per_s": 15.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

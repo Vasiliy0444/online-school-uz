@@ -1,0 +1,112 @@
+{
+ "url": "https://web.englify.uz",
+ "domain": "web.englify.uz",
+ "pages_scanned": [
+  "https://web.englify.uz/"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)"
+  ]
+ },
+ "seo_metadata": {
+  "title": "Englify",
+  "description": "0 dan 3 oyda ingliz tilida gapirishni boshlang. IELTS 8.0 balli ustozlar va AI bilan 24/7 amaliyot qiling.",
+  "open_graph": {
+   "title": "Englify - Ingliz tili maktabi",
+   "description": "0 dan 3 oyda ingliz tilida gapirishni boshlang. IELTS 8.0 balli ustozlar va AI bilan 24/7 amaliyot qiling.",
+   "type": "website",
+   "url": "https://web.englify.uz",
+   "image": "https://web.englify.uz/images/logo.jpg",
+   "site_name": "Englify"
+  },
+  "twitter_card": {
+   "card": "summary_large_image",
+   "title": "Englify - Ingliz tili maktabi",
+   "description": "0 dan 3 oyda ingliz tilida gapirishni boshlang.",
+   "image": "https://web.englify.uz/images/logo.jpg"
+  },
+  "headings": {
+   "h1": [
+    "INGLIZ TILIDA  0 DAN 3 OYDA GAPIRISHNI BOSHLANG."
+   ],
+   "h2": [
+    "Englify - til o‘rganish  uchun eng qulay.",
+    "Englifyga kim qachon asos solgan",
+    "Englify vs An&#39;anaviy ta&#39;lim",
+    "O&#39;quvchilar",
+    "Tariflarimiz narxlari",
+    "Englify yetishtirgan uzumlardan bepulga bir shingil tatib ko’ring",
+    "Kurs aynan kimlar uchun?",
+    "0 dan 3 oyda  — gapirishni boshlang."
+   ],
+   "h3": [
+    "Serial uslubidagi 427 video darslar",
+    "Sun&#39;iy intellekt bilan 24/7 amaliy mashg&#39;ulot",
+    "Mavzularni mustahkamlash uchun 2893 ta mashqlar",
+    "Garvard universitetining Spaced Repetition metodi orqali so‘z yodlash",
+    "IELTS balli 8.0 ustozlar bilan haftada 3 marta, 80 daqiqadan jonli darslar",
+    "English Battle — o‘yin orqali mavzuni mustahkamlash",
+    "Teacher Azam",
+    "Mr Javohir",
+    "Mr Mike",
+    "Mr Tommy",
+    "Mr Muhammaddiyor",
+    "Mr Bekzod",
+    "Mrs Go’zal",
+    "Mrs Zukhra",
+    "Mr Islombek",
+    "Mrs Maftuna",
+    "Mr Mukhammadaminkhon",
+    "Mr Ilkhomjon",
+    "Bo&#39;talog&#39;im",
+    "3 Oylik Bo&#39;talog&#39;im",
+    "Ishli odamlar",
+    "Tadbirkorlar",
+    "Sayohatchilar",
+    "Uy bekalari",
+    "Studentlar",
+    "Batafsil ma’lumot olish uchun ro’yxatdan o’ting"
+   ]
+  }
+ },
+ "ctas": [
+  {
+   "text": "IlovaPodcast, Demo dars, Kino, Kitob",
+   "href": "#"
+  }
+ ],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [
+   "https://web.englify.uz/EnglifyLogo.svg",
+   "https://web.englify.uz/_vercel/image?url=%2Fimages%2Flanding%2Flogo.jpg&amp;w=128&amp;q=75",
+   "https://web.englify.uz/_vercel/image?url=%2Fimages%2Flanding%2Flogo.jpg&amp;w=64&amp;q=75",
+   "https://web.englify.uz/click.svg",
+   "https://web.englify.uz/images/landing/active_users.svg",
+   "https://web.englify.uz/images/landing/certificate.svg",
+   "https://web.englify.uz/images/landing/download.svg",
+   "https://web.englify.uz/images/landing/login_users.svg",
+   "https://web.englify.uz/images/landing/wreath-left.svg",
+   "https://web.englify.uz/images/logo.jpg"
+  ],
+  "total_images_found": 207
+ },
+ "integration_links": [],
+ "hidden_elements": {
+  "html_comments": [
+   "teleport start anchor",
+   "teleport anchor",
+   "teleport start anchor",
+   "teleport anchor",
+   "teleport start",
+   "teleport end",
+   "teleport start",
+   "teleport end"
+  ]
+ }
+}

@@ -1,0 +1,156 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.44,
+   "text": "Dunyadagi gigant IT korparatsiyali Suni Intellectsab 10.000 ilab xadumlarini ishtan boshat waddi."
+  },
+  {
+   "start": 5.8,
+   "end": 9.68,
+   "text": "Hamamiz biladigan Oracle kampanyasi shtatini 13% xatir wardi."
+  },
+  {
+   "start": 9.74,
+   "end": 12.52,
+   "text": "Tasi Oracle-in 21.000 kishini ishtan boshatikan."
+  },
+  {
+   "start": 12.94,
+   "end": 16.04,
+   "text": "Yo kimet? Facebook. 8.000 xadummi ishtan boshatikan."
+  },
+  {
+   "start": 16.14,
+   "end": 17.9,
+   "text": "Budigani 10% qisqartirish."
+  },
+  {
+   "start": 18.18,
+   "end": 20.38,
+   "text": "Wa bu faqat IT korparatsiyali edamaz."
+  },
+  {
+   "start": 20.5,
+   "end": 22.04,
+   "text": "Bosqa soxaladi ham doham edwaddi."
+  },
+  {
+   "start": 22.04,
+   "end": 26.04,
+   "text": "UPS. Hamamiz tani edigan logistika soxasdigi gigant."
+  },
+  {
+   "start": 26.04,
+   "end": 28.44,
+   "text": "12000 managerri ishtan boshatgan"
+  },
+  {
+   "start": 28.44,
+   "end": 31.08,
+   "text": "vay yani 30.000-to xadimmi boshatish boychi"
+  },
+  {
+   "start": 31.08,
+   "end": 32.2,
+   "text": "ilan bergan."
+  },
+  {
+   "start": 32.72,
+   "end": 33.44,
+   "text": "Tasor qaslam."
+  },
+  {
+   "start": 33.54,
+   "end": 36.56,
+   "text": "Yani suni intelek cudayam yukara tembladar vajlan vatda"
+  },
+  {
+   "start": 36.56,
+   "end": 38.7,
+   "text": "vay bizan aldimizda bari oga ikiti tanlo bar."
+  },
+  {
+   "start": 39.1,
+   "end": 40.24,
+   "text": "Yoki biz ono cilo ulab,"
+  },
+  {
+   "start": 40.36,
+   "end": 41.32,
+   "text": "oz kolimizgi alamiz,"
+  },
+  {
+   "start": 41.64,
+   "end": 42.86,
+   "text": "yoki biz onge maqlub bolib,"
+  },
+  {
+   "start": 42.92,
+   "end": 44.66,
+   "text": "cemiyatta oz ornimiz yuqatamiz."
+  },
+  {
+   "start": 44.78,
+   "end": 46.66,
+   "text": "Banyam chi, kinchi varyant qiqin ge toruk e mese geri."
+  },
+  {
+   "start": 47.12,
+   "end": 49.08,
+   "text": "Shu sababli, silagi maslakat beradganim,"
+  },
+  {
+   "start": 49.4,
+   "end": 51.0,
+   "text": "Nacad Talim IT Markyazini"
+  },
+  {
+   "start": 51.0,
+   "end": 53.38,
+   "text": "iki ali prompt engineering kursi gyozlin."
+  },
+  {
+   "start": 53.38,
+   "end": 55.5,
+   "text": "chunki yoshiz nitchi dibolishnan qatni nazar,"
+  },
+  {
+   "start": 55.92,
+   "end": 56.92,
+   "text": "u sizgi tohri keledi."
+  },
+  {
+   "start": 56.98,
+   "end": 58.16,
+   "text": "Mayshi xayatiz diboladimi,"
+  },
+  {
+   "start": 58.26,
+   "end": 59.46,
+   "text": "profesional faaliyatizdami,"
+  },
+  {
+   "start": 59.7,
+   "end": 61.86,
+   "text": "suni intelektan maksimal faydalanik."
+  },
+  {
+   "start": 62.2,
+   "end": 63.12,
+   "text": "Mani shukhabalar qali,"
+  },
+  {
+   "start": 63.36,
+   "end": 64.36,
+   "text": "kurski azilishizmukun."
+  }
+ ],
+ "chars": 1094,
+ "chars_per_s": 16.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

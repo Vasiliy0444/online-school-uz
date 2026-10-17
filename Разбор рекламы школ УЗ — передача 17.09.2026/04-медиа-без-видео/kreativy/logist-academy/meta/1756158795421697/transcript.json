@@ -1,0 +1,126 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.64,
+   "text": "Henni siz, lagisikanı qimmatka organishi ish shartmaz."
+  },
+  {
+   "start": 2.78,
+   "end": 5.44,
+   "text": "Henni siz, bizi kursumuzi kelesiz, malumir qismin tolis,"
+  },
+  {
+   "start": 5.5,
+   "end": 8.42,
+   "text": "uqaganini ish kekirganizden kegin ayma ayto la varasiz."
+  },
+  {
+   "start": 8.56,
+   "end": 11.24,
+   "text": "Hazir kunda biz okuchilarimizga shunaka sharaytka verdik."
+  },
+  {
+   "start": 11.56,
+   "end": 13.82,
+   "text": "Bemalay keli lagisikanı noldan organasiz."
+  },
+  {
+   "start": 13.98,
+   "end": 16.76,
+   "text": "Engilis tili darslarimiz bar, speaking klablarimiz bar,"
+  },
+  {
+   "start": 17.08,
+   "end": 19.9,
+   "text": "kelasi, support teacherlarimiz bar, kanaka yardam kerebosa,"
+  },
+  {
+   "start": 19.98,
+   "end": 20.72,
+   "text": "hamasini verisad."
+  },
+  {
+   "start": 21.0,
+   "end": 24.26,
+   "text": "Va kursisi malumir qismin tolisiz, uqaganini ish kekirganizde"
+  },
+  {
+   "start": 24.26,
+   "end": 25.42,
+   "text": "ayma ayto la varasiz."
+  },
+  {
+   "start": 25.42,
+   "end": 28.32,
+   "text": "Və en qızıqı ingilis tiliz orta dərəcəde bosa,"
+  },
+  {
+   "start": 28.42,
+   "end": 30.54,
+   "text": "bir ay davmıda siza speaking izamk otaramiz."
+  },
+  {
+   "start": 30.82,
+   "end": 32.38,
+   "text": "E plus lagiskenyam orga tamiz."
+  },
+  {
+   "start": 32.44,
+   "end": 33.4,
+   "text": "Yakşorgana digam bosa,"
+  },
+  {
+   "start": 33.54,
+   "end": 35.12,
+   "text": "uzimiz ishkenyam caylab koyamiz."
+  },
+  {
+   "start": 35.18,
+   "end": 35.9,
+   "text": "Bundan mamayo."
+  },
+  {
+   "start": 36.24,
+   "end": 37.28,
+   "text": "Bizdegi natijalar,"
+  },
+  {
+   "start": 37.68,
+   "end": 38.62,
+   "text": "en kata natijalar,"
+  },
+  {
+   "start": 38.7,
+   "end": 39.6,
+   "text": "deyib, qorxmi ay tallim,"
+  },
+  {
+   "start": 39.68,
+   "end": 40.82,
+   "text": "agar qızıqı boladigam bosa,"
+  },
+  {
+   "start": 40.92,
+   "end": 41.82,
+   "text": "pas tügme qaldiram."
+  },
+  {
+   "start": 41.9,
+   "end": 42.72,
+   "text": "Ruhat tanuti ila,"
+  },
+  {
+   "start": 42.78,
+   "end": 44.0,
+   "text": "shaksan uzimiz alabaya chikamiz."
+  }
+ ],
+ "chars": 841,
+ "chars_per_s": 19.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

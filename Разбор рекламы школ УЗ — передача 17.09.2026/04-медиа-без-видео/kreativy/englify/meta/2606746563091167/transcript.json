@@ -1,0 +1,146 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.78,
+   "text": "Oldindan, jüdda kob joylagi, xarxil kurslagi ingilis tili no'urganishke borgamma."
+  },
+  {
+   "start": 5.9,
+   "end": 10.56,
+   "text": "Grammatika, reading, vocabulary bulani xamasin osol nek bulan bacirardim."
+  },
+  {
+   "start": 11.0,
+   "end": 15.54,
+   "text": "Lekin aynan speaking practice qalamiz diishsa, jüddayam qorkup gedardim."
+  },
+  {
+   "start": 15.66,
+   "end": 22.06,
+   "text": "Lekin ken roq tishundim, ingilis tili di erkin gapirishim uchun speaking-ni praktika qilishim shart ekin."
+  },
+  {
+   "start": 22.06,
+   "end": 29.18,
+   "text": "Insol labilan, ingilis tili-ni speaking-ni praktika qiladigam ozam, umumaghi chqana qasoz va fikir kem asti."
+  },
+  {
+   "start": 29.18,
+   "end": 32.46,
+   "text": "qorkanimdan xama orgengan sozani unutvarardim."
+  },
+  {
+   "start": 32.46,
+   "end": 34.06,
+   "text": "Xazir manda qorkivim yox,"
+  },
+  {
+   "start": 34.06,
+   "end": 36.98,
+   "text": "lekin oriyla da mangi oxxab qorkanla bosa,"
+  },
+  {
+   "start": 36.98,
+   "end": 39.26,
+   "text": "silage biti zor maslakatim bor."
+  },
+  {
+   "start": 39.26,
+   "end": 41.66,
+   "text": "Endi kim bilan qana qali praktika qilaman dik"
+  },
+  {
+   "start": 41.66,
+   "end": 43.46,
+   "text": "oyilani botirmasi izan boladi,"
+  },
+  {
+   "start": 43.46,
+   "end": 45.7,
+   "text": "chunki Anglify bunga allaka chon"
+  },
+  {
+   "start": 45.7,
+   "end": 47.3,
+   "text": "yechi minit ov qoyishibdi."
+  },
+  {
+   "start": 47.3,
+   "end": 49.34,
+   "text": "Anglify ilovasi gi kirgan ila da"
+  },
+  {
+   "start": 49.34,
+   "end": 51.78,
+   "text": "manashu joyta AI sohbat toshna"
+  },
+  {
+   "start": 51.78,
+   "end": 52.82,
+   "text": "skorsi ila boladi."
+  },
+  {
+   "start": 52.82,
+   "end": 55.18,
+   "text": "Aynan manashu AI sohbat tosh bilan"
+  },
+  {
+   "start": 55.18,
+   "end": 56.9,
+   "text": "uzili xoxla geyan mavzuda"
+  },
+  {
+   "start": 56.9,
+   "end": 60.26,
+   "text": "xoxla gyan che bemolol geplashib otirseyla boladi."
+  },
+  {
+   "start": 60.38,
+   "end": 63.4,
+   "text": "Zirikganizda, boshboganizda, charchaganizda"
+  },
+  {
+   "start": 63.4,
+   "end": 67.76,
+   "text": "bemolol manishu ilovani ochib, praktika qilib otirseyiz boladi."
+  },
+  {
+   "start": 67.92,
+   "end": 69.82,
+   "text": "Man uchun bunu kulay tomollari"
+  },
+  {
+   "start": 69.82,
+   "end": 72.6,
+   "text": "xoxla gyan payitimda, xoxla gyan mavzuda"
+  },
+  {
+   "start": 72.6,
+   "end": 75.28,
+   "text": "qorkmastan, tartimmastan, uyalmastan"
+  },
+  {
+   "start": 75.28,
+   "end": 77.3,
+   "text": "bemolol geplashib otirib olama."
+  },
+  {
+   "start": 77.46,
+   "end": 81.06,
+   "text": "Agar siz xan man yox shaf speakingizni oshirmoqchi bolsanyiz,"
+  },
+  {
+   "start": 81.06,
+   "end": 83.5,
+   "text": "shu xabala orqali roxatdan otin."
+  }
+ ],
+ "chars": 1267,
+ "chars_per_s": 15.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,171 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.8,
+   "text": "Demek, talab bar dekin taklifi yox."
+  },
+  {
+   "start": 1.8,
+   "end": 3.82,
+   "text": "Aynan shujaydi, yaxshigini pul topshiriz boladi."
+  },
+  {
+   "start": 3.9,
+   "end": 5.98,
+   "text": "Khosh, ayyi mutakhaysi burkundo ozan nimaqiladi."
+  },
+  {
+   "start": 6.08,
+   "end": 8.7,
+   "text": "Er talab mujazla bilan gaplashasiz, taza qabulqilasiz."
+  },
+  {
+   "start": 8.84,
+   "end": 10.8,
+   "text": "Bugun, masalam, kurulish kampanyasi bilan kelisti."
+  },
+  {
+   "start": 10.88,
+   "end": 12.42,
+   "text": "Reklamo chun video tayyarlab biramiz."
+  },
+  {
+   "start": 12.46,
+   "end": 13.8,
+   "text": "Narxini 100 dolar da betamiz."
+  },
+  {
+   "start": 13.86,
+   "end": 17.76,
+   "text": "Videona yarati shuchun boladi yamos, nanobanan na ba xix fil suni intelektlardan faydalanib,"
+  },
+  {
+   "start": 17.84,
+   "end": 20.7,
+   "text": "torbe saatichide bitti videona tayyarkali topshiriz boladi."
+  },
+  {
+   "start": 20.7,
+   "end": 23.28,
+   "text": "Kuni gilgite shunaka videona behem alal topshiriz munkun."
+  },
+  {
+   "start": 23.28,
+   "end": 24.72,
+   "text": "xullas kancha kop pishlasiz,"
+  },
+  {
+   "start": 24.8,
+   "end": 26.04,
+   "text": "shuncha kop rapultopasiz."
+  },
+  {
+   "start": 26.12,
+   "end": 27.54,
+   "text": "Asasisi, kompiyutor, internet"
+  },
+  {
+   "start": 27.54,
+   "end": 28.66,
+   "text": "va yakshi fantazi"
+  },
+  {
+   "start": 28.66,
+   "end": 29.74,
+   "text": "va bilimiz bolishkiri."
+  },
+  {
+   "start": 29.86,
+   "end": 31.78,
+   "text": "Bilimi qayadan orgen san boladi, disizmi?"
+  },
+  {
+   "start": 31.92,
+   "end": 34.2,
+   "text": "Kadam edukayishini AI khunarmat kursibar."
+  },
+  {
+   "start": 34.3,
+   "end": 35.72,
+   "text": "Bitti kursi foto, video,"
+  },
+  {
+   "start": 35.92,
+   "end": 37.32,
+   "text": "site, telegram bot, ilova,"
+  },
+  {
+   "start": 37.48,
+   "end": 38.54,
+   "text": "xammasini orgetshadi."
+  },
+  {
+   "start": 38.72,
+   "end": 40.56,
+   "text": "Oktuchili ozlari shusakada ishleshadi."
+  },
+  {
+   "start": 40.66,
+   "end": 41.58,
+   "text": "Fakat nazari emas,"
+  },
+  {
+   "start": 41.68,
+   "end": 44.04,
+   "text": "ozlari artirgan amalitajjii banayam orgetshadi."
+  },
+  {
+   "start": 44.16,
+   "end": 45.42,
+   "text": "Shukungi quli yeddi minna"
+  },
+  {
+   "start": 45.42,
+   "end": 47.54,
+   "text": "ashiq adamla gi zamanami kastilana orgetshgan."
+  },
+  {
+   "start": 47.68,
+   "end": 48.98,
+   "text": "Ishqalib AI mutakayis bubtur,"
+  },
+  {
+   "start": 48.98,
+   "end": 50.98,
+   "text": "qor shilamonkon"
+  },
+  {
+   "start": 50.98,
+   "end": 52.98,
+   "text": "qor shilamonkon"
+  },
+  {
+   "start": 52.98,
+   "end": 54.98,
+   "text": "agar zidam suni intilikta"
+  },
+  {
+   "start": 54.98,
+   "end": 56.98,
+   "text": "organib turib daramat tapmokchi boladiyan"
+  },
+  {
+   "start": 56.98,
+   "end": 58.98,
+   "text": "basiz, pastigi xawal arqali"
+  },
+  {
+   "start": 58.98,
+   "end": 60.98,
+   "text": "bimalol, bipol konsultatsiyagi yazilin"
+  }
+ ],
+ "chars": 1178,
+ "chars_per_s": 19.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

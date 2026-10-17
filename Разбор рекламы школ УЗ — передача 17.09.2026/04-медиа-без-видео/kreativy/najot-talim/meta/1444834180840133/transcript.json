@@ -1,0 +1,41 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Üniversiyattagi vaxtni begirgi uqqazimayin."
+  },
+  {
+   "start": 2.0,
+   "end": 6.0,
+   "text": "Darsitan ikigin alibbetta kasp oriyansini istisangiz, Najat Talim sinig kitup olaydi."
+  },
+  {
+   "start": 6.0,
+   "end": 9.0,
+   "text": "Najat Talim Uzbekistanigi en kattta IT talim markazi bolib,"
+  },
+  {
+   "start": 9.0,
+   "end": 15.0,
+   "text": "dasturlarsinin en songi trendlari, dizayn, hamdi, esim yunarishilari da sinig kitabimiz."
+  },
+  {
+   "start": 15.0,
+   "end": 18.0,
+   "text": "Bu vaxtna kandiyay faydalanish, sizgiye ba'alan."
+  },
+  {
+   "start": 18.0,
+   "end": 21.0,
+   "text": "Najat Talim, Zaman Oyun Kasplar Markazi. Biz sinig kitabimiz."
+  }
+ ],
+ "chars": 389,
+ "chars_per_s": 18.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

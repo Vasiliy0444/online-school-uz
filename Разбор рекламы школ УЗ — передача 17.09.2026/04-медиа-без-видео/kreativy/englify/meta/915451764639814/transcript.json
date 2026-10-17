@@ -1,0 +1,56 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.32,
+   "text": "Hammayan 1.5 yil ingilisinni organib sertifikat olish shartmasayken,"
+  },
+  {
+   "start": 3.44,
+   "end": 6.16,
+   "text": "birxiligi tezdi organib gaplash itchun ishi birsi boldi."
+  },
+  {
+   "start": 6.22,
+   "end": 9.16,
+   "text": "Man techi razam 13 yilik tajribigi egi ingilisira oqtotisman"
+  },
+  {
+   "start": 9.16,
+   "end": 13.88,
+   "text": "va 22-23-24-20abr kunnari Beeple online masterclass-ta ishkiliyashdiri yapman."
+  },
+  {
+   "start": 14.3,
+   "end": 18.6,
+   "text": "Ushu masterclass-ta kanay qilib 0-30 kunn ichin ingilisilda kundalik mauzurada gaplashini boshlash."
+  },
+  {
+   "start": 18.98,
+   "end": 21.62,
+   "text": "Kundigi elikdigi chamsozuna 10 son yotlap realxayotlashyatish"
+  },
+  {
+   "start": 21.62,
+   "end": 25.58,
+   "text": "va ba 2-dorijiligi sertifikat olishnin samarali yollarini orgataman."
+  },
+  {
+   "start": 25.58,
+   "end": 28.94,
+   "text": "Masterclassda katnash mutlaka beipul, fakat qabalan ustuki basip,"
+  },
+  {
+   "start": 29.08,
+   "end": 30.86,
+   "text": "yapik sirgam kanalamgi koshir baray."
+  }
+ ],
+ "chars": 599,
+ "chars_per_s": 19.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

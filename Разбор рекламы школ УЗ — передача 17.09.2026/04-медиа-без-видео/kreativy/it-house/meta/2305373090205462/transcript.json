@@ -1,0 +1,71 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.1,
+   "text": "Yiyam, man bu fail sakha niz bomi apta korber o'lisanm?"
+  },
+  {
+   "start": 3.78,
+   "end": 6.28,
+   "text": "Ezazan, xaz vaqtim yawakiy, iraqiy agin."
+  },
+  {
+   "start": 9.24,
+   "end": 11.72,
+   "text": "Usta, shu fail sakha niz bomi apta karabirin?"
+  },
+  {
+   "start": 12.9,
+   "end": 13.6,
+   "text": "Az verin."
+  },
+  {
+   "start": 18.9,
+   "end": 23.66,
+   "text": "Kampyotor uchum agin izuchum, bosh qiladan unuq bir, bunuq bir, dib soro urox, jani zgididim?"
+  },
+  {
+   "start": 23.8,
+   "end": 26.2,
+   "text": "Buda digi itya iqidi toqr lesa boladi."
+  },
+  {
+   "start": 26.38,
+   "end": 27.88,
+   "text": "Foundation kursimiz dalbatdi."
+  },
+  {
+   "start": 27.88,
+   "end": 33.88,
+   "text": "Bu yerdasiz noldan toluq kompüterdan faydalanishe va iski kerek bolediyan barchi programmalardan faydalanishe na organasiz."
+  },
+  {
+   "start": 34.6,
+   "end": 38.96,
+   "text": "Qullas, xichkimye muhtoch bol midiyan daracada kompüterda ishlaishna organasiz."
+  },
+  {
+   "start": 39.26,
+   "end": 44.26,
+   "text": "Bonus tarikasta zamanavi suni intelekt programmalardan faydalanishe na xam organasiz."
+  },
+  {
+   "start": 44.46,
+   "end": 47.5,
+   "text": "Shukhakti Foundation boyche bi bulo chikdaslarimiz bolu botada."
+  },
+  {
+   "start": 47.62,
+   "end": 51.04,
+   "text": "Joyingizni band qilush uchun xozroq izoglarda plus belgesini qazdariyn."
+  }
+ ],
+ "chars": 741,
+ "chars_per_s": 14.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

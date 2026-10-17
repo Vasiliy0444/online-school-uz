@@ -1,0 +1,36 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.32,
+   "text": "Dacribiz yo, diplomiz yo, lekin uzun marketta sat uchi bolishim kanyatiz bard."
+  },
+  {
+   "start": 4.44,
+   "end": 6.66,
+   "text": "Biz aynan siz uchun, be pul test ayarladiy."
+  },
+  {
+   "start": 6.74,
+   "end": 11.68,
+   "text": "Siz u yurda ati ki altmi sanyada uzun marketta 500 dolarda 2000 dolara gechi daromad ki chikalish,"
+  },
+  {
+   "start": 11.76,
+   "end": 13.28,
+   "text": "ya ki chikamasligizdi bilvalas."
+  },
+  {
+   "start": 13.44,
+   "end": 15.94,
+   "text": "Test daot uchun, xazira pastagi xawalani basin."
+  }
+ ],
+ "chars": 301,
+ "chars_per_s": 18.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

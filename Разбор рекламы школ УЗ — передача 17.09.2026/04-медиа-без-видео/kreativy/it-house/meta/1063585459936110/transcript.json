@@ -1,0 +1,36 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.92,
+   "text": "Birgini shuus oqanig huzigi, duniya boyla 5 yarim minyon yakin ish ornmadi."
+  },
+  {
+   "start": 4.34,
+   "end": 7.72,
+   "text": "Hatta uzbikistan daxam, boshlanqish 1000 dolar maash doleshadi."
+  },
+  {
+   "start": 8.06,
+   "end": 10.04,
+   "text": "Bu, kibir xafsidik mutaqatislari."
+  },
+  {
+   "start": 10.2,
+   "end": 13.16,
+   "text": "Agar siz, kibir xafsidik mutaqatisi bolmachi bolsayniz,"
+  },
+  {
+   "start": 13.32,
+   "end": 16.06,
+   "text": "unda IT haosinin kibir xafsidik kurslari doqin."
+  }
+ ],
+ "chars": 277,
+ "chars_per_s": 16.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,61 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.7,
+   "text": "Pul tapish uchun ishtash kerey ligini hamayam biladi."
+  },
+  {
+   "start": 3.0,
+   "end": 8.72,
+   "text": "Lekin, iyer taleptan kechkeche, uyni, rozgarini, kazan tovanini, tashab ketishkin hamayam tayyar imas."
+  },
+  {
+   "start": 9.02,
+   "end": 14.06,
+   "text": "Farzan tarbiyasini tashab koymastan, hayatiga muas geladigan, tinchini buzmigigan ishi bolishini,"
+  },
+  {
+   "start": 14.38,
+   "end": 15.92,
+   "text": "xar bir ayan orzu qiladi."
+  },
+  {
+   "start": 16.34,
+   "end": 19.18,
+   "text": "Xazir, bunaka imkanyatilardan bittasi uzun marketigyan."
+  },
+  {
+   "start": 20.26,
+   "end": 23.16,
+   "text": "Gana uydu otri, beye malol online savda qilashmikun."
+  },
+  {
+   "start": 23.48,
+   "end": 27.78,
+   "text": "Maksula tanlisis, uzunge caylisis, qolganini platformani ozu qiladi."
+  },
+  {
+   "start": 27.78,
+   "end": 36.76,
+   "text": "Shun arslan orgenishda sizga qadam edikishin yordan biradi, mangi in yokani sod datildi qadam ma qadan sizdo noldan daramat gechi obchikshadi."
+  },
+  {
+   "start": 36.9,
+   "end": 40.98,
+   "text": "Agar vloyotdan turub okumakchi bolsangiz, online platformada orgenishnigiz mumkun."
+  },
+  {
+   "start": 41.18,
+   "end": 48.62,
+   "text": "Agar toshkende yashisangiz, shundo kasmanatlar metro yonuda okub markez joylashgan, kelib offline darsladda ishirok etshnigiz mumkun."
+  }
+ ],
+ "chars": 818,
+ "chars_per_s": 15.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

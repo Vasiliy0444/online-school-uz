@@ -1,0 +1,69 @@
+{
+  "creative_id": "1030904319872614",
+  "platform": "meta",
+  "school_id": "englify",
+  "format": {
+    "type": "видео",
+    "duration_bucket": "61–120 с",
+    "aspect": "9:16"
+  },
+  "style": ["говорящая голова", "съёмка на телефон"],
+  "hook": {
+    "verbatim": "85-90 foiz ingliz tili o'rganayotganlar 1-2 oydan keyin tashlab yuborishadi",
+    "types": ["цифра", "боль"],
+    "visual": ["лицо в первом кадре"],
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_hook.jpg 0.0s–2.5s: 85 / 85-90 / 85-90 foiz / ingliz tili / ingliz tili o'rganayotganlar / 1-2 oydan (мужчина в очках за столом с пловом в ресторане)",
+        "timecode": "00:00"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "85-90% ingilis ter o'rgan wat gale, berik ko'ay nekin tashabi o'warade.",
+        "timecode": "00:00"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["экономия времени"],
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:48: 10 minut 10 minut",
+        "timecode": "00:48"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "xakilagan joydi, xakilagan vaqt izdi\n[00:46] 10 minut, 10 minutdan qib getas",
+        "timecode": "00:44"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:29: Hayot tashvishlari",
+        "timecode": "00:29"
+      },
+      {
+        "source": "текст объявления",
+        "quote": "⏰ Har kuni atigi 10 daqiqa bilan boshlang"
+      }
+    ]
+  },
+  "offer": {
+    "items": ["без оффера"]
+  },
+  "cta": {
+    "button": "Install now",
+    "in_creative": "перейти по ссылке",
+    "destination": "приложение",
+    "funnel_stage": "основной продукт"
+  },
+  "speaker": {
+    "role": "актёр или ведущий"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": true,
+  "risk": false,
+  "confidence": "высокая",
+  "notes": "Хук по субтитрам на кадрах, конец фразы («keyin tashlab yuborishadi») по расшифровке, написание исправлено. Ведущий рассказывает про Englify в третьем лице («ingilify aynan ishli adamlar uchun tizm yaratgan», 00:32), имя не звучит. Смысл: у занятых людей нет времени (работа, дом, семья) — учить английский по 10 минут где угодно (пробка, обед на работе, вечер), speaking с ИИ. Призыв в конце: «siz xawalanisda ge basib ilavan yukilabali» (01:13) — скачать приложение по ссылке. Перевод хука: «85–90% изучающих английский бросают через 1–2 месяца»."
+}

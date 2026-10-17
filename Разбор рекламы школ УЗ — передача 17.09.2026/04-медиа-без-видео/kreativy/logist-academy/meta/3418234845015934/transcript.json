@@ -1,0 +1,96 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.72,
+   "text": "Universitetke kramadizm, no problem, kerin."
+  },
+  {
+   "start": 2.84,
+   "end": 6.78,
+   "text": "Amerikala geiskasini orga tamiz, Toriel Universitetde okup tapadigan pulizi,"
+  },
+  {
+   "start": 6.92,
+   "end": 10.84,
+   "text": "khazr la geiskani baslasiz, Toriel'dan ki masi neyiz, uiz boladi keregosa."
+  },
+  {
+   "start": 11.18,
+   "end": 14.34,
+   "text": "Amerikala geiskasi arkali khazir kulunan, narman nekul kotarsa boladi."
+  },
+  {
+   "start": 14.42,
+   "end": 18.0,
+   "text": "Okulchilarin olgi, 1000, 2000, 3000, 4000 olor gechi kul tapishyabdi."
+  },
+  {
+   "start": 18.44,
+   "end": 22.74,
+   "text": "Ve, ulardan yagana talaful enganlarsa, shu ingilis tilini orta daracada bilsiz,"
+  },
+  {
+   "start": 23.12,
+   "end": 27.24,
+   "text": "kesiz, ozimiz tekin speaking kurslarimiz var, ozimiz kotarvalamiz speaking izir,"
+  },
+  {
+   "start": 27.24,
+   "end": 30.18,
+   "text": "Vizizgi polnuschi Amerikalagi isikasini noldan orgetamiz."
+  },
+  {
+   "start": 30.18,
+   "end": 33.02,
+   "text": "En qizigi, yaks orgena digan bosayiz, ishtanmama yo,"
+  },
+  {
+   "start": 33.02,
+   "end": 35.38,
+   "text": "xazir kundi judikatda kampanyala bilan ishlimiz"
+  },
+  {
+   "start": 35.38,
+   "end": 38.06,
+   "text": "viziz o shi kampanyalagi bemala ishke jala koyalimiz."
+  },
+  {
+   "start": 38.06,
+   "end": 40.32,
+   "text": "Yagana talab ingilis silini yakshi bilishiz"
+  },
+  {
+   "start": 40.32,
+   "end": 41.56,
+   "text": "vizizgi yashis tohri gelishkiri."
+  },
+  {
+   "start": 41.56,
+   "end": 43.12,
+   "text": "Kopro malimat amaqci bosayiz,"
+  },
+  {
+   "start": 43.12,
+   "end": 44.44,
+   "text": "pasti tukma qaldirama,"
+  },
+  {
+   "start": 44.44,
+   "end": 46.56,
+   "text": "rolxatdan otni shaksan uzimiz alagaya chikib,"
+  },
+  {
+   "start": 46.56,
+   "end": 47.56,
+   "text": "tolo malimat veramiz."
+  }
+ ],
+ "chars": 908,
+ "chars_per_s": 19.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

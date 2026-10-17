@@ -1,0 +1,31 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.42,
+   "text": "Najot Talim oçilgenden beri en kub soraligan kurslaridan buri bu foundation unanishi bulgin."
+  },
+  {
+   "start": 5.72,
+   "end": 14.06,
+   "text": "Aga siz dasturlashki kizik saniz, hamda sohani nimadan boshlash bu ochi ikilayikyan bulsaniz, biz sizini Najot Talimdagi foundation kurslarida kutuk olamiz."
+  },
+  {
+   "start": 14.06,
+   "end": 21.34,
+   "text": "Ishwani bu kurs en manfaatli kurslaridan bulib, xar oy doamadi en kub soraligan va talab katli unanishlaridan buridib."
+  },
+  {
+   "start": 21.48,
+   "end": 24.4,
+   "text": "Dasturlashki kizika sizmi, foundation Najot Talimdi."
+  }
+ ],
+ "chars": 421,
+ "chars_per_s": 17.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

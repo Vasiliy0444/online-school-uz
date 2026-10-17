@@ -1,0 +1,191 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.4,
+   "text": "Cool Centerda menagerla aygar astana minn olur gechi ishlab tapishadimi, viziona akhirda, sizami shikirsiz boladi."
+  },
+  {
+   "start": 5.4,
+   "end": 6.52,
+   "text": "Kani bomisi,"
+  },
+  {
+   "start": 6.52,
+   "end": 7.76,
+   "text": "Gettun!"
+  },
+  {
+   "start": 7.76,
+   "end": 10.4,
+   "text": "Agar siz qadam ediki ishinda sato menageri boladi yanbosiz,"
+  },
+  {
+   "start": 10.4,
+   "end": 12.16,
+   "text": "neyichbil tapishiz, o izgi balig boladi."
+  },
+  {
+   "start": 12.16,
+   "end": 15.04,
+   "text": "Chunki kanchi kop sadakisis, chunchi kop bonus koshiladi,"
+  },
+  {
+   "start": 15.04,
+   "end": 16.44,
+   "text": "va aylii kat tegini boladi."
+  },
+  {
+   "start": 16.44,
+   "end": 18.36,
+   "text": "Hosh, menagerla ozu burkunda nimalagiladi,"
+  },
+  {
+   "start": 18.36,
+   "end": 20.4,
+   "text": "idi yanbosiyla majazilabilan gaplashasiz."
+  },
+  {
+   "start": 20.4,
+   "end": 22.8,
+   "text": "Telefonda, yokida, telegramda ishlani xalkilasiz."
+  },
+  {
+   "start": 22.8,
+   "end": 24.32,
+   "text": "Ulani sagorlariga jawab berib,"
+  },
+  {
+   "start": 24.32,
+   "end": 25.56,
+   "text": "kurs dasturini chuntiras,"
+  },
+  {
+   "start": 25.56,
+   "end": 27.48,
+   "text": "va shart domalanin rasmilashtirasiz."
+  },
+  {
+   "start": 27.48,
+   "end": 29.72,
+   "text": "Ishikirsiz ayligin kanag boladdi boladsis,"
+  },
+  {
+   "start": 29.72,
+   "end": 30.68,
+   "text": "xazu chuntrib berama."
+  },
+  {
+   "start": 30.68,
+   "end": 32.56,
+   "text": "Fiks aylig ayligi 2.5 milyonsom"
+  },
+  {
+   "start": 32.56,
+   "end": 33.88,
+   "text": "sato urayjasini bacarsiz,"
+  },
+  {
+   "start": 33.88,
+   "end": 36.08,
+   "text": "yana 10.5 milyonsom bonus berladi."
+  },
+  {
+   "start": 36.08,
+   "end": 38.16,
+   "text": "Shundi cami ayligi 13.0 milyonsom gechi"
+  },
+  {
+   "start": 38.16,
+   "end": 39.4,
+   "text": "bimalal topsisiz boladdi."
+  },
+  {
+   "start": 39.4,
+   "end": 40.4,
+   "text": "Bu xalag hammasmaz,"
+  },
+  {
+   "start": 40.4,
+   "end": 41.4,
+   "text": "menajirligdanki,"
+  },
+  {
+   "start": 41.4,
+   "end": 41.88,
+   "text": "timlid"
+  },
+  {
+   "start": 41.88,
+   "end": 42.8,
+   "text": "va ondanki"
+  },
+  {
+   "start": 42.8,
+   "end": 44.48,
+   "text": "rob bolub ishlasiz an boladdi."
+  },
+  {
+   "start": 44.48,
+   "end": 46.36,
+   "text": "Yani karieris toqtosiz osaddi."
+  },
+  {
+   "start": 46.36,
+   "end": 48.4,
+   "text": "Timlidirlani ayligi 16.0 milyonsom,"
+  },
+  {
+   "start": 48.4,
+   "end": 51.2,
+   "text": "roblani ki bosik 22.0 milyonsom atrafada chikarkan."
+  },
+  {
+   "start": 51.2,
+   "end": 56.78,
+   "text": "Qadamda qoshimchi bonus oyunlayan barakan, tolo apkirdizmi xarkil oyunlada qatnashib pulli soorlanayam olas."
+  },
+  {
+   "start": 56.88,
+   "end": 62.4,
+   "text": "Agar aili rejanabaciradigan, bo siz butun kamanda bilan kampaniya xsabdan dachigayam damagany baralisis."
+  },
+  {
+   "start": 62.58,
+   "end": 66.7,
+   "text": "Ishki krischon sidan nimalat alab qilnada, yashiz 18-26 araligda bolishkiri,"
+  },
+  {
+   "start": 66.84,
+   "end": 69.14,
+   "text": "toshkin, yaki da toshkin vlayatada yashishis kiri,"
+  },
+  {
+   "start": 69.3,
+   "end": 72.76,
+   "text": "savda, yaki da kol sentrlada, kamada uchayi tajribiz bolishkiri,"
+  },
+  {
+   "start": 72.84,
+   "end": 74.8,
+   "text": "ba bo sizde asasi ishiz bolishkiri."
+  },
+  {
+   "start": 74.8,
+   "end": 78.96,
+   "text": "Ishqib call center di sato menajer leqit turm nech, vtabsh momkond, legin, kor shilamomkond."
+  },
+  {
+   "start": 80.66,
+   "end": 85.84,
+   "text": "Agar sizam qadam jamasun sato kamandasiye qoshinmokch boladiyan, mosiz pastige xawala orqali otin."
+  }
+ ],
+ "chars": 1615,
+ "chars_per_s": 18.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

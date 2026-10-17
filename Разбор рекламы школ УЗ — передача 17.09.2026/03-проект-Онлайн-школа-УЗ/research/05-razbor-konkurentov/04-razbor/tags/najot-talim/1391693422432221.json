@@ -1,0 +1,71 @@
+{
+ "creative_id": "1391693422432221",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": ">120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Ertalab 4'da yo'lga chiqasizmi? Rostan?",
+  "types": [
+   "вопрос",
+   "цифра"
+  ],
+  "visual": [
+   "крупный текст",
+   "лицо в первом кадре"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.5s: чёрно-белая съёмка «под камеру», субтитры «Ertalab» → «Ertalab 4'da» → «Ertalab 4'da yolga chiqasizmi» → «Rostan?»"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Navbatdagi o'quvchimiz Shahboz har kuni Angren shahridan Najot Ta'limdagi Full Stack kursi darslariga qatnaydi."
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для регионов",
+   "экономия времени"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Biz esa sizning vaqtingiz yo'llarda emas, bilim olishga, o'zingiz ustida ishlashga sarflanishini istaymiz."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:10] Uchi aydan meri qatneyimim.\n[00:11] Har kini?\n[00:12] Har kini.",
+    "timecode": "00:10"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Visit Instagram profile",
+  "in_creative": "слово в комментарии",
+  "destination": "Instagram",
+  "funnel_stage": "директ"
+ },
+ "speaker": {
+  "role": "ученик"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "Отзыв ученика Shahboz (ежедневно ездит из Ангрена), имя не выношу в speaker. Заголовок объявления — пословица «Vaqt — bu qilich» (Время — это меч), а сам текст заканчивается открытым вопросом к аудитории («qancha vaqtingizni yo'lga sarflayapsiz?») без явного «➕» — это скорее вовлекающий вопрос, чем прямой призыв к комментарию, но ближайшая доступная категория — «слово в комментарии». Расшифровка на 160 с очень длинная и сильно искажена, с большим вырезанным куском, поэтому confidence низкая; для meaning использованы только чётко читаемые фрагменты про ежедневные поездки. Оффера нет."
+}

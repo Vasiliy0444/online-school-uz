@@ -1,0 +1,70 @@
+{
+ "url": "https://qadam.education",
+ "domain": "qadam.education",
+ "pages_scanned": [
+  "https://qadam.education/uzum/quiz/3"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)",
+   "Google Tag Manager"
+  ],
+  "ad_pixel": [
+   "Meta Pixel"
+  ]
+ },
+ "seo_metadata": {
+  "title": "Copy of Copy of Blank page",
+  "open_graph": {
+   "url": "https://qadam.education/uzum/quiz/3",
+   "title": "Copy of Copy of Blank page",
+   "type": "website"
+  },
+  "canonical": "https://qadam.education/uzum/quiz/3",
+  "headings": {
+   "h2": [
+    "Hozircha Uzumda daromad qilish siz uchun unchalik mos emas",
+    "${repeat ? 'Siz allaqachon so‘rovnomani to‘ldirgansiz' : 'Tayyor! Mana havola'}"
+   ],
+   "h3": [
+    "Kanaldan nimalarni topasiz"
+   ]
+  }
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [],
+  "total_images_found": 2
+ },
+ "integration_links": [],
+ "hidden_elements": {
+  "html_comments": [
+   "metatextblock",
+   "/metatextblock",
+   "Meta Pixel Code",
+   "End Meta Pixel Code",
+   "Yandex.Metrika counter",
+   "/Yandex.Metrika counter",
+   "nominify end",
+   "Global Site Tag (gtag.js) - Google Analytics",
+   "@classes t-title t-text t-btn",
+   "nominify end",
+   "/allrecords",
+   "Yandex.Metrika counter 102020541",
+   "/Yandex.Metrika counter"
+  ]
+ },
+ "google_ids": {
+  "ga4": [
+   "G-PTHDY45413"
+  ],
+  "gtm": [
+   "GTM-T5VCRHRZ"
+  ]
+ }
+}

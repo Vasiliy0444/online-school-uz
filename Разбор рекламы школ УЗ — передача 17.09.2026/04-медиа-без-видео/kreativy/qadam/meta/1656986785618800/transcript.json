@@ -1,0 +1,36 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.42,
+   "text": "Uzumarkita daromad top moqchisiz, lekin nimadan boqshayashni bilmayapsiz mi?"
+  },
+  {
+   "start": 3.68,
+   "end": 7.36,
+   "text": "Kopchilik aynan boqshayanishda tohtab koladi, chunki koplar nima saotishni bilmaydi,"
+  },
+  {
+   "start": 7.48,
+   "end": 10.1,
+   "text": "kayardan boqshayashni tushunmaydi, va qataqilishtan korqali."
+  },
+  {
+   "start": 10.22,
+   "end": 12.4,
+   "text": "Joylar sonu chekilangan, xozrok ariza koldirin,"
+  },
+  {
+   "start": 12.4,
+   "end": 15.44,
+   "text": "va biz sizgi noldan boqshayashchun anik yol xaritasli korsatamiz."
+  }
+ ],
+ "chars": 336,
+ "chars_per_s": 21.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

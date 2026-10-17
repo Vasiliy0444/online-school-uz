@@ -1,0 +1,791 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.46,
+   "text": "Akilaman do'ilat ishidan, boshamastan turu biznis qiganman, ikilasini paralilab kitganman, biznisim zor bob kitkandan kin, biznisi damitganman, do'ilashit tashib kitganman."
+  },
+  {
+   "start": 8.8,
+   "end": 12.0,
+   "text": "Siyam agar ishilabatganm boshayla, koshimchi ishkisayla boladir."
+  },
+  {
+   "start": 12.26,
+   "end": 14.6,
+   "text": "Mansilagi orqatatikimta zor jay taf koydim akilam."
+  },
+  {
+   "start": 14.94,
+   "end": 20.26,
+   "text": "Onlayn, uchqana qano, arayndagi jayam alishiyla shartlamaz, kullas orqatam yuriladik, uzadlariladik."
+  },
+  {
+   "start": 20.26,
+   "end": 23.88,
+   "text": "Mana masalam, uzumda silegi biznis qishi orqat koymachchiman ku."
+  },
+  {
+   "start": 24.42,
+   "end": 27.98,
+   "text": "Uzummi bir nece yuste tavar tapshish punktlari ba."
+  },
+  {
+   "start": 27.98,
+   "end": 31.58,
+   "text": "Bir nece min adam shuladan tavar olad, an sizam agansiz."
+  },
+  {
+   "start": 31.58,
+   "end": 34.18,
+   "text": "Sizam unikenli tavar topib, shotu sot seyle bolad."
+  },
+  {
+   "start": 34.18,
+   "end": 36.78,
+   "text": "Meselen, bozordan olib, optimgi olib, sotasiz."
+  },
+  {
+   "start": 36.78,
+   "end": 39.18,
+   "text": "Yok yosda Xitoyda tek boy, unikenli tavar olin,"
+  },
+  {
+   "start": 39.18,
+   "end": 41.18,
+   "text": "xichkim do qoymasin, shumda ansar agam sotasiz."
+  },
+  {
+   "start": 41.18,
+   "end": 43.18,
+   "text": "Bulanyam, sige orga tipoyamiz."
+  },
+  {
+   "start": 43.18,
+   "end": 46.78,
+   "text": "Hullas, siz, biyagocizi, maksuatizi, top sirganizdanki,"
+  },
+  {
+   "start": 46.78,
+   "end": 47.98,
+   "text": "gen sikilatke borad."
+  },
+  {
+   "start": 47.98,
+   "end": 50.98,
+   "text": "Sikilatdan tarqatish, tolollari, nasiyage birish,"
+  },
+  {
+   "start": 50.98,
+   "end": 53.38,
+   "text": "xemmi xarakatlanik uzunm uzuqlad."
+  },
+  {
+   "start": 53.38,
+   "end": 56.38,
+   "text": "Sizgi fakat kini, kompytur bilan internet bolsa boldi."
+  },
+  {
+   "start": 56.38,
+   "end": 58.38,
+   "text": "Lekin, biliminiyam organib po ishkiri."
+  },
+  {
+   "start": 58.38,
+   "end": 60.38,
+   "text": "As-salamu alaikum, yaxin-siz."
+  },
+  {
+   "start": 60.38,
+   "end": 62.38,
+   "text": "Qadamit gechiyev shkifisatam eki?"
+  },
+  {
+   "start": 62.38,
+   "end": 64.38,
+   "text": "Oki markazdik ordam, gapiyo, qisqaci gapir bimi?"
+  },
+  {
+   "start": 64.38,
+   "end": 66.38,
+   "text": "Bize, 2022-danda beri"
+  },
+  {
+   "start": 66.38,
+   "end": 68.38,
+   "text": "adamnegi rakamniyikaspan orga tifkilamizi."
+  },
+  {
+   "start": 68.38,
+   "end": 70.38,
+   "text": "Imin, uzum yonalsi go yuchi,"
+  },
+  {
+   "start": 70.38,
+   "end": 72.38,
+   "text": "3.500-da artib o uchilani shkugun gechi orga tifkilamizi."
+  },
+  {
+   "start": 72.38,
+   "end": 74.38,
+   "text": "Qal, daal diyo doshun uch olam?"
+  },
+  {
+   "start": 74.38,
+   "end": 76.38,
+   "text": "Qatdan sada eshtikiblisti?"
+  },
+  {
+   "start": 76.38,
+   "end": 78.38,
+   "text": "Bize, yax shimuta eslan iski agamnmizi, uzlarin aborotlar,"
+  },
+  {
+   "start": 78.38,
+   "end": 81.1,
+   "text": "toriyar miliartta, 5 miliartla evolutli okuluclarimiza bar."
+  },
+  {
+   "start": 81.1,
+   "end": 83.98,
+   "text": "Har oy karmida, shu uchusda, toriusda okuluclani oqtib,"
+  },
+  {
+   "start": 83.98,
+   "end": 85.98,
+   "text": "shu uynarista daramat kurski yordam yaramiz."
+  },
+  {
+   "start": 85.98,
+   "end": 87.58,
+   "text": "Qanagin formatla da orga etmez?"
+  },
+  {
+   "start": 87.58,
+   "end": 89.1,
+   "text": "Zani, oz iklim formatimiza bar."
+  },
+  {
+   "start": 89.1,
+   "end": 90.14,
+   "text": "Offline la online."
+  },
+  {
+   "start": 90.14,
+   "end": 92.62,
+   "text": "Offline, mash okul markazimiza iklim organcisi boladi."
+  },
+  {
+   "start": 92.62,
+   "end": 94.14,
+   "text": "Shunlogun, Ombimetron aldidi."
+  },
+  {
+   "start": 94.14,
+   "end": 97.74,
+   "text": "Bo, Kopra Tashkendi yashabditurib, mash sabdaqich organama digili ochun,"
+  },
+  {
+   "start": 97.74,
+   "end": 98.54,
+   "text": "qula ikini."
+  },
+  {
+   "start": 98.54,
+   "end": 101.18,
+   "text": "Agar online organama, ozimla vlayatimda organamiturib,"
+  },
+  {
+   "start": 101.18,
+   "end": 103.18,
+   "text": "Oya ki, mənim vaxtim camera digi adabli bosa,"
+  },
+  {
+   "start": 103.18,
+   "end": 105.18,
+   "text": "benim bala oz bundan oku upad torramiz bar."
+  },
+  {
+   "start": 105.18,
+   "end": 106.68,
+   "text": "Ota xamim video darsili abolin ya,"
+  },
+  {
+   "start": 106.68,
+   "end": 107.88,
+   "text": "ojt ki, benim bala qat nasib,"
+  },
+  {
+   "start": 107.88,
+   "end": 109.18,
+   "text": "sado qalisi organiz sivolad."
+  },
+  {
+   "start": 109.18,
+   "end": 110.98,
+   "text": "Topka chikgan shogadlariz ba?"
+  },
+  {
+   "start": 110.98,
+   "end": 112.78,
+   "text": "Albakti, biz an o okulchilarimizi"
+  },
+  {
+   "start": 112.78,
+   "end": 114.18,
+   "text": "junay qata natijiligik elisad."
+  },
+  {
+   "start": 114.18,
+   "end": 116.58,
+   "text": "Xamim okulchili ozan natijiligilin bolish barishan."
+  },
+  {
+   "start": 116.58,
+   "end": 117.88,
+   "text": "Netik pul abaratkisi var,"
+  },
+  {
+   "start": 117.88,
+   "end": 118.58,
+   "text": "kanakilisi var,"
+  },
+  {
+   "start": 118.58,
+   "end": 120.58,
+   "text": "milardli abaratli karagin okulchilari daya mozho bar."
+  },
+  {
+   "start": 120.58,
+   "end": 123.18,
+   "text": "Ma eshin bu ichi 40% ayolli ikani,"
+  },
+  {
+   "start": 123.18,
+   "end": 125.98,
+   "text": "40-60% ayolli maladeslik."
+  },
+  {
+   "start": 131.18,
+   "end": 132.64,
+   "text": "qatda qatda tavarlab qiradi garlad chi."
+  },
+  {
+   "start": 132.64,
+   "end": 134.82,
+   "text": "Masala, man yugimda tor usta karchili bar,"
+  },
+  {
+   "start": 134.82,
+   "end": 136.44,
+   "text": "birni chi ilab veri satilmidi."
+  },
+  {
+   "start": 136.44,
+   "end": 138.4,
+   "text": "Chunu kimgada realizadiga veri olsan bolarkam,"
+  },
+  {
+   "start": 138.4,
+   "end": 139.46,
+   "text": "diri borgan garladam."
+  },
+  {
+   "start": 139.46,
+   "end": 140.16,
+   "text": "Dab, dab, bolard."
+  },
+  {
+   "start": 140.16,
+   "end": 142.46,
+   "text": "Chunkki bizada ozi qita yunalisi posiboladdi?"
+  },
+  {
+   "start": 142.46,
+   "end": 143.64,
+   "text": "Uzo margiddi icidi."
+  },
+  {
+   "start": 143.64,
+   "end": 144.74,
+   "text": "Ya oki sati uchi bab qirasi?"
+  },
+  {
+   "start": 144.74,
+   "end": 146.34,
+   "text": "Ya oki menazi bab qirasi?"
+  },
+  {
+   "start": 146.34,
+   "end": 148.22,
+   "text": "Sati uchi le ozi tavargi fultukib,"
+  },
+  {
+   "start": 148.22,
+   "end": 149.02,
+   "text": "ozi sabda qilib,"
+  },
+  {
+   "start": 149.02,
+   "end": 149.94,
+   "text": "ozi xamasini qab birad."
+  },
+  {
+   "start": 149.94,
+   "end": 151.7,
+   "text": "Agar adamlar misal uchu,"
+  },
+  {
+   "start": 151.7,
+   "end": 153.8,
+   "text": "qoz ozara baslariz daramadi bomirigan bosib,"
+  },
+  {
+   "start": 153.8,
+   "end": 155.8,
+   "text": "Ben mara, ustaq, menzi yoyon asnaya talisa bolad."
+  },
+  {
+   "start": 155.8,
+   "end": 156.3,
+   "text": "Zor."
+  },
+  {
+   "start": 156.3,
+   "end": 157.8,
+   "text": "Nax masalasi burad?"
+  },
+  {
+   "start": 157.8,
+   "end": 159.8,
+   "text": "Nax masalasi giyik, yeladigan busi,"
+  },
+  {
+   "start": 159.8,
+   "end": 161.8,
+   "text": "agar ulan imkaniyati boladigan busi,"
+  },
+  {
+   "start": 161.8,
+   "end": 163.8,
+   "text": "ben mara, nax tolo klihsi bolad."
+  },
+  {
+   "start": 163.8,
+   "end": 165.8,
+   "text": "Yoki, bolub toleshki, ben mara, ushe,"
+  },
+  {
+   "start": 165.8,
+   "end": 167.8,
+   "text": "hamda kurslarimizdagi dastlarimiz yasi bolad."
+  },
+  {
+   "start": 167.8,
+   "end": 169.8,
+   "text": "Ing zor joya atibirki, ulo, agar bolub toleshki"
+  },
+  {
+   "start": 169.8,
+   "end": 171.8,
+   "text": "yaziladigan busi, kursinaxi uzgar midi?"
+  },
+  {
+   "start": 171.8,
+   "end": 173.8,
+   "text": "Bax, ki qanchi busi,"
+  },
+  {
+   "start": 173.8,
+   "end": 175.8,
+   "text": "xud dushnarsani, bolub-bolub toleshki asal bolad."
+  },
+  {
+   "start": 175.8,
+   "end": 177.8,
+   "text": "Kimla gadarib zanim alamatlarimiz? Azginda"
+  },
+  {
+   "start": 177.8,
+   "end": 186.8,
+   "text": "Oil Oil"
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 186.8,
+   "text": ""
+  },
+  {
+   "start": 186.8,
+   "end": 189.62,
+   "text": "Oil"
+  }
+ ],
+ "chars": 3329,
+ "chars_per_s": 17.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

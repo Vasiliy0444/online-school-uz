@@ -1,0 +1,68 @@
+{
+ "creative_id": "1643097997531754",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Sun'iy intellekt — bugun eng talabgir yo'nalishlardan biriga aylandi.",
+  "types": [
+   "тренд ИИ"
+  ],
+  "visual": [
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: крупная 3D-надпись «SUN'IY INTELLEKT» над мужчиной в студии (лампа, растение), субтитры «Bugun eng talabgir»"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Suni intelekt bugun eyn talabgir gunarishladanbira.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "профессия будущего"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:07: «Sun'iy intellektdan boshlang'ich»; ~0:36: логотипы NAJOT TA'LIM и edfix рядом"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:36] Biz, Najat Talim xamdi etiviks jamasi, birgirigde maksuz kurs islabchitig.",
+    "timecode": "00:36"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "основатель или эксперт"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Та же студийная декорация и, судя по всему, тот же диктор, что и в 1063361809515055 (лампа, растение, тёмный фон) — общий формат для серии роликов о Prompt Injinering. Текст объявления («Rezyume yuborasiz, javob kelmaydi»/скетч про отказы) не совпадает с содержанием видимых кадров этого ролика (студийный монолог про ИИ и совместный курс с площадкой edfix, офлайн+онлайн формат) — тот же текст объявления использован и в 926476080520746, где сюжет ролика (скетч про звонок себе из будущего) действительно соответствует тексту; здесь явное расхождение между текстом объявления и содержанием ролика, отмечаю как неоднозначный случай. Оффера нет."
+}

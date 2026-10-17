@@ -1,0 +1,17 @@
+{
+ "school_id": "najot-talim",
+ "url": "https://najottalim.uz/kurslar/machine-learning",
+ "sources": "site:sitemap",
+ "first_seen": "",
+ "last_seen": "",
+ "stage_auto_url": "основной продукт",
+ "is_archive": false,
+ "snapshot_at": "2026-09-16T19:45:36+00:00",
+ "live_status": 200,
+ "final_url": "https://najottalim.uz/kurslar/machine-learning",
+ "title": "Machine Learning | Najot Taʼlim",
+ "screenshot": "/Users/Bel-a/Data/online-shkola-uz/05-razbor-konkurentov/lendingi/najot-talim/najottalim-uz-kurslar-machine-learning-577cdb/screenshot-mobile.jpg",
+ "stage_auto": "оферта или оплата",
+ "stage_reason": "текст (оферта или оплата) против адреса (основной продукт) — проверить по скриншоту",
+ "text_chars": 16576
+}

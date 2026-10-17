@@ -1,0 +1,74 @@
+{
+ "creative_id": "1641695760393839",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "IELTS 8.0 — agar to'g'ri joyni tanlasangiz, natija uzoq kuttirmaydi.",
+  "types": [
+   "соцдоказательство",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "деньги или результат на экране",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "IELTS 8.0 — agar to'g'ri joyni tanlasangiz, natija uzoq kuttirmaydi 💯"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_overview.jpg ~0:16: макет чека «Inter nation CERTIFICATE, DIRECTOR: KOSIMOV S.R., 2.000.000 UZS» вручают ученику на сцене перед залом с учениками в форме",
+    "timecode": "00:16"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость",
+   "статус"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Bu uning mehnati, INTER NATION'dagi kuchli ustozlar va aniq hamda tizimli ta'lim natijasidir"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бонус"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Bu natija uchun u 2 000 000 so'm miqdorida keshbek oldi 💸"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "ученик"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "Имя и точные баллы ученика по секциям (Listening/Reading/Writing/Speaking) из текста объявления намеренно не переношу — правило разметки. Хук взят из вводной части текста объявления (до упоминания имени). Расшифровка «низкое» качество — речь не цитирую дословно; по смыслу это благодарственное слово самого награждённого ученика в адрес школы и преподавателей (похвала за результат, спасибо Inter Nation), поэтому speaker.role «ученик», без указания имени. Сумма кэшбека 2 000 000 сум — это денежный бонус школы, а не заработок/доход ученика, поэтому в offer, а не в meaning.income_claim. Risk=false: приз за реальный экзаменационный балл, не финансовая схема."
+}

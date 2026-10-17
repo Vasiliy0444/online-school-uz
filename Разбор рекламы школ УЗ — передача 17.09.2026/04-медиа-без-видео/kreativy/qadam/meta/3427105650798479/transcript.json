@@ -1,0 +1,191 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.6,
+   "text": "Ottargan jayizda, u izda, yoki ofisizda narmalis haqqa taqsiz golan."
+  },
+  {
+   "start": 3.86,
+   "end": 4.82,
+   "text": "Seroz zayit omba?"
+  },
+  {
+   "start": 5.18,
+   "end": 6.58,
+   "text": "Bitda ba tafsil chuntriyimu?"
+  },
+  {
+   "start": 6.72,
+   "end": 8.98,
+   "text": "Uzun marketta saada qilish organi,"
+  },
+  {
+   "start": 9.24,
+   "end": 11.4,
+   "text": "ishani qatda biznesmen bob getas."
+  },
+  {
+   "start": 11.62,
+   "end": 13.26,
+   "text": "Botdi orga etadigallan oza,"
+  },
+  {
+   "start": 13.32,
+   "end": 17.68,
+   "text": "vashi onlay saada da tur mila artkachi soda qiladigallan orga etsharkandi,"
+  },
+  {
+   "start": 18.22,
+   "end": 20.54,
+   "text": "iki min tega ozo adang orga etkamsil ozo."
+  },
+  {
+   "start": 20.58,
+   "end": 21.84,
+   "text": "Bitda dano soq uchilarimiza bar."
+  },
+  {
+   "start": 21.84,
+   "end": 22.64,
+   "text": "Umumi abarotomiz."
+  },
+  {
+   "start": 22.72,
+   "end": 24.48,
+   "text": "Biz ot qilipki milangi chiktiriz uzun marketta."
+  },
+  {
+   "start": 24.78,
+   "end": 26.46,
+   "text": "Abarotomiz 40 milon naqsh vatdi."
+  },
+  {
+   "start": 26.46,
+   "end": 29.86,
+   "text": "1 ay 2-de 30 minun che, nabar, nabar, od bol da."
+  },
+  {
+   "start": 29.86,
+   "end": 31.9,
+   "text": "Kurs qimadmazmı? Qanar tabukil nadi olu?"
+  },
+  {
+   "start": 31.9,
+   "end": 32.4,
+   "text": "Orgenlan."
+  },
+  {
+   "start": 32.4,
+   "end": 34.9,
+   "text": "Kurssi onlayn oksis boladi, fama otlayn oksis boladi."
+  },
+  {
+   "start": 34.9,
+   "end": 38.1,
+   "text": "Agar onlayn bolse, ke botor shartamaz."
+  },
+  {
+   "start": 38.1,
+   "end": 40.58,
+   "text": "Da, platformani chi ekras, ozana platform boza bar,"
+  },
+  {
+   "start": 40.58,
+   "end": 42.34,
+   "text": "un 2-de fama video darsiyanani oksis boladi."
+  },
+  {
+   "start": 42.34,
+   "end": 45.02,
+   "text": "Agar si toshkinli torsis, shundi ay, behmi torgi,"
+  },
+  {
+   "start": 45.02,
+   "end": 47.22,
+   "text": "yakinchi ay degi, shudda oksis boladi."
+  },
+  {
+   "start": 47.22,
+   "end": 51.34,
+   "text": "Tol olayan, xalisis lakti diz, xalisis bolib toleshgen,"
+  },
+  {
+   "start": 51.34,
+   "end": 52.42,
+   "text": "hulisi boladi."
+  },
+  {
+   "start": 52.42,
+   "end": 54.58,
+   "text": "Man navindaki ses, konlar qoydu,"
+  },
+  {
+   "start": 54.58,
+   "end": 57.38,
+   "text": "yana bitda kurssa, be pul qibera digan bu asistirla, shunat?"
+  },
+  {
+   "start": 57.38,
+   "end": 57.78,
+   "text": "Ha?"
+  },
+  {
+   "start": 57.78,
+   "end": 58.28,
+   "text": "He?"
+  },
+  {
+   "start": 58.28,
+   "end": 59.78,
+   "text": "Kali mitdish qilamiz."
+  },
+  {
+   "start": 59.78,
+   "end": 61.58,
+   "text": "Pasta balimabcizu qaldirsiz,"
+  },
+  {
+   "start": 61.58,
+   "end": 63.38,
+   "text": "be pul darsli taxadariladi."
+  },
+  {
+   "start": 63.38,
+   "end": 64.58,
+   "text": "Bitda korib chikazdi,"
+  },
+  {
+   "start": 64.58,
+   "end": 66.48,
+   "text": "ki, makul bosa, u qorasiz."
+  },
+  {
+   "start": 66.48,
+   "end": 68.68,
+   "text": "Makul bomasa, yana visho visho yorurasiz."
+  },
+  {
+   "start": 68.68,
+   "end": 69.88,
+   "text": "Pasta silke var."
+  },
+  {
+   "start": 69.88,
+   "end": 71.28,
+   "text": "Hazi balimabcizu qaldiri,"
+  },
+  {
+   "start": 71.28,
+   "end": 72.68,
+   "text": "faydalama alinlaygan."
+  }
+ ],
+ "chars": 1248,
+ "chars_per_s": 17.2,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

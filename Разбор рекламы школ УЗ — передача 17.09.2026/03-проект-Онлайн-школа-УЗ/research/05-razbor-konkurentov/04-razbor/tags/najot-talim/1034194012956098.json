@@ -1,0 +1,78 @@
+{
+ "creative_id": "1034194012956098",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "Ishsiz qolishingiz mumkin! Mening ishimni sun'iy intellekt olib qo'yishiga hali ancha bor deb o'ylaysizmi?",
+  "types": [
+   "страх упустить",
+   "тренд ИИ"
+  ],
+  "visual": [
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: заголовок «Ishsiz qolishingiz mumkin ‼️», субтитры «Mani ishimni» → «Mani ishimni sun'iy» → «olib» → «olib qo'yishiga hali ancha»"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Man ishimmi suni intilik apqoy ishigi xali anchi bardib yoribsizmi.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "профессия будущего",
+   "страх отстать"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:04] Hurmatli bugaltir va maliyachi akyalar, apalar, sizi ishizini allakachan suni intilik apqoymokta.",
+    "timecode": "00:04"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Bugun kompaniyalar tasodifga emas, raqamlarga tayanib qaror qabul qilishadi. Va aynan shu raqamlarni tushunadigan, tahlil qila oladigan odamlar yetishmayapti."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "консультация"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Bepul konsultatsiyaga yoziling va o'zingizga mos yo'nalishni tanlang. Bepul ochiq darsga qatnashish"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "блогер"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук адресован конкретно бухгалтерам и финансистам («Hurmatli buxgalter va moliyachi akalar, apalar») — угроза замещения ИИ, затем питч курса Data Analitika (Excel/SQL/Python, дашборды, портфолио проектов). Формат подачи (прогулка в парке, крупный заголовок-предупреждение + субтитры) идентичен по стилю ролику 1319848900040925 (тоже про ИИ и рынок труда), поэтому спикер также отнесён к «блогер», а не к «основатель или эксперт» — в отличие от роликов, снятых в фирменных помещениях школы. Объявление прямо предлагает бесплатную консультацию и бесплатный открытый урок — оба тега применены, funnel_stage «вебинар или мастер-класс»."
+}

@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.08,
+   "text": "Uzun marketta sabdo qilmokchisis, lekin sarmoya uzun oqilamay dadib ikilani yapsizm?"
+  },
+  {
+   "start": 4.08,
+   "end": 7.02,
+   "text": "Biz aynan siz uchun biyapul pdf kollanma tayorladik."
+  },
+  {
+   "start": 7.12,
+   "end": 10.26,
+   "text": "Unda siz, qanday qilib uzun marketta noldan sabdonu boshlashni,"
+  },
+  {
+   "start": 10.46,
+   "end": 13.5,
+   "text": "boshlanxich sot uchilar yol koyadigan khadolarini oldini olishni,"
+  },
+  {
+   "start": 13.88,
+   "end": 16.78,
+   "text": "va o'yige stabil 1000 dollarda romant qilishni orginasiz."
+  },
+  {
+   "start": 17.12,
+   "end": 19.76,
+   "text": "Failni yukilab olishchun, xozirov telegram kanalimizgi otin."
+  },
+  {
+   "start": 19.88,
+   "end": 22.9,
+   "text": "Pdf fail sizni biriktirilgan failarda alakchon kutip durmokta."
+  }
+ ],
+ "chars": 449,
+ "chars_per_s": 19.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

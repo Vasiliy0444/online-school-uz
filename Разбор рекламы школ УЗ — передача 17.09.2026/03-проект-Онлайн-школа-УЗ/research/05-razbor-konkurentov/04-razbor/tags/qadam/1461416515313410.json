@@ -1,0 +1,96 @@
+{
+ "creative_id": "1461416515313410",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Oylikdan oylikkacha pul yetkaza olmayotgan bo'lsangiz, sizga zo'r biznes bo'ladi shu.",
+  "types": [
+   "боль",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Ayli dan ayli geche ful yet qizami yapkan bu seza buzge zor biznis boladi shani.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: блогер говорит в камеру на фоне фиолетового спорткара, текста на кадре нет",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "свой бизнес"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Ayli dan ayli geche ful yet qizami yapkan bu seza buzge zor biznis boladi shani.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:08] Uzur market di savda qilish orgin alay di shani katta biznismen bob getas.",
+    "timecode": "00:08"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈00:28): «40 000 000 AYLANMA» у ученика в офисе",
+    "timecode": "00:28"
+   }
+  ],
+  "revenue_claim": "40 000 000 AYLANMA"
+ },
+ "offer": {
+  "items": [
+   "мини-курс",
+   "рассрочка"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[01:01] Pastaa, balim apsizu qaldir sez, be pul darsli tashad erlad.",
+    "timecode": "01:01"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "UZUM bo‘yicha bepul darslar"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:49] Tol olayan, xal-isiz lakht-di diz, xal-isiz bolib-tolashgan,",
+    "timecode": "00:49"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "мини-курс или трипвайер"
+ },
+ "speaker": {
+  "role": "блогер"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук только в речи, по расшифровке, написание исправлено («Ayli dan ayli geche ful yet qizami yapkan» → «Oylikdan oylikkacha pul yetkaza olmayotgan»); перевод: «если денег не хватает от зарплаты до зарплаты — вот вам отличный бизнес». Текста на кадрах хука нет; фон — дорогой спорткар (в utm «Inomarka»), подача от третьего лица → роль «блогер». Дальше: собеседник переспрашивает («Seryozno…?»), блогер объясняет: научиться торговать на Uzum, учат сами практикующие продавцы (по расшифровке, частично неразборчиво); вставка ученика «40 000 000 AYLANMA» (оборот, не доход); курс онлайн или офлайн у метро в Ташкенте; оплата наличными или частями. Финал: «Pastda ma'lumotlaringizni qoldirsangiz, bepul darslar tashlab berishadi … Pastda ssilka bor, hozir ma'lumotlaringizni qoldiring» (написание исправлено) → бесплатные уроки и форма; на кадре 4 анимированные стрелки вниз. Та же первая сцена, что у 1481208603399594."
+}

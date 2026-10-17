@@ -1,0 +1,31 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.46,
+   "text": "Uzun marketa daromad topmux, sizdekin qaysim aqsilo talashni va qanday boshlashni bilmayapsizm?"
+  },
+  {
+   "start": 4.6,
+   "end": 8.42,
+   "text": "Kopchilik aynan boshlanishda tohtab koladi, chunki koplar nima saotishni bilmaydi,"
+  },
+  {
+   "start": 8.52,
+   "end": 11.14,
+   "text": "qayardan boshlashni tushunmaydi, va qataqilishtan korkadi."
+  },
+  {
+   "start": 11.28,
+   "end": 16.48,
+   "text": "Joylar sonu chekilangan, xozrok ariza koldirin, va biz sizgi noldan boshlashchun anik yol haritasli korsitamiz."
+  }
+ ],
+ "chars": 349,
+ "chars_per_s": 20.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,77 @@
+{
+ "url": "https://kurslar.najottalim.uz/umumiyforma?amp%3Bamp%3Butm_term=aijonlichat",
+ "school_id": "najot-talim",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "заявка или консультация",
+ "builder": "Tilda",
+ "pixels": [
+  "Meta Pixel",
+  "Google Ads",
+  "Google Analytics (GA4) G-PSDL8JT25N",
+  "Яндекс.Метрика 96185573 (по HTML-комментарию)"
+ ],
+ "promise": {
+  "found": true,
+  "value": "До современных профессий остался 1 шаг: оставьте данные, чтобы получить подробную информацию",
+  "quote": "Zamonaviy kasblargacha\n1 qadam qoldi\nBatafsil ma'lumot berishimiz uchun quyidagi ma'lumotlarni to'ldiring!☺️",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "program": {
+  "found": false
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [
+   "нет"
+  ],
+  "reviews_count": 0
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "цены нет — подробности обещают после заявки: специалист свяжется и расскажет"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "имя",
+   "телефон",
+   "город",
+   "другое"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "notes": "Отдельная страница-форма «Umumiy oflayn kurslar forma»: продукта, цены и лид-магнита нет — только заявка. Формат назван прямо: «Qaysi filialimizda oflayn o'qish siz uchun qulay?». Поля: «Ismingiz», «Telefon raqamingiz» (+998), «Filialni tanlang» (Toshkent, Xorazm, Farg`ona, Samarqand — в схеме «город»), «Qaysi kursda o‘qimoqchisiz?» (11 вариантов, в т. ч. «Prompt injinering (Suniy intellekt asoslari)» и «Data Science», которого нет в каталоге сайта — в схеме «другое»), галочка согласия на обработку данных со ссылкой на najottalim.uz/oferta-NT.pdf — этот адрес отдал 404 (папка oferta-najottalim-uz-oferta-nt-pdf-2a7724 без текста); рабочая оферта сайта — по другому адресу, в ней условий оплаты и возврата нет. После отправки обещано: «sizga mutaxassisimiz batafsil ma'lumot beradi» — отсюда «звонок менеджера». Снимок сделан по адресу с utm_term=aijonlichat; по urls.csv эта же форма стоит в постах Telegram-канала najottalim с другими utm_term (taklif, bepuldars, maxsustaklif, startjunior, chatgpt, iphone и др.) — универсальная точка входа из Telegram. В коде есть скрипт Marquiz (конструктор квизов), но квиза в тексте и на скриншоте нет; комментарий «Pixel Tag Code» — неопознанный тег. Конструктор — Tilda: в intel.json платформа не указана, но есть признаки (og:image на static.tildacdn, служебные комментарии allrecords и t-title t-text t-btn). Скриншот — первый экран: заголовок и начало формы."
+}

@@ -1,0 +1,76 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Mazakali afsun shikir koyu karimizda."
+  },
+  {
+   "start": 2.0,
+   "end": 4.0,
+   "text": "Emotisayla, chintir vera o'yman, torsanizda."
+  },
+  {
+   "start": 4.0,
+   "end": 8.0,
+   "text": "Xullaz, shikir di, dispechillikke, dushanmada ish baxdiyda."
+  },
+  {
+   "start": 8.0,
+   "end": 10.0,
+   "text": "Uda xalisi yaxshi natijala kutamiz."
+  },
+  {
+   "start": 10.0,
+   "end": 12.0,
+   "text": "Bir 2-3 mingi chqandi, bitta alaxdiyana vizualamiz."
+  },
+  {
+   "start": 12.0,
+   "end": 14.0,
+   "text": "Bir yarim yilda uda xalisi chqadi."
+  },
+  {
+   "start": 14.0,
+   "end": 16.0,
+   "text": "Munakhi, ishanima bulani amasigi."
+  },
+  {
+   "start": 16.0,
+   "end": 18.0,
+   "text": "Lakshi bolli."
+  },
+  {
+   "start": 18.0,
+   "end": 20.0,
+   "text": "Xunaghi, kelasla, urga tamiz."
+  },
+  {
+   "start": 20.0,
+   "end": 22.0,
+   "text": "Shikirasla, baga dux boso bolli."
+  },
+  {
+   "start": 22.0,
+   "end": 24.0,
+   "text": "Tari ge bizitim."
+  },
+  {
+   "start": 24.0,
+   "end": 26.0,
+   "text": "E, cay talilashda adashini."
+  },
+  {
+   "start": 26.0,
+   "end": 28.0,
+   "text": "Laks."
+  }
+ ],
+ "chars": 427,
+ "chars_per_s": 14.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

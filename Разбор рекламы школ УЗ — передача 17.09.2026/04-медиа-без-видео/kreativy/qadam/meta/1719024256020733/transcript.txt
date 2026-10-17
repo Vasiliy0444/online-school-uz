@@ -1,0 +1,5 @@
+[00:00] Uzumda, o'qi 500 dolorda 2000 dolorda gechi daromad qilalashmiz?
+[00:03] Biz aynan siz uchun, be pul test ayarladiy.
+[00:06] Siz u yurda ati ki 60 saniyada uzum marketi 500 dolorda 2000 dolorda gechi daromadga chikalish,
+[00:11] ya ki chikalmasligizdi bilvalash.
+[00:12] Test daot uchun, xazira pastagi xavalani basin.

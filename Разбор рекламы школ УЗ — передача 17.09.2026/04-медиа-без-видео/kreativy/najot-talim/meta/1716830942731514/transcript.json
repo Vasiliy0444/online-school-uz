@@ -1,0 +1,61 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.0,
+   "text": "Unviersiyette oqipturbam, darsanki, man ishunu uzudan pul taqsi boladim."
+  },
+  {
+   "start": 4.0,
+   "end": 7.0,
+   "text": "Hatta sizgi 9-6 gechi ishki kepki digan gapla bomiydi."
+  },
+  {
+   "start": 7.0,
+   "end": 11.0,
+   "text": "Ishi bitirsiz boldi pul izo alas. Bu qanaka kaspisiz? Bu mabilagrafi."
+  },
+  {
+   "start": 11.0,
+   "end": 18.0,
+   "text": "Birgini iPhone telefon izbosi boldi. Shunu ozu bilan, suyomka, mantajdan oqipturub, biznisla geyoki, shaksi brent egelergi videoyla tayyirla beras."
+  },
+  {
+   "start": 18.0,
+   "end": 20.0,
+   "text": "Buna evazigi sizgi yakhshigini pul berishadi."
+  },
+  {
+   "start": 20.0,
+   "end": 26.0,
+   "text": "Agar sizam zamanavi kasp ki qizqadiyan bolsisiz, undi Zamanavi Kaspilar Markazi, Najat Talimda bu kaspi boshashiz munkum."
+  },
+  {
+   "start": 26.0,
+   "end": 28.0,
+   "text": "Anar boya zboya zboya zboya"
+  },
+  {
+   "start": 28.0,
+   "end": 30.0,
+   "text": "Anar boya zboya zboya"
+  },
+  {
+   "start": 30.0,
+   "end": 32.0,
+   "text": "Anar boya zboya"
+  },
+  {
+   "start": 32.0,
+   "end": 34.0,
+   "text": "Anar boya zboya"
+  }
+ ],
+ "chars": 595,
+ "chars_per_s": 17.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

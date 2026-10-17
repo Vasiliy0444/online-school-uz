@@ -1,0 +1,96 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.08,
+   "text": "Buraychida nech pil rasot qilas?"
+  },
+  {
+   "start": 3.58,
+   "end": 5.84,
+   "text": "Ushib pildan qanchasini udagiladan olas."
+  },
+  {
+   "start": 6.16,
+   "end": 7.8,
+   "text": "Hama rasotlariz qopli digan,"
+  },
+  {
+   "start": 7.96,
+   "end": 10.2,
+   "text": "bitdi yaxshikaz busi mazib bolar diye,"
+  },
+  {
+   "start": 10.94,
+   "end": 11.96,
+   "text": "bar bitdo shnokasna."
+  },
+  {
+   "start": 12.22,
+   "end": 15.12,
+   "text": "IT House-da grafik dizayn kasmini orgen sanigiz,"
+  },
+  {
+   "start": 15.42,
+   "end": 16.7,
+   "text": "uch ay beboly amalyod"
+  },
+  {
+   "start": 16.7,
+   "end": 18.92,
+   "text": "va yus faiz ishki jolashinigizini"
+  },
+  {
+   "start": 18.92,
+   "end": 20.36,
+   "text": "kafalatini biz beramiz."
+  },
+  {
+   "start": 20.64,
+   "end": 21.88,
+   "text": "Kurs oltay davam edadi."
+  },
+  {
+   "start": 22.2,
+   "end": 24.96,
+   "text": "Shu oqt itchida siz real layokalar bilan ishlaysis,"
+  },
+  {
+   "start": 25.24,
+   "end": 27.38,
+   "text": "hamda tayyar partvoryo bilan chikasiz."
+  },
+  {
+   "start": 27.58,
+   "end": 29.6,
+   "text": "Aytkenchi, grafik dizayn yidlargi"
+  },
+  {
+   "start": 29.6,
+   "end": 33.5,
+   "text": "kampanyalar 10 milyon somdan 20 milyon som gechi toleshki tayar."
+  },
+  {
+   "start": 33.68,
+   "end": 37.0,
+   "text": "Buna xıxı uz saytidi ozingi istekshirib korishengizam momkun."
+  },
+  {
+   "start": 37.46,
+   "end": 41.06,
+   "text": "Shukhafti grafik dizaynib ochim mutlaka bebole ochiglariz bolib otadi."
+  },
+  {
+   "start": 41.4,
+   "end": 43.36,
+   "text": "Ruhi toz shum, pasagit ugmany basin."
+  }
+ ],
+ "chars": 675,
+ "chars_per_s": 15.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

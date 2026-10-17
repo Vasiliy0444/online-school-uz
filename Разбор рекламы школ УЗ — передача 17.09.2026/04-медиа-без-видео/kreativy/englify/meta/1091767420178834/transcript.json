@@ -1,0 +1,61 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.68,
+   "text": "Toshkin vilayati, yangi bozar va parken tumani da yashi digali ujun acaib ingiligimizda bor."
+  },
+  {
+   "start": 4.94,
+   "end": 11.12,
+   "text": "Inglify online maktabi, parken tumani da, yani parketini markezdan yangi ofis achilu vatdi."
+  },
+  {
+   "start": 11.12,
+   "end": 14.44,
+   "text": "Va uyoge bizagi sotu menajerlari judi hem kere."
+  },
+  {
+   "start": 14.78,
+   "end": 17.42,
+   "text": "Yas chegerasi 18 dan 30 ge can bolish kere."
+  },
+  {
+   "start": 17.78,
+   "end": 19.76,
+   "text": "Eng mokumcayi, biza siligi nima veramiz?"
+  },
+  {
+   "start": 19.82,
+   "end": 23.72,
+   "text": "Biza sizgi stabil oylik, shinam ofisi, ishla shim koratini veramiz."
+  },
+  {
+   "start": 24.12,
+   "end": 27.5,
+   "text": "Oylik bose fix va bonus isabidi boladi."
+  },
+  {
+   "start": 27.5,
+   "end": 32.34,
+   "text": "ortache 5-6 milion, yukimdan yukaryan top 100 mokun bunu parhchasi ozizge balog."
+  },
+  {
+   "start": 32.58,
+   "end": 37.36,
+   "text": "Tolg manim otamakchi boziz, ushbu xawal orqari otin, biz gyaloqaga chqin, agar da toguri kesiz."
+  },
+  {
+   "start": 37.7,
+   "end": 39.52,
+   "text": "Bizi siz bilan islashdan mamlon bolamiz."
+  }
+ ],
+ "chars": 643,
+ "chars_per_s": 15.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

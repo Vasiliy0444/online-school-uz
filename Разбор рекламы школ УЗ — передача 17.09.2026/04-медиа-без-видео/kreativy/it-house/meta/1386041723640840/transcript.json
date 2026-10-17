@@ -1,0 +1,76 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Eee, ber warim u shi qarziyzi?"
+  },
+  {
+   "start": 2.0,
+   "end": 4.0,
+   "text": "Siziyan bas shiz qarziydan chikmay abdimi?"
+  },
+  {
+   "start": 4.0,
+   "end": 6.0,
+   "text": "Bit dasini pulini ber warisayiz?"
+  },
+  {
+   "start": 6.0,
+   "end": 8.0,
+   "text": "Bashqastan puli aloshki toru keb qauttimi? Shnuk amin?"
+  },
+  {
+   "start": 8.0,
+   "end": 12.8,
+   "text": "IT House-ta web dasturlashki asbini organ sayiz, uch ay biy pola maliyyat,"
+  },
+  {
+   "start": 12.8,
+   "end": 15.8,
+   "text": "va yus va ish ishki jayla shiz keb olatini biz veramiz."
+  },
+  {
+   "start": 15.8,
+   "end": 20.2,
+   "text": "Kurs oniki ay davam et adi, va shi wqt ichida siz real yukhalariblan ishliyiz,"
+  },
+  {
+   "start": 20.2,
+   "end": 22.2,
+   "text": "va tiyor portfolyoblan chikas."
+  },
+  {
+   "start": 22.2,
+   "end": 25.2,
+   "text": "Haytganchi, kampanyalar web dasturchilargi ayigi"
+  },
+  {
+   "start": 25.2,
+   "end": 28.56,
+   "text": "2000$ dan başla 3000$ gecə toloş ge tayor."
+  },
+  {
+   "start": 28.56,
+   "end": 31.92,
+   "text": "Buna xıxı uz saytida uldingi stekishrib korçidan boladi."
+  },
+  {
+   "start": 31.92,
+   "end": 35.52,
+   "text": "Xu xafti webda surlajbochu mutlaka biyopolochig dars bolu botad."
+  },
+  {
+   "start": 35.52,
+   "end": 37.76,
+   "text": "Roj xatot uchchum fasiagi tukmani basin."
+  }
+ ],
+ "chars": 657,
+ "chars_per_s": 17.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

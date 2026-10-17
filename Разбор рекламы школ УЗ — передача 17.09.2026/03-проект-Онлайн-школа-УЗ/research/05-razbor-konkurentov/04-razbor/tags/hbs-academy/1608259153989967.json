@@ -1,0 +1,82 @@
+{
+ "creative_id": "1608259153989967",
+ "platform": "meta",
+ "school_id": "hbs-academy",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "постановка или скетч"
+ ],
+ "hook": {
+  "verbatim": "(по кадрам, без надёжного соответствия речи) мужчина протирает лобовое стекло машины «Gentra»; на 1.0–1.5s всплывает текст «Gentra», на 2.0–2.5s — зелёная вспышка-переход и цифра «$13.000»",
+  "types": [
+   "результат или доход",
+   "цифра"
+  ],
+  "visual": [
+   "крупный текст",
+   "деньги или результат на экране",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.0s–1.5s: «Gentra» на фоне мужчины у машины; 2.0s–2.5s: зелёная вспышка, «$13.000»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Bugun daromad, kurs, o'qish va ish haqida gaplashamiz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "экономия времени"
+  ],
+  "income_claim": "Gentra narxi ekranda — $13 000 (bu — mashina narxi, o'quvchi daromadi emas); nutqda (расшифровка, ASR juda noaniq): «5.000 dolaringizni tecab qolasis» — taxminan «$5000 pulga ega bo'lasiz/tejab qolasiz»",
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Naqdga yoki bo'lib to'lashga mashina sotib olish oson emas, o'rniga aniq ishlaydigan variant bor! Vaqt va pul tejab qolasiz."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:34] Ratijadi, biriyari milicidi [00:36] yengi jendirgi yetarigan pulingiz boladi, [00:38] biriyari mil umringiz [00:40] va 5.000 dolaringizni tecab qolasis.",
+    "timecode": "00:34"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:46] HBS aga jemesini Express Trading kursi [00:48] sizgi yardan veradi. [00:50] Pastagi xavaligi basib, kursagidi [00:52] tonorog malima tarishin giz mumkun.",
+    "timecode": "00:46"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "блогер"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "низкая",
+ "notes": "risk = true по правилу инструкции для трейдинга и инвестиций (приведено к одному виду 17.09). Расшифровка (черновая) содержит немаркированный разрыв: от [00:00] сразу к [00:30] без метки «[…]» — почти 30 секунд речи не расшифровано, хотя длительность ролика 54 с. Первая строка расшифровки [00:00] «Bugun daromad, kurs, o'qish va ish haqida gaplashamiz» тематически не совпадает с тем, что видно на кадрах 0.0–2.5s (протирание стекла, всплытие «Gentra» и «$13.000») — вероятно, рассинхрон тайминга ASR, поэтому hook.verbatim собран по кадрам, а не по этой строке. Концепт ролика: «научитесь торговать на бирже/крипте — купите Gentra быстрее, чем откладывая наличными или в рассрочку» (подтверждено текстом объявления). Цифра «$13 000» на кадре — это цена машины Gentra, не доход ученика, поэтому не выдаётся как основной income_claim; отдельно в расшифровке (очень неуверенно расшифрованной) звучит «5.000 dollar» — похоже на обещание суммы дохода/экономии, но точный смысл фразы не восстановлен уверенно. Курс назван «HBS Express Trading kurs». Подача — неформальная, на улице, футболка — оценена как «блогер», а не «основатель/эксперт» (в отличие от офисных роликов 1678596329886775/1414192133914470/1965422631083667 той же школы)."
+}

@@ -1,0 +1,118 @@
+{
+ "creative_id": "2314615639050259",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Uzum Marketda sotish uchun mahsulotingiz bor, lekin uni qanaqa qilib joylashni bilmayapsizmi?",
+  "types": [
+   "вопрос",
+   "обращение к сегменту",
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "таймер или обратный отсчёт",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Uzun marketi satush uchun maksulat izbar, lekin ona qanaq qilib jaylashchi, bilmayabsizmi?",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s: таймер «00:35», «21+», значок Uzum поверх ведущего крупным планом; на 0.5s — смена плана",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.0s: «SOTISH UCHUN»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 1.5s: три круглые иконки товаров со знаками вопроса",
+    "timecode": "00:01"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта",
+   "доход",
+   "стабильность"
+  ],
+  "income_claim": "$1000 OYLIK DAROMAD / oyiga stabil $1000 daromad topishni o'rganib olasiz",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈00:11): «0 DAN D…» (надпись в анимации)",
+    "timecode": "00:11"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (≈00:18): «$1000 OYLIK DAROMAD»",
+    "timecode": "00:18"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:08] Bugun kollamma da siz qanaq qilib uzun marketi noldan daromadga chikishi,",
+    "timecode": "00:08"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:15] i undan tashkara aige stabili min dolu daromad tapishi yoli or getilinadi.",
+    "timecode": "00:15"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "oyiga stabil $1000 daromad topishni o'rganib olasiz"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "лид-магнит (PDF, гайд)"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Uzum Market’da 0 dan savdo boshlash bo‘yicha bepul PDF qo‘llanma"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:05] Biz aynin siz uchun Beeple PDF kollamma tayyarladiyi.",
+    "timecode": "00:05"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈00:26): «hoziroq kanalimizga» и макет телефона с Telegram-каналом «Qadam | Uzum Market», «17,113 подписчиков»",
+    "timecode": "00:26"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "лид-магнит"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "высокая",
+ "notes": "Хук по расшифровке, написание исправлено («maksulat izbar, lekin ona qanaq qilib jaylashchi» → «mahsulotingiz bor, lekin uni qanaqa qilib joylashni»); на кадрах только ключевые слова «SOTISH UCHUN», значок Uzum и иконки товаров с «?». Перевод: «есть товар для продажи на Uzum Market, но не знаете, как его разместить?». «Beeple PDF kollamma» = «bepul PDF qo'llanma». Призыв: «Qo'llanmani yuklab olish uchun hoziroq kanalimizga o'ting, PDF qo'llanma sizni biriktirilgan xabarda kutyapti» (написание исправлено). Значок Uzum — логотип маркетплейса, не школы, поэтому «логотип бренда» не отмечен. Таймер отсчитывает от 00:35 при длине ролика 29 с. На финальном кадре — макет Telegram-канала (17,113 подписчиков, в постах «marafon» и «efir») — это фон, не оффер ролика. risk: «стабильные $1000 в месяц» с нуля."
+}

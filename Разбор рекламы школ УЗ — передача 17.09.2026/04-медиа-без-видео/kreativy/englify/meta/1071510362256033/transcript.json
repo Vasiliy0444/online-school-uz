@@ -1,0 +1,86 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.64,
+   "text": "Bol deyindi ingilisinim o'rgenami ime, yashim otib ketti, di boylisizmi?"
+  },
+  {
+   "start": 3.64,
+   "end": 5.44,
+   "text": "Ishani kish qachan kechi bomidi."
+  },
+  {
+   "start": 5.44,
+   "end": 8.52,
+   "text": "Kunkimiyyemiz yashli gidemiz, tizim bol geni, do'rgeni idi."
+  },
+  {
+   "start": 8.52,
+   "end": 12.6,
+   "text": "Khazir gecham, yigrimi 5 minin artik o'quchilargi ingilistir o'rgachki yardan bergeni ime."
+  },
+  {
+   "start": 12.6,
+   "end": 16.76,
+   "text": "Ular orasti 30-35 yashli doktorlar, davrat khadimlari, mualimlar bar,"
+  },
+  {
+   "start": 16.76,
+   "end": 19.4,
+   "text": "va ular khattaki B2 sertifikatini xam alishken."
+  },
+  {
+   "start": 19.4,
+   "end": 23.04,
+   "text": "Ma an techi razam, yigrimik ginchi, yigrimi uchinchi, yigrimi otortinchi sentyabur kullari"
+  },
+  {
+   "start": 23.04,
+   "end": 25.22,
+   "text": "Beipul online masterclass tashkilashdira yapman."
+  },
+  {
+   "start": 25.32,
+   "end": 29.28,
+   "text": "Ukbu masterclass-di nuldan 32-di ingres tildi kundalik mauzurlar da gapirish"
+  },
+  {
+   "start": 29.28,
+   "end": 32.64,
+   "text": "va ba iki serjikatna alishlin samarali yollarini orga tama."
+  },
+  {
+   "start": 32.82,
+   "end": 34.46,
+   "text": "Masterclass-da khatnash mutlaka Beipul,"
+  },
+  {
+   "start": 34.68,
+   "end": 35.72,
+   "text": "faqat xavalan ustagi basib,"
+  },
+  {
+   "start": 35.96,
+   "end": 36.62,
+   "text": "roh khatna otin"
+  },
+  {
+   "start": 36.62,
+   "end": 37.98,
+   "text": "va yapag sirigam kanalimgi."
+  },
+  {
+   "start": 38.2,
+   "end": 38.7,
+   "text": "Koshir bali."
+  }
+ ],
+ "chars": 776,
+ "chars_per_s": 19.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

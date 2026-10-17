@@ -1,0 +1,26 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 9.3,
+   "text": "You live in Samarkand and are still learning English? It's time to start, because the set of groups is already open for beginners and those who just want to increase their level."
+  },
+  {
+   "start": 9.56,
+   "end": 16.42,
+   "text": "You are waiting for experience and teachers, conversational practice, modern educational materials and a comfortable atmosphere for learning."
+  },
+  {
+   "start": 16.56,
+   "end": 18.92,
+   "text": "Try the first trial lesson by clicking on the link."
+  }
+ ],
+ "chars": 372,
+ "chars_per_s": 19.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,95 @@
+{
+ "creative_id": "4299106007046611",
+ "platform": "meta",
+ "school_id": "bir-group",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "нарезка эфира или подкаста",
+  "сток"
+ ],
+ "hook": {
+  "verbatim": "Maktabni ham bitirdingiz, endi musofirchilikka borib 500 dollar, 600 dollar, 700 dollar oyliqqa ishlamoqchi bo'layapsizmi?",
+  "types": [
+   "вопрос",
+   "боль"
+  ],
+  "visual": [
+   "движение или смена кадра",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.0s: подброшенная вверх выпускная шапочка на фоне деревьев/неба (похоже на сток-кадр), субтитры «MAKTABNI HAM» → «BITIRDINGIZ,»; 1.5s–2.5s: склейка на говорящую голову в пиджаке (логотип «BIR TA'LIM» на ТВ за спиной), субтитры «ENDI MUSOFIRGA» → «BORIB»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Maktabni xan bitirdiniz endi musafirga barib 500 dolar, 600 dolar, 700 dolar o'yliki ishlamakchi bolayaksizmi?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта"
+  ],
+  "income_claim": "500-1000 dollardan yuqori maoshli ishlarga joylab qo'yish (shaxsiy va'da, «ishga joylaymiz»); o'quvchilarning umumiy daromadi — 600 million so'm (jamlangan)",
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:07] Toqtayn biz sizni 500 dolar dan 1000 dolar gechi bolgen ishlarga joylip koyayamiz.",
+    "timecode": "00:07"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:11] Ha toqri ishtiniz biz sizni be pulge yani ishga joylayamiz.",
+    "timecode": "00:11"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:26] Umiimi okuvchilarimiz shuvak kechi 600 milion somlik daramatike chikti.",
+    "timecode": "00:26"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:37] Agar sizxan 500 de grandtan barini YouTube olugisini istasangiz,",
+    "timecode": "00:37"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:41] 25 centiabr kini boladigan online taqdimatimizgi ishtiroq etsikimiz shard,",
+    "timecode": "00:41"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "основатель или эксперт"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "средняя",
+ "notes": "Хук: первые кадры (0.0–1.0s) — подброшенная выпускная шапочка на фоне деревьев (похоже на сток/символичную вставку, не съёмку самой школы — не подтверждено на 100%, отмечаю как предположение), затем склейка на говорящую голову; verbatim собран по субтитрам + расшифровке (хорошо совпадают между собой), написание исправлено. Risk=true: дважды звучит прямое обещание трудоустройства — «biz sizni... ishlarga joylip qoyamiz» / «biz sizni ishga joylaymiz» («мы вас трудоустроим») с конкретной вилкой 500-1000$ — это более сильное и персонализированное обещание гарантированного результата, чем «daromadga chiqishingiz mumkin» («можно выйти на доход») в 1091595333325222 и 920006017429811, поэтому здесь risk true, в отличие от двух других роликов той же серии. Доход «600 млн сум» (совокупно по ученикам) совпадает с суммой в 1398281285823430 (и по независимым данным — с 1060285286743255 из соседней папки) — это повышает доверие к этой конкретной цифре в отличие от «100 млн», названных в 1091595333325222. Спикер — тот же человек/кабинет, что в 1091595333325222 и 920006017429811; авторство проекта («biz bir talim loyikasini ishlab chikamiz» — «мы создаём/разрабатываем проект Bir Talim») звучит явно и в этом ролике (~00:14), поэтому role «основатель или эксперт»; имя не называется ни разу, public_name не указываю. В обзорных кадрах — вставки реального мероприятия (сцена, зал с аудиторией, баннер «YUKSALISH MAKTABI») — отсюда стиль «нарезка эфира или подкаста». Ролик зовёт в Telegram-канал (подтверждено расшифровкой ~00:44–00:48: «padromne tukmasini basib Telegram kanalimizgi abunaboliyn»), но link_url ведёт на лендинг bir-group-webinar.vercel.app/ (корень)."
+}

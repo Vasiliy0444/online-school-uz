@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.12,
+   "text": "Uzun markette savda qilishizikyun tavarri uzumizani bazarladan ageniz yaxshi mi, yaqidi Xitaydan mi?"
+  },
+  {
+   "start": 6.34,
+   "end": 9.3,
+   "text": "Biz ayni sizikyun Beeple PDF kollemme tayyarladiyi."
+  },
+  {
+   "start": 9.4,
+   "end": 12.8,
+   "text": "Bugun kollemme disiz, kanak qilib uzun markette noldan daromadke chikishi,"
+  },
+  {
+   "start": 13.0,
+   "end": 15.86,
+   "text": "bashlangit satucili qiladiyan xatalani aldini alishi,"
+  },
+  {
+   "start": 16.26,
+   "end": 20.02,
+   "text": "iundan tashkara aige stabilni min dolar daromad tapishi olu orgetilinadi."
+  },
+  {
+   "start": 20.22,
+   "end": 24.32,
+   "text": "Bugun kollemme sizgi tohri yonelish beridi. Artikchi tavek geli ve shukalasiz."
+  },
+  {
+   "start": 24.32,
+   "end": 29.72,
+   "text": "Kollemmeni yukla baalishi, xaziroq kanalimizgi otiyin PDF kollemme sizi brihtirilgan khabar da kutiyatdi."
+  }
+ ],
+ "chars": 540,
+ "chars_per_s": 18.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

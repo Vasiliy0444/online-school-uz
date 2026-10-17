@@ -1,0 +1,101 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.76,
+   "text": "Min atiqamlar shagzada 16 yashtiman International School Anjan Firialda Upper Intermediate Leveldan boshlab,"
+  },
+  {
+   "start": 5.86,
+   "end": 10.22,
+   "text": "yetta oy davamida Teacher Mr. Khairullah va supporter Miss Alina Blan taksil aldim."
+  },
+  {
+   "start": 10.52,
+   "end": 13.56,
+   "text": "Natigada, Ayosin Tukhanidan yeti natijaya kolikiritdim."
+  },
+  {
+   "start": 15.48,
+   "end": 21.46,
+   "text": "Bun natijaya otdida, muntazan derslar, tohu yonalish va ustazlariminin kushli kolak kuatla ishtirubdi."
+  },
+  {
+   "start": 21.46,
+   "end": 27.78,
+   "text": "Mingi bu yolda yodan vergan Teacher Khairullah Rahimov, Miss Alina va International School Jamasiyaket ta rahmat buldiriman."
+  },
+  {
+   "start": 27.78,
+   "end": 32.4,
+   "text": "Əнгər сіз хамы оз нөтичан гэзі оңызгэті муқчу борсан гэз, алба тэ Интернэшн үй келим."
+  },
+  {
+   "start": 33.06,
+   "end": 36.06,
+   "text": "Интернэшн-скулан də can filialda, yana bər nəticə."
+  },
+  {
+   "start": 36.38,
+   "end": 40.16,
+   "text": "Shakhzadadir xamla bugun yeddi balıq olgi kirtilər, ulan tabriklaşki boraxs."
+  },
+  {
+   "start": 40.26,
+   "end": 40.6,
+   "text": "Ketik."
+  },
+  {
+   "start": 42.02,
+   "end": 43.26,
+   "text": "Shakhzadar, salamunikum."
+  },
+  {
+   "start": 45.2,
+   "end": 45.64,
+   "text": "Akshumsiz."
+  },
+  {
+   "start": 45.98,
+   "end": 46.58,
+   "text": "Yafirli aksham."
+  },
+  {
+   "start": 46.9,
+   "end": 48.5,
+   "text": "Sizi yeddi babdan tabriklaymiz."
+  },
+  {
+   "start": 48.58,
+   "end": 50.52,
+   "text": "Mana bu keşkdik Интерnэшn-camuası namıda."
+  },
+  {
+   "start": 51.2,
+   "end": 51.78,
+   "text": "Rahmatik."
+  },
+  {
+   "start": 51.78,
+   "end": 52.84,
+   "text": "Qanak tansaratlar istayib?"
+  },
+  {
+   "start": 52.84,
+   "end": 61.1,
+   "text": "Menci doxursaman, va international jamose yudayamketi rakhmadimakchiman, shu rezultatin alishimga ularini yordamaketli boldi."
+  },
+  {
+   "start": 61.58,
+   "end": 66.7,
+   "text": "Va xamma ge, yukharibal omokchibo gelage international schoolni tavsiya qrami."
+  }
+ ],
+ "chars": 1065,
+ "chars_per_s": 14.4,
+ "cyrillic_share": 0.1,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

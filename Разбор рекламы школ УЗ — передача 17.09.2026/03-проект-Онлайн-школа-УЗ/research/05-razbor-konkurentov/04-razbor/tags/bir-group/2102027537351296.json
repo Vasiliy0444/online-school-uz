@@ -1,0 +1,97 @@
+{
+ "creative_id": "2102027537351296",
+ "platform": "meta",
+ "school_id": "bir-group",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "Orzular orzulargacha qolmaydi, yurak urib tursa...",
+  "types": [
+   "история"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: ч/б стилизация «съёмка на телефон» (значок REC, таймер, рамка видоискателя, батарея); мужчина в светлом пиджаке на фоне объёмного лого «BIR» на стене; субтитры появляются по фразам: «Orzular orzulargacha» (0.0–1.0s) → «qolmaydi,» (1.5s) → «yurak urib tursa» (2.0–2.5s)",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Orzular, orzulu gecha qalmaydi. Yurek urutursa bas degan zaman keldi.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "профессия будущего",
+   "без опыта"
+  ],
+  "income_claim": "650 million so'mdan ziyod daromad (o'tgan oqim o'quvchilari, jamlangan/umumiy summasi — не подушевая)",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:12: крупная цифра «650» на экране; спикер уже в цветной картинке, бежевый пиджак",
+    "timecode": "00:12"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:09] Utkan patak oku uchilarimiz, shukun gechi, 650 milyon somdan ziyad daramat kili ishti.",
+    "timecode": "00:09"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Zamonaviy kasblarni bepul o'rganish imkoniyatini sizga \"Bir Group\" beradi. Siz grafik dizayn, targeting, videomontaj, SMM va boshqa 7 ta zamonaviy yo'nalishdan birini tanlab, grant asosida bepul ta'lim olishingiz mumkin."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Buning uchun 500 ta grant ajratilgan. 25-sentabr kuni onlayn taqdimot bo'lib o'tadi."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:14] Endi isa, yitda, en zamanavi kaspilar boyucha, yana 500 grand elan kildik.",
+    "timecode": "00:14"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:21–0:29: текст «Agar siz ham yuqoridagi...» → «Bu taqdimot qatnashish» + крупное «25 SENTABR»",
+    "timecode": "00:29"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук подтверждён и кадром, и расшифровкой: первые 2.5с стилизованы «под запись с телефона» (REC, таймер, рамка видоискателя, батарея) в чёрно-белом, затем ролик переходит в цветную студийную картинку — тот же спикер, другой пиджак (светлый → бежевый). Сам хук поэтический, без цифр и оффера: «мечты не остаются мечтами, пока бьётся сердце» (написание исправлено по тексту на кадре; расшифровка добавляет «...bas degan zaman keldi» — «...настало время сказать «хватит»»). Доход учеников прошлого потока — цифра «650» подтверждена крупным текстом в кадре (~0:12) и расшифровкой [00:09] «650 million so'mdan ziyod daromad»; сумма коллективная (по всей группе выпускников), не на человека. Далее [00:14] анонс новых 500 грантов, [00:24] дата 25 сентября — на кадре подтверждено «25 SENTABR». Финал ролика (после ~0:29 из 33.0с) не попал в обзорные кадры; по расшифровке [00:28] «...pestaqi padrolin tukmasini basib, azoraq rungitin otu qoyim» узнаётся призыв нажать кнопку внизу, но само слово «telegram» в этом фрагменте расшифровки не звучит (в отличие от 4 из 5 остальных роликов порции, где оно чётко слышно) — cta.in_creative проставлен «бот или канал Telegram» по аналогии с текстом объявления и общим паттерном кампании, но именно для этого ролика это менее подтверждённая деталь. Ролик зовёт в Telegram-канал (по паттерну кампании и тексту объявления), а link_url ведёт на лендинг bir-group-webinar.vercel.app/a/ — расхождение. Спикер не назван по имени ни голосом, ни подписью на экране — не Yo'ldosh Yusupov (имя нигде не звучит и не показано), поэтому роль «актёр или ведущий» без public_name."
+}

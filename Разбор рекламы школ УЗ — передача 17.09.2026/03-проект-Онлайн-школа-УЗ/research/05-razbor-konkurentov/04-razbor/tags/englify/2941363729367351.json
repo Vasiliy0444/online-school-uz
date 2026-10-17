@@ -1,0 +1,96 @@
+{
+ "creative_id": "2941363729367351",
+ "platform": "meta",
+ "school_id": "englify",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "Endi bo'ldi, ingliz tili o'rganolmayman deyatgan bo'lsangiz, to'xtang.",
+  "types": [
+   "боль",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.5s: «Endi bo'ldi» / «ingliz tili o'rganolmayman»; мужчина в зелёном поло на скамейке в парке, жестикулирует",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s–2.5s: «deyatgan bo'lsangiz,» / «to'xtang»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Indi bold ingilisri orginal mimand o'qeyam bo seyiz taqtiyam.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "быстрый старт",
+   "экономия времени"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:04: «biz aynan 25 yoshdan»",
+    "timecode": "00:04"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:11: «80 daqiqadan»",
+    "timecode": "00:11"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:19: «faqat speaking ga»",
+    "timecode": "00:19"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:17] Ushandisiz uch oydi, nuldan gapiradigan, chunadigan, bemra mulaqat qiladigan derecegi chikasiz.",
+    "timecode": "00:17"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:24] Agar da qizq bosa, xozu roqmanish xavalonus digi basin",
+    "timecode": "00:24"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук по кадрам («Endi bo'ldi, ingliz tili o'rganolmayman deyatgan bo'lsangiz, to'xtang») читается чётче, чем расшифровка того же места («Indi bold ingilisri orginal mimand o'qeyam bo seyiz taqtiyam»); написание в hook.verbatim исправлено по кадрам. Ролик — говорящая голова в парке (мужчина в зелёном поло, очки, усы), обращение к «занятым людям старше 25»: спецкурс на speaking, 3 раза в неделю по 80 минут, обещание заговорить за 3 месяца с нуля («nuldan gapiradigan darajaga chiqasiz» — по расшифровке, написание исправлено). Отдельного оффера нет — только призыв зарегистрироваться (расшифровка [00:24], написание исправлено: «Agar qiziqsangiz, hozir ro'yxatdan o'tish tugmasini bosing»). Тот же типаж ведущего встречается в других роликах пачки, но в этом ad_text имя «teacherazam» не упомянуто, поэтому public_name не проставляю."
+}

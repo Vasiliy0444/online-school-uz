@@ -1,0 +1,66 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.66,
+   "text": "Qullas qanchi qop shilasi, shunchi qop rapul topasiz."
+  },
+  {
+   "start": 2.74,
+   "end": 6.38,
+   "text": "Asasisi, kompiyutor, internet, va yakhshi fantazi, va bilimiz bolishkiri."
+  },
+  {
+   "start": 6.48,
+   "end": 8.4,
+   "text": "Bilimi qayadan orgen san boladi, disizmi?"
+  },
+  {
+   "start": 8.54,
+   "end": 10.8,
+   "text": "Qatam edukayishini AI khunarmat kursi bar."
+  },
+  {
+   "start": 10.9,
+   "end": 15.16,
+   "text": "Bitti kursi foto, video, site, telegram bot, ilova, khammasini orgetshadi."
+  },
+  {
+   "start": 15.34,
+   "end": 17.18,
+   "text": "Oqtuchili ozlari shusokade ishleshadi."
+  },
+  {
+   "start": 17.28,
+   "end": 20.66,
+   "text": "Fakat nazari emas, ozlari artirgan amali tajribani am orgetshadi."
+  },
+  {
+   "start": 20.66,
+   "end": 24.18,
+   "text": "Shukungi chuli yeddi minna ashiq adamla ki zamanami kaspilani orgetshgan."
+  },
+  {
+   "start": 24.18,
+   "end": 28.1,
+   "text": "Ishqalib AI mutakhaisibib tur bur kundan neshpil tap shumumkulligini, kor shilamumkun."
+  },
+  {
+   "start": 30.02,
+   "end": 33.18,
+   "text": "Agar zidam suni intilikta organib tur daramat tap moqchib oladiyanbosis,"
+  },
+  {
+   "start": 33.9,
+   "end": 36.94,
+   "text": "pastiga xawal arqali bemolol bepul konsultatsiagi yazilin."
+  }
+ ],
+ "chars": 685,
+ "chars_per_s": 18.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

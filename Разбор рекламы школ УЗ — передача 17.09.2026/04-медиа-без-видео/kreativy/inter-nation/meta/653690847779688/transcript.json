@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.18,
+   "text": "Manam shakarga barib, ingilis dilini urgen ardim."
+  },
+  {
+   "start": 5.0,
+   "end": 7.82,
+   "text": "Chunkki kishlagimizda zuraq, kursi, uzi yoq."
+  },
+  {
+   "start": 8.88,
+   "end": 10.0,
+   "text": "Tekin salar kim buqad?"
+  },
+  {
+   "start": 12.82,
+   "end": 15.28,
+   "text": "Endi mazofa muamua imaz."
+  },
+  {
+   "start": 15.56,
+   "end": 16.8,
+   "text": "International online."
+  },
+  {
+   "start": 17.14,
+   "end": 18.96,
+   "text": "Ingilis dilini istalinyan joydan urgenim."
+  },
+  {
+   "start": 20.68,
+   "end": 23.24,
+   "text": "Ingilis chesnige, shibur erkezdar."
+  }
+ ],
+ "chars": 241,
+ "chars_per_s": 8.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

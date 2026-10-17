@@ -1,0 +1,26 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 9.12,
+   "text": "Ustal rabotat w ofisi pa 10-12 chisov v deyn, ili tu student, i niznash kuda paiti rabotat, tada prikhodi k nam na kurs pa mezhdorodne transportne logistike w Logist Academy."
+  },
+  {
+   "start": 9.26,
+   "end": 15.4,
+   "text": "Posli akontanya kursa, tu smorz zarabatvat nevykhotat doma at 500 dolarov i vyshe, bez znani angliskog языka."
+  },
+  {
+   "start": 15.6,
+   "end": 19.62,
+   "text": "Napishi v директ прямо сейчас, i mu vyshlim тебе всю подробну информацию."
+  }
+ ],
+ "chars": 358,
+ "chars_per_s": 15.8,
+ "cyrillic_share": 0.16,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

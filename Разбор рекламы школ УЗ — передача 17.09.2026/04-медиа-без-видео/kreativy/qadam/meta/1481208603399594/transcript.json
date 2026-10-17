@@ -1,0 +1,146 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.4,
+   "text": "Ayli dan ayli geche ful yet qizami yapkan bu seza buzge zor biznis boladi shani."
+  },
+  {
+   "start": 5.4,
+   "end": 6.76,
+   "text": "Seroz ni etomba?"
+  },
+  {
+   "start": 6.76,
+   "end": 8.28,
+   "text": "Bitda ba tafsil chuntriy mu?"
+  },
+  {
+   "start": 8.28,
+   "end": 13.16,
+   "text": "Uzo market di sawda qilish orgin alay di shani katta biznismen bob getas."
+  },
+  {
+   "start": 13.16,
+   "end": 19.76,
+   "text": "Botdigi orgin ta digallan doza vashi onlayi sawda da tur mili artgechi sodi qila digallan orgin tsharkandi"
+  },
+  {
+   "start": 19.76,
+   "end": 22.16,
+   "text": "iki min tada ojo adan orgin kamsil ojo."
+  },
+  {
+   "start": 22.16,
+   "end": 23.44,
+   "text": "Iti dan soq uch barimiza ba."
+  },
+  {
+   "start": 23.44,
+   "end": 26.16,
+   "text": "Umumi abarotimiz 147 milan gechiktir uzun marketdi."
+  },
+  {
+   "start": 26.16,
+   "end": 28.24,
+   "text": "Abarotimizi 40 milion naqsh vatdi."
+  },
+  {
+   "start": 28.24,
+   "end": 31.56,
+   "text": "1 ay 2-de 30 minun che, navar-navar od bol-di."
+  },
+  {
+   "start": 31.56,
+   "end": 34.0,
+   "text": "Kursit kymadmazmiz qaylar qibukil nadi, odor genlad?"
+  },
+  {
+   "start": 34.0,
+   "end": 36.56,
+   "text": "Kursisi onlayn od sez bolad, fama oklayn od sez bolad."
+  },
+  {
+   "start": 36.56,
+   "end": 39.8,
+   "text": "Agar onlayn bolse, ke botir shartamaz?"
+  },
+  {
+   "start": 39.8,
+   "end": 42.2,
+   "text": "Da, platforman iti yekraz, oz dana platform boza bar,"
+  },
+  {
+   "start": 42.2,
+   "end": 44.0,
+   "text": "ondi che dafama video darsaynani kor sez bolad."
+  },
+  {
+   "start": 44.0,
+   "end": 46.6,
+   "text": "Agar si toshkinli torses, shun da ay bimi torgi,"
+  },
+  {
+   "start": 46.6,
+   "end": 49.0,
+   "text": "yakin ci aydeygan, shud da ok sez bolad."
+  },
+  {
+   "start": 49.0,
+   "end": 53.12,
+   "text": "Tol olayan, halisiz lakti diz, halisiz bolib toleshgan,"
+  },
+  {
+   "start": 53.12,
+   "end": 54.32,
+   "text": "tolisi bolad."
+  },
+  {
+   "start": 54.32,
+   "end": 56.12,
+   "text": "Man navinday ke sez, konlar qoydu,"
+  },
+  {
+   "start": 56.12,
+   "end": 58.76,
+   "text": "yana bitda kurssa, be pulqa veradigan bu asistirla, shunat?"
+  },
+  {
+   "start": 59.76,
+   "end": 61.52,
+   "text": "Jigar, bu asist varadigan cayi,"
+  },
+  {
+   "start": 61.72,
+   "end": 62.88,
+   "text": "basta silke qaldarama,"
+  },
+  {
+   "start": 63.24,
+   "end": 64.9,
+   "text": "hazi malamatizdi qaldarsiz,"
+  },
+  {
+   "start": 65.14,
+   "end": 66.28,
+   "text": "uzligi alaqaya chqib,"
+  },
+  {
+   "start": 66.4,
+   "end": 68.08,
+   "text": "yana batafsil malamat berishadi,"
+  },
+  {
+   "start": 68.42,
+   "end": 69.92,
+   "text": "hazi qaldari malamatizdi."
+  }
+ ],
+ "chars": 1178,
+ "chars_per_s": 16.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

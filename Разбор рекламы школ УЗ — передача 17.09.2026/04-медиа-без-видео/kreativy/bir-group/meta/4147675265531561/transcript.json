@@ -1,0 +1,66 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 29.98,
+   "text": "O'qish va ish haqida gaplashamiz."
+  },
+  {
+   "start": 30.0,
+   "end": 31.12,
+   "text": "pasakik tigmani basing"
+  },
+  {
+   "start": 31.12,
+   "end": 32.7,
+   "text": "vay kanalga onanabalig."
+  },
+  {
+   "start": 32.7,
+   "end": 33.96,
+   "text": "Taghdimatda qatinax chun"
+  },
+  {
+   "start": 33.96,
+   "end": 34.92,
+   "text": "nimalar kerek olayda"
+  },
+  {
+   "start": 34.92,
+   "end": 36.02,
+   "text": "qanaka shartilari bar."
+  },
+  {
+   "start": 36.02,
+   "end": 37.26,
+   "text": "Batafsiz hammasini"
+  },
+  {
+   "start": 37.26,
+   "end": 38.48,
+   "text": "chuntir bitaymiz"
+  },
+  {
+   "start": 38.48,
+   "end": 40.22,
+   "text": "vay qaysi zamana evkaz"
+  },
+  {
+   "start": 40.22,
+   "end": 41.92,
+   "text": "sizgi tor kelishi boyitaya"
+  },
+  {
+   "start": 41.92,
+   "end": 42.96,
+   "text": "malamat beraymiz."
+  }
+ ],
+ "chars": 253,
+ "chars_per_s": 5.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

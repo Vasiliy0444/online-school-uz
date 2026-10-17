@@ -1,0 +1,166 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.72,
+   "text": "Koshimchi daramad qimaqsiz, pulitad maqsiz, dili ge nimadan bashlash shibir miyabsiz."
+  },
+  {
+   "start": 3.72,
+   "end": 7.72,
+   "text": "Oki, ishani xazar, alzimi degi qiyemmez, xamil arsi asanlashif ketken."
+  },
+  {
+   "start": 7.72,
+   "end": 11.72,
+   "text": "Kampi turbilan internetiz, bosyo bozol, on yil aldi mozhni bozorli isli,"
+  },
+  {
+   "start": 11.72,
+   "end": 15.72,
+   "text": "odamli qanaghi kub bolad, zapchaz bozorli isli, toli bolad."
+  },
+  {
+   "start": 15.72,
+   "end": 18.44,
+   "text": "Khazir, biyerli xamil online go tuket var."
+  },
+  {
+   "start": 18.44,
+   "end": 24.44,
+   "text": "Odamli dangazalashib, uyidi otribda oki, xamil arsi dani otirgen coidi bitirish xala vatdi."
+  },
+  {
+   "start": 24.44,
+   "end": 33.12,
+   "text": "Danyezali qotdum oki, demi siz aynan shu xalatdan faydanan qol shizkiri, soqa qil shizkiri, shuladan qayab platformaladan bitdase bu uzun."
+  },
+  {
+   "start": 33.7,
+   "end": 38.16,
+   "text": "Agar da cudayam xizu botgan bosa, sizgi bunar san qadam edukation orgetad."
+  },
+  {
+   "start": 38.3,
+   "end": 41.42,
+   "text": "Qadam edukation oki rastanam kurutoy oku markazi."
+  },
+  {
+   "start": 41.8,
+   "end": 44.16,
+   "text": "Sondag yapraman ozi isqisablab chikar oras."
+  },
+  {
+   "start": 44.28,
+   "end": 48.34,
+   "text": "Tor minti okuchini aynan shu naprawlayin boyich okuchikam."
+  },
+  {
+   "start": 48.34,
+   "end": 51.58,
+   "text": "Unan tash qarib, vod digi oxtu uchilani ozu bari okey,"
+  },
+  {
+   "start": 51.58,
+   "end": 55.58,
+   "text": "4 milyard, 5 milyard, som uzumda aborot qil sharki, qarib."
+  },
+  {
+   "start": 55.58,
+   "end": 58.94,
+   "text": "Oxtu uchi ozi uzumdi shilab soqaqi vatdi di,"
+  },
+  {
+   "start": 58.94,
+   "end": 60.94,
+   "text": "shansima o shani sizgi ori getadi."
+  },
+  {
+   "start": 60.94,
+   "end": 62.94,
+   "text": "Onglayn, agar vloyatdi basiz,"
+  },
+  {
+   "start": 62.94,
+   "end": 64.06,
+   "text": "onlayn oxi seyzan bolad,"
+  },
+  {
+   "start": 64.06,
+   "end": 66.06,
+   "text": "agar yo offline gelaman man getisiz okey,"
+  },
+  {
+   "start": 66.06,
+   "end": 69.06,
+   "text": "qaybi metroni eji gidi teyidi choylashgan."
+  },
+  {
+   "start": 69.06,
+   "end": 71.06,
+   "text": "Xaman siz uchum qolayz."
+  },
+  {
+   "start": 71.06,
+   "end": 73.06,
+   "text": "Agar xalayam kalladi, baxana boladigan basi,"
+  },
+  {
+   "start": 73.06,
+   "end": 75.06,
+   "text": "zor taklif etaman sizgi qarib."
+  },
+  {
+   "start": 75.06,
+   "end": 79.06,
+   "text": "Qadam education-ni 40% gechi cheqirmi berishu vatdi,"
+  },
+  {
+   "start": 79.06,
+   "end": 81.06,
+   "text": "chilli access-si keti vatdi."
+  },
+  {
+   "start": 81.06,
+   "end": 84.06,
+   "text": "Undan tashkari, aynashi chilli access-si paytidi gelib,"
+  },
+  {
+   "start": 84.06,
+   "end": 86.06,
+   "text": "oqidi gyan bosayiz, birayda oqamidi."
+  },
+  {
+   "start": 86.06,
+   "end": 89.06,
+   "text": "Uquchilani orasda, an oqam shiriligini gorvasin, maklubkid."
+  },
+  {
+   "start": 89.06,
+   "end": 92.06,
+   "text": "Bir ortasigi, randomni berilad."
+  },
+  {
+   "start": 92.06,
+   "end": 94.06,
+   "text": "Malamatim sizgi yetarligi bovan gyan bosayiz,"
+  },
+  {
+   "start": 94.06,
+   "end": 97.06,
+   "text": "pastigi link boyichi, telefondomirlari izi qolnirsayiz,"
+  },
+  {
+   "start": 97.06,
+   "end": 100.06,
+   "text": "okey, meningerli sizgi kama malamatiti berishaydi."
+  }
+ ],
+ "chars": 1645,
+ "chars_per_s": 16.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,36 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.96,
+   "text": "Man biznesimgi bar yoghimi sarfladim. Endi bashqalar suni intelekt bilan, mijazlarimi jalb qo alish oradimi?"
+  },
+  {
+   "start": 7.24,
+   "end": 14.48,
+   "text": "Suni intelekt suni idi bir organe genman. Hazir onu bilmaganimgi, ishgeyem alishmayabdi."
+  },
+  {
+   "start": 15.24,
+   "end": 20.9,
+   "text": "Nargiza, endi ertigi ishgey kema sezan bol oradi. Sizi ornezgi suni intelektni biladigan xadim aldik."
+  },
+  {
+   "start": 20.9,
+   "end": 28.98,
+   "text": "Nima ge suni intelekti organmadi man? Bashqala onu ishlatib blogidan daromad topishyabdi. Man ki, xaliyan blog basla olmay yorubman?"
+  },
+  {
+   "start": 28.98,
+   "end": 36.9,
+   "text": "Əгер сізам 2026-ci il suni intelekni orgenib, daramatke chikmokchi boses, pastagi tugmanib osib, video darslikini korin."
+  }
+ ],
+ "chars": 553,
+ "chars_per_s": 14.8,
+ "cyrillic_share": 0.02,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

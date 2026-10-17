@@ -1,0 +1,85 @@
+{
+ "creative_id": "1719917922467416",
+ "platform": "meta",
+ "school_id": "qadam",
+ "ad_goal": "найм сотрудников",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Tajribali sotuv Managerisiz / Oyligingizni ko'tarishmayaptimi",
+  "types": [
+   "обращение к сегменту",
+   "боль",
+   "вопрос"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.5s–1.0s: «Tajribali sotuv Managerisiz»; ведущая сидит на улице, лицо крупно",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s–2.5s: «Oyligingizni ko'tarishmayaptimi»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Tajribali sato menajirsiz, liki aylik isko tarshim yaptim, undu bu video aynan siz uqun.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "стабильность"
+  ],
+  "income_claim": "6 OYLIK NATIJA 10-12 MILLION",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈00:23): «6 OYLIK NATIJA 10-12 MILLION»",
+    "timecode": "00:23"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:18] Bizdi menajirlarimiz ortachi 3 ayda 6-7 milion, va 6 ayda isi 10-12 milion top yapdi.",
+    "timecode": "00:18"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Barqaror oylik, bonuslar va kuchli jamoa kutmoqda."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Apply now",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "неизвестно"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "ВАКАНСИЯ, а не реклама курса: Qadam Education ищет менеджеров в отдел продаж (Ташкент) — для долей по курсам лучше исключить. Та же ведущая, середина и финал, что в 1521401729291289, другой хук. Хук — текст на кадрах; речь: «Tajribali sotuv menejerisiz, lekin oyligingizni ko'tarishmayaptimi? Unda bu video aynan siz uchun» (написание исправлено). Перевод: «Опытный менеджер продаж, а зарплату не повышают?». income_claim — зарплата менеджеров школы, не доход учеников. Этап «неизвестно»: ссылка на квиз найма (/naym-quiz)."
+}

@@ -1,0 +1,68 @@
+{
+ "url": "https://inter-nation.uz/locations",
+ "school_id": "inter-nation",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "прочее",
+ "builder": "Next.js",
+ "pixels": [
+  "Google Analytics (GA4)",
+  "Google Tag Manager"
+ ],
+ "promise": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "program": {
+  "found": false,
+  "format": "офлайн",
+  "quote": "Filiallarimiz Dushanbadan-Shanbagacha, soat 7:30 dan 20:00 gacha ishlaydi."
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [
+   "нет"
+  ]
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "справочная страница адресов филиалов — цен нет; цены по городам — во вкладках блока «Tariflar va narxlar» на главной"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": false
+ },
+ "next_step": "неизвестно",
+ "closed": false,
+ "notes": "Образец страницы филиалов: общий список адресов «Bizning manzillarimiz». Отдельных страниц филиалов в снимках нет: в разметке schema.org главной есть адреса вида /location/sergeli, /location/andijan (их не снимали), а /location без «s» — только Яндекс-карта (171 знак). Первый экран (скриншот): заголовок, часы работы, карусель карточек филиалов с кнопками Яндекс, Google и 2GIS, карта Ташкента с метками; шапки и подвала сайта в снимке нет. В тексте 16 офлайн-филиалов с адресом и ориентиром (метро, KFC, гостиницы): Ташкент — Oybek, Xalqlar do’stligi, C1, Westminster, Maksim Gorkiy, Chilonzor, Beruniy, Minor, Ganga, Yunusobod, Sergeli (11); Samarqand Gagarin и Samarqand Dahbed; Andijon; Farg'ona; Namangan. Онлайн-формат здесь не упоминается. Часы «Dushanbadan-Shanbagacha, soat 7:30 dan 20:00 gacha» расходятся с FAQ главной и schema.org («haftaning yetti kunida ham 08:00 dan 22:00 gacha»), а 16 адресов — с «14 filial (13 jismoniy + Online)» на главной. Цен, формы, телефона, призывов записаться и ссылки на оферту нет — следующий шаг воронки не задан, поэтому next_step «неизвестно», closed = false. /ru/locations и /en/locations — те же 16 адресов на русском и английском. Техника (intel.json): Next.js, GA4 и Google Tag Manager; Meta Pixel не обнаружен."
+}

@@ -1,0 +1,101 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.96,
+   "text": "Bu, miso vaziyoda. Ikanlasa ham, ko' bolali onalar."
+  },
+  {
+   "start": 4.36,
+   "end": 5.5,
+   "text": "Miso aytadi ki,"
+  },
+  {
+   "start": 5.82,
+   "end": 11.64,
+   "text": "Tord nafar farzan, blan oqish derli imkonsiz."
+  },
+  {
+   "start": 11.76,
+   "end": 13.46,
+   "text": "Uzige vaqt opish ham qiyin."
+  },
+  {
+   "start": 13.66,
+   "end": 15.66,
+   "text": "Amma, ziyoda shun cheki boshladi."
+  },
+  {
+   "start": 16.08,
+   "end": 19.34,
+   "text": "O, International Schoolnin online kurslarige yazuldi."
+  },
+  {
+   "start": 19.76,
+   "end": 22.94,
+   "text": "Endi u har tuni ertalab students ab orqali oqidi."
+  },
+  {
+   "start": 22.94,
+   "end": 26.38,
+   "text": "Uy vazifalarini togredan togri telefonida bacaradi."
+  },
+  {
+   "start": 26.38,
+   "end": 30.36,
+   "text": "Qoygan vaqnesi bolaları va u ishlarigi baxishlaydi."
+  },
+  {
+   "start": 30.68,
+   "end": 31.98,
+   "text": "Hammasigi ulgiradi."
+  },
+  {
+   "start": 32.2,
+   "end": 33.2,
+   "text": "Bir yil otdi."
+  },
+  {
+   "start": 33.62,
+   "end": 36.12,
+   "text": "Ziyada indilikdi inglis dili di yapiradi."
+  },
+  {
+   "start": 36.48,
+   "end": 38.38,
+   "text": "Yaxshi mausli ishge joylashdi"
+  },
+  {
+   "start": 38.38,
+   "end": 41.66,
+   "text": "va farzantlari ucho en yaxshi namunagi aylandi."
+  },
+  {
+   "start": 41.8,
+   "end": 44.62,
+   "text": "Agar chindildan xoxlasen, vaqt topladi."
+  },
+  {
+   "start": 44.94,
+   "end": 46.1,
+   "text": "International School."
+  },
+  {
+   "start": 46.36,
+   "end": 48.52,
+   "text": "Qayarda bolma, uqishgen konyat bon."
+  },
+  {
+   "start": 48.74,
+   "end": 50.08,
+   "text": "Ozyrok darslargi yazil."
+  }
+ ],
+ "chars": 659,
+ "chars_per_s": 13.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

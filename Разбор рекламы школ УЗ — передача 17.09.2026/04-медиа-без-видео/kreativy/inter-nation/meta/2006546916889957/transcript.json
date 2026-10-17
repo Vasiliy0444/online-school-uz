@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.6,
+   "text": "Bu asilbek, IELTS-tan sakkiz oldu."
+  },
+  {
+   "start": 3.12,
+   "end": 5.12,
+   "text": "Asilbek, International English language."
+  },
+  {
+   "start": 5.7,
+   "end": 10.7,
+   "text": "Bu International, siz uchun, IELTS-sakkiz olganingiz uchun, cashback 2 milyon som."
+  },
+  {
+   "start": 11.12,
+   "end": 12.8,
+   "text": "Siz unu nimo uchun ishlatmokchiziz?"
+  },
+  {
+   "start": 13.02,
+   "end": 14.88,
+   "text": "Yangi device-lar, electronic device-lar?"
+  },
+  {
+   "start": 15.44,
+   "end": 18.16,
+   "text": "Agar siz ham shunday natice gerishmokchiz bolsangiz?"
+  },
+  {
+   "start": 18.84,
+   "end": 20.62,
+   "text": "Xawala orqali, royqattan oti."
+  }
+ ],
+ "chars": 318,
+ "chars_per_s": 14.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

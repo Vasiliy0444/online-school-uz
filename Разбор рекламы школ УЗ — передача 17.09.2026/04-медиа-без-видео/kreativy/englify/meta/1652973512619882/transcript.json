@@ -1,0 +1,36 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.26,
+   "text": "Ishingi stufayliyi ingilisi lorgenishke vaqt izhiz. Bizi ise ishi bar yashi 25 ten kapitalage ingilisi lorgedim."
+  },
+  {
+   "start": 5.26,
+   "end": 10.86,
+   "text": "Darslar khartasige 3 marti 80 dakikadan bolgol. Darslarini 58 yarim va tori illik tajibage ege stuzlar olgim."
+  },
+  {
+   "start": 10.88,
+   "end": 15.38,
+   "text": "Kursini tama olaygan izdankin, ingilisi lida bi manol gapiradigan, gapirisi chunadigan halatge chkazim."
+  },
+  {
+   "start": 15.4,
+   "end": 18.78,
+   "text": "Bizde 7000 na arta okuchilar okib, hazir gecha natija qilib gelishmik."
+  },
+  {
+   "start": 18.82,
+   "end": 22.4,
+   "text": "Pastagi havala arkali roxatda otim, menajerlarim sizgi tolub malumat verishadim."
+  }
+ ],
+ "chars": 478,
+ "chars_per_s": 21.2,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

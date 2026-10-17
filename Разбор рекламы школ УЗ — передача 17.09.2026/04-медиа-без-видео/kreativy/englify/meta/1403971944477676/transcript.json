@@ -1,0 +1,81 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.32,
+   "text": "Engilis sirni o'rganishki vaqtim yoxdi galan diqqatdagi."
+  },
+  {
+   "start": 2.32,
+   "end": 4.6,
+   "text": "Siz xaliyam kundigi ikisi o'l dars qishkiridi bo ili isim o?"
+  },
+  {
+   "start": 4.6,
+   "end": 6.2,
+   "text": "Yox, kundigi yarim saat yetadi."
+  },
+  {
+   "start": 6.2,
+   "end": 7.4,
+   "text": "Bagat har kundi qilishkiri."
+  },
+  {
+   "start": 7.4,
+   "end": 12.4,
+   "text": "No biti joy bar, u yarim saatta nima mashkilar qilishkiri, kanday usutupti, bilmasti gi sabi."
+  },
+  {
+   "start": 12.4,
+   "end": 16.24,
+   "text": "Mani techi razam 13 ilik tajribigi ilgi oqtushman, vasitlargi kanday mashkilar"
+  },
+  {
+   "start": 16.24,
+   "end": 18.24,
+   "text": "va kanday usutupti qilishkiri o'rga tama."
+  },
+  {
+   "start": 18.24,
+   "end": 21.56,
+   "text": "Bagat uchkun 22, 23, 24 Sintabur kundi ara"
+  },
+  {
+   "start": 21.56,
+   "end": 23.56,
+   "text": "PayPal online masterclass taqshkilashdari yapma."
+  },
+  {
+   "start": 23.56,
+   "end": 27.64,
+   "text": "Ux bu master class-da 0-da 33-di ingilis sridi kundarik mauzuradig yapirish."
+  },
+  {
+   "start": 27.64,
+   "end": 30.4,
+   "text": "Kundigi elik digi jam sozini 10 son yotab real khayatli ishatish."
+  },
+  {
+   "start": 30.4,
+   "end": 33.16,
+   "text": "Ba, ba ikli sertifikat alish yorlarini oru geteman."
+  },
+  {
+   "start": 33.16,
+   "end": 36.32,
+   "text": "Master class-da qatmash mutlakao bey pul, fakat xaqo launusligi baxsak,"
+  },
+  {
+   "start": 36.32,
+   "end": 38.28,
+   "text": "yopog Telegram kanalimgi koshirib olayin."
+  }
+ ],
+ "chars": 793,
+ "chars_per_s": 20.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,31 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.56,
+   "text": "Samarkand. International opens its second branch. That's why we expand our team and open a set of new vacancies."
+  },
+  {
+   "start": 8.56,
+   "end": 14.44,
+   "text": "Now we are looking for English teachers, academic supporters and administrators."
+  },
+  {
+   "start": 14.44,
+   "end": 25.5,
+   "text": "We offer competitive earnings, free preparation for the international certification of CELTA, work on the Oxford University Press and IELTS X programs,"
+  },
+  {
+   "start": 25.5,
+   "end": 29.5,
+   "text": "Тимбилдинг"
+  }
+ ],
+ "chars": 356,
+ "chars_per_s": 7.7,
+ "cyrillic_share": 0.03,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

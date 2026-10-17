@@ -1,0 +1,76 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.7,
+   "text": "Pul tapish uchun ishtash kerey ligini hamayam biladi."
+  },
+  {
+   "start": 2.98,
+   "end": 8.72,
+   "text": "Lekin, iyer taleptan kechkeche uyni, rozgarini, kazan tovanini tashab ketishkin hamayam tayyar imas."
+  },
+  {
+   "start": 9.02,
+   "end": 10.78,
+   "text": "Farzan tarbiyasini tashab koymastan,"
+  },
+  {
+   "start": 11.2,
+   "end": 14.06,
+   "text": "hayatiga muas keladigan, tinchini buzmigigan ishi bolishini"
+  },
+  {
+   "start": 14.06,
+   "end": 15.92,
+   "text": "xar bir ayan orzu qiladi."
+  },
+  {
+   "start": 16.34,
+   "end": 19.18,
+   "text": "Xazir bunaka imkonyatilardan bittasi uzun marketigyan."
+  },
+  {
+   "start": 20.26,
+   "end": 23.16,
+   "text": "Gana uydu otri, beye malol online savda qilishmikun."
+  },
+  {
+   "start": 23.48,
+   "end": 27.78,
+   "text": "Maksula tanlisis, uzumge caylisis, qolganini platformani ozu qiladi."
+  },
+  {
+   "start": 27.78,
+   "end": 36.76,
+   "text": "Shun narsilani orgenishta, sizga qadam edukishini yordan biradi, mangi in yokani sodda tilda qadam ma qadan sizdi noldan daramat gechi obchikishadi."
+  },
+  {
+   "start": 36.9,
+   "end": 40.98,
+   "text": "Agar vloyotdan turub okumakchi bolisangiz, online platformada orgenichingiz mumkun."
+  },
+  {
+   "start": 41.18,
+   "end": 48.62,
+   "text": "Agar toshkende yashishangiz, shundo kasmanatlar metro yonuda okub markez joyolashgan, kelib offline darsilarda ishirokechingiz mumkun."
+  },
+  {
+   "start": 49.14,
+   "end": 54.18,
+   "text": "Agar sizxam anchadan beri qanidi uzimni pulun bolisaydi dibirgan polisangiz, bu acaib imkonyat."
+  },
+  {
+   "start": 54.18,
+   "end": 59.38,
+   "text": "Ular da, biyepul qirijlarislari xanbar, xabali orqali otib, oryanishengiz mumkun."
+  }
+ ],
+ "chars": 1000,
+ "chars_per_s": 16.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

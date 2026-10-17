@@ -1,0 +1,496 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.5,
+   "text": "Yeddi yil boldi, u yiddi dikretti otiri pul topishini boshlaganimgi."
+  },
+  {
+   "start": 3.5,
+   "end": 6.5,
+   "text": "Va bilasmi, yillar oti bitanarsan chundim."
+  },
+  {
+   "start": 6.5,
+   "end": 9.0,
+   "text": "Bilasmi, kachan ayol kishi khotirjan bolib,"
+  },
+  {
+   "start": 9.0,
+   "end": 12.0,
+   "text": "hichkim bilan urishmasikin, hichkimna xafi bomidi, khasat qomidi,"
+  },
+  {
+   "start": 12.0,
+   "end": 14.0,
+   "text": "u yiddi gilani gapi teymasikinin."
+  },
+  {
+   "start": 14.0,
+   "end": 17.0,
+   "text": "Kachanki, uzini puli bogindi."
+  },
+  {
+   "start": 17.0,
+   "end": 19.0,
+   "text": "Lekin, faqat pulini oziymaz."
+  },
+  {
+   "start": 19.0,
+   "end": 23.0,
+   "text": "Ertigi nimi bolarkin digan korqu bolmasligi uchun kerek."
+  },
+  {
+   "start": 23.0,
+   "end": 26.0,
+   "text": "Xazir, bunaki imkonyatladan bittasi uzun marki digan."
+  },
+  {
+   "start": 26.0,
+   "end": 28.0,
+   "text": "qalganini platformani ozu qiladi."
+  },
+  {
+   "start": 28.0,
+   "end": 30.0,
+   "text": "Shun arslanin organishta"
+  },
+  {
+   "start": 30.0,
+   "end": 32.0,
+   "text": "sizgi qadam edikusin yardan veradi,"
+  },
+  {
+   "start": 32.0,
+   "end": 34.0,
+   "text": "mangi in yokgani soot ditildi"
+  },
+  {
+   "start": 34.0,
+   "end": 36.0,
+   "text": "qadam ma qadan"
+  },
+  {
+   "start": 36.0,
+   "end": 38.0,
+   "text": "sizin noldan daramat gechi obchixadi."
+  },
+  {
+   "start": 38.0,
+   "end": 40.0,
+   "text": "Agar vloyotdan turib"
+  },
+  {
+   "start": 40.0,
+   "end": 42.0,
+   "text": "okomoxchib olsangiz,"
+  },
+  {
+   "start": 42.0,
+   "end": 44.0,
+   "text": "online platformada organichingiz munkun."
+  },
+  {
+   "start": 44.0,
+   "end": 46.0,
+   "text": "Agar toshkende yashishangiz,"
+  },
+  {
+   "start": 46.0,
+   "end": 48.0,
+   "text": "shundo kasmanatlar metro yonidi"
+  },
+  {
+   "start": 48.0,
+   "end": 50.0,
+   "text": "okub markez joylashgan"
+  },
+  {
+   "start": 50.0,
+   "end": 52.0,
+   "text": "kelib offline tarsladda ishiroqechingiz munkun."
+  },
+  {
+   "start": 52.0,
+   "end": 54.0,
+   "text": "Shun qalgani platformani"
+  },
+  {
+   "start": 54.24,
+   "end": 55.64,
+   "text": "Oil"
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 55.64,
+   "text": ""
+  },
+  {
+   "start": 55.64,
+   "end": 58.88,
+   "text": "Oil"
+  },
+  {
+   "start": 58.88,
+   "end": 58.88,
+   "text": ""
+  },
+  {
+   "start": 58.88,
+   "end": 58.88,
+   "text": ""
+  },
+  {
+   "start": 58.88,
+   "end": 58.96,
+   "text": "Oil"
+  },
+  {
+   "start": 58.96,
+   "end": 58.96,
+   "text": ""
+  },
+  {
+   "start": 58.96,
+   "end": 58.96,
+   "text": ""
+  },
+  {
+   "start": 58.96,
+   "end": 58.96,
+   "text": ""
+  },
+  {
+   "start": 58.96,
+   "end": 59.36,
+   "text": "Oil"
+  },
+  {
+   "start": 59.36,
+   "end": 59.36,
+   "text": ""
+  },
+  {
+   "start": 59.36,
+   "end": 59.36,
+   "text": ""
+  },
+  {
+   "start": 59.36,
+   "end": 59.36,
+   "text": ""
+  },
+  {
+   "start": 59.36,
+   "end": 59.36,
+   "text": ""
+  },
+  {
+   "start": 59.36,
+   "end": 59.36,
+   "text": ""
+  },
+  {
+   "start": 59.36,
+   "end": 59.36,
+   "text": ""
+  },
+  {
+   "start": 59.36,
+   "end": 59.36,
+   "text": ""
+  },
+  {
+   "start": 59.36,
+   "end": 76.32,
+   "text": "Oil"
+  },
+  {
+   "start": 76.32,
+   "end": 80.84,
+   "text": "Oil"
+  },
+  {
+   "start": 80.84,
+   "end": 80.84,
+   "text": ""
+  },
+  {
+   "start": 80.84,
+   "end": 80.84,
+   "text": ""
+  },
+  {
+   "start": 80.84,
+   "end": 80.84,
+   "text": ""
+  },
+  {
+   "start": 80.84,
+   "end": 80.84,
+   "text": ""
+  },
+  {
+   "start": 80.84,
+   "end": 80.84,
+   "text": ""
+  },
+  {
+   "start": 80.84,
+   "end": 80.84,
+   "text": ""
+  },
+  {
+   "start": 80.84,
+   "end": 80.84,
+   "text": ""
+  },
+  {
+   "start": 80.84,
+   "end": 80.84,
+   "text": ""
+  }
+ ],
+ "chars": 867,
+ "chars_per_s": 14.2,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

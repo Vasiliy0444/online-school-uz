@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.28,
+   "text": "Tradingi qizikasiz, lekin birin saldo da yoq, pulizni yoq atip qoishdan qorkasiz van."
+  },
+  {
+   "start": 4.28,
+   "end": 13.0,
+   "text": "Bu korku bi korgemaz, chunki kopchiligimizi, kaysa aksana sato balishini ham, kanda analiz kilishini ham, kanchi sunma bilan bazar kirishini ham bilmimiz."
+  },
+  {
+   "start": 13.46,
+   "end": 17.54,
+   "text": "Natijida kararlarimiz bilim geymaz, xisiyat va tahminlargi asoslanadi."
+  },
+  {
+   "start": 17.94,
+   "end": 24.4,
+   "text": "Tradingini boshilashdan aldin, bazarda kanda ishlasini, risk managementin kanda yakili boshkarasini bilishin iskerak boladi."
+  },
+  {
+   "start": 24.4,
+   "end": 31.18,
+   "text": "Shubilumlar ne ise HBS Express kursumizidi, amaliyyatchi traderlar bilan basqich mi basqich organi barasiz."
+  },
+  {
+   "start": 31.28,
+   "end": 35.42,
+   "text": "Kursumiz toshkin shakridi offline tarzda bolibotadi, va bir yarim ay davam edadi."
+  },
+  {
+   "start": 35.56,
+   "end": 39.08,
+   "text": "Bulingizni tajribi qilib yukqotishtan aldin, toqra saldaqilisni organi."
+  },
+  {
+   "start": 39.44,
+   "end": 41.62,
+   "text": "Pastagi tugmani alsin, varu xattan otukoyin."
+  }
+ ],
+ "chars": 743,
+ "chars_per_s": 17.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

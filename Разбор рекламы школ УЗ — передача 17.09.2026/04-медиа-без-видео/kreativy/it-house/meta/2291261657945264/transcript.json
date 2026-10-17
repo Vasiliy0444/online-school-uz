@@ -1,0 +1,71 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.16,
+   "text": "Taj bez yog iken, dip hich qatki ishki olishmi yaptimi?"
+  },
+  {
+   "start": 3.16,
+   "end": 5.16,
+   "text": "Buz bilan, ona qabolmaydi."
+  },
+  {
+   "start": 5.16,
+   "end": 7.04,
+   "text": "Xazir sizke zor nasi korsitaman,"
+  },
+  {
+   "start": 7.04,
+   "end": 9.04,
+   "text": "Xit Hunter va Kantalar saytidan"
+  },
+  {
+   "start": 9.04,
+   "end": 11.04,
+   "text": "interior designerlar uchun kampanyada"
+  },
+  {
+   "start": 11.04,
+   "end": 13.6,
+   "text": "400 dolardan 1200 dolar gechi tolashke tayyar."
+  },
+  {
+   "start": 13.6,
+   "end": 16.16,
+   "text": "Bu kiasminsa, siz olto aychidi orgin sangez boladi"
+  },
+  {
+   "start": 16.16,
+   "end": 18.64,
+   "text": "va uch ay web polamalyotva 100 fois ishki"
+  },
+  {
+   "start": 18.64,
+   "end": 20.64,
+   "text": "jolashlizike folatini buz beremiz."
+  },
+  {
+   "start": 20.64,
+   "end": 22.64,
+   "text": "Shuu xafta, interior design bochiya"
+  },
+  {
+   "start": 22.64,
+   "end": 24.64,
+   "text": "mutsoqa web pola uchki dars bolibotadi."
+  },
+  {
+   "start": 24.64,
+   "end": 27.64,
+   "text": "Roj xatda otuxun, xaziroq basaygi xabolani basayin."
+  }
+ ],
+ "chars": 488,
+ "chars_per_s": 17.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

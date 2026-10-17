@@ -1,0 +1,61 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.1,
+   "text": "Bu saha ge duniya boych etalad."
+  },
+  {
+   "start": 3.88,
+   "end": 5.36,
+   "text": "5 yarim min ongi yaqin ish vurni."
+  },
+  {
+   "start": 5.82,
+   "end": 6.46,
+   "text": "O'lik maash."
+  },
+  {
+   "start": 7.0,
+   "end": 8.32,
+   "text": "Uzbikistan sharayotda min doldur."
+  },
+  {
+   "start": 8.58,
+   "end": 8.92,
+   "text": "Saha."
+  },
+  {
+   "start": 9.7,
+   "end": 10.88,
+   "text": "Kibir khasilik mutaqasiz."
+  },
+  {
+   "start": 11.14,
+   "end": 12.38,
+   "text": "Qayardan organish kerek."
+  },
+  {
+   "start": 12.9,
+   "end": 15.08,
+   "text": "IT-Khaus okun markazi, kibir khasilik kursara."
+  },
+  {
+   "start": 15.52,
+   "end": 17.7,
+   "text": "IT-Khaus uzbitur uchilarini isbilan tamirlaydi mi?"
+  },
+  {
+   "start": 18.14,
+   "end": 19.42,
+   "text": "18 yashdan oqishgan bolsa."
+  }
+ ],
+ "chars": 294,
+ "chars_per_s": 11.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

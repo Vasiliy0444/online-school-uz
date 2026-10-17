@@ -1,0 +1,75 @@
+{
+ "creative_id": "2169357020663029",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "постановка или скетч",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Agar sizning ham farzandingiz maktabdan kelib PUBG va shunga o'xshash o'yinlar bilan kunining yarmini o'tkazayotgan bo'lsa",
+  "types": [
+   "боль",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: грузный мужчина в игровом кресле на неоновом фоне «UPGRADE», недовольная мимика; текст «COUNTER STRIKE 2» → «PUBG»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Agar sizni xam farzantingiz makitabtan keli PUBG va shungi oqshash oyillar bilan kunini yarimi notkezi otkan bolsa,",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для мам",
+   "профессия будущего"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:11] Kursda wamadi farzantingiz ofis tasturlara, kanva va figma, telegram bot yaratish,",
+    "timecode": "00:11"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (≈0:14): девушка, иконки Canva/Figma/Telegram bot",
+    "timecode": "00:14"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Завязка — реакция «отца-геймера» на упрёк про PUBG/Counter-Strike (недовольная мимика на фоне неоновой надписи UPGRADE), дальше вторая ведущая (девушка) переключает на пользу: IT House Foundation Kids (офисные программы, Canva, Figma, Telegram-боты, ИИ). Ссылки нет — destination по тексту объявления («Ro'yxatdan o'ting! Batafsil ma'lumot oling!») и по прямому призыву в расшифровке «pastdagi havola orqali ro'yxatdan o'ting» (00:18)."
+}

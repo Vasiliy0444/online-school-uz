@@ -1,0 +1,66 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.16,
+   "text": "Samar kamba, adin izluchuk uqebnog sandrov intarnashimu kondan chan bujqisat, daromad chio pridlagatikasin?"
+  },
+  {
+   "start": 5.4,
+   "end": 8.28,
+   "text": "I vabshay, stoidmuk kondan daromada anakhkadam rayim?"
+  },
+  {
+   "start": 8.54,
+   "end": 15.08,
+   "text": "Bagdaz daromada gito, shumonna admin grambadna vstretizmuk kondat, prezentatsa mugzarunat, atsandar polni informatsa mitiyat."
+  },
+  {
+   "start": 15.28,
+   "end": 19.54,
+   "text": "Soni aplata, kitobda avtoroy kita, hamin administrator to klasa bo pravajasimekidas."
+  },
+  {
+   "start": 19.78,
+   "end": 25.22,
+   "text": "Darsoya indiba profesionalni malim, pauxus ruskay programi mugzarondayin, saroyto prosto waw."
+  },
+  {
+   "start": 25.22,
+   "end": 30.96,
+   "text": "Pehgarzi aslanoy malim inceba kajda uchiniq da palnisla duyoy malim ekazimik suportki zanyamatsa mukunad."
+  },
+  {
+   "start": 31.22,
+   "end": 37.18,
+   "text": "Damashni zadanya inceba cheliz pilazheniya, stundus ap me kadayan e iskusini intelekt djoshba praverka kadam edudas."
+  },
+  {
+   "start": 37.26,
+   "end": 41.72,
+   "text": "Har yakshami inceba Azbori studentu, top biznesmen, bloggeruki, gasiwo leksa mukzarondoyan,"
+  },
+  {
+   "start": 41.8,
+   "end": 47.28,
+   "text": "atakzi har perjuma atoshki inceba naysi spekir onda Azbori studentu uchiniqo spekinkulub mukzarondas."
+  },
+  {
+   "start": 47.56,
+   "end": 54.08,
+   "text": "Narko inceba naysi dusi yazurzoyan, ham noktigi blusom in narko medrod, man oylanknan tsinakachisva prosto atlichinaya."
+  },
+  {
+   "start": 54.08,
+   "end": 56.4,
+   "text": "Переходите по ссылке и регистрируйтесь."
+  }
+ ],
+ "chars": 1043,
+ "chars_per_s": 17.6,
+ "cyrillic_share": 0.04,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

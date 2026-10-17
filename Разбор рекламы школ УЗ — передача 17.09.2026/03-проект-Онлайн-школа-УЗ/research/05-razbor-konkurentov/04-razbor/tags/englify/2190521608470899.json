@@ -1,0 +1,82 @@
+{
+ "creative_id": "2190521608470899",
+ "platform": "meta",
+ "school_id": "englify",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "запись экрана",
+  "постановка или скетч"
+ ],
+ "hook": {
+  "verbatim": "Qizim uch yildan keyin ingliz tili o'qitiladigan maktabga chiqadi.",
+  "types": [
+   "история",
+   "обращение к сегменту"
+  ],
+  "visual": [],
+  "evidence": [
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: пустой школьный класс (яркие плакаты, жёлтые стулья), девочка идёт вглубь кадра к стенду — без субтитров на кадре",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Qizam uchaydanki ingilis tildi oqtilagiya maktabki chqada.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для мам",
+   "экономия времени"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:15: экран приложения «Resurslar»: Level, Maxsus, Filmlar, Kitoblar, Podkastlar; ~0:25: библиотека книг по уровням (The Alchemist, The Diary of a Young Girl, Eragon, The Mouse and the Motorcycle, Stuart…)",
+    "timecode": "00:15"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_overview.jpg ~0:05 и ~0:35: мама с дочкой занимаются за столом и читают вместе перед сном (без субтитров)",
+    "timecode": "00:05"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:31] farzandi zyutuklarini bem olal korib tur aulisis.",
+    "timecode": "00:31"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Ilovani yuklab olish uchun video ostidagi havolani bosing 👇 ILOVANI YUKLAB OLISH"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Install now",
+  "in_creative": "перейти по ссылке",
+  "destination": "приложение",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "голос за кадром"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Единственный ролик пачки без говорящей головы и без вшитых субтитров на всех восьми просмотренных кадрах — целиком постановочный б-ролл (пустой класс, мама с дочкой дома) плюс скриншоты приложения, поверх голос за кадром (расшифровка «черновая»). Число в хуке («uchaydanki») читается неоднозначно — взял как «uch yildan keyin» (через три года), но это лучшая реконструкция по смыслу фразы о поступлении дочери в школу с английским, а не точная цитата; кадром не подтверждается. Явно нацелен на родителей (мама показывает дочке приложение, «facilities отслеживание успехов ребёнка» по расшифровке [00:31])."
+}

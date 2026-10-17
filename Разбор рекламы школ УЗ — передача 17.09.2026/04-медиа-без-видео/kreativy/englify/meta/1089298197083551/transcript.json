@@ -1,0 +1,71 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.14,
+   "text": "Maqtab oqt uqsisiz!"
+  },
+  {
+   "start": 1.14,
+   "end": 3.66,
+   "text": "Agar ingilis sili dan ba ikki darijigdagi sertifikat taqsisiz,"
+  },
+  {
+   "start": 3.66,
+   "end": 6.28,
+   "text": "o'li daromadizgi 20 fawiz uqsinama haqq kuxiladi!"
+  },
+  {
+   "start": 6.28,
+   "end": 9.46,
+   "text": "Maan techi razam 13-lik tangirbigi egi ingilis sili oqti uqsiman!"
+  },
+  {
+   "start": 9.46,
+   "end": 14.4,
+   "text": "Va 22-nchi, 23-nchi, 24-nchi, Sintyabr kunilari online Beeple Masterclass oqkiz yapman!"
+  },
+  {
+   "start": 14.4,
+   "end": 18.8,
+   "text": "Usho Masterclass-da qanay qilib 0-dan 30-kunin chini ingilis sili da kundalik mauzoradega yapilasini oqetaman!"
+  },
+  {
+   "start": 18.8,
+   "end": 20.92,
+   "text": "Una tashkari kunige elektrike cham kozi otilab!"
+  },
+  {
+   "start": 20.92,
+   "end": 22.3,
+   "text": "Unni real hayatda shatish!"
+  },
+  {
+   "start": 22.3,
+   "end": 26.02,
+   "text": "va ba 2 dərjigi sertifikat olusning samarali yollarini orgettama."
+  },
+  {
+   "start": 26.02,
+   "end": 29.26,
+   "text": "Master klasyda qatnashish mutlaka beip ol, faqat xabar amuslu ge basib,"
+  },
+  {
+   "start": 29.26,
+   "end": 30.66,
+   "text": "yapig Telegram kanalimgi."
+  },
+  {
+   "start": 30.66,
+   "end": 31.4,
+   "text": "Khoshilib agi."
+  }
+ ],
+ "chars": 651,
+ "chars_per_s": 20.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

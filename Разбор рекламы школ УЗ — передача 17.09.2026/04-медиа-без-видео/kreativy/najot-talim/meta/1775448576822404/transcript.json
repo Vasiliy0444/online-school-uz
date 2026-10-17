@@ -1,0 +1,561 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.72,
+   "text": "Shurid o'qishum uchum bir yurgochib gaqamiz."
+  },
+  {
+   "start": 1.72,
+   "end": 4.6,
+   "text": "Assalamu alaykum, man ismim Mubine, 16 yoshma."
+  },
+  {
+   "start": 4.78,
+   "end": 6.88,
+   "text": "Oza asil anjan liman, Najat Talimli."
+  },
+  {
+   "start": 7.04,
+   "end": 8.4,
+   "text": "Instagramda korga yamiz."
+  },
+  {
+   "start": 8.48,
+   "end": 11.08,
+   "text": "Bu soxad o'qishumna maqsat, oto na biznesi gelari."
+  },
+  {
+   "start": 11.2,
+   "end": 12.52,
+   "text": "Bular da biznesin yurgozishim giri."
+  },
+  {
+   "start": 12.66,
+   "end": 13.32,
+   "text": "Yuma biznesi."
+  },
+  {
+   "start": 13.36,
+   "end": 16.44,
+   "text": "Sentrum Holidaysda isliyimiza, iken turizm soxasi di."
+  },
+  {
+   "start": 16.76,
+   "end": 18.18,
+   "text": "Siz anjanla kibok yapsin maqsat?"
+  },
+  {
+   "start": 18.28,
+   "end": 20.02,
+   "text": "Shurid o'qishum uchum bir yurgochib gaqamiz."
+  },
+  {
+   "start": 20.16,
+   "end": 20.86,
+   "text": "Oto niziye rahmat."
+  },
+  {
+   "start": 20.92,
+   "end": 21.22,
+   "text": "Rahmat."
+  },
+  {
+   "start": 21.22,
+   "end": 24.76,
+   "text": "Qarayn, oto nezi biznesi uchun bitri soxat talax qaydar jada torikin?"
+  },
+  {
+   "start": 24.76,
+   "end": 26.52,
+   "text": "Uyzi qizikasim, digi masatda tipna?"
+  },
+  {
+   "start": 26.52,
+   "end": 29.6,
+   "text": "Adami tatla, agar zani soxay yoxsa, qibki torasan,"
+  },
+  {
+   "start": 29.6,
+   "end": 32.06,
+   "text": "yoki dabomasam, qachandar oziyn biznes achkanyinda,"
+  },
+  {
+   "start": 32.06,
+   "end": 35.56,
+   "text": "shunda oziyni soxaynyan ber maalar yurgizalasan digi, shunchun oqo oma."
+  },
+  {
+   "start": 35.56,
+   "end": 37.06,
+   "text": "Demi, bitri oto nezi biznesini yurtaqsi?"
+  },
+  {
+   "start": 37.06,
+   "end": 38.56,
+   "text": "Ha, xazirdan ozi baxlamaxchi man."
+  },
+  {
+   "start": 38.56,
+   "end": 39.72,
+   "text": "Lekin tavsiya qim diman bunna?"
+  },
+  {
+   "start": 39.72,
+   "end": 41.02,
+   "text": "Sizda tajriba yox, bilim bo?"
+  },
+  {
+   "start": 41.02,
+   "end": 42.6,
+   "text": "Biznes tajriban qitalmaydi?"
+  },
+  {
+   "start": 42.6,
+   "end": 44.5,
+   "text": "tajriba qib qormax chi man, boshla gunom chi?"
+  },
+  {
+   "start": 44.5,
+   "end": 46.94,
+   "text": "Demi, otonizm biznes tajriba qoyon chasi bolla, chunakam?"
+  },
+  {
+   "start": 46.94,
+   "end": 50.24,
+   "text": "Otonizm yordani mi, camana tor tuzuj, jikatna yordani meronaz."
+  },
+  {
+   "start": 50.24,
+   "end": 52.24,
+   "text": "Ya ki, ma nadiliyiz shakha dhe netor kin qildiz."
+  },
+  {
+   "start": 52.24,
+   "end": 53.9,
+   "text": "En yaxsh uquchilar qiblargin bilasiz."
+  },
+  {
+   "start": 53.9,
+   "end": 56.34,
+   "text": "En kambidit, camagaya biz kimi alishimiz kereygin,"
+  },
+  {
+   "start": 56.34,
+   "end": 57.74,
+   "text": "man chundim digin maksatdi,"
+  },
+  {
+   "start": 57.74,
+   "end": 59.56,
+   "text": "ular do apki besiz tor yorga u yurgan bilasiz."
+  },
+  {
+   "start": 59.56,
+   "end": 62.1,
+   "text": "Wa xazir en kambida bir yil tajriba topoloshlari keri."
+  },
+  {
+   "start": 62.1,
+   "end": 63.94,
+   "text": "Xazir mi, echi minkun, zor, boseyin,"
+  },
+  {
+   "start": 63.94,
+   "end": 65.28,
+   "text": "barin otaniz yordani verin,"
+  },
+  {
+   "start": 65.28,
+   "end": 66.24,
+   "text": "wakili ki tor kim yin?"
+  },
+  {
+   "start": 66.24,
+   "end": 67.9,
+   "text": "Ba bar da otanizki videon koruk basayam,"
+  },
+  {
+   "start": 67.9,
+   "end": 68.6,
+   "text": "chungab ayetanm."
+  },
+  {
+   "start": 68.6,
+   "end": 69.28,
+   "text": "Bizin bahsadimi,"
+  },
+  {
+   "start": 69.28,
+   "end": 70.78,
+   "text": "sizi tajibili mutaqas qilishti,"
+  },
+  {
+   "start": 70.78,
+   "end": 72.88,
+   "text": "aga bir yil tajibi toplaqb turu,"
+  },
+  {
+   "start": 72.88,
+   "end": 74.34,
+   "text": "barin bana kembirgiye barim shulayin,"
+  },
+  {
+   "start": 74.34,
+   "end": 75.5,
+   "text": "okey, Najat Tanibu uxshaygan,"
+  },
+  {
+   "start": 75.5,
+   "end": 77.74,
+   "text": "katdi bir vaqtdazu 10-15 ta"
+  },
+  {
+   "start": 77.74,
+   "end": 79.04,
+   "text": "marketin jama'astu adamlar"
+  },
+  {
+   "start": 79.04,
+   "end": 80.38,
+   "text": "bar jayladishlayan adamlar"
+  },
+  {
+   "start": 80.38,
+   "end": 81.2,
+   "text": "zyukub yutikyan,"
+  },
+  {
+   "start": 81.2,
+   "end": 81.84,
+   "text": "zyukub koryan,"
+  },
+  {
+   "start": 81.84,
+   "end": 82.5,
+   "text": "barin Stalyanba,"
+  },
+  {
+   "start": 82.5,
+   "end": 83.74,
+   "text": "Unuset marketing yurdu koryan,"
+  },
+  {
+   "start": 83.74,
+   "end": 85.56,
+   "text": "qo dushnaka bar camu alarada yurin da"
+  },
+  {
+   "start": 85.56,
+   "end": 87.86,
+   "text": "qiqina leveldan bar in community managerliy dan isdi boshlay"
+  },
+  {
+   "start": 87.86,
+   "end": 90.06,
+   "text": "segin tipega chikab, tipega chikab, tipega chikab"
+  },
+  {
+   "start": 90.06,
+   "end": 93.62,
+   "text": "bir yillan ki in otomizy biznesin bar dana ki 12 soqsir var shizmukundir balgin"
+  },
+  {
+   "start": 93.62,
+   "end": 95.18,
+   "text": "yakin tajirbe in qimad narsa"
+  },
+  {
+   "start": 95.18,
+   "end": 97.14,
+   "text": "shu SM-danki mabilografiya qiyam okumak chim?"
+  },
+  {
+   "start": 97.14,
+   "end": 97.64,
+   "text": "yok, hata"
+  },
+  {
+   "start": 97.64,
+   "end": 100.34,
+   "text": "agar kimdir SM-danki mabilografiya qi okimandisa"
+  },
+  {
+   "start": 100.34,
+   "end": 101.58,
+   "text": "kim yursad veram bilasim?"
+  },
+  {
+   "start": 101.58,
+   "end": 104.18,
+   "text": "fakat kini mabilografiya boyuca en yakhshi boygan"
+  },
+  {
+   "start": 104.18,
+   "end": 105.26,
+   "text": "va hakikatda ushi"
+  },
+  {
+   "start": 105.26,
+   "end": 108.62,
+   "text": "men SM-dan mas mabilografiya soqhasina kitimak chiman digan adam yursad veram"
+  },
+  {
+   "start": 108.62,
+   "end": 110.04,
+   "text": "Bitde yonanshitarlashkariyim shunde?"
+  },
+  {
+   "start": 110.04,
+   "end": 110.54,
+   "text": "Albatta."
+  },
+  {
+   "start": 110.54,
+   "end": 111.24,
+   "text": "Yani, siz,"
+  },
+  {
+   "start": 111.24,
+   "end": 112.62,
+   "text": "esiyaminar ham basini bolas,"
+  },
+  {
+   "start": 112.62,
+   "end": 113.96,
+   "text": "va bitdarnasadan zor bolas."
+  },
+  {
+   "start": 113.96,
+   "end": 115.42,
+   "text": "Sizi mahsadishku dushunay bolashkari."
+  },
+  {
+   "start": 115.42,
+   "end": 117.0,
+   "text": "Va tavsiya qayan bolardim ki,"
+  },
+  {
+   "start": 117.0,
+   "end": 118.76,
+   "text": "silar umumi esiyamina prokursu dokuyisila,"
+  },
+  {
+   "start": 118.76,
+   "end": 120.38,
+   "text": "yani esiyamindak ham yonasasini organayas."
+  },
+  {
+   "start": 120.38,
+   "end": 121.42,
+   "text": "Siz ham marketiynida,"
+  },
+  {
+   "start": 121.42,
+   "end": 122.5,
+   "text": "ham managementli organayin."
+  },
+  {
+   "start": 122.5,
+   "end": 123.14,
+   "text": "Shundi irtiqiyin,"
+  },
+  {
+   "start": 123.14,
+   "end": 124.56,
+   "text": "marketiyni bolim rahbar bolishizm."
+  },
+  {
+   "start": 124.56,
+   "end": 125.22,
+   "text": "Adatan,"
+  },
+  {
+   "start": 125.22,
+   "end": 126.98,
+   "text": "bizda marketiyni bolim rahbar boyan adamirat"
+  },
+  {
+   "start": 126.98,
+   "end": 127.68,
+   "text": "talamim boyin."
+  },
+  {
+   "start": 127.68,
+   "end": 128.26,
+   "text": "Har doyim."
+  },
+  {
+   "start": 128.26,
+   "end": 129.44,
+   "text": "Dekir, un gechak hinalishkin."
+  },
+  {
+   "start": 129.44,
+   "end": 133.6,
+   "text": "Cammana boshkarish osammes, cammana boshkarishu kuchin ne fakaat insani uzini kaspi bilimi,"
+  },
+  {
+   "start": 133.6,
+   "end": 135.6,
+   "text": "balkin insani ye fazilatilayan ucudum uxumdi,"
+  },
+  {
+   "start": 135.6,
+   "end": 139.64,
+   "text": "on kishini boshkarib kyorin, on kishini bir kummes, bir ayinmes, yiller boshkarib kyorin,"
+  },
+  {
+   "start": 139.64,
+   "end": 143.68,
+   "text": "bir kumim kayfiyati obi kunu var, kursan kunu var, bir-bir-birlan janinilish poli dinyan kunu var,"
+  },
+  {
+   "start": 143.68,
+   "end": 146.44,
+   "text": "uzora hamzikatliyida ishkilaish mumman boshkarin isalarda,"
+  },
+  {
+   "start": 146.44,
+   "end": 149.44,
+   "text": "lider sifatida kuru alishi boshka, raha bar sifatida kuru alishi boshka sizi,"
+  },
+  {
+   "start": 149.44,
+   "end": 151.4,
+   "text": "va sizi usha adamlar lider sifatida kuru alsin,"
+  },
+  {
+   "start": 151.4,
+   "end": 153.72,
+   "text": "qikkan izan ikanam si sakayz yaxs fikirli ayat olasin"
+  },
+  {
+   "start": 153.72,
+   "end": 154.72,
+   "text": "bunak qara habar olux qiyin"
+  },
+  {
+   "start": 154.72,
+   "end": 155.68,
+   "text": "bunun gizun tajibar qiriyin"
+  },
+  {
+   "start": 155.68,
+   "end": 156.52,
+   "text": "shun qiyin tavsiya qilaman"
+  },
+  {
+   "start": 156.52,
+   "end": 157.68,
+   "text": "xamma qiyin, yigitlar, qizlar"
+  },
+  {
+   "start": 157.68,
+   "end": 159.32,
+   "text": "oylakulmayan boziz, ulanmayan boziz"
+  },
+  {
+   "start": 159.32,
+   "end": 160.36,
+   "text": "basib tajibar qiyin"
+  },
+  {
+   "start": 160.36,
+   "end": 161.52,
+   "text": "vabay shun qaqa insonga aylarni qi"
+  },
+  {
+   "start": 161.52,
+   "end": 162.64,
+   "text": "hich qargi si tora bor miyin"
+  },
+  {
+   "start": 162.64,
+   "end": 163.96,
+   "text": "adamla sizi uzdilani taqilif qisin"
+  },
+  {
+   "start": 163.96,
+   "end": 165.8,
+   "text": "bu uz izi xoqla qiyin sarilib talli qaliyin"
+  },
+  {
+   "start": 165.8,
+   "end": 167.6,
+   "text": "man u vish yu axdi, mingi shun ushli iman doba itin"
+  },
+  {
+   "start": 167.6,
+   "end": 169.6,
+   "text": "Anam zidibirsya oto zidya zar zar zar"
+  },
+  {
+   "start": 169.6,
+   "end": 169.6,
+   "text": ""
+  },
+  {
+   "start": 169.6,
+   "end": 169.6,
+   "text": ""
+  },
+  {
+   "start": 169.6,
+   "end": 169.6,
+   "text": ""
+  },
+  {
+   "start": 169.6,
+   "end": 169.6,
+   "text": ""
+  },
+  {
+   "start": 169.6,
+   "end": 169.6,
+   "text": ""
+  },
+  {
+   "start": 169.6,
+   "end": 169.6,
+   "text": ""
+  },
+  {
+   "start": 169.6,
+   "end": 169.6,
+   "text": ""
+  },
+  {
+   "start": 169.6,
+   "end": 169.6,
+   "text": ""
+  },
+  {
+   "start": 169.6,
+   "end": 169.6,
+   "text": ""
+  },
+  {
+   "start": 169.6,
+   "end": 169.6,
+   "text": ""
+  },
+  {
+   "start": 169.6,
+   "end": 169.6,
+   "text": ""
+  },
+  {
+   "start": 169.6,
+   "end": 169.6,
+   "text": ""
+  }
+ ],
+ "chars": 3733,
+ "chars_per_s": 21.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 1,
+ "quality": "черновое"
+}

@@ -1,0 +1,86 @@
+{
+ "creative_id": "1678596329886775",
+ "platform": "meta",
+ "school_id": "hbs-academy",
+ "format": {
+  "type": "динамическое (DCO)",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "слайды или текст на экране",
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Hammamiz farzandimizning eng yaxshi universitetda o'qishini, yoki nufuzli kompaniyada ishlashini xohlaymiz, to'g'rimi?",
+  "types": [
+   "вопрос",
+   "боль",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.0s–2.0s: ключевые слова «eng yaxshi», «universitetda», «oqishi» поверх семейных фото (ребёнок в кимоно на награждении, мужчина с младенцем в мантии и шапочке выпускника)",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Hammamiz farzantimizin en yakshi universiteti o'qishi, [00:02] yaki nufuzli kampanyayla da ishlaishini xaxilayimiz, toqrami?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "доверие и окупаемость",
+   "без опыта"
+  ],
+  "income_claim": "har oyiga $200 investitsiya, o'rtacha oyiga 20% deb hisoblanganda — 5 yildan keyin +$18 000, 10 yildan keyin ~$60 000 atrofida (расшифровка, имло тузатилган)",
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:23] Mesalan, xar ayda aksiya bazariga 200 dolardan invensiya qili borsanigiz [00:27] ba urtachaf ayda gana 20% xisabladigan borsayib, [00:30] 5 yillan kin plus 18000 dolar, [00:32] 10 yillan kin isa 60000 dolar atrafida bolardib.",
+    "timecode": "00:23"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Investitsiya va treydingni noldan o'rganing va moliyaviy bilimlaringizni oshiring."
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Moliyaviy savodxonligingizni oshiring va qo'shimcha daromad manbaiga ega bo'lish yo'lini o'rganing."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Batafsil ma'lumot uchun pastdagi havolani bosing. 👇 Batafsil ma'lumot oling"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "основатель или эксперт"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "средняя",
+ "notes": "DCO: ad_text содержит 5 текстовых вариантов, каждый про «qo'shimcha daromad» через investitsiya/treyding с разным CTA-хвостом («Batafsil ma'lumot oling», «Joylarni band qiling», «Kursga yoziling», «To'liq ma'lumot oling», «Hoziroq boshlang»); отдельного лид-магнита, скидки или дедлайна ни в одном из них нет — только призыв перейти по ссылке. Хук — по расшифровке, написание исправлено; кадром подтверждены только отдельные ключевые слова («eng yaxshi», «universitetda», «oqishi»), не вся фраза целиком. Видеоряд хука — монтаж личных фото (ребёнок на награждении по каратэ, младенец в мантии выпускника, фото на ноутбуке) на тему будущего детей. Сумма и период по инвестициям — из черновой расшифровки, написание исправлено (месяц/год не всегда различимы у ASR, но услышано «oyiga» — «в месяц», отсюда очень высокая доходность); risk=true из-за конкретной цифры «в среднем 20% в месяц» и проекции роста капитала как факта. Спикер не представляется по имени и не называет роль явно — вывод «основатель или эксперт» сделан по подаче (уверенный совет с камеры в офисе); confidence «средняя» из-за этого и черновой расшифровки."
+}

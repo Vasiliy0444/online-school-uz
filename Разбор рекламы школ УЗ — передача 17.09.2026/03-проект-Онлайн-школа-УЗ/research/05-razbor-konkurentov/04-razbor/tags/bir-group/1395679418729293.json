@@ -1,0 +1,92 @@
+{
+ "creative_id": "1395679418729293",
+ "platform": "meta",
+ "school_id": "bir-group",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Biz sizni bepulga o'qitib, oyiga 500 dollordan 1000 dollorgacha daromadga olib chiqamiz.",
+  "types": [
+   "результат или доход",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Biz, sizne bi pulgu okutup, o'ige 500 dollordan 1000 dollorga qeche daramatka alip chikaniz.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: мужчина в сером пиджаке и полосатой рубашке сидит за столом, ч/б цветокоррекция; на телевизоре позади него лого «BIR TA'LIM»; текста хука на самом кадре нет — только лого и субтитров пока не появилось",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "профессия будущего",
+   "без опыта"
+  ],
+  "income_claim": "oyiga 500 dollordan 1000 dollorgacha daromad — сформулировано как персональное обещание зрителю («biz sizni ... daromadga olib chiqamiz»), а не как факт о прошлом потоке, в отличие от большинства других роликов порции",
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Biz, sizne bi pulgu okutup, o'ige 500 dollordan 1000 dollorga qeche daramatka alip chikaniz.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:12] Bu loyxamizda, zamanali kestlarini, yoshlarimizga bi pulgu orgatib, [00:16] va hayatida oz yolunu topishka yordan beramiz.",
+    "timecode": "00:12"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Siz grafik dizayn, targeting, videomontaj, SMM va boshqa 7 ta zamonaviy yo'nalishdan birini tanlab, grant asosida bepul ta'lim olishingiz mumkin."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Buning uchun 500 ta grant ajratilgan. 25-sentabr kuni onlayn taqdimot bo'lib o'tadi."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:22] 25-in centi avr kini bola digan, [00:25] onlayn takdimatimizga ishtiro getishigniz shard.",
+    "timecode": "00:22"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "средняя",
+ "notes": "В отличие от остальных 5 роликов порции, где доход упоминается как факт о прошлом потоке («o'quvchilarimiz ... daromad qilishdi»), здесь фраза сформулирована как прямое обещание зрителю: «biz sizni bepulga o'qitib, oyiga 500 dollordan 1000 dollorgacha daromadga olib chiqamiz» — «мы вас бесплатно обучим и доведём до дохода 500-1000 долларов в месяц» (написание исправлено; «biz ... olib chiqamiz» — детерминированная формулировка, похожая на гарантию результата, а не на статистику по выпускникам) — поэтому risk = true. Сумма в долларах не подтверждена ни на одном доступном кадре (в obзорных кадрах sheet_overview — «BU LOYIHAMIZDA», «USHBU LOYIHAMIZ», «QATNASHISH UCHUN» — цифр нет), только по расшифровке; расшифровка в этом месте не сильно искажена, но точность цифр (500/1000) не перепроверена кадром — confidence «средняя». Хук отличается от других роликов ещё и тем, что не подтверждён текстом на кадре: в первые 2.5с сплошных субтитров нет (только фоновое лого «BIR TA'LIM» на экране позади спикера), субтитры-ключевые слова начинают появляться позже — на sheet_overview видно «BU LOYIHAMIZDA» (~0:12), «USHBU LOYIHAMIZ» (~0:21), «QATNASHISH UCHUN» (~0:29), поэтому burned_subtitles = true для ролика в целом. Финал: [00:29]-[00:30] «padrom nitigmasini basib, Telegram kanalamizgi abun abolin» — чётко называет Telegram, совпадает с общим паттерном. Ролик зовёт в Telegram-канал, а link_url ведёт на лендинг bir-group-webinar.vercel.app/b/ — расхождение. Спикер не назван по имени — роль «актёр или ведущий» без public_name."
+}

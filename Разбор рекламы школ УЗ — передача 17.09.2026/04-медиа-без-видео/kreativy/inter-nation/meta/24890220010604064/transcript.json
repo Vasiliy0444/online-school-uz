@@ -1,0 +1,346 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.86,
+   "text": "International School ga kelganizda, sizda ikita masalayiz xal bolab."
+  },
+  {
+   "start": 3.86,
+   "end": 8.32,
+   "text": "Birintisi, siz oz uslizdi ishlab nomorlarizgi yechim topaziz"
+  },
+  {
+   "start": 8.32,
+   "end": 10.7,
+   "text": "va asosyisi natiji gerishijas."
+  },
+  {
+   "start": 10.82,
+   "end": 14.74,
+   "text": "Bugun, tort toqquchumiz, tortta ayaz, tortta yetiyarim."
+  },
+  {
+   "start": 15.3,
+   "end": 18.94,
+   "text": "Reading toqqas, listening toqqas, reading sakkizyarim,"
+  },
+  {
+   "start": 19.06,
+   "end": 20.86,
+   "text": "vayanan bu bor, reading sakkizyarim."
+  },
+  {
+   "start": 21.28,
+   "end": 23.94,
+   "text": "Kiliyle, okuchlarimizda, aynan International,"
+  },
+  {
+   "start": 24.12,
+   "end": 27.3,
+   "text": "kanday momonu, yetiminu topganini bolibolab."
+  },
+  {
+   "start": 27.74,
+   "end": 29.1,
+   "text": "Hello, what is your name?"
+  },
+  {
+   "start": 29.1,
+   "end": 34.18,
+   "text": "Шахина, какая предложенка предложенка предложенка предложенка предложенка"
+  },
+  {
+   "start": 34.18,
+   "end": 35.98,
+   "text": "Когда предложенка предложенка предложенка предложенка предложенка"
+  },
+  {
+   "start": 35.98,
+   "end": 37.26,
+   "text": "предложенка предложенка предложенка"
+  },
+  {
+   "start": 37.26,
+   "end": 39.4,
+   "text": "предложенка предложенка"
+  },
+  {
+   "start": 39.4,
+   "end": 40.76,
+   "text": "предложенка"
+  },
+  {
+   "start": 40.76,
+   "end": 42.34,
+   "text": "предложенка"
+  },
+  {
+   "start": 42.34,
+   "end": 44.06,
+   "text": "предложенка"
+  },
+  {
+   "start": 44.06,
+   "end": 46.2,
+   "text": "предложенка"
+  },
+  {
+   "start": 46.2,
+   "end": 48.64,
+   "text": "предложенка"
+  },
+  {
+   "start": 48.64,
+   "end": 51.36,
+   "text": "предложенка"
+  },
+  {
+   "start": 51.36,
+   "end": 54.08,
+   "text": "предложенка"
+  },
+  {
+   "start": 54.08,
+   "end": 56.44,
+   "text": "предложенка"
+  },
+  {
+   "start": 56.44,
+   "end": 57.92,
+   "text": "предложенка"
+  },
+  {
+   "start": 57.92,
+   "end": 59.02,
+   "text": "предложенка"
+  },
+  {
+   "start": 59.02,
+   "end": 59.02,
+   "text": ""
+  },
+  {
+   "start": 59.02,
+   "end": 59.02,
+   "text": ""
+  },
+  {
+   "start": 59.02,
+   "end": 59.02,
+   "text": ""
+  },
+  {
+   "start": 59.02,
+   "end": 59.02,
+   "text": ""
+  },
+  {
+   "start": 59.02,
+   "end": 59.02,
+   "text": ""
+  },
+  {
+   "start": 59.02,
+   "end": 59.02,
+   "text": ""
+  },
+  {
+   "start": 59.02,
+   "end": 59.02,
+   "text": ""
+  },
+  {
+   "start": 59.02,
+   "end": 59.02,
+   "text": ""
+  },
+  {
+   "start": 59.02,
+   "end": 59.02,
+   "text": ""
+  },
+  {
+   "start": 59.02,
+   "end": 59.02,
+   "text": ""
+  },
+  {
+   "start": 59.02,
+   "end": 59.02,
+   "text": ""
+  },
+  {
+   "start": 59.02,
+   "end": 59.02,
+   "text": ""
+  },
+  {
+   "start": 59.02,
+   "end": 59.02,
+   "text": ""
+  },
+  {
+   "start": 59.02,
+   "end": 59.02,
+   "text": ""
+  },
+  {
+   "start": 59.02,
+   "end": 59.02,
+   "text": ""
+  },
+  {
+   "start": 59.02,
+   "end": 59.02,
+   "text": ""
+  },
+  {
+   "start": 59.02,
+   "end": 59.02,
+   "text": ""
+  },
+  {
+   "start": 59.02,
+   "end": 59.02,
+   "text": ""
+  },
+  {
+   "start": 59.02,
+   "end": 59.02,
+   "text": ""
+  },
+  {
+   "start": 59.02,
+   "end": 59.02,
+   "text": ""
+  },
+  {
+   "start": 59.02,
+   "end": 59.02,
+   "text": ""
+  },
+  {
+   "start": 59.02,
+   "end": 59.02,
+   "text": ""
+  },
+  {
+   "start": 59.02,
+   "end": 60.92,
+   "text": "Зо, уч зоним?"
+  },
+  {
+   "start": 61.04,
+   "end": 61.56,
+   "text": "Дильнурэ."
+  },
+  {
+   "start": 61.64,
+   "end": 67.54,
+   "text": "Дильнурэ. Лыснини току зоудзэ. Нэмэйо Йорданберд Интернешн. Мучу лыснини току зоудзэ?"
+  },
+  {
+   "start": 67.54,
+   "end": 75.92,
+   "text": "Я когда делала лыснини, я постоянно запутывалась, потому што обращала внимание на ложные ответы и не читала полностью сам вопрос."
+  },
+  {
+   "start": 76.18,
+   "end": 84.72,
+   "text": "Этот курс научил меня, как анализировать вопросы и как работать с тестом самим, а не только с аудиодорожным."
+  },
+  {
+   "start": 84.72,
+   "end": 86.8,
+   "text": "Zor. Uchi zioneyim?"
+  },
+  {
+   "start": 86.92,
+   "end": 87.4,
+   "text": "Mahtuna."
+  },
+  {
+   "start": 87.54,
+   "end": 90.02,
+   "text": "Mahtuna. Siz reading-da sak gizanim olumus."
+  },
+  {
+   "start": 90.36,
+   "end": 92.2,
+   "text": "International, sizgen. Nima bilan yordan belim?"
+  },
+  {
+   "start": 92.38,
+   "end": 97.42,
+   "text": "Birinche, aval uzun reading-plasticilani ishlagyanimda, fakat kino uzun logikani ishlag yedikbayardim."
+  },
+  {
+   "start": 97.52,
+   "end": 101.88,
+   "text": "Shuk problemeydi, oktulchi mengi reading-dagi materiyallani okayatkanida,"
+  },
+  {
+   "start": 101.94,
+   "end": 106.24,
+   "text": "yangi malamat yurganiyatkanizik xalib, reading-dagi okatlanib ishlasinmasi ahab berdi."
+  },
+  {
+   "start": 106.78,
+   "end": 107.56,
+   "text": "Shui yordan belim?"
+  },
+  {
+   "start": 107.7,
+   "end": 109.42,
+   "text": "Zor. Uchi zioneyim, sad?"
+  },
+  {
+   "start": 109.74,
+   "end": 110.32,
+   "text": "Manayim, Ivan."
+  },
+  {
+   "start": 110.32,
+   "end": 113.62,
+   "text": "Ivan, vi palucheli po reading-di busib spalavin."
+  },
+  {
+   "start": 113.62,
+   "end": 116.62,
+   "text": "Немас с Георгами, што им вам помогло?"
+  },
+  {
+   "start": 143.62,
+   "end": 151.24,
+   "text": "Korturgenzidek torta uquchimiz, torta uzda paydogulgan mamalargi hitchimini topdi."
+  },
+  {
+   "start": 151.24,
+   "end": 158.18,
+   "text": "Aga da sizxam, matijige elismakchi bulsangiz, ayazdan yitdiyarimda vangundan ortog olmakchi bulsangiz,"
+  },
+  {
+   "start": 158.48,
+   "end": 162.28,
+   "text": "International School ga kilin, chunki International bu ayaz zavodi."
+  },
+  {
+   "start": 162.72,
+   "end": 163.14,
+   "text": "Korshkunchi!"
+  },
+  {
+   "start": 163.14,
+   "end": 173.9,
+   "text": "Abo la orkali, ru e hatdanuti."
+  }
+ ],
+ "chars": 1923,
+ "chars_per_s": 10.9,
+ "cyrillic_share": 0.37,
+ "repeated_segments": 0,
+ "quality": "низкое"
+}

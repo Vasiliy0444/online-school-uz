@@ -1,0 +1,206 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 10.12,
+   "text": "Bu yashli kushliy chixdi di, ingilis sil niyam biladi, kankadar programmal ish chitadi, miyakitlanir malim o'la ta'b yuradi, ishim komitladi, yam kopro lavazim o'shkani, niyam ulagi basa cha qarashadi."
+  },
+  {
+   "start": 10.52,
+   "end": 13.08,
+   "text": "Siz borsi u izi chetti qabketgani xisqotgani bolishiz munkun."
+  },
+  {
+   "start": 13.44,
+   "end": 20.38,
+   "text": "Ingilis silni oriyani disiz, aili, bala chakki, hayat tashvishlari, bol deyindi keyikdibi olotgani bolishiz munkun, lekin bu mo mo imas."
+  },
+  {
+   "start": 20.84,
+   "end": 26.3,
+   "text": "Inglify platformasi aynan isli adamlar uchun kurs chikargani, butun tuzim isli adamlar uchun ishchidi."
+  },
+  {
+   "start": 26.3,
+   "end": 41.0,
+   "text": "Kunigi 50 dagiqa xoxilagan cayda, xoxilagan vaxtizda, telefoniz bosa boldi, enmukhomi 50 dagiqa darsini yuki yuk. Otur 50 dagiqa qildigan narsi yuk. 10 dagiqa 10 dagiqadan, oizga qulayi xoxilagan cayda qilasiz."
+  },
+  {
+   "start": 41.0,
+   "end": 55.42,
+   "text": "Suni intelekt bilan speakingni mashqilasiz, 10 dagiqa vizyolar qilasiz, 10 dagiqa mashqilar qilib, 10 dagiqa sozyotlash uste ishashizmikun qarabsiz ki, 1-2 ayda anniq netijira qorishni boshiz. Sezilarli ozgarishlar bolishni boshiz, ingilisda da malimat alishni boshiz."
+  },
+  {
+   "start": 55.42,
+   "end": 62.2,
+   "text": "m m m"
+  },
+  {
+   "start": 62.2,
+   "end": 66.2,
+   "text": "m m m"
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 66.2,
+   "text": ""
+  },
+  {
+   "start": 66.2,
+   "end": 62.2,
+   "text": "m"
+  }
+ ],
+ "chars": 997,
+ "chars_per_s": 16.2,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

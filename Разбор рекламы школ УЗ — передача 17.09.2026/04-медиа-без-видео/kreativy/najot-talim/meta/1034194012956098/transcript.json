@@ -1,0 +1,96 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.78,
+   "text": "Man ishimmi suni intilik apqoy ishigi xali anchi bardib yoribsizmi."
+  },
+  {
+   "start": 4.26,
+   "end": 7.14,
+   "text": "Hurmatli bugaltir va maliyachi akyalar, apalar,"
+  },
+  {
+   "start": 7.54,
+   "end": 10.48,
+   "text": "sizi ishizini allakachan suni intilik apqoymokta."
+  },
+  {
+   "start": 10.62,
+   "end": 12.9,
+   "text": "O digini biznisey gasi bitti promit berish orqali,"
+  },
+  {
+   "start": 13.06,
+   "end": 16.62,
+   "text": "va seriyem arkad sizdigi dasturlargi dostub berish orqali,"
+  },
+  {
+   "start": 16.76,
+   "end": 20.32,
+   "text": "bugunkunda suni intilik harbitdi ishini oz koliblan bacar vabdi."
+  },
+  {
+   "start": 20.64,
+   "end": 22.68,
+   "text": "Buna qadi sizgi ishqomasdigi tayin."
+  },
+  {
+   "start": 22.92,
+   "end": 27.28,
+   "text": "Lekin xafibomasdik kerek, sizdigi ishni kengi etabı bu data analitika."
+  },
+  {
+   "start": 27.28,
+   "end": 30.72,
+   "text": "aynan data analitika suni intilikka koshib organgan halatda,"
+  },
+  {
+   "start": 30.8,
+   "end": 34.52,
+   "text": "siz biznis analitikasi boyi oz ishizda davam etsiz bolad."
+  },
+  {
+   "start": 34.78,
+   "end": 37.76,
+   "text": "En qizigi aynan data analitika kaspige,"
+  },
+  {
+   "start": 38.18,
+   "end": 39.88,
+   "text": "sizki abu mutahay sizda tohru gelad."
+  },
+  {
+   "start": 39.98,
+   "end": 42.2,
+   "text": "Chunki siz tohru dan tohru raqamla bilan ishliysiz,"
+  },
+  {
+   "start": 42.46,
+   "end": 44.84,
+   "text": "va data analitika yam sizgi asan bolad."
+  },
+  {
+   "start": 44.94,
+   "end": 47.3,
+   "text": "Sizla uchun maksuz bi pul darsashilq yamiz,"
+  },
+  {
+   "start": 47.38,
+   "end": 48.84,
+   "text": "vana shu bi pul darski qatnashilq uchun,"
+  },
+  {
+   "start": 49.08,
+   "end": 51.12,
+   "text": "xa olan basib, uzi isi sinfamiliyazi qaldirin."
+  }
+ ],
+ "chars": 867,
+ "chars_per_s": 16.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

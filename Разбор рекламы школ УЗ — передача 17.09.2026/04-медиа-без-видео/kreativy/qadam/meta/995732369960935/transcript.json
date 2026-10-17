@@ -1,0 +1,156 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.2,
+   "text": "Qampi turbalan internetiz buso bolad, on yin aldi mozhni bozarli isli, odamli qanakli kub bolad, zapchaz bozarli isli, tulibolad, xazu."
+  },
+  {
+   "start": 8.76,
+   "end": 10.52,
+   "text": "Bir yerli xamma online go tuket var."
+  },
+  {
+   "start": 10.6,
+   "end": 16.46,
+   "text": "Odamli dangazalashib, uydu oturibda oqe, haman arsani oturgen coydi bitirish xalawad."
+  },
+  {
+   "start": 16.7,
+   "end": 25.26,
+   "text": "Dangazalik oqe, demi siz aynan shu xalatdan faydanan qal shizkiri, soqaqil shizkiri, shuladan qayab, platformaladan bittase bu uzun."
+  },
+  {
+   "start": 25.26,
+   "end": 30.34,
+   "text": "Agar da judayam xizubu atgan bossa, sizgi bunax sanan qadam education orgetadi."
+  },
+  {
+   "start": 30.48,
+   "end": 33.58,
+   "text": "Qadam education oki rostanam krutoy oku markazi."
+  },
+  {
+   "start": 33.9,
+   "end": 36.3,
+   "text": "Sondag yapraman ozi isqisaplab chikar oras."
+  },
+  {
+   "start": 36.42,
+   "end": 40.46,
+   "text": "Tor minti okuchini aynan shun naprawliyina boyi chokchishgan."
+  },
+  {
+   "start": 40.62,
+   "end": 43.72,
+   "text": "Unan tashqara, bud digi okuchilani ozi baro oki,"
+  },
+  {
+   "start": 43.86,
+   "end": 47.18,
+   "text": "tor milyar, beş milyar, som uzumda aborot xilisharka."
+  },
+  {
+   "start": 47.26,
+   "end": 50.88,
+   "text": "Qaray, okuchi ozi uzundishilab soqaqo atdi,"
+  },
+  {
+   "start": 51.04,
+   "end": 53.02,
+   "text": "shonasmo ojanin sizgi orgetadi."
+  },
+  {
+   "start": 53.02,
+   "end": 56.02,
+   "text": "Agar fly-atda bo sez, online oxib sez an bolad."
+  },
+  {
+   "start": 56.02,
+   "end": 59.02,
+   "text": "Agar yo offline gelaman man get, sez okey,"
+  },
+  {
+   "start": 59.02,
+   "end": 62.02,
+   "text": "aybe metroni ejigili tiyidi troylashgan."
+  },
+  {
+   "start": 62.02,
+   "end": 63.02,
+   "text": "Xamaa sizicum qulay."
+  },
+  {
+   "start": 63.02,
+   "end": 65.02,
+   "text": "Agar hala yam kella da baxana boladigan an bo sez,"
+  },
+  {
+   "start": 65.02,
+   "end": 67.02,
+   "text": "zor taklif etanan sizigi."
+  },
+  {
+   "start": 67.02,
+   "end": 71.02,
+   "text": "Qadam education-ni 40% gechi chegirmi derish vatdi."
+  },
+  {
+   "start": 71.02,
+   "end": 73.02,
+   "text": "Chill-i access kit vatdi."
+  },
+  {
+   "start": 73.02,
+   "end": 76.02,
+   "text": "Undan tashqara, aynan shi chill-i access paytidi gelib,"
+  },
+  {
+   "start": 76.02,
+   "end": 78.02,
+   "text": "oxib digan bo sez, biray doamadi."
+  },
+  {
+   "start": 78.02,
+   "end": 82.02,
+   "text": "Su oxib chilan arasda, an o am shirili ginik barbasan, makvubki."
+  },
+  {
+   "start": 82.02,
+   "end": 84.26,
+   "text": "Brortasega randomni berilad."
+  },
+  {
+   "start": 84.26,
+   "end": 86.28,
+   "text": "Malamatim sizgi yeterli bovangan bose,"
+  },
+  {
+   "start": 86.28,
+   "end": 87.66,
+   "text": "pastigi link boyiche,"
+  },
+  {
+   "start": 87.66,
+   "end": 89.22,
+   "text": "telefon nomerlarizi koldirsize,"
+  },
+  {
+   "start": 89.22,
+   "end": 90.58,
+   "text": "okey, meningerla sizgi"
+  },
+  {
+   "start": 90.58,
+   "end": 92.12,
+   "text": "kama malamatdi berisaydi."
+  }
+ ],
+ "chars": 1439,
+ "chars_per_s": 15.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,66 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.86,
+   "text": "Agar ingilisini basqa orginali miwen bol dootkan bol, sez, tohtin."
+  },
+  {
+   "start": 3.0,
+   "end": 6.94,
+   "text": "Biz aynan isli adamlar, 25 tan yashi kottalargi ingilisini orginatamiz."
+  },
+  {
+   "start": 7.0,
+   "end": 9.22,
+   "text": "Kun boyi ingilisini orginatisiz shartamaz."
+  },
+  {
+   "start": 9.34,
+   "end": 12.58,
+   "text": "Yo ki, qayzir, payit, boldi, bir yanim sat oturishim kerey edgan narsay yok."
+  },
+  {
+   "start": 12.7,
+   "end": 15.7,
+   "text": "Kun davamidi, 10-15 minuttan vizio dersi koras,"
+  },
+  {
+   "start": 16.02,
+   "end": 18.76,
+   "text": "yo ki, qadar film koras, yo ki, podcast korishin giz munkun."
+  },
+  {
+   "start": 19.12,
+   "end": 23.02,
+   "text": "10-15 minuttan, uiz yukli payitli orginasiz, boldi, karabsiz ki,"
+  },
+  {
+   "start": 23.36,
+   "end": 25.8,
+   "text": "uchay, toroydi, anig naticili korunishini bashidi."
+  },
+  {
+   "start": 25.8,
+   "end": 29.8,
+   "text": "Mulaqat qilish, qunish, kimilandir gaprash, fikirinizi yetqazi bir alishlar chikadi."
+  },
+  {
+   "start": 29.8,
+   "end": 33.8,
+   "text": "Hazirda Englifyda yettiminla artiq okuchilar okimakdi v naticiga erishimakdi."
+  },
+  {
+   "start": 33.8,
+   "end": 38.8,
+   "text": "Agar da qizig borsan, xazir okmanish xavalonsitigi basayin v sizgiye mutagizlarimiz barchi malumatlarina berishadi."
+  }
+ ],
+ "chars": 762,
+ "chars_per_s": 19.2,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,76 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.66,
+   "text": "Otuz yorzta ashdum, ingilis dilimi yafsilashki kiech qalimdi boyla yafsizmim."
+  },
+  {
+   "start": 3.7,
+   "end": 7.46,
+   "text": "Agar da shumda qalibsa yakira o'keliyim, man sizgi xazir en zor yechimi veremayim."
+  },
+  {
+   "start": 7.48,
+   "end": 10.42,
+   "text": "Eftoriyo ki Play Market ki krasiz, Anglify edib yazasiz,"
+  },
+  {
+   "start": 10.48,
+   "end": 12.88,
+   "text": "va mana shu ilovani yukilabali shiz kere boladim."
+  },
+  {
+   "start": 12.92,
+   "end": 15.02,
+   "text": "Ilovani yukilabagyan izdanki ruhat tamotasiz,"
+  },
+  {
+   "start": 15.08,
+   "end": 16.66,
+   "text": "va o'zizgi maz tarifi talabdirib,"
+  },
+  {
+   "start": 16.72,
+   "end": 20.24,
+   "text": "xoxilagyan, caizdi xoxilagyan, vaqt izdi ingilis dili bilan shogilani alisim."
+  },
+  {
+   "start": 20.24,
+   "end": 23.28,
+   "text": "Bangi en yok kan tomani interaktiv video darsa barligi bolu,"
+  },
+  {
+   "start": 23.28,
+   "end": 26.32,
+   "text": "chunki umun manziyeri kifqami siz mazaqilib ingilis til orjenasiz."
+  },
+  {
+   "start": 26.32,
+   "end": 29.28,
+   "text": "Və ingilifay ilawasi 100% tolagan plizga arzidigan"
+  },
+  {
+   "start": 29.28,
+   "end": 32.04,
+   "text": "eyn yaxshi ingilis tilni orjanish ilawasi bolib qaladi."
+  },
+  {
+   "start": 32.12,
+   "end": 35.04,
+   "text": "Agar da sizam 3-bu ilawar qali ingilis tiliz yaxshilamakchi bosiz,"
+  },
+  {
+   "start": 35.12,
+   "end": 37.3,
+   "text": "xazirak pastagi xavalar qali rukhatdan otiyn."
+  }
+ ],
+ "chars": 773,
+ "chars_per_s": 20.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

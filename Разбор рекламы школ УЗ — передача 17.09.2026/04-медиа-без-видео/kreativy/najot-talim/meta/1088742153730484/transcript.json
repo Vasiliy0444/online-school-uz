@@ -1,0 +1,226 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.5,
+   "text": "Agar rostanam o'zbeq sunu qasizmi, o'zm hizish ki okolamiz."
+  },
+  {
+   "start": 30.0,
+   "end": 32.2,
+   "text": "qabasli qatnashdim, qarasam, xamas ma uchum."
+  },
+  {
+   "start": 32.3,
+   "end": 34.36,
+   "text": "Ma qogulligyan narsili, ma chunolir yon narsili."
+  },
+  {
+   "start": 34.46,
+   "end": 36.88,
+   "text": "Foundation-do uchoy okudam, yodo qinchiliy bomadi."
+  },
+  {
+   "start": 37.1,
+   "end": 38.88,
+   "text": "Negin aynan dada sanyin soxasini talladam,"
+  },
+  {
+   "start": 38.92,
+   "end": 40.02,
+   "text": "varvus soxali, derasiz xazi."
+  },
+  {
+   "start": 40.2,
+   "end": 41.72,
+   "text": "Ma avalan boroshli, fundamental,"
+  },
+  {
+   "start": 41.9,
+   "end": 43.78,
+   "text": "niman qatda bilama, niman kuchli roba bilama,"
+  },
+  {
+   "start": 43.9,
+   "end": 44.7,
+   "text": "oshangi qaradam."
+  },
+  {
+   "start": 44.8,
+   "end": 46.28,
+   "text": "Matematika bilan fizika soxasini,"
+  },
+  {
+   "start": 46.34,
+   "end": 48.12,
+   "text": "niman quruligyan, qaysi yonanish quruligyan."
+  },
+  {
+   "start": 48.18,
+   "end": 50.04,
+   "text": "Fustekmi, backendmi, frontendmi,"
+  },
+  {
+   "start": 50.04,
+   "end": 52.06,
+   "text": "qen qaradam, chadjidzi bilan aslaqatlashdim,"
+  },
+  {
+   "start": 52.06,
+   "end": 54.56,
+   "text": "qob soqolli verdim, mutagayisli blan suqbatilashdim,"
+  },
+  {
+   "start": 54.56,
+   "end": 55.66,
+   "text": "ushli sozlarimi getdim."
+  },
+  {
+   "start": 55.66,
+   "end": 57.66,
+   "text": "Agar fiziki, bilam etimetkin kuchiliy bosi,"
+  },
+  {
+   "start": 57.66,
+   "end": 58.86,
+   "text": "dada sanyin salli urdi cdib."
+  },
+  {
+   "start": 58.86,
+   "end": 60.36,
+   "text": "U shanyin chun dada sanyin salladim."
+  },
+  {
+   "start": 60.36,
+   "end": 62.76,
+   "text": "Xazi magistratura nalangiligi tapchor qoyganvan,"
+  },
+  {
+   "start": 62.76,
+   "end": 64.76,
+   "text": "xujat, otdi yam yon alishim dada sanyin."
+  },
+  {
+   "start": 64.76,
+   "end": 67.36,
+   "text": "U yawda xuda qolos magistratura diplomina apkib durub,"
+  },
+  {
+   "start": 67.36,
+   "end": 69.36,
+   "text": "yaw ushiddi ishtabib davam etdirish,"
+  },
+  {
+   "start": 69.36,
+   "end": 70.46,
+   "text": "azgin tajribi artdirish,"
+  },
+  {
+   "start": 70.46,
+   "end": 72.36,
+   "text": "yaw bomisi maviliketki xaytib kib durub,"
+  },
+  {
+   "start": 72.36,
+   "end": 73.76,
+   "text": "qatdadar ishilash, qatdadar imas,"
+  },
+  {
+   "start": 73.76,
+   "end": 75.76,
+   "text": "qazir biti qayi qozasim yap qoygenm,"
+  },
+  {
+   "start": 75.76,
+   "end": 77.76,
+   "text": "markazi bank."
+  },
+  {
+   "start": 77.76,
+   "end": 79.76,
+   "text": "yawdi pakansiyali bar, boshish yorlari xali gechi bar,"
+  },
+  {
+   "start": 79.76,
+   "end": 81.76,
+   "text": "xali gechi sukbat qalib olus vatdi."
+  },
+  {
+   "start": 81.76,
+   "end": 83.76,
+   "text": "hudak ahlisi agar bittikite orgin olusim"
+  },
+  {
+   "start": 83.76,
+   "end": 85.76,
+   "text": "kiriye bagan qotdo qotdo narsili var, o shilan orgin olsam,"
+  },
+  {
+   "start": 85.76,
+   "end": 87.76,
+   "text": "xaziram topchuru olsam, boyladi oyakdi."
+  },
+  {
+   "start": 87.76,
+   "end": 89.76,
+   "text": "sawali birishki, inkon birimadlisi."
+  },
+  {
+   "start": 89.76,
+   "end": 91.76,
+   "text": "yash, atanrizime shkili shadi."
+  },
+  {
+   "start": 91.76,
+   "end": 93.76,
+   "text": "dadam fizikadan dars veralli, arhitekturini"
+  },
+  {
+   "start": 93.76,
+   "end": 95.76,
+   "text": "unirs etdi, ayim bachchida tarbi acili."
+  },
+  {
+   "start": 95.76,
+   "end": 97.76,
+   "text": "atanriz gili ahmad. kurs pulini kip dola yapdi?"
+  },
+  {
+   "start": 97.76,
+   "end": 104.88,
+   "text": "Kurs pulunu uzun abid kechana makitabda tarsi veremak fizikada kurs pulunu yedib turibdi olyan pulun hudah olisi uzun tolu olmaa kurssi."
+  },
+  {
+   "start": 104.88,
+   "end": 106.86,
+   "text": "Rahmat, men otanid yala hudah rahmat yetardim."
+  },
+  {
+   "start": 106.94,
+   "end": 113.86,
+   "text": "Çünki, bilasim, unurisi tuyatken nakin baz yorçlar kilib uqşad, Najit Talimdi, va uqşab ayitdi otanami kulla uqvatla ucuda kerey."
+  },
+  {
+   "start": 113.9,
+   "end": 116.7,
+   "text": "Va bu yigitimiz o otanasi çün yapti, çünki o haza etselar bulard,"
+  },
+  {
+   "start": 116.9,
+   "end": 120.78,
+   "text": "volam, sen uzun yendim ala unurisi tuyatdiyimiz yordan bir isse bulard,"
+  },
+  {
+   "start": 120.78,
+   "end": 143.43,
+   "text": "Anya korra korra korra zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya zya z"
+  }
+ ],
+ "chars": 2385,
+ "chars_per_s": 16.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

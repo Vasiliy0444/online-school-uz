@@ -1,0 +1,101 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.5,
+   "text": "Yeddi yil boldi, uydidikriyatda otirib pul topishini boshlaganimgi."
+  },
+  {
+   "start": 3.94,
+   "end": 6.42,
+   "text": "Va bilasmi, yillar otir bitan arsani chundim."
+  },
+  {
+   "start": 6.84,
+   "end": 9.18,
+   "text": "Bilasmi, qachan ayol kishi, khatirjan bolib,"
+  },
+  {
+   "start": 9.28,
+   "end": 11.72,
+   "text": "hichkim bilan urushmasikin, hichkim nan xafibomidi,"
+  },
+  {
+   "start": 11.82,
+   "end": 13.98,
+   "text": "khasatkomidi, uydigilani gapi teymasikinin."
+  },
+  {
+   "start": 14.38,
+   "end": 16.98,
+   "text": "Qachanki, uzini puli bogenda."
+  },
+  {
+   "start": 17.28,
+   "end": 19.0,
+   "text": "Lekin, faqat pulini ozeymas."
+  },
+  {
+   "start": 19.48,
+   "end": 23.04,
+   "text": "Ertegi nimi bolarkyan digan korqu bolmasligi uchun kerek."
+  },
+  {
+   "start": 23.34,
+   "end": 26.22,
+   "text": "Xazir, bunaka imkonyatlardan bitdasi uzun marki digan."
+  },
+  {
+   "start": 26.22,
+   "end": 30.18,
+   "text": "Mani uydu otri, biye malol online sabdoqilish munkun."
+  },
+  {
+   "start": 30.44,
+   "end": 34.8,
+   "text": "Maksulo tanlisis, uzunge caylisis, qolganini platformani ozuqiladi."
+  },
+  {
+   "start": 35.4,
+   "end": 38.82,
+   "text": "Shun arslanin organisda, sizgiya qadam edikishin yardan veradi."
+  },
+  {
+   "start": 39.0,
+   "end": 43.76,
+   "text": "Mangi in yokgani sodda tildi qadam ma qadan sizdi noldan daramat gechi apchikshadi."
+  },
+  {
+   "start": 43.92,
+   "end": 48.02,
+   "text": "Agar vloyotdan turub, okumakchi bolsangiz, online platformada organichingiz munkun."
+  },
+  {
+   "start": 48.02,
+   "end": 52.86,
+   "text": "Agar toshkende yashishangiz, shundo kasmanatlar metro yonada okub markez caylashgan,"
+  },
+  {
+   "start": 53.16,
+   "end": 55.66,
+   "text": "kelib offline tarsladda ishiro kechingiz munkun."
+  },
+  {
+   "start": 55.66,
+   "end": 61.54,
+   "text": "Agar siz xam ançadan beri qanidi ozumni pulun bolisaydi dibirgan boseyiz, manim ki bu siz uchun acaib imkaniyat."
+  },
+  {
+   "start": 62.06,
+   "end": 65.6,
+   "text": "Xabala arkali otin, ariza yazib aldirin, va batafsil malumat olasiz."
+  }
+ ],
+ "chars": 1096,
+ "chars_per_s": 16.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

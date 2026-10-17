@@ -1,0 +1,81 @@
+{
+ "creative_id": "1750855060502204",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "постановка или скетч"
+ ],
+ "hook": {
+  "verbatim": "To'xta, zo'r kadr.",
+  "types": [
+   "история"
+  ],
+  "visual": [
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.5s–2.5s: субтитры «To'xta» → «zo'r kadr» поверх уличной сцены с двумя парнями",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Toqto, zor kadr.\n[00:05] Zor kadr.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "быстрый старт"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:13] Kadr la na ola san, zor topasan, qabilatim ban, mabilograf boli pul tap sin chi?",
+    "timecode": "00:13"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:19] Negunakadi isa, mana, Najat qalamni ikka ili mabilografi kursunu tuyati",
+    "timecode": "00:19"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:25] Daromadi yan orta jadan yukhar.",
+    "timecode": "00:25"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Siz ham Mobilografiya sohasini natijaga asoslangan ta'lim tizimida o'rganib, daromadli va zamonaviy kasb egasiga aylaning."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "неизвестно",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Скетч на улице: один парень останавливает другого («To'xta, zo'r kadr» — «Стой, классный кадр»), хвалит его способности к съёмке и предлагает стать мобилографом за деньги; далее упоминает двухмесячный курс Najot Ta'lim с доходом «выше среднего» (без конкретной суммы — income_claim не заполняю). Расшифровка сильно искажена («Kadr la na ola san, zor topasan, qabilatim ban, mabilograf boli pul tap sin chi?» → «Kadrlarni olasan, zo'r topasan, qobiliyating bor, mobilograf bo'lib pul topsang-chi?»), написание в цитатах оставлено как в источнике, смысл передан в notes. Концовка ролика (после ~0:29) в расшифровке превращается в нечитаемый повтор «bozu bozu…» — явный сбой распознавания, финальный кадр с CTA не виден ни в sheet_overview (последний кадр ~0:27), ни в тексте, поэтому cta.in_creative = «неизвестно». Оба героя — актёры в постановочной сценке, не идентифицированы как ученики или основатель, поэтому speaker.role = «актёр или ведущий»."
+}

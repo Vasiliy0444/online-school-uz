@@ -1,0 +1,65 @@
+{
+ "url": "https://aicreator.academy/terms",
+ "school_id": "shahlo-alikhanova",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "оферта или оплата",
+ "promise": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": true,
+  "value": "Записанные на платный онлайн-курс по ИИ ученики; условия принимаются самим пользованием сайтом и Telegram-ботом",
+  "quote": "By using aicreator.academy and our Telegram bot, you agree to these terms.\n…\nAI Creators provides access to a paid online AI course — video lessons, homework, grading, and progress tracking — for enrolled students.",
+  "where": "оферта"
+ },
+ "program": {
+  "found": true,
+  "format": "онлайн",
+  "quote": "AI Creators provides access to a paid online AI course — video lessons, homework, grading, and progress tracking — for enrolled students."
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [
+   "нет"
+  ]
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "в Terms of Service цен нет: доступ «follows your enrolment/tier», по оплате — писать в поддержку; цена челленджа (3 990 000 сум) — только на aicreator.academy"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": false
+ },
+ "next_step": "неизвестно",
+ "closed": false,
+ "notes": "Публичной оферты в открытом доступе нет: aicreator.academy/oferta и alikhanova.aicreator.academy/oferta отдают 404 («Page not found» и «Oops! Page not found»), ещё 22 типовых адреса на двух доменах (/ommaviy-oferta, /offer, /public-offer, /shartnoma, /dogovor, /tolov, /payment, /narxlar, /tariflar, /kurslar, /courses) — дубли этих 404. Единственные правовые тексты — «Terms of Service» (эта страница) и «Privacy Policy» (aicreator.academy/privacy), обе из карты сайта, «Last updated: 2026-07-16», только на английском, хотя продающие страницы на узбекском; разобраны вместо оферты, этап «оферта или оплата» условный. Юрлицо не названо — ни наименования, ни ИНН, ни адреса, ни банка; в Privacy Policy: «AI Creators is an online education provider based in Tashkent, Uzbekistan», контакты hello@aicreators.app (домен aicreators.app, не aicreator.academy) и Telegram @aicreators_uz. Акцепт — самим пользованием сайтом и Telegram-ботом. Оплата: «Course access follows your enrolment/tier. Trial accounts may have limited access until full payment. Contact us for any billing question.» — есть уровни доступа и пробные аккаунты с ограничениями до полной оплаты; цены, сроки, способы оплаты и оплата частями не описаны (рассрочкой по правилу не считается). Возврат денег не описан вовсе; раздел «Disclaimer»: «The course is provided “as is” for educational purposes. We work to keep it available and accurate but do not guarantee specific outcomes.» — а на aicreator.academy обещано «Pulingiz qaytadi yoki noutbuk yutasiz» (по условиям там же — только топ-5 и топ-3). Прочее: аккаунт личный, нельзя передавать доступ и сдавать чужие работы; материалы — интеллектуальная собственность школы, скрейпинг и распространение запрещены. Privacy Policy: собирают имя, email, при работе с ботом — Telegram username и ID, прогресс и просмотры уроков, домашние задания, баллы и достижения; хранение — Supabase (PostgreSQL с row-level security), видео — Bunny.net, часть картинок — Cloudinary, общение по курсу — Telegram Bot API; «We do not sell your data or use it for advertising» (на рекламных поддоменах при этом стоят Meta Pixel и GA4 — по intel.json); удалить аккаунт — по письму; данные хранят, пока активна запись на курс. intel.json страницы пуст, как у главной. Скриншот 390×844: тёмная страница «Terms of Service», видны разделы до «Disclaimer»; текст совпадает с page.md."
+}

@@ -1,0 +1,31 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.32,
+   "text": "Deklaratsi oqqu kursimizde namalarini o'rgenasis."
+  },
+  {
+   "start": 2.8,
+   "end": 6.62,
+   "text": "Ekspert va imprt operatsilari boychi, bochkona yuk deklaratsilari toldurish,"
+  },
+  {
+   "start": 6.88,
+   "end": 11.9,
+   "text": "tavarinin kiften kodini aniklash, xamda xalkaro shartnomalarini roxatdan otqizish,"
+  },
+  {
+   "start": 11.9,
+   "end": 18.22,
+   "text": "imtiyaz va preferensyalari toguri va oz ordunda kollash, xamda bochkona qimati aniklashni usullarini o'rgenasis."
+  }
+ ],
+ "chars": 322,
+ "chars_per_s": 15.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

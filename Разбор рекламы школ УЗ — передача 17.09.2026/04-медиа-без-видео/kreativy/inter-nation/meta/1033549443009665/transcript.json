@@ -1,0 +1,26 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.92,
+   "text": "Ingilis tiri sizgi o'qish, ish yuki gelecek yuchun kereymi, unni sentyabur aydayaq organishni vashney."
+  },
+  {
+   "start": 6.14,
+   "end": 9.02,
+   "text": "International sentyabur ayuchun kattaqabul vashlandi."
+  },
+  {
+   "start": 9.24,
+   "end": 10.64,
+   "text": "Havalarkali yorokotan edin."
+  }
+ ],
+ "chars": 184,
+ "chars_per_s": 13.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

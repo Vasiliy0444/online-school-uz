@@ -1,0 +1,81 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.68,
+   "text": "Xojiyin, e sizda boz otka sefar gengi o'dan aligikotar beramandudiy, shumasilin roqoldi?"
+  },
+  {
+   "start": 4.84,
+   "end": 7.12,
+   "text": "Siz kompitori organamandiganz, organizm?"
+  },
+  {
+   "start": 7.3,
+   "end": 8.4,
+   "text": "Yok, alin gulmoda."
+  },
+  {
+   "start": 8.52,
+   "end": 10.92,
+   "text": "Onda siz shun organi ki ma oligis halqa beram."
+  },
+  {
+   "start": 11.12,
+   "end": 15.18,
+   "text": "Kompitor dan faydalanishi bilad gyalan, bilmigyaladan kora aligikopra boladi."
+  },
+  {
+   "start": 15.3,
+   "end": 16.92,
+   "text": "Ozizan bunu gulaxu boz eskiri."
+  },
+  {
+   "start": 17.26,
+   "end": 20.16,
+   "text": "Leki, oziz kompitori shumasigingiz muamma bovoddimi?"
+  },
+  {
+   "start": 20.36,
+   "end": 22.66,
+   "text": "Buda tingi itka uchi da toghurlasi boladi."
+  },
+  {
+   "start": 22.82,
+   "end": 24.26,
+   "text": "Foundation kursimiz dalbadi."
+  },
+  {
+   "start": 24.26,
+   "end": 30.26,
+   "text": "Bu yerdas siz noldan tolog kompyturdan faydalanisna va iski kerek boligyan barchi programmalardan faydalanisna orginasiz."
+  },
+  {
+   "start": 31.06,
+   "end": 35.14,
+   "text": "Khullas yaxshi alik tolanadigyan daracada kompyturda ishlasina orginasiz."
+  },
+  {
+   "start": 35.3,
+   "end": 40.32,
+   "text": "Bonus tarikasta zamanavi suni intelekt programmalardan faydalanisna xam orginasiz."
+  },
+  {
+   "start": 40.58,
+   "end": 45.74,
+   "text": "13-ci akciabirdan 18-ci akciabir gechi foundation boychi biplotchum daslarimiz bolibotadi."
+  },
+  {
+   "start": 46.04,
+   "end": 49.76,
+   "text": "Joynizni band koliqchun xozroq, basta gitugim orqali roy khattan otin."
+  }
+ ],
+ "chars": 870,
+ "chars_per_s": 17.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

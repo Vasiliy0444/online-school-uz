@@ -1,0 +1,113 @@
+{
+ "url": "https://inter-nation.uz/",
+ "school_id": "inter-nation",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "главная или каталог",
+ "builder": "Next.js",
+ "pixels": [
+  "Google Analytics (GA4)",
+  "Google Tag Manager"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Английский и IELTS в «крупнейшем учебном центре английского в Узбекистане» (самоотчёт, без источника); главный призыв первого экрана — записаться на первый бесплатный урок",
+  "quote": "INTER NATION ingliz tili va IELTS\nO’zbekistondagi eng yirik ingliz tili o’quv markazi.\nBirinchi bepul darsga yozilish",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": true,
+  "value": "Широкая, без сегментов: «учить английский теперь может каждый»; онлайн-блок — для тех, кому мешают расстояние, время, условия или деньги; блок сертификата — для абитуриентов (поступление в вузы-партнёры без экзамена)",
+  "quote": "Siz uchun yangi imkoniyat! Endilikda ingliz tilini o’rganishga masofa, vaqt, sharoit yoki pul muammo emas!\n…\nEndi ingliz tilini o'rganish imkoniyati hamma uchun ochiq!\n…\nINTER NATION SERTIFIKATI BILAN IMTIHONLARSIZ TALABA bo'ling",
+  "where": "середина"
+ },
+ "program": {
+  "found": true,
+  "format": "гибрид",
+  "duration": "General English — 5 уровней по программе Oxford University Press плюс авторский IELTS-X; тариф — 12 занятий (по оферте: 12 занятий по 80 минут в месяц, уровень обычно 3 месяца); офлайн — филиалы в 5 городах, онлайн — отдельный формат",
+  "quote": "Umumiy ingliz tilining 5 bosqichi uchun dunyoning eng yetakchi va litsenziyalangan Britaniya o’quv dasturi.\n…\nOnline ta’lim formati offlayn ta’lim sifati darajasida\n…\nHozirgi kunda yurtimizning Toshkent, Samarqand, Andijon, Farg’ona va Namangan shaharlarida offline darslar uchun filiallarimiz mavjud"
+ },
+ "speaker": {
+  "found": true,
+  "value": "Основатель не назван. Блок «USTOZLARIMIZ» — 10 преподавателей (фото с именами, карусель повторена дважды) с общей подписью про CELTA и IELTS 9.0; в цифрах — «5+» преподавателей с IELTS 9.0 и по 3 преподавателя на студента (самоотчёт)",
+  "quote": "USTOZLARIMIZ\nCELTA va IELTS 9.0 sertifikatiga ega oliy toifali mutaxassislar.\n…\nHar bir talaba uchun 3ta malakali o'qituvchilar.",
+  "where": "середина"
+ },
+ "social_proof": {
+  "types": [
+   "число учеников"
+  ],
+  "count_claim": "23,000+ Faol talabalar; 14 Filiallar (Toshkent, Samarqand, Andijon); 5+ IELTS 9.0 o'qituvchilar; talabalarimiz orasida IELTS 8.5+ olganlar talaygina",
+  "reviews_count": 0
+ },
+ "price": {
+  "found": true,
+  "tariffs": [
+   {
+    "name": "Group English — офлайн, Ташкент (вкладка по умолчанию)",
+    "price_uzs": 1050000,
+    "period": "за 12 занятий (по оферте — месяц)",
+    "quote": "Group English\n1 050 000 UZS\nSergeli filiali uchun eksklyuziv taklif 960 000 UZS\n12 ta dars"
+   },
+   {
+    "name": "Group English — офлайн, филиал Sergeli («eksklyuziv taklif»)",
+    "price_uzs": 960000,
+    "period": "за 12 занятий (по оферте — месяц)",
+    "quote": "Sergeli filiali uchun eksklyuziv taklif 960 000 UZS\n12 ta dars"
+   },
+   {
+    "name": "Individual English — офлайн, Ташкент (вкладка по умолчанию)",
+    "price_uzs": 3450000,
+    "period": "за 12 занятий (по оферте — месяц)",
+    "quote": "Individual English\n3 450 000 UZS\nAynan siz uchun individual va maxsus dastur tuziladi\n12 ta dars"
+   }
+  ],
+  "hidden_reason": "цены онлайн-обучения и офлайн-филиалов в Самарканде, Андижане, Фергане и Намангане в снимок не попали — вкладки «Samarqand», «Andijon», «Farg’ona», «Namangan», «Online» не раскрыты"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": true,
+  "value": "Эксклюзивная цена для филиала Sergeli (офлайн, Ташкент): Group English 960 000 сум вместо 1 050 000 сум за 12 занятий",
+  "quote": "Sergeli filiali uchun eksklyuziv taklif 960 000 UZS",
+  "where": "середина"
+ },
+ "bonuses": {
+  "found": true,
+  "value": "Первый урок бесплатно (кнопка первого экрана). В тарифных карточках: учебники Student’s Book и Grammar book; 3 преподавателя в группе (Head Teacher, Teacher, Academic Support), 2 — в индивидуальном тарифе; безлимитные бесплатные IELTS CD Mock; сертификат, освобождающий от вступительных экзаменов в университеты; Sunday Events и Speaking. В блоках преимуществ — приложение Student App с ИИ-учителем «Professor Harry», встречи с инфлюенсерами и бизнесменами, еженедельные Speaking-клубы; в блоке результатов — IELTS-кэшбэк за высокий балл (суммы — в оферте и на странице success-alumni: от 1 000 000 сум за 7.5 до 100 000 000 сум за 9.0). По оферте (п. 6.5) материалы, Academic Support, воскресные мероприятия и кэшбэк — бонусы вне стоимости, школа может отказать в них в любой момент",
+  "quote": "Birinchi bepul darsga yozilish\n…\nStudent’s Book va Grammar book\n3 ta o’qituvchi (Head Teacher, Teacher va Academic Support)\nOxford University Press va IELTS X dasturi\nCheksiz bepul IELTS CD Mock exam\nUniversitetlar imtihonidan ozod qiluvchi sertifikat\nSunday Events va Speaking mashgulotlari\n…\nO’quvchilarimiz doimiy ravishta yuqori natijali IELTS sertifikatlarini qolga kirib o’z keshbeklarini qabul qilib olishadi",
+  "where": "первый экран"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": false
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "message_match": {
+  "library_id": "992250323832039",
+  "scores": {
+   "promise_continuity": 6,
+   "language_match": 8,
+   "visual_continuity": 5,
+   "cta_alignment": 7,
+   "specificity_match": 7,
+   "emotional_match": 5
+  },
+  "total_of_60": 38
+ },
+ "notes": "Главная на узбекском; /ru — та же страница на русском с теми же блоками и ценами (отдельно не разбиралась). Меню: «Biz haqimizda», «Narxlar», «Natijalar», «Vakansiyalar», «Tadbirlar», «IELTS», «Ommaviy offerta» (PDF оферты, разбор — oferta-file-server-5x5bbmyc8vmh94yt-inter-nation-uz-18-yfd8z4nlehvv-9dd34e.json), «FAQ»; телефон +998 78 777 77 07, «Shaxsiy kabinet» (login.inter-nation.uz), приложение Inter Nation Student в App Store и Google Play. Первый экран (скриншот): фото интерьера филиала, «INTER NATION INGLIZ TILI VA IELTS», «O’zbekistondagi eng yirik ingliz tili o’quv markazi.», кнопка «Birinchi bepul darsga yozilish»; ниже сразу «BIZ HAQIMIZDA» с видео и плавающая кнопка звонка. Блок «O'zbekistondagi #1 ingliz tili va IELTS o'quv markazi» (23,000+ студентов, 14 филиалов, 5+ преподавателей с IELTS 9.0, «IELTS 8.5+ olganlar talaygina») и FAQ с ответами стоят в тексте сразу после первого экрана, но на скриншоте между первым экраном и «BIZ HAQIMIZDA» их нет — вероятно, скрытый SEO-блок (те же ответы — в разметке schema.org FAQPage). Счётчики «Biz haqimizda» (Filiallar, Xodimlar, O’quvchilar, Bitiruvchilar) в тексте без чисел. Цифры о себе — самоотчёт и расходятся: «14 filial — 13 ta jismoniy filial Toshkent, Samarqand va Andijonda + to'liq Online dastur» (11 в Ташкенте, 1 в Самарканде, 1 в Андижане), а в блоке «Filiallarimiz» — 16 офлайн-филиалов: 11 в Ташкенте, 2 в Самарканде (Gagarin, Dahbed), Андижан, Фергана, Наманган; часы — «haftaning yetti kunida ham 08:00 dan 22:00 gacha» против «Dushanbadan-Shanbagacha, soat 7:30 dan 20:00 gacha». ОФЛАЙН-ЦЕНЫ: блок «Tariflar va narxlar» с вкладками «Toshkent, Samarqand, Andijon, Farg’ona, Namangan, Online»; в снимок попала одна вкладка — по строке про филиал Sergeli это Ташкент: Group English 1 050 000 UZS (для филиала Sergeli — 960 000 UZS), Individual English 3 450 000 UZS, оба «12 ta dars»; в Individual — «2 ta o’qituvchi (Head Teacher va Teacher)». По оферте это 12 занятий в месяц по 80 минут с оплатой в начале месяца — помесячная оплата, а не рассрочка. ОНЛАЙН-ЦЕНЫ: не найдены — вкладка «Online» в снимке не раскрыта (цены Самарканда, Андижана, Ферганы и Намангана тоже не видны). Онлайн-блок «INTER NATION ONLINE — Yangi darajadagi masofaviy ta‘lim!»: учиться со смартфона или компьютера, преподаватели с CELTA и IELTS 9.0, занятия через Student App, «Online ta’lim formati offlayn ta’lim sifati darajasida», кнопки «Online o'qish» и «Videoni ko’rish»; фраза «masofa, vaqt, sharoit yoki pul muammo emas!» обещает, что и деньги не проблема, но цен онлайн рядом нет. Вопрос FAQ «Online darslar video tarzda o‘tkaziladimi yoki jonli?» в снимке свёрнут (в скрытой разметке schema.org онлайн-программы «delivered live with the Student App and AI tutor Professor Harry»). Условия оферты одинаковы для онлайн и офлайн (п. 9.6). Рассрочки («bo'lib to'lash», Uzum Nasiya, Alif, банк), гарантии и дедлайна на странице нет. Свёрнутые вопросы FAQ без ответов в снимке, среди них «Nima sababdan o'qish narxi yuqori?» — школа сама признаёт, что цена высокая. Доказательства: 9 разных картинок «Inter Nation IELTS result» (в карусели по 2 раза; имена и баллы не записывались) с подписью про кэшбэк; 10 логотипов университетов-партнёров (по 2 раза) под «INTER NATION SERTIFIKATI BILAN IMTIHONLARSIZ TALABA bo'ling» со сноской «*Sertifikatlarning universitetlar tomonidan qabul qilinish tartibi bilan ommaviy offerta orqali tanishib chiqing.» — в оферте поступление не гарантируется (пп. 4.4, 5.5.3), а сертификаты уровней вузы не принимают (п. 5.1.1); 10 фото мероприятий; отзывов нет. Проверка подлинности сертификатов — отдельная страница /en/certificate («Certificate verification», отдельно не разбиралась). Формы на главной нет: кнопки «Birinchi bepul darsga yozilish», «Ro’yxatdan o’tish», «Guruhda o’qish», «Individual o’qish», «Ariza qoldirish» ведут на запись (по FAQ — страница /Registration или звонок), дальше не переходили. Реклама: на главную ведёт одно объявление — 992250323832039 (страница INTER Nation Samarkand, карусель из 3 карточек, с 03.09.2026, 14 дней, ранг 9, CTA «Sign up»); message_match по нему — видео нет, оценка по тексту и картинкам. Текст: «Katta qabul boshlandi! Sizni o‘qish uchun eng qulay sharoitlar kutmoqda!» и список: Oxford University Press, «Uchta o‘qituvchi: Head, Main, Support», «Bepul brendli o'quv materiallar», «Unikal IELTS X dasturi», «Keng maydon va Co-Working Zone», «Qulay lokatsiyalar», поступление в несколько вузов без экзаменов по сертификату. Карточки: «General English & IELTS kurslari» (Beginner — Upper-intermediate, IELTS); «BONUS bepul* Back to school» (практика языка, IELTS mock, 3 преподавателя, встречи со знаменитостями, «speaking & debates», поездки и экскурсии; «*«Back to school» oylik kurs narxini ichiga kiradi»); «Kurslarimizga yoziling». На главной совпадают Oxford, IELTS X, 3 преподавателя, учебники, Mock, встречи со знаменитостями, Speaking, сертификат для поступления; нет «Katta qabul» и «Back to school» (срочности набора), Co-Working Zone, поездок и дебатов, а призыв сменился на «первый бесплатный урок». Техника (intel.json): Next.js, GA4 и Google Tag Manager (GTM-M34NDCLF); Meta Pixel не обнаружен; разметка schema.org EducationalOrganization (13 филиалов) и FAQPage."
+}

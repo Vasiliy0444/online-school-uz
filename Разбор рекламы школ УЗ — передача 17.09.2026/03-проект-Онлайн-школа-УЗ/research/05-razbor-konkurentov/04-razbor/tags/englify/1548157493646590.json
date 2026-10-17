@@ -1,0 +1,91 @@
+{
+ "creative_id": "1548157493646590",
+ "platform": "meta",
+ "school_id": "englify",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "85-90 foiz ingliz tili o'rganayotganlar 1-2 oydan keyin tashlab ketishadi.",
+  "types": [
+   "цифра",
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.0s: «85» / «85-90» / «85-90 foiz»; мужчина за столом в национальном ресторане",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.5s–2.5s: «ingliz tili» / «ingliz tili o'rganayotganlar» / «1-2 oydan»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] 85-90% ingilis ter o'rgan wat gale, berik ko'ay nekin tashabi o'warade.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "страх отстать",
+   "экономия времени",
+   "быстрый старт"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:10: «tilim chiqmayapti»; ~0:29: «Hayot tashvishlari»",
+    "timecode": "00:29"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:48: «10 minut 10 minut»",
+    "timecode": "00:48"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[01:02] yoki erishasiz, yoki katdi ozgarlisayt sezlisi basiz.",
+    "timecode": "01:02"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "HAVOLA USTIGA BOSING"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Тот же ролик (тот же creative_key), что и у creative_id 1030904319872614 — идентичные кадры и близкая по смыслу расшифровка, но здесь другая обёртка объявления: переход на englify.uz («HAVOLA USTIGA BOSING», кнопка Sign up) вместо установки приложения. Расшифровка в целом сильно искажена (черновая), хук на кадре обрывается на «1-2 oydan» — концовка фразы достроена по смыслу."
+}

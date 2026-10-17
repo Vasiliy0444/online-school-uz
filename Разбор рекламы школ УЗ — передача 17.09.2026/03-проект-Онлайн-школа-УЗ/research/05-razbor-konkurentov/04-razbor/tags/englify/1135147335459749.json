@@ -1,0 +1,90 @@
+{
+ "creative_id": "1135147335459749",
+ "platform": "meta",
+ "school_id": "englify",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "Ishingiz tufayli ingliz tili o'rganishga vaqt yo'q. Buni bilamiz.",
+  "types": [
+   "боль",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.0s: «ishingiz tufayli ingliz tili o'rganishga vaqt yo'q» (синяя подпись); мужчина в зелёном поло на аллее парка",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.5s: «buni bilamiz»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Chingiz, tufayli ingilistir o'rganishki vaqt yox. [00:02] Buna blamiz...",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта",
+   "экономия времени"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:05: «aynan 25 yoshdan katta»; ~0:16: «o'zingizga qulay vaqtda»",
+    "timecode": "00:16"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:26: «yana 10 daqiqa bilimlar bellashuvi»; ~0:36: «natija bo'larmikin deyayotgan bo'lsangiz»",
+    "timecode": "00:36"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:20] Uziyizgi kulay vaqti qachan vaqt ispayda o'bosu, 10 dakiqa, 15 dakiqadan shuklanasiz.",
+    "timecode": "00:20"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "HAVOLA USTIGA BOSiNG"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Ещё один вариант того же хука-шаблона («Ishingiz tufayli... vaqt yo'q»), что и в 2941363729367351/920120907740417 — тот же ведущий и парк, но другая расстановка последующих аргументов (здесь — геймификация «bilimlar bellashuvi», ИИ-обратная связь по уровню)."
+}

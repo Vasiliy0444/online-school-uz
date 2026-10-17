@@ -1,0 +1,106 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.76,
+   "text": "Engilis sinni organ dingiz. Genchi, bugun sizgi International School Yangiligi haqida aytib birama."
+  },
+  {
+   "start": 6.14,
+   "end": 9.58,
+   "text": "IELTS ni organish ushun, yagona mukamal dastur bor mi?"
+  },
+  {
+   "start": 10.0,
+   "end": 14.8,
+   "text": "International School jamu o'si bir il doğumida usbu so'alga jawab izladi."
+  },
+  {
+   "start": 14.8,
+   "end": 22.18,
+   "text": "Biz en kuchli native speakerlar, IELTS 9 egelari, vasilta sertifikatikega profesionallar bilan jamu o tuzdik."
+  },
+  {
+   "start": 22.42,
+   "end": 24.8,
+   "text": "Bay yigirmadan ortog xalqa rona shiratlarina organdik."
+  },
+  {
+   "start": 24.8,
+   "end": 32.42,
+   "text": "Naticade isa IELTS X, Mozbekistan dagi ilk bor basqishma basqich imtxon taklili geyge inovasyon dasturdar."
+  },
+  {
+   "start": 32.64,
+   "end": 37.28,
+   "text": "Brintsi Students Book, savol turlari va mavzular boyche mualliflik dasturri,"
+  },
+  {
+   "start": 37.64,
+   "end": 40.9,
+   "text": "mashklar de isa maxalli brentlar integratsyasi geyge."
+  },
+  {
+   "start": 41.18,
+   "end": 45.56,
+   "text": "Ekintsi Unique Presentations, fakat kina International School darsalarda"
+  },
+  {
+   "start": 45.56,
+   "end": 49.16,
+   "text": "eyn fichli uxtuslar bilan otiladigan Interactive Slides."
+  },
+  {
+   "start": 49.16,
+   "end": 54.16,
+   "text": "Uchintisi isi, students app, rakamli testlar, qirixtan oldig video daslar"
+  },
+  {
+   "start": 54.16,
+   "end": 57.16,
+   "text": "ba oqish yarayonina kuzadda chimkonyati."
+  },
+  {
+   "start": 57.16,
+   "end": 61.16,
+   "text": "Bushunchiki kursimaz, natijalargi yon aldarilgan toluq komplextir."
+  },
+  {
+   "start": 61.16,
+   "end": 65.16,
+   "text": "Talabalarimiz alla qachon uslu dasduldi oqishlarini boshladi"
+  },
+  {
+   "start": 65.16,
+   "end": 69.16,
+   "text": "ba biz jamalimiz bilan, elik natijalani intiklik bilan tutuyapmiz."
+  },
+  {
+   "start": 69.16,
+   "end": 72.16,
+   "text": "IELTS-tan yukari natija xoklayabsizmi,"
+  },
+  {
+   "start": 72.16,
+   "end": 74.16,
+   "text": "xozroq xabali orqili roxatda oti"
+  },
+  {
+   "start": 74.16,
+   "end": 77.36,
+   "text": "va International Schoolda Noyob Dastur bilan,"
+  },
+  {
+   "start": 77.48,
+   "end": 80.3,
+   "text": "yani IELTS X bilan oz okhishlarimizda baslayim."
+  }
+ ],
+ "chars": 1237,
+ "chars_per_s": 14.2,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

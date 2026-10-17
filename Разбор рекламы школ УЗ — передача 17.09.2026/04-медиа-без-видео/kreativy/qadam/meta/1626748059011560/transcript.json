@@ -1,0 +1,146 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.6,
+   "text": "Suni Intellect bugun mutakhayisili bir kundu uzu rastanam, shiz dollur tapishadimi?"
+  },
+  {
+   "start": 3.6,
+   "end": 7.1,
+   "text": "Bizak haqish zhunu korib chikamizi tanibomasi, gettum!"
+  },
+  {
+   "start": 7.1,
+   "end": 10.7,
+   "text": "Suni Intellect bugun duniyodigi eyn tizi rojlan vatikan soqaq soplanadi."
+  },
+  {
+   "start": 10.7,
+   "end": 14.2,
+   "text": "Kampanyali, biznislili, tadbirkorli, vahammasi a'yidan faydalanmakhchi."
+  },
+  {
+   "start": 14.2,
+   "end": 17.1,
+   "text": "Lekin bunu profissional qila ola digan mutakhayisili judayamkani."
+  },
+  {
+   "start": 17.1,
+   "end": 19.0,
+   "text": "Demek talab bar, lekin taklifi yok."
+  },
+  {
+   "start": 19.0,
+   "end": 21.0,
+   "text": "Aynan shujaydi, yaxshigini pul top siz boladi."
+  },
+  {
+   "start": 21.0,
+   "end": 23.2,
+   "text": "Xosh, a'yi mutakhayisi bir kundu uza nimakiladi."
+  },
+  {
+   "start": 23.2,
+   "end": 25.96,
+   "text": "Ertelab mi jazla bilan gablash asiz, tazab qabulqil asiz."
+  },
+  {
+   "start": 25.96,
+   "end": 28.0,
+   "text": "Bugum masalam qurulish kampanyasi bilan kelishsi,"
+  },
+  {
+   "start": 28.0,
+   "end": 31.0,
+   "text": "riklamo chun video tayyarlab biramiz, narxani 100 dolar da betamiz."
+  },
+  {
+   "start": 31.0,
+   "end": 32.96,
+   "text": "Vidyon e yarad shchum bolad yamos nanobanana"
+  },
+  {
+   "start": 32.96,
+   "end": 34.96,
+   "text": "wa xix fil suni intelektlardan faydalanab,"
+  },
+  {
+   "start": 34.96,
+   "end": 37.96,
+   "text": "torbe saat ichide bitti vidyonu tayyarkilab topshir shiz bolad."
+  },
+  {
+   "start": 37.96,
+   "end": 40.5,
+   "text": "Kunigilgit shinaqa vidyonu behem alol topshir shizmunkun,"
+  },
+  {
+   "start": 40.5,
+   "end": 43.24,
+   "text": "qullas kancha qob pishlasi shuncho qob rapol tophasiz."
+  },
+  {
+   "start": 43.24,
+   "end": 47.0,
+   "text": "Asasisi se kompyutor, internet, wa yakshi fantaziya wa bilimiz bolishkiri."
+  },
+  {
+   "start": 47.0,
+   "end": 49.0,
+   "text": "Bilem, mi qay adan orgen san boladi, disiz mi?"
+  },
+  {
+   "start": 49.0,
+   "end": 51.4,
+   "text": "Qatam edukayshinni AI xunarmat kursibar."
+  },
+  {
+   "start": 51.4,
+   "end": 55.8,
+   "text": "Bitti kursi foto, video, site, telegram bot, ilovaq, hammasin orgetshadi."
+  },
+  {
+   "start": 55.8,
+   "end": 57.8,
+   "text": "Uktu uchili ozlari shusoka deshleshadi."
+  },
+  {
+   "start": 57.8,
+   "end": 61.3,
+   "text": "Fakat nazari emas, ozlari artirgan amali tajribanayam orgetshadi."
+  },
+  {
+   "start": 61.3,
+   "end": 64.8,
+   "text": "Shukungi quli yeddi minna ashiq adamligi zamanavi kaspilana orgetshgan."
+  },
+  {
+   "start": 64.8,
+   "end": 67.8,
+   "text": "Ishqalib AI mutakhayis bubdur bur kundan nesbil tabshi munkulligini?"
+  },
+  {
+   "start": 67.8,
+   "end": 68.8,
+   "text": "Kor shili munkun?"
+  },
+  {
+   "start": 70.8,
+   "end": 74.4,
+   "text": "Agar sizan suni intilikti orgenibdurub daramat tabmokchi boladi yanbosis,"
+  },
+  {
+   "start": 74.4,
+   "end": 77.5,
+   "text": "pastiga xawal aarqali bemolol bepul kan sul tatsagi yazlin."
+  }
+ ],
+ "chars": 1558,
+ "chars_per_s": 20.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,77 @@
+{
+ "creative_id": "1452992770215802",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": ">120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Kurs pulini kim to'layapti? — O'zim, o'zingiz qanday to'layapsiz? — Kuryer bo'lib ishlayman hozir.",
+  "types": [
+   "вопрос",
+   "история"
+  ],
+  "visual": [
+   "крупный текст",
+   "лицо в первом кадре"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–3.0s: субтитры «kurs pulini kim» → «to'layapti?» → «O'zim o'zingiz» → «qanday to'layapsiz?» → «Kuryer bo'lib» → «ishlayman hozir» поверх молодого человека в полосатом свитере; снизу — ведущий в бежевом"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Kuryer bo'lib ishlab kurs pulini to'layman..."
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для регионов",
+   "доверие и окупаемость"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Navbatdagi qahramonimiz — namanganlik Elbek Farg'ona filialimizda Python dasturlash kursida o'qiydi."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:42] Batalizm esk kli shadi? [00:43] Dadam ustalar, ayim uybi kasi.",
+    "timecode": "00:42"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "P.S. maxsus takliflarimiz tugashiga 1 kun qolganini bilasiz-a?"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Visit Instagram profile",
+  "in_creative": "слово в комментарии",
+  "destination": "Instagram",
+  "funnel_stage": "директ"
+ },
+ "speaker": {
+  "role": "ученик"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "Отзыв ученика Elbek (namanganlik, Farg'ona filiali, Python), имя не выношу в speaker. Хук почти дословно повторяет заголовок текста объявления, надёжный источник. Постскриптум объявления прямо называет дедлайн акции («tugashiga 1 kun qolgan»), поэтому оффер = дедлайн/ограничение мест, без бонусов и скидок (в отличие от развёрнутой сентябрьской акции в 1379707713766932/1767676874475610 — здесь конкретные бонусы не перечислены). Расшифровка очень длинная и сильно искажена (102 с, разговор про учёбу, English preintermediate, книги, работу курьером и раздачу листовок), поэтому confidence низкая; для meaning использована только чётко читаемая фраза о родителях (отец — мастеровой, мать — домохозяйка)."
+}

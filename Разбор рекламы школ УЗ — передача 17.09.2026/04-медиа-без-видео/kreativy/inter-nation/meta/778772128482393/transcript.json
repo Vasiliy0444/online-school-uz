@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 11.82,
+   "text": "Oye, bebi sha pimeb gyanir?"
+  },
+  {
+   "start": 12.86,
+   "end": 16.08,
+   "text": "Nima bugun dayan, ayol kishirvajlanjdan hecham toqta masliy gerek."
+  },
+  {
+   "start": 16.88,
+   "end": 19.68,
+   "text": "Lekin, bunaka sharayitli ingilis tili qana aqib organi."
+  },
+  {
+   "start": 20.22,
+   "end": 22.08,
+   "text": "Endi sharayit mua mo'imas."
+  },
+  {
+   "start": 22.44,
+   "end": 23.62,
+   "text": "International Online."
+  },
+  {
+   "start": 24.02,
+   "end": 25.94,
+   "text": "Ingilis tili xarkanday sharayit torgani."
+  },
+  {
+   "start": 25.94,
+   "end": 29.56,
+   "text": "Shreyan bilmisa amman?"
+  },
+  {
+   "start": 29.88,
+   "end": 31.06,
+   "text": "A kulani bolersi boladi."
+  }
+ ],
+ "chars": 288,
+ "chars_per_s": 8.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

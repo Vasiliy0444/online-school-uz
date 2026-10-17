@@ -1,0 +1,111 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.5,
+   "text": "Reading, toqqas, listening, yettiarim. Okuchimiz asilbeyk, ayalistan yettiarim oldili."
+  },
+  {
+   "start": 6.8,
+   "end": 11.24,
+   "text": "Kili ili ulaublan sukbat qilib, aynan International School, nima blami ordam bergan sorimiz."
+  },
+  {
+   "start": 11.56,
+   "end": 14.22,
+   "text": "Asilbeyk, tabriklimizi, ayalistan yettiarim obsiz."
+  },
+  {
+   "start": 14.76,
+   "end": 16.8,
+   "text": "International School, sizgen nima blami ordam berdi?"
+  },
+  {
+   "start": 17.02,
+   "end": 20.36,
+   "text": "International School, birinci orinda, beni asosiusi soğuzun Misirca okhir,"
+  },
+  {
+   "start": 20.7,
+   "end": 23.24,
+   "text": "ayalistan yukharbar olush strategyalarini orgatdilar."
+  },
+  {
+   "start": 23.78,
+   "end": 29.72,
+   "text": "Ikinciden, haftada, uchukunlik darslarda, harborda, darsimiz reading bu magandayim."
+  },
+  {
+   "start": 30.0,
+   "end": 32.68,
+   "text": "Ushan qaridin fesajlarini u yasla veri, kuchaytirilar."
+  },
+  {
+   "start": 32.68,
+   "end": 34.08,
+   "text": "Ushan shun ridinna tokuz olgiz, e?"
+  },
+  {
+   "start": 34.08,
+   "end": 35.78,
+   "text": "Ushan, chun ridinna tokuz shqiti."
+  },
+  {
+   "start": 36.14,
+   "end": 38.98,
+   "text": "Nama maslaqat beras, international okumatgan mollegi?"
+  },
+  {
+   "start": 39.38,
+   "end": 41.38,
+   "text": "Albatta kinlar, international okunlar."
+  },
+  {
+   "start": 41.56,
+   "end": 47.22,
+   "text": "Kereli okuchumuzi, tabriklimizi, bu sizgi kishbakimiz, tabriklimizi, bu sizgi."
+  },
+  {
+   "start": 48.7,
+   "end": 54.84,
+   "text": "Va arzimayan bolsayam, international nomadan simbaliqini sizgi albatta tort beramiz."
+  },
+  {
+   "start": 54.94,
+   "end": 56.2,
+   "text": "Keling, flesez boladi."
+  },
+  {
+   "start": 57.66,
+   "end": 59.04,
+   "text": "Albid, tabriklimiz."
+  },
+  {
+   "start": 59.04,
+   "end": 61.24,
+   "text": "International School-ga kelin,"
+  },
+  {
+   "start": 61.44,
+   "end": 62.66,
+   "text": "naticigi irisin,"
+  },
+  {
+   "start": 63.04,
+   "end": 65.08,
+   "text": "wa akhir akhubat ayatista toqqiz olin."
+  },
+  {
+   "start": 65.34,
+   "end": 66.24,
+   "text": "Hamiland kurskuncha."
+  }
+ ],
+ "chars": 1028,
+ "chars_per_s": 15.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

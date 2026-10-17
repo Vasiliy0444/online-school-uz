@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.5,
+   "text": "Orzular, orzulu gecha qalmaydi. Yurek urutursa bas degan zaman keldi."
+  },
+  {
+   "start": 4.66,
+   "end": 9.56,
+   "text": "Chunki, endi bir talimda, en zamanavi kaspilarini, be pul görgan ishingiz, munkun."
+  },
+  {
+   "start": 9.8,
+   "end": 14.36,
+   "text": "Utkan patak oku uchilarimiz, shukun gechi, 650 milyon somdan ziyad daramat kili ishti."
+  },
+  {
+   "start": 14.66,
+   "end": 19.64,
+   "text": "Endi isa, yitda, en zamanavi kaspilar boyucha, yana 500 grand elan kildik."
+  },
+  {
+   "start": 19.8,
+   "end": 24.64,
+   "text": "Agar siz ham, yukardagi oku uchilarimizga kushilip, en zamanavi kaspilarini örgan ishti isteseyiz,"
+  },
+  {
+   "start": 24.64,
+   "end": 28.14,
+   "text": "25. sentiya bir kungi online taqdimatik atinashin iskerek,"
+  },
+  {
+   "start": 28.14,
+   "end": 32.76,
+   "text": "Bu taqdimat xitnaq üçün isi pestaqi padrolin tukmasini basib, azoraq rungitin otu qoyim."
+  }
+ ],
+ "chars": 561,
+ "chars_per_s": 17.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

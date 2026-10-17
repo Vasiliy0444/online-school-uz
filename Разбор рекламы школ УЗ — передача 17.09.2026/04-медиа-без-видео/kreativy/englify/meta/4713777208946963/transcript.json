@@ -1,0 +1,71 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.94,
+   "text": "Engilisi nin o'rgan moqshimay lakin, yaxshi oqtoshi topolmay apany, kurslarisa judaqimad."
+  },
+  {
+   "start": 3.94,
+   "end": 7.4,
+   "text": "Agar sizdiyan shumamma bolsa, mani aqanda faydalina borshagan bir illomani korstaman."
+  },
+  {
+   "start": 7.4,
+   "end": 10.9,
+   "text": "Engili fayda oz ingiz musaqili oqishchun xama darsilar tartikma tartip sulyan."
+  },
+  {
+   "start": 10.9,
+   "end": 14.16,
+   "text": "Yani, bugun nimi oqiman, qaysi mauzdan borshlimanda botoy shartimaz,"
+  },
+  {
+   "start": 14.16,
+   "end": 16.76,
+   "text": "sizchun oqochari ogani bozkishma bozkish sulyan boladi."
+  },
+  {
+   "start": 16.76,
+   "end": 19.66,
+   "text": "Ba mangi en qizikdi guliyana, xar bir darsda oz video darsigib or,"
+  },
+  {
+   "start": 19.66,
+   "end": 22.4,
+   "text": "ba bushun chaki oqtoshi gapir beradigan oddi video emas."
+  },
+  {
+   "start": 22.4,
+   "end": 27.4,
+   "text": "Darslar qiska seriyal geoxshagan, xizqali videolar okali tsuqyan, shunqu organishqa mzerekevli tuyulmaydi."
+  },
+  {
+   "start": 27.56,
+   "end": 31.54,
+   "text": "Undan da shkari, dars davamda organigan yangi soslarla menin lugatan bolimiga sakla poshchismukun,"
+  },
+  {
+   "start": 31.84,
+   "end": 33.74,
+   "text": "keniz ulanakayda takrolarla muslahkemlaysis."
+  },
+  {
+   "start": 33.98,
+   "end": 37.18,
+   "text": "Shaksan manishun bu kurska borib, qob mablaq sarfaganan ancharzon rok."
+  },
+  {
+   "start": 37.24,
+   "end": 39.94,
+   "text": "Agarsinca xizq bolsa, pastaki xabolar qali roqatda otayin."
+  }
+ ],
+ "chars": 884,
+ "chars_per_s": 22.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

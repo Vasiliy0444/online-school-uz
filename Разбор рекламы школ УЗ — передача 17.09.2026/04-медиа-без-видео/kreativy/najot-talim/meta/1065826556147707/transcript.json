@@ -1,0 +1,396 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.4,
+   "text": "Negi otan izden bu sorumay hapsiz?"
+  },
+  {
+   "start": 1.4,
+   "end": 4.56,
+   "text": "20 yashman boladi, shu agadon bakkallarina rakhmayib."
+  },
+  {
+   "start": 4.56,
+   "end": 6.88,
+   "text": "Indi banla ozi, man Kaminov Ibratpik,"
+  },
+  {
+   "start": 6.88,
+   "end": 8.08,
+   "text": "xarizim la yaskib adam man,"
+  },
+  {
+   "start": 8.08,
+   "end": 11.24,
+   "text": "tatoda 3-nch kurs, akhbarat khasizlik talabasyvan."
+  },
+  {
+   "start": 11.24,
+   "end": 12.84,
+   "text": "Dasturlashdini tallashimay sebeb,"
+  },
+  {
+   "start": 12.84,
+   "end": 14.44,
+   "text": "mana agalarim, yani ekalarim,"
+  },
+  {
+   "start": 14.44,
+   "end": 16.48,
+   "text": "dostlarim am dasturchi,"
+  },
+  {
+   "start": 16.48,
+   "end": 18.12,
+   "text": "turadan tavsiyalib biray geyyan man,"
+  },
+  {
+   "start": 18.12,
+   "end": 20.36,
+   "text": "dasturlashdini tallashimay sebebese,"
+  },
+  {
+   "start": 20.36,
+   "end": 21.84,
+   "text": "ozymda qizik ish bogan,"
+  },
+  {
+   "start": 21.84,
+   "end": 23.8,
+   "text": "ozymni kishina qayamanba,"
+  },
+  {
+   "start": 23.8,
+   "end": 24.96,
+   "text": "startab atsam,"
+  },
+  {
+   "start": 24.96,
+   "end": 27.0,
+   "text": "halka kopinche faydam degedib,"
+  },
+  {
+   "start": 27.0,
+   "end": 27.64,
+   "text": "Oylat durqma."
+  },
+  {
+   "start": 27.76,
+   "end": 28.28,
+   "text": "Menem shu,"
+  },
+  {
+   "start": 28.46,
+   "end": 29.54,
+   "text": "uzarimizin xalkimiza"
+  },
+  {
+   "start": 29.54,
+   "end": 30.28,
+   "text": "xizmet atadum."
+  },
+  {
+   "start": 30.38,
+   "end": 31.26,
+   "text": "Yechi bu manda,"
+  },
+  {
+   "start": 31.36,
+   "end": 32.56,
+   "text": "CTL-den transizasiya"
+  },
+  {
+   "start": 32.56,
+   "end": 33.26,
+   "text": "ekken vaxti"
+  },
+  {
+   "start": 33.26,
+   "end": 34.68,
+   "text": "faytsiz doladum."
+  },
+  {
+   "start": 34.9,
+   "end": 35.9,
+   "text": "Xalkimiza faytas ediyo"
+  },
+  {
+   "start": 35.9,
+   "end": 36.2,
+   "text": "yadum."
+  },
+  {
+   "start": 36.28,
+   "end": 37.04,
+   "text": "Bir start-up-et"
+  },
+  {
+   "start": 37.04,
+   "end": 37.42,
+   "text": "chekmish."
+  },
+  {
+   "start": 37.6,
+   "end": 37.8,
+   "text": "Dur,"
+  },
+  {
+   "start": 37.9,
+   "end": 38.36,
+   "text": "oya uchun"
+  },
+  {
+   "start": 38.36,
+   "end": 39.32,
+   "text": "bita kasi chok buyilir."
+  },
+  {
+   "start": 41.22,
+   "end": 42.42,
+   "text": "Shunaka videola chikarsiya"
+  },
+  {
+   "start": 42.42,
+   "end": 43.24,
+   "text": "adamna xorazin"
+  },
+  {
+   "start": 43.24,
+   "end": 44.18,
+   "text": "guc di boz yapdi da."
+  },
+  {
+   "start": 44.24,
+   "end": 45.18,
+   "text": "Hiva guc di boz"
+  },
+  {
+   "start": 45.18,
+   "end": 45.64,
+   "text": "koyamami."
+  },
+  {
+   "start": 45.72,
+   "end": 46.1,
+   "text": "Kirlariz,"
+  },
+  {
+   "start": 46.14,
+   "end": 46.56,
+   "text": "azurlariz,"
+  },
+  {
+   "start": 46.62,
+   "end": 47.28,
+   "text": "men yucu di yaqdi."
+  },
+  {
+   "start": 47.4,
+   "end": 47.64,
+   "text": "Kin,"
+  },
+  {
+   "start": 47.74,
+   "end": 48.34,
+   "text": "ozum azir,"
+  },
+  {
+   "start": 48.54,
+   "end": 49.06,
+   "text": "ne misilini"
+  },
+  {
+   "start": 49.06,
+   "end": 50.38,
+   "text": "başlangis tarizida bilamin"
+  },
+  {
+   "start": 50.38,
+   "end": 51.78,
+   "text": "hazirda Yermaniyada giber"
+  },
+  {
+   "start": 51.78,
+   "end": 52.46,
+   "text": "universitetgi"
+  },
+  {
+   "start": 52.46,
+   "end": 52.96,
+   "text": "ishe"
+  },
+  {
+   "start": 52.96,
+   "end": 53.58,
+   "text": "freelancer"
+  },
+  {
+   "start": 53.58,
+   "end": 54.08,
+   "text": "ishe"
+  },
+  {
+   "start": 54.08,
+   "end": 54.96,
+   "text": "suravtashak koripman"
+  },
+  {
+   "start": 54.96,
+   "end": 56.26,
+   "text": "görb cikib turqmiz ziradili"
+  },
+  {
+   "start": 56.26,
+   "end": 57.82,
+   "text": "saatun 12 dollordan"
+  },
+  {
+   "start": 57.82,
+   "end": 58.96,
+   "text": "40 dollara anum bogan"
+  },
+  {
+   "start": 58.96,
+   "end": 60.62,
+   "text": "egin mabu oksham elsi yami zarari yok"
+  },
+  {
+   "start": 60.62,
+   "end": 61.38,
+   "text": "kitab okuturasi mi?"
+  },
+  {
+   "start": 61.38,
+   "end": 61.88,
+   "text": "aqat"
+  },
+  {
+   "start": 61.88,
+   "end": 62.86,
+   "text": "oqag yox yany kitab iz qaysa?"
+  },
+  {
+   "start": 62.86,
+   "end": 63.7,
+   "text": "Dale Carnegie"
+  },
+  {
+   "start": 63.7,
+   "end": 64.2,
+   "text": "Dost"
+  },
+  {
+   "start": 64.2,
+   "end": 64.9,
+   "text": "Arttirish"
+  },
+  {
+   "start": 64.9,
+   "end": 66.52,
+   "text": "vay adamlargi tasirot kesish"
+  },
+  {
+   "start": 66.52,
+   "end": 67.5,
+   "text": "unna avin yana qays kitab?"
+  },
+  {
+   "start": 67.5,
+   "end": 67.92,
+   "text": "uf"
+  },
+  {
+   "start": 67.92,
+   "end": 68.42,
+   "text": "ramam"
+  },
+  {
+   "start": 68.42,
+   "end": 68.82,
+   "text": "Saydi Akhmad"
+  },
+  {
+   "start": 68.82,
+   "end": 70.3,
+   "text": "tabi okukiz okuturarkan sisi"
+  },
+  {
+   "start": 70.3,
+   "end": 70.82,
+   "text": "yaa"
+  },
+  {
+   "start": 70.82,
+   "end": 71.9,
+   "text": "mizgi mutalani"
+  },
+  {
+   "start": 71.9,
+   "end": 73.18,
+   "text": "biriyilik premiums oqagilima"
+  },
+  {
+   "start": 73.18,
+   "end": 73.78,
+   "text": "aqat"
+  },
+  {
+   "start": 79.06,
+   "end": 80.06,
+   "text": "qana qabayz suyliyis?"
+  },
+  {
+   "start": 80.06,
+   "end": 83.06,
+   "text": "qokushin abiyyatda, abiyyatdan kiyn, geychda, isliy min"
+  },
+  {
+   "start": 83.06,
+   "end": 83.56,
+   "text": "hayir da?"
+  },
+  {
+   "start": 83.56,
+   "end": 84.06,
+   "text": "chayqana da"
+  },
+  {
+   "start": 84.06,
+   "end": 86.06,
+   "text": "sizi shu ostridim mi dhiy man, suqadilashita, qabda qabda?"
+  },
+  {
+   "start": 86.06,
+   "end": 87.06,
+   "text": "shu ketda yardan mardan"
+  },
+  {
+   "start": 87.06,
+   "end": 91.06,
+   "text": "shu azar kursin yarmani pulun turak qoyqman, yarmani tapin chan, buda qalasa xoq"
+  },
+  {
+   "start": 91.06,
+   "end": 93.06,
+   "text": "negi otorizm pusuramay apsiz?"
+  },
+  {
+   "start": 93.06,
+   "end": 97.06,
+   "text": "20 yasqman, buladi shu akadon bakkallarina raqmay, indi baninla özü"
+  },
+  {
+   "start": 97.06,
+   "end": 99.06,
+   "text": "oman zidiyorsin, tanishiyan da xursan ma, otorizm ge rahmat"
+  }
+ ],
+ "chars": 1725,
+ "chars_per_s": 16.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

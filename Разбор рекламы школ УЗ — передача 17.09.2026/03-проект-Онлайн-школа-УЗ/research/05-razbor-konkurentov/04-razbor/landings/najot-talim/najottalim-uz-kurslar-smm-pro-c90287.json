@@ -1,0 +1,137 @@
+{
+ "url": "https://najottalim.uz/kurslar/smm-pro",
+ "school_id": "najot-talim",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "основной продукт",
+ "builder": "Next.js",
+ "pixels": [
+  "Google Analytics (GA4)"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Изучите SMM у специалистов: освойте профессию за короткий срок и выйдите на доход",
+  "quote": "SMM sohasini mutaxassislardan oʻrganing\nQisqa muddatda kasb oʻrganib, daromadga chiqing!",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": true,
+  "value": "Средний месячный доход выпускников: самый низкий $300, средний $600, самый высокий $1500 (самоотчёт)",
+  "quote": "Bitiruvchilarning oʻrtacha oylik daromadi\nEng past maosh\n$300\nOʻrtacha maosh\n$600\nEng yuqori maosh\n$1500",
+  "where": "середина"
+ },
+ "audience": {
+  "found": true,
+  "value": "6 сегментов: кто хочет получить современную профессию; сменить профессию; быстро освоить профессию и выйти на доход; укрепить знания в SMM; получить дополнительный источник дохода; развивать свой бизнес через интернет",
+  "quote": "Bu kurs kimlar uchun?\nZamonaviy kasb egallamoqchi boʻlganlar",
+  "where": "середина"
+ },
+ "program": {
+  "found": true,
+  "modules": 3,
+  "duration": "4 месяца, 3 дня в неделю по 2 часа",
+  "format": "офлайн",
+  "quote": "4 oy · haftada 3 kun · 2 soat"
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [
+   "видеоотзывы",
+   "логотипы работодателей"
+  ],
+  "reviews_count": 11,
+  "count_claim": "«marketing yoʻnalishi bitiruvchilarining 95% qismi oʻz ish oʻrinlariga ega boʻlgan» («ochiq maʼlumotlarga koʻra», без источника) — самоотчёт"
+ },
+ "price": {
+  "found": true,
+  "tariffs": [
+   {
+    "name": "Toshkent shahri — помесячно",
+    "price_uzs": 2200000,
+    "period": "в месяц (курс 4 мес.)",
+    "quote": "Toshkent shahri\nMashhur\n2 200 000 soʻm/ oyiga"
+   },
+   {
+    "name": "Toshkent shahri — «Ikkiga boʻlib»",
+    "price_uzs": 4180000,
+    "period": "за каждый из 2 платежей (по арифметике страницы)",
+    "quote": "Ikkiga boʻlib4 180 000 soʻm (440 ming tejaysiz)"
+   },
+   {
+    "name": "Toshkent shahri — «Bittada toʻliq»",
+    "price_uzs": 7920000,
+    "period": "разово за весь курс",
+    "quote": "Bittada toʻliq7 920 000 soʻm (880 ming tejaysiz)"
+   },
+   {
+    "name": "Viloyatlar uchun — помесячно",
+    "price_uzs": 1350000,
+    "period": "в месяц (курс 4 мес.)",
+    "quote": "Viloyatlar uchun\n1 350 000 soʻm/ oyiga"
+   },
+   {
+    "name": "Viloyatlar uchun — «Ikkiga boʻlib»",
+    "price_uzs": 2565000,
+    "period": "за каждый из 2 платежей (по арифметике страницы)",
+    "quote": "Ikkiga boʻlib2 565 000 soʻm (270 ming tejaysiz)"
+   },
+   {
+    "name": "Viloyatlar uchun — «Bittada toʻliq»",
+    "price_uzs": 4860000,
+    "period": "разово за весь курс",
+    "quote": "Bittada toʻliq4 860 000 soʻm (540 ming tejaysiz)"
+   },
+   {
+    "name": "Fargʻona — помесячно",
+    "price_uzs": 1500000,
+    "period": "в месяц (курс 4 мес.)",
+    "quote": "Fargʻona\n1 500 000 soʻm/ oyiga"
+   },
+   {
+    "name": "Fargʻona — «Ikkiga boʻlib»",
+    "price_uzs": 2850000,
+    "period": "за каждый из 2 платежей (по арифметике страницы)",
+    "quote": "Ikkiga boʻlib2 850 000 soʻm (300 ming tejaysiz)"
+   },
+   {
+    "name": "Fargʻona — «Bittada toʻliq»",
+    "price_uzs": 5400000,
+    "period": "разово за весь курс",
+    "quote": "Bittada toʻliq5 400 000 soʻm (600 ming tejaysiz)"
+   }
+  ]
+ },
+ "installments": {
+  "found": true,
+  "value": "Явное деление платежа: «Ikkiga boʻlib» — курс двумя платежами (в Ташкенте по 4 180 000 сум за платёж — по арифметике страницы). Рассрочки через банк или сервис (Uzum Nasiya, Alif) нет.",
+  "quote": "Ikkiga boʻlib4 180 000 soʻm (440 ming tejaysiz)",
+  "where": "низ страницы"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": true,
+  "value": "Скидки за способ оплаты во всех ценовых зонах (Toshkent shahri, Viloyatlar uchun, Fargʻona): двумя платежами («Ikkiga boʻlib») — экономия 440 000 сум, целиком («Bittada toʻliq») — 880 000 сум (цифры Ташкента); также грант Агентства по делам молодёжи «Kelajak kasblari»: если заявку одобрят, оплату курса покрывают — до 6 месяцев, до 1 млн 300 тыс. сум",
+  "quote": "Ikkiga boʻlib4 180 000 soʻm (440 ming tejaysiz)\nBittada toʻliq7 920 000 soʻm (880 ming tejaysiz) … Yoshlar ishlari agentligining \"Kelajak kasblari\" granti asosida oʻqishingiz mumkin. Ariza tasdiqlansa, 6 oygacha 1 mln 300 minggacha kurs toʻlovi qoplab beriladi.",
+  "where": "низ страницы"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "notes": "По арифметике страницы: Toshkent shahri: 4 × 2 200 000 = 8 800 000; 2 × 4 180 000 = 8 360 000 (экономия 440 000); разово 7 920 000 (экономия 880 000) | Viloyatlar uchun: 4 × 1 350 000 = 5 400 000; 2 × 2 565 000 = 5 130 000 (экономия 270 000); разово 4 860 000 (экономия 540 000) | Fargʻona: 4 × 1 500 000 = 6 000 000; 2 × 2 850 000 = 5 700 000 (экономия 300 000); разово 5 400 000 (экономия 600 000). Доход — самоотчёт: $300 ≈ 3 529 500 сум, $600 ≈ 7 059 000 сум, $1500 ≈ 17 647 500 сум. Программа: «1-boʻlim. Marketing va ijtimoiy tarmoqlarga kirish» (7 тем), «2-boʻlim. Kontent tayyorlash» (6), «3-boʻlim. Reklama va boshqaruv» (6); lessons не заполнено — на странице темы («mavzu»), а не уроки. Три ценовые зоны: «Toshkent shahri» (метка «Mashhur»), «Viloyatlar uchun», «Fargʻona». В FAQ противоречие: «SMM Pro bitiruvchilariga ish taklif qilinadimi? Ish taklif qilinmaydi» — и ниже общий ответ про предложение работы на условиях. В объявлениях Meta про SMM в Хорезме (ведут на мгновенные формы, не на сайт) — бесплатное повторное обучение в течение 2 лет при недовольстве результатом и сентябрьские бонусы; на странице этого нет. Помесячная оплата («soʻm/ oyiga») — базовая цена обучения, по правилу не рассрочка. Видео «Bitiruvchi video-hikoyasi» (11) и 63 логотипа «Bitiruvchilarimiz ish joylari» одинаковые на всех страницах курсов — не про конкретный курс. Гарантии нет; в общем FAQ: «maʼlum shartlar asosida ish taklifi beriladi» (условия не раскрыты). Публичная оферта сайта (najottalim.uz/documents/oferta-nt.pdf, разбор — oferta-najottalim-uz-documents-oferta-nt-pdf-2d28fc.json) условий оплаты частями и возврата денег не содержит: она про бесплатные материалы онлайн-платформы, для платного обучения — отдельный договор (п. 2.2). Формат «офлайн» — вывод по странице: цены разные по филиалам/регионам и в FAQ перечислены филиалы; слова «oflayn» на странице нет. Кнопки «Roʻyxatdan oʻtish» в тексте без ссылки — видимо, открывают всплывающую форму; её полей в снимке нет, форму не открывали, поэтому fields не заполнены. Следующий шаг «звонок менеджера» — по форме на главной («biz siz bilan bogʻlanamiz»), на самой странице курса прямо не сказано. Скриншот (один кадр 390×844) показывает финальный призыв и подвал, а не первый экран — «первый экран» определён по порядку текста в page.md."
+}

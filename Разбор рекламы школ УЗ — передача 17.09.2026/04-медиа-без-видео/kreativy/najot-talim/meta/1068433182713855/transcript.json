@@ -1,0 +1,156 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.66,
+   "text": "Biznistaki en muhum nazaradan birisi, hadimlani köprak nersaya bilimlere ege bolusliki."
+  },
+  {
+   "start": 5.02,
+   "end": 9.5,
+   "text": "Masal uçan itim, özüm män tadbir karman, kassada koygan, yadi muhaliya boyca koygan adam yavulmasan,"
+  },
+  {
+   "start": 9.76,
+   "end": 14.58,
+   "text": "rahbar hadimlarim, kompüter saotkalli köp posa, män işimi unundarlikam köp bolad."
+  },
+  {
+   "start": 14.74,
+   "end": 19.22,
+   "text": "Tezrak sifatli kliniplara, rujazlara, xizma görsetib bolamish uçun,"
+  },
+  {
+   "start": 19.54,
+   "end": 23.58,
+   "text": "köpçilik e teklif atikam bolad, hämmeye, ondan tashkari, kolunda binisi ba,"
+  },
+  {
+   "start": 23.58,
+   "end": 28.86,
+   "text": "yadi muhaliya boyca, rahbar hadimlari köp boğan biznistlere teklif atikam bolad."
+  },
+  {
+   "start": 28.86,
+   "end": 30.58,
+   "text": "Khadimlarini, kompüter sahod xalliklarini,"
+  },
+  {
+   "start": 30.58,
+   "end": 32.18,
+   "text": "asirish boyce teklifi vergen bolardim."
+  },
+  {
+   "start": 32.18,
+   "end": 34.86,
+   "text": "Chunkki, bi, elbetta bihisi uchun gerek va fayda."
+  },
+  {
+   "start": 34.86,
+   "end": 36.86,
+   "text": "Bar neche, vaksiz tecidi va,"
+  },
+  {
+   "start": 36.86,
+   "end": 39.58,
+   "text": "malevi sarf kharacadlani kem etirisi de seveb bolad."
+  },
+  {
+   "start": 39.58,
+   "end": 41.5,
+   "text": "Bu boyce xarazini, urgen shahrinda,"
+  },
+  {
+   "start": 41.5,
+   "end": 42.82,
+   "text": "Necet Darlanma fili aliba."
+  },
+  {
+   "start": 42.82,
+   "end": 44.82,
+   "text": "Shunda, kompüter sahod xallik boyce,"
+  },
+  {
+   "start": 44.82,
+   "end": 46.5,
+   "text": "alaqida derslari bak, kurslari bak."
+  },
+  {
+   "start": 46.5,
+   "end": 47.62,
+   "text": "Uyeda, 3 ay davaminda,"
+  },
+  {
+   "start": 47.62,
+   "end": 48.46,
+   "text": "haftada 3 gun,"
+  },
+  {
+   "start": 48.46,
+   "end": 49.38,
+   "text": "bi, malali gelib,"
+  },
+  {
+   "start": 49.38,
+   "end": 51.74,
+   "text": "kompüter boyce sahodlarini chikarsala bolad,"
+  },
+  {
+   "start": 51.74,
+   "end": 53.68,
+   "text": "və işlərinə tatbik qılsalab olad."
+  },
+  {
+   "start": 53.68,
+   "end": 54.86,
+   "text": "Azər gu vaxtda aynyqsa,"
+  },
+  {
+   "start": 54.86,
+   "end": 56.62,
+   "text": "kompütyur sohbatxalliki bu adam"
+  },
+  {
+   "start": 56.62,
+   "end": 60.3,
+   "text": "ansatrak və tezrak köprak bulutabshi ixtimalli baliq uçun"
+  },
+  {
+   "start": 60.3,
+   "end": 62.62,
+   "text": "bu uqrsta, bu kursda uqsicilarizni"
+  },
+  {
+   "start": 62.62,
+   "end": 64.62,
+   "text": "həm farizatlarizi, həm biznisi ilgiyalari"
+  },
+  {
+   "start": 64.62,
+   "end": 66.62,
+   "text": "hadimlan uqsicilani tavsiya qilgani bolar adim."
+  },
+  {
+   "start": 66.62,
+   "end": 68.62,
+   "text": "Kurs aqqinda, eger sizde togitarak malumat gerik bu adamıza,"
+  },
+  {
+   "start": 68.62,
+   "end": 70.3,
+   "text": "shupasitaginda, omolayati, lifon qilganizla"
+  },
+  {
+   "start": 70.3,
+   "end": 71.66,
+   "text": "istara baxirucaya shumdir adilad."
+  }
+ ],
+ "chars": 1358,
+ "chars_per_s": 18.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

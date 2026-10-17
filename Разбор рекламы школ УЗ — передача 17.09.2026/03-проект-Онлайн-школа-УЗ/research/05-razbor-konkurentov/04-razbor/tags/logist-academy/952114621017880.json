@@ -1,0 +1,100 @@
+{
+ "creative_id": "952114621017880",
+ "platform": "meta",
+ "school_id": "logist-academy",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "DEKLARATSIYA: BIR YARIM OY ICHIDA ONLAYN YOKI OFFLAYN...",
+  "types": [
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s: крупно «DEKLORATSIYA» (опечатка, без «A»); девушка в студии на жёлтом фоне с лого LOGIST ACADEMY",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.5s–2.0s: бейдж «DEKLARATSIYA: BIR YARIM OY ICHIDA»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.5s: бейдж «ONLAYN YOKI OFFLAYN» + иконка ноутбука с академической шапочкой",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Deklaratsiya. Bir yarum ay uchida online yoki offline okup deklarant kaspini egelin.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "быстрый старт"
+  ],
+  "income_claim": "800$ va undan yuqori (oyiga)",
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "800$ va undan yuqori daromad topishni istaysizmi?"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:22: «OYIGA $800 DOLLAR»",
+    "timecode": "00:22"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:20] Khayit kenchi, deklarantlar oyege 800 dolar va undan koproq daromat tapshadi.",
+    "timecode": "00:20"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный урок"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Hoziroq bepul ochiq darsga yoziling"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:31: «OCHIQ DARSIMIZGA YOZILISHI UCHUN» + иконка регистрации",
+    "timecode": "00:31"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Apply now",
+  "in_creative": "написать в директ",
+  "destination": "форма Meta",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук построен на бейдже-подписи, которая собирается по словам в первые 2.5с («DEKLARATSIYA:» → «BIR YARIM OY ICHIDA» → «ONLAYN YOKI OFFLAYN»); в самом первом кадре крупным шрифтом слово с опечаткой «DEKLORATSIYA» (без «A»), это буквально так на кадре. Перевод хука: «Декларация: за полтора месяца онлайн или офлайн...» (дальше по расшифровке — «...izучите профессию декларанта»). Спикер — девушка-ведущая на фирменном жёлтом фоне LOGIST ACADEMY, не названа по имени и не представлена как эксперт/ученица, поэтому роль — «актёр или ведущий». Финальный призыв по расшифровке [00:29] «Bebul ociqdarsimizgi yaziluschun, dairektan mrojadqilin» = «для записи на бесплатный открытый урок обращайтесь в директ» — конец ролика не в кадрах обзора, но виден в расшифровке (черновая, но фраза разборчива), поэтому cta.in_creative не «неизвестно». Тип хука неоднозначен: это не вопрос/боль/соцдоказательство, а прямое объявление темы+срока — отнёс к «цифра» (полтора месяца) за неимением более точной категории в схеме."
+}

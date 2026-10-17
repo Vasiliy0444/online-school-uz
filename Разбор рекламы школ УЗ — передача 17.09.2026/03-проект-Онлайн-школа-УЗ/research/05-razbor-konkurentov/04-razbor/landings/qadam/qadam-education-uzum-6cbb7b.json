@@ -1,0 +1,98 @@
+{
+ "url": "https://qadam.education/uzum",
+ "school_id": "qadam",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "основной продукт",
+ "builder": "Tilda",
+ "pixels": [
+  "Meta Pixel",
+  "Google Analytics (GA4)",
+  "Google Tag Manager",
+  "Яндекс.Метрика"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Научиться торговать на Uzum Market с нуля и зарабатывать $2000 в месяц",
+  "quote": "Uzum Marketda savdo qilishni 0 dan o'rganib, oyiga $2000 daromad toping!",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": true,
+  "value": "Доход $2000 в месяц — обещание в заголовке первого экрана (не цена курса), без источника",
+  "quote": "Uzum Marketda savdo qilishni 0 dan o'rganib, oyiga $2000 daromad toping!",
+  "where": "первый экран"
+ },
+ "audience": {
+  "found": true,
+  "value": "Кому подходит (список «…sizga to’g’ri keladi, agar siz…», 12 пунктов): производители и продавцы, которые хотят онлайн-продаж; новички, которые хотят профессию с нуля; кто хочет свободный график и финансовую свободу; женщины, совмещающие заработок с семьёй; работа из дома; недовольные работой и зарплатой; кто давно хочет начать бизнес",
+  "quote": "Marketplace’da savdo qilish sizga to’g’ri keladi, agar siz…\nRaqobatchilaringizdan o’tib ketish uchun onlayn savdoni ham yo’lga qo’ying va yetakchilikni qo’lga oling\nHozirda mahsulot ishlab chiqazasiz va savdoingizni yanada ko’paytirmoqchi bo’lsangiz\nZamonaviy kasbni 0 dan o’rganmoqchi bo’lsangiz\nErkin ish grafiki va moliyaviy erkinlikni xohlasangiz\nKelajakda talab kuchli bo’lgan kasbni o’rganib soha mutaxassisiga aylanasiz\nNechidan nechigacha ishlashingiz va qancha ko’p pul topishingiz o’zingizga bog’liq\nYangi sohani o’rganib, o’zingiz va oilangiz xohlagan narsalarni xarid qila olasiz\nBarcha kerakli ko’nikmalarni o’rganib, boshqa bir odamga emas balki o’zingizga o’zingiz ishlay olasiz\nAyol kishi bo’lib turib, oilangizni maksimal vaqt ajratgan holda o’zingiz uchun daromad qila olasiz\nUydan chiqmasdan turib yoki istalgan joydan ishlashni xohlasangiz\nHozirgi ishingizdan va oyligingizda qoniqmayotgan bo’lsangiz\nTadbirkorlikni anchadan beri boshlamoqchi bo’lib yurgan bo’lsangiz",
+  "where": "середина"
+ },
+ "program": {
+  "found": true,
+  "format": "гибрид",
+  "quote": "Darslar qayerda o‘tiladi va qanday formatda?\nOnline darslar — maxsus platformamizda. Offline darslar — ofisimizda, guruhli yoki individual formatda. Ofisimiz manzili: Afrosiyob, 2"
+ },
+ "speaker": {
+  "found": true,
+  "value": "Два спикера-селлера (самоотчёт): Xayrullayev Sarvar — 3 года на маркетплейсах, общий оборот 5 млрд сум, 6 лет в торговле, 3 своих и 2 партнёрских магазина, 300 млн сум оборота в месяц; Rajabboyev Muhammad — 2 года на маркетплейсах, оборот 4 млрд сум, 20 своих и 4 партнёрских магазина, 500 млн сум в месяц",
+  "quote": "Kurs spikerlari haqida\nXayrullayev Sarvar\nMarketplace'larda 3 yillik tajriba\nJami aylanma 5 milliard so'm\nSavdo sohasida: 6 yillik tajriba\nMarketing va online sotuvlar: 3 yillik tajriba\n3 ta faol do’kon egasi\n2 ta sherikchilik do’konlari\n300 million oylik aylanmaga ega sotuvchi\nRajabboyev Muhammad\nMarketplace'larda 2 yillik tajriba\nJami aylanma 4 milliard so'm\nSavdo sohasida: 4 yillik tajriba\n20 ta faol do’kon egasi\n4 ta sherikchilik do’kon\nOylik aylanma 500 million so’mga ega sotuvchi",
+  "where": "середина"
+ },
+ "social_proof": {
+  "types": [
+   "текстовые отзывы"
+  ],
+  "reviews_count": 18
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "цены на странице нет; вместо неё квиз из 7 вопросов и телефон для обратной связи («qayta aloqaga chiqishimiz uchun telefon raqamingizni yuboring»)"
+ },
+ "installments": {
+  "found": true,
+  "value": "Рассрочка через партнёров: Uzum nasiya, Alif nasiya, PayMe nasiya, Imanum; «без процентов и пени» — слова школы, условия (срок, число платежей) не раскрыты",
+  "quote": "Hozir bittada to’lashga pulim yo’q edi, bo’lib to’lash imkoniyati bormi?\nHa, albatta! Biz Uzum nasiya, Alif nasiya, PayMe nasiya, Imanum kabi korxonalar bilan rasmiy ishlaymiz. Barchasi foiz va penyasiz!",
+  "where": "низ страницы"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "квиз-вопросы",
+   "возраст",
+   "телефон"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "message_match": {
+  "library_id": "1412400947038266",
+  "scores": {
+   "promise_continuity": 7,
+   "language_match": 6,
+   "visual_continuity": 4,
+   "cta_alignment": 7,
+   "specificity_match": 8,
+   "emotional_match": 6
+  },
+  "total_of_60": 38
+ },
+ "notes": "Базовая страница курса (first_seen 2024-05-25 — самая старая из вариантов; title «Uzum Market Chilla»). Текст совпадает с uzum-inomarka-v5, кроме двух вопросов квиза: здесь «5. Uzumda daromad qilish uchun o'qishga vaqt ajratishga tayyormisiz?» и «6. Natijaga chiqish uchun sizdan bilim, amaliy harakat va sarmoya kerakligini tushunyapsizmi?» (в v5 — с «mablag' va vaqt» и «talab qilinishini tushunasizmi?»). uzum-custdev (отдельного файла нет) = эта страница + кнопка первого экрана «Bepul konsultatsiya» и якорь #rec2211031163; 3 объявления UZUM_KASTDEV с 28.04, ранг 21. Полное сравнение 11 вариантов — в notes qadam-education-uzum-inomarka-v5-d75890.json. Реклама этой страницы: 4 объявления — UZUM_CASE_KVAL2 V1/V5/V6 (с 01–07.02.2026, 222–228 дней — долгожители, ранг 8) и UZUM_IWASH_M V3 (с 27.08). Этап «основной продукт»; stage_auto «оферта или оплата» — из-за ссылки на оферту в подвале. Цены нет, после квиза — обратный звонок; гарантии, скидок, бонусов, дедлайна нет. FAQ: рассрочка через Uzum nasiya, Alif nasiya, PayMe nasiya, Imanum «foiz va penyasiz»; нужен компьютер; стартовый капитал «ENG KAMI $400» (≈ 4 706 000 сум). «$2000» ≈ 23 530 000 сум — обещание дохода, не цена. Цифры спикеров — самоотчёт. 18 картинок «O’quvchilarimiz fikri» в текстовом снимке не видны (тип отзывов условный). message_match: объявление 1412400947038266 (ранг 8, 228 дней; текст «🚀 Uzumda o'z biznesingizni xavf-xatarsiz yo'lga qo'ying! … ✅ Arizangizni hoziroq topshiring…», CTA «Learn more»). В ролике (черновая расшифровка) — кейс ученика, затем автор курса представляется: больше 5 млрд сум оборота на маркетплейсах, 3 года опыта «bitta amaliy kursga yig'dim»; обещает научить с открытия магазина до автоматизации продаж; «yangi guruhlarimizga qabul ochiq, lekin joylar soni cheklangan», «hoziroq ariza qoldiring»; на экране «MAHSULOTLARNI TANLAB», «JOYLAR SONI CHEKLANGAN». На странице тот же спикер с «Jami aylanma 5 milliard so'm» и «3 yillik tajriba» — сильное совпадение по фактам; нет «xavf-xatarsiz», правовых вопросов из текста объявления и ограничения мест, а первый экран — иллюстрация, а не спикер. Скриншот — прокрученный первый экран (заголовок про $2000, «Kursga yozilish»)."
+}

@@ -1,0 +1,26 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.32,
+   "text": "Unik yoshki bola, nimalar klo olish kerek."
+  },
+  {
+   "start": 2.32,
+   "end": 13.34,
+   "text": "Oz oyini yaradishi, dizayn klo olishi, web site yaradishi, dasurlasini organishi, telegram blog yaradishi, bularini barcasa IT Kids kursinizi amali tarzi orgetirinladi."
+  },
+  {
+   "start": 13.68,
+   "end": 18.12,
+   "text": "Xodru komentariyadi kit sozni os podirin, fa operatirlarimiz soz bilan boğlanishadi."
+  }
+ ],
+ "chars": 296,
+ "chars_per_s": 16.2,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,73 @@
+{
+ "creative_id": "1045895048137213",
+ "platform": "meta",
+ "school_id": "hbs-academy",
+ "format": {
+  "type": "динамическое (DCO)",
+  "duration_bucket": "не видео",
+  "aspect": "4:5"
+ },
+ "style": [
+  "статичный дизайн",
+  "постановка или скетч"
+ ],
+ "hook": {
+  "verbatim": "Ayollar uchun maxsus taklif",
+  "types": [
+   "обращение к сегменту",
+   "страх упустить"
+  ],
+  "visual": [
+   "крупный текст",
+   "лицо в первом кадре",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: розовый заголовок «Ayollar uchun maxsus taklif»; девушка в красной куртке и солнцезащитных очках тянется рукой к камере, хватая билет с текстом «Imtiyozli narxda kunduzgi guruhlarda tradingni o'rganing / Format: offline»"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "💰 Daromadingizni oshirish vaqti keldi! Asosiy ishingizni davom ettirgan holda ham investitsiya va treydingni o'rganishingiz mumkin."
+   },
+   {
+    "source": "текст объявления",
+    "quote": "📚 Oddiy tushuntirishlar. 👩‍🏫 Amaliy mashg'ulotlar."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "скидка"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg (билет в руке): «Imtiyozli narxda kunduzgi guruhlarda tradingni o'rganing. Format: offline»"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "нет призыва",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "никого"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": true,
+ "confidence": "высокая",
+ "notes": "risk = true по правилу инструкции для трейдинга и инвестиций (приведено к одному виду 17.09). Другой визуальный концепт, чем «цветочные» картинки этой же порции (1033564622652278 и т.п.): постановочное фото девушки, тянущейся за билетом-предложением — визуальная метафора «успей ухватить». Заголовок на картинке тот же слоган «Ayollar uchun maxsus taklif», но текст объявления другой (ближе к семье 2105686263397971/2067259530561151... нет — здесь свой вариант: «Daromadingizni oshirish vaqti keldi!», совпадает с 2105686263397971 и 1062468726323342). Девушка на фото — постановочная модель, не идентифицирована и не говорит, поэтому speaker.role «никого», а не «блогер»/«ученик»."
+}

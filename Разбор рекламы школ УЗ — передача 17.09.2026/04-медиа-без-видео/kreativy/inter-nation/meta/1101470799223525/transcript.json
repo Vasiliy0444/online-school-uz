@@ -1,0 +1,61 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.78,
+   "text": "Aygi 11 minyon somgeche daromad alishni xoklaysis mi?"
+  },
+  {
+   "start": 3.0,
+   "end": 4.98,
+   "text": "Yosh, siz, katta maksatlariniz bo?"
+  },
+  {
+   "start": 5.12,
+   "end": 6.78,
+   "text": "Va adamlarini basharishni bilasis mi?"
+  },
+  {
+   "start": 7.04,
+   "end": 9.68,
+   "text": "Man Mr. Fazil, ingilisili va Aylsoqlu markazi,"
+  },
+  {
+   "start": 10.0,
+   "end": 11.8,
+   "text": "International HR Directori man."
+  },
+  {
+   "start": 12.0,
+   "end": 13.36,
+   "text": "Tashkinda ge energege bay,"
+  },
+  {
+   "start": 13.64,
+   "end": 14.88,
+   "text": "va faal namzatlar uchun,"
+  },
+  {
+   "start": 15.12,
+   "end": 17.12,
+   "text": "administrator la vazimge bakan sorsmakti man."
+  },
+  {
+   "start": 17.26,
+   "end": 19.06,
+   "text": "Agar man bilan subatki tayor bolsanyiz,"
+  },
+  {
+   "start": 19.18,
+   "end": 20.92,
+   "text": "ushbu xawal orqali arizi qaldirin."
+  }
+ ],
+ "chars": 378,
+ "chars_per_s": 14.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

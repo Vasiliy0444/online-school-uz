@@ -1,0 +1,41 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.32,
+   "text": "Tajribali sato menajirsiz, liki aylik isko tarshim yaptim, undu bu video aynan siz uqun."
+  },
+  {
+   "start": 4.46,
+   "end": 7.88,
+   "text": "Qadam ediki shini sato bolimi gi tajribali menajirlar gereg."
+  },
+  {
+   "start": 8.06,
+   "end": 14.42,
+   "text": "Talabli addi, 19 yoshdan qadda bolishiz, toshken shakhri yoki biloyatda ishishiz, va kamida 6 ay tajribiz bolish kereg."
+  },
+  {
+   "start": 14.62,
+   "end": 18.66,
+   "text": "Ish grafigi irtalabki saat 10-dan, kechki saat 7 gece, va haftasigi 1 kundam."
+  },
+  {
+   "start": 18.78,
+   "end": 23.92,
+   "text": "Bizdi menajirlarimiz ortachi 3 ayda 6-7 milion, va 6 ayda isi 10-12 milion top yapdi."
+  },
+  {
+   "start": 24.16,
+   "end": 26.52,
+   "text": "Taklifimiz qizubisi, khaziroq ariza qaldirin."
+  }
+ ],
+ "chars": 479,
+ "chars_per_s": 17.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

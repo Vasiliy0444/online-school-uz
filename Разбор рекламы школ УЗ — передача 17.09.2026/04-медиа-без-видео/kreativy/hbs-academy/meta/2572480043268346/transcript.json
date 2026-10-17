@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.32,
+   "text": "Buliyyih dis, enduni, shun chaki saklaxamiz, inisisi qilish haqda oyla asmiz."
+  },
+  {
+   "start": 4.32,
+   "end": 6.56,
+   "text": "Aksisi ati balish shozir qiyinishamaz."
+  },
+  {
+   "start": 6.86,
+   "end": 13.98,
+   "text": "Qiyin jayi, qaysi kampanyan tallash, o aksini caiz yakin o caizini aniklash, qaysin axti kirishi bilish."
+  },
+  {
+   "start": 14.34,
+   "end": 20.06,
+   "text": "Mag bu kampanyan mashvor, yoki xamma o ati digan sababla, pul tikish, dor randash uyemaz."
+  },
+  {
+   "start": 20.16,
+   "end": 24.0,
+   "text": "Inisisi dan aldin, kampanyanin ve bazalini tahlil kili alish kirib."
+  },
+  {
+   "start": 24.0,
+   "end": 33.66,
+   "text": "HBS Express kursidi siz aksilani tahlil kiliş, caiz aktiflani saralab aliş, savda kriş noktasini anıqliş və kapitalizdi toğru başkajşı orginasiz."
+  },
+  {
+   "start": 33.86,
+   "end": 38.6,
+   "text": "Kursimiz Tashkiy shahridi, offline formatli bobutadi və bir yarimay davam etadi."
+  },
+  {
+   "start": 38.76,
+   "end": 44.92,
+   "text": "Aval kayirgi və nimo uçu politiki atkenizini bilib tushinib alin, HBS kursigi hazurab ariza xaldirin."
+  }
+ ],
+ "chars": 708,
+ "chars_per_s": 15.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

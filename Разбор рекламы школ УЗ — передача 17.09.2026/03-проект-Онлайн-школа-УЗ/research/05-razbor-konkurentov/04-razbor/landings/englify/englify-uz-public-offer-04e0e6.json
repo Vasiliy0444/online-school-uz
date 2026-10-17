@@ -1,0 +1,80 @@
+{
+ "url": "https://englify.uz/public-offer",
+ "school_id": "englify",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "оферта или оплата",
+ "builder": "своя сборка на Vercel (шаблон onWidget)",
+ "pixels": [
+  "Meta Pixel",
+  "Google Analytics (GA4)",
+  "Яндекс.Метрика"
+ ],
+ "promise": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": true,
+  "value": "Физлица, принявшие оферту и оплатившие тариф на платформе Englify (сайт и мобильное приложение); тариф «Bo‘talog‘im» 6 kunlik — только старше 14 лет",
+  "quote": "«O‘quvchi/Foydalanuvchi/Mijoz» – ushbu ommaviy oferta shartlarini qabul qilgan va Englify onlayn platformadagi faol tariflarga asosan to‘lovni amalga oshirgan va onlayn platforma bilan shartnoma tuzgan, o‘quv platformasi orqali ta’lim olayotgan shaxs.\n…\nBo‘talog‘im (mazkur tarif faqat 14 yoshdan katta shaxslar uchun mo‘ljallangan) 6 kunlik – Haftada 6 marta 45–50 daqiqalik jonli (online) guruh darslari (14–16 o‘quvchi) + platformadagi barcha: Video darslar, Jang, Speaking Bot, Alomat Bot, Mashqlar, Qo‘shimcha materiallar, 1 oy.",
+  "where": "оферта"
+ },
+ "program": {
+  "found": true,
+  "duration": "Jo’shqin — 3, 6 или 12 месяцев; Bo‘talog‘im 6 kunlik и 3 kunlik, Mini guruh, Individual — 1 месяц; Speaking — 3 месяца (в п. 9.6 — «1 oylik»); Uchqun — срок не указан",
+  "format": "онлайн",
+  "quote": "4.1. MCHJ “Englify” quyidagi tariflarni taklif etadi:\nUchqun – Jang, Mashqlar, Qo‘shimcha materiallar.\nJo’shqin – Platformaning barcha funksionallari asosida self-study (mustaqil o‘qish), 3/6/12 oy: Video darsliklar, Jang, Speaking Bot, Alomat Bot, Mashqlar, Zoom tadbirlar, Qo‘shimcha materiallar.\nBo‘talog‘im (mazkur tarif faqat 14 yoshdan katta shaxslar uchun mo‘ljallangan) 6 kunlik – Haftada 6 marta 45–50 daqiqalik jonli (online) guruh darslari (14–16 o‘quvchi) + platformadagi barcha: Video darslar, Jang, Speaking Bot, Alomat Bot, Mashqlar, Qo‘shimcha materiallar, 1 oy.\nBo‘talog‘im 3 kunlik – Haftada 3 marta 80 daqiqalik jonli (online) guruh darslari (14–16 o‘quvchi), paket tarkibi 6 kunlik bilan bir xil, 1 oy.\nMini guruh – Haftada 3 marta 45-50 daqiqalik jonli (online) guruh darslari (2-4 o‘quvchi), paket tarkibi 6 kunlik bilan bir xil, 1 oy.\nIndividual – Haftada 3 marta 45–50 daqiqalik jonli (online) individual dars, 1 o‘quvchi, paket tarkibi 6 kunlik bilan bir xil, 1 oy.\nSpeaking – Haftada 3 marta 80 daqiqalik jonli (online) guruh darslari (15–17 o’quvchi) + platformadagi: Jang, Speaking Bot, Alomat Bot, Mashqlar, Qo’shimcha materiallar, 3 oy."
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [
+   "нет"
+  ]
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "в оферте цен нет: тарифы (Uchqun, Jo’shqin, Bo‘talog‘im 6 и 3 kunlik, Mini guruh, Individual, Speaking) перечислены без сумм; цены и виды оплаты частями — «onlayn platformada» (п. 5.1.4); на сайте — JO'SHQIN 1 635 000 за 3 мес. / 2 970 000 за 6 мес., BO'TALOG'IM 850 000 в месяц (главная и web.englify.uz)"
+ },
+ "installments": {
+  "found": true,
+  "value": "Тариф можно оплатить целиком или «bo’lib-bo’lib» (частями): срок, число платежей и график задаёт онлайн-платформа, покупатель выбирает вариант при покупке (п. 5.1.4). Оплата частями бывает и через стороннюю финансовую организацию: отказ от обучения или отчисление не снимают долг перед ней, возврат идёт уменьшением долга или через эту организацию (пп. 9.11, 10.2). Если частями оплачено меньше, чем школа удерживает при отказе, недостающее ученик доплачивает (п. 9.8); заморозка не освобождает от ежемесячных платежей (п. 8.3). Названий партнёров (Uzum Nasiya, Alif и т. п.) и процентов в оферте нет",
+  "quote": "5.1.4. Tarif narxi Foydalanuvchi tomonidan to’liq (bir martalik) to’lov shaklida yoki tarif narxini bo’lib-bo’lib to’lash yo’li bilan to’lanishi mumkin. Tarif narxlari onlayn platformada joylashtirilgani kabi, bo’lib-bo’lib to’lash turlari (bo’lib-bo’lib to’lash muddati, to’lovlar soni, to’lov jadvali hamda boshqa tegishli shartlar) ham onlayn platformada belgilanadi. Foydalanuvchi tarifni sotib olish vaqtida onlayn platformada amalda bo’lgan bo’lib-bo’lib to’lash turlaridan birini tanlash huquqiga ega.\n…\n9.11. Agar tarif muddatli to’lov (bo’lib-bo’lib to’lash) asosida boshqa moliyaviy tashkilot orqali xarid qilingan bo’lsa, ushbu bo’lim bo’yicha shartnomaning bekor qilinishi Foydalanuvchining tegishli moliyaviy tashkilot oldidagi to’lov majburiyatlarini bekor qilmaydi (ushbu Ofertaning 5.1.4 va 10.2-bandlariga muvofiq). Bunday holatda qaytarilishi lozim bo’lgan mablag’ moliyaviy tashkilot bilan kelishilgan tartibda, qarz qoldig’ini kamaytirish yoki mablag’ni moliyaviy tashkilot orqali qaytarish yo’li bilan amalga oshiriladi.",
+  "where": "оферта"
+ },
+ "guarantee": {
+  "found": true,
+  "value": "Возврат по шкале от даты доступа; удерживается процент от фактически оплаченного (разд. 9). Jo’shqin 3 мес.: до 5 дней — 100% возврат; 6–10-й день — удержание 30%; 11–30 — 50%; 31–60 — 70%; с 61-го дня — не возвращается. Jo’shqin 6 мес.: до 5 дней — 100%; 6–30 — удержание 60%; 31–60 — 70%; 61–90 — 80%; после 3 месяцев — 0. Jo’shqin 12 мес.: до 5 дней — 100%; 6–30 — 60%; 31–60 — 70%; 61–90 — 80%; 91–150 — 90%; после 6 месяцев — 0. Bo’talog’im и Speaking на 1 мес.: после 1-го урока — 100% возврат; 3–10-й день занятий — удержание 50%; 11–20 — 80%; с 21-го дня — 0. Bo’talog’im и Speaking на 3 мес.: после 1-го урока — 100%; 3–10-й день — 30%; 11–30 — 50%; 31–60 — 80%; после 3 месяцев — 0. Порядок: письменное заявление в поддержку с причиной и подтверждением оплаты → решение за 10 рабочих дней → деньги на карту в течение 30 календарных дней (п. 9.10). По вине школы шкала не применяется — возврат по Гражданскому кодексу (п. 9.9); школа может вернуть больше по своему усмотрению (п. 9.12). Гарантии результата нет (п. 12.4); претензии — только пока действует тариф (пп. 7.5–7.6)",
+  "quote": "9.3. «Jo’shqin» tarifi (3 oylik) bo’yicha bekor qilish so’ralgan taqdirda ushlab qolinadigan va qaytariladigan summalar quyidagi tartibda belgilanadi:\n9.3.1. foydalanish huquqi taqdim etilgan kundan boshlab 5 (besh) kalendar kun ichida – ta’lim xizmatlaridan foydalanilgan yoki foydalanilmaganligidan qat’i nazar – to’langan mablag’ 100% qaytariladi, hech qanday summa ushlab qolinmaydi;\n9.3.2. foydalanish huquqi taqdim etilgan kundan boshlab 6 (oltinchi) kundan 10 (o’ninchi) kungacha – ta’lim xizmatlaridan foydalanilmagan bo’lsa ham – to’langan mablag’ning 30% ushlab qolinadi, 70% qaytariladi;\n9.3.3. foydalanish huquqi taqdim etilgan kundan boshlab 11 (o’n birinchi) kundan 30 (o’ttizinchi) kungacha – to’langan mablag’ning 50% ushlab qolinadi, 50% qaytariladi;\n9.3.4. foydalanish huquqi taqdim etilgan kundan boshlab 31 (o’ttiz birinchi) kundan 60 (oltmishinchi) kungacha – to’langan mablag’ning 70% ushlab qolinadi, 30% qaytariladi;\n9.3.5. foydalanish huquqi taqdim etilgan kundan boshlab 61 (oltmish birinchi) kundan keyin – Foydalanuvchi ta’lim xizmatlaridan to’liq mamnun deb hisoblanadi va to’lov 100% ushlab qolinadi, qaytarilmaydi.\n…\n9.6. «Bo’talog’im», «Speaking» tarifi (1 oylik – 6 kunlik va 3 kunlik formatlar) bo’yicha bekor qilish so’ralgan taqdirda ushlab qolinadigan va qaytariladigan summalar quyidagi tartibda belgilanadi:\n9.6.1. 1 (birinchi) darsga qatnashgandan keyin bekor qilish so’ralsa – to’langan mablag’ 100% qaytariladi, hech qanday summa ushlab qolinmaydi;\n9.6.2. darsga qatnashishning 3 (uchinchi) kunidan 10 (o’ninchi) kunigacha bekor qilish so’ralsa – 50% ushlab qolinadi, 50% qaytariladi;\n9.6.3. darsga qatnashishning 11 (o’n birinchi) kunidan 20 (yigirmanchi) kunigacha bekor qilish so’ralsa – 80% ushlab qolinadi, 20% qaytariladi;\n9.6.4. 21 (yigirma birinchi) kundan keyin – to’lov qaytarilmaydi, 100% ushlab qolinadi.\n…\n9.10. Pulni qaytarish jarayonini boshlash uchun Foydalanuvchi shartnomani bekor qilish sabablarini va kurs uchun to’langan summani tasdiqlovchi hujjatlarni ilova qilgan holda Kompaniyaning qo’llab-quvvatlash (Support) xizmatiga yozma murojaat qilishi shart. Kompaniya murojaatni (arizani) olgan kundan boshlab 10 (o’n) ish kuni ichida uni ko’rib chiqadi va pul mablag’larini qaytarish bo’yicha qaror qabul qilib, bu haqida Foydalanuvchiga xabar beradi. Ijobiy qaror qabul qilingan kundan boshlab pul mablag’lari Foydalanuvchining plastik kartasiga 30 (o’ttiz) kalendar kun ichida qaytariladi.\n…\n12.4. Ta’lim xizmatlari doirasida berilgan bilim va tavsiyalar kafolatlangan natija hisoblanmaydi va Foydalanuvchining shaxsiy qobiliyati, intizomi, faolligi hamda mustaqil mashg‘ulotlariga bog‘liq bo‘ladi.",
+  "where": "оферта"
+ },
+ "discounts": {
+  "found": true,
+  "value": "Школа вправе объявлять скидки на активные тарифы — на сайте, в соцсетях или через call-центр (п. 6.2.14). При смене тарифа все скидки сгорают: использованный период пересчитывается по полной месячной цене, разницу ученик доплачивает, переплата не возвращается, а засчитывается в другие тарифы (пп. 5.6.1–5.6.4). Промокод на ограниченное время может дать доступ к приложению без покупки тарифа (п. 3.6). Конкретных скидок и сумм в оферте нет",
+  "quote": "6.2.14. Kompaniya faol tariflar uchun chegirmalar e’lon qilish huquqiga ega. Chegirmalar haqidagi ma’lumotlar Kompaniyaning rasmiy veb-sayti, ijtimoiy tarmoqlardagi rasmiy sahifalari yoki yagona call-markazi orqali taqdim etiladi.\n…\n5.6.1. O‘quvchi (foydalanuvchi) chegirma qo‘llanilgan tarif bo‘yicha ta’lim olayotgan davrda tarifni o‘zgartirish (shu jumladan, yuqori yoki past tarifga o‘tkazish)ni so‘ragan taqdirda, mazkur tarif bo‘yicha berilgan barcha chegirmalar avtomatik ravishda o‘z kuchini yo‘qotadi.\n…\n3.6. Oldindan cheklangan vaqt uchun maxsus promo-koddan foydalanganda, ilovadan foydalanishga kirishish huquqi 3.5.1.-3.5.3-band shartlariga rioya qilmasdan berilishi mumkin.",
+  "where": "оферта"
+ },
+ "bonuses": {
+  "found": true,
+  "value": "Внутриплатформенные баллы и монеты за активность можно обменять в «Marketplace» на подарки, скидки или бонусы; медали — за серии занятий, пополнение словаря и победы в «Battle»",
+  "quote": "«Point & Coin System» – Ball va tangalar yig‘ish, reyting va funksiyalar uchun ishlatish.\n«Marketplace» – Yig‘ilgan tangalarni sovg‘alar, chegirmalar yoki bonuslarga almashtirish.\n«Medals» (Medallar) – Streak, lug‘at boyitish, battle g‘alabalari uchun yutuqlar.",
+  "where": "оферта"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": false
+ },
+ "next_step": "неизвестно",
+ "closed": false,
+ "notes": "Публичная оферта «OMMAVIY OFERTA SHARTNOMASI — Ingliz tilini online platformada o’qitish bo’yicha ta’lim xizmatlarini ko’rsatish to’g’risida»: на неё ссылаются подвал сайта и согласие под всеми формами Englify (главная, web, instant, apply). Даты редакции в тексте нет; в Wayback адрес впервые — 27.04.2025. Юрлицо: ООО (MChJ) «ENGLIFY», СТИР (ИНН) 309795570, директор Abdullayev M.M., действует на основании устава; контакты: «Yagona aloqa markaz» +998 55 515 69 69, а также +998781136969 и englifygeneral@gmail.com (п. 3.3); адреса и банковских реквизитов нет. Оферта принимается оплатой тарифа или продолжением пользования (п. 1.1.3); регистрация и покупка — в мобильном приложении (разд. 3, п. 5.1.1), покупать может и «третье лицо» в интересах ученика — за его ошибки школа не отвечает (пп. 5.1.2–5.1.3). Тарифы (п. 4.1): Uchqun (Jang, упражнения, доп. материалы); Jo’shqin — самостоятельное обучение на 3/6/12 мес. (видеоуроки, Speaking Bot, Alomat Bot, Zoom-мероприятия); Bo‘talog‘im 6 kunlik — 6 раз в неделю по 45–50 минут в группе 14–16 человек, от 14 лет; Bo‘talog‘im 3 kunlik — 3 раза по 80 минут; Mini guruh (2–4 ученика); Individual; Speaking (3 раза по 80 минут, 15–17 учеников, 3 мес.) — все без цен. Автосписание (п. 5.7): с согласия ученика школа списывает с привязанной карты (Uzcard, Humo и др.) плату за следующий период за день до окончания тарифа, при нехватке денег повторяет не чаще раза в сутки в течение 120 часов, затем тариф приостанавливается; уведомление — минимум за 1 календарный день. Уроки нужно активировать не позже 10 дней после покупки, иначе включаются сами (п. 5.4.3). Заморозка — только для Jo’shqin, до 30 дней один раз на покупку, платежи на время заморозки не останавливаются (разд. 8). Жёсткие для ученика пункты: пропуски и неиспользование не считаются неоказанием услуг (пп. 5.5.2, 7.1); при 4 пропусках подряд, невыполненных домашних заданиях или если ученик недоступен, школа вправе в одностороннем порядке перевести его на другой тариф без возврата денег (п. 6.2.5); при слиянии групп несогласного переводят на Jo’shqin без возврата (пп. 7.4, 8.9); преподавателя меняют без согласия (п. 6.2.6); за распространение материалов — отчисление без возврата (пп. 6.2.11, 10.1); претензии принимаются только пока действует тариф (пп. 7.5–7.6); оферту меняют без уведомления (пп. 1.1.6, 15.2); согласие на звонки и рекламные сообщения действует и после окончания тарифа (п. 14.1); гарантии результата нет (п. 12.4). Цены школа может менять, для внёсших предоплату сохраняется прежняя цена, новые цены — с 1-го числа следующего месяца (п. 6.2.13). Шкала возврата — в guarantee; оплата частями, в том числе через финансовые организации, — в installments. Дефекты текста: в латинских словах заголовков кириллические «А» («OFERTА PREDMETI», «ILOVАDА», «TOMONLАRNING»); в п. 6.2.13 корейский символ — «keyingi oy의 birinchi kunidan»; пп. 1.1.3 и 1.1.5 ссылаются на несуществующие пп. 1.3.1–1.3.2; Speaking в п. 4.1 — 3 месяца, а в п. 9.6 — «1 oylik»; в шкалах пп. 9.6 и 9.7 пропущен второй день (после 1-го урока — 100%, дальше сразу «3 (uchinchi) kunidan»); «Zoom darslar» описаны как «Telegram orqali amaliy mashg‘ulotlar». Формы и кнопок на странице нет — next_step «неизвестно», closed = false. Скриншот — первый экран оферты (заголовок и преамбула); техника та же, что у главной (в intel.json Meta Pixel и GA4, Яндекс.Метрика — по HTML-комментарию)."
+}

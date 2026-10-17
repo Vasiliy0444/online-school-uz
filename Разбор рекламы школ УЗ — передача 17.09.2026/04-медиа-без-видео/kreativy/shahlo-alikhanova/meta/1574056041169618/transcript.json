@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.58,
+   "text": "Bugun yarim saat waqt iz boladigan bolsa, albatta shu video darsayini korim."
+  },
+  {
+   "start": 3.58,
+   "end": 11.46,
+   "text": "Bi Shvettsaran e-ekspertla wa xalqorot pekilar, Uzbekistanun yug va Shvettsaragi biznislarimizi suni intelek yordamda artamatashlarib, suni intelek yordamda daromadzimizi osharib kilalb."
+  },
+  {
+   "start": 11.48,
+   "end": 16.72,
+   "text": "Aynan shu mavzuda, kanakilub Uzbekistanun da 26-ni il biznislar suni intelek kanalini kollab olshishlari munkun."
+  },
+  {
+   "start": 17.04,
+   "end": 20.54,
+   "text": "Shu haqida biz video darsayik tayoladik, ma shu video darsayik sizgi faydali bolish munkun."
+  },
+  {
+   "start": 20.54,
+   "end": 24.9,
+   "text": "Agar sizam 2026-in chil biznesizi ee orqali rivajlan ter makshi bosez,"
+  },
+  {
+   "start": 24.98,
+   "end": 27.2,
+   "text": "fasti ge tibmano basin, anashu vizio tarsini koni,"
+  },
+  {
+   "start": 27.28,
+   "end": 29.28,
+   "text": "u ilima bu vizio tarsi sizgi faydari bolayda."
+  }
+ ],
+ "chars": 636,
+ "chars_per_s": 21.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

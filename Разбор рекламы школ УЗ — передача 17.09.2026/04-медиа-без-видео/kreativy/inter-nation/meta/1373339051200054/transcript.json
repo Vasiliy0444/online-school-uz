@@ -1,0 +1,21 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 9.42,
+   "text": "Toxtan, 23 milyon sum aylik mawishi, kuniga 6 saatlik ish jadvali. Biznin talabimiz, Uzbek, Rusi va Ingilis sirlardi mukamal sozlasha alish."
+  },
+  {
+   "start": 9.98,
+   "end": 12.18,
+   "text": "Ba tafsil malumat uchun, xawalaga otin."
+  }
+ ],
+ "chars": 180,
+ "chars_per_s": 14.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

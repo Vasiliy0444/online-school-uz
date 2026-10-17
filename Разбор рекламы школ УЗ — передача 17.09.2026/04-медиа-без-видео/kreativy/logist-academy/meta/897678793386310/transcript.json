@@ -1,0 +1,186 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.68,
+   "text": "Siz dispatcherlar qanchi pul topshini bilasiz?"
+  },
+  {
+   "start": 2.68,
+   "end": 5.52,
+   "text": "Iy, sizam Amerikaya logistika isi dispatcher bomafchimisiz."
+  },
+  {
+   "start": 5.52,
+   "end": 6.4,
+   "text": "Iy, qidrib yoribsiz."
+  },
+  {
+   "start": 6.4,
+   "end": 8.56,
+   "text": "Kheyr doyurgen samiken dispatcherliyini,"
+  },
+  {
+   "start": 8.56,
+   "end": 11.6,
+   "text": "qais kampanyay mingi orgatib, ozi yaxsh kampanyaygi"
+  },
+  {
+   "start": 11.6,
+   "end": 13.72,
+   "text": "ishke dispatcherlik apkir qoyarlidikin,"
+  },
+  {
+   "start": 13.72,
+   "end": 14.72,
+   "text": "deboylab yorgen boziz."
+  },
+  {
+   "start": 14.72,
+   "end": 16.72,
+   "text": "Abid, zor taklifim bar beni."
+  },
+  {
+   "start": 16.72,
+   "end": 18.0,
+   "text": "Ismim Ismayil."
+  },
+  {
+   "start": 18.0,
+   "end": 20.04,
+   "text": "Ozi logistika diishlaykkanimgi alti il bolu."
+  },
+  {
+   "start": 20.04,
+   "end": 22.4,
+   "text": "Hazir kundi, meni dispatcher shagirdlarim"
+  },
+  {
+   "start": 22.4,
+   "end": 25.52,
+   "text": "kampanyay diishlayb ayige yeddi min dolar gechi pul topshi yapdoy."
+  },
+  {
+   "start": 25.52,
+   "end": 28.2,
+   "text": "orto chasi 1.500-2.000 dolar atrofta pul topiyab,"
+  },
+  {
+   "start": 28.2,
+   "end": 30.2,
+   "text": "enki amma 1.500-2.000 atrofta pul topiyab."
+  },
+  {
+   "start": 30.2,
+   "end": 33.4,
+   "text": "Sizam Amerikaya logistikasini organib dispetcher bololiz,"
+  },
+  {
+   "start": 33.4,
+   "end": 35.4,
+   "text": "ingiliszilin orto darajida bilsiz,"
+  },
+  {
+   "start": 35.4,
+   "end": 38.4,
+   "text": "taji sertifikatla kereyemaz,"
+  },
+  {
+   "start": 38.4,
+   "end": 41.76,
+   "text": "yani sizda hich kanihi ingiliszil sertifikat kereyemaz,"
+  },
+  {
+   "start": 41.76,
+   "end": 43.76,
+   "text": "yoyki universitetdi diplomi kereyemaz,"
+  },
+  {
+   "start": 43.76,
+   "end": 45.76,
+   "text": "keli asans logistikani orga tama ozim,"
+  },
+  {
+   "start": 45.76,
+   "end": 47.76,
+   "text": "sizga shaksan ozim okul markazimiz bar bizi,"
+  },
+  {
+   "start": 47.76,
+   "end": 50.76,
+   "text": "vittor orga atib, kegin chali siz bizdi okul markazida"
+  },
+  {
+   "start": 50.76,
+   "end": 53.76,
+   "text": "yaxsh oqi digam oziz, yaxsh natici korsata digam oziz,"
+  },
+  {
+   "start": 55.52,
+   "end": 57.8,
+   "text": "qam payne qe dispatch że ziz qol zbogu"
+  },
+  {
+   "start": 57.8,
+   "end": 57.8,
+   "text": ""
+  },
+  {
+   "start": 57.8,
+   "end": 57.8,
+   "text": ""
+  },
+  {
+   "start": 57.8,
+   "end": 57.8,
+   "text": ""
+  },
+  {
+   "start": 57.8,
+   "end": 57.8,
+   "text": ""
+  },
+  {
+   "start": 57.8,
+   "end": 57.8,
+   "text": ""
+  },
+  {
+   "start": 57.8,
+   "end": 57.8,
+   "text": ""
+  },
+  {
+   "start": 57.8,
+   "end": 57.8,
+   "text": ""
+  },
+  {
+   "start": 57.8,
+   "end": 57.8,
+   "text": ""
+  },
+  {
+   "start": 57.8,
+   "end": 57.8,
+   "text": ""
+  },
+  {
+   "start": 57.8,
+   "end": 57.8,
+   "text": ""
+  },
+  {
+   "start": 57.8,
+   "end": 57.8,
+   "text": ""
+  }
+ ],
+ "chars": 1024,
+ "chars_per_s": 17.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

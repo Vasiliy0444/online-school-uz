@@ -1,0 +1,80 @@
+{
+ "creative_id": "1384609010521904",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Ingliz tilini nafaqat tushunib, balki o'ziga ishonch bilan gaplashmoqchi bo'lsangiz,",
+  "types": [
+   "обращение к сегменту",
+   "вопрос"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "движение или смена кадра",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Engilis tili na faqat chunib, balkim uzizgi ishanch bilan gaplashmokchi bolsanyiz,",
+    "timecode": "00:00"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: быстрая смена нескольких говорящих (девушка в белом платье, мужчины в кепке/свитере) в холле филиала — эстафета одной фразы",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:09: карточка «IELTS olmoqchimisiz?»",
+    "timecode": "00:09"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "статус"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Engilis tili na faqat chunib, balkim uzizgi ishanch bilan gaplashmokchi bolsanyiz,",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный урок"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "🔸 Bepul CD Mock imtihonlari"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "creative_key/sheet_hook и sheet_overview в порции указывают на папку 4431203327152298 (не на 1384609010521904) — вероятно тот же видеоролик используется в нескольких объявлениях школы, кадры соответствуют содержанию расшифровки и текста объявления этого creative_id. Формат — эстафета из нескольких лиц, каждое произносит часть одной фразы (говорящая голова + быстрый монтаж), затем карточка «IELTS olmoqchimisiz?» — при том что текст объявления посвящён набору на сентябрь по английскому в целом, а не конкретно IELTS: возможное несовпадение темы ролика и текста объявления, отмечаю здесь, а не как funnel_stage конфликт (ссылка и посыл совпадают — оба про основной продукт/набор в Самарканде). Финал (по расшифровке [00:10]) — «Pastdagi havola orqali o'ting va Inter Nation Schoolda ingliz tilini boshlang» → перейти по ссылке."
+}

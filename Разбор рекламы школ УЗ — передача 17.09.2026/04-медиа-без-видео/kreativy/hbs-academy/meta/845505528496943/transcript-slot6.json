@@ -1,0 +1,71 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.0,
+   "text": "Dovlat ishid ishladim, gen bankda ishladim, toyxona da administrator babam ishladim."
+  },
+  {
+   "start": 5.0,
+   "end": 7.0,
+   "text": "Bo shu vaqtimda faqat trading buddur."
+  },
+  {
+   "start": 7.0,
+   "end": 14.0,
+   "text": "Fayda uz aldim, uzum organab internetla da korab, bir yarim min gecabim fayda da buldum."
+  },
+  {
+   "start": 14.0,
+   "end": 20.0,
+   "text": "Spotdi, ken uzumcha futures bazarini ko, uzum organa mandib."
+  },
+  {
+   "start": 20.0,
+   "end": 22.0,
+   "text": "Indi 1200 yuqatdimdi."
+  },
+  {
+   "start": 22.0,
+   "end": 26.0,
+   "text": "Ma uzumcha bilamandib yorudum, organi bogam mandib."
+  },
+  {
+   "start": 26.0,
+   "end": 30.0,
+   "text": "qiyan qarasam, islami guza tardim HBS Akademiyasini"
+  },
+  {
+   "start": 30.0,
+   "end": 32.0,
+   "text": "Instagram, Youtube di qizqil boshladim"
+  },
+  {
+   "start": 32.0,
+   "end": 34.0,
+   "text": "Islam Moalyasi di istiku"
+  },
+  {
+   "start": 34.0,
+   "end": 36.0,
+   "text": "hali bilmagan narsilarim an chikuk ikindi"
+  },
+  {
+   "start": 36.0,
+   "end": 38.0,
+   "text": "kutub yurdim kursi achilishi ni"
+  },
+  {
+   "start": 38.0,
+   "end": 40.0,
+   "text": "achilishi bilami yazlo balim ku"
+  }
+ ],
+ "chars": 568,
+ "chars_per_s": 13.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

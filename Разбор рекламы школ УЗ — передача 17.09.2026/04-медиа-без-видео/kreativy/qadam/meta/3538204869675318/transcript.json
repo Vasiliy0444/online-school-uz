@@ -1,0 +1,106 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 29.98,
+   "text": "Bugun daromad, kurs, o'qish va ish haqida gaplashamiz."
+  },
+  {
+   "start": 30.0,
+   "end": 32.0,
+   "text": "qalimayda qalimayda"
+  },
+  {
+   "start": 32.0,
+   "end": 34.0,
+   "text": "qalimayda"
+  },
+  {
+   "start": 34.0,
+   "end": 36.0,
+   "text": "qalimayda"
+  },
+  {
+   "start": 36.0,
+   "end": 38.0,
+   "text": "qalimayda"
+  },
+  {
+   "start": 38.0,
+   "end": 40.0,
+   "text": "qalimayda"
+  },
+  {
+   "start": 40.0,
+   "end": 42.0,
+   "text": "qalimayda"
+  },
+  {
+   "start": 42.0,
+   "end": 44.0,
+   "text": "qalimayda"
+  },
+  {
+   "start": 44.0,
+   "end": 46.0,
+   "text": "qalimayda"
+  },
+  {
+   "start": 46.0,
+   "end": 48.0,
+   "text": "qalimayda"
+  },
+  {
+   "start": 48.0,
+   "end": 50.0,
+   "text": "qalimayda"
+  },
+  {
+   "start": 50.0,
+   "end": 52.0,
+   "text": "qalimayda"
+  },
+  {
+   "start": 52.0,
+   "end": 54.0,
+   "text": "qalimayda"
+  },
+  {
+   "start": 54.0,
+   "end": 56.0,
+   "text": "qalimayda"
+  },
+  {
+   "start": 56.0,
+   "end": 58.0,
+   "text": "qalimayda"
+  },
+  {
+   "start": 58.0,
+   "end": 59.04,
+   "text": "Pasti silki qaldirama,"
+  },
+  {
+   "start": 59.14,
+   "end": 60.56,
+   "text": "shu silki arkali otob,"
+  },
+  {
+   "start": 60.64,
+   "end": 61.78,
+   "text": "registratsadan otob,"
+  },
+  {
+   "start": 61.96,
+   "end": 63.26,
+   "text": "kogan ma'almatlan asob."
+  }
+ ],
+ "chars": 295,
+ "chars_per_s": 4.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

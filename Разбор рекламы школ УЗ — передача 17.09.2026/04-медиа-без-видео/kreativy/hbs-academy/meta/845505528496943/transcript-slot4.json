@@ -1,0 +1,56 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.12,
+   "text": "Songi wakilayda bazarli boysab qaldi, wa salda ki iskim chushbiyytdi."
+  },
+  {
+   "start": 3.44,
+   "end": 6.4,
+   "text": "Lekin, sidi har aili icari, yo ki malum bir xarajatli va."
+  },
+  {
+   "start": 6.56,
+   "end": 10.38,
+   "text": "Ha, fayda qili pul tapasmi, yo'mi, barmi shu xarajatli lan qaplashamiz kerey."
+  },
+  {
+   "start": 10.38,
+   "end": 12.2,
+   "text": "Manashundi haletli nimaqilishimiz kerey."
+  },
+  {
+   "start": 12.28,
+   "end": 16.52,
+   "text": "Asasi ishizdi davam etri, wa kushumchi online saldalarini organishiniz kerey."
+  },
+  {
+   "start": 16.56,
+   "end": 19.32,
+   "text": "Misal uchun, aksi wa kripto bazarlarida salda qilishiyollari."
+  },
+  {
+   "start": 19.52,
+   "end": 26.3,
+   "text": "Ejbi sakidi emasinin express trading kursidi, kunigi 2-3 saat vok sarfdab turib, online salda qilishiyollari organizizmunko."
+  },
+  {
+   "start": 26.3,
+   "end": 29.24,
+   "text": "Bu uchunu maqilishkiri kanne qilinadi digen sovaldigi,"
+  },
+  {
+   "start": 29.54,
+   "end": 31.9,
+   "text": "quydayi havaladan roqattan otib, jawab olaz."
+  }
+ ],
+ "chars": 611,
+ "chars_per_s": 18.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

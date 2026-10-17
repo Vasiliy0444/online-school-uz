@@ -1,0 +1,69 @@
+{
+ "creative_id": "1826954785397678",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "картинка",
+  "duration_bucket": "не видео",
+  "aspect": "9:16"
+ },
+ "style": [
+  "статичный дизайн"
+ ],
+ "hook": {
+  "verbatim": "Сунъий Интеллект курсларига кабул очик",
+  "types": [
+   "новость"
+  ],
+  "visual": [
+   "крупный текст",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: заголовок «Сунъий Интеллект курсларига кабул очик» (кириллица), ниже кнопка «Рўйхатдан ўтиш» со стрелкой, вверху лого NAJOT TA'LIM"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "профессия будущего",
+   "страх отстать"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Ishdan bo'shatilsangiz yoki ishingiz avtomatlashsa, keyin nima qilasiz? Bugun ko'plab kompaniyalar oddiy vazifalarni AI'ga topshiryapti."
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Ishingizni yo'qotib qo'yishdan qo'rqmang, undan oldinroq harakat qiling."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный урок"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Agarda ushbu kursimiz sizga qiziq bo'lsa, quyidagi havola orqali ro'yxatdan o'ting Bepul darsga yozilish"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "никого"
+ },
+ "language": "узбекский кириллица",
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Заголовок и кнопка на самой картинке написаны кириллицей («Сунъий Интеллект курсларига кабул очик», «Рўйхатдан ўтиш») — единственный такой случай в порции, тогда как текст объявления (Prompt Injinering, про увольнения из-за ИИ) на латинице. Возможно, картинка переиспользована из более старой/другой кампании независимо от текущего текста объявления — расхождение письменности стоит проверить отдельно. Курс в самом тексте объявления называется «Prompt Injinering», а заголовок на картинке — более широкий «Сунъий Интеллект» (искусственный интеллект); тематически близко, но не дословно то же самое. CTA текста объявления — «Bepul darsga yozilish» (запись на бесплатный урок), тегирую как офер и как этап воронки «вебинар или мастер-класс» за неимением более точной категории для разового бесплатного урока."
+}

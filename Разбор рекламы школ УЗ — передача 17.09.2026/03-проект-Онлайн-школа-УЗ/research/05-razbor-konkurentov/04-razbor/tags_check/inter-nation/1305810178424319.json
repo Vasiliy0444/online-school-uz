@@ -1,0 +1,69 @@
+{
+  "creative_id": "1305810178424319",
+  "platform": "meta",
+  "school_id": "inter-nation",
+  "format": {
+    "type": "видео",
+    "duration_bucket": "≤15 с",
+    "aspect": "9:16"
+  },
+  "style": ["говорящая голова"],
+  "hook": {
+    "verbatim": "Siz ingliz tilini o'rganmoqchisiz, lekin kun bo'yi o'qishda va ishdasiz.",
+    "types": ["обращение к сегменту", "боль"],
+    "visual": ["лицо в первом кадре"],
+    "evidence": [
+      {
+        "source": "расшифровка",
+        "quote": "Siz ingilis sil o'rgan maqchisiz, lekin kum bo'i o'qishta va ishtasiz.",
+        "timecode": "00:00"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_hook.jpg 0.0s–2.5s: мужчина в рубашке с галстуком и бейджем ADMINISTRATION говорит в камеру на фоне здания школы ночью; субтитров нет",
+        "timecode": "00:00"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["экономия времени", "для студентов", "для регионов"],
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:09: 18:30 (крупные жёлтые цифры)",
+        "timecode": "00:09"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "barca basishlar bo'i che kechki 18-30 dayi gruplarimizga kabul da'am etmaqda.",
+        "timecode": "00:06"
+      },
+      {
+        "source": "текст объявления",
+        "quote": "Bu kunduz kuni o‘qiydigan yoki ishlaydigan, lekin rivojlanishni keyinga qoldirmoqchi bo‘lmaganlar uchun ideal variant"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Endi bu, Mamo A.M.S. International School Anjan filialda,",
+        "timecode": "00:03"
+      }
+    ]
+  },
+  "offer": {
+    "items": ["без оффера"]
+  },
+  "cta": {
+    "button": "Sign up",
+    "in_creative": "заполнить форму",
+    "destination": "лендинг",
+    "funnel_stage": "основной продукт"
+  },
+  "speaker": {
+    "role": "актёр или ведущий"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": false,
+  "risk": false,
+  "confidence": "средняя",
+  "notes": "Хук только в речи — по расшифровке, написание исправлено. Спикер с бейджем ADMINISTRATION — сотрудник школы, как основатель или эксперт не представлен. На экране только крупная цифра «18:30» (~0:09), сплошных субтитров нет → burned_subtitles false. Смысл: вечерние группы в 18:30 для тех, кто днём учится или работает («Endi bu muammo emas» — по расшифровке); «экономия времени» — ближайшее значение для «удобное время для занятых», неоднозначно; «для регионов» — набор в Андижанский филиал. Призыв: «Hazro qawalarkadi roqatna otin» (00:11) = «Hoziroq havola orqali ro'yxatdan o'ting» — зовёт зарегистрироваться → «заполнить форму» (не «перейти по ссылке»; неоднозначно). Ссылка inter-nation.uz/l/instagram_andijan — свой домен (по пути похоже на страницу филиала, не открывалась). Текст объявления на узбекском и русском. Перевод хука: «Хотите выучить английский, но весь день на учёбе и работе»."
+}

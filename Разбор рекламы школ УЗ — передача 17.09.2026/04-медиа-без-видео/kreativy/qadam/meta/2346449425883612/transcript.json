@@ -1,0 +1,116 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.68,
+   "text": "Pul tapish uchun ishtashkiri iligini hamayam biladi."
+  },
+  {
+   "start": 2.68,
+   "end": 5.76,
+   "text": "Lekin, iyer talibdan kechkechi uyni, rozgarini,"
+  },
+  {
+   "start": 5.76,
+   "end": 8.86,
+   "text": "qozant ovaani, tashab ketchishki hamayam tayyar imas."
+  },
+  {
+   "start": 8.86,
+   "end": 12.12,
+   "text": "Khazir bunaka imkonyatladan bittasi uzun markid ikan."
+  },
+  {
+   "start": 12.8,
+   "end": 15.88,
+   "text": "Mana uydu otri, beye malol onlayn savdun qilishmukun."
+  },
+  {
+   "start": 15.88,
+   "end": 18.76,
+   "text": "Maksulo tan liysiz, uzumge cay liysiz,"
+  },
+  {
+   "start": 18.76,
+   "end": 20.76,
+   "text": "qolganini platformani ozu qiladi."
+  },
+  {
+   "start": 21.16,
+   "end": 24.42,
+   "text": "Shunar silani organishta, sizgi qadam edikishini yardan biradi."
+  },
+  {
+   "start": 24.42,
+   "end": 27.38,
+   "text": "Mangi in yokgani sodda tildi qadam ma qadan"
+  },
+  {
+   "start": 27.38,
+   "end": 29.48,
+   "text": "dan sizin nol dan daramat gechi ap cikishadi."
+  },
+  {
+   "start": 29.62,
+   "end": 31.92,
+   "text": "Agar vloyotdan turub, okumakchi bolsangiz,"
+  },
+  {
+   "start": 32.06,
+   "end": 33.72,
+   "text": "onlayn platformada organichingiz mumkun."
+  },
+  {
+   "start": 33.9,
+   "end": 35.26,
+   "text": "Agar toshkende yashishangiz,"
+  },
+  {
+   "start": 35.58,
+   "end": 38.58,
+   "text": "shundo kasmanatlar metro yonada okub markez joyolashgan,"
+  },
+  {
+   "start": 38.9,
+   "end": 41.36,
+   "text": "gelib offline tarslarda ishirokichingiz mumkun."
+  },
+  {
+   "start": 41.74,
+   "end": 43.1,
+   "text": "Agar siz xam anchedan beri,"
+  },
+  {
+   "start": 43.16,
+   "end": 45.34,
+   "text": "qaniydi ozumni pulun bolsaydi dibirgen boseyiz,"
+  },
+  {
+   "start": 45.42,
+   "end": 47.26,
+   "text": "manim ki bu siz uchun acaib imkaniyat."
+  },
+  {
+   "start": 47.78,
+   "end": 48.88,
+   "text": "Xabala arkali otin,"
+  },
+  {
+   "start": 48.88,
+   "end": 49.98,
+   "text": "ariza yazib qaldirin,"
+  },
+  {
+   "start": 50.04,
+   "end": 51.34,
+   "text": "va batarsil malumat olasiz."
+  }
+ ],
+ "chars": 892,
+ "chars_per_s": 17.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

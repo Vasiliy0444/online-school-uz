@@ -1,0 +1,31 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 18.78,
+   "text": "You wanted to work in logistics but something stopped you? Hi, my name is Lilia and I am a certified acting logistician. I invite you to the international logistics course in Logist Academy where you will learn how to make a stable income of $500 and above working in logistics without knowing English."
+  },
+  {
+   "start": 18.78,
+   "end": 28.78,
+   "text": "The course lasts only one month and during this time you have the opportunity to buy the course several times. I open a set for you on the morning, day and evening groups."
+  },
+  {
+   "start": 28.78,
+   "end": 33.68,
+   "text": "На нашым курсе я дам тебе все инструменты в сфере логистики, а также поделюсь своим опытом."
+  },
+  {
+   "start": 34.04,
+   "end": 38.34,
+   "text": "Чтобы записаться к нам на курс, пиши нам в Директ и увидимся в Логист Академии."
+  }
+ ],
+ "chars": 646,
+ "chars_per_s": 15.8,
+ "cyrillic_share": 0.26,
+ "repeated_segments": 0,
+ "quality": "низкое"
+}

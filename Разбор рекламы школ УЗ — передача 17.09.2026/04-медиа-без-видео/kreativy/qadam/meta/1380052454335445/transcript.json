@@ -1,0 +1,421 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.64,
+   "text": "Sizam 12 anli tavar tapib, sotu sot seyle goladib."
+  },
+  {
+   "start": 2.64,
+   "end": 5.24,
+   "text": "Meselen, bozardan alib, optimgi alib, sotasiz."
+  },
+  {
+   "start": 5.24,
+   "end": 6.68,
+   "text": "Yok yosan, Xitoyda tak boz."
+  },
+  {
+   "start": 6.68,
+   "end": 8.6,
+   "text": "12 anli tavar alin, hich kim do qomamasin,"
+  },
+  {
+   "start": 8.6,
+   "end": 10.0,
+   "text": "shumda ansoragim sotas."
+  },
+  {
+   "start": 10.0,
+   "end": 11.72,
+   "text": "Bulanyam, sige orga tibboyamiz."
+  },
+  {
+   "start": 11.72,
+   "end": 14.44,
+   "text": "Hullas, siz, biagojizi, maksuatizi,"
+  },
+  {
+   "start": 14.44,
+   "end": 16.56,
+   "text": "tapsirganizdanki geyin, sikilat gey boradib."
+  },
+  {
+   "start": 16.56,
+   "end": 19.52,
+   "text": "Sikilattan tarqatish, tolollari, nasiyagi birish,"
+  },
+  {
+   "start": 19.52,
+   "end": 21.96,
+   "text": "xammi xarakatlanik, uzunmuk uzuk oladib."
+  },
+  {
+   "start": 21.96,
+   "end": 25.0,
+   "text": "Sizgi fakat, gene, computer bilan internet bolsa boldi."
+  },
+  {
+   "start": 25.0,
+   "end": 27.0,
+   "text": "Lekin, bliminiyam organib qoyishqeri."
+  },
+  {
+   "start": 27.0,
+   "end": 29.0,
+   "text": "As-salamu alaykum, yaxim, sas."
+  },
+  {
+   "start": 29.0,
+   "end": 31.0,
+   "text": "Qadamit gey xishqe fisa, otomiyaki?"
+  },
+  {
+   "start": 31.0,
+   "end": 33.0,
+   "text": "Oki, markazdik ordam, gapiyo? Qisqaci gapir, belin?"
+  },
+  {
+   "start": 33.0,
+   "end": 35.0,
+   "text": "Bize, 2023-ci ildan beri,"
+  },
+  {
+   "start": 35.0,
+   "end": 37.0,
+   "text": "odam legi rakamniy kastvan orga tifkiliyamzi."
+  },
+  {
+   "start": 37.0,
+   "end": 39.0,
+   "text": "Imin, uzum yonal shigoyichi,"
+  },
+  {
+   "start": 39.0,
+   "end": 41.0,
+   "text": "3,500-da artib uquchilani shukun gechi orga tifkiliyamzi."
+  },
+  {
+   "start": 41.0,
+   "end": 43.0,
+   "text": "Qal, daal diyo doshun chu adam?"
+  },
+  {
+   "start": 43.0,
+   "end": 45.0,
+   "text": "Qatdan siza eshtikibli?"
+  },
+  {
+   "start": 45.0,
+   "end": 47.0,
+   "text": "Bize, yax shimuta eslan iski agamizdi, uzlarin aborotlar,"
+  },
+  {
+   "start": 47.0,
+   "end": 49.0,
+   "text": "5 milyardli avarotli okul chilarimiza bar."
+  },
+  {
+   "start": 49.0,
+   "end": 51.0,
+   "text": "Har oy kamyda,"
+  },
+  {
+   "start": 51.0,
+   "end": 53.0,
+   "text": "3-3-da, 12-da okul chilani okutib,"
+  },
+  {
+   "start": 53.0,
+   "end": 55.0,
+   "text": "daramat krizki yarda biramiz."
+  },
+  {
+   "start": 55.0,
+   "end": 57.0,
+   "text": "Qanaqi formatla da orga etesiz?"
+  },
+  {
+   "start": 57.0,
+   "end": 59.0,
+   "text": "Ozi 2 formatimiza bar."
+  },
+  {
+   "start": 59.0,
+   "end": 61.0,
+   "text": "Offline la online."
+  },
+  {
+   "start": 61.0,
+   "end": 63.0,
+   "text": "Offline, okul markazimiza ikili organcisi bolaydi."
+  },
+  {
+   "start": 63.0,
+   "end": 65.0,
+   "text": "Xunduk, Ombimetron aldidi."
+  },
+  {
+   "start": 65.0,
+   "end": 67.0,
+   "text": "Bu, koprat haxqin da yaxab turib,"
+  },
+  {
+   "start": 67.0,
+   "end": 69.0,
+   "text": "saldoqarci organama digili ochuk, olay ikini."
+  },
+  {
+   "start": 69.0,
+   "end": 71.0,
+   "text": "Agar online organama,"
+  },
+  {
+   "start": 71.0,
+   "end": 73.0,
+   "text": "ozimda vlayatimda organama,"
+  },
+  {
+   "start": 73.0,
+   "end": 75.0,
+   "text": "yoyki madya vaxtim camera digili adamli hosi,"
+  },
+  {
+   "start": 75.0,
+   "end": 76.28,
+   "text": "O shkiye, benim o qat nasib,"
+  },
+  {
+   "start": 76.28,
+   "end": 77.56,
+   "text": "Tavrda qorchi organisi baradi."
+  },
+  {
+   "start": 77.56,
+   "end": 79.44,
+   "text": "Topka chikgan shogotlariz ban?"
+  },
+  {
+   "start": 79.44,
+   "end": 81.2,
+   "text": "Albakti, biz zana okulchilarimizi"
+  },
+  {
+   "start": 81.2,
+   "end": 82.64,
+   "text": "Jüden qota natijil yeykeli shadi,"
+  },
+  {
+   "start": 82.64,
+   "end": 85.04,
+   "text": "Hem okulchi li ozan natijilarini bol shibarishami."
+  },
+  {
+   "start": 85.04,
+   "end": 86.96,
+   "text": "Medich pul aborot qil shuad, kanar qil shuad,"
+  },
+  {
+   "start": 86.96,
+   "end": 88.96,
+   "text": "Milartli aborotli qil hadiyan okulchilari, ben buju barim."
+  },
+  {
+   "start": 88.96,
+   "end": 91.64,
+   "text": "Ma eshin bu ichi, 40% ayorli ikani,"
+  },
+  {
+   "start": 91.64,
+   "end": 94.36,
+   "text": "Topa top, 40-60% ayorli maladeslik."
+  },
+  {
+   "start": 94.36,
+   "end": 95.0,
+   "text": "Ayorli maladeslik."
+  },
+  {
+   "start": 95.0,
+   "end": 96.44,
+   "text": "Rastan, u ydo otaradi gan bozali,"
+  },
+  {
+   "start": 96.44,
+   "end": 97.72,
+   "text": "Ikin bu ishi orga tipolisi ili,"
+  },
+  {
+   "start": 97.72,
+   "end": 99.24,
+   "text": "Uyda otrabam soqqa qit dashadi"
+  },
+  {
+   "start": 99.24,
+   "end": 100.92,
+   "text": "Qotda qotda tavarli obqiradi garladi"
+  },
+  {
+   "start": 100.92,
+   "end": 103.2,
+   "text": "Masalda man uyumda tor usta karcharib var"
+  },
+  {
+   "start": 103.2,
+   "end": 104.8,
+   "text": "Birni chi izdan veri satilmidi"
+  },
+  {
+   "start": 104.8,
+   "end": 106.84,
+   "text": "Qunu kimga da realizadziga veri olsan bolarkani"
+  },
+  {
+   "start": 106.84,
+   "end": 108.12,
+   "text": "Daya burgin garladi amir gari"
+  },
+  {
+   "start": 108.12,
+   "end": 108.64,
+   "text": "Daya bolardi"
+  },
+  {
+   "start": 108.64,
+   "end": 109.6,
+   "text": "Chunkki bize de oza"
+  },
+  {
+   "start": 109.6,
+   "end": 110.92,
+   "text": "Qita yunalisi posibolati"
+  },
+  {
+   "start": 110.92,
+   "end": 112.0,
+   "text": "Uzo markitli icidi"
+  },
+  {
+   "start": 112.0,
+   "end": 113.16,
+   "text": "Ya ki sati uchib obqirasi var"
+  },
+  {
+   "start": 113.16,
+   "end": 114.72,
+   "text": "Ya ki menizib obqirasi var"
+  },
+  {
+   "start": 114.72,
+   "end": 116.6,
+   "text": "Sati uchili oza fita vargi ful tukib"
+  },
+  {
+   "start": 116.6,
+   "end": 117.4,
+   "text": "Oza sabda qolib"
+  },
+  {
+   "start": 117.4,
+   "end": 118.32,
+   "text": "Oza xamarsiga cavab verab"
+  },
+  {
+   "start": 118.32,
+   "end": 120.04,
+   "text": "Agar adamli misal uchun"
+  },
+  {
+   "start": 120.04,
+   "end": 122.04,
+   "text": "qi uzara baslagiz daramadi bomi digan bosa,"
+  },
+  {
+   "start": 122.04,
+   "end": 124.04,
+   "text": "biymral, usdaq menjzili yonarsani yab talda sa bolad."
+  },
+  {
+   "start": 124.04,
+   "end": 125.04,
+   "text": "Zor."
+  },
+  {
+   "start": 125.04,
+   "end": 126.04,
+   "text": "Nax masalaxsi burad?"
+  },
+  {
+   "start": 126.04,
+   "end": 128.04,
+   "text": "Nax masalaxsi giy kela digan bosa,"
+  },
+  {
+   "start": 128.04,
+   "end": 130.04,
+   "text": "agar ulan imkaniyati bolad digan bosa,"
+  },
+  {
+   "start": 130.04,
+   "end": 132.04,
+   "text": "biymral, nax tologli sisa bolad."
+  },
+  {
+   "start": 132.04,
+   "end": 134.04,
+   "text": "Yoki, bolib tolaxki, biymral, ushexambi kurslarimizagi"
+  },
+  {
+   "start": 134.04,
+   "end": 136.04,
+   "text": "dasturlari yasayi bolad."
+  },
+  {
+   "start": 136.04,
+   "end": 138.04,
+   "text": "Ing zor joya, tabi ki, ulo agar bolib tolaxki"
+  },
+  {
+   "start": 138.04,
+   "end": 140.04,
+   "text": "yonzala digan bosa, kursin aqa uzgar miyib."
+  },
+  {
+   "start": 140.04,
+   "end": 141.04,
+   "text": "Oshakim."
+  },
+  {
+   "start": 141.04,
+   "end": 143.84,
+   "text": "Bax ikanchi busu, xud dushunarsani bulib-bulib toneski osil, bulib."
+  },
+  {
+   "start": 143.84,
+   "end": 146.28,
+   "text": "Akeli ukeli toluro malamot olamiz disili,"
+  },
+  {
+   "start": 146.28,
+   "end": 149.4,
+   "text": "man patra sirke qaldiramaz, albat-tak siri broyxatdan otiboyin."
+  },
+  {
+   "start": 149.4,
+   "end": 151.68,
+   "text": "Minijirlarimiz uzlar sirgi alogaya chikadi."
+  },
+  {
+   "start": 151.68,
+   "end": 155.04,
+   "text": "U shatil nime soviliyli busi, biri toluq malamotlan o olisti."
+  }
+ ],
+ "chars": 2951,
+ "chars_per_s": 19.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,82 @@
+{
+ "creative_id": "1025092333830362",
+ "platform": "meta",
+ "school_id": "logist-academy",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "AMERIKA LOGISTIKASI ORQALI OYIGA $2000-$3000 TOPASIZ, INGLIZ TILINI BILSANGIZ.",
+  "types": [
+   "цифра",
+   "результат или доход"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: неизменный бейдж «AMERIKA LOGISTIKASI ORQALI OYIGA $2000-$3000 TOPASIZ INGLIZ TILINI BILSANGIZ»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:06] 2-3 min dolar tor, 5 min dolar la pul tapishyabdi.",
+    "timecode": "00:06"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта",
+   "быстрый старт"
+  ],
+  "income_claim": "$2000-3000 oyiga (кадр); 2-3 ming dollar, ba'zilari 5 ming dollargacha (по черновой расшифровке, об учениках)",
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] 17-18 yashda la yishkani baxlay, mene xazir 20 yashka kirdi okuchilarim, 20-20 tor yashda okuchilarim var.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:32] Ichganiga sertifikatsiz, bimala kelasiz.",
+    "timecode": "00:32"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Joylar: Atigi 10 ta! Bugun ro'yxatdan o'tmasangiz, ertaga joy qolmasligi mumkin."
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "средняя",
+ "notes": "Хук — точная цифра дохода, привязанная к одному условию (знание английского), без упоминания опыта/дипломов — как и в 897678793386310 и 1078894077907360 этой же школы, посчитал избыточно уверенным обещанием дохода → risk=true. Текст объявления — общий шаблон «Amerika logistikasida…». Расшифровка черновая, конец разборчив плохо, но узнаваемо повторяет типовую концовку серии («ro'yxatdan o'ting» — зарегистрируйтесь по ссылке), поэтому cta.in_creative — «заполнить форму», как у большинства креативов этой ad_text-группы."
+}

@@ -1,0 +1,66 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.7,
+   "text": "6 ay oqsanyiz, bit tada ish li bu alasiz."
+  },
+  {
+   "start": 2.82,
+   "end": 5.06,
+   "text": "Yok, xaziman, kitab haqida gapirm yapman."
+  },
+  {
+   "start": 5.38,
+   "end": 7.1,
+   "text": "Xazir sizke zor nasi korsitaman,"
+  },
+  {
+   "start": 7.24,
+   "end": 8.84,
+   "text": "Xat Hunter Vakantalar saytidan,"
+  },
+  {
+   "start": 9.0,
+   "end": 10.96,
+   "text": "interior designerlar uchun kampanyalar"
+  },
+  {
+   "start": 10.96,
+   "end": 13.62,
+   "text": "400 dolardan 1200 dolardache tolashke tayyor."
+  },
+  {
+   "start": 13.74,
+   "end": 16.14,
+   "text": "Bu kersininsa, siz 6 ay uchli o'rgan sanyiz boladi"
+  },
+  {
+   "start": 16.14,
+   "end": 20.58,
+   "text": "va 3 ay bepula maliyotva 100 fois ishki jolashizike folatini biz beramiz."
+  },
+  {
+   "start": 20.92,
+   "end": 22.92,
+   "text": "Shuu xafta, interior design bocham"
+  },
+  {
+   "start": 22.92,
+   "end": 24.66,
+   "text": "mutsoqa bepula uchgu dars bolibotadi."
+  },
+  {
+   "start": 24.94,
+   "end": 27.52,
+   "text": "Roxatda otushun, xaziroq basayi xa volani basayin."
+  }
+ ],
+ "chars": 482,
+ "chars_per_s": 17.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

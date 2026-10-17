@@ -1,0 +1,117 @@
+{
+ "creative_id": "1610618393327193",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Uzum Marketda savdo qilmoqchisiz, lekin sarmoya o'zini oqlamaydi deb ikkilanyapsizmi?",
+  "types": [
+   "вопрос",
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "логотип площадки (Uzum и т.п.)"
+  ],
+  "evidence": [
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–1.0s: логотип Uzum Market («U market») поверх кадра; ведущая говорит в камеру",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s–2.5s: «SARMOYA», затем «SARMOYA O'ZINI OQLAMAYDI»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Uzun marketta sabdo qilmokchisis, lekin sarmoya uzun oqilamay dadib ikilani yapsizm?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость",
+   "без опыта",
+   "доход",
+   "стабильность"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 1 из 4 (≈00:03): «SARMOYA O'ZINI OQLAMAYDI»",
+    "timecode": "00:03"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:07] Unda siz, qanday qilib uzun marketta noldan sabdonu boshlashni,",
+    "timecode": "00:07"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:13] va o'yige stabil 1000 dollarda romant qilishni orginasiz.",
+    "timecode": "00:13"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈00:20): в Telegram-канале файл «0 dan ish boshlab $1000 ga yetish bo'yicha guide.pdf»",
+    "timecode": "00:20"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "oyiga stabil $1000 daromad topishni o'rganib olasiz"
+   }
+  ],
+  "income_claim": "oyiga stabil 1000 dollar daromad qilishni o'rganasiz (речь, написание исправлено) / oyiga stabil $1000 daromad topishni o'rganib olasiz (текст объявления)"
+ },
+ "offer": {
+  "items": [
+   "лид-магнит (PDF, гайд)"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:04] Biz aynan siz uchun biyapul pdf kollanma tayorladik.",
+    "timecode": "00:04"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Uzum Market’da 0 dan savdo boshlash bo‘yicha bepul PDF qo‘llanma"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:17] Failni yukilab olishchun, xozirov telegram kanalimizgi otin.",
+    "timecode": "00:17"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈00:20): экран Telegram-канала «Qadam | Uzum Market» с тремя PDF-файлами и надписью «закрепил(а) файл»",
+    "timecode": "00:20"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "лид-магнит"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "высокая",
+ "notes": "Хук — текст на кадрах («SARMOYA O'ZINI OQLAMAYDI»), полная фраза по расшифровке, написание исправлено («sabdo qilmokchisis, lekin sarmoya uzun oqilamay dadib ikilani yapsizm» → «savdo qilmoqchisiz, lekin sarmoya o'zini oqlamaydi deb ikkilanyapsizmi»). Оффер — бесплатный PDF-гайд; призыв [00:17–00:19]: «Faylni yuklab olish uchun hoziroq Telegram kanalimizga o'ting. PDF fayl sizni biriktirilgan fayllarda allaqachon kutib turmoqda» (написание исправлено). На кадре 4 из 4 — экран канала «Qadam | Uzum Market» с тремя PDF («0 dan ish boshlab $1000 ga yetish bo'yicha guide.pdf», «Marketplace_menejeri_bo'lib_oyiga_50...h_uchun.pdf», «Offline savdoni Online savdoga o'tkazish guide.pdf») и приглашением «har kungi JONLI VIDEOCHATGA» — в ролике не озвучено, в оффер не включено. Несовпадение: ролик зовёт в Telegram за PDF, а ссылка — лендинг qadam.education/uzum-masterklass (по адресу — мастер-класс, текст объявления — про PDF). «oyiga stabil 1000 dollar» → risk."
+}

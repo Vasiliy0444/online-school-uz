@@ -1,0 +1,56 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.64,
+   "text": "Ha, ingilisli organ maqtsiz, lekin uy, ish, o'ile tashvishlari, organishki waqt yox, am bubda bir amal la waqto pamanciz offline."
+  },
+  {
+   "start": 8.88,
+   "end": 12.1,
+   "text": "Probke, bir eam suat waqti daki vachiz kili, uy ishisi barxali."
+  },
+  {
+   "start": 12.62,
+   "end": 14.32,
+   "text": "Qullaz, ishli adamlagi butu or kemidi."
+  },
+  {
+   "start": 14.4,
+   "end": 19.5,
+   "text": "Shunan biligan xalda ingilifay aynan ishli tighiz adamlar uchun tizim olayp topgan."
+  },
+  {
+   "start": 19.5,
+   "end": 23.58,
+   "text": "Xam asasiz uchun, kunigi ellik dakiqa yetadi, darsni yuki."
+  },
+  {
+   "start": 23.74,
+   "end": 26.34,
+   "text": "Yox, yani elli dakiqa oturup dasqa misiz."
+  },
+  {
+   "start": 26.34,
+   "end": 36.3,
+   "text": "10 danyqda 10 danyqqadan telefonizm usibigildi, xoxilagyan joydi, xoxilagyan vaqdi, suni intelekt bilan suqbatlashansiz, suni intelekt xatalari sizgi etadi, yunaltiradi, tizimlashdirirgan,"
+  },
+  {
+   "start": 36.38,
+   "end": 46.1,
+   "text": "video darslar, mashqilar, podcastlar aynan eksklusiv, aynan uzmuz uchun olinyan ingilisildigi podcastlar, darajigim olijala, beginner uchun podcast, elementary uchun podcast,"
+  },
+  {
+   "start": 46.22,
+   "end": 53.08,
+   "text": "xulaz funksiyalar judayam kob, rohsa nateyce beradimi ishidimi doqtgan, boshiz xabalan usdugi, boshin mutagayislarimiz xamasin chuntiri berishadi."
+  }
+ ],
+ "chars": 928,
+ "chars_per_s": 17.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

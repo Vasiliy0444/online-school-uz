@@ -1,0 +1,151 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Ki ozi izi, savdaayiz bar bazarili di."
+  },
+  {
+   "start": 2.0,
+   "end": 5.12,
+   "text": "Qujum chiayni onlayi savdaayini kuchaytirmakchi bu siz."
+  },
+  {
+   "start": 5.12,
+   "end": 7.12,
+   "text": "Bu sizgi zor biznis boladi shani."
+  },
+  {
+   "start": 7.12,
+   "end": 8.48,
+   "text": "Serozni itomba?"
+  },
+  {
+   "start": 8.48,
+   "end": 10.08,
+   "text": "Bitda batafsil chulturimu,"
+  },
+  {
+   "start": 10.08,
+   "end": 12.56,
+   "text": "uzo marketdi savda qilishi orgini wali,"
+  },
+  {
+   "start": 12.56,
+   "end": 14.88,
+   "text": "di shani, katta biznismen bub getas."
+  },
+  {
+   "start": 14.88,
+   "end": 16.72,
+   "text": "Botdigi orgini digaylar ozi,"
+  },
+  {
+   "start": 16.72,
+   "end": 18.96,
+   "text": "vashi onlayi savdaada tur mili artkachi"
+  },
+  {
+   "start": 18.96,
+   "end": 21.28,
+   "text": "sodi qiladi gyalla orgini tisharkandi,"
+  },
+  {
+   "start": 21.28,
+   "end": 24.08,
+   "text": "iki minn tiga ozhu adangi orgini kamsil uzi."
+  },
+  {
+   "start": 24.08,
+   "end": 25.28,
+   "text": "Iti dama shok uchilarimiza,"
+  },
+  {
+   "start": 25.28,
+   "end": 26.08,
+   "text": "unumgi abaratimiz,"
+  },
+  {
+   "start": 26.08,
+   "end": 28.0,
+   "text": "247 miliangi chikdiz, unumab yetdi."
+  },
+  {
+   "start": 28.0,
+   "end": 29.9,
+   "text": "Abarotamizi 40 minun naqshu atdi."
+  },
+  {
+   "start": 30.08,
+   "end": 33.28,
+   "text": "Bir ay ichidi, 30 minun che, navirna abarot bolidi."
+  },
+  {
+   "start": 33.36,
+   "end": 35.66,
+   "text": "Kurs qimadmazbi, qanartibu qil nadi, odurgenli?"
+  },
+  {
+   "start": 35.86,
+   "end": 38.22,
+   "text": "Kurssi online oxiz bolidi, fama offline oxiz bolidi."
+  },
+  {
+   "start": 38.68,
+   "end": 41.44,
+   "text": "Agar online bolisi, ke botir shartamaz?"
+  },
+  {
+   "start": 41.68,
+   "end": 45.7,
+   "text": "Da, platformani qikras, ozdani platformoza bar, unichida fama video darsilani oxiz bolidi."
+  },
+  {
+   "start": 45.98,
+   "end": 50.62,
+   "text": "Agar si toshkinli torsis, shundi AYB-i metrogi yakin jaydiygin, shudda oxiz bolidi."
+  },
+  {
+   "start": 50.62,
+   "end": 55.74,
+   "text": "Tol olayan, halisiz nakti diz, halisiz bolib toleshgan, polisi bolidi."
+  },
+  {
+   "start": 55.74,
+   "end": 60.5,
+   "text": "Man namindan kia sez kondora qoydu, yana bittda kurs sez, be pul qbera digan bu asillashna."
+  },
+  {
+   "start": 60.5,
+   "end": 63.06,
+   "text": "Keli, mittish xilamiz."
+  },
+  {
+   "start": 63.06,
+   "end": 66.66,
+   "text": "Pastda balim abzidu qaldir sez, be pul darsli ta shaberlad."
+  },
+  {
+   "start": 66.66,
+   "end": 69.86,
+   "text": "Bittda qorib chqazdi, ki makul bosa u qor asiz."
+  },
+  {
+   "start": 69.86,
+   "end": 71.98,
+   "text": "Makul bomasa, yanay vishay vishay yorur asiz."
+  },
+  {
+   "start": 71.98,
+   "end": 76.02,
+   "text": "Pastda silke var, haz balim abzidu qaldiri faydalanmali inlaygan."
+  }
+ ],
+ "chars": 1292,
+ "chars_per_s": 16.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,70 @@
+{
+ "creative_id": "661092653718227",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "≤15 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "New IELTS program.",
+  "types": [
+   "новость"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–1.0s: мужчина с бейджем «TEACHER» держит оранжевую папку «IELTS-X»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 1.5s–2.5s: второй мужчина с тем же бейджем и папкой на фоне тёмного зала, на стене читается «…ter nation»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] New IELTS program.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Programma IELTS 9.0 natijasiga ega ekspertlar, Xalqaro CELTA sertifikati, native speaker'lar va mahalliy ekspertlar tomonidan ishlab chiqilgan"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "основатель или эксперт"
+ },
+ "language": "смешанный",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "Расшифровка «низкое» качество — распознана только одна фраза («New IELTS program», на английском, чёткая), остальную речь не цитирую, восстанавливаю по кадрам и тексту объявления. Оба героя явно подписаны бейджем «TEACHER» и держат папку IELTS-X — трактую как «основатель или эксперт» (представлены как преподаватели-разработчики программы), без имени (на кадре не подписано). Финал по кадру: курсивный текст «Havola orqali RO'YXATDAN O'TING»."
+}

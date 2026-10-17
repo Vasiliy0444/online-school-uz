@@ -1,0 +1,134 @@
+{
+ "creative_id": "986760527015927",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Uzum Marketda savdo qilmoqchisiz, lekin sarmoyangiz o'zini oqlashidan ikkilanyapsizmi?",
+  "types": [
+   "вопрос",
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "таймер или обратный отсчёт",
+   "логотип площадки (Uzum и т.п.)",
+   "деньги или результат на экране"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s: таймер «00:35», «21+», логотип Uzum Market; ведущий на диване",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.0s: «SAVDO QILMOQCHISIZ»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s: «lekin sarmoyangiz»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 2.5s: летящие долларовые купюры",
+    "timecode": "00:02"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 1 из 4 (≈00:04): «O'ZINI OQLASHIDAN», летящие купюры",
+    "timecode": "00:04"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Uzun markette savda qilmakchisisiz, lekin sarmayangiz ozon aqilashdan ikilaniyatsizmiz?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость",
+   "без опыта",
+   "доход",
+   "стабильность"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 1 из 4 (≈00:04): «O'ZINI OQLASHIDAN»",
+    "timecode": "00:04"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈00:11): «0 DAN DAR…» (надпись появляется)",
+    "timecode": "00:11"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (≈00:18): «$1000 OYLIK DAROMAD»",
+    "timecode": "00:18"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:15] i undan tashkara aige stabilni min dolar daromad tapishi yoli or getilinadi.",
+    "timecode": "00:15"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:19] Bugun kollamma sizgi tohri yonalish beridi, artikchi tavekkiyali vay shukalasiz.",
+    "timecode": "00:19"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "oyiga stabil $1000 daromad topishni o'rganib olasiz"
+   }
+  ],
+  "income_claim": "$1000 OYLIK DAROMAD (кадр) / oyiga stabil $1000 daromad topishni o'rganib olasiz (текст объявления)"
+ },
+ "offer": {
+  "items": [
+   "лид-магнит (PDF, гайд)"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:05] Biz aynin siz uchun Beeple PDF kollamma tayyarladiyi.",
+    "timecode": "00:05"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Uzum Market’da 0 dan savdo boshlash bo‘yicha bepul PDF qo‘llanma"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈00:25): «hoziroq kanalimizga»; экран телефона с Telegram-каналом «Qadam | Uzum Market»",
+    "timecode": "00:25"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "лид-магнит"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "высокая",
+ "notes": "Хук — текст на кадрах («SAVDO QILMOQCHISIZ», «lekin sarmoyangiz», «O'ZINI OQLASHIDAN»), полная фраза по расшифровке, написание исправлено («savda qilmakchisisiz, lekin sarmayangiz ozon aqilashdan ikilaniyatsizmiz» → «savdo qilmoqchisiz, lekin sarmoyangiz o'zini oqlashidan ikkilanyapsizmi»). Перевод: «хотите торговать на Uzum Market, но сомневаетесь, окупятся ли вложения?». По речи гайд «sizga to'g'ri yo'nalish beradi», конец фразы («artikchi tavekkiyali vay shukalasiz») неразборчив. Оффер и призыв — как в 1509620034215065: PDF ждёт в закреплённом сообщении Telegram-канала, [00:23] «hoziroq kanalimizga o'ting» (написание исправлено). Несовпадение: ролик зовёт в Telegram, ссылка — лендинг qadam.education/uzum-pdf. «oyiga stabil $1000» — обещание дохода → risk."
+}

@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.8,
+   "text": "Agar siz xalyam dasrlashni kod yazishidib chumatgan bosiz, unda ulgayish vaqt kertdi."
+  },
+  {
+   "start": 3.8,
+   "end": 7.0,
+   "text": "Atigi toroida, web-sayt, seriyim, xarkil turot uzunlari"
+  },
+  {
+   "start": 7.0,
+   "end": 9.6,
+   "text": "va startaplarini oziyiz noludan borsab quroq alasiz."
+  },
+  {
+   "start": 9.6,
+   "end": 12.0,
+   "text": "Agar on kulay takriblabdan bergalydi,"
+  },
+  {
+   "start": 12.0,
+   "end": 13.8,
+   "text": "najotlarimda oqishni borslamak ishib bosiz,"
+  },
+  {
+   "start": 13.8,
+   "end": 15.6,
+   "text": "unda mana borakani bi telefon qoliyo ki,"
+  },
+  {
+   "start": 15.6,
+   "end": 18.4,
+   "text": "xab aalanini basib, oziy marmatlarisi xalirin, biziz gyalogga gashqamiz."
+  }
+ ],
+ "chars": 390,
+ "chars_per_s": 21.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

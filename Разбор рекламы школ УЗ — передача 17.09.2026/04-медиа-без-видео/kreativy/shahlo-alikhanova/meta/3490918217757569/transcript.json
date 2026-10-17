@@ -1,0 +1,61 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.7,
+   "text": "Bugun kurs, aya aqqali daromad top gelish vatdi."
+  },
+  {
+   "start": 2.84,
+   "end": 7.0,
+   "text": "Yo'u bugla programiz, IT-ishnik, yo'ki injinirimiz, bulayam, oddi insol li."
+  },
+  {
+   "start": 7.08,
+   "end": 10.62,
+   "text": "Lekin bulayam bitta xarki, aya yi vokliro bilish kani,"
+  },
+  {
+   "start": 10.74,
+   "end": 12.94,
+   "text": "vabun togri sistemi di, orgen geligilari."
+  },
+  {
+   "start": 13.04,
+   "end": 15.2,
+   "text": "Chupayat kechi, bir yarimgi yakunan kursi lan okutikyan bozik,"
+  },
+  {
+   "start": 15.3,
+   "end": 18.78,
+   "text": "kursi lanimiz 90% diyaliziz maqsatlargi erishib, yorlan top geldi."
+  },
+  {
+   "start": 18.78,
+   "end": 20.22,
+   "text": "Endi sizam uladan briboli,"
+  },
+  {
+   "start": 20.32,
+   "end": 23.44,
+   "text": "bi 2026-ci il Ozbekistan da daroma topishni orgen moqchibosiz,"
+  },
+  {
+   "start": 23.52,
+   "end": 24.94,
+   "text": "pastegi tugmani basib videonu kori,"
+  },
+  {
+   "start": 24.94,
+   "end": 26.68,
+   "text": "ma u liman itisigifu adalivu lada"
+  }
+ ],
+ "chars": 511,
+ "chars_per_s": 18.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

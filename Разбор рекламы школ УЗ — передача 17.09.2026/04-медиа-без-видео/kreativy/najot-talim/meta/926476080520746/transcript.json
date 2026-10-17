@@ -1,0 +1,81 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.56,
+   "text": "Qazir kilijidigi ozmi telfon qiporaman."
+  },
+  {
+   "start": 3.24,
+   "end": 4.96,
+   "text": "Alo, asalamu alaykum."
+  },
+  {
+   "start": 5.38,
+   "end": 6.62,
+   "text": "Wa alaykum asalam, kim bu?"
+  },
+  {
+   "start": 6.96,
+   "end": 10.9,
+   "text": "Bu man, yani san man, taqat otmishdan, 2026-ci il basidan."
+  },
+  {
+   "start": 11.22,
+   "end": 13.5,
+   "text": "Nima gepli, kaifiyyatli yaxshimi, ishli qalib."
+  },
+  {
+   "start": 13.84,
+   "end": 15.12,
+   "text": "Yo, yo, yaxshimiz."
+  },
+  {
+   "start": 16.18,
+   "end": 17.36,
+   "text": "Biz siz qaldik."
+  },
+  {
+   "start": 17.86,
+   "end": 20.5,
+   "text": "Yo, qayb, qana qilib, qana qilib."
+  },
+  {
+   "start": 21.2,
+   "end": 22.2,
+   "text": "Ozgar, tirsam boladim bunu?"
+  },
+  {
+   "start": 22.52,
+   "end": 24.04,
+   "text": "Hamma cay suni intilik bob ketti."
+  },
+  {
+   "start": 24.62,
+   "end": 26.38,
+   "text": "Vaqtiin barada suni intilik korgan hua."
+  },
+  {
+   "start": 26.38,
+   "end": 29.3,
+   "text": "Ati gi itka, najatlarim borgan sin boladim."
+  },
+  {
+   "start": 29.3,
+   "end": 31.46,
+   "text": "Bol do bol do, chundim, nima qilishin kari?"
+  },
+  {
+   "start": 31.76,
+   "end": 35.7,
+   "text": "Najat talim zor taklikli biru ati, batafsani bilishdi qichun, xawalanibaz."
+  }
+ ],
+ "chars": 528,
+ "chars_per_s": 14.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

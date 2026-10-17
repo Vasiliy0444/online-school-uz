@@ -1,0 +1,66 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.54,
+   "text": "Ishki krivotkanda sertifikat gere boladim o'zu?"
+  },
+  {
+   "start": 2.92,
+   "end": 7.26,
+   "text": "Sertifikatini bilmadim o'u, lekin o'z ishin ussasi bolgan bu taqasis xar dan kerek."
+  },
+  {
+   "start": 7.42,
+   "end": 10.64,
+   "text": "Shunengi chun, uqumar kesta nolotkanda chuda khushar bolish kiri."
+  },
+  {
+   "start": 10.8,
+   "end": 13.54,
+   "text": "IT House-la web dasturlash kaspini orgen san giz,"
+  },
+  {
+   "start": 13.66,
+   "end": 17.6,
+   "text": "uch oy biyopula maliyot va use voice ishki jorlash izike faulatini baz beramiz."
+  },
+  {
+   "start": 17.96,
+   "end": 20.68,
+   "text": "Kurs 12 oy davam etadiva shu vaxt ijlisiz,"
+  },
+  {
+   "start": 20.68,
+   "end": 24.8,
+   "text": "real proyektlar blan ishlayisiz, va tayyor partfolio blan chigasiz."
+  },
+  {
+   "start": 24.8,
+   "end": 29.92,
+   "text": "Adkenche kampanyalar web dasturchilar uchun 2.000 dolordan 3.000 dolar gecet olashka tayyor."
+  },
+  {
+   "start": 30.24,
+   "end": 33.4,
+   "text": "Siz bunu uzingiz Headhunter uz saytidan tixirib korsayngiz boladi."
+  },
+  {
+   "start": 33.68,
+   "end": 37.34,
+   "text": "Shuk hafta web dasturlash boyche mutloko web olachuk dast bolib otadi."
+  },
+  {
+   "start": 37.52,
+   "end": 40.12,
+   "text": "Rokhatans uchun xoz rokbastagi xabalana basim."
+  }
+ ],
+ "chars": 716,
+ "chars_per_s": 17.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

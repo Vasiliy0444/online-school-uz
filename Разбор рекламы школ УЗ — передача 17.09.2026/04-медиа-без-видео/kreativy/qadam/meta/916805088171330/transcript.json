@@ -1,0 +1,356 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.44,
+   "text": "E fili de boysi, man do'ulat ishidan boshamestan turib, koshimchi ish qilib, kushoyib kitkiam ma."
+  },
+  {
+   "start": 4.44,
+   "end": 5.44,
+   "text": "Ozi li le bilisli."
+  },
+  {
+   "start": 5.44,
+   "end": 7.0,
+   "text": "Sida yin khud ushina qusili bolad."
+  },
+  {
+   "start": 7.0,
+   "end": 9.64,
+   "text": "Man sida ge orqetatikimti zor jay taf koydim akeli."
+  },
+  {
+   "start": 9.64,
+   "end": 13.16,
+   "text": "Onlayn, ki chkana qano, arayn degi joyam alishi li shabtlamaz."
+  },
+  {
+   "start": 13.16,
+   "end": 15.16,
+   "text": "Qullasi orqetam yuriyledi, kuzat variyledi."
+  },
+  {
+   "start": 15.16,
+   "end": 18.96,
+   "text": "Mana masalan, uzumda sida ge biznis kliysi orqet koymachchi man ku."
+  },
+  {
+   "start": 18.96,
+   "end": 23.04,
+   "text": "Uzummi bir leche yusta tavar tapshish kumplari bar."
+  },
+  {
+   "start": 23.04,
+   "end": 25.32,
+   "text": "Bir leche min adam siladan tavar olad."
+  },
+  {
+   "start": 25.32,
+   "end": 26.44,
+   "text": "An, sizam oganci."
+  },
+  {
+   "start": 26.44,
+   "end": 29.08,
+   "text": "Sizam unikanli tavar tapib, shotu sot seyle goledi."
+  },
+  {
+   "start": 29.08,
+   "end": 31.68,
+   "text": "Meselen, bozarda olib, opting olib, sot ya siz."
+  },
+  {
+   "start": 31.68,
+   "end": 33.04,
+   "text": "Yok yosda, Xitoyda takoy."
+  },
+  {
+   "start": 33.04,
+   "end": 35.04,
+   "text": "Unikanli tavar olin, xichkim do qoymasin,"
+  },
+  {
+   "start": 35.04,
+   "end": 36.24,
+   "text": "shumda, ansoragim sot ya siz."
+  },
+  {
+   "start": 36.24,
+   "end": 38.04,
+   "text": "Bulanyam, sige orga tib koyamiz."
+  },
+  {
+   "start": 38.04,
+   "end": 40.88,
+   "text": "Qullas, siz, biyagocizi, maksulatizi,"
+  },
+  {
+   "start": 40.88,
+   "end": 42.88,
+   "text": "topchirganizdanki geyin, skilat gey boradi."
+  },
+  {
+   "start": 42.88,
+   "end": 45.04,
+   "text": "Skilattan tarq atish, tolollari,"
+  },
+  {
+   "start": 45.04,
+   "end": 47.48,
+   "text": "nasiyagi birish, xemmi xarakatlanix,"
+  },
+  {
+   "start": 47.48,
+   "end": 48.44,
+   "text": "uzunmu uzuk oladi."
+  },
+  {
+   "start": 48.44,
+   "end": 51.44,
+   "text": "Sizgi fakatgini, computer bilan internet bolsa boldi."
+  },
+  {
+   "start": 51.44,
+   "end": 53.44,
+   "text": "Lekin, blamaniyam organib po ishkiri."
+  },
+  {
+   "start": 53.44,
+   "end": 54.44,
+   "text": "As-salamu alaikar, shikirik."
+  },
+  {
+   "start": 54.44,
+   "end": 55.44,
+   "text": "As-salamu alaikar, yasim, shiz."
+  },
+  {
+   "start": 55.44,
+   "end": 56.44,
+   "text": "Khadamitki, xishkirib, shatibiki?"
+  },
+  {
+   "start": 56.44,
+   "end": 58.44,
+   "text": "Oki, markazik ordam, gapiyo."
+  },
+  {
+   "start": 58.44,
+   "end": 59.44,
+   "text": "Qis qaci gapir beni?"
+  },
+  {
+   "start": 59.44,
+   "end": 61.44,
+   "text": "Bize, 2002-2003-i ildan beri,"
+  },
+  {
+   "start": 61.44,
+   "end": 63.44,
+   "text": "odamdagi rakamniy kashbani orga etifkilamzi."
+  },
+  {
+   "start": 63.44,
+   "end": 65.44,
+   "text": "Imin, di uzum yonalisi qoyuchi,"
+  },
+  {
+   "start": 65.44,
+   "end": 67.44,
+   "text": "3.500-da artib uquchilani shukun gechi orga etifkilgamzi."
+  },
+  {
+   "start": 67.44,
+   "end": 69.44,
+   "text": "Qat daal diyo doshin uch olgam?"
+  },
+  {
+   "start": 69.44,
+   "end": 70.44,
+   "text": "Qatdan siz eshtifkilis?"
+  },
+  {
+   "start": 70.44,
+   "end": 76.14,
+   "text": "Bizi yaxsh mutaslan iski agamizi, uzlarin aborotlar, kur yar miliartla, beş miliartla aborotli okulucilarimizi var."
+  },
+  {
+   "start": 76.14,
+   "end": 80.76,
+   "text": "Har ay kamyda su uchusdda, torusdda okulucilani okutib, su uynasitda daramat kurski yardam iradim."
+  },
+  {
+   "start": 80.76,
+   "end": 82.44,
+   "text": "Qanaqin formatla da orga tas?"
+  },
+  {
+   "start": 82.44,
+   "end": 83.88,
+   "text": "Bizani uz ikil formatmiz bar."
+  },
+  {
+   "start": 83.88,
+   "end": 85.08,
+   "text": "Offline le online."
+  },
+  {
+   "start": 85.08,
+   "end": 87.64,
+   "text": "Offline nas okul markazimizi ikil organcisi boladi."
+  },
+  {
+   "start": 87.64,
+   "end": 89.16,
+   "text": "Sunuk o, bi metron aldidi."
+  },
+  {
+   "start": 89.16,
+   "end": 93.32,
+   "text": "Bu, Kopra Tashkendi yasab turib, masiddi sabdaqoci organama didigali uchuk olay ikidi."
+  },
+  {
+   "start": 93.32,
+   "end": 96.16,
+   "text": "Agar online organama, uzumla vloayatimda organama,"
+  },
+  {
+   "start": 96.16,
+   "end": 98.16,
+   "text": "Ya ki maryam vahqin camera diydigin adamli bosa,"
+  },
+  {
+   "start": 98.16,
+   "end": 100.16,
+   "text": "beynmala oz bunlar okul platformarimiza bar."
+  },
+  {
+   "start": 100.16,
+   "end": 101.66,
+   "text": "Ota xaymab video dersini abolingay,"
+  },
+  {
+   "start": 101.66,
+   "end": 104.16,
+   "text": "oj ki beynmala qatmashib saldaqar shorgaygisi boladim."
+  },
+  {
+   "start": 104.16,
+   "end": 106.16,
+   "text": "Topka chikgan shogatlarimiz ba ma?"
+  },
+  {
+   "start": 106.16,
+   "end": 108.16,
+   "text": "Albeta, biz zayn o okulchilarimizi"
+  },
+  {
+   "start": 108.16,
+   "end": 109.16,
+   "text": "judang kota natijiyyikili shaydi."
+  },
+  {
+   "start": 109.16,
+   "end": 111.66,
+   "text": "Ham okulchili ozan natijiyyikilarima bolish bar shaydi."
+  },
+  {
+   "start": 111.66,
+   "end": 113.66,
+   "text": "Netikbul aborotli shohat, kanarkali shohatli,"
+  },
+  {
+   "start": 113.66,
+   "end": 115.66,
+   "text": "milartli aborotli kladigin okulchilarimiz zayn buja bar."
+  },
+  {
+   "start": 115.66,
+   "end": 118.16,
+   "text": "Ma eshqin bu icchi 40% ayolli ikani?"
+  },
+  {
+   "start": 118.16,
+   "end": 120.96,
+   "text": "40-60 ayarlı mali desdik"
+  },
+  {
+   "start": 120.96,
+   "end": 123.76,
+   "text": "Rasta, u ydo otiradi geyn bozda legen bu ishqorga"
+  },
+  {
+   "start": 123.76,
+   "end": 125.76,
+   "text": "U ydo otiraban soqqa qit dashchadi"
+  },
+  {
+   "start": 125.76,
+   "end": 127.76,
+   "text": "Kotda-kotda tavarli obkiradi geynlati"
+  },
+  {
+   "start": 127.76,
+   "end": 129.76,
+   "text": "Mesala, men uyumda tor usta karchadib var"
+  },
+  {
+   "start": 129.76,
+   "end": 131.76,
+   "text": "Birni chizdan veri satolmidi"
+  },
+  {
+   "start": 131.76,
+   "end": 133.76,
+   "text": "Xun u kinga da realizadigi veri olsan bolarkan"
+  },
+  {
+   "start": 133.76,
+   "end": 135.76,
+   "text": "Dile burgen geynladan"
+  },
+  {
+   "start": 135.76,
+   "end": 137.76,
+   "text": "Chuki bizda ozi qite yunalqis bozdi bolarti"
+  },
+  {
+   "start": 137.76,
+   "end": 139.76,
+   "text": "Uzun markitdi ichidi"
+  },
+  {
+   "start": 139.76,
+   "end": 141.76,
+   "text": "Ya ki sati uchi obkirsi, ya ki menizib obkirsi"
+  },
+  {
+   "start": 141.76,
+   "end": 143.76,
+   "text": "Sati uchi le ozi tavargi fulchik yap"
+  },
+  {
+   "start": 143.76,
+   "end": 145.76,
+   "text": "Ozi sabda okolib, ozi xamesi gey jab verar"
+  },
+  {
+   "start": 145.76,
+   "end": 175.76,
+   "text": "Mikaa sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sabarana sab"
+  },
+  {
+   "start": 175.76,
+   "end": 181.42,
+   "text": "Minicillarmiz uzarsiz yalokaya chikadi, ushetin nime sovoli libosir diri tuluk malimotlana olisda."
+  }
+ ],
+ "chars": 3589,
+ "chars_per_s": 19.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

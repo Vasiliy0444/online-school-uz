@@ -1,0 +1,56 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.04,
+   "text": "Khurmatlii bugaltir akelar va apalar, siznin kulli qilad genchlariniz yildan yilgi asalashib barmakti."
+  },
+  {
+   "start": 5.36,
+   "end": 10.08,
+   "text": "Lekin, sizgi bir saval, siznin bu qilad genchlariniz asalashib yok bolib getmaskmikin?"
+  },
+  {
+   "start": 10.3,
+   "end": 11.68,
+   "text": "Shuh haqda xich oyla kordingizma?"
+  },
+  {
+   "start": 12.1,
+   "end": 16.5,
+   "text": "Keling, men sizgi kilecek kastlaridan biri bolgan, aynaksi bugaltirler tezrak chunazgan,"
+  },
+  {
+   "start": 16.6,
+   "end": 20.56,
+   "text": "hamda organishki ansambolgan data analitike kast faqidi malimat peraman."
+  },
+  {
+   "start": 21.02,
+   "end": 24.5,
+   "text": "Ses ush bu kastda turli hir khacimdagi rakamli malimatlarini bircayi toblab,"
+  },
+  {
+   "start": 24.5,
+   "end": 28.6,
+   "text": "chirali formatta korsatishni organasis, atdigi yit taydi data analitike kasmini,"
+  },
+  {
+   "start": 28.6,
+   "end": 32.44,
+   "text": "Ozbeksondagi enkette IT-markaz Najat Talamda organishiniz munkun."
+  },
+  {
+   "start": 32.84,
+   "end": 35.86,
+   "text": "Be pul oaçk dartski yazilus chun quydagi xawalar qalik royqattan otin."
+  }
+ ],
+ "chars": 680,
+ "chars_per_s": 18.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

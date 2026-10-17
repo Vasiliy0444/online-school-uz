@@ -1,0 +1,931 @@
+{
+ "url": "https://inter-nation.uz",
+ "domain": "inter-nation.uz",
+ "pages_scanned": [
+  "https://inter-nation.uz/ru"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)",
+   "Google Tag Manager"
+  ],
+  "platform": [
+   "Next.js"
+  ]
+ },
+ "seo_metadata": {
+  "open_graph": {
+   "title": "Inter Nation English School — O&#x27;zbekistondagi #1 ingliz tili va IELTS markazi",
+   "description": "2013 yildan beri 23,000+ talaba, 14 filial (Online qo&#x27;shilgan holda), 5+ IELTS 9.0 o&#x27;qituvchi. Oxford University Press litsenziyali dastur va mualliflik IELTS-X kursi.",
+   "image": "https://inter-nation.uz/banner.png",
+   "type": "website",
+   "url": "https://inter-nation.uz",
+   "site_name": "Inter Nation English School"
+  },
+  "twitter_card": {
+   "card": "summary_large_image",
+   "title": "Inter Nation English School — O&#x27;zbekistondagi #1 ingliz tili va IELTS markazi",
+   "description": "2013 yildan beri 23,000+ talaba, 14 filial (Online qo&#x27;shilgan holda), 5+ IELTS 9.0 o&#x27;qituvchi.",
+   "image": "https://inter-nation.uz/banner.png"
+  },
+  "canonical": "https://inter-nation.uz",
+  "hreflang": [
+   {
+    "lang": "uz",
+    "url": "https://inter-nation.uz/"
+   },
+   {
+    "lang": "en",
+    "url": "https://inter-nation.uz/en"
+   },
+   {
+    "lang": "ru",
+    "url": "https://inter-nation.uz/ru"
+   },
+   {
+    "lang": "x-default",
+    "url": "https://inter-nation.uz/"
+   }
+  ],
+  "structured_data": [
+   {
+    "@context": "https://schema.org",
+    "@type": "EducationalOrganization",
+    "@id": "https://inter-nation.uz#organization",
+    "name": "Inter Nation English School",
+    "alternateName": [
+     "INTER NATION SCHOOL",
+     "Inter Nation",
+     "Inter Nation o'quv markazi",
+     "Интер Нейшн"
+    ],
+    "url": "https://inter-nation.uz",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://inter-nation.uz/logo.png",
+     "width": 512,
+     "height": 512
+    },
+    "image": "https://inter-nation.uz/banner.png",
+    "telephone": "+998787777707",
+    "email": "info@inter-nation.uz",
+    "description": "Inter Nation English School — O'zbekistondagi eng yirik ingliz tili va IELTS o'quv markazi. 2013 yildan beri 23,000+ talaba o'qiydi, 14 filial (13 jismoniy + Online), 5+ IELTS 9.0 sertifikatli o'qituvchi va Oxford University Press litsenziyali dastur.",
+    "slogan": "The largest English language and IELTS preparation center in Uzbekistan",
+    "foundingDate": "2013-07-22",
+    "numberOfStudents": 23000,
+    "areaServed": [
+     {
+      "@type": "Country",
+      "name": "Uzbekistan"
+     },
+     {
+      "@type": "City",
+      "name": "Tashkent"
+     },
+     {
+      "@type": "City",
+      "name": "Samarkand"
+     },
+     {
+      "@type": "City",
+      "name": "Andijan"
+     }
+    ],
+    "knowsLanguage": [
+     "en",
+     "uz",
+     "ru"
+    ],
+    "address": [
+     {
+      "@type": "PostalAddress",
+      "addressLocality": "Tashkent",
+      "addressRegion": "Tashkent",
+      "addressCountry": "UZ"
+     },
+     {
+      "@type": "PostalAddress",
+      "addressLocality": "Samarkand",
+      "addressCountry": "UZ"
+     },
+     {
+      "@type": "PostalAddress",
+      "addressLocality": "Andijan",
+      "addressCountry": "UZ"
+     }
+    ],
+    "contactPoint": [
+     {
+      "@type": "ContactPoint",
+      "telephone": "+998787777707",
+      "contactType": "customer service",
+      "areaServed": "UZ",
+      "availableLanguage": [
+       "English",
+       "Uzbek",
+       "Russian"
+      ]
+     }
+    ],
+    "sameAs": [
+     "https://t.me/internationUZ",
+     "https://www.instagram.com/inter_nation_english_school/"
+    ],
+    "openingHoursSpecification": {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+     ],
+     "opens": "08:00",
+     "closes": "22:00"
+    },
+    "hasCredential": [
+     {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Oxford University Press Licensed Curriculum",
+      "credentialCategory": "license"
+     },
+     {
+      "@type": "EducationalOccupationalCredential",
+      "name": "IELTS-X Proprietary Program",
+      "credentialCategory": "certification"
+     }
+    ],
+    "hasOfferCatalog": {
+     "@type": "OfferCatalog",
+     "name": "Courses",
+     "itemListElement": [
+      {
+       "@type": "Course",
+       "name": "IELTS Preparation (IELTS-X)",
+       "description": "Proprietary copyright-protected IELTS preparation program designed by IELTS 9.0 holders and native speakers. Covers all four skills with a free CD Mock IELTS exam.",
+       "provider": {
+        "@id": "https://inter-nation.uz#organization"
+       },
+       "inLanguage": "en",
+       "educationalLevel": "Intermediate to Advanced",
+       "teaches": "IELTS Reading, Listening, Writing, Speaking",
+       "offers": {
+        "@type": "Offer",
+        "category": "Test preparation",
+        "availability": "https://schema.org/InStock"
+       }
+      },
+      {
+       "@type": "Course",
+       "name": "General English (Oxford University Press)",
+       "description": "Five-level licensed Oxford University Press curriculum from beginner to advanced, with interactive lessons and the Inter Nation Student App.",
+       "provider": {
+        "@id": "https://inter-nation.uz#organization"
+       },
+       "inLanguage": "en",
+       "educationalLevel": "A1 to C1",
+       "teaches": "General English communication, grammar, vocabulary"
+      },
+      {
+       "@type": "Course",
+       "name": "Kids English",
+       "description": "Age-appropriate English program for children with games and interactive content.",
+       "provider": {
+        "@id": "https://inter-nation.uz#organization"
+       },
+       "inLanguage": "en"
+      },
+      {
+       "@type": "Course",
+       "name": "Online English & IELTS",
+       "description": "Full distance-learning English and IELTS programs delivered live with the Student App and AI tutor Professor Harry.",
+       "provider": {
+        "@id": "https://inter-nation.uz#organization"
+       },
+       "inLanguage": "en",
+       "courseMode": "online"
+      }
+     ]
+    },
+    "award": [
+     "Largest English learning center in Uzbekistan by enrollment (23,000+ active students)",
+     "5+ IELTS 9.0 band-holding instructors on staff"
+    ],
+    "member": {
+     "@type": "OrganizationRole",
+     "description": "5+ teaching staff members hold IELTS Band 9.0 (highest possible band)"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "https://inter-nation.uz#website",
+    "url": "https://inter-nation.uz",
+    "name": "Inter Nation English School",
+    "publisher": {
+     "@id": "https://inter-nation.uz#organization"
+    },
+    "inLanguage": [
+     "uz",
+     "en",
+     "ru"
+    ],
+    "potentialAction": {
+     "@type": "SearchAction",
+     "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://inter-nation.uz/?q={search_term_string}"
+     },
+     "query-input": "required name=search_term_string"
+    }
+   },
+   [
+    {
+     "@context": "https://schema.org",
+     "@type": "EducationalOrganization",
+     "@id": "https://inter-nation.uz/location/sergeli#branch",
+     "name": "Inter Nation English School — Sergeli",
+     "parentOrganization": {
+      "@id": "https://inter-nation.uz#organization"
+     },
+     "url": "https://inter-nation.uz/location/sergeli",
+     "telephone": "+998787777707",
+     "image": "https://inter-nation.uz/branches/covers/sergeli.webp",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "21B Yangi Sergeli St.",
+      "addressLocality": "Tashkent",
+      "addressRegion": "Sergeli",
+      "addressCountry": "UZ"
+     },
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 41.22171,
+      "longitude": 69.222335
+     },
+     "hasMap": "https://maps.app.goo.gl/CsvTB6zhCrStyGmw9",
+     "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+       "Monday",
+       "Tuesday",
+       "Wednesday",
+       "Thursday",
+       "Friday",
+       "Saturday",
+       "Sunday"
+      ],
+      "opens": "08:00",
+      "closes": "22:00"
+     },
+     "sameAs": [
+      "https://maps.app.goo.gl/CsvTB6zhCrStyGmw9",
+      "https://yandex.uz/maps/-/CLvw5IM1",
+      "https://go.2gis.com/7TWkG"
+     ]
+    },
+    {
+     "@context": "https://schema.org",
+     "@type": "EducationalOrganization",
+     "@id": "https://inter-nation.uz/location/yunusobod#branch",
+     "name": "Inter Nation English School — Yunusobod",
+     "parentOrganization": {
+      "@id": "https://inter-nation.uz#organization"
+     },
+     "url": "https://inter-nation.uz/location/yunusobod",
+     "telephone": "+998787777707",
+     "image": "https://inter-nation.uz/branches/covers/yunusobod.webp",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1A Akhmad Donish St.",
+      "addressLocality": "Tashkent",
+      "addressRegion": "Yunusobod",
+      "addressCountry": "UZ"
+     },
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 41.367351,
+      "longitude": 69.293553
+     },
+     "hasMap": "https://maps.app.goo.gl/VmM7b8TeUn6rDN7v6",
+     "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+       "Monday",
+       "Tuesday",
+       "Wednesday",
+       "Thursday",
+       "Friday",
+       "Saturday",
+       "Sunday"
+      ],
+      "opens": "08:00",
+      "closes": "22:00"
+     },
+     "sameAs": [
+      "https://maps.app.goo.gl/VmM7b8TeUn6rDN7v6",
+      "https://yandex.uz/maps/-/CPebjYLX",
+      "https://go.2gis.com/5dhiR"
+     ]
+    },
+    {
+     "@context": "https://schema.org",
+     "@type": "EducationalOrganization",
+     "@id": "https://inter-nation.uz/location/chilonzor#branch",
+     "name": "Inter Nation English School — Chilonzor",
+     "parentOrganization": {
+      "@id": "https://inter-nation.uz#organization"
+     },
+     "url": "https://inter-nation.uz/location/chilonzor",
+     "telephone": "+998787777707",
+     "image": "https://inter-nation.uz/branches/covers/chilonzor.webp",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "52/2 Bunyodkor St.",
+      "addressLocality": "Tashkent",
+      "addressRegion": "Chilonzor",
+      "addressCountry": "UZ"
+     },
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 41.275371,
+      "longitude": 69.204323
+     },
+     "hasMap": "https://maps.app.goo.gl/BczfhMswibSMXSWw9",
+     "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+       "Monday",
+       "Tuesday",
+       "Wednesday",
+       "Thursday",
+       "Friday",
+       "Saturday",
+       "Sunday"
+      ],
+      "opens": "08:00",
+      "closes": "22:00"
+     },
+     "sameAs": [
+      "https://maps.app.goo.gl/BczfhMswibSMXSWw9",
+      "https://yandex.uz/maps/-/CLvwM6k2",
+      "https://go.2gis.com/k343N"
+     ]
+    },
+    {
+     "@context": "https://schema.org",
+     "@type": "EducationalOrganization",
+     "@id": "https://inter-nation.uz/location/beruniy#branch",
+     "name": "Inter Nation English School — Beruniy",
+     "parentOrganization": {
+      "@id": "https://inter-nation.uz#organization"
+     },
+     "url": "https://inter-nation.uz/location/beruniy",
+     "telephone": "+998787777707",
+     "image": "https://inter-nation.uz/branches/covers/beruniy.webp",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "5 Beruniy St.",
+      "addressLocality": "Tashkent",
+      "addressRegion": "Beruniy",
+      "addressCountry": "UZ"
+     },
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 41.344578,
+      "longitude": 69.207337
+     },
+     "hasMap": "https://maps.app.goo.gl/iZg4bgSX1hb1Tccj8",
+     "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+       "Monday",
+       "Tuesday",
+       "Wednesday",
+       "Thursday",
+       "Friday",
+       "Saturday",
+       "Sunday"
+      ],
+      "opens": "08:00",
+      "closes": "22:00"
+     },
+     "sameAs": [
+      "https://maps.app.goo.gl/iZg4bgSX1hb1Tccj8",
+      "https://yandex.uz/maps/-/CLvwjHpl",
+      "https://go.2gis.com/9JKiX"
+     ]
+    },
+    {
+     "@context": "https://schema.org",
+     "@type": "EducationalOrganization",
+     "@id": "https://inter-nation.uz/location/maksim#branch",
+     "name": "Inter Nation English School — Maksim Gorky",
+     "parentOrganization": {
+      "@id": "https://inter-nation.uz#organization"
+     },
+     "url": "https://inter-nation.uz/location/maksim",
+     "telephone": "+998787777707",
+     "image": "https://inter-nation.uz/branches/covers/maksim.webp",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "105B Buyuk Ipak Yuli St.",
+      "addressLocality": "Tashkent",
+      "addressRegion": "Maksim Gorky",
+      "addressCountry": "UZ"
+     },
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 41.326731,
+      "longitude": 69.33071
+     },
+     "hasMap": "https://maps.app.goo.gl/7soYS5JazvRzcpby9",
+     "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+       "Monday",
+       "Tuesday",
+       "Wednesday",
+       "Thursday",
+       "Friday",
+       "Saturday",
+       "Sunday"
+      ],
+      "opens": "08:00",
+      "closes": "22:00"
+     },
+     "sameAs": [
+      "https://maps.app.goo.gl/7soYS5JazvRzcpby9",
+      "https://yandex.uz/maps/-/CLvwVKLB",
+      "https://go.2gis.com/mqRk6"
+     ]
+    },
+    {
+     "@context": "https://schema.org",
+     "@type": "EducationalOrganization",
+     "@id": "https://inter-nation.uz/location/drujba#branch",
+     "name": "Inter Nation English School — Khalqlar Do'stligi (Drujba)",
+     "parentOrganization": {
+      "@id": "https://inter-nation.uz#organization"
+     },
+     "url": "https://inter-nation.uz/location/drujba",
+     "telephone": "+998787777707",
+     "image": "https://inter-nation.uz/branches/covers/drujba.webp",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "8/1 Islam Karimov St.",
+      "addressLocality": "Tashkent",
+      "addressRegion": "Khalqlar Do'stligi (Drujba)",
+      "addressCountry": "UZ"
+     },
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 41.3112977,
+      "longitude": 69.245213
+     },
+     "hasMap": "https://maps.app.goo.gl/oJwFF5B2S6hampQg7",
+     "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+       "Monday",
+       "Tuesday",
+       "Wednesday",
+       "Thursday",
+       "Friday",
+       "Saturday",
+       "Sunday"
+      ],
+      "opens": "08:00",
+      "closes": "22:00"
+     },
+     "sameAs": [
+      "https://maps.app.goo.gl/oJwFF5B2S6hampQg7",
+      "https://yandex.uz/maps/-/CLvsA2n6",
+      "https://go.2gis.com/vfPmS"
+     ]
+    },
+    {
+     "@context": "https://schema.org",
+     "@type": "EducationalOrganization",
+     "@id": "https://inter-nation.uz/location/ganga#branch",
+     "name": "Inter Nation English School — Ganga",
+     "parentOrganization": {
+      "@id": "https://inter-nation.uz#organization"
+     },
+     "url": "https://inter-nation.uz/location/ganga",
+     "telephone": "+998787777707",
+     "image": "https://inter-nation.uz/branches/covers/ganga.webp",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1 Furkat St.",
+      "addressLocality": "Tashkent",
+      "addressRegion": "Ganga",
+      "addressCountry": "UZ"
+     },
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 41.327409,
+      "longitude": 69.247543
+     },
+     "hasMap": "https://maps.app.goo.gl/N6oJYyopFL7cNtC7A",
+     "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+       "Monday",
+       "Tuesday",
+       "Wednesday",
+       "Thursday",
+       "Friday",
+       "Saturday",
+       "Sunday"
+      ],
+      "opens": "08:00",
+      "closes": "22:00"
+     },
+     "sameAs": [
+      "https://maps.app.goo.gl/N6oJYyopFL7cNtC7A",
+      "https://yandex.uz/maps/-/CLvwzBYs",
+      "https://go.2gis.com/jQoek"
+     ]
+    },
+    {
+     "@context": "https://schema.org",
+     "@type": "EducationalOrganization",
+     "@id": "https://inter-nation.uz/location/minor#branch",
+     "name": "Inter Nation English School — Minor",
+     "parentOrganization": {
+      "@id": "https://inter-nation.uz#organization"
+     },
+     "url": "https://inter-nation.uz/location/minor",
+     "telephone": "+998787777707",
+     "image": "https://inter-nation.uz/branches/covers/minor.webp",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "86 Amir Temur St.",
+      "addressLocality": "Tashkent",
+      "addressRegion": "Minor",
+      "addressCountry": "UZ"
+     },
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 41.329179,
+      "longitude": 69.283081
+     },
+     "hasMap": "https://maps.app.goo.gl/1yyhivz3UWF9PqKj9",
+     "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+       "Monday",
+       "Tuesday",
+       "Wednesday",
+       "Thursday",
+       "Friday",
+       "Saturday",
+       "Sunday"
+      ],
+      "opens": "08:00",
+      "closes": "22:00"
+     },
+     "sameAs": [
+      "https://maps.app.goo.gl/1yyhivz3UWF9PqKj9",
+      "https://yandex.uz/maps/-/CLvsIVpD",
+      "https://go.2gis.com/8FnDv"
+     ]
+    },
+    {
+     "@context": "https://schema.org",
+     "@type": "EducationalOrganization",
+     "@id": "https://inter-nation.uz/location/oybek#branch",
+     "name": "Inter Nation English School — Oybek",
+     "parentOrganization": {
+      "@id": "https://inter-nation.uz#organization"
+     },
+     "url": "https://inter-nation.uz/location/oybek",
+     "telephone": "+998787777707",
+     "image": "https://inter-nation.uz/branches/covers/oybek.webp",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16 Afrosiyob St.",
+      "addressLocality": "Tashkent",
+      "addressRegion": "Oybek",
+      "addressCountry": "UZ"
+     },
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 41.299104,
+      "longitude": 69.272534
+     },
+     "hasMap": "https://maps.app.goo.gl/vtVCK7nQMFYmu7P88",
+     "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+       "Monday",
+       "Tuesday",
+       "Wednesday",
+       "Thursday",
+       "Friday",
+       "Saturday",
+       "Sunday"
+      ],
+      "opens": "08:00",
+      "closes": "22:00"
+     },
+     "sameAs": [
+      "https://maps.app.goo.gl/vtVCK7nQMFYmu7P88",
+      "https://yandex.uz/maps/-/CLvsbJ57",
+      "https://go.2gis.com/lB2FX"
+     ]
+    },
+    {
+     "@context": "https://schema.org",
+     "@type": "EducationalOrganization",
+     "@id": "https://inter-nation.uz/location/west#branch",
+     "name": "Inter Nation English School — Westminster",
+     "parentOrganization": {
+      "@id": "https://inter-nation.uz#organization"
+     },
+     "url": "https://inter-nation.uz/location/west",
+     "telephone": "+998787777707",
+     "image": "https://inter-nation.uz/branches/covers/west.webp",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "14 Istiklol St.",
+      "addressLocality": "Tashkent",
+      "addressRegion": "Westminster",
+      "addressCountry": "UZ"
+     },
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 41.3062919,
+      "longitude": 69.284173
+     },
+     "hasMap": "https://maps.app.goo.gl/7qUM2mLhzrerfw7k8",
+     "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+       "Monday",
+       "Tuesday",
+       "Wednesday",
+       "Thursday",
+       "Friday",
+       "Saturday",
+       "Sunday"
+      ],
+      "opens": "08:00",
+      "closes": "22:00"
+     },
+     "sameAs": [
+      "https://maps.app.goo.gl/7qUM2mLhzrerfw7k8",
+      "https://yandex.uz/maps/-/CLvsi6Ir",
+      "https://go.2gis.com/3C4JV"
+     ]
+    },
+    {
+     "@context": "https://schema.org",
+     "@type": "EducationalOrganization",
+     "@id": "https://inter-nation.uz/location/c1#branch",
+     "name": "Inter Nation English School — C1",
+     "parentOrganization": {
+      "@id": "https://inter-nation.uz#organization"
+     },
+     "url": "https://inter-nation.uz/location/c1",
+     "telephone": "+998787777707",
+     "image": "https://inter-nation.uz/branches/covers/c1.webp",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1 Shakhrisabz St., C1",
+      "addressLocality": "Tashkent",
+      "addressRegion": "C1",
+      "addressCountry": "UZ"
+     },
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 41.313824,
+      "longitude": 69.286838
+     },
+     "hasMap": "https://maps.app.goo.gl/E4obtq1QkGQu7nqM6",
+     "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+       "Monday",
+       "Tuesday",
+       "Wednesday",
+       "Thursday",
+       "Friday",
+       "Saturday",
+       "Sunday"
+      ],
+      "opens": "08:00",
+      "closes": "22:00"
+     },
+     "sameAs": [
+      "https://maps.app.goo.gl/E4obtq1QkGQu7nqM6",
+      "https://yandex.uz/maps/-/CLvwAF9-",
+      "https://go.2gis.com/8vAad"
+     ]
+    },
+    {
+     "@context": "https://schema.org",
+     "@type": "EducationalOrganization",
+     "@id": "https://inter-nation.uz/location/samarqand-gagarin#branch",
+     "name": "Inter Nation English School — Samarkand",
+     "parentOrganization": {
+      "@id": "https://inter-nation.uz#organization"
+     },
+     "url": "https://inter-nation.uz/location/samarqand-gagarin",
+     "telephone": "+998787777707",
+     "image": "https://inter-nation.uz/branches/covers/samarqand-gagarin.webp",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Samarkand, 128 Gagarin St.",
+      "addressLocality": "Samarkand",
+      "addressRegion": "Samarkand",
+      "addressCountry": "UZ"
+     },
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.657384,
+      "longitude": 66.93573
+     },
+     "hasMap": "https://maps.app.goo.gl/ziSc1qRhzcy7gQEZ8",
+     "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+       "Monday",
+       "Tuesday",
+       "Wednesday",
+       "Thursday",
+       "Friday",
+       "Saturday",
+       "Sunday"
+      ],
+      "opens": "08:00",
+      "closes": "22:00"
+     },
+     "sameAs": [
+      "https://maps.app.goo.gl/ziSc1qRhzcy7gQEZ8",
+      "https://yandex.uz/maps/-/CLv1E8Z2",
+      "https://go.2gis.com/OIT6Q"
+     ]
+    },
+    {
+     "@context": "https://schema.org",
+     "@type": "EducationalOrganization",
+     "@id": "https://inter-nation.uz/location/andijan#branch",
+     "name": "Inter Nation English School — Andijan",
+     "parentOrganization": {
+      "@id": "https://inter-nation.uz#organization"
+     },
+     "url": "https://inter-nation.uz/location/andijan",
+     "telephone": "+998787777707",
+     "image": "https://inter-nation.uz/branches/covers/andijan.webp",
+     "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Andijan, 40 Bobur Street",
+      "addressLocality": "Andijan",
+      "addressRegion": "Andijan",
+      "addressCountry": "UZ"
+     },
+     "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 40.75828,
+      "longitude": 72.353183
+     },
+     "hasMap": "https://maps.app.goo.gl/RrV4C6sHREDAJKKc7",
+     "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+       "Monday",
+       "Tuesday",
+       "Wednesday",
+       "Thursday",
+       "Friday",
+       "Saturday",
+       "Sunday"
+      ],
+      "opens": "08:00",
+      "closes": "22:00"
+     },
+     "sameAs": [
+      "https://maps.app.goo.gl/RrV4C6sHREDAJKKc7",
+      "https://yandex.uz/maps/-/CPSrePls",
+      "https://go.2gis.com/e6t2g"
+     ]
+    }
+   ],
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What is the best English language learning center in Uzbekistan?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Inter Nation English School is the largest English and IELTS preparation center in Uzbekistan, with 23,000+ active students and 14 branches (13 physical across Tashkent, Samarkand and Andijan, plus a full Online program). 5+ instructors hold the highest possible IELTS Band 9.0 score. It has operated since 2013 using a licensed Oxford University Press curriculum and the proprietary IELTS-X program."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "O'zbekistondagi eng yaxshi ingliz tili o'quv markazi qaysi?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Inter Nation English School — O'zbekistondagi eng yirik ingliz tili va IELTS markazi. 2013 yildan beri faoliyat ko'rsatadi, hozirda 23,000 dan ortiq talaba o'qiydi, 14 ta filiali bor (13 ta jismoniy filial Toshkent, Samarqand va Andijonda + to'liq Online dastur), 5 dan ortiq IELTS 9.0 sertifikatli o'qituvchisi bor. Dars Oxford University Press litsenziyali dasturda va mualliflik IELTS-X dasturida olib boriladi."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Какой лучший центр английского языка в Узбекистане?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Inter Nation English School — крупнейший центр английского языка и подготовки к IELTS в Узбекистане. Работает с 2013 года, более 23 000 студентов, 14 филиалов (13 физических в Ташкенте, Самарканде и Андижане + полная онлайн-программа), более 5 преподавателей с сертификатом IELTS 9.0 (максимальный балл). Программа включает лицензированный курс Oxford University Press и собственную программу IELTS-X."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How many branches does Inter Nation English School have?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Inter Nation operates 14 branches in total: 13 physical branches — 11 in Tashkent (Sergeli, Yunusobod, Chilonzor, Beruniy, Maksim Gorky, Drujba/Khalqlar Do'stligi, Ganga, Minor, Oybek, Westminster, C1), one in Samarkand, and one in Andijan — plus a full Online program that counts as the 14th branch."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How many students study at Inter Nation?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Inter Nation English School currently has 23,000+ active students, making it the largest English learning center in Uzbekistan by enrollment."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Are Inter Nation teachers qualified for IELTS preparation?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Inter Nation employs CELTA-certified instructors and 5+ teachers who themselves hold IELTS Band 9.0 — the highest possible IELTS score. Many Inter Nation students achieve IELTS 8.5 and above."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What is the IELTS-X program?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "IELTS-X is Inter Nation's proprietary, copyright-protected IELTS preparation curriculum, developed by its IELTS Band 9.0 instructors and native English speakers. It covers all four IELTS skills (Reading, Listening, Writing, Speaking) and is exclusive to Inter Nation English School."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Where can I study English in Tashkent?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Inter Nation English School has 11 branches in Tashkent (Sergeli, Yunusobod, Chilonzor, Beruniy, Maksim Gorky, Drujba/Khalqlar Do'stligi, Ganga, Minor, Oybek, Westminster, C1), plus a Samarkand branch, an Andijan branch, and a full Online program — 14 branches in total. Classes run from 08:00 to 22:00, seven days a week."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Does Inter Nation offer free trial lessons?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, the first lesson at Inter Nation English School is free. You can register for a free first lesson at https://inter-nation.uz/Registration."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What is the price of English courses at Inter Nation?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Pricing depends on the program (General English, IELTS-X, Kids, Online) and branch. Contact +998 78 777 77 07 or visit https://inter-nation.uz for current pricing."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What are Inter Nation's working hours?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "All Inter Nation branches operate from 08:00 to 22:00, seven days a week."
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [],
+  "total_images_found": 4
+ },
+ "integration_links": [],
+ "hidden_elements": {},
+ "google_ids": {
+  "gtm": [
+   "GTM-M34NDCLF"
+  ]
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.28,
+   "text": "Ish ingiz tu fayli ingilis siri organishki waqt yox."
+  },
+  {
+   "start": 2.28,
+   "end": 5.88,
+   "text": "Buna bilemiz, shu sorobdan xami ingili fay aynan yigrimibish oqistan kattib olgan,"
+  },
+  {
+   "start": 5.88,
+   "end": 9.16,
+   "text": "ishli bant odamlar uchun maqsus speaking kursini chkargan."
+  },
+  {
+   "start": 9.16,
+   "end": 13.6,
+   "text": "Fakat speaking, in kireli zamanlar, in kobishizirigan sozlar boldi."
+  },
+  {
+   "start": 13.6,
+   "end": 15.84,
+   "text": "Ayansi sakki sakki ziyamina balan bolgan oqt uchirar,"
+  },
+  {
+   "start": 15.84,
+   "end": 18.76,
+   "text": "kambida toru ili tacribi geyi oqt uchirar, sizgi daqs otishadi."
+  },
+  {
+   "start": 18.76,
+   "end": 22.2,
+   "text": "Uchoyda siz, bimaal ingilislinin chunib, mongat qilib,"
+  },
+  {
+   "start": 22.2,
+   "end": 25.28,
+   "text": "kundalik mazurade fikirlarinizini ifadakila olesiz."
+  },
+  {
+   "start": 25.28,
+   "end": 29.02,
+   "text": "Bilimas, baqlariniz kop, manashi khawaran ustige basip, malamatlarinizini qaldirin"
+  },
+  {
+   "start": 29.02,
+   "end": 31.92,
+   "text": "va mutiqay sarimi siz bilan baqlanip, xamasin shuntir belshat."
+  }
+ ],
+ "chars": 633,
+ "chars_per_s": 19.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

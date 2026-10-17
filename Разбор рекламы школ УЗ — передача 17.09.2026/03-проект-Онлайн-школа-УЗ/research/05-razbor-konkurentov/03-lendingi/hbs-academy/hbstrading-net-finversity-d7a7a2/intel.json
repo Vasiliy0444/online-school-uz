@@ -1,0 +1,237 @@
+{
+ "url": "https://hbstrading.net",
+ "domain": "hbstrading.net",
+ "pages_scanned": [
+  "https://hbstrading.net/finversity"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)"
+  ],
+  "ad_pixel": [
+   "Meta Pixel"
+  ]
+ },
+ "seo_metadata": {
+  "title": "Finversity — moliyaviy bozorlar bo‘yicha kurs",
+  "description": "Finversity dasturi, darslar va ro‘yxatdan o‘tish. HBS Academy.",
+  "open_graph": {
+   "title": "Finversity — moliyaviy bozorlar bo‘yicha kurs",
+   "description": "Finversity dasturi, darslar va ro‘yxatdan o‘tish. HBS Academy.",
+   "url": "https://hbstrading.net/finversity",
+   "type": "website",
+   "image": "https://hbstrading.net/logo/hbs-holding-main-logo.webp",
+   "locale": "uz_UZ"
+  },
+  "twitter_card": {
+   "card": "summary_large_image"
+  },
+  "canonical": "https://hbstrading.net/finversity",
+  "hreflang": [
+   {
+    "lang": "ru-RU",
+    "url": "https://hbstrading.net/ru/finversity"
+   },
+   {
+    "lang": "uz-UZ",
+    "url": "https://hbstrading.net/finversity"
+   },
+   {
+    "lang": "x-default",
+    "url": "https://hbstrading.net/finversity"
+   }
+  ],
+  "structured_data": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://hbstrading.net/#organization",
+    "name": "HBS Group",
+    "url": "https://hbstrading.net",
+    "logo": "https://hbstrading.net/logo/hbs-holding-main-logo.webp",
+    "email": "info@hbstrading.net",
+    "sameAs": [
+     "https://t.me/hbs_akademiya",
+     "https://www.instagram.com/hbsakademiyasi?igsh=MTFiYnVocHpuYzFpaA==",
+     "https://www.linkedin.com/company/hbstrading/posts/?feedView=all",
+     "https://www.facebook.com/hbsacademyuz"
+    ],
+    "subOrganization": [
+     {
+      "@type": "Organization",
+      "name": "HBS Academy",
+      "url": "https://hbstrading.net/hbs-academy"
+     },
+     {
+      "@type": "Organization",
+      "name": "Saraf Screening",
+      "url": "https://hbstrading.net/saraf"
+     },
+     {
+      "@type": "Organization",
+      "name": "Saraf Robot",
+      "url": "https://hbstrading.net/saraf-robot"
+     },
+     {
+      "@type": "Organization",
+      "name": "HBS Asset Management",
+      "url": "https://hbstrading.net/hbs-asset-info"
+     },
+     {
+      "@type": "Organization",
+      "name": "HBS Prop",
+      "url": "https://hbstrading.net/hbs-prop"
+     },
+     {
+      "@type": "Organization",
+      "name": "HBS AI",
+      "url": "https://hbstrading.net/hbs-ai"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "https://hbstrading.net/#website",
+    "name": "HBS Group",
+    "url": "https://hbstrading.net",
+    "inLanguage": [
+     "uz-UZ",
+     "ru-RU"
+    ],
+    "publisher": {
+     "@id": "https://hbstrading.net/#organization"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 1,
+    "name": "HBS Academy",
+    "url": "https://hbstrading.net/hbs-academy"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 2,
+    "name": "Saraf Screening",
+    "url": "https://hbstrading.net/saraf"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 3,
+    "name": "Saraf Robot",
+    "url": "https://hbstrading.net/saraf-robot"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 4,
+    "name": "HBS Asset Management",
+    "url": "https://hbstrading.net/hbs-asset-info"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 5,
+    "name": "HBS Prop",
+    "url": "https://hbstrading.net/hbs-prop"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 6,
+    "name": "HBS AI",
+    "url": "https://hbstrading.net/hbs-ai"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Finversity — moliyaviy bozorlar bo‘yicha kurs",
+    "description": "Finversity dasturi, darslar va ro‘yxatdan o‘tish. HBS Academy.",
+    "url": "https://hbstrading.net/finversity",
+    "inLanguage": "uz-UZ",
+    "isPartOf": {
+     "@id": "https://hbstrading.net/#website"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://hbstrading.net/finversity#service",
+    "name": "Finversity",
+    "url": "https://hbstrading.net/finversity",
+    "description": "Finversity dasturi, darslar va ro‘yxatdan o‘tish. HBS Academy.",
+    "image": "https://hbstrading.net/logo/holdings/hbs-academy-logo.svg",
+    "inLanguage": "uz-UZ",
+    "provider": {
+     "@id": "https://hbstrading.net/#organization"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "HBS Group",
+      "item": "https://hbstrading.net/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "HBS Academy",
+      "item": "https://hbstrading.net/hbs-academy"
+     },
+     {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Finversity",
+      "item": "https://hbstrading.net/finversity"
+     }
+    ]
+   }
+  ],
+  "headings": {
+   "h1": [
+    "Finversity"
+   ],
+   "h2": [
+    "Ushbu Dastur Siz Uchun Agarda siz...",
+    "Bizning akademiyamizga nima kiradi",
+    "Siz bir o&#39;zingiz emassiz",
+    "Talabalarimizning fikrlari",
+    "O&#39;zingizga qulay atmosferani tanlang",
+    "O&#39;zingizga qulay tarifni tanlang",
+    "Kontaktlar",
+    "Bizning filiallarimiz"
+   ],
+   "h3": [
+    "Dubay",
+    "Toshkent"
+   ]
+  }
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [
+   "https://hbstrading.net/logo/hbs-holding-main-logo.webp",
+   "https://hbstrading.net/logo/holdings/hbs-academy-logo.svg"
+  ],
+  "total_images_found": 27
+ },
+ "integration_links": [],
+ "hidden_elements": {},
+ "google_ids": {
+  "gtm": [
+   "GTM-5XW7TCSH"
+  ]
+ }
+}

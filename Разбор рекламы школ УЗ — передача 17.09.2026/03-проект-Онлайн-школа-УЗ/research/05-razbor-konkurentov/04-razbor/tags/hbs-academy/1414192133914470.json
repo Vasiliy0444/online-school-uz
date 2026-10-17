@@ -1,0 +1,89 @@
+{
+ "creative_id": "1414192133914470",
+ "platform": "meta",
+ "school_id": "hbs-academy",
+ "format": {
+  "type": "динамическое (DCO)",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "постановка или скетч"
+ ],
+ "hook": {
+  "verbatim": "Treydingni boshlamoqchisiz, lekin pulingizni yo'qotib qo'yishdan qo'rqyapsizmi?",
+  "types": [
+   "вопрос",
+   "боль",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "деньги или результат на экране",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.0s: «Treydingni boshlamoqchisiz,»; 1.5s–2.5s: «lekin pulingizni yo'qotib qo'yishdan qo'rqyapsizmi?» — сплошные субтитры поверх говорящего на фоне графиков котировок",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Tradingini baslimaxsisiz, lekin pulizni oqat kuyishtan, korkasizmiz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта",
+   "доверие и окупаемость"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (~0:10): «bozorni tahlil qilish» — второй человек за монитором с графиком показывает первому",
+    "timecode": "00:10"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:07] Express kursda siz, bazarini tahlil kiliish, kapitalini bashkarish, [00:11] va riskilerini nazarat kiliishini, amaliyyati traderladan orginasiz.",
+    "timecode": "00:07"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:19] Tradingini tahmin bilan emes, tizim bilan baslayin.",
+    "timecode": "00:19"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (~0:16): «Toshkent shahrida» — уточнение формата курса, не оффер",
+    "timecode": "00:16"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "основатель или эксперт"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "средняя",
+ "notes": "risk = true по правилу инструкции для трейдинга и инвестиций (приведено к одному виду 17.09). Хук подтверждён и текстом на кадре, и расшифровкой (совпадают дословно) — надёжная цитата. Курс назван «Express kurs»: анализ рынка, управление капиталом, контроль рисков; офлайн в Ташкенте, малые группы по 12 человек (sheet_overview кадр 3 «Toshkent shahrida» подтверждает офлайн-формат). Фраза [00:04] «Mumu tradingini emes, bilan ve strategiasi sadaqilishti» распознана плохо и однозначно не восстанавливается — в поля не включена, по смыслу похоже на «не на эмоциях, а со знаниями/стратегией [торговать]», в hook/meaning не использовано. Конкретных сумм или % дохода в этом креативе не названо (в отличие от 1678596329886775 из этой же порции) — income_claim не заполнен. risk=false: нет обещания стабильной/гарантированной доходности, только общий посыл про торговлю «по системе, а не наугад». Спикер не называет себя по имени; роль «основатель или эксперт» — по подаче (уверенная речь от лица академии на фоне торговых графиков и логотипа HBS), не по прямому самопредставлению."
+}

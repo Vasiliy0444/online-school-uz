@@ -1,0 +1,131 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.44,
+   "text": "Ilgari kuk farzanli o'illarda bolalarini voyagi itqazish maamuli idi."
+  },
+  {
+   "start": 5.06,
+   "end": 7.36,
+   "text": "Lekin bugun kunda inkonyatlar izgardi."
+  },
+  {
+   "start": 7.76,
+   "end": 8.96,
+   "text": "Shar o'idlar yaksilandi."
+  },
+  {
+   "start": 8.96,
+   "end": 14.94,
+   "text": "Shunin uchun ham bugun kunda oto onlar farzandarini talimgi aloqida urgu birishatdi."
+  },
+  {
+   "start": 15.46,
+   "end": 20.6,
+   "text": "Marham farzandini kilacagi ge indisi cikilish uchun aynan talimgi izgardi."
+  },
+  {
+   "start": 20.86,
+   "end": 23.18,
+   "text": "Ingilisili bugun kunda davrini taladi."
+  },
+  {
+   "start": 23.8,
+   "end": 29.58,
+   "text": "Insultlarga, oligotlarga kirgundan gochla, ish topishgeche hammasiga sertifikatlar kilag boladi."
+  },
+  {
+   "start": 30.0,
+   "end": 34.28,
+   "text": "Shunin ushun ham qizi mihrangizini International Okul Markiziga topchirigandim"
+  },
+  {
+   "start": 34.28,
+   "end": 37.08,
+   "text": "va juda qizga vaqt itchida zor natija kurdim."
+  },
+  {
+   "start": 37.08,
+   "end": 42.12,
+   "text": "Barki okutucilar, aal suqqiz hamda sereqta sertifikatiga ega burgan okutucilar."
+  },
+  {
+   "start": 42.12,
+   "end": 45.04,
+   "text": "Bu yerda farzanlarinin vaqti zoyik hitmaydi."
+  },
+  {
+   "start": 45.04,
+   "end": 50.6,
+   "text": "Guruklarda 30-40 nafar imaz, barki 14-15 nafar okucilar bilan darslar oturladi."
+  },
+  {
+   "start": 50.6,
+   "end": 53.76,
+   "text": "Darslan kiye uyga vazifasini bacarishig uchun,"
+  },
+  {
+   "start": 53.76,
+   "end": 56.68,
+   "text": "posunca ustoz, akademik supurt yordan biradi."
+  },
+  {
+   "start": 56.68,
+   "end": 59.64,
+   "text": "Va en qizigi, uyga vazifani daftardi imaz,"
+  },
+  {
+   "start": 59.64,
+   "end": 61.44,
+   "text": "ozlarinda maksus ilovalari,"
+  },
+  {
+   "start": 61.44,
+   "end": 63.44,
+   "text": "students apda bacarishadi."
+  },
+  {
+   "start": 63.44,
+   "end": 66.32,
+   "text": "International Blind ingilis dilini endi urigani"
+  },
+  {
+   "start": 66.32,
+   "end": 67.52,
+   "text": "juda ham oson."
+  },
+  {
+   "start": 67.52,
+   "end": 69.96,
+   "text": "Sis ham farzanla ingizini kilarcaiga"
+  },
+  {
+   "start": 69.96,
+   "end": 71.32,
+   "text": "biy fark bolmasanigiz"
+  },
+  {
+   "start": 71.32,
+   "end": 73.32,
+   "text": "va unga sarmaya kiritmokchi bolsanigiz,"
+  },
+  {
+   "start": 73.32,
+   "end": 75.2,
+   "text": "pastagi ilova orqali otit,"
+  },
+  {
+   "start": 75.2,
+   "end": 77.2,
+   "text": "ruyqatdan oti."
+  }
+ ],
+ "chars": 1154,
+ "chars_per_s": 14.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,61 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 12.08,
+   "text": "Zamanawi kasplarini organib, yani sunientilik, targeting mobilografi kabi kasplarini organib, katta daramat qilishni haqilisiz, lekin bunin ilaji yog, de boyilisiz."
+  },
+  {
+   "start": 12.08,
+   "end": 17.86,
+   "text": "Agar men sizga yitista zamanavi kaspni bi pulga organasiz desam ishonasizmi?"
+  },
+  {
+   "start": 18.22,
+   "end": 19.64,
+   "text": "Ha, albatta bu rast."
+  },
+  {
+   "start": 19.86,
+   "end": 23.22,
+   "text": "Bir talim 500 grand layikasiga haziraq koshilin,"
+  },
+  {
+   "start": 23.54,
+   "end": 26.86,
+   "text": "otkan safarigi grand layikamizni bitirgan okuchilar,"
+  },
+  {
+   "start": 27.16,
+   "end": 30.86,
+   "text": "bugungun kunda 600 milyondan ziyad daramat kilishmakti."
+  },
+  {
+   "start": 31.2,
+   "end": 35.94,
+   "text": "Agar sizgan zamanavi kasplarini 100% bi pulga organib,"
+  },
+  {
+   "start": 36.18,
+   "end": 37.84,
+   "text": "katta daramat kimaqchi busayngiz,"
+  },
+  {
+   "start": 37.84,
+   "end": 42.84,
+   "text": "25-ci sentyabr bulubut etken mutlaqa bi pul online taqdimatimizga qatnashin."
+  },
+  {
+   "start": 43.62,
+   "end": 49.18,
+   "text": "Taqdimatka qatnashin profil shabkasdagi hawala orqali yapiq telegram kanalimizga kushilin."
+  }
+ ],
+ "chars": 677,
+ "chars_per_s": 13.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

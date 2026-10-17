@@ -1,0 +1,96 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.48,
+   "text": "Universitet və maktabda dars beradiyan oxtu uchirət də qatigi,"
+  },
+  {
+   "start": 3.7,
+   "end": 7.42,
+   "text": "jüdiyam kob vaqt ili blaman prezintatsyaligani taqdimatlaqi və"
+  },
+  {
+   "start": 7.42,
+   "end": 9.46,
+   "text": "hujjatlaqi, qagazbazliylaqi kitqoladi."
+  },
+  {
+   "start": 9.7,
+   "end": 12.76,
+   "text": "Bo vaqt evazdi siz uziyiz-soxayizı chukura organishiyiz,"
+  },
+  {
+   "start": 12.82,
+   "end": 15.54,
+   "text": "yengililini organishiyiz, talabilani ilhamlantirishiz munkunadi."
+  },
+  {
+   "start": 15.94,
+   "end": 18.12,
+   "text": "Lekin vaqtiz daim 3-na qan asalaya kitqoladi."
+  },
+  {
+   "start": 18.42,
+   "end": 20.02,
+   "text": "Buna bitti zor charasi bali."
+  },
+  {
+   "start": 20.04,
+   "end": 21.72,
+   "text": "Uyan bo isi suni intilik."
+  },
+  {
+   "start": 21.96,
+   "end": 25.04,
+   "text": "Bugun prezintatsyalani 1 dakiqa içidi suni intilikka tayralatisi bali."
+  },
+  {
+   "start": 25.04,
+   "end": 30.28,
+   "text": "istalgan xat xujjatlarizi suni intilik bu unkundi birdiganda tayrli verad, bitdageni kinob qebilan."
+  },
+  {
+   "start": 30.44,
+   "end": 34.22,
+   "text": "Demi, sizan manashu suni intilikni organib turub, uzi sahizgi tatbqiladiyan bosiz,"
+  },
+  {
+   "start": 34.5,
+   "end": 38.26,
+   "text": "vaqtiz anchi tezirad, basiz en zor ustazlardan bitdazgi aylanaz."
+  },
+  {
+   "start": 38.54,
+   "end": 44.04,
+   "text": "Xatdaki 60 yashtan ashgan, yaqinda akademik unvanin agan bir ustazimizan,"
+  },
+  {
+   "start": 44.16,
+   "end": 47.46,
+   "text": "manashu suni intilikni organib akademik unvanin aaldidi."
+  },
+  {
+   "start": 47.7,
+   "end": 50.24,
+   "text": "Agar sizan uzi sahizdi suni intilikni tatbqimakchim osay,"
+  },
+  {
+   "start": 50.24,
+   "end": 53.2,
+   "text": "talabalana aldi de en yaxsh ustazlardan bitdazgi aylanamakchim osay,"
+  },
+  {
+   "start": 53.2,
+   "end": 57.54,
+   "text": "nda xawalan basin, unu atisda darsin chide sizge suni intresn olgat xoyamiz."
+  }
+ ],
+ "chars": 1041,
+ "chars_per_s": 18.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

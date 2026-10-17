@@ -1,0 +1,18 @@
+{
+ "school_id": "englify",
+ "url": "https://instant.englify.uz/",
+ "sources": "ads:meta | crtsh",
+ "first_seen": "2026-08-05",
+ "last_seen": "2026-09-16",
+ "stage_auto_url": "",
+ "is_archive": false,
+ "snapshot_at": "2026-09-16T21:19:52+00:00",
+ "live_status": 200,
+ "final_url": "https://instant.englify.uz/",
+ "title": "Englify — ariza qoldirish",
+ "screenshot": "/Users/Bel-a/Data/online-shkola-uz/05-razbor-konkurentov/lendingi/englify/instant-englify-uz-a0e45b/screenshot-mobile.jpg",
+ "stage_auto": "прочее",
+ "stage_reason": "признаков нет — решить по скриншоту",
+ "text_chars": 966,
+ "reshot_at": "2026-09-17T00:45:57+00:00"
+}

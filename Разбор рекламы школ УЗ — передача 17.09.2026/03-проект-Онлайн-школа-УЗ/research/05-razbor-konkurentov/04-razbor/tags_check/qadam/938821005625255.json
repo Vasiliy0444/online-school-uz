@@ -1,0 +1,78 @@
+{
+  "creative_id": "938821005625255",
+  "platform": "meta",
+  "school_id": "qadam",
+  "format": {
+    "type": "видео",
+    "duration_bucket": "61–120 с",
+    "aspect": "9:16"
+  },
+  "style": ["говорящая голова", "отзыв ученика", "реакция или разделённый экран"],
+  "hook": {
+    "verbatim": "O'zingizning savdoingiz bor bozorlarda, … onlayn savdoni kuchaytirmoqchi bo'lsangiz",
+    "types": ["обращение к сегменту"],
+    "visual": ["лицо в первом кадре", "движение или смена кадра", "деньги или результат на экране"],
+    "evidence": [
+      {
+        "source": "кадр без текста",
+        "quote": "sheet_hook.jpg 0.0s: мужчина на фоне фиолетового спорткара у стеклянного здания; 0.5s–2.5s: экран разделён — сверху магазин с товарами на полках, снизу он же у машины; текста нет",
+        "timecode": "00:00"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Ki ozi izi, savdaiz bar bazarili di,\n[00:02] kujum chiayni onlayi savdaini kuchetirmakchi buz siiz.",
+        "timecode": "00:00"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["свой бизнес", "статус", "доверие и окупаемость"],
+    "revenue_claim": "237 MLN UMUMIY AYLANMA; aylanmamiz 40 millionni tashkil etdi; bir oy ichida 30 millionga yaqin aylanma",
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:27: 237 MLN UMUMIY AYLANMA (ученик в кадре, таймер 00 19, пометка 21+)",
+        "timecode": "00:27"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Unun bi abaratimiz, 247 miliangi chikdari uzun marketdi.\n[00:27] Abarotamizi 40 minun naqshu atti.\n[00:29] Bir ay ichidi 30 minunchi nabirni abarot bolidi.",
+        "timecode": "00:25"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "uzu marketdi savda qilishi orgini wali,\n[00:12] di shani, katta biznismen bub getas.",
+        "timecode": "00:10"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "iki min tira ozhu adangi orgini kamsil uzi.",
+        "timecode": "00:21"
+      }
+    ]
+  },
+  "offer": {
+    "items": ["рассрочка"],
+    "evidence": [
+      {
+        "source": "расшифровка",
+        "quote": "Tol olayan, xalisis naqtidiz, xalisis bolib toleshgin, okhsiz bolidi.",
+        "timecode": "00:50"
+      }
+    ]
+  },
+  "cta": {
+    "button": "Learn more",
+    "in_creative": "заполнить форму",
+    "destination": "лендинг",
+    "funnel_stage": "основной продукт"
+  },
+  "speaker": {
+    "role": "блогер"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": false,
+  "risk": false,
+  "confidence": "средняя",
+  "notes": "Блогер со спорткаром (в UTM ссылки — UZUM_BLOGER_INOMARKA) приходит в школу, показывает ученика с оборотом на Uzum Market и расспрашивает про формат: онлайн на платформе или офлайн в Ташкенте рядом с метро, оплата наличными или частями. Имя блогера не звучит. Хук только в речи — по расшифровке, написание исправлено; фрагмент «kujum chiayni» не разобран (заменён «…»). «рассрочка» — «xohlasangiz bo'lib to'lashingiz mumkin» (по расшифровке). Обороты: «237 MLN» — на кадре (в речи «247»), «aylanmamiz 40 million(ni) tashkil etdi» и «bir oy ichida 30 millionga yaqin» — по расшифровке, неуверенно. Про преподавателей по расшифровке (неуверенно): торгуют онлайн на сумму более 4 млрд и обучили более 2000 человек. Призыв: «Hazi malamadizdi qaldir siz, uzligi alaqay chqib, yenay batafsil malamad birishadi» (01:04) ≈ «Hozir ma'lumotlaringizni qoldirsangiz, o'zlari aloqaga chiqib batafsil ma'lumot berishadi» → «заполнить форму». «деньги или результат на экране» — спорткар как символ достатка (неоднозначно). risk не отмечен: «станете крупным бизнесменом» без сумм дохода и гарантий. Перевод хука: «Если у вас своя торговля на базаре и вы хотите усилить онлайн-продажи»."
+}

@@ -1,0 +1,50 @@
+{
+ "library_id": "1366425478509152",
+ "model": "mlx-community/whisper-large-v3-turbo",
+ "language_arg": "uz",
+ "detected_language": "uz",
+ "seconds": 20.4,
+ "duration_s": 30.0,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.84,
+   "text": "Uzumarketda daramat silmoksiz, lakin hatalardan korkayab sizmi?"
+  },
+  {
+   "start": 3.88,
+   "end": 8.2,
+   "text": "Biz aynansiz uçun uzumarketda sağdaq ilişk boyuca Bepul video darstiklere tayarlab çıqdik."
+  },
+  {
+   "start": 8.28,
+   "end": 13.28,
+   "text": "Bu darstiklere da siz uzumarketda qanda işbaşlaş, yangi sotu uçilere qaladigyan asosiy hatallar,"
+  },
+  {
+   "start": 13.38,
+   "end": 16.08,
+   "text": "sotularını portlatadigyan en samarali usuller"
+  },
+  {
+   "start": 16.08,
+   "end": 21.12,
+   "text": "ve albatta sağdaqını tizraq boşlab, kata daramatke çıxış yollarını organib olasiz."
+  },
+  {
+   "start": 21.32,
+   "end": 25.56,
+   "text": "Bu darstda daramat izzi oşurşidegi birinci və eynmuxum qadamlaq soblanadı."
+  },
+  {
+   "start": 25.56,
+   "end": 27.32,
+   "text": "Uçbu darstiklere da oluş uçun,"
+  },
+  {
+   "start": 27.32,
+   "end": 29.88,
+   "text": "hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu hu"
+  }
+ ]
+}

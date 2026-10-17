@@ -1,0 +1,81 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.24,
+   "text": "Trading haqida ki ishla ishlanini bilmisimi?"
+  },
+  {
+   "start": 2.94,
+   "end": 5.0,
+   "text": "Undi bu kurs aynani siz uchun."
+  },
+  {
+   "start": 5.0,
+   "end": 7.5,
+   "text": "Express kursimizdi talim nolidan bashlanib."
+  },
+  {
+   "start": 7.5,
+   "end": 9.32,
+   "text": "Akci bazari qaniq ishlashi,"
+  },
+  {
+   "start": 9.32,
+   "end": 10.92,
+   "text": "jahiz aksivlani saralash,"
+  },
+  {
+   "start": 10.92,
+   "end": 12.16,
+   "text": "riski bashqarish"
+  },
+  {
+   "start": 12.16,
+   "end": 13.96,
+   "text": "və saudagay kirish noqtalarini"
+  },
+  {
+   "start": 13.96,
+   "end": 15.76,
+   "text": "basquchma basquch orginaliz."
+  },
+  {
+   "start": 15.76,
+   "end": 17.2,
+   "text": "Darsili talshgin shahridi"
+  },
+  {
+   "start": 17.2,
+   "end": 18.96,
+   "text": "amaliyatchi traderladlan birgi"
+  },
+  {
+   "start": 18.96,
+   "end": 20.28,
+   "text": "offline tarzidi otilib."
+  },
+  {
+   "start": 20.28,
+   "end": 22.52,
+   "text": "Tradingi mustaqili orginib, vaxt yokotmik."
+  },
+  {
+   "start": 22.52,
+   "end": 24.72,
+   "text": "Pasti gurtigimani basib, formani toldirin"
+  },
+  {
+   "start": 24.72,
+   "end": 27.04,
+   "text": "və kurs haqidi betapsil malim atolim."
+  }
+ ],
+ "chars": 454,
+ "chars_per_s": 16.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

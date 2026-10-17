@@ -1,0 +1,126 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.24,
+   "text": "17-18 yashda la yishkani baxlay, mene xazir 20 yashka kirdi okuchilarim, 20-20 tor yashda okuchilarim var."
+  },
+  {
+   "start": 6.34,
+   "end": 8.84,
+   "text": "2-3 min dolar tor, 5 min dolar la pul tapishyabdi."
+  },
+  {
+   "start": 9.3,
+   "end": 14.5,
+   "text": "Endi siz 2-3 min dolar kanakli 18-19 yashda tapishvumkun 20 yashda edesisiz, bu unakli qiyin maz."
+  },
+  {
+   "start": 14.88,
+   "end": 16.94,
+   "text": "Aslida u darajadagi qiyin yonali shmaz."
+  },
+  {
+   "start": 17.04,
+   "end": 20.44,
+   "text": "Kopchili bunu prosto mif qilib, gaprib, qiyinlashdir vardu xalasi."
+  },
+  {
+   "start": 20.52,
+   "end": 23.34,
+   "text": "Leki aslida Amerikala yishkani su darajadagi qiyin ishmaz."
+  },
+  {
+   "start": 23.34,
+   "end": 26.48,
+   "text": "Bu mese 19-20 yashda yigib, allar aigishunakli pul tapyadimi."
+  },
+  {
+   "start": 26.48,
+   "end": 28.48,
+   "text": "Masanam, okuchilarin ushnaqil putab yabdi."
+  },
+  {
+   "start": 28.48,
+   "end": 30.48,
+   "text": "Ennin nima qiliy ishla ishchunday siz?"
+  },
+  {
+   "start": 30.48,
+   "end": 32.48,
+   "text": "Ingilis tilin orta darajada bilishkiz kiri,"
+  },
+  {
+   "start": 32.48,
+   "end": 34.48,
+   "text": "gheplash olay ishkiri, IELTS kireyim, CIFIR yok kireyimas."
+  },
+  {
+   "start": 34.48,
+   "end": 36.48,
+   "text": "Ichganiga sertifikatsiz, bimala kelasiz."
+  },
+  {
+   "start": 36.48,
+   "end": 38.48,
+   "text": "Ozimsizgi orga tamay."
+  },
+  {
+   "start": 38.48,
+   "end": 40.48,
+   "text": "Shaksan ozimsizgi Amerikaya logistikasini orga atay,"
+  },
+  {
+   "start": 40.48,
+   "end": 42.48,
+   "text": "bir ay daamidi, polnusio"
+  },
+  {
+   "start": 42.48,
+   "end": 44.48,
+   "text": "i yakshi organarigam bo sez, ozimiz ishkiyam"
+  },
+  {
+   "start": 44.48,
+   "end": 46.48,
+   "text": "apgir koyamiz. Dispacherlikni, updaterlikni,"
+  },
+  {
+   "start": 46.48,
+   "end": 48.48,
+   "text": "rikvrutinigini, shu en top yonalishlani"
+  },
+  {
+   "start": 48.48,
+   "end": 50.48,
+   "text": "lagisika degilani orga ta'amiz"
+  },
+  {
+   "start": 50.48,
+   "end": 52.48,
+   "text": "vaki egin branda bakan samizga"
+  },
+  {
+   "start": 52.48,
+   "end": 54.48,
+   "text": "ishqaqqir koya'amiz. Kopra ma'lim ata'am"
+  },
+  {
+   "start": 54.48,
+   "end": 56.48,
+   "text": "aqchi basayiz, to'la ra'am a'lim ata'am aqchi basayiz, tugu ma'"
+  },
+  {
+   "start": 56.48,
+   "end": 58.48,
+   "text": "pasayiz, tugu ma' arxalyaroy xatna'otim."
+  }
+ ],
+ "chars": 1147,
+ "chars_per_s": 19.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

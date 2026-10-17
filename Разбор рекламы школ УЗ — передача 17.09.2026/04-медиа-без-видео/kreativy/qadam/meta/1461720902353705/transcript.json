@@ -1,0 +1,86 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.84,
+   "text": "Uzun marketta bir kun sovda qittur, nech vulge chishlap tavsi boladi."
+  },
+  {
+   "start": 2.9,
+   "end": 4.02,
+   "text": "Bizi xosh, chunu korup chikamizi."
+  },
+  {
+   "start": 4.16,
+   "end": 5.82,
+   "text": "Kanibomisi, get su!"
+  },
+  {
+   "start": 6.32,
+   "end": 9.28,
+   "text": "Uzun marketta xazi biznis qilish en aktual mavzuq soplanadi."
+  },
+  {
+   "start": 9.42,
+   "end": 12.8,
+   "text": "Chunki katdi biznis egelaryam, uzun marketta oz maksulatini satovati."
+  },
+  {
+   "start": 12.96,
+   "end": 15.72,
+   "text": "Shu sebabli, bizi hem shu yadi savda qilip, ozini hech pul tavsi boladi."
+  },
+  {
+   "start": 15.82,
+   "end": 18.02,
+   "text": "Kanakaki inchiliylari bar, va nimali kerey boladi."
+  },
+  {
+   "start": 18.14,
+   "end": 18.96,
+   "text": "Chunu korup chikamizi."
+  },
+  {
+   "start": 18.96,
+   "end": 23.14,
+   "text": "Busa kani chukura organish, chunbosa qadam edukishini uzumseller kursi giyazil sez boladi."
+  },
+  {
+   "start": 23.14,
+   "end": 25.74,
+   "text": "Va tajibali spekirla bilan, mangi oxsha bilim alasiz"
+  },
+  {
+   "start": 25.74,
+   "end": 28.34,
+   "text": "Va hiç qaniga hatalasiz, xammasini organib chikib"
+  },
+  {
+   "start": 28.34,
+   "end": 29.68,
+   "text": "Kei hesaldani basli orasiz"
+  },
+  {
+   "start": 29.68,
+   "end": 32.62,
+   "text": "Ba albati togri tavar talilashdi bilsiz, kitmaniz yaksigin uchadi"
+  },
+  {
+   "start": 32.62,
+   "end": 35.52,
+   "text": "Ishqib uzum seyallar bolib, bir kundin nec bil tapishun kulligini"
+  },
+  {
+   "start": 35.52,
+   "end": 36.52,
+   "text": "Qorishili munkun"
+  }
+ ],
+ "chars": 771,
+ "chars_per_s": 18.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

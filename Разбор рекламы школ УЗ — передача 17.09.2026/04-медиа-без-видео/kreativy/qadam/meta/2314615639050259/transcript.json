@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.6,
+   "text": "Uzun marketi satush uchun maksulat izbar, lekin ona qanaq qilib jaylashchi, bilmayabsizmi?"
+  },
+  {
+   "start": 5.6,
+   "end": 8.6,
+   "text": "Biz aynin siz uchun Beeple PDF kollamma tayyarladiyi."
+  },
+  {
+   "start": 8.6,
+   "end": 12.2,
+   "text": "Bugun kollamma da siz qanaq qilib uzun marketi noldan daromadga chikishi,"
+  },
+  {
+   "start": 12.2,
+   "end": 15.4,
+   "text": "bashlangit satucili qiladiyan khatalan aldini alishi,"
+  },
+  {
+   "start": 15.4,
+   "end": 19.4,
+   "text": "i undan tashkara aige stabili min dolu daromad tapishi yoli or getilinadi."
+  },
+  {
+   "start": 19.4,
+   "end": 23.6,
+   "text": "Bugun kollamma sizgi tohri yonalish beridi, artikchi tavekkiyali vay shukalasis."
+  },
+  {
+   "start": 23.6,
+   "end": 29.0,
+   "text": "Kollammanin yukla balishi, xaziroq kanalimizgi otin, PDF kollamma sizi biriktir digan khabardi kuti artidi."
+  }
+ ],
+ "chars": 536,
+ "chars_per_s": 18.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

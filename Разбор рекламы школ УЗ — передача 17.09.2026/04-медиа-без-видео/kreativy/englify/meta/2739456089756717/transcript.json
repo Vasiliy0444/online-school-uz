@@ -1,0 +1,111 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.36,
+   "text": "Biz o'z doyli qizigimizdi, oqt uqidan uyalganimizdan soramimizayam, xatarlarimizdan togillamimiz."
+  },
+  {
+   "start": 5.74,
+   "end": 11.14,
+   "text": "Mayli uyalmasayayam, mayli sorimizdisi, xadib bezota qur, milikdib oylimiz."
+  },
+  {
+   "start": 11.22,
+   "end": 12.64,
+   "text": "Endi bu mamalar yox."
+  },
+  {
+   "start": 13.1,
+   "end": 19.6,
+   "text": "Siz yigirme torgi yeddi, suni intelektan xakilaygan salizi beraz, xakilaygan xatarlarizi togillab sizgi yonaltiradi."
+  },
+  {
+   "start": 19.6,
+   "end": 25.32,
+   "text": "Endi ingilis siri organish judayam ansan, uchayda, altayda siz o'yiz maqsadizgi qarab natijiga chqalisis,"
+  },
+  {
+   "start": 25.78,
+   "end": 28.38,
+   "text": "tliz chqarishmi, ayil salishmi, xamasi gerifsisiz buradi."
+  },
+  {
+   "start": 28.38,
+   "end": 31.28,
+   "text": "en qizghi bu aynan isli adamlar uchon qilin gani uchon xam,"
+  },
+  {
+   "start": 31.6,
+   "end": 33.72,
+   "text": "tığız, vaxti tığız adamlar uchon qilin gani uchon xam,"
+  },
+  {
+   "start": 34.16,
+   "end": 35.32,
+   "text": "kunigi 50 dakiqi etadi."
+  },
+  {
+   "start": 35.64,
+   "end": 37.14,
+   "text": "Bit do otirgani 50 dakiqi maz,"
+  },
+  {
+   "start": 37.24,
+   "end": 38.24,
+   "text": "darsini yuki yuk,"
+  },
+  {
+   "start": 38.64,
+   "end": 40.82,
+   "text": "10 dakiqi 10 dakiqadan telefoniniz bozib oldu,"
+  },
+  {
+   "start": 40.92,
+   "end": 42.54,
+   "text": "xoqilagan jaydi, xoqilagan vaqti,"
+  },
+  {
+   "start": 42.94,
+   "end": 44.56,
+   "text": "10 dakiqi sunin select brand speaking,"
+  },
+  {
+   "start": 44.72,
+   "end": 45.84,
+   "text": "10 dakiqi video darsar,"
+  },
+  {
+   "start": 45.9,
+   "end": 46.64,
+   "text": "10 dakiqi maz,"
+  },
+  {
+   "start": 46.72,
+   "end": 47.84,
+   "text": "10 dakiqi sorziyatlaj,"
+  },
+  {
+   "start": 48.1,
+   "end": 50.42,
+   "text": "va 10 dakiqi hatolar usudagli ishingiz munkun."
+  },
+  {
+   "start": 50.74,
+   "end": 51.72,
+   "text": "Rasta ishidi mi bu,"
+  },
+  {
+   "start": 51.72,
+   "end": 56.17,
+   "text": "Atuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu"
+  }
+ ],
+ "chars": 1137,
+ "chars_per_s": 20.2,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

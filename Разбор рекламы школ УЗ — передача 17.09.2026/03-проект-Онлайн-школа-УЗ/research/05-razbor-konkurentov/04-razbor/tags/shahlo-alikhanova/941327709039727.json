@@ -1,0 +1,93 @@
+{
+ "creative_id": "941327709039727",
+ "platform": "meta",
+ "school_id": "shahlo-alikhanova",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "слайды или текст на экране",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "\"2026-yil sun'iy intellekt bilan 5 xil yo'lda daromad\" — video darslikni ko'ring",
+  "types": [
+   "цифра",
+   "результат или доход",
+   "событие с датой"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: «\"2026-YIL SUN'IY INTELLEKT BILAN 5 XIL YO'LDA DAROMAD\" video darslikni ko'ring» — заголовок держится все 6 кадров; ниже врезкой тёмный кадр с человеком, схватившимся руками за что-то с напряжённым выражением лица; ниже «PASTDAGI TUGMANI BOSING» с анимированной пульсирующей стрелкой вниз",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Man biznesimgi bar yoghimi sarfladim. Endi bashqalar suni intelekt bilan, mijazlarimi jalb qo alish oradimi?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "страх отстать",
+   "доход",
+   "свой бизнес"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:07] Suni intelekt suni idi bir organe genman. Hazir onu bilmaganimgi, ishgeyem alishmayabdi.",
+    "timecode": "00:07"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:20] Nima ge suni intelekti organmadi man? Bashqala onu ishlatib blogidan daromad topishyabdi. Man ki, xaliyan blog basla olmay yorubman?",
+    "timecode": "00:20"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_overview.jpg: 4 разных персонажа (женщина в магазине одежды, мужчина в костюме на скамейке, женщина в тёмной комнате у лампы, женщина в белом жакете на улице) — вероятно смонтированные истории нескольких «героев», а не один спикер",
+    "timecode": "00:14"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный урок"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "[BEPUL VIDEODARS] - Qanday Qilib Sun'iy Intellekt Orqali Daromad Qilish Mumkin?"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:28] Əger sizam 2026-ci il suni intelekni orgenib, daramatke chikmokchi boses, pastagi tugmanib osib, video darslikini korin.",
+    "timecode": "00:28"
+   }
+  ]
+ },
+ "cta": {
+  "button": "See details",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "Формат отличается от большинства порции: постоянный заголовок-«трейлер» + быстрая нарезка 4 разных персонажей (видимо каждый со своей мини-историей из уст первого лица), а не один спикер к камере — надёжно развести, кто именно говорит какую реплику, по 4 обзорным кадрам и черновой расшифровке не удаётся, отсюда низкая уверенность. Расшифровка (реконструкция смысла, дословность не гарантирована): «Men biznesimga butun yoshimni sarfladim. Endi boshqalar sun'iy intellekt bilan mijozlarimni jalb qilib oladimi? Sun'iy intellektni hech o'rganmaganman. Hozir buni bilmaganim uchun ishlarim yaxshi ketmayapti. Nargiza, ertaga ishlar qanday ketishini ko'ramiz — sizning o'rningizga AI biladigan xodim oldik. Nega o'zim sun'iy intellektni o'rganmadim? Boshqalar undan foydalanib blogidan daromad topishyapti. Men esa hali blog boshlay olmay yuribman. Agar siz ham 2026-yil sun'iy intellektni o'rganib, daromadga chiqmoqchi bo'lsangiz, pastagi tugmani bosib video darslikni ko'ring» — упоминается имя «Nargiza» (сотрудница/персонаж истории), контекст неполный. burned_subtitles = false: единственный текст на кадре — статичный заголовок и статичный CTA, они не meняются по репликам речи (в отличие от большинства других роликов порции, где субтитры идут по словам)."
+}

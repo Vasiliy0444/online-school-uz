@@ -1,0 +1,286 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.12,
+   "text": "Chini vireydi."
+  },
+  {
+   "start": 1.12,
+   "end": 3.12,
+   "text": "Ya oz, ma chini vireydi, ingalash katmas?"
+  },
+  {
+   "start": 3.12,
+   "end": 5.12,
+   "text": "Bani, sinimim Dila Frust, onsakiz yosh dama."
+  },
+  {
+   "start": 5.12,
+   "end": 6.32,
+   "text": "Kandi ekip qaliz ninjot talimga?"
+  },
+  {
+   "start": 6.32,
+   "end": 8.72,
+   "text": "Sinimim da ushim uqi gandi, ushinda xavas qilardim."
+  },
+  {
+   "start": 8.72,
+   "end": 10.72,
+   "text": "Kiyan, Instagramda korup bagayamma, kiyanma."
+  },
+  {
+   "start": 10.72,
+   "end": 13.2,
+   "text": "Korkmasaytama, huazat 90% tavsiya qalik yamuk chikadi."
+  },
+  {
+   "start": 13.2,
+   "end": 14.88,
+   "text": "Kin, targettirima da korup balishiz munkun."
+  },
+  {
+   "start": 14.88,
+   "end": 16.88,
+   "text": "Sizden tabziya qil balishiz uchi yakhsh okishiz kiri."
+  },
+  {
+   "start": 16.88,
+   "end": 18.08,
+   "text": "Sizden kimdi ilhamlarim balishiz kiri."
+  },
+  {
+   "start": 18.08,
+   "end": 19.36,
+   "text": "Bitirigandaykin rezil aqanaka."
+  },
+  {
+   "start": 19.36,
+   "end": 20.92,
+   "text": "Yaxsh mutaxa siz bolib ishlax?"
+  },
+  {
+   "start": 20.92,
+   "end": 22.56,
+   "text": "Qande qilab?"
+  },
+  {
+   "start": 24.24,
+   "end": 26.68,
+   "text": "Mana shun chabaytami taylan warishkin kion barda sizda."
+  },
+  {
+   "start": 26.68,
+   "end": 28.96,
+   "text": "Agar shunay ki inan taylan bagaymo siz bulmarim."
+  },
+  {
+   "start": 28.96,
+   "end": 30.4,
+   "text": "Nimo ushin kiraq bizayin tayladiz?"
+  },
+  {
+   "start": 32.08,
+   "end": 33.44,
+   "text": "Qop, kurs bitiriz, nol aqam ahciz?"
+  },
+  {
+   "start": 33.44,
+   "end": 38.24,
+   "text": "Oiz erkin soha haqqa da man chun yallariz, bil yallariz, erkin yapribirin minin?"
+  },
+  {
+   "start": 39.76,
+   "end": 40.76,
+   "text": "Finalizak yaparishki."
+  },
+  {
+   "start": 40.76,
+   "end": 41.56,
+   "text": "Hayz olayansam."
+  },
+  {
+   "start": 41.56,
+   "end": 42.64,
+   "text": "Otun izdimi ishqol shayda?"
+  },
+  {
+   "start": 42.64,
+   "end": 44.8,
+   "text": "Dadam qara bullar, ayam azot ishledi."
+  },
+  {
+   "start": 44.8,
+   "end": 45.8,
+   "text": "Oiz ishki kirdan yonm bular?"
+  },
+  {
+   "start": 45.8,
+   "end": 49.0,
+   "text": "Administratorli boy chakergenme, ozum tolovim, ozum kumaxchidim."
+  },
+  {
+   "start": 49.0,
+   "end": 50.04,
+   "text": "Oqchilar kana qa azr?"
+  },
+  {
+   "start": 50.04,
+   "end": 51.84,
+   "text": "Qaxsi zor, zor shakni shalim."
+  },
+  {
+   "start": 51.84,
+   "end": 52.72,
+   "text": "Tolovdi kim qliyabit?"
+  },
+  {
+   "start": 52.72,
+   "end": 53.12,
+   "text": "Anam."
+  },
+  {
+   "start": 53.12,
+   "end": 54.32,
+   "text": "Hazni isin choyi qeldi ishinda?"
+  },
+  {
+   "start": 54.32,
+   "end": 55.28,
+   "text": "Bi isin choyi otamz."
+  },
+  {
+   "start": 55.28,
+   "end": 56.6,
+   "text": "Bi isin choyi tolovu qilindim yo mu?"
+  },
+  {
+   "start": 56.6,
+   "end": 56.96,
+   "text": "Endi."
+  },
+  {
+   "start": 56.96,
+   "end": 59.48,
+   "text": "Oqch administratorli agen pulimme, enda ozum kumaxchim edim."
+  },
+  {
+   "start": 59.48,
+   "end": 62.24,
+   "text": "Oqch puli ozgi ishlatim, min siz iki olay toloviz qo belamak."
+  },
+  {
+   "start": 63.96,
+   "end": 66.0,
+   "text": "Yed, psi nyi yudaydan, psi nyi yubaydi."
+  },
+  {
+   "start": 66.0,
+   "end": 68.0,
+   "text": "Fakat, vitr zingu bozun boya marchya zingu zingu zingu zingu zingu zingu zingu"
+  },
+  {
+   "start": 68.0,
+   "end": 68.0,
+   "text": ""
+  },
+  {
+   "start": 68.0,
+   "end": 68.0,
+   "text": ""
+  },
+  {
+   "start": 68.0,
+   "end": 68.0,
+   "text": ""
+  },
+  {
+   "start": 68.0,
+   "end": 68.0,
+   "text": ""
+  },
+  {
+   "start": 68.0,
+   "end": 68.0,
+   "text": ""
+  },
+  {
+   "start": 68.0,
+   "end": 68.0,
+   "text": ""
+  },
+  {
+   "start": 68.0,
+   "end": 68.0,
+   "text": ""
+  },
+  {
+   "start": 68.0,
+   "end": 68.0,
+   "text": ""
+  },
+  {
+   "start": 68.0,
+   "end": 68.0,
+   "text": ""
+  },
+  {
+   "start": 68.0,
+   "end": 68.0,
+   "text": ""
+  },
+  {
+   "start": 68.0,
+   "end": 68.0,
+   "text": ""
+  },
+  {
+   "start": 68.0,
+   "end": 68.0,
+   "text": ""
+  },
+  {
+   "start": 68.0,
+   "end": 68.0,
+   "text": ""
+  },
+  {
+   "start": 68.0,
+   "end": 68.0,
+   "text": ""
+  },
+  {
+   "start": 68.0,
+   "end": 68.0,
+   "text": ""
+  },
+  {
+   "start": 68.0,
+   "end": 69.66,
+   "text": "qaytaraz, min nukursam bulam."
+  },
+  {
+   "start": 69.72,
+   "end": 70.3,
+   "text": "Qabbarat."
+  },
+  {
+   "start": 70.66,
+   "end": 72.34,
+   "text": "Qalqanizgi, Allah huz rahmatum aytas."
+  },
+  {
+   "start": 72.56,
+   "end": 73.92,
+   "text": "Rahmat shundi qızı taybiyalashgan uchu."
+  }
+ ],
+ "chars": 1487,
+ "chars_per_s": 19.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

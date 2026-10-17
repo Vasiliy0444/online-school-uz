@@ -1,0 +1,38 @@
+{
+ "url": "https://instant.englify.uz",
+ "domain": "instant.englify.uz",
+ "pages_scanned": [
+  "https://instant.englify.uz/"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)"
+  ],
+  "ad_pixel": [
+   "Meta Pixel"
+  ]
+ },
+ "seo_metadata": {
+  "title": "Englify — ariza qoldirish",
+  "description": "Ingliz tilini o&#39;rganishni boshlang. Ismingiz va telefon raqamingizni qoldiring, biz siz bilan bog&#39;lanamiz.",
+  "headings": {
+   "h1": [
+    "INGLIZ TILINI o&#39;rganmoqchimisiz?Хотите выучить английский язык?"
+   ]
+  }
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [
+   "https://instant.englify.uz/logo.svg"
+  ],
+  "total_images_found": 21
+ },
+ "integration_links": [],
+ "hidden_elements": {}
+}

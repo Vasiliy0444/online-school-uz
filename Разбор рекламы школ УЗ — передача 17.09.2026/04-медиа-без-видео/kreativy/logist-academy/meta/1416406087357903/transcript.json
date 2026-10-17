@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.36,
+   "text": "Xushgeyb sila. Amerika logistikasini qayerdda organamam, qayergye varib logistikani xam praktika, xam amali, xam suportlar bilam."
+  },
+  {
+   "start": 8.5,
+   "end": 14.24,
+   "text": "En qizghi besplatni ingilistili kursiyan barca olayda organim maqchimani desayiz, meni sizgi ozumuzu oqish saklif kulamam."
+  },
+  {
+   "start": 14.28,
+   "end": 17.38,
+   "text": "Am bu yerda siz polnuschi Amerika logistikasini noldan organasiz."
+  },
+  {
+   "start": 17.88,
+   "end": 25.98,
+   "text": "Kegen kunizdan baslayib computer disizmi, suport teacherlar disizmi, ingilistili kursi disizmi, agar ingilistili ispas bosa, xam asn ozumuzu organamiz."
+  },
+  {
+   "start": 25.98,
+   "end": 35.7,
+   "text": "1 ay dami da sizgi Amerikalagi iskasini orga atib, polnusyu, ozimiz, zaxshi organi okucilarimizi xammasigi isveramiz, katta katta kampanyalar bilan bizi dogorlarimiz var,"
+  },
+  {
+   "start": 35.76,
+   "end": 42.3,
+   "text": "va okucilarimizi ulargi tayyarkilib jonati veramiz, va ali ilarizan en kamy 300 dolar atrafda baslanari."
+  },
+  {
+   "start": 42.94,
+   "end": 45.58,
+   "text": "Agar xizibola diyan bosa, pastu tugma qaldir, ama royhatta notin."
+  }
+ ],
+ "chars": 812,
+ "chars_per_s": 17.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,322 @@
+2026-09-17 00:27:27 gapfill 187576877762936 ≤2026-09-08: ads=15 counter=~120 results new=0
+2026-09-17 00:28:15 gapfill 187576877762936 ≤2026-09-04: ads=0 counter=None new=0
+2026-09-17 00:29:12 gapfill 187576877762936 ≤2026-09-06: ads=15 counter=~120 results new=0
+2026-09-17 00:30:13 gapfill 187576877762936 ≤2026-09-05: ads=6 counter=~110 results new=0
+2026-09-17 00:30:13 gapfill 187576877762936: unique ads 15 of ~120; loads 4; left in queue 0; unsplittable ['2026-09-04..2026-09-05']
+2026-09-17 00:31:10 gapfill 102623026249771 ≤2026-08-20: ads=25 counter=~25 results new=13
+2026-09-17 00:31:10 gapfill 102623026249771: unique ads 43 of ~43; loads 1; left in queue 0; unsplittable []
+1608259153989967 slot=0 video_hd: duplicate 
+1608259153989967 slot=0 video_preview: ok 82797
+1338395215040813 slot=0 video_hd: duplicate 
+1338395215040813 slot=0 video_preview: ok 92332
+1947385159253866 slot=1 video_hd: duplicate 
+1947385159253866 slot=1 video_preview: ok 223682
+1947385159253866 slot=2 video_hd: duplicate 
+1947385159253866 slot=2 video_preview: ok 135473
+1947385159253866 slot=3 video_hd: duplicate 
+1947385159253866 slot=3 video_preview: ok 206841
+1947385159253866 slot=4 video_hd: duplicate 
+1947385159253866 slot=4 video_preview: ok 180852
+1947385159253866 slot=5 video_hd: duplicate 
+1947385159253866 slot=5 video_preview: ok 101757
+1947385159253866 slot=6 video_hd: duplicate 
+1947385159253866 slot=6 video_preview: ok 231008
+1060086169879221 slot=0 video_hd: duplicate 
+1060086169879221 slot=0 video_preview: ok 109499
+4390643311219167 slot=1 image: ok 1072567
+4390643311219167 slot=2 image: ok 1409314
+4390643311219167 slot=3 image: duplicate 
+4390643311219167 slot=4 image: duplicate 
+2067259530561151 slot=1 image: ok 1072567
+2067259530561151 slot=2 image: ok 1409314
+2067259530561151 slot=3 image: duplicate 
+2067259530561151 slot=4 image: duplicate 
+2557488081435586 slot=1 image: ok 1044473
+2557488081435586 slot=2 image: ok 760734
+1653266559606629 slot=1 image: ok 1044473
+1653266559606629 slot=2 image: ok 760734
+1062468726323342 slot=1 image: ok 908078
+1062468726323342 slot=2 image: ok 1116781
+1062468726323342 slot=3 image: duplicate 
+1045895048137213 slot=1 image: ok 908078
+1045895048137213 slot=2 image: ok 1116781
+1045895048137213 slot=3 image: duplicate 
+2105686263397971 slot=1 image: ok 908078
+2105686263397971 slot=2 image: ok 1116781
+2105686263397971 slot=3 image: duplicate 
+3186613838200167 slot=1 video_hd: duplicate 
+3186613838200167 slot=1 video_preview: ok 223682
+3186613838200167 slot=2 video_hd: duplicate 
+3186613838200167 slot=2 video_preview: ok 135473
+3186613838200167 slot=3 video_hd: duplicate 
+3186613838200167 slot=3 video_preview: ok 206841
+3186613838200167 slot=4 video_hd: duplicate 
+3186613838200167 slot=4 video_preview: ok 180852
+3186613838200167 slot=5 video_hd: duplicate 
+3186613838200167 slot=5 video_preview: ok 101757
+3186613838200167 slot=6 video_hd: duplicate 
+3186613838200167 slot=6 video_preview: ok 231008
+1678596329886775 slot=1 video_hd: duplicate 
+1678596329886775 slot=1 video_preview: ok 223682
+1678596329886775 slot=2 video_hd: duplicate 
+1678596329886775 slot=2 video_preview: ok 135473
+1678596329886775 slot=3 video_hd: duplicate 
+1678596329886775 slot=3 video_preview: ok 180852
+1678596329886775 slot=4 video_hd: duplicate 
+1678596329886775 slot=4 video_preview: ok 206841
+1678596329886775 slot=5 video_hd: duplicate 
+1678596329886775 slot=5 video_preview: ok 101757
+1678596329886775 slot=6 video_hd: duplicate 
+1678596329886775 slot=6 video_preview: ok 231008
+2026-09-17 00:34:21 gapfill 111238895346791 ≤2026-09-06: ads=30 counter=~140 results new=5
+2026-09-17 00:35:16 gapfill 111238895346791 ≤2026-06-25: ads=30 counter=~68 results new=10
+2026-09-17 00:36:03 gapfill 111238895346791 ≤2026-05-03: ads=28 counter=~28 results new=1
+2026-09-17 00:36:03 gapfill 111238895346791: unique ads 157 of ~160; loads 3; left in queue 0; unsplittable []
+1254502300191287 slot=0 video_hd: ok 5301265
+1254502300191287 slot=0 video_preview: ok 115190
+1739157160856347 slot=0 video_hd: ok 12240608
+1739157160856347 slot=0 video_preview: ok 171429
+1982852259269789 slot=0 video_hd: ok 10349548
+1982852259269789 slot=0 video_preview: ok 171429
+1604778943957115 slot=0 video_hd: ok 13043975
+1604778943957115 slot=0 video_preview: ok 159048
+1436298881583943 slot=0 video_hd: ok 16585056
+1436298881583943 slot=0 video_preview: ok 159048
+1495360785406146 slot=0 video_hd: ok 9612757
+1495360785406146 slot=0 video_preview: ok 184732
+2277621969312843 slot=0 video_hd: ok 11245657
+2277621969312843 slot=0 video_preview: ok 171429
+1489432532678210 slot=0 video_hd: ok 11924869
+1489432532678210 slot=0 video_preview: ok 159048
+2346449425883612 slot=0 video_hd: ok 9474274
+2346449425883612 slot=0 video_preview: ok 171429
+1472962887656884 slot=0 video_hd: ok 12055865
+1472962887656884 slot=0 video_preview: ok 159048
+1886664068709847 slot=0 video_hd: ok 15594703
+1886664068709847 slot=0 video_preview: ok 159036
+1583375566648349 slot=0 video_hd: duplicate 
+1583375566648349 slot=0 video_preview: ok 99860
+1555327309701428 slot=0 video_hd: duplicate 
+1555327309701428 slot=0 video_preview: ok 112436
+27650425961273644 slot=0 video_hd: duplicate 
+27650425961273644 slot=0 video_preview: ok 135776
+895389286479106 slot=0 video_hd: duplicate 
+895389286479106 slot=0 video_preview: ok 160988
+1350470999966785 slot=1 video_hd: ok 735999
+1350470999966785 slot=1 video_preview: ok 201615
+1350470999966785 slot=2 video_hd: ok 648958
+1350470999966785 slot=2 video_preview: ok 182297
+1517862062856850 slot=1 video_hd: ok 758362
+1517862062856850 slot=1 video_preview: ok 177712
+1517862062856850 slot=2 video_hd: ok 677652
+1517862062856850 slot=2 video_preview: ok 157021
+1912138243505569 slot=1 video_hd: ok 763217
+1912138243505569 slot=1 video_preview: ok 177065
+1912138243505569 slot=2 video_hd: ok 671563
+1912138243505569 slot=2 video_preview: ok 156395
+2145437256355054 slot=1 video_hd: ok 771023
+2145437256355054 slot=1 video_preview: ok 183624
+2145437256355054 slot=2 video_hd: ok 682128
+2145437256355054 slot=2 video_preview: ok 155637
+1489049049639176 slot=1 video_hd: ok 737947
+1489049049639176 slot=1 video_preview: ok 198890
+1489049049639176 slot=2 video_hd: ok 647726
+1489049049639176 slot=2 video_preview: ok 174315
+1352496627052276 slot=1 video_hd: ok 742337
+1352496627052276 slot=1 video_preview: ok 191522
+1352496627052276 slot=2 video_hd: ok 652582
+1352496627052276 slot=2 video_preview: ok 169085
+916805088171330 slot=0 video_hd: ok 34864389
+916805088171330 slot=0 video_preview: ok 198095
+1071184455434342 slot=0 video_hd: ok 31198732
+1071184455434342 slot=0 video_preview: ok 322316
+1063789286389112 slot=0 video_hd: ok 28427480
+1063789286389112 slot=0 video_preview: ok 202165
+1084994537336566 slot=0 video_hd: ok 34308679
+1084994537336566 slot=0 video_preview: ok 308702
+1679625419799894 slot=0 video_hd: ok 36639128
+1679625419799894 slot=0 video_preview: ok 200134
+2026-09-17 00:41:42 gapfill 101731382738670 ≤2026-09-13: ads=30 counter=~82 results new=2
+2026-09-17 00:42:30 gapfill 101731382738670 ≤2026-08-20: ads=30 counter=~55 results new=5
+2026-09-17 00:43:17 gapfill 101731382738670 ≤2026-06-23: ads=30 counter=~36 results new=3
+2026-09-17 00:44:18 gapfill 101731382738670 ≤2026-06-05: ads=14 counter=~14 results new=4
+2026-09-17 00:44:18 gapfill 101731382738670: unique ads 106 of ~110; loads 4; left in queue 0; unsplittable []
+2503122846792389 slot=0 video_hd: ok 30740911
+2503122846792389 slot=0 video_preview: ok 527249
+1554069146388165 slot=0 video_hd: ok 11271441
+1554069146388165 slot=0 video_preview: ok 176290
+1548157493646590 slot=0 video_hd: ok 19682879
+1548157493646590 slot=0 video_preview: ok 374529
+1344047170964882 slot=0 video_hd: ok 14239885
+1344047170964882 slot=0 video_preview: ok 208018
+1919477998704604 slot=0 video_hd: ok 11512501
+1919477998704604 slot=0 video_preview: ok 205276
+27192061647078055 slot=0 video_hd: ok 14613978
+27192061647078055 slot=0 video_preview: ok 12461
+2739456089756717 slot=0 video_hd: ok 11193195
+2739456089756717 slot=0 video_preview: ok 182600
+2190521608470899 slot=0 video_hd: duplicate 
+2190521608470899 slot=0 video_preview: ok 118259
+2055360125368257 slot=0 video_hd: duplicate 
+2055360125368257 slot=0 video_preview: ok 198488
+1963596064333266 slot=0 video_hd: duplicate 
+1963596064333266 slot=0 video_preview: ok 12443
+1357516449843149 slot=0 video_hd: ok 9448552
+1357516449843149 slot=0 video_preview: ok 12443
+3266473586888509 slot=0 video_hd: duplicate 
+3266473586888509 slot=0 video_preview: ok 12443
+1014702238291006 slot=0 video_hd: ok 5554864
+1014702238291006 slot=0 video_preview: ok 156666
+1379495344390361 slot=0 video_hd: ok 7305928
+1379495344390361 slot=0 video_preview: ok 163675
+2026-09-17 00:46:58 gapfill 215690519106811 ≤2026-09-12: ads=30 counter=~120 results new=8
+2026-09-17 00:47:53 gapfill 215690519106811 ≤2026-09-09: ads=30 counter=~71 results new=21
+2026-09-17 00:47:53 gapfill 215690519106811: unique ads 168 of ~170; loads 2; left in queue 0; unsplittable []
+3072601532942607 slot=0 video_hd: duplicate 
+3072601532942607 slot=0 video_preview: ok 121116
+2062958404323242 slot=0 video_hd: duplicate 
+2062958404323242 slot=0 video_preview: ok 145925
+1804110597813422 slot=0 video_hd: duplicate 
+1804110597813422 slot=0 video_preview: ok 145925
+1422618969980764 slot=0 video_hd: ok 6132897
+1422618969980764 slot=0 video_preview: ok 112041
+924954344020050 slot=0 video_hd: duplicate 
+924954344020050 slot=0 video_preview: ok 112041
+1769047741054681 slot=0 video_hd: ok 3742760
+1769047741054681 slot=0 video_preview: ok 220166
+1971130626911155 slot=0 video_hd: duplicate 
+1971130626911155 slot=0 video_preview: ok 220166
+1804518150680563 slot=0 video_hd: ok 7827080
+1804518150680563 slot=0 video_preview: ok 12461
+1097554772685879 slot=0 video_hd: duplicate 
+1097554772685879 slot=0 video_preview: ok 12461
+1543059920461929 slot=0 image: ok 67281
+1037800839079552 slot=0 image: ok 67281
+1816988233065623 slot=0 video_hd: ok 10606462
+1816988233065623 slot=0 video_preview: ok 229769
+2545611762534019 slot=0 video_hd: duplicate 
+2545611762534019 slot=0 video_preview: ok 229769
+1042854805225153 slot=0 video_hd: ok 13204490
+1042854805225153 slot=0 video_preview: ok 39890
+1907439610232364 slot=0 video_hd: duplicate 
+1907439610232364 slot=0 video_preview: ok 39890
+2495714444239519 slot=0 image: ok 609391
+1619112279714293 slot=0 video_hd: duplicate 
+1619112279714293 slot=0 video_preview: duplicate 
+28690689680535829 slot=0 image: ok 606878
+1101939639051828 slot=0 image: ok 596649
+1031289416564204 slot=0 image: ok 614791
+4544278262518176 slot=0 image: ok 606865
+2897797623937060 slot=0 video_sd: ok 2047327
+2897797623937060 slot=0 video_preview: ok 32892
+28872906792306258 slot=0 video_hd: ok 9036093
+28872906792306258 slot=0 video_preview: ok 121449
+2034281761293377 slot=0 video_hd: duplicate 
+2034281761293377 slot=0 video_preview: duplicate 
+1407971424611417 slot=0 video_hd: duplicate 
+1407971424611417 slot=0 video_preview: duplicate 
+1641575807403789 slot=0 video_hd: duplicate 
+1641575807403789 slot=0 video_preview: duplicate 
+1833764800948736 slot=0 video_hd: duplicate 
+1833764800948736 slot=0 video_preview: duplicate 
+2265969247277727 slot=0 video_hd: duplicate 
+2265969247277727 slot=0 video_preview: duplicate 
+930621529660825 slot=0 video_hd: duplicate 
+930621529660825 slot=0 video_preview: duplicate 
+2026-09-17 00:50:41 gapfill 1116696684856861 ≤2026-09-10: ads=30 counter=~48 results new=0
+2026-09-17 00:51:40 gapfill 1116696684856861 ≤2026-09-09: ads=30 counter=~48 results new=0
+2026-09-17 00:51:40 gapfill 1116696684856861: unique ads 30 of ~48; loads 2; left in queue 0; unsplittable ['2026-09-08..2026-09-09']
+2026-09-17 00:52:37 gapfill 160305840488420 ≤2026-09-11: ads=30 counter=~71 results new=13
+2026-09-17 00:53:33 gapfill 160305840488420 ≤2026-09-06: ads=30 counter=~46 results new=3
+2026-09-17 00:53:33 gapfill 160305840488420: unique ads 98 of ~99; loads 2; left in queue 0; unsplittable []
+4495907007403019 slot=0 video_hd: ok 2931262
+4495907007403019 slot=0 video_preview: ok 210730
+1053753323930564 slot=0 video_hd: ok 2649188
+1053753323930564 slot=0 video_preview: ok 236327
+1099197066123912 slot=0 video_hd: ok 3843068
+1099197066123912 slot=0 video_preview: ok 83909
+2321350378271026 slot=0 video_hd: duplicate 
+2321350378271026 slot=0 video_preview: ok 69938
+1066464219464504 slot=0 video_hd: ok 3043250
+1066464219464504 slot=0 video_preview: ok 198452
+28225742237035873 slot=0 video_hd: ok 2638461
+28225742237035873 slot=0 video_preview: ok 48310
+1560594245249225 slot=0 video_hd: duplicate 
+1560594245249225 slot=0 video_preview: duplicate 
+1058714340381974 slot=0 video_hd: duplicate 
+1058714340381974 slot=0 video_preview: duplicate 
+2624719364642788 slot=0 video_hd: duplicate 
+2624719364642788 slot=0 video_preview: duplicate 
+1305865178166269 slot=0 video_hd: ok 5903274
+1305865178166269 slot=0 video_preview: ok 170533
+2139011217016265 slot=0 video_hd: duplicate 
+2139011217016265 slot=0 video_preview: duplicate 
+1611417630596271 slot=0 video_hd: duplicate 
+1611417630596271 slot=0 video_preview: duplicate 
+28957188310638059 slot=0 video_hd: duplicate 
+28957188310638059 slot=0 video_preview: ok 198090
+1085490841021330 slot=0 video_hd: duplicate 
+1085490841021330 slot=0 video_preview: ok 186705
+1372606148420516 slot=0 video_hd: ok 3877336
+1372606148420516 slot=0 video_preview: ok 171532
+1071787298562478 slot=0 video_hd: ok 2935872
+1071787298562478 slot=0 video_preview: ok 181490
+2026-09-17 00:55:49 gapfill 280855418441675 ≤2026-09-15: ads=30 counter=~42 results new=4
+2026-09-17 00:55:49 gapfill 280855418441675: unique ads 70 of ~79; loads 1; left in queue 0; unsplittable ['2026-09-13..2026-09-14', '2026-09-15..2026-09-16']
+884594837918711 slot=0 video_hd: duplicate 
+884594837918711 slot=0 video_preview: ok 57959
+1373442738286440 slot=0 video_hd: duplicate 
+1373442738286440 slot=0 video_preview: ok 126509
+1998417287413167 slot=0 video_hd: duplicate 
+1998417287413167 slot=0 video_preview: ok 128779
+1792920878399534 slot=0 video_hd: duplicate 
+1792920878399534 slot=0 video_preview: ok 177757
+2026-09-17 00:57:01 gapfill 225697427300662 ≤2026-07-12: ads=30 counter=~55 results new=1
+2026-09-17 00:57:52 gapfill 225697427300662 ≤2026-05-01: ads=30 counter=~32 results new=4
+2026-09-17 00:58:53 gapfill 225697427300662 ≤2026-04-28: ads=25 counter=~25 results new=2
+2026-09-17 00:58:53 gapfill 225697427300662: unique ads 67 of ~68; loads 3; left in queue 0; unsplittable []
+952114621017880 slot=0 video_sd: duplicate 
+952114621017880 slot=0 video_preview: ok 39404
+800564399499279 slot=0 video_hd: duplicate 
+800564399499279 slot=0 video_preview: ok 240777
+1576619293428584 slot=0 video_hd: duplicate 
+1576619293428584 slot=0 video_preview: ok 123165
+1989975054951270 slot=0 video_hd: duplicate 
+1989975054951270 slot=0 video_preview: ok 65397
+3371046346412332 slot=0 video_hd: duplicate 
+3371046346412332 slot=0 video_preview: ok 65397
+963784262908800 slot=0 video_hd: duplicate 
+963784262908800 slot=0 video_preview: ok 65397
+941514171826989 slot=0 video_hd: duplicate 
+941514171826989 slot=0 video_preview: duplicate 
+2026-09-17 01:00:12 gapfill 409888898873018 ≤2026-07-29: ads=30 counter=~30 results new=11
+2026-09-17 01:00:12 gapfill 409888898873018: unique ads 49 of ~49; loads 1; left in queue 0; unsplittable []
+1569383681420817 slot=0 video_hd: duplicate 
+1569383681420817 slot=0 video_preview: ok 334486
+1985871378706071 slot=1 image: ok 2061751
+1985871378706071 slot=2 image: ok 1438439
+1985871378706071 slot=3 image: ok 1436160
+1985871378706071 slot=4 image: ok 1438798
+1985871378706071 slot=5 image: ok 1438339
+1985871378706071 slot=6 image: ok 1436571
+1499909571833116 slot=0 video_hd: ok 817694
+1499909571833116 slot=0 video_preview: ok 120917
+1933394274043882 slot=0 video_hd: duplicate 
+1933394274043882 slot=0 video_preview: ok 120917
+1327683625536399 slot=0 video_hd: ok 9537221
+1327683625536399 slot=0 video_preview: ok 201962
+1245166667528528 slot=0 video_hd: ok 8308896
+1245166667528528 slot=0 video_preview: ok 250643
+2495023007605237 slot=0 video_hd: ok 14505490
+2495023007605237 slot=0 video_preview: ok 83661
+2223603711787591 slot=0 video_hd: ok 12685238
+2223603711787591 slot=0 video_preview: ok 345490
+2035516184000622 slot=0 video_hd: duplicate 
+2035516184000622 slot=0 video_preview: ok 72805
+863909716239784 slot=1 image: ok 2061751
+863909716239784 slot=2 image: ok 1438439
+863909716239784 slot=3 image: ok 1436160
+863909716239784 slot=4 image: ok 1438798
+863909716239784 slot=5 image: ok 1438339
+863909716239784 slot=6 image: ok 1436571
+4245453505765250 slot=0 image: ok 890481

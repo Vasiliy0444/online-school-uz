@@ -1,0 +1,71 @@
+{
+ "creative_id": "1619112279714293",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "4 oyda kasbli bo'lish? Bugun xususiy universitetga kirgan va endi bitta daromadli kasb istagan talabalar uchun ajoyib yangiligimiz bor.",
+  "types": [
+   "вопрос",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: красная рамка-заголовок «4 oyda kasbli bo'lish ?» поверх кадра, снизу субтитры «Bu yil xususiy» → «universitetga» → «kirgan va endi» → «bitta daromadli»"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Bugun khususi universitki kirgan va endi bitti daromadli kastotashim gerekte guringan talebalar uchun acaib gangiliyimiz bad.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для студентов",
+   "доход",
+   "без опыта"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "SMM'ni noldan o'rganish uchun sizdan na dasturlash bilimi, na maxsus qobiliyat talab qilinadi."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:06] Tor yulday maz, artigi tor ayda SMM taxasina organib, biznis egalar uchun en kerekli kadir gaylanig.",
+    "timecode": "00:06"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "основатель или эксперт"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Молодой человек в очках в коворкинге/офисе (деревянный реечный потолок) обращается к сегменту «поступивших в этом году в частный университет» студентов, предлагая за 4 месяца получить доходную профессию (SMM). Хук — крупный красный заголовок-вопрос на кадре плюс субтитры, надёжный источник; расшифровка подтверждает смысл, написание исправлено. Роль спикера не названа по имени; говорит от лица школы («biz sizga... kutamiz» далее в объявлении), поэтому отнесён к «основатель или эксперт» — поле неоднозначное, могло бы быть и обычным ведущим. Оффера нет, только «Bepul ma'lumot olish» как способ узнать подробности, не отдельный бесплатный продукт."
+}

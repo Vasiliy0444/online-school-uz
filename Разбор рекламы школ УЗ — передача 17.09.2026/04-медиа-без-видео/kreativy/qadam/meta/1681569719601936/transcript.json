@@ -1,0 +1,56 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.4,
+   "text": "Unversiyatki kramad izmi?"
+  },
+  {
+   "start": 1.5,
+   "end": 5.22,
+   "text": "Mamo emas, sato bolimidi ishleb, aigi 12 milion tapish imkayati bar."
+  },
+  {
+   "start": 5.36,
+   "end": 8.74,
+   "text": "Qadam ediki shini sato bolimigi, tajribali menajerlar kerek."
+  },
+  {
+   "start": 8.92,
+   "end": 13.2,
+   "text": "Talabli addi, 19 yosh tangatda bolishiz, tashkin shakhri yoki biloyatda ishishiz,"
+  },
+  {
+   "start": 13.26,
+   "end": 15.28,
+   "text": "va kamida 6 ay tajribiz bolish kerek."
+  },
+  {
+   "start": 15.48,
+   "end": 18.24,
+   "text": "Ish grafigi, irtalabki saat 10-dan, kechki saat 7 gece,"
+  },
+  {
+   "start": 18.32,
+   "end": 22.42,
+   "text": "va haftasigi 1 kundam, bizdi menajerlarimiz ortaki 3 ayda 6-7 milion,"
+  },
+  {
+   "start": 22.52,
+   "end": 24.78,
+   "text": "va 6 ayda isi 10-12 milion tapyabdi."
+  },
+  {
+   "start": 25.02,
+   "end": 27.38,
+   "text": "Taklifimiz qizubisi, khaziroq arizi kaldirin."
+  }
+ ],
+ "chars": 484,
+ "chars_per_s": 17.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

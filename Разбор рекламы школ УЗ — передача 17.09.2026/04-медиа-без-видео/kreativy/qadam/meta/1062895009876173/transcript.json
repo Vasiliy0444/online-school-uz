@@ -1,0 +1,186 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.72,
+   "text": "Agarsiz qadamidi ki shindi sato menajiri boladi yan bosiz,"
+  },
+  {
+   "start": 2.72,
+   "end": 4.46,
+   "text": "ne ichpil topishiz, o'yuzgi balog boladi."
+  },
+  {
+   "start": 4.46,
+   "end": 7.32,
+   "text": "Chunki kanchi kop sadogsisiz, chunchi kop bonus koshiladi."
+  },
+  {
+   "start": 7.32,
+   "end": 8.74,
+   "text": "Va o'ylii kat tegini boladi."
+  },
+  {
+   "start": 8.74,
+   "end": 11.32,
+   "text": "Hosh, menajir lo'ozu burkunda ne malagiladi didi yan bosiyili,"
+  },
+  {
+   "start": 11.32,
+   "end": 12.72,
+   "text": "macazilabilan gaplashasiz."
+  },
+  {
+   "start": 12.72,
+   "end": 15.12,
+   "text": "Telefonda, yokida, telegramda ishlani xalqilasiz."
+  },
+  {
+   "start": 15.12,
+   "end": 17.84,
+   "text": "Ulani sagorlarigi jawab berib, kurs dasturini chuntirasiz"
+  },
+  {
+   "start": 17.84,
+   "end": 19.76,
+   "text": "va shart namalani rasmiilashdirasiz."
+  },
+  {
+   "start": 19.76,
+   "end": 22.0,
+   "text": "Ishikirsiz o'yligim kanak boladi diboylasiz,"
+  },
+  {
+   "start": 22.0,
+   "end": 23.0,
+   "text": "xazu chuntirib berema."
+  },
+  {
+   "start": 23.0,
+   "end": 24.9,
+   "text": "Fix aili aigi 2.5 milyon som,"
+  },
+  {
+   "start": 24.9,
+   "end": 26.18,
+   "text": "sato u rejasini bacarsiz,"
+  },
+  {
+   "start": 26.18,
+   "end": 28.4,
+   "text": "yani 10.5 milyon som bonus berladi."
+  },
+  {
+   "start": 28.4,
+   "end": 30.48,
+   "text": "Shundi cami aigi 13 milyon som gichi,"
+  },
+  {
+   "start": 30.48,
+   "end": 31.7,
+   "text": "behimalol top sez boladi."
+  },
+  {
+   "start": 31.7,
+   "end": 32.72,
+   "text": "Bu xali xanmas-mas,"
+  },
+  {
+   "start": 32.72,
+   "end": 33.72,
+   "text": "menajirliidanki,"
+  },
+  {
+   "start": 33.72,
+   "end": 34.22,
+   "text": "timlidi,"
+  },
+  {
+   "start": 34.22,
+   "end": 35.12,
+   "text": "va ondanki,"
+  },
+  {
+   "start": 35.12,
+   "end": 36.82,
+   "text": "rob bolib ishlasi ezan boladi."
+  },
+  {
+   "start": 36.82,
+   "end": 38.68,
+   "text": "Yani karyeri stoktosuz osadi."
+  },
+  {
+   "start": 38.68,
+   "end": 40.68,
+   "text": "Timlidirlani ailigi 16 milyon som,"
+  },
+  {
+   "start": 40.68,
+   "end": 43.56,
+   "text": "roblani ki bossi 22 milyon som atrafida chikarkan."
+  },
+  {
+   "start": 43.56,
+   "end": 45.56,
+   "text": "Kadamda koshimki bonus oyinlayan barakan."
+  },
+  {
+   "start": 45.56,
+   "end": 47.8,
+   "text": "Toloo apkirdizmi xarkili oyinladi katnashi,"
+  },
+  {
+   "start": 47.8,
+   "end": 49.12,
+   "text": "pulli soorilanyan molasim."
+  },
+  {
+   "start": 49.12,
+   "end": 54.76,
+   "text": "Agar aili rejanib a jiradiyan, musiz butoon kamanda bilan kampaniya xsabdan dachigayam dama gani baralisis."
+  },
+  {
+   "start": 54.76,
+   "end": 59.0,
+   "text": "Ishki krischun sidan nimala talab qilnada, yashiz 18-26 araligda bolishkiri,"
+  },
+  {
+   "start": 59.0,
+   "end": 61.48,
+   "text": "Tashkin yaki da Tashkin vlayatida yashishis kiri,"
+  },
+  {
+   "start": 61.48,
+   "end": 65.04,
+   "text": "Savda yaki da call centerlada kiamada uchayi tajribiz bolishkiri,"
+  },
+  {
+   "start": 65.04,
+   "end": 67.12,
+   "text": "va busizzi asasi ishiz bolishkiri."
+  },
+  {
+   "start": 67.12,
+   "end": 71.24,
+   "text": "Ishqib call centerda sato menajer likhturib, nishbi tapshi mumkulligini, korishi ili mumkun."
+  },
+  {
+   "start": 72.96,
+   "end": 76.24,
+   "text": "Agar sizam qadam jamasini sato kamandasiye qoshin makhchi boladiyan,"
+  },
+  {
+   "start": 76.24,
+   "end": 78.16,
+   "text": "musiz pastige xawali arqali otin."
+  }
+ ],
+ "chars": 1497,
+ "chars_per_s": 19.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

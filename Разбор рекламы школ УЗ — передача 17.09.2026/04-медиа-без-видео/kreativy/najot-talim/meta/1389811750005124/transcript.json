@@ -1,0 +1,346 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.12,
+   "text": "6 yil maska vadi shladi."
+  },
+  {
+   "start": 1.12,
+   "end": 3.68,
+   "text": "Ismi osnadan, 21 grama yadidi, an jami la yadidi."
+  },
+  {
+   "start": 3.68,
+   "end": 5.48,
+   "text": "Maska vadi shladi, ish lap, tel ish lap giyikidi."
+  },
+  {
+   "start": 5.48,
+   "end": 6.72,
+   "text": "6 yil maska vadi shladi."
+  },
+  {
+   "start": 6.72,
+   "end": 7.68,
+   "text": "Uyus haqizi yapi binin?"
+  },
+  {
+   "start": 7.68,
+   "end": 9.72,
+   "text": "Yakshi rasyamchisi gaya ma aldin, qizik qamda shumchim."
+  },
+  {
+   "start": 9.72,
+   "end": 11.08,
+   "text": "Qazi dizaynlariz kani qachi qayabdi?"
+  },
+  {
+   "start": 11.08,
+   "end": 12.16,
+   "text": "Qazi imtikhani dan uddim ki."
+  },
+  {
+   "start": 12.16,
+   "end": 13.56,
+   "text": "Imtikhani da uldu, ushdi oz yukmiddi."
+  },
+  {
+   "start": 13.56,
+   "end": 15.64,
+   "text": "Maktab tugi atdiyiz, maktab tankin barajay doqa dizim?"
+  },
+  {
+   "start": 15.64,
+   "end": 17.36,
+   "text": "Ha, maktab tankin kalej doqa gaya ma."
+  },
+  {
+   "start": 17.36,
+   "end": 18.76,
+   "text": "Nigi 6 yil giyikiddiyiz?"
+  },
+  {
+   "start": 30.0,
+   "end": 30.92,
+   "text": "qirazı boli olasim mi?"
+  },
+  {
+   "start": 30.92,
+   "end": 32.22,
+   "text": "Tavak yalkib geldim, ozman."
+  },
+  {
+   "start": 32.22,
+   "end": 33.04,
+   "text": "Qitab okufturasim mi?"
+  },
+  {
+   "start": 33.04,
+   "end": 33.54,
+   "text": "Noq."
+  },
+  {
+   "start": 33.54,
+   "end": 34.78,
+   "text": "Yani dizaynir bolishig uchun"
+  },
+  {
+   "start": 34.78,
+   "end": 36.18,
+   "text": "dunyo qarashkin yiro bolish kirayda."
+  },
+  {
+   "start": 36.18,
+   "end": 37.58,
+   "text": "Yolda qitab eshtib kiziz bomigdimi?"
+  },
+  {
+   "start": 37.58,
+   "end": 38.56,
+   "text": "Menzigi mutuallana burali"
+  },
+  {
+   "start": 38.56,
+   "end": 39.5,
+   "text": "premium sovaqilaba."
+  },
+  {
+   "start": 39.5,
+   "end": 40.62,
+   "text": "Oto rinzimi eskili shayda?"
+  },
+  {
+   "start": 40.62,
+   "end": 41.7,
+   "text": "Anam, yud oturaydi,"
+  },
+  {
+   "start": 41.7,
+   "end": 43.06,
+   "text": "dadam shu baxshayna boshqaydi."
+  },
+  {
+   "start": 43.06,
+   "end": 44.08,
+   "text": "Kurs pulini kim tola yapdi?"
+  },
+  {
+   "start": 44.08,
+   "end": 44.98,
+   "text": "Ozum uchun, ozum."
+  },
+  {
+   "start": 44.98,
+   "end": 46.44,
+   "text": "Darsdan dashkali, darskulali yapsim?"
+  },
+  {
+   "start": 46.44,
+   "end": 47.06,
+   "text": "Ha, kayyir da?"
+  },
+  {
+   "start": 47.06,
+   "end": 47.56,
+   "text": "Yud ya?"
+  },
+  {
+   "start": 47.56,
+   "end": 51.06,
+   "text": "Oks yaxshayna. Menden axshche ishlasimayam talab qilismayam tazuydi."
+  },
+  {
+   "start": 51.06,
+   "end": 52.06,
+   "text": "Qaybsan okurdi."
+  },
+  {
+   "start": 52.06,
+   "end": 54.06,
+   "text": "Otam nizgi rahmat, qullak ku atlab turqistikyan shuyashta."
+  },
+  {
+   "start": 54.06,
+   "end": 55.56,
+   "text": "Aba girim etdiyam shdi oxshxikiyindor."
+  },
+  {
+   "start": 55.56,
+   "end": 56.56,
+   "text": "Nima orzullariz bar keli ziydi?"
+  },
+  {
+   "start": 56.56,
+   "end": 59.06,
+   "text": "Baxdi, naka ik katta maqsat qoyuschi indi"
+  },
+  {
+   "start": 59.06,
+   "end": 61.06,
+   "text": "min olajim mubshen ozi ishlab tapoyakin"
+  },
+  {
+   "start": 61.06,
+   "end": 63.06,
+   "text": "fulgakara maqsat qoyusdi busakiraydi bi olayrdim dayish."
+  },
+  {
+   "start": 63.06,
+   "end": 64.06,
+   "text": "Bomaygan gel."
+  },
+  {
+   "start": 64.06,
+   "end": 65.06,
+   "text": "Katta maqsatilay qoymaygan."
+  },
+  {
+   "start": 65.06,
+   "end": 67.06,
+   "text": "Cuzay katta maqsatilay qoyusmi qeyin, yitla qizlar."
+  },
+  {
+   "start": 67.06,
+   "end": 68.72,
+   "text": "O yuz ucun cizay ulka masatlar koyin"
+  },
+  {
+   "start": 68.72,
+   "end": 70.26,
+   "text": "Vaa ucunun ucun toktovus harikatlar qalin"
+  },
+  {
+   "start": 70.26,
+   "end": 71.8,
+   "text": "Olasin o, min halkin charchayim arast"
+  },
+  {
+   "start": 71.8,
+   "end": 72.88,
+   "text": "Man xaziram charchayim o"
+  },
+  {
+   "start": 72.88,
+   "end": 74.2,
+   "text": "Masalan, ucun dhe charchab kilaymandi"
+  },
+  {
+   "start": 74.2,
+   "end": 75.62,
+   "text": "Lekin o adatim yuruc geli yuramay"
+  },
+  {
+   "start": 75.62,
+   "end": 77.2,
+   "text": "Toktovus hakqamiz yogo, banyo adamarimizda"
+  },
+  {
+   "start": 77.2,
+   "end": 77.88,
+   "text": "Harisi erkeylar"
+  },
+  {
+   "start": 77.88,
+   "end": 79.9,
+   "text": "Bizdani yicikaym, niman odo fido qalishim soraymayabdik"
+  },
+  {
+   "start": 79.9,
+   "end": 81.96,
+   "text": "Ucun caki sahamizin en yasli bor shimd sorayabdik"
+  },
+  {
+   "start": 81.96,
+   "end": 83.24,
+   "text": "Ucun cikaym, toktovus hakqamiz yogo"
+  },
+  {
+   "start": 83.24,
+   "end": 84.88,
+   "text": "Ulka masatlar koyub, harikatlar qalish geli"
+  },
+  {
+   "start": 84.88,
+   "end": 89.04,
+   "text": "Mahsatda ulkem bosa, soxayza ingin zor mutaqasib olamandir kensiz pul ozi kilad."
+  },
+  {
+   "start": 89.04,
+   "end": 89.8,
+   "text": "Etiba bilin da,"
+  },
+  {
+   "start": 89.8,
+   "end": 91.4,
+   "text": "zir ko milyar derlardan yoy ki,"
+  },
+  {
+   "start": 91.4,
+   "end": 93.16,
+   "text": "umma ozi ge erishkima dan uran etsis,"
+  },
+  {
+   "start": 93.16,
+   "end": 94.92,
+   "text": "men pul mahsat qama yemma diyo ki,"
+  },
+  {
+   "start": 94.92,
+   "end": 96.48,
+   "text": "pul ozishun dekib kitigiyan narsay diyo."
+  },
+  {
+   "start": 96.48,
+   "end": 97.48,
+   "text": "Sizi ge anaq savalda,"
+  },
+  {
+   "start": 97.48,
+   "end": 98.4,
+   "text": "sizi aldizda,"
+  },
+  {
+   "start": 98.4,
+   "end": 100.32,
+   "text": "bir milyard bosa dema qalisda anaq olasim?"
+  },
+  {
+   "start": 100.32,
+   "end": 100.52,
+   "text": "Yok."
+  },
+  {
+   "start": 100.52,
+   "end": 101.12,
+   "text": "Mamboxun deda?"
+  },
+  {
+   "start": 101.12,
+   "end": 103.08,
+   "text": "Kod du shu barda ifkiliy alish kirey har doin."
+  },
+  {
+   "start": 103.08,
+   "end": 103.56,
+   "text": "Pul tabilad."
+  },
+  {
+   "start": 103.56,
+   "end": 104.76,
+   "text": "Huni jun kitab okish kirey."
+  },
+  {
+   "start": 104.76,
+   "end": 105.64,
+   "text": "Otorin ziye lahmat."
+  }
+ ],
+ "chars": 2218,
+ "chars_per_s": 20.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 1,
+ "quality": "черновое"
+}

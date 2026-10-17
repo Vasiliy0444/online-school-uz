@@ -1,0 +1,61 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.5,
+   "text": "Unviersitetam tuguadi, endishlash geri, ingilis dilini bilasis, xer diishlasi hamikini de boylani bu yurgani basiz, bende sizibdi zor taklif bar."
+  },
+  {
+   "start": 6.8,
+   "end": 14.1,
+   "text": "Hazur kundi 19-20-21 yashti shagirdlarim aygi 20-30-40 milyonlar pul tapib, dadasigin mashina verib, ozlari kontraktlarini toliyabdi."
+  },
+  {
+   "start": 14.1,
+   "end": 23.94,
+   "text": "Agar sizam ingilis dilini orta daracada bilsiz, kesiz ozim Amerikala iskasini orga temay, kegin ozimizu branta kattaraq kampanyaradan bitlasigi, branta vakansiyagi iski calabbayib."
+  },
+  {
+   "start": 23.94,
+   "end": 26.56,
+   "text": "Siz aaligiz 300-400 dollar atrafta bashanad,"
+  },
+  {
+   "start": 26.56,
+   "end": 30.52,
+   "text": "vay kigin 1 yel, 2 yeli, 5 mola, 20-30, 40 milon alikiya chaxqsayz bola."
+  },
+  {
+   "start": 30.52,
+   "end": 32.44,
+   "text": "Xazir kundi 1 illi tarjibasi var,"
+  },
+  {
+   "start": 32.44,
+   "end": 35.4,
+   "text": "shagirdilani 30-35 milon atrafta pul tapiyabdi."
+  },
+  {
+   "start": 35.4,
+   "end": 38.9,
+   "text": "Agar siz zanam Amerikaya logistikaya ishlabdi ispetyar bomaxchi basoyiz,"
+  },
+  {
+   "start": 38.9,
+   "end": 40.7,
+   "text": "basaygi tugu marqali urofatna notin,"
+  },
+  {
+   "start": 40.7,
+   "end": 42.94,
+   "text": "shaksan uzum sizgayla aqaychqin, manimab benam."
+  }
+ ],
+ "chars": 818,
+ "chars_per_s": 19.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

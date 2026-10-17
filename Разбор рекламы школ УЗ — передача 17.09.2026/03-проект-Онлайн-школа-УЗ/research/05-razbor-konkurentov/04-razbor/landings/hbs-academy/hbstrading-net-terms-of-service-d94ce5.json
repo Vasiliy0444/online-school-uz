@@ -1,0 +1,68 @@
+{
+ "url": "https://hbstrading.net/terms-of-service",
+ "school_id": "hbs-academy",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "оферта или оплата",
+ "builder": "Nuxt",
+ "pixels": [
+  "Google Analytics (GA4)",
+  "Google Tag Manager"
+ ],
+ "promise": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": true,
+  "value": "Все пользователи сайта: условия принимаются самим пользованием сайтом",
+  "quote": "Saytdan foydalanish orqali siz ushbu shartlarga rozilik bildirasiz. Agar rozi bo‘lmasangiz, iltimos, xizmatlardan foydalanmang.",
+  "where": "оферта"
+ },
+ "program": {
+  "found": false
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [
+   "нет"
+  ]
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "в условиях цен нет: «Aniq takliflar, narxlar va mavjudlik har bir xizmat bo‘yicha alohida kelishuv yoki e’lon orqali belgilanadi.» — отдельных соглашений или объявлений с ценами на сайте нет"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": false
+ },
+ "next_step": "неизвестно",
+ "closed": false,
+ "notes": "Публичной оферты или договора на сайте нет: единственный правовой текст об услугах — «Xizmat shartlari — HBS Group» (эта страница, ссылка в подвале всех страниц; RU — hbstrading.net/ru/terms-of-service, «Условия использования — HBS Group»), плюс «Maxfiylik siyosati». Разобрана вместо оферты, этап «оферта или оплата» условный (stage_auto «прочее»). Разделы: «Kirish», «Shartlarning qabul qilinishi», «Xizmatlar», «Javobgarlik cheklovi», «Intellectual mulk», «O‘zgarishlar», «Aloqa»; даты редакции нет. Акцепт — пользованием сайтом. Юрлицо в тексте условий не названо (только «HBS Group»); в подвале — «ООО \"ACADEMY HBS\"»; ИНН, адреса юрлица, банка, директора нет; контакт — «Savollar uchun: info@hbstrading.net.».\nУсловия оплаты: «Aniq takliflar, narxlar va mavjudlik har bir xizmat bo‘yicha alohida kelishuv yoki e’lon orqali belgilanadi.» (RU: «Конкретные предложения, цены и доступность определяются отдельными соглашениями или офертами.») — отдельных соглашений или оферт на сайте нет. Возврат денег, оплата частями (на Finversity есть кнопка «Bo'lib to'lash orqali olish»), сроки, сертификат, перенос обучения — не описаны: guarantee и installments = не найдено.\nДисклеймер (единственный на сайте): «Saytda joylashtirilgan ma’lumotlar umumiy tanishtirish xarakterida bo‘lib, investitsiya yoki boshqa professional maslahat hisoblanmaydi.»; RU: «Материалы на сайте носят общий информационный характер и не являются персональной инвестиционной или иной профессиональной рекомендацией.» (в RU добавлено слово «персональной»). Ответственность: «Saytdagi xatoliklar yoki uzilishlar uchun, shuningdek uchinchi tomon resurslari uchun javobgarlikni qonunda ruxsat etilgan darajadan ortiq zimmamizga olmaymiz.» Про риски торговли, возможные убытки и доходности учеников условия ничего не говорят. Изменение условий: «Biz ushbu shartlarni istalgan vaqtda yangilash huquqini saqlab qolamiz. Yangilanishlar saytda e’lon qilingan paytdan kuchga kiradi.» и «Muhim o‘zgarishlar haqida amal qilishdan oldin xabar berishga harakat qilamiz.». Лицензии: только «HBS Group yoki litsenziatlarning mulki bo‘lishi mumkin» — про права на контент (RU «правообладателям»); о финансовых лицензиях и регуляторах — ничего.\n«Maxfiylik siyosati» (отдельно не разбиралась): через формы собирают «ism, telefon raqami, Telegram foydalanuvchi nomi», данные используют в том числе для маркетинговых сообщений «(qonuniy asos bo‘lsa)».\nТехника: GA4, GTM-5XW7TCSH (intel.json), Meta Pixel не найден; Nuxt. Скриншот 390×844: тёмная страница, заголовок и разделы до «Javobgarlik cheklovi»; текст совпадает с page.md."
+}

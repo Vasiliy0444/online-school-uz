@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.74,
+   "text": "Uchiz dollardan yukari borsanigiz aylik moash."
+  },
+  {
+   "start": 3.62,
+   "end": 5.76,
+   "text": "Istalgan jayda, istalgan baqda."
+  },
+  {
+   "start": 6.38,
+   "end": 8.06,
+   "text": "En muqimi doymi ish."
+  },
+  {
+   "start": 8.8,
+   "end": 10.8,
+   "text": "Ularinin bar chasana qolgekirtishun,"
+  },
+  {
+   "start": 11.34,
+   "end": 14.74,
+   "text": "IT hausinin altaylik kraft dizayn kurslarilatu getishingiz kira."
+  },
+  {
+   "start": 15.64,
+   "end": 16.68,
+   "text": "Onsekiz yash?"
+  },
+  {
+   "start": 17.4,
+   "end": 20.24,
+   "text": "Ha, onsekiz va undan yukari yashda bolsayngiz,"
+  },
+  {
+   "start": 20.86,
+   "end": 22.62,
+   "text": "sizni ishbilan xamplam ila qoyishin."
+  }
+ ],
+ "chars": 299,
+ "chars_per_s": 12.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

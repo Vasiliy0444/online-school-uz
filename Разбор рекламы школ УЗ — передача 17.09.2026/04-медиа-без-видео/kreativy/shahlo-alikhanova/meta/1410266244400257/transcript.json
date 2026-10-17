@@ -1,0 +1,41 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.42,
+   "text": "Man bir ayda 8 milyon ishladim. Leki man haqiqi adam masman."
+  },
+  {
+   "start": 5.0,
+   "end": 6.56,
+   "text": "Qanaqqi gyanim bilma qumisiz?"
+  },
+  {
+   "start": 6.7,
+   "end": 9.36,
+   "text": "Veros brendzik kiliblar da kiyeb reklami vidyoladish."
+  },
+  {
+   "start": 9.36,
+   "end": 15.44,
+   "text": "En qizigi mani tayyarilagan adam ozini yuzini Instagramda korsatmidi."
+  },
+  {
+   "start": 15.74,
+   "end": 19.48,
+   "text": "Agar sizam yuzizi korsatmastan avatar bilan daromad tapishni organ maqchi bolsis,"
+  },
+  {
+   "start": 19.62,
+   "end": 25.92,
+   "text": "pastagi tügmani basib, Shvetiyadan suni intelekt ekspert va xalkaro spikerlarini bepul vidyo darsligini korin."
+  }
+ ],
+ "chars": 407,
+ "chars_per_s": 15.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

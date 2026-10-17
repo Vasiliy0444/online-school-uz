@@ -1,0 +1,86 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.58,
+   "text": "Prompt inzhinerinima, 40 sonyada kuntraman, vaqt getti."
+  },
+  {
+   "start": 3.96,
+   "end": 6.82,
+   "text": "Suni intelekt, bilimli yordamchi, lekin u sizni tanimaydi."
+  },
+  {
+   "start": 6.98,
+   "end": 8.86,
+   "text": "Prompt isa unge bergan tapchirigin giz."
+  },
+  {
+   "start": 9.18,
+   "end": 12.34,
+   "text": "Promptni shunday yazin ki, natije birin chur u shudayaq chixin."
+  },
+  {
+   "start": 12.68,
+   "end": 17.2,
+   "text": "Kopchilik shunday yazadi, mengi pos yazu ber, natije isa oddi, vaqham mani kiday."
+  },
+  {
+   "start": 17.44,
+   "end": 19.04,
+   "text": "Kering endi shunday qilbiozamiz."
+  },
+  {
+   "start": 19.16,
+   "end": 22.12,
+   "text": "Men, kandola dokani gizman, mi jazlarim yosh onalar."
+  },
+  {
+   "start": 22.4,
+   "end": 23.94,
+   "text": "Maqsadim, yangi tort sotubi."
+  },
+  {
+   "start": 23.94,
+   "end": 26.58,
+   "text": "U shuday pos, har bir sabol bilan baschinadi."
+  },
+  {
+   "start": 26.58,
+   "end": 28.88,
+   "text": "Natijaniyisa, ozingiz-gorshingiz minkun."
+  },
+  {
+   "start": 28.88,
+   "end": 34.38,
+   "text": "Formula, torta sos, kimlikingiz, kimga, kanday maksat, kanday format,"
+  },
+  {
+   "start": 34.38,
+   "end": 37.68,
+   "text": "shu torta ona aytisangiz suni intelek siyzi chunishlaydi."
+  },
+  {
+   "start": 37.68,
+   "end": 41.88,
+   "text": "Agar da siyz xam suni intelekdan togru faydalansin orga maqchi bolsangiz,"
+  },
+  {
+   "start": 41.88,
+   "end": 45.08,
+   "text": "xozuroq bizni be pul birinci darsarimizke rohqatna otting."
+  },
+  {
+   "start": 45.08,
+   "end": 47.38,
+   "text": "Rohqatna ozichun padrol nutikmasini basing."
+  }
+ ],
+ "chars": 807,
+ "chars_per_s": 17.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

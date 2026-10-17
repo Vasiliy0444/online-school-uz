@@ -1,0 +1,36 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.0,
+   "text": "Faudiatingiz, ekspert yoki importdan ibaratmı? Diklarantlargi ortxiche haqdolaştan charchadengizmı?"
+  },
+  {
+   "start": 6.34,
+   "end": 9.94,
+   "text": "Unda bizni bir yarim oylik deklaratsiya kursumuz aynan suz uchun."
+  },
+  {
+   "start": 10.22,
+   "end": 16.02,
+   "text": "Kursumuz amali va nazari darslardan ibarat bolib, online yoki offline oqish imkaniyatini taklif edadim."
+  },
+  {
+   "start": 16.14,
+   "end": 20.22,
+   "text": "Oqtuchilarimiz isa uzoqiyillik tacribagi ege amaldagi deklarantlar."
+  },
+  {
+   "start": 20.22,
+   "end": 25.02,
+   "text": "Agar taklifimiz sizgi qizik bolsa, xozrok, bi pul oqish darsimizgi yazilin."
+  }
+ ],
+ "chars": 413,
+ "chars_per_s": 15.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

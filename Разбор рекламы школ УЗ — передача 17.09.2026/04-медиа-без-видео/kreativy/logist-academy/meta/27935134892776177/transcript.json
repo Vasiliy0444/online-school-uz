@@ -1,0 +1,81 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.08,
+   "text": "Bir ay ishlab, ben ola 1.2 dolarliye tilifon alish munkun. Bilasizm?"
+  },
+  {
+   "start": 4.42,
+   "end": 12.2,
+   "text": "Agar siz ingilis tilini orta daracada bilsiz, ve 19-20 yash atrafi da bosa yashiz, ben ola kelib Amerika logistikasi di ishla siz boladi."
+  },
+  {
+   "start": 12.26,
+   "end": 13.88,
+   "text": "Menimche ishkansiz bu sahi haqida."
+  },
+  {
+   "start": 14.12,
+   "end": 17.96,
+   "text": "Mani khazir kundi okuchilarin manigli tilifondan bir aigli 3-4 tasini pulun tapish yapdi."
+  },
+  {
+   "start": 18.3,
+   "end": 22.02,
+   "text": "Agar sizan bu sahi haqizixiz, mey yakshanba kunu Bepul seminar ot yapman,"
+  },
+  {
+   "start": 22.4,
+   "end": 25.52,
+   "text": "kelib, uyirdi, siz kanaka klib logistikasi di ishkansiz boladi,"
+  },
+  {
+   "start": 25.52,
+   "end": 27.42,
+   "text": "ishke kirishchun nimalar qilishkerey,"
+  },
+  {
+   "start": 27.48,
+   "end": 30.32,
+   "text": "va ayige bir, iki milin dolar taqishchun nimalar qilishkerey"
+  },
+  {
+   "start": 30.32,
+   "end": 31.28,
+   "text": "digan sovarlariz bosa,"
+  },
+  {
+   "start": 31.62,
+   "end": 32.9,
+   "text": "xammasiga jawab verib,"
+  },
+  {
+   "start": 33.02,
+   "end": 34.36,
+   "text": "tekin bita darsotu veraman."
+  },
+  {
+   "start": 34.76,
+   "end": 36.18,
+   "text": "Fakat u taşkendi boladir,"
+  },
+  {
+   "start": 36.26,
+   "end": 38.84,
+   "text": "qatnaqishchun pastagi tugimarkali rohqatna otin"
+  },
+  {
+   "start": 38.84,
+   "end": 40.2,
+   "text": "va sizga tolu umarlamak veram."
+  }
+ ],
+ "chars": 747,
+ "chars_per_s": 18.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

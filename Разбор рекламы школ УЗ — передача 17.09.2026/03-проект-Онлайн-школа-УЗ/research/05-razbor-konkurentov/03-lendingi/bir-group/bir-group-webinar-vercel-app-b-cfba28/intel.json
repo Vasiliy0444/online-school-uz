@@ -1,0 +1,47 @@
+{
+ "url": "https://bir-group-webinar.vercel.app",
+ "domain": "bir-group-webinar.vercel.app",
+ "pages_scanned": [
+  "https://bir-group-webinar.vercel.app/b"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)"
+  ],
+  "ad_pixel": [
+   "Meta Pixel"
+  ]
+ },
+ "seo_metadata": {
+  "title": "25-Sentabr 20:30",
+  "headings": {
+   "h1": [
+    "Zamonaviy kasbni bepul o‘rganing!500 ta grantdan biri aynan siznikibo‘lishi mumkin!"
+   ],
+   "h2": [
+    "Bepul vebinarda siz"
+   ]
+  }
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [
+   "https://bir-group-webinar.vercel.app/images/logo.png"
+  ],
+  "total_images_found": 6
+ },
+ "integration_links": [
+  "https://connect.facebook.net"
+ ],
+ "hidden_elements": {
+  "html_comments": [
+   "Meta Pixel Code",
+   "End Meta Pixel Code"
+  ]
+ }
+}

@@ -1,0 +1,9 @@
+2026-09-16 21:19:25 start: 7 jobs, 0 already done, 7 to fetch
+2026-09-16 21:19:41 [1/7] 187576877762936: status=403 ads=10 counter=~120 results no_results=False 16s
+2026-09-16 21:20:25 [2/7] 183621315476616: status=403 ads=30 counter=~45 results no_results=False 15s
+2026-09-16 21:21:14 [3/7] 100371049391071: status=403 ads=30 counter=~84 results no_results=False 15s
+2026-09-16 21:22:11 [4/7] 196455470228723: status=403 ads=7 counter=~7 results no_results=False 15s
+2026-09-16 21:22:54 [5/7] 113954818183207: status=403 ads=3 counter=~3 results no_results=False 15s
+2026-09-16 21:23:44 [6/7] 409888898873018: status=403 ads=30 counter=~49 results no_results=False 15s
+2026-09-16 21:24:26 [7/7] 1267039696492112: status=403 ads=2 counter=~2 results no_results=False 15s
+2026-09-16 21:24:26 done

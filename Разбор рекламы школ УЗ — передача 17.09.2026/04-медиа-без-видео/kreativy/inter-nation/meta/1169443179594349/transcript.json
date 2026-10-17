@@ -1,0 +1,26 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.16,
+   "text": "International Jamuasi Samarkanddagi yangi filial uchun uxtucularini ishka taklif qiladi."
+  },
+  {
+   "start": 5.5,
+   "end": 11.04,
+   "text": "Agar siz uzingizgi ishansangiz va kuchli jamuada ishla bir borjlanishini haqlasangiz,"
+  },
+  {
+   "start": 11.46,
+   "end": 14.56,
+   "text": "pastagi hawala arkali royxatdan otin va bizgi koshinin."
+  }
+ ],
+ "chars": 230,
+ "chars_per_s": 15.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

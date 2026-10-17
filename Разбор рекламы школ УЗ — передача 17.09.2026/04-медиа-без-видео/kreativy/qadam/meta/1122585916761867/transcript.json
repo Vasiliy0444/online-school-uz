@@ -1,0 +1,411 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.5,
+   "text": "Pur shum chasik ish qisi ilib olaydi. En qizigi online, irki ilayim, ayollayim qisi bolaydi."
+  },
+  {
+   "start": 4.5,
+   "end": 7.5,
+   "text": "Pul tiki digan joylarim orayin, alibatda pul tiki ish geri."
+  },
+  {
+   "start": 7.5,
+   "end": 10.5,
+   "text": "Va bu, judayam ansan, orqitalarigan nazar."
+  },
+  {
+   "start": 10.5,
+   "end": 12.5,
+   "text": "Shunchun, hati joyki igan maslagi orqitamik, hitbi."
+  },
+  {
+   "start": 12.5,
+   "end": 16.5,
+   "text": "Mana masalan, uzunga sivagi biznis qilishi orqit koymakchi manqu."
+  },
+  {
+   "start": 16.5,
+   "end": 20.5,
+   "text": "Uzunmi bir netce yuste tavar tapshish punktlari bak."
+  },
+  {
+   "start": 20.5,
+   "end": 22.5,
+   "text": "Bir netce min adam shuladan tavar olaydi."
+  },
+  {
+   "start": 22.5,
+   "end": 23.5,
+   "text": "Man, sizam agensiz."
+  },
+  {
+   "start": 23.5,
+   "end": 26.5,
+   "text": "Sizam unikanli tavar tapib, shotu satsi ilib olaydi."
+  },
+  {
+   "start": 26.5,
+   "end": 28.94,
+   "text": "Meselen, bozordan olip, optimga olip, sotasiz."
+  },
+  {
+   "start": 28.94,
+   "end": 30.34,
+   "text": "Yok yosda, Xitoyda takoy."
+  },
+  {
+   "start": 30.34,
+   "end": 33.46,
+   "text": "Unikenli tavar olin, xich kimdo omamasin, shumda ansaragam sotasiz."
+  },
+  {
+   "start": 33.46,
+   "end": 35.46,
+   "text": "Bulanyan, sige orga tibbaya misi."
+  },
+  {
+   "start": 35.46,
+   "end": 39.18,
+   "text": "Qullas, siz, biyagocizi, maksuatizi, topshirganizdanki ge,"
+  },
+  {
+   "start": 39.18,
+   "end": 42.3,
+   "text": "sikilatke baradi, sikilatdan tarqatish, tolollari,"
+  },
+  {
+   "start": 42.3,
+   "end": 45.7,
+   "text": "nasiyage birish, hamma xarakatlanix, uzunmu uzdoklari."
+  },
+  {
+   "start": 45.7,
+   "end": 48.7,
+   "text": "Sizge fakatgini, computer bilan internet bolsa boldi."
+  },
+  {
+   "start": 48.7,
+   "end": 50.7,
+   "text": "Lekin, bulamanyan organin poishkiri."
+  },
+  {
+   "start": 50.7,
+   "end": 52.7,
+   "text": "Aslamu alaikum, yaxim, siz."
+  },
+  {
+   "start": 52.7,
+   "end": 54.02,
+   "text": "Qadamit gecigir tushkiybisata beki?"
+  },
+  {
+   "start": 54.02,
+   "end": 55.62,
+   "text": "Okey, markazdik ordam, gap yok."
+  },
+  {
+   "start": 55.62,
+   "end": 56.66,
+   "text": "Qis qaci gapir beriyn?"
+  },
+  {
+   "start": 56.66,
+   "end": 58.5,
+   "text": "Bize 2023-i ildan bera"
+  },
+  {
+   "start": 58.5,
+   "end": 60.42,
+   "text": "adamdagi rakamni kaspani orget tukilamzi."
+  },
+  {
+   "start": 60.42,
+   "end": 62.26,
+   "text": "Imin, uzum yonansi goyichi"
+  },
+  {
+   "start": 62.26,
+   "end": 64.74,
+   "text": "3.500-da artqa uqluchilari shukun gec orget tukigamzi."
+  },
+  {
+   "start": 64.74,
+   "end": 66.3,
+   "text": "Qat daaldiyo doshin uch olam?"
+  },
+  {
+   "start": 66.3,
+   "end": 67.3,
+   "text": "Qatdan sada eshtif gelist?"
+  },
+  {
+   "start": 67.3,
+   "end": 69.66,
+   "text": "Bize yaxshi mutasilani iski agammizdi"
+  },
+  {
+   "start": 69.66,
+   "end": 70.54,
+   "text": "uzlarini aborotlari"
+  },
+  {
+   "start": 70.54,
+   "end": 71.38,
+   "text": "tor yarim milyardda,"
+  },
+  {
+   "start": 71.38,
+   "end": 73.22,
+   "text": "5 milyardli aborotli uqluchilarimiza bar."
+  },
+  {
+   "start": 73.22,
+   "end": 74.34,
+   "text": "Har oy kaymada"
+  },
+  {
+   "start": 74.34,
+   "end": 76.06,
+   "text": "qalimda 3-3-da, 4-3-da okulchilani okutib,"
+  },
+  {
+   "start": 76.06,
+   "end": 78.06,
+   "text": "shuyunalisitda daramat krizki yarda belamiz."
+  },
+  {
+   "start": 78.06,
+   "end": 80.06,
+   "text": "Qanaqi formatla da orqetlatsiz?"
+  },
+  {
+   "start": 80.06,
+   "end": 81.06,
+   "text": "Ozi iklim formatmizi bar."
+  },
+  {
+   "start": 81.06,
+   "end": 82.26,
+   "text": "Offline la online."
+  },
+  {
+   "start": 82.26,
+   "end": 84.78,
+   "text": "Offline, meqsi okul markazmizayi kil organcisi boladi."
+  },
+  {
+   "start": 84.78,
+   "end": 86.78,
+   "text": "Shunduk, Ombimetron aldidi."
+  },
+  {
+   "start": 86.78,
+   "end": 88.78,
+   "text": "Bu, Kopra Tashkendi yashab turib, meqsi"
+  },
+  {
+   "start": 88.78,
+   "end": 90.78,
+   "text": "saldaqorchi organama digili uchu qulaik."
+  },
+  {
+   "start": 90.78,
+   "end": 92.78,
+   "text": "Agar online organama, ozima vilayatimda"
+  },
+  {
+   "start": 92.78,
+   "end": 94.78,
+   "text": "organama turib, ya ki maryim vaqtim kamra digi"
+  },
+  {
+   "start": 94.78,
+   "end": 96.78,
+   "text": "adamli bosa, beynmala ozimdan okul platformamizi bar."
+  },
+  {
+   "start": 96.78,
+   "end": 98.78,
+   "text": "qotda xaymı video darsida abolingi,"
+  },
+  {
+   "start": 98.78,
+   "end": 100.14,
+   "text": "uxdiye benm o qatnaxib,"
+  },
+  {
+   "start": 100.14,
+   "end": 101.4,
+   "text": "qotda qotda shorgaqisi oganisi boladi."
+  },
+  {
+   "start": 101.4,
+   "end": 103.14,
+   "text": "Topka chikgan shogatlariz boqm?"
+  },
+  {
+   "start": 103.14,
+   "end": 105.0,
+   "text": "Albakti, biz zayn o uquchilarimizi"
+  },
+  {
+   "start": 105.0,
+   "end": 106.3,
+   "text": "judeqotda natijiliyikili shabdi,"
+  },
+  {
+   "start": 106.3,
+   "end": 108.78,
+   "text": "xam uquchili ozan natijilarini bolishib ogarishabdi."
+  },
+  {
+   "start": 108.78,
+   "end": 109.98,
+   "text": "Nedjipuli aborotki shobat,"
+  },
+  {
+   "start": 109.98,
+   "end": 110.68,
+   "text": "kanakili shobat,"
+  },
+  {
+   "start": 110.68,
+   "end": 112.68,
+   "text": "milartli aborotli filadi yon uquchilari raym uju boq."
+  },
+  {
+   "start": 112.68,
+   "end": 115.34,
+   "text": "Ma ishin bu ichi 40% ayorliyikani,"
+  },
+  {
+   "start": 115.34,
+   "end": 115.84,
+   "text": "tufator,"
+  },
+  {
+   "start": 115.84,
+   "end": 118.0,
+   "text": "40-60% ayorli maladislik,"
+  },
+  {
+   "start": 118.0,
+   "end": 118.68,
+   "text": "ayorli maladis,"
+  },
+  {
+   "start": 118.68,
+   "end": 122.92,
+   "text": "Rasta, u ydo otro digan bozda, legan bu ish yorga tib polisiyali, u ydo otro ban soqa qit dashladi."
+  },
+  {
+   "start": 122.92,
+   "end": 126.92,
+   "text": "Kotla-kotla tavarla obkira diganlasi, masalaa, man, uyumda, tor usta karsarib var,"
+  },
+  {
+   "start": 126.92,
+   "end": 130.56,
+   "text": "birni chizdan veri sato lmidi, shunu kimga da realizatiga veri olsan bolarka,"
+  },
+  {
+   "start": 130.56,
+   "end": 131.76,
+   "text": "nolayad borgen ganladan, bolarga."
+  },
+  {
+   "start": 131.76,
+   "end": 132.32,
+   "text": "Da, tabi, bolarga."
+  },
+  {
+   "start": 132.32,
+   "end": 135.48,
+   "text": "Chuki bizda da, oza, chita yoralishbosa bolarga, uzun marketi ichidi."
+  },
+  {
+   "start": 135.48,
+   "end": 138.04,
+   "text": "Ya ki sato uchib obkira sabarga, ya ki menizib obkira sabarga."
+  },
+  {
+   "start": 138.04,
+   "end": 142.0,
+   "text": "Satu uchile, uzu ftavargi pul tukib, uzu sabdaqilib, uzu xamasi qi caab birar."
+  },
+  {
+   "start": 142.0,
+   "end": 145.62,
+   "text": "Agar adamli misal uchun ki uzu rabaqslaqiz daramadi bomidi qan boshe,"
+  },
+  {
+   "start": 145.9,
+   "end": 147.76,
+   "text": "biymral uxtaq, mehzi ziyon asliyab talisa bolad."
+  },
+  {
+   "start": 147.94,
+   "end": 148.3,
+   "text": "Zor."
+  },
+  {
+   "start": 148.9,
+   "end": 149.82,
+   "text": "Nax masalas zirat?"
+  },
+  {
+   "start": 150.1,
+   "end": 151.78,
+   "text": "Nax masalas qi qela digan boshe,"
+  },
+  {
+   "start": 152.0,
+   "end": 154.98,
+   "text": "agar ulan imqaniyati bolad digan boshe, biymral nax toloq liste bolad."
+  },
+  {
+   "start": 155.26,
+   "end": 158.18,
+   "text": "Ya ki, bolib tolashke, biymral, uxirxan da kurslan uzegi,"
+  },
+  {
+   "start": 158.24,
+   "end": 159.16,
+   "text": "dasturar yasi bolad."
+  },
+  {
+   "start": 159.16,
+   "end": 164.16,
+   "text": "Ying zor joya va tabi ki, ulu agar bolib toleshka yozlarigan busi, kursin aqib uzgar miyid?"
+  },
+  {
+   "start": 164.16,
+   "end": 167.16,
+   "text": "Bax, ikanchi busi, kud dushnarsani bolib-bolib toleshka asil, bula."
+  },
+  {
+   "start": 167.16,
+   "end": 173.16,
+   "text": "Agali ukela toluro malimot qolamiz disiyle, man patrasilke qaldir amen, albette kirib, royukatdan otib koyin."
+  },
+  {
+   "start": 173.16,
+   "end": 175.16,
+   "text": "Minijirlarimiz uzlarisiz gyalogaya chikadi."
+  },
+  {
+   "start": 175.16,
+   "end": 178.16,
+   "text": "Ushatlin nimi sovar ildi busi, beri toluq malimotlan ovalisli."
+  }
+ ],
+ "chars": 3506,
+ "chars_per_s": 19.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

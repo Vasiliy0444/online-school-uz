@@ -1,0 +1,56 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 23.98,
+   "text": "Quriyerlik, yaqi taksislik qilib xam ujiz uyligan daromad ya chikishengiz, yaqi IT ka ba tez ruvajla matka soxana tallashiz munkun."
+  },
+  {
+   "start": 23.98,
+   "end": 29.28,
+   "text": "Ikisi da xam daramatiyya tez chikishligi munkun, amma ikintisi sizgi erkillik, masafadan,"
+  },
+  {
+   "start": 29.48,
+   "end": 32.16,
+   "text": "laki kulay ofis mukhudida ishliyash imkonyatini beradi."
+  },
+  {
+   "start": 32.4,
+   "end": 36.1,
+   "text": "Qaleverse, tacribi ashgan isar, daramad ingiz xam ashib baradi."
+  },
+  {
+   "start": 36.36,
+   "end": 39.42,
+   "text": "Bitur uchilar orta qe 80-85% ishliyi buletgan,"
+  },
+  {
+   "start": 39.52,
+   "end": 43.4,
+   "text": "ba buna iqtimai tarmuklarda shafaf tarzda yaratib baradgan Nacat Talimda"
+  },
+  {
+   "start": 43.4,
+   "end": 46.82,
+   "text": "profesional ustazlar tamandan xaftada uchkun dasturlashini organib,"
+  },
+  {
+   "start": 47.12,
+   "end": 50.26,
+   "text": "brilga qalmasdan uz izni beymalal dasturchimandi ishiz munkun boladi."
+  },
+  {
+   "start": 50.26,
+   "end": 54.58,
+   "text": "Agar bu taklif sizni qizqtarp qalgan bosa, xaziro qida yi xawalan basin."
+  }
+ ],
+ "chars": 672,
+ "chars_per_s": 12.2,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

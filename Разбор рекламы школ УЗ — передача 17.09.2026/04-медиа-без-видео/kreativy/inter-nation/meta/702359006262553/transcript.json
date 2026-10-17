@@ -1,0 +1,21 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.48,
+   "text": "Yaqmaba bissey milion sen pul olik i rizashba shishsot kor qadanmishmon, mona uslovyemon prostoy."
+  },
+  {
+   "start": 5.72,
+   "end": 11.48,
+   "text": "Esbeki ursi, anglisi zabona darajiye alo donistan da kor, pasba silkamunem, guzashda padrobna fametom nushud."
+  }
+ ],
+ "chars": 207,
+ "chars_per_s": 17.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

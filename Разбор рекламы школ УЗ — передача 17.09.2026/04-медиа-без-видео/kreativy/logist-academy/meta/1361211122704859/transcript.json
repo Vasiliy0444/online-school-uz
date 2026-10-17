@@ -1,0 +1,31 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 11.88,
+   "text": "Deklaratsiya. Xa, yangi kasp, yangi imkonyatlar. Ekspert va import khujatlarina rasmilashtirishna bir yarim ayi ichida deklaratsiya kurslarimizda organingi va min dolar daromad kechqin."
+  },
+  {
+   "start": 11.88,
+   "end": 24.66,
+   "text": "Kopilik tajribigi igi mutagasistlar sizlarga amalii va nazarii darslarida oz bilimlarina taqdim etshada. Ishlasch chund sizga igilistili shart imaz. Kunige sakkiz on saatlab, kim uchundir ishlaschningi xam khajatiyo."
+  },
+  {
+   "start": 24.66,
+   "end": 31.96,
+   "text": "Kursini yekullab, siz ozingizgi ozingiz, yoki, bas kankorlik ordatken kampanyalarbran ishlashingizgan momkim doledi."
+  },
+  {
+   "start": 32.22,
+   "end": 34.86,
+   "text": "Batapsali malamat uchun, direct gem rojat klink."
+  }
+ ],
+ "chars": 568,
+ "chars_per_s": 16.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

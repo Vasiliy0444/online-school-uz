@@ -1,0 +1,13 @@
+{
+ "school_id": "inter-nation",
+ "url": "https://inter-nation.uz/l/Instagram",
+ "sources": "ads:meta | wayback",
+ "first_seen": "2025-05-23",
+ "last_seen": "2026-09-16",
+ "stage_auto_url": "",
+ "is_archive": false,
+ "snapshot_at": "2026-09-16T21:13:09+00:00",
+ "live_status": 200,
+ "duplicate_of": "https://inter-nation.uz/l/instagram_samarqand",
+ "stage_auto": "дубль (тот же текст)"
+}

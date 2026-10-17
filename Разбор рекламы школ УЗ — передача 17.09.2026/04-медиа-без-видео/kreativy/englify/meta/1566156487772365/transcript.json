@@ -1,0 +1,76 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.86,
+   "text": "Shifaq kursiz, va hindiz tanushgun ushagan davratlarda konferensiyadi qatinaz chun ingilis sinni bilishiz kiri."
+  },
+  {
+   "start": 5.06,
+   "end": 10.4,
+   "text": "Lekun uchum kunigi 26-ab das kili shiz shartlamaz. Asrda sizgi muntazamq siz 30 dayiqa yetadi."
+  },
+  {
+   "start": 10.76,
+   "end": 15.26,
+   "text": "Fakat birti shartibor, nimi mavzularini va kandayi suddi kili shkerek, shunu bilishiz kiri."
+  },
+  {
+   "start": 15.26,
+   "end": 21.28,
+   "text": "Ma niti chirazam 13-ilik tajribagi ege ingilis loq tutsiman, va 22-inci, 23-inci, 24-inci sintiabur kunlari"
+  },
+  {
+   "start": 21.28,
+   "end": 27.18,
+   "text": "Beeple online masterclass tashkirlashdiri yapman. Bu masterclassda 0-dan 30-kun ichidi kundarik mavzularidi yaparishni."
+  },
+  {
+   "start": 27.18,
+   "end": 29.04,
+   "text": "kundugi elektriki qeçam soluzlarini yodlasi"
+  },
+  {
+   "start": 29.04,
+   "end": 29.68,
+   "text": "va ishlatis"
+  },
+  {
+   "start": 29.68,
+   "end": 31.58,
+   "text": "va b2 sertifikatini alisinin"
+  },
+  {
+   "start": 31.58,
+   "end": 33.5,
+   "text": "samarali yollarini urgetamat"
+  },
+  {
+   "start": 33.5,
+   "end": 35.2,
+   "text": "maxsir kasta qatinas mutlaka bey pul"
+  },
+  {
+   "start": 35.2,
+   "end": 37.0,
+   "text": "fakat xabar onusdigi basi uroy xatdan otin"
+  },
+  {
+   "start": 37.0,
+   "end": 38.36,
+   "text": "va yapiq cirigam kanalimgi"
+  },
+  {
+   "start": 38.36,
+   "end": 39.1,
+   "text": "koshili balin"
+  }
+ ],
+ "chars": 761,
+ "chars_per_s": 19.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

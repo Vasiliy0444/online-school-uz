@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.04,
+   "text": "Davlat ishidan ketmasnan koshumkada daromad uchun uzun marketta sabdo qilishni boshlamak chimizsiz?"
+  },
+  {
+   "start": 4.28,
+   "end": 7.06,
+   "text": "Biz aynan siz uchun Bepul PDF kollanmat tayorladik."
+  },
+  {
+   "start": 7.18,
+   "end": 7.7,
+   "text": "Umdas siz?"
+  },
+  {
+   "start": 7.98,
+   "end": 10.3,
+   "text": "Qanday qalib uzun marketta noldan sabdo nuboshlashni?"
+  },
+  {
+   "start": 10.3,
+   "end": 13.54,
+   "text": "Boshlanxat uchular yol koyadigan hatolarini oldini olishni."
+  },
+  {
+   "start": 13.92,
+   "end": 16.3,
+   "text": "Ba o'yige stabil 1000 dollar daromad qilishni orgenasiz."
+  },
+  {
+   "start": 17.14,
+   "end": 19.82,
+   "text": "Failni yukilab olishchun, xozroq Telegram kanalimizgi otin."
+  },
+  {
+   "start": 19.94,
+   "end": 22.94,
+   "text": "PDF fail sizni biriktirilgan failarda allak chon kutib durmokta."
+  }
+ ],
+ "chars": 458,
+ "chars_per_s": 19.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,100 @@
+{
+ "creative_id": "1671351047231510",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Agar siz kuniga 2-3 soat vaqt ajratib, bir yaxshigina daromad qilmoqchi bo'lsangiz…",
+  "types": [
+   "результат или доход",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: мужчина у фиолетового спорткара говорит в камеру, камера отъезжает от крупного плана к общему; текста нет",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Agarsiz kunige 2-3 saat wat ajratda, biyash gini daralat kumaxchi basayiz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "удалёнка и свобода",
+   "свой бизнес",
+   "статус"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Agarsiz kunige 2-3 saat wat ajratda, biyash gini daralat kumaxchi basayiz.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:10] di shani qatda biznismen bubketaz.",
+    "timecode": "00:10"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈00:28): ученица с сертификатом Qadam, таймер «00:17»",
+    "timecode": "00:28"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:25] Abaratımız 40.000.000 naqsh vatda.",
+    "timecode": "00:25"
+   }
+  ],
+  "revenue_claim": "oborotimiz 40 000 000…; 1 oy ichida 30 million… oborot (ученики, по черновой расшифровке, кадрами не подтверждено)"
+ },
+ "offer": {
+  "items": [
+   "мини-курс",
+   "рассрочка"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[01:00] Pastda balim abzidu qaldir sez, be pul darsli tash edariladi.",
+    "timecode": "01:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:48] Tol olayan, xalisis naqt dis, xalisis bolib toleshgan,",
+    "timecode": "00:48"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "мини-курс или трипвайер"
+ },
+ "speaker": {
+  "role": "блогер"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук только в речи, по расшифровке, написание исправлено («Agarsiz kunige 2-3 saat wat ajratda, biyash gini daralat kumaxchi basayiz» → «Agar siz kuniga 2-3 soat vaqt ajratib, bir yaxshigina daromad qilmoqchi bo'lsangiz»). Та же сцена, что у 1673440567194954, но без подписей: субтитров не видно ни в одном кадре листов → burned_subtitles false. Дальше сценарий серии: «katta biznesmen bo'lib ketasiz»; вставка ученицы с сертификатом (оборот, не доход); курс онлайн или офлайн; «bo'lib to'lash» → «рассрочка». Финал [01:00–01:09]: «Pastda ma'lumotlaringizni qoldirsangiz, bepul darslik(lar) … beriladi … Pastda ssilka bor, hozir ma'lumotlaringizni qoldiring» (написание исправлено) → бесплатные уроки, «мини-курс» (та же концовка, что в роликах со ссылкой на платформу qadam.online). Несовпадение: ролик зовёт за бесплатными уроками, а ссылка — лендинг qadam.education/uzum-inomarka-v2, тот же адрес, что у 1673440567194954, где финал — заявка и звонок менеджера. Текста объявления нет. Подача от третьего лица, utm UZUM_BLOGER_INOMARKA_BM → «блогер»."
+}

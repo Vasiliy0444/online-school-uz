@@ -1,0 +1,87 @@
+{
+ "creative_id": "3539424149565929",
+ "platform": "meta",
+ "school_id": "bir-group",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Eng zamonaviy 7 ta kasbni endi bepulga o'rganishingiz mumkin.",
+  "types": [
+   "бесплатно",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: мужчина в бордовой футболке и бежевом пиджаке в парке на фоне купольного здания; субтитры «eng zamonaviy» → «7 ta kasbni endi» → «bepulga o'rganishingiz»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Eng zamanawi yitita kaspini endi biyopolgoyurganishigiz mumkun.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "профессия будущего"
+  ],
+  "income_claim": "650 million so'mdan ziyod daromad (avvalgi bitiruvchilar, jamoaviy summa)",
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:14] Shukun yacha bu yonalishida okigan oku uchilarimiz\n[00:17] 650 milion somdan ziyot daromad tapishti.",
+    "timecode": "00:14"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:04–0:13: субтитры «500 ta grant» → «500 ta grant e'lon [qilindi]», спикер на фоне парка/лэптопа с городской иллюстрацией",
+    "timecode": "00:04"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Buning uchun 500 ta grant ajratilgan. 25-sentabr kuni onlayn taqdimot bo'lib o'tadi."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:25] Bunin uchini isa 25. sentiya bir kini bolu bot edigan\n[00:28] online taqdimatli qatnaqshiniz kerek.",
+    "timecode": "00:25"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук собран из последовательных фрагментов субтитров на кадре 0.0–2.5s («eng zamonaviy» → «7 ta kasbni endi» → «bepulga o'rganishingiz»); слово «mumkin», завершающее фразу, в кадры не попало — добавлено по смыслу расшифровки. Кадровое «7 ta kasbni» (7 профессий) точнее и надёжнее, чем сильно искажённое место расшифровки («yitita»). Заявление «650 milion somdan ziyot daromad» есть только в расшифровке [00:14–00:17], ни один из 4 обзорных кадров не подтверждает его текстом на экране — это доход (daromad), совокупный по прошлым выпускникам, не на человека. Собственная концовка ролика в расшифровке смазана («...ruhiqatdan oytovan» ≈ «ro'yxatdan o'tavering»); классифицирую in_creative как Telegram по типовому тексту объявления и паттерну пачки. Link_url при этом ведёт на лендинг bir-group-webinar.vercel.app — ролик зовёт в Telegram-канал, но link_url ведёт на лендинг. Имя спикера не названо — роль «актёр или ведущий»."
+}

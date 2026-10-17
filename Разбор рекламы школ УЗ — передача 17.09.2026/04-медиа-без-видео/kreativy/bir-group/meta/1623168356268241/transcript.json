@@ -1,0 +1,76 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.08,
+   "text": "Bir talim layiqamizda shuyuldin ozyda 400-ga yaqin oquchilarda oqiptik."
+  },
+  {
+   "start": 5.24,
+   "end": 8.28,
+   "text": "Va hazar yana 500-ta oquchini be pulga oqitmaksimiz."
+  },
+  {
+   "start": 8.6,
+   "end": 10.72,
+   "text": "Sato menizyerilari nesht oqidi?"
+  },
+  {
+   "start": 10.84,
+   "end": 12.88,
+   "text": "Sato menizyerli iki ta patok qabir kuldik."
+  },
+  {
+   "start": 12.96,
+   "end": 16.04,
+   "text": "Birinci pato ogyimizda 18-ta, ikinci pato ogyimizda 40-ta."
+  },
+  {
+   "start": 16.24,
+   "end": 23.2,
+   "text": "70% ishbilan tamilani en kamida 500-dolordan, en kopini ki 2000-dolorda qecha oylik daromadga chikdi."
+  },
+  {
+   "start": 23.2,
+   "end": 28.5,
+   "text": "Bit tayonal sato menizyerligi bola digan bosa, ondan tashkari mabilagrafiya, targetin."
+  },
+  {
+   "start": 28.5,
+   "end": 32.96,
+   "text": "shunga oxshash, yed titay yon alish boychi azir okuchilarda okutamiz nasibisi,"
+  },
+  {
+   "start": 33.2,
+   "end": 36.46,
+   "text": "agar sizam shu yon alishlarida be pulga okib,"
+  },
+  {
+   "start": 36.6,
+   "end": 38.5,
+   "text": "daramardinizda asir amandidigan bosayiniz,"
+  },
+  {
+   "start": 39.18,
+   "end": 42.52,
+   "text": "25-ci sentiyabrda boladigin online taqdimatimiz gagat nasib,"
+  },
+  {
+   "start": 42.66,
+   "end": 44.76,
+   "text": "grantda barini youtube alishiniz munkum bolay."
+  },
+  {
+   "start": 45.14,
+   "end": 48.18,
+   "text": "Taqdimat gagat nasib kyun, padrob nitugmasin bas, prohat notin."
+  }
+ ],
+ "chars": 787,
+ "chars_per_s": 16.2,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

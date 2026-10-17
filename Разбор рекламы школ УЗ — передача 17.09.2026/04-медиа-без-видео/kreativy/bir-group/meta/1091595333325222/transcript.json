@@ -1,0 +1,81 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.4,
+   "text": "Pulu nguz yox bolsakam, bu videodan ken anliq sizni xayotunguzi ozgaradi."
+  },
+  {
+   "start": 4.66,
+   "end": 8.56,
+   "text": "Biz bir gurub kampanyasi shu akkecha bir talim loyxamizda isharap chikamiz."
+  },
+  {
+   "start": 8.86,
+   "end": 13.82,
+   "text": "Yani bu bir talim loyxamizda, biyepulga zamanavi kaslarini yoshlarimizga orgatib,"
+  },
+  {
+   "start": 14.1,
+   "end": 17.04,
+   "text": "daromadini 500 dollardan 1000 dollara gechi olup chikamiz."
+  },
+  {
+   "start": 17.38,
+   "end": 20.2,
+   "text": "Shu akkecha okuchilarimizdi umimi jami daromad,"
+  },
+  {
+   "start": 20.48,
+   "end": 22.14,
+   "text": "o'qish 100 milyon somni tashkil qiladi."
+  },
+  {
+   "start": 22.3,
+   "end": 23.7,
+   "text": "Bizda o'qish mutlaka biyepul."
+  },
+  {
+   "start": 23.82,
+   "end": 27.34,
+   "text": "Sizlarichim bu safaligi grant loyxamiz, 500 tane tashkil qiladi."
+  },
+  {
+   "start": 27.34,
+   "end": 30.14,
+   "text": "Shubeshisde grantdan barani youtube olnosh uchun,"
+  },
+  {
+   "start": 30.34,
+   "end": 34.72,
+   "text": "25. sentyabr kini buladigan online takdimatimizga khatnashimiz kiray."
+  },
+  {
+   "start": 34.96,
+   "end": 37.8,
+   "text": "Bu online takdimatimizda grant youtube olnoshimiz mumkin."
+  },
+  {
+   "start": 38.14,
+   "end": 39.72,
+   "text": "Beeple grant youtube olnosh uchun,"
+  },
+  {
+   "start": 39.96,
+   "end": 41.24,
+   "text": "padrom nutikmasini basib,"
+  },
+  {
+   "start": 41.46,
+   "end": 42.86,
+   "text": "telegram kanalimizga abunaboy."
+  }
+ ],
+ "chars": 743,
+ "chars_per_s": 17.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

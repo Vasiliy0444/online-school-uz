@@ -1,0 +1,104 @@
+{
+ "url": "https://najottalim.uz/",
+ "school_id": "najot-talim",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "главная или каталог",
+ "builder": "Next.js",
+ "pixels": [
+  "Google Analytics (GA4)"
+ ],
+ "promise": {
+  "found": true,
+  "value": "12 000+ успешных выпускников — следующим можете стать вы (обещание через масштаб школы, без конкретного результата)",
+  "quote": "12 000+ muvaffaqiyatli bitiruvchi\nKeyingisi siz boʻlishingiz mumkin!",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": true,
+  "value": "Широкая: кто хочет освоить современную сферу и навыки, ищет сильную среду для развития, хочет стать профессиональным кадром у опытных менторов и закрепить знания практикой",
+  "quote": "Najot Taʼlim siz uchun, agar…\nZamonaviy soha va koʻnikmalarni oʻrganishga qiziqsangiz",
+  "where": "середина"
+ },
+ "program": {
+  "found": false
+ },
+ "speaker": {
+  "found": true,
+  "value": "Основатель не назван. Блок «Bizning ustozlar» — 8 наставников с ролью, стажем (от 2+ до 15+ лет) и местами работы: 2 видеографа, full-stack- и backend-разработчики, мобилограф, графический дизайнер, SMM/маркетолог, программист",
+  "quote": "Bizning ustozlar\nRahimov Talʼat\nVideograf\n15+ yil tajribaMediaparkArtelCoca-Cola+2",
+  "where": "середина"
+ },
+ "social_proof": {
+  "types": [
+   "число учеников",
+   "видеоотзывы",
+   "логотипы работодателей"
+  ],
+  "count_claim": "«12 000+ muvaffaqiyatli bitiruvchi», «2000+ TechJobs orqali ishga joylashgan», «6 ta Filial», «300+ Xodim» — самоотчёт",
+  "reviews_count": 11
+ },
+ "price": {
+  "found": true,
+  "tariffs": [
+   {
+    "name": "Dasturlash Foundation — «Oylik toʻlov»",
+    "price_uzs": 1800000,
+    "period": "в месяц",
+    "quote": "Dasturlash Foundation 4 oy · haftada 3 kun · 4 soatBoshlangʻich Oylik toʻlov 1 800 000 soʻm"
+   },
+   {
+    "name": "Start Junior — «Oylik toʻlov»",
+    "price_uzs": 1200000,
+    "period": "в месяц",
+    "quote": "Start Junior 12 oy · haftada 3 kun · 1,5 soat15–17 yosh Oylik toʻlov 1 200 000 soʻm"
+   },
+   {
+    "name": "Sunʼiy Intellekt Asoslari — «Oylik toʻlov»",
+    "price_uzs": 1500000,
+    "period": "в месяц",
+    "quote": "Sunʼiy Intellekt Asoslari 2 oy · haftada 2 kun · 2 soat Oylik toʻlov 1 500 000 soʻm"
+   }
+  ]
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": true,
+  "value": "Скидки: 10% девушкам и 10% владельцам сертификата английского языка C1+",
+  "quote": "Chegirmalar\nQizlar uchun 10%, ingliz tili C1+ sertifikat egalariga 10% chegirma.",
+  "where": "середина"
+ },
+ "bonuses": {
+  "found": true,
+  "value": "Не только курсы: коворкинг 24/7 с Wi-Fi, еженедельные мастер-классы, геймификация с подарками, конкурсы и квизы, премия 5 млн сум за трудоустройство в компанию-экспортёр, сертификат + курс подготовки к HR-собеседованиям; бесплатно — уроки HR и компьютерной грамотности на Edfix и премиум-подписка Mutolaa; стартап-инкубация; мобильное приложение",
+  "quote": "5 mln soʻm mukofot\nEksportyor kompaniyaga ishga kirganlar uchun qoʻshimcha mukofot.",
+  "where": "середина"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "имя",
+   "телефон",
+   "другое",
+   "город"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "notes": "Цифры школы о себе — самоотчёт и на странице расходятся: в первом экране «12 000+» выпускников и «300+» сотрудников, в блоке «Biz haqimizda» — «11 963+» и «299+»; заголовок «2018-yildan beri», а в цифрах «2012 — Faoliyat boshlangan yil». Награда «IT Learning Leader — 2024» — без источника. Соцдоказательства: 11 видео «Bitiruvchi video-hikoyasi» и 63 разных логотипа в блоке «Bitiruvchilarimiz ish joylari» (в тексте каждый логотип повторён дважды из-за карусели). Цены в карточках трёх курсов — «Oylik toʻlov»: помесячная оплата обучения, по правилу не рассрочка (совпадает с тарифом «Toshkent shahri» на страницах курсов). Явного деления платежа, гарантии и дедлайна на главной нет. Главный призыв «Bepul konsultatsiya olish» ведёт в форму #royxat: «Maʼlumotlaringizni qoldiring — biz siz bilan bogʻlanamiz.» Поля: «Ism-familiya», «Telefon raqam», «Kursni tanlang» (12 курсов — в схеме «другое»), «Filialni tanlang» (Xadra, Chilonzor, Chimboy в Ташкенте; Fargʻona, Samarqand, Xorazm — в схеме «город»). Доверие: PDF «Tasdiqnoma» и «IT Park rezidenti». Публичная оферта сайта (najottalim.uz/documents/oferta-nt.pdf, разбор — oferta-najottalim-uz-documents-oferta-nt-pdf-2d28fc.json) условий оплаты частями и возврата денег не содержит: она про бесплатные материалы онлайн-платформы, для платного обучения — отдельный договор (п. 2.2). Пункт меню «Onlayn taʼlim» ведёт на отдельную платформу edfix.uz. Реклама: в ads_meta.csv 139 объявлений Najot, 134 ведут на мгновенные формы Meta (fb.me), 5 — в Instagram, на сайт — ни одного, поэтому message_match не заполнялся. Сентябрьская акция из объявлений (бонусы на 3 650 000 сум, бесплатное повторное обучение в течение 2 лет при недовольстве результатом, срок «только сентябрь») на сайте не упоминается. Техника: на najottalim.uz в intel.json только GA4 и Next.js; Meta Pixel, Google Ads и Яндекс.Метрика — только на поддомене kurslar (Tilda). Скриншот (один кадр 390×844) показывает низ страницы — адрес и подвал, а не первый экран; «первый экран» определён по порядку текста в page.md."
+}

@@ -1,0 +1,15 @@
+{
+ "page_id": "100093860176934",
+ "status_code": 403,
+ "seconds": 44,
+ "ads_parsed": 0,
+ "by_source": {
+  "document": 0,
+  "graphql": 0
+ },
+ "counter_text": null,
+ "network_events": 83,
+ "responses_with_ads": 2,
+ "ad_keys": [],
+ "snapshot_keys": []
+}

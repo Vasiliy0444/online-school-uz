@@ -1,0 +1,151 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.12,
+   "text": "Oki rostamashnaqna yasakim aqshumis va o'zim?"
+  },
+  {
+   "start": 3.12,
+   "end": 7.32,
+   "text": "Oki burkuru kampanyamiz aynan bur talim loyxasada,"
+  },
+  {
+   "start": 8.12,
+   "end": 11.98,
+   "text": "kudushu 500 uquchige tekinge oqish, elamli."
+  },
+  {
+   "start": 11.98,
+   "end": 12.56,
+   "text": "Be' pulge."
+  },
+  {
+   "start": 12.7,
+   "end": 13.3,
+   "text": "Be' pulge."
+  },
+  {
+   "start": 13.42,
+   "end": 14.84,
+   "text": "Qanaka kashfila o'qish aynan o'la?"
+  },
+  {
+   "start": 14.88,
+   "end": 18.06,
+   "text": "Hazirgi aynan yitdi yunarish bo'ycha, zamana ve kashfila."
+  },
+  {
+   "start": 18.08,
+   "end": 19.52,
+   "text": "Trend dayi zamana ve kashfila."
+  },
+  {
+   "start": 19.64,
+   "end": 22.4,
+   "text": "Trend dayi, mabilografiya disizmi, mantaj disizmi,"
+  },
+  {
+   "start": 22.62,
+   "end": 25.78,
+   "text": "isimim, yokibomasam, e'ay bo'ycha, hamasa ba."
+  },
+  {
+   "start": 25.94,
+   "end": 29.7,
+   "text": "Kupmana, tekinge oqitdiyle, o'khiyan nangin rezultat boladim o'ki."
+  },
+  {
+   "start": 29.7,
+   "end": 31.2,
+   "text": "Bizi atilin rezultat boladi."
+  },
+  {
+   "start": 31.48,
+   "end": 32.62,
+   "text": "Qiyamizil aqlin buna qanay?"
+  },
+  {
+   "start": 32.62,
+   "end": 34.74,
+   "text": "Qazir kun geci turist da oku uchini oqtib,"
+  },
+  {
+   "start": 35.12,
+   "end": 37.76,
+   "text": "ozimizde yakish qadirlani isbilan tamillab,"
+  },
+  {
+   "start": 38.1,
+   "end": 39.58,
+   "text": "doyqalarimizde islash vatdi,"
+  },
+  {
+   "start": 40.12,
+   "end": 42.46,
+   "text": "va bu ozimizge qadir dayarlash,"
+  },
+  {
+   "start": 42.6,
+   "end": 43.7,
+   "text": "va bunan tashqari,"
+  },
+  {
+   "start": 44.56,
+   "end": 45.76,
+   "text": "Respublikan muqiyasidi,"
+  },
+  {
+   "start": 45.92,
+   "end": 47.66,
+   "text": "yoshilani isbilan tamillash bu uchi."
+  },
+  {
+   "start": 47.82,
+   "end": 50.44,
+   "text": "Qaz yana 500 da oku uchini tekin ge okutmah uchisili?"
+  },
+  {
+   "start": 51.16,
+   "end": 54.42,
+   "text": "Yana 500 da oku uchi tekin ge okutishki elan verib,"
+  },
+  {
+   "start": 54.42,
+   "end": 57.62,
+   "text": "uledan Respublikan qatida yashajdan,"
+  },
+  {
+   "start": 57.7,
+   "end": 58.4,
+   "text": "qatiy nazar,"
+  },
+  {
+   "start": 58.4,
+   "end": 75.6,
+   "text": "Keladi, arizi topshiradi, layoqati bose, xoxshi bose, boldi, biz bergan darsiladi qatnashadi, online, offline darsiladi qatnashib, hamasini qukti egallidi, va ozini salakharikini korsatkandan ki, biz ishbilanam tamirliyimiz."
+  },
+  {
+   "start": 75.84,
+   "end": 79.16,
+   "text": "Ash soqalani tikin gaurgan maqchi bosa, nimaqtish gireman ozdi?"
+  },
+  {
+   "start": 79.16,
+   "end": 91.32,
+   "text": "25-ci sentyabr kunu onlayn taqdimat bolibotadi, oshi taqdimatda qatnashib, batafsil malamatki ege bolib, arizi qaldirisi, qdoq qalisi, uquchilani safidiq bolishabib."
+  },
+  {
+   "start": 92.08,
+   "end": 98.48,
+   "text": "Siz xamana shinkanyatdan faydalan maqchibusiz, azuroq padrobni tibmasini basib, telegram kanalamizgi xochili bayib."
+  }
+ ],
+ "chars": 1462,
+ "chars_per_s": 14.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

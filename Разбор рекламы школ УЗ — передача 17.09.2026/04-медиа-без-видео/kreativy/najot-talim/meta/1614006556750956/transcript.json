@@ -1,0 +1,241 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.68,
+   "text": "Hazir bugun yerdin Sunil Select bu yichin masterclassi borogat yaptin."
+  },
+  {
+   "start": 4.68,
+   "end": 7.52,
+   "text": "Bu masterclassi yuzeliiden ashik ishtirakchila qatna yashiyyatdi."
+  },
+  {
+   "start": 7.52,
+   "end": 8.6,
+   "text": "Sizgi bir sabalim ol."
+  },
+  {
+   "start": 8.6,
+   "end": 10.92,
+   "text": "Shuyo yedotirgan ishtirakchili Sunil Selecti bulgan uchi,"
+  },
+  {
+   "start": 10.92,
+   "end": 12.72,
+   "text": "ertige sizi shiz opo ishmasi ugen."
+  },
+  {
+   "start": 12.72,
+   "end": 15.84,
+   "text": "Agar da isham Sunil Selectin o'rganin gulliy taktoglanazigan ishlari"
+  },
+  {
+   "start": 15.84,
+   "end": 17.84,
+   "text": "zize Sunil Selecti qildirishni istisangiz,"
+  },
+  {
+   "start": 17.84,
+   "end": 22.8,
+   "text": "Najab Talimni yibbilik tajribi vegege ustazadan Sunil Select kursin o'rganisini tavsiya qalaniz."
+  },
+  {
+   "start": 22.8,
+   "end": 24.96,
+   "text": "Ushbu kurs haqida batarsal malumat alishchion,"
+  },
+  {
+   "start": 24.96,
+   "end": 26.96,
+   "text": "An제 бас бас"
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  },
+  {
+   "start": 26.96,
+   "end": 26.96,
+   "text": ""
+  }
+ ],
+ "chars": 519,
+ "chars_per_s": 19.8,
+ "cyrillic_share": 0.01,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

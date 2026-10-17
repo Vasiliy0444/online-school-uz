@@ -1,0 +1,21 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 9.92,
+   "text": "500 dolordan 1000 dolori gecebosh nargis daromad, talab yukar, saha ve daimi ish bularinin bel chasiga IT House-nin WebFoostek kursida o'qish arkali irsengiz bolad."
+  },
+  {
+   "start": 10.08,
+   "end": 16.8,
+   "text": "Kursin mafaqayt eti gesengiz ish bilan tamilana, siz fakat yoxsingiz 18 ve undan yukar bolse bolgana."
+  }
+ ],
+ "chars": 266,
+ "chars_per_s": 15.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

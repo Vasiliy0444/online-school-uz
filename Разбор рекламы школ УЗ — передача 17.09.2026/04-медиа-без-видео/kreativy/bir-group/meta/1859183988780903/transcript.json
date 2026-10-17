@@ -1,0 +1,71 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.8,
+   "text": "Biz, sizne bi pulgu okutup, o'ige 500 dollordan 1000 dollorga qeche daramatka alip chikaniz."
+  },
+  {
+   "start": 4.8,
+   "end": 7.8,
+   "text": "Fakat, gini, sizda katta orzu maqsadlar bolsa,"
+  },
+  {
+   "start": 7.8,
+   "end": 9.1,
+   "text": "shunu ozi kifaya."
+  },
+  {
+   "start": 9.1,
+   "end": 12.1,
+   "text": "Biz, bir gurub kampanyasi, bir talim loyxasini isilab chikaniz."
+  },
+  {
+   "start": 12.1,
+   "end": 16.6,
+   "text": "Bu loyxamizda, zamanali kestlarini, yoshlarimizga bi pulgu orgatib,"
+  },
+  {
+   "start": 16.6,
+   "end": 19.5,
+   "text": "va hayatida oz yolunu topishka yordan beramiz."
+  },
+  {
+   "start": 19.5,
+   "end": 22.7,
+   "text": "Agar, sizgi xam, ushbu loyxamiz qizik bola digan bolsa,"
+  },
+  {
+   "start": 22.7,
+   "end": 25.1,
+   "text": "25-in centi avr kini bola digan,"
+  },
+  {
+   "start": 25.1,
+   "end": 27.7,
+   "text": "onlayn takdimatimizga ishtiro getishigniz shard."
+  },
+  {
+   "start": 27.7,
+   "end": 29.38,
+   "text": "online taqdimat kiqatnaqishchin"
+  },
+  {
+   "start": 29.38,
+   "end": 30.94,
+   "text": "padrom nitigmasini basib"
+  },
+  {
+   "start": 30.94,
+   "end": 32.94,
+   "text": "Telegram kanalamizgi abun abolin."
+  }
+ ],
+ "chars": 565,
+ "chars_per_s": 17.2,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

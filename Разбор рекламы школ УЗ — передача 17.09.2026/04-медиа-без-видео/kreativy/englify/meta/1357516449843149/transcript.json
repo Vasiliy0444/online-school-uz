@@ -1,0 +1,146 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.82,
+   "text": "Sizgi umu manfarqa yog bolish kerey bagay narsala."
+  },
+  {
+   "start": 3.04,
+   "end": 4.78,
+   "text": "Agersiz, talorga maqchibosis."
+  },
+  {
+   "start": 5.14,
+   "end": 6.66,
+   "text": "Wa brinsi bu, ujad."
+  },
+  {
+   "start": 7.04,
+   "end": 8.58,
+   "text": "Wa xazir xataqqsam ma boladi,"
+  },
+  {
+   "start": 8.92,
+   "end": 11.32,
+   "text": "wa xazir notorga apirb kusim, xam ostumdan kuladi."
+  },
+  {
+   "start": 12.14,
+   "end": 13.28,
+   "text": "Girl, bilib koyin."
+  },
+  {
+   "start": 13.76,
+   "end": 16.04,
+   "text": "Adi qvalitni narmali urvingi egi bolgan insan,"
+  },
+  {
+   "start": 16.18,
+   "end": 17.76,
+   "text": "hich qachan sizin ostizdan kulmidi."
+  },
+  {
+   "start": 18.04,
+   "end": 20.22,
+   "text": "Ikinsi, atrofizdekilar erishatki natica."
+  },
+  {
+   "start": 20.6,
+   "end": 22.12,
+   "text": "Dodamda biti zorgaplari bar,"
+  },
+  {
+   "start": 22.5,
+   "end": 24.88,
+   "text": "osmondaki laylakitan, kolondaki togum,"
+  },
+  {
+   "start": 24.88,
+   "end": 26.28,
+   "text": "min maddi yaxsh digan."
+  },
+  {
+   "start": 26.52,
+   "end": 28.58,
+   "text": "Fokusni boshqalan mafagiyatigi emaz,"
+  },
+  {
+   "start": 28.58,
+   "end": 31.92,
+   "text": "bargi ozyuzni xaragatlarizgi qaratsiz, min madda ozyuzgi fayda."
+  },
+  {
+   "start": 32.04,
+   "end": 33.46,
+   "text": "Va uchintisi bu, talafoz."
+  },
+  {
+   "start": 33.8,
+   "end": 35.0,
+   "text": "Agar sisa mangi oxysab,"
+  },
+  {
+   "start": 35.4,
+   "end": 39.2,
+   "text": "va uyalaman, va xozirgabirsam sakiz milyard odam ustundan kuladi,"
+  },
+  {
+   "start": 39.68,
+   "end": 42.08,
+   "text": "doatgan boziz, siz uchim biti zoriyet chimim bar."
+  },
+  {
+   "start": 42.72,
+   "end": 43.3,
+   "text": "Suhbat xana."
+  },
+  {
+   "start": 43.5,
+   "end": 45.24,
+   "text": "Mangi shu sabab lixam ingilifay oxtim."
+  },
+  {
+   "start": 45.38,
+   "end": 46.96,
+   "text": "Sibigin partner qadarib otirmiman,"
+  },
+  {
+   "start": 47.38,
+   "end": 50.06,
+   "text": "suhbat xanada eyay bilan istalgan mauzuyumda geblasyoman."
+  },
+  {
+   "start": 50.4,
+   "end": 51.76,
+   "text": "Va en qizlga bilasminima,"
+  },
+  {
+   "start": 51.76,
+   "end": 54.68,
+   "text": "sun in intelektin ozy, sizni dara jezgi moslashib,"
+  },
+  {
+   "start": 54.76,
+   "end": 55.84,
+   "text": "siz bilan suhbat kurarkam."
+  },
+  {
+   "start": 55.84,
+   "end": 61.18,
+   "text": "Eyn muxumam, xataq qil samam xichkim ustumdan kulmida, va xotir jam mashqil alima."
+  },
+  {
+   "start": 61.38,
+   "end": 65.42,
+   "text": "Sos xamspegingizna uyalmastan ashir moxchiborsangiz, en glifay ilawazni yukilabali."
+  }
+ ],
+ "chars": 1098,
+ "chars_per_s": 16.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

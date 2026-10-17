@@ -1,0 +1,56 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.14,
+   "text": "Biz kelinlargi yan qiyin, bizayam uyda otirib pul topkimiz keladib."
+  },
+  {
+   "start": 4.3,
+   "end": 9.02,
+   "text": "Lekin uyda gi ishlardan ortib, bosh vaqtimizda qiladigan ish topish muhammo."
+  },
+  {
+   "start": 9.14,
+   "end": 13.18,
+   "text": "Lekin man ozim uchum bitti yaxshi daromad topish yolini topdim."
+  },
+  {
+   "start": 13.64,
+   "end": 14.74,
+   "text": "Qanaka qilib disizmi?"
+  },
+  {
+   "start": 14.92,
+   "end": 20.42,
+   "text": "Shvetsiyadan suni intelekt eksperti Shakhlo Obani depul ochiq darslargi qatmaship,"
+  },
+  {
+   "start": 20.56,
+   "end": 24.58,
+   "text": "suni intelekt bilan videolar qilishni organib, keyin isham topdim."
+  },
+  {
+   "start": 24.58,
+   "end": 29.4,
+   "text": "Agar sizam suni intelektini qadam ma qadam amalda organm oqchi bolsis,"
+  },
+  {
+   "start": 29.4,
+   "end": 31.62,
+   "text": "biz pastagi tugmani basib, sayitke krib,"
+  },
+  {
+   "start": 31.98,
+   "end": 33.92,
+   "text": "acik darslargi koshil balin."
+  }
+ ],
+ "chars": 521,
+ "chars_per_s": 15.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

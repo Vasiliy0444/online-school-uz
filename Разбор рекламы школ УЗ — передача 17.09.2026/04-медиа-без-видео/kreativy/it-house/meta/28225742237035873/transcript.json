@@ -1,0 +1,16 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 18.34,
+   "text": "Copywriting, targeting, content maker, mobilography. Bulardin bakchasi uchun siz ortacha 8 dolardan bir yarim min doları gecha daromad olishiniz mugun. Bunin uchun nese, IT House-nin SMM kurslarini tuketir, mana sho oyliklargi ege bolishiniz mugun. IT House-sizni ish birankam tamir layidir, fakat kini yoshiniz 18 dan yukar bolish gerek."
+  }
+ ],
+ "chars": 338,
+ "chars_per_s": 18.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

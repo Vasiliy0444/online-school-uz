@@ -1,0 +1,70 @@
+{
+ "creative_id": "1499909571833116",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "≤15 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Bu — IELTS-X dasturi. Agar siz ham bizning talabalarimiz kabi yuqori natija olishni istasangiz, tugmani bosing.",
+  "types": [
+   "соцдоказательство",
+   "результат или доход"
+  ],
+  "visual": [
+   "лицо в первом кадре"
+  ],
+  "evidence": [
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: женщина в хиджабе держит оранжевую папку с надписью «IELTS-X» на фоне оранжево-белого дизайна",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Bu, IELTS X-Testora.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:02] Agar siz xam, buzdin talabalarimiz kaba yukorin natija olushni istasayn giz, tudmali bosin.",
+    "timecode": "00:02"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "U IELTS 9.0 natijasiga ega ekspertlar, native speakerlar va sertifikatiga ega o'qituvchilar tomonidan ishlab chiqilgan"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук — папка «IELTS-X» в кадре плюс речь (написание исправлено: «Bu, IELTS X-Testora» → «Bu — IELTS-X dasturi»; «Agar siz xam, buzdin talabalarimiz kaba yukorin natija olushni istasayn giz, tudmali bosin» → «Agar siz ham bizning talabalarimiz kabi yuqori natija olishni istasangiz, tugmani bosing»). «Natija» здесь про балл IELTS, не про доход в буквальном смысле — тег «результат или доход» использован в широком смысле результата."
+}

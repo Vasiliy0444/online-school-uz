@@ -1,0 +1,93 @@
+{
+ "creative_id": "1556609115939952",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "постановка или скетч",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Ishlaringizni ko'rib chiqdik, bizga ma'qul, kompyuter ishlatishni bilasizmi?",
+  "types": [
+   "история",
+   "вопрос"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: молодой человек (собеседование, собеседник за кадром спиной к камере) — «Ishlaringizni ko'rib chiqdik» → «bizga ma'qul» → «kompyuter ishlatishni»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Bob, ishlariz korub chiptik, biz ge maqol kompytur ishlatishi bilassim.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта",
+   "стабильность"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:05] Mda, uzor biz sizne xikil ormaymiz, chunki bize kompytur chunadayan odomizdor kende.",
+    "timecode": "00:05"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (≈0:28): раздельный экран, «oladigan darajada kompyuterda»",
+    "timecode": "00:28"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:24] Xollas, istalgan jo geishki kraladigan dara jada kompyotorda ishlaxna organasiz.",
+    "timecode": "00:24"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈0:39): девушка на фоне лого ITHOUSE — «FOUNDATION BEPUL OCHIQ DARS»",
+    "timecode": "00:39"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:34] 13-ci akciabirdan 18-ci akciabir gechi foundation boychi biploch daslarimiz bolu botadi.",
+    "timecode": "00:34"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Хорошо читаемый вариант «Foundation»-шаблона (см. также 1221784123469346 и 1524755899458482 — тот же финал про бесплатный курс Foundation 13–18 октября, с другой завязкой): здесь завязка — мини-скетч собеседования (кандидату отказывают из-за незнания компьютера), в середине — «bunda ikki oyda to'g'irlasa bo'ladi» (можно исправить за 2 месяца) и раздельный экран «istalgan joyda ishga kiradigan darajada», закрывает новая ведущая (девушка) на фоне лого ITHOUSE словами «Foundation bepul ochiq dars». Кадры хорошо совпадают с расшифровкой на всём протяжении — редкий случай полного согласия данных в этой партии."
+}

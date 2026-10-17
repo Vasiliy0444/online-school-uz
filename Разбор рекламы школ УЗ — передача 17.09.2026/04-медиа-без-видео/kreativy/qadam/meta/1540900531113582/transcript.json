@@ -1,0 +1,111 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.0,
+   "text": "Odamla dangesalashib, uydi otirib toki, hamarar san otirgin joydi bitirish xalawatdi."
+  },
+  {
+   "start": 6.0,
+   "end": 14.68,
+   "text": "Dangesalik oottim oki, demesiz aynan shu xalatdan faydan haram xal shishkiri, soqa qil shishkiri, shuladan qaya platformaladan bitlase bu uzum."
+  },
+  {
+   "start": 15.3,
+   "end": 19.74,
+   "text": "Agar da judayam khizubu otkiam bosa, sizgi bunar san qadam education orgetadi."
+  },
+  {
+   "start": 19.9,
+   "end": 22.96,
+   "text": "Qadam education oki rastanam kurutoy oku markazi."
+  },
+  {
+   "start": 23.32,
+   "end": 25.7,
+   "text": "Sondag yapraman ozi isqusaklab chikar oras."
+  },
+  {
+   "start": 25.84,
+   "end": 29.9,
+   "text": "Tor minti oku uchini aynan shu naprawliyina boyi chokchishkiam."
+  },
+  {
+   "start": 30.0,
+   "end": 36.92,
+   "text": "Nataş qarab, o digi oqtu uchilani ozu baro oki, tor milyar, beish milyar, som uzumda aborot xil sharga, qaray."
+  },
+  {
+   "start": 37.56,
+   "end": 42.42,
+   "text": "Oqtu uchi ozi uzumdi shilayab soqaq qatdi di, shansmo o shani sizgi or getadi."
+  },
+  {
+   "start": 43.16,
+   "end": 45.64,
+   "text": "Onglay, agar vloyatdi basiz, onlay onqsizan balad."
+  },
+  {
+   "start": 45.68,
+   "end": 50.72,
+   "text": "Agar yo, offline gelaman man getisiz, oki, qaybi metroni eji gidi tiyidi choylashgan."
+  },
+  {
+   "start": 51.2,
+   "end": 52.3,
+   "text": "Xaman sizicun qulay."
+  },
+  {
+   "start": 52.3,
+   "end": 56.44,
+   "text": "Agar halayam kallad, bakana baladin qan basiz, zor taklif etaman sizgi."
+  },
+  {
+   "start": 56.44,
+   "end": 60.44,
+   "text": "Qadam Education-di 40% gechi cheqirimi berish vatdi."
+  },
+  {
+   "start": 60.44,
+   "end": 62.44,
+   "text": "Qilla access kit vatdi."
+  },
+  {
+   "start": 62.44,
+   "end": 65.44,
+   "text": "Undan tashqari, aynashi Qilla Access-i paytidi gelib,"
+  },
+  {
+   "start": 65.44,
+   "end": 67.44,
+   "text": "uqidi gyan bosayiz, biray doamidi."
+  },
+  {
+   "start": 67.44,
+   "end": 71.44,
+   "text": "Su uquchilani orasdi, anamam, shirili gini korvasim, makvukki."
+  },
+  {
+   "start": 71.44,
+   "end": 73.44,
+   "text": "Bir ortasigi, randomni beriladi."
+  },
+  {
+   "start": 73.44,
+   "end": 76.44,
+   "text": "Malamatim sizgi yetarli bovaygan bosayiz, pastigi link boyichi,"
+  },
+  {
+   "start": 76.44,
+   "end": 81.44,
+   "text": "telefon nomorlarizi qoldirsayiz, okey, meningerli sizgi kama malamatini berishaydi."
+  }
+ ],
+ "chars": 1296,
+ "chars_per_s": 15.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

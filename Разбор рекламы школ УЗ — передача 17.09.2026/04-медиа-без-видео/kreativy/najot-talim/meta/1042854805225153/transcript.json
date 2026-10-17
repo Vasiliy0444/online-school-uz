@@ -1,0 +1,536 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.56,
+   "text": "Dajdi bu aqani direkhtirx poysam olardi."
+  },
+  {
+   "start": 4.88,
+   "end": 6.36,
+   "text": "Sun cananm, familyam, egi cananm."
+  },
+  {
+   "start": 6.36,
+   "end": 7.92,
+   "text": "Andi cananm ayatiz basim, yu tumandam ma."
+  },
+  {
+   "start": 7.92,
+   "end": 9.04,
+   "text": "Ukay ajjanca basorin."
+  },
+  {
+   "start": 9.04,
+   "end": 9.88,
+   "text": "Igri ma yansinam ha."
+  },
+  {
+   "start": 9.88,
+   "end": 12.16,
+   "text": "Torch kompitoruna, najat talim yi kelib, ken yushoyam ma."
+  },
+  {
+   "start": 12.16,
+   "end": 14.52,
+   "text": "O'qishya kelib kerlesim, rasyaya balish tab ki genm ma bariyad."
+  },
+  {
+   "start": 14.52,
+   "end": 15.72,
+   "text": "O'qishan nang ki genm bo genm?"
+  },
+  {
+   "start": 15.72,
+   "end": 18.08,
+   "text": "Rasyadan gelnim, dadam verdi, dasya qaldi."
+  },
+  {
+   "start": 18.08,
+   "end": 19.12,
+   "text": "Ba'umda ishin tora yukudnim."
+  },
+  {
+   "start": 19.12,
+   "end": 21.96,
+   "text": "Python da kod yazib, Android telefonlari kamerasi buzgiri yamim."
+  },
+  {
+   "start": 21.96,
+   "end": 23.32,
+   "text": "Dab ozi telefoniz buzgiri yamiz?"
+  },
+  {
+   "start": 23.32,
+   "end": 25.32,
+   "text": "Qusni bilinmaga mvayta, qisraq yommaga mvayta?"
+  },
+  {
+   "start": 25.32,
+   "end": 27.32,
+   "text": "Yok, telefon o qis xolatdaym islaydi."
+  },
+  {
+   "start": 27.32,
+   "end": 29.32,
+   "text": "Qazmany, spiashir eginm ola dik,"
+  },
+  {
+   "start": 29.32,
+   "end": 31.32,
+   "text": "shu xolatdaym, mi kamerani qirtur alirga dharaci qabchika."
+  },
+  {
+   "start": 31.32,
+   "end": 33.32,
+   "text": "Qaun dashini oqiyyken payt qil disi, qizli qil."
+  },
+  {
+   "start": 33.32,
+   "end": 35.32,
+   "text": "Qaun dashini yan giyotkan payt imiski yomi."
+  },
+  {
+   "start": 35.32,
+   "end": 37.32,
+   "text": "Hakqatda mu qibir khasili, mi qisni uvaytni"
+  },
+  {
+   "start": 37.32,
+   "end": 39.32,
+   "text": "baqat Wi-Fi buzisbasa gey."
+  },
+  {
+   "start": 39.32,
+   "end": 41.32,
+   "text": "Qali mi qatda yapro omay,"
+  },
+  {
+   "start": 41.32,
+   "end": 43.32,
+   "text": "qob nar san oriyan, dheb olgana diyo nar san judeq yob qali."
+  },
+  {
+   "start": 43.32,
+   "end": 44.88,
+   "text": "Kursu bitirini dimi qaqim oqtisis?"
+  },
+  {
+   "start": 44.88,
+   "end": 47.18,
+   "text": "Qazir, hi qanaqa kampanyaya topshirishni yatimi yox."
+  },
+  {
+   "start": 47.18,
+   "end": 49.38,
+   "text": "Kursu bitirip ingilis talimi dometiramay."
+  },
+  {
+   "start": 49.38,
+   "end": 51.08,
+   "text": "Az evropada ikide variantin boq."
+  },
+  {
+   "start": 51.08,
+   "end": 53.02,
+   "text": "Bit de Germaniyada boq, bit de Shvitsaryada boq."
+  },
+  {
+   "start": 53.02,
+   "end": 53.76,
+   "text": "Germaniyada,"
+  },
+  {
+   "start": 53.76,
+   "end": 55.76,
+   "text": "Elstuf dina universitet boq."
+  },
+  {
+   "start": 55.76,
+   "end": 56.58,
+   "text": "IBM,"
+  },
+  {
+   "start": 56.58,
+   "end": 57.46,
+   "text": "Google, Meta."
+  },
+  {
+   "start": 57.46,
+   "end": 59.46,
+   "text": "Shulari bilan billa hamka orli dihliydi."
+  },
+  {
+   "start": 59.46,
+   "end": 60.88,
+   "text": "Buna oqqu qikan izdankini"
+  },
+  {
+   "start": 60.88,
+   "end": 63.46,
+   "text": "80% xorlatidi u özlar ishqaq qalishadi."
+  },
+  {
+   "start": 63.46,
+   "end": 64.42,
+   "text": "Qazir shu planim."
+  },
+  {
+   "start": 64.42,
+   "end": 66.26,
+   "text": "Nazjatarin tizimini kim kim buzdiylar?"
+  },
+  {
+   "start": 66.26,
+   "end": 67.66,
+   "text": "Nazjatarin?"
+  },
+  {
+   "start": 67.66,
+   "end": 68.98,
+   "text": "Vamilatdi shereyn maridi."
+  },
+  {
+   "start": 68.98,
+   "end": 71.42,
+   "text": "U, özümüz də özümüz bu zikirinmə yalınarsay."
+  },
+  {
+   "start": 71.42,
+   "end": 73.1,
+   "text": "Ustaziga biz taklif beryamiz,"
+  },
+  {
+   "start": 73.1,
+   "end": 75.14,
+   "text": "tolu 30 min geci yeti barsi, eripini,"
+  },
+  {
+   "start": 75.14,
+   "end": 77.18,
+   "text": "agar tolu 30 min xipoyla digan bose,"
+  },
+  {
+   "start": 77.18,
+   "end": 78.62,
+   "text": "bu tepada gili xabar topadimi,"
+  },
+  {
+   "start": 78.62,
+   "end": 79.46,
+   "text": "degin saval tashadi."
+  },
+  {
+   "start": 79.46,
+   "end": 81.02,
+   "text": "Ustaz aqtiki sila u ushtqimi ila,"
+  },
+  {
+   "start": 81.02,
+   "end": 82.7,
+   "text": "tolu 30 min geci bara digan coyni,"
+  },
+  {
+   "start": 82.7,
+   "end": 84.22,
+   "text": "zahirilan görsat verilamaysilari."
+  },
+  {
+   "start": 84.22,
+   "end": 86.06,
+   "text": "Ogan tolu u ilarini xabiramayamaysilay."
+  },
+  {
+   "start": 86.06,
+   "end": 87.06,
+   "text": "Aboluhub dedikki,"
+  },
+  {
+   "start": 87.06,
+   "end": 87.66,
+   "text": "bari xafti,"
+  },
+  {
+   "start": 87.66,
+   "end": 89.82,
+   "text": "aqqatdan ustuda qatdi islalii bularsani."
+  },
+  {
+   "start": 89.82,
+   "end": 91.68,
+   "text": "Qandy-yaqda, tulun gecheyti burun odaylan"
+  },
+  {
+   "start": 91.68,
+   "end": 93.62,
+   "text": "Nacot-dağlan, buyche, buyche, fil-yağ-lay-bayche"
+  },
+  {
+   "start": 93.62,
+   "end": 95.86,
+   "text": "pulkirdi chikdilargi, cik guzetadi yandariziga chikqamiz."
+  },
+  {
+   "start": 100.5,
+   "end": 102.5,
+   "text": "Parinche, yorlam shodlar buzdiylar ki,"
+  },
+  {
+   "start": 102.5,
+   "end": 104.22,
+   "text": "adminlardi, qozchint xalishdi boshladik."
+  },
+  {
+   "start": 104.22,
+   "end": 107.58,
+   "text": "Admini qytaril yanimizdankini, moli rahbarin akamotnimiz qirik."
+  },
+  {
+   "start": 107.58,
+   "end": 109.94,
+   "text": "Uzi biz ishli etkali ardi, ishtan ople sholimiz,"
+  },
+  {
+   "start": 109.94,
+   "end": 112.7,
+   "text": "feyisaydi bu akani direkhtirx boysan molardi."
+  },
+  {
+   "start": 115.06,
+   "end": 116.14,
+   "text": "Rahmat, ketakon?"
+  },
+  {
+   "start": 116.14,
+   "end": 117.26,
+   "text": "Otorizmiz qo shal?"
+  },
+  {
+   "start": 117.26,
+   "end": 119.38,
+   "text": "Dadan tadur qorla, onamib ekes."
+  },
+  {
+   "start": 119.38,
+   "end": 120.34,
+   "text": "Nirsi kitab oqiyans?"
+  },
+  {
+   "start": 120.34,
+   "end": 121.82,
+   "text": "Ozi biti kitab oqiyanm, torusi."
+  },
+  {
+   "start": 121.82,
+   "end": 123.18,
+   "text": "Qoxiyan binashish olasi bozli."
+  },
+  {
+   "start": 123.18,
+   "end": 125.04,
+   "text": "O qo nu uchun uchi doxun uche atda mraykin"
+  },
+  {
+   "start": 125.04,
+   "end": 126.62,
+   "text": "O kitab bas kiinun ubo lunun mrayn uche"
+  },
+  {
+   "start": 126.62,
+   "end": 127.78,
+   "text": "Kitab uksikeli, mrayn uche uruun diye"
+  },
+  {
+   "start": 127.78,
+   "end": 125.04,
+   "text": "Ozo mrayn astalun hayat izye, iyo frequently kitab uksayda bąrki"
+  },
+  {
+   "start": 125.04,
+   "end": 125.04,
+   "text": ""
+  },
+  {
+   "start": 125.04,
+   "end": 125.04,
+   "text": ""
+  },
+  {
+   "start": 125.04,
+   "end": 125.04,
+   "text": ""
+  },
+  {
+   "start": 125.04,
+   "end": 125.04,
+   "text": ""
+  },
+  {
+   "start": 125.04,
+   "end": 126.9,
+   "text": "Kitab-b frequently frequently"
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 126.9,
+   "text": ""
+  },
+  {
+   "start": 126.9,
+   "end": 136.55,
+   "text": "Belayda, mrunununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununun"
+  }
+ ],
+ "chars": 3004,
+ "chars_per_s": 22.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

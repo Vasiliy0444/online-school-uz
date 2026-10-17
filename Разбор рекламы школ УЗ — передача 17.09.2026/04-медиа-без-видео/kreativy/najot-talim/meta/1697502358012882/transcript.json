@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.52,
+   "text": "Talabalargi, eyn maz ish. Buner isertanki, birgini shu telefonin arkasina putopsi boladi."
+  },
+  {
+   "start": 4.84,
+   "end": 9.24,
+   "text": "Kishkim sizgi, tokuzna altigeci ishki kepke etmamish, kukoy demidi, ishiz bitiraz, puliz alad."
+  },
+  {
+   "start": 9.66,
+   "end": 13.96,
+   "text": "Bu, mabili grafiya. Atigi, iki ayichida siz togrosyonka va mantaj asoslanin organi o alib,"
+  },
+  {
+   "start": 13.96,
+   "end": 17.86,
+   "text": "ki, erkin grafite putopsiz bolad. Kuddi, najat alam, okuchilar yokshak."
+  },
+  {
+   "start": 18.08,
+   "end": 21.14,
+   "text": "Agar sizdiyem, rasim, video alishke va mantaj khizishke qizikish bolse,"
+  },
+  {
+   "start": 21.26,
+   "end": 24.02,
+   "text": "onda bu kurs aynan siz uchun. Kuydagi khabar orqali uruxat noti,"
+  },
+  {
+   "start": 24.24,
+   "end": 25.58,
+   "text": "va bu sizgi matafsid malumat veram."
+  }
+ ],
+ "chars": 520,
+ "chars_per_s": 20.2,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

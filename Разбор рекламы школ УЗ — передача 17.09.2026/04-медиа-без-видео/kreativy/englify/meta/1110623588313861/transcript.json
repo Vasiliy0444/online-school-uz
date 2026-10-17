@@ -1,0 +1,81 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.4,
+   "text": "Yeligi, burik kimata sayahat kich khasiz, la u yodi ingilisili kerey boradi."
+  },
+  {
+   "start": 3.4,
+   "end": 5.4,
+   "text": "Lekin, siz ucho organsiz yetadi."
+  },
+  {
+   "start": 5.4,
+   "end": 8.1,
+   "text": "Chunki Amerikarilani oziyam, xafta daamida uchi mintisuz,"
+  },
+  {
+   "start": 8.1,
+   "end": 10.1,
+   "text": "beshti zamandan fadilandad xolos."
+  },
+  {
+   "start": 10.1,
+   "end": 12.4,
+   "text": "Agar siz ham en kereyli mausurani organsiz,"
+  },
+  {
+   "start": 12.4,
+   "end": 15.4,
+   "text": "nulldan otchkun inchli kundalik mausurladi gaplashini baxishisis."
+  },
+  {
+   "start": 15.4,
+   "end": 16.8,
+   "text": "Manatichir azam, xoza gecham,"
+  },
+  {
+   "start": 16.8,
+   "end": 19.8,
+   "text": "yigrimi besh minti oqochigi ingilis sireni organsiki yordan bergaymat."
+  },
+  {
+   "start": 19.8,
+   "end": 22.8,
+   "text": "Bay yigrimikinchi, yigrimi ushunchi, yigrimi otorotunchi sentyabr kundari"
+  },
+  {
+   "start": 22.8,
+   "end": 25.12,
+   "text": "Beeple online masterclass tashkilashira yapan."
+  },
+  {
+   "start": 25.12,
+   "end": 30.7,
+   "text": "Bu masterclassda qanday qilib 0-30 gün inchi li kundalik mauzurlarda ge apresini boshash mongulligini orga teman."
+  },
+  {
+   "start": 30.7,
+   "end": 33.56,
+   "text": "Masterclassda qatilan shim mutlaka Beeple, faqat xawar amostagi basit,"
+  },
+  {
+   "start": 33.56,
+   "end": 34.36,
+   "text": "rol xatdan otayin,"
+  },
+  {
+   "start": 34.36,
+   "end": 36.76,
+   "text": "va yapig Telegram kanalimgi koshirib olayin."
+  }
+ ],
+ "chars": 782,
+ "chars_per_s": 21.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

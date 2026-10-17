@@ -1,0 +1,56 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.6,
+   "text": "Atrafta SMM kursini bitirgallar judayam kob, lekin nege xalyam biznisi yagallara SMM menajir qidro."
+  },
+  {
+   "start": 5.92,
+   "end": 8.9,
+   "text": "Sababu judayam addi, bazarda talab judayam yukara."
+  },
+  {
+   "start": 9.22,
+   "end": 14.16,
+   "text": "Hatta ki, najat talimdan soroshatkan SMM menajirlargi, biz bitir uchilarimizini yetkizib birar miyimiz."
+  },
+  {
+   "start": 14.48,
+   "end": 18.72,
+   "text": "Ishki kiri statiskalarda xam, SMM menajirlar 90% yukara natichani qayt etishadi."
+  },
+  {
+   "start": 19.1,
+   "end": 22.76,
+   "text": "Vakansa kanallardayam, har ikta vakansani bittasi SMM menajir boladi."
+  },
+  {
+   "start": 22.76,
+   "end": 29.0,
+   "text": "Xa, bu soxada judayam talab kob, hatta biz xam har ay yuzlab uchilarini SMM kursi qa qabul qilamiz."
+  },
+  {
+   "start": 29.0,
+   "end": 30.52,
+   "text": "jaylar sanat chey garylanga."
+  },
+  {
+   "start": 30.8,
+   "end": 32.2,
+   "text": "Siz xazirak quydagi xawlan basi"
+  },
+  {
+   "start": 32.2,
+   "end": 34.78,
+   "text": "va anashu jaylardan birini ozingiz uchun band qilin."
+  }
+ ],
+ "chars": 619,
+ "chars_per_s": 17.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

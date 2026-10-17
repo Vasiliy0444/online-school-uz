@@ -1,0 +1,36 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.32,
+   "text": "Englify kampanyasi russos loyxasi uchun sotu menajilarini ishke taklif qaladi."
+  },
+  {
+   "start": 4.5,
+   "end": 8.56,
+   "text": "Talablarimiz yoshiz 18-28 arasida bolishi toshkin shakradi yashashiz"
+  },
+  {
+   "start": 8.56,
+   "end": 14.5,
+   "text": "ba konsentri orqali sotush qo bileti ege bolishiz xamdi russolini bazivi darajida bilishiz kere boladi."
+  },
+  {
+   "start": 14.8,
+   "end": 20.78,
+   "text": "Oylik mawashisi 5 milyon somdan boshlanadi, kiipiyayisi haribir kliyan sotu ujidan 10% dan xosablanadi."
+  },
+  {
+   "start": 20.94,
+   "end": 25.54,
+   "text": "Agar da aynan siz bizni talablarimizgi tohri geladi yanbosiz, khaziroq bizage murajat qalini."
+  }
+ ],
+ "chars": 449,
+ "chars_per_s": 17.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

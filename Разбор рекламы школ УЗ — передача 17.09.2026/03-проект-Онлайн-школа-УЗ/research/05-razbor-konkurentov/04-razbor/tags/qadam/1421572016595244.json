@@ -1,0 +1,77 @@
+{
+ "creative_id": "1421572016595244",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": ">120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Aka, men davlat ishidan bo'shamasdan turib biznes qilganman, ikkalasini parallel olib ketganman, biznesim zo'r bo'lib ketgandan keyin, biznesni davom ettirganman, davlat ishini tashlab ketganman.",
+  "types": [
+   "история"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: разделённый экран: сверху мужчина в кепке и очках на улице, снизу другой мужчина говорит в камеру; на 2.5s нижний фрагмент сменяется другим говорящим",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Akilaman do'ilat ishidan, boshamastan turu biznis qiganman, ikilasini paralilab kitganman, biznisim zor bob kitkandan kin, biznisi damitganman, do'ilashit tashib kitganman.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "свой бизнес",
+   "удалёнка и свобода"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:08] Siyam agar ishilabatganm boshayla, koshimchi ishkisayla boladir.",
+    "timecode": "00:08"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:20] Mana masalam, uzumda silegi biznis qishi orqat koymachchiman ku.",
+    "timecode": "00:20"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:53] Sizgi fakat kini, kompytur bilan internet bolsa boldi.",
+    "timecode": "00:53"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "нет призыва",
+  "destination": "лендинг",
+  "funnel_stage": "Telegram"
+ },
+ "speaker": {
+  "role": "блогер"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "Длинный ролик (3:10) в формате реакции: разделённый экран, сверху блогер, снизу вставки других говорящих; дальше блогер говорит у пунктов выдачи Uzum и приходит в учебный центр Qadam (кадр 4 — класс с учениками за ноутбуками). По кадрам хука не ясно, кому принадлежит первая реплика (верхнему или нижнему спикеру). Хук по расшифровке, написание исправлено («Akilaman do'ilat ishidan, boshamastan turu biznis qiganman…» → «Aka, men davlat ishidan bo'shamasdan turib biznes qilganman…»; «Akilaman» может быть и «Akalar, men»). Перевод: «Я занимался бизнесом, не уходя с госслужбы, вёл параллельно; когда бизнес пошёл — ушёл с госслужбы». Смысл по доступной речи: работая, можно параллельно заняться бизнесом; у Uzum сотни пунктов приёма, склад, доставку, оплату и рассрочку для покупателей берёт на себя площадка; нужны только компьютер и интернет, но знания надо получить; в центре (по расшифровке): учат с 2022 года, по направлению Uzum обучено «3.500 dan ortiq». Сумм дохода нет. Расшифровка в порции обрезана на 01:10 из 03:10 — оффер и призыв не видны; «нет призыва» и «без оффера» условны. Роль «блогер» — по подаче (гость рассказывает о школе со стороны; в utm — ник автора). Этап «Telegram» — по адресу ссылки (/uzum-tg)."
+}

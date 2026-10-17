@@ -1,0 +1,131 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.54,
+   "text": "Agarsiz kunige 2 u su atuat aciratda bi yaxsh gini daralat kumaxchubasiz."
+  },
+  {
+   "start": 4.54,
+   "end": 10.0,
+   "text": "Serozni etomba, bitda ba tafsil chulturimu, uzun marketta saadaqilish orgin alani,"
+  },
+  {
+   "start": 10.0,
+   "end": 12.44,
+   "text": "ishani qatda biznismen bubketas."
+  },
+  {
+   "start": 12.44,
+   "end": 18.76,
+   "text": "Botdigi orgin ta digallan oza, vashi onlayan saadaqda tur mili artkachi sodi qila digallan orgin tsharkandi,"
+  },
+  {
+   "start": 18.76,
+   "end": 21.5,
+   "text": "2 min tega ozhu adangi orgin kamsil uzo."
+  },
+  {
+   "start": 21.5,
+   "end": 22.8,
+   "text": "Bitda damash oq uchilarimiza bak."
+  },
+  {
+   "start": 22.8,
+   "end": 25.5,
+   "text": "Umumi abaratomiz, 277 mili anga chikta uzun marketta."
+  },
+  {
+   "start": 25.5,
+   "end": 27.5,
+   "text": "Abaratomiz 40 milion naqshu atdi."
+  },
+  {
+   "start": 27.5,
+   "end": 30.82,
+   "text": "1 ay 2-de 30 minun che, navarna, avarot boldi."
+  },
+  {
+   "start": 30.82,
+   "end": 33.26,
+   "text": "Kurs qimadmazmiz, qan arqa buqil nadi, o dorgyanladi?"
+  },
+  {
+   "start": 33.26,
+   "end": 36.06,
+   "text": "Kurssi online oxiziz boladi, fama offline oxiziz boladi."
+  },
+  {
+   "start": 36.06,
+   "end": 39.1,
+   "text": "Agar online bolse, ke botor shartamaz?"
+  },
+  {
+   "start": 39.1,
+   "end": 41.5,
+   "text": "Da, platformani chi ekras, ozdani platform bozo bal,"
+  },
+  {
+   "start": 41.5,
+   "end": 43.38,
+   "text": "un 2-de fama video darsinani oxiziz boladi."
+  },
+  {
+   "start": 43.38,
+   "end": 46.94,
+   "text": "Agar siz toshkinli torsisiz, shundi AYB-mi turgi yakhinji aydiygan,"
+  },
+  {
+   "start": 46.94,
+   "end": 48.38,
+   "text": "shudda oxiziz boladi."
+  },
+  {
+   "start": 48.38,
+   "end": 52.38,
+   "text": "Tol olayan, xalisisiz naxti diz, xalisisiz bolib toleshgan,"
+  },
+  {
+   "start": 52.38,
+   "end": 53.62,
+   "text": "bolisi boladi."
+  },
+  {
+   "start": 53.62,
+   "end": 58.12,
+   "text": "Man namindaki sez, konur qaydu, yari bitdi kurs se, bi pul qi veradi gani bu asisillar, shnaq?"
+  },
+  {
+   "start": 58.12,
+   "end": 58.62,
+   "text": "Ha?"
+  },
+  {
+   "start": 58.62,
+   "end": 60.62,
+   "text": "Jigar bu asi varadi gani cayi?"
+  },
+  {
+   "start": 60.62,
+   "end": 62.62,
+   "text": "Pasti silgi qaldir ama?"
+  },
+  {
+   "start": 62.62,
+   "end": 67.62,
+   "text": "Hazi malimatizdi qaldir sez, uzligi alagay chqib, yini batafsil malimat birishadi."
+  },
+  {
+   "start": 67.62,
+   "end": 69.62,
+   "text": "Hazi qaldirik malimatizdi."
+  }
+ ],
+ "chars": 1184,
+ "chars_per_s": 17.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

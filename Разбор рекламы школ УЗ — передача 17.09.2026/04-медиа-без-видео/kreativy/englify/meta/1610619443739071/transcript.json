@@ -1,0 +1,161 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.8,
+   "text": "Anaba genizden kegin, sizi kayfiyatiz torudan toru farzantizge ba'loq goqqolad."
+  },
+  {
+   "start": 5.06,
+   "end": 10.02,
+   "text": "Dici tuzush yorda dursun, 15 yigir ma'imtdankin nimaqili shizzi annaqaydi beramiziz."
+  },
+  {
+   "start": 10.34,
+   "end": 14.6,
+   "text": "Ba'loq muqla gendi, ingilisdi lor geneman, ozum ustamda ishliman,"
+  },
+  {
+   "start": 14.72,
+   "end": 19.42,
+   "text": "dinsiz o'lik yon shukunu ba'li suqlamidi, yok ki 15 yigir ma'imtdankin turqolad."
+  },
+  {
+   "start": 19.42,
+   "end": 25.76,
+   "text": "Usti kusti, dikrikti otir genizden kegin, turmuş ortaqizdan hada pul sorashki uyalarken siz."
+  },
+  {
+   "start": 25.92,
+   "end": 29.42,
+   "text": "Kurs puli mayliku, lekin unge ketar digan yol haracadi."
+  },
+  {
+   "start": 30.0,
+   "end": 31.72,
+   "text": "yolda qor niz açq qalishi,"
+  },
+  {
+   "start": 31.72,
+   "end": 33.52,
+   "text": "kofi pofi ichvalishi,"
+  },
+  {
+   "start": 33.52,
+   "end": 35.4,
+   "text": "mayda mayda haracad bolub"
+  },
+  {
+   "start": 35.4,
+   "end": 37.2,
+   "text": "qot dusumag ailan qalarka."
+  },
+  {
+   "start": 37.2,
+   "end": 38.84,
+   "text": "Shunu uchum, maga ham yon bog"
+  },
+  {
+   "start": 38.84,
+   "end": 40.44,
+   "text": "ozum istegan paytamdi,"
+  },
+  {
+   "start": 40.44,
+   "end": 42.6,
+   "text": "ozum istegan cayimdi orginadgan"
+  },
+  {
+   "start": 42.6,
+   "end": 43.72,
+   "text": "varyant keregdi."
+  },
+  {
+   "start": 43.72,
+   "end": 45.76,
+   "text": "Hazir, Englify ilawasi orqali"
+  },
+  {
+   "start": 45.76,
+   "end": 47.72,
+   "text": "xar kuni video darsili da koraman,"
+  },
+  {
+   "start": 47.72,
+   "end": 49.12,
+   "text": "bolam uxla shimbilan"
+  },
+  {
+   "start": 49.12,
+   "end": 51.0,
+   "text": "15 minut video korvalaman,"
+  },
+  {
+   "start": 51.0,
+   "end": 53.16,
+   "text": "yana boshashimbilan davam ettiraman."
+  },
+  {
+   "start": 53.16,
+   "end": 54.6,
+   "text": "Aldinda, sootlab"
+  },
+  {
+   "start": 54.6,
+   "end": 55.92,
+   "text": "qat qadar bor shizir"
+  },
+  {
+   "start": 55.92,
+   "end": 57.28,
+   "text": "iyicakilishi shartamaz."
+  },
+  {
+   "start": 57.28,
+   "end": 58.48,
+   "text": "Eyn mokhoman,"
+  },
+  {
+   "start": 58.48,
+   "end": 60.48,
+   "text": "pul te jalishe ma ila guya,"
+  },
+  {
+   "start": 60.48,
+   "end": 62.48,
+   "text": "vokt te jalishe ma uchun,"
+  },
+  {
+   "start": 62.48,
+   "end": 63.48,
+   "text": "judde yan moxum."
+  },
+  {
+   "start": 63.48,
+   "end": 65.48,
+   "text": "Dzikrit dem rovajlanish mon kon."
+  },
+  {
+   "start": 65.48,
+   "end": 67.48,
+   "text": "Kelin, hazu rov boshlab gorin."
+  },
+  {
+   "start": 67.48,
+   "end": 68.48,
+   "text": "Pastigi ilava orqali,"
+  },
+  {
+   "start": 68.48,
+   "end": 70.48,
+   "text": "roy xatna odi."
+  }
+ ],
+ "chars": 1062,
+ "chars_per_s": 15.2,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,41 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.78,
+   "text": "Shingiz tufayli ingilis dil organishke vaqtingiz yor. Biz, ishi bor, yoshi 2.5 tane katdilar uchun ingilis dil orga tamiz."
+  },
+  {
+   "start": 7.1,
+   "end": 10.96,
+   "text": "Haftasigi uchmar o tabi, 8-10 dakadan vaqta chatsangiz bol yana."
+  },
+  {
+   "start": 11.16,
+   "end": 18.46,
+   "text": "Daftar ruchke xam chatmaz. Xamas ilovamiz ishida, ayos bali sakkiz yarim, doriyillik tacibe ki ege bolgan suozlar talim berchabi."
+  },
+  {
+   "start": 18.46,
+   "end": 23.14,
+   "text": "Kursin tamamlagan ingizden ki ingilis dilde beymoral gaprib, chunaladigan bolasiz."
+  },
+  {
+   "start": 23.4,
+   "end": 27.2,
+   "text": "Biz bilan 7000 na orta insolar okup, natijakilib keshmokta."
+  },
+  {
+   "start": 27.2,
+   "end": 32.52,
+   "text": "Pastaki havaqloqali ruhi qatna uchsaniz, menajerlarimiziz bilanboqlanib batarsili malamat berishadi."
+  }
+ ],
+ "chars": 561,
+ "chars_per_s": 17.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

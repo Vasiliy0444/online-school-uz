@@ -1,0 +1,71 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.32,
+   "text": "Chingiz, tufayli ingilistir o'rganishki vaqt yox."
+  },
+  {
+   "start": 2.32,
+   "end": 9.28,
+   "text": "Buna blamiz, shusarptan xam ingilifay aynan 25 oxtan kattda ishli band adamlar uchun ingilistir kurslarin tayyurlagyan."
+  },
+  {
+   "start": 9.74,
+   "end": 15.14,
+   "text": "Kunigi, atigi 50 dakiqa, lekin, bugun solt 7 darsin ba ordiyan, chunki yox."
+  },
+  {
+   "start": 15.52,
+   "end": 20.62,
+   "text": "Uziyizgi kulay vaqti qachan vaqt ispayda o'bosu, 10 dakiqa, 15 dakiqadan shuklanasiz."
+  },
+  {
+   "start": 20.94,
+   "end": 25.08,
+   "text": "10 minut video darslar, mashklari bilan, 10 minut sun intelekt bilan, speaking qilasiz."
+  },
+  {
+   "start": 25.3,
+   "end": 27.44,
+   "text": "Yana 10 dakiqa bilimlar bellashivu bolishminkum."
+  },
+  {
+   "start": 27.44,
+   "end": 28.7,
+   "text": "U yuzgi qanday qolayi bolsi?"
+  },
+  {
+   "start": 28.76,
+   "end": 31.44,
+   "text": "Orginay verasiz, sizni xammi darsariniz tizimlashdirilgan."
+  },
+  {
+   "start": 32.08,
+   "end": 34.32,
+   "text": "Biz ozimiz tekishirib, sizgi malumatani berib duramiz."
+  },
+  {
+   "start": 34.64,
+   "end": 36.1,
+   "text": "Qana qazigi bun iladisi bar?"
+  },
+  {
+   "start": 36.2,
+   "end": 37.86,
+   "text": "Natici bolarmi kendu atkan bolsiz?"
+  },
+  {
+   "start": 38.14,
+   "end": 41.22,
+   "text": "Hawalan istigi basin mutagalistarimi sizgi xamasin chuntirib erisadi."
+  }
+ ],
+ "chars": 745,
+ "chars_per_s": 18.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

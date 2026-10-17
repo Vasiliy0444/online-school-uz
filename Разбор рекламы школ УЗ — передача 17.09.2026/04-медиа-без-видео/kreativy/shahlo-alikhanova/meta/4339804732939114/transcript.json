@@ -1,0 +1,16 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.88,
+   "text": "Yazgi kanikul da boliz bekar yurmasligi uchun suni intelekt orget shikeberin. Pastagi tugmanı basib, malumat alishiz munkun."
+  }
+ ],
+ "chars": 124,
+ "chars_per_s": 15.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

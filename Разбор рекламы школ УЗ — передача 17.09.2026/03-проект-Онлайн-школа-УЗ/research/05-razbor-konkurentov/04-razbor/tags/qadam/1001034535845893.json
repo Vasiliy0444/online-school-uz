@@ -1,0 +1,123 @@
+{
+ "creative_id": "1001034535845893",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "постановка или скетч",
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Bratan, zdrasti. O'zbek…?",
+  "types": [
+   "история",
+   "вопрос"
+  ],
+  "visual": [
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: чёрно-белая съёмка «под камеру» (рамка видоискателя, «REC», батарея): мужчина на улице подходит к прохожему у машин и отходит",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Buratan, zrasti. Ozbek sinifani va itchid?",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:03] Ozbejcana bilishmasega. Legiz, ozbejcana yaxshi chunaysiz.",
+    "timecode": "00:03"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "удалёнка и свобода",
+   "свой бизнес",
+   "статус"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:06] Ipul tapishi yollar, nam yaxshi bilasiz.",
+    "timecode": "00:06"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:23] Imdan tashqara otargan cayizda, u izda yoki ofisizdi,",
+    "timecode": "00:23"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:26] narmali sakka tapisiz golam.",
+    "timecode": "00:26"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:33] shishani qaddi biznismen bubketiz.",
+    "timecode": "00:33"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4: «40 000 000 AYLANMA» у ученика в офисе"
+   }
+  ],
+  "revenue_claim": "40 000 000 AYLANMA (ученик, кадр); bir oy ichida 30 000 000 oborot (по черновой расшифровке)"
+ },
+ "offer": {
+  "items": [
+   "мини-курс",
+   "рассрочка"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[01:23] Pastda malamatizu qaldir siz,",
+    "timecode": "01:23"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[01:25] bi pul darsli tax edirladi.",
+    "timecode": "01:25"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[01:27] Bittdi korib chqazdi, ki maqul bosa uqqoraz.",
+    "timecode": "01:27"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "UZUM bo‘yicha bepul darslar"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[01:13] xalasiz bolib toleshgan,",
+    "timecode": "01:13"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "мини-курс или трипвайер"
+ },
+ "speaker": {
+  "role": "блогер"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Скетч: чёрно-белая съёмка «под камеру с REC» — мужчина на улице останавливает прохожего; дальше он же у спорткара, вставка ученика, визит в учебный центр (рукопожатие с сотрудником). Хук только в речи: «Bratan, zdrasti» — по-русски, дальше вопрос про узбекский язык неразборчив («Ozbek sinifani va itchid?»). Перевод следующих реплик (написание исправлено): «…по-узбекски вы хорошо понимаете, способы заработать знаете. Научить одному отличному способу? Умеете торговать на Uzum Market?». Смысл: «o'tirgan joyingizda, uyingizda yoki ofisingizda normalniy saqqa topasiz» («saqqa» — разговорное «деньги»), «katta biznesmen bo'lib ketasiz»; обороты учеников (кадр «40 000 000 AYLANMA», в расшифровке ещё «30 000 000 за месяц» — оборот, не доход); курс онлайн или офлайн у метро; «xohlasangiz naqd, xohlasangiz bo'lib to'lash» → «рассрочка». Финал [01:23–01:35]: «Pastda ma'lumotlaringizni qoldirsangiz, bepul darslik(lar) … beriladi. Bittasini ko'rib chiqasiz, ma'qul bo'lsa o'qiysiz… Pastda ssilka bor, hozir ma'lumotlaringizni qoldiring» (написание исправлено) → бесплатные уроки на платформе (ссылка qadam.online/courses/1/309, текст объявления «UZUM bo‘yicha bepul darslar») → «мини-курс». Подача от третьего лица, utm Uzum_Exode_Inomarka → «блогер». Речь узбекская с русскими вставками. Время кадров 3–4 листа обзора не сходится с расшифровкой (вставка «40 000 000» в речи на 00:48) — таймкоды для них не ставлю."
+}

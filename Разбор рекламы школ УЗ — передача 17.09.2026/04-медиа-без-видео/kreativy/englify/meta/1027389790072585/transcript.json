@@ -1,0 +1,126 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.64,
+   "text": "Speaking dan 9 o yanamdakin sevgan qizimla oramizi o'chik qoardim."
+  },
+  {
+   "start": 3.72,
+   "end": 5.54,
+   "text": "Speaking dan 3 naqa darajegi chiximgi,"
+  },
+  {
+   "start": 5.72,
+   "end": 7.84,
+   "text": "English file lovasi judaqam katta yordan berdi."
+  },
+  {
+   "start": 8.2,
+   "end": 11.54,
+   "text": "Sababi, o'maldi da, kopili aldi gaprishki judaqam uyalardim,"
+  },
+  {
+   "start": 11.78,
+   "end": 12.94,
+   "text": "qanaqadir qukul bolardi."
+  },
+  {
+   "start": 13.3,
+   "end": 15.4,
+   "text": "English file lovasi orqali chixanaqa grupalargi,"
+  },
+  {
+   "start": 15.46,
+   "end": 18.12,
+   "text": "yokey kochadi ish xoqadi, qatiyadir borish shartimaz."
+  },
+  {
+   "start": 18.38,
+   "end": 21.22,
+   "text": "Xunca ki, uydu otiriyan xolatda online darajqilchi boladi."
+  },
+  {
+   "start": 21.22,
+   "end": 23.08,
+   "text": "English teleni enda boshlagyan baytim,"
+  },
+  {
+   "start": 23.18,
+   "end": 25.78,
+   "text": "gaprishim, chunushim, umuman nol darajegi didi."
+  },
+  {
+   "start": 25.78,
+   "end": 28.14,
+   "text": "Yani speaking-da umima nol darajıdaydim."
+  },
+  {
+   "start": 28.14,
+   "end": 30.28,
+   "text": "Englifay ilovasni kulab oluyamindan ken"
+  },
+  {
+   "start": 30.28,
+   "end": 32.08,
+   "text": "xamasi butunlayi ozgarib getdi."
+  },
+  {
+   "start": 32.08,
+   "end": 34.64,
+   "text": "Ilovana mangi yokgan bitdi zor tarafi bor iken,"
+  },
+  {
+   "start": 34.64,
+   "end": 37.68,
+   "text": "ingilis dil sidi darajayizgi moslab speaking-i qilnadi."
+  },
+  {
+   "start": 37.68,
+   "end": 39.98,
+   "text": "Yani AI orqali siz bilan yapilashinladi."
+  },
+  {
+   "start": 39.98,
+   "end": 42.18,
+   "text": "Hich qanagayin shirik yogi partner kereyamaz."
+  },
+  {
+   "start": 42.18,
+   "end": 44.08,
+   "text": "Siz sunchagi telefon orqali mazda qilib"
+  },
+  {
+   "start": 44.08,
+   "end": 45.88,
+   "text": "speaking-izdi kushaytarsiz munkun egin."
+  },
+  {
+   "start": 45.88,
+   "end": 47.78,
+   "text": "Siz xam ingilis dildan speaking-i darajayinizni"
+  },
+  {
+   "start": 47.78,
+   "end": 48.78,
+   "text": "oshirmokchi bolsanyiz,"
+  },
+  {
+   "start": 48.78,
+   "end": 50.38,
+   "text": "uchbu xamogladan rohqattan odin,"
+  },
+  {
+   "start": 50.38,
+   "end": 52.14,
+   "text": "ingilisdilini bilimidiyan qizingizgese"
+  }
+ ],
+ "chars": 1015,
+ "chars_per_s": 18.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

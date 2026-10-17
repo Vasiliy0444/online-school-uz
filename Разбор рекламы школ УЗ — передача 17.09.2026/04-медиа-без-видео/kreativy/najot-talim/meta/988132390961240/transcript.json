@@ -1,0 +1,321 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.88,
+   "text": "Qorayta yatu, yus faiz."
+  },
+  {
+   "start": 0.88,
+   "end": 1.88,
+   "text": "Asishakoyla, shu yebtiya."
+  },
+  {
+   "start": 3.5,
+   "end": 4.32,
+   "text": "Sumum qomadiyor,"
+  },
+  {
+   "start": 4.32,
+   "end": 5.72,
+   "text": "qorona ulayti, baqdat duman adamman."
+  },
+  {
+   "start": 5.72,
+   "end": 6.42,
+   "text": "Baqdat tansiz."
+  },
+  {
+   "start": 6.42,
+   "end": 6.64,
+   "text": "Ha."
+  },
+  {
+   "start": 6.64,
+   "end": 7.48,
+   "text": "Harikunakad nisim?"
+  },
+  {
+   "start": 7.48,
+   "end": 7.68,
+   "text": "Ha."
+  },
+  {
+   "start": 7.68,
+   "end": 8.64,
+   "text": "Umar, israf qiyudu?"
+  },
+  {
+   "start": 8.64,
+   "end": 9.64,
+   "text": "Yujumlayimishim bo rada,"
+  },
+  {
+   "start": 9.64,
+   "end": 10.56,
+   "text": "opam oqish eqirgan,"
+  },
+  {
+   "start": 10.56,
+   "end": 11.52,
+   "text": "dinyo yudayla qumna adim."
+  },
+  {
+   "start": 11.52,
+   "end": 12.6,
+   "text": "Oza shunakab ayitda,"
+  },
+  {
+   "start": 12.6,
+   "end": 13.48,
+   "text": "masakad buseyam,"
+  },
+  {
+   "start": 13.48,
+   "end": 15.12,
+   "text": "qor kinna fayda var sabisi aqilamamda."
+  },
+  {
+   "start": 15.12,
+   "end": 16.2,
+   "text": "Macot talim, masan ayot talim,"
+  },
+  {
+   "start": 16.2,
+   "end": 16.96,
+   "text": "yitdi doch ila dik."
+  },
+  {
+   "start": 16.96,
+   "end": 18.4,
+   "text": "Kech payaz sakiz gechayasilad filya."
+  },
+  {
+   "start": 18.4,
+   "end": 18.68,
+   "text": "Ha."
+  },
+  {
+   "start": 18.68,
+   "end": 19.18,
+   "text": "Yashiz?"
+  },
+  {
+   "start": 19.18,
+   "end": 19.68,
+   "text": "16 da."
+  },
+  {
+   "start": 19.68,
+   "end": 21.18,
+   "text": "22-gi yengux irkansi deygen baro?"
+  },
+  {
+   "start": 21.18,
+   "end": 22.18,
+   "text": "Ham basina qadi ishadi."
+  },
+  {
+   "start": 22.18,
+   "end": 23.18,
+   "text": "Nimo 3 ayin lan dizayin?"
+  },
+  {
+   "start": 23.18,
+   "end": 24.48,
+   "text": "2 yil matematike oku gemma."
+  },
+  {
+   "start": 24.48,
+   "end": 26.48,
+   "text": "Univestetki 40 ayin, non-ing baladi ishadi."
+  },
+  {
+   "start": 26.48,
+   "end": 27.58,
+   "text": "2 yil matematike okudam."
+  },
+  {
+   "start": 27.58,
+   "end": 28.98,
+   "text": "Nige matematikasi geyemasi mityan?"
+  },
+  {
+   "start": 28.98,
+   "end": 29.88,
+   "text": "Okurdum, okurdum."
+  },
+  {
+   "start": 29.88,
+   "end": 30.98,
+   "text": "Ohoru conge deydi dam."
+  },
+  {
+   "start": 30.98,
+   "end": 31.98,
+   "text": "Oylaf qaradim ki,"
+  },
+  {
+   "start": 31.98,
+   "end": 34.28,
+   "text": "kami orta olan turiyoldan univesteti oxishadi."
+  },
+  {
+   "start": 34.28,
+   "end": 35.88,
+   "text": "Minimakli van turiyol okub dedimdo,"
+  },
+  {
+   "start": 35.88,
+   "end": 36.98,
+   "text": "grafi dizaynali taladim."
+  },
+  {
+   "start": 36.98,
+   "end": 38.48,
+   "text": "Turiyol uzun ustund ishgay digam olsam,"
+  },
+  {
+   "start": 38.48,
+   "end": 39.48,
+   "text": "grafi dizaynali boychay."
+  },
+  {
+   "start": 39.48,
+   "end": 41.0,
+   "text": "yaxsi gina darazi egi iyigilliy min"
+  },
+  {
+   "start": 41.0,
+   "end": 41.92,
+   "text": "Korayta yad, 100%"
+  },
+  {
+   "start": 41.92,
+   "end": 42.92,
+   "text": "kasi xokoyli shoyabdi"
+  },
+  {
+   "start": 44.52,
+   "end": 46.36,
+   "text": "Balgin, sisi qizikmayan soxan oqiyan dorsim?"
+  },
+  {
+   "start": 46.36,
+   "end": 48.08,
+   "text": "Box, ziyayndi, muqshi qizikdim"
+  },
+  {
+   "start": 48.08,
+   "end": 49.04,
+   "text": "lekin, oqi talmabim"
+  },
+  {
+   "start": 49.04,
+   "end": 50.52,
+   "text": "Kob, nubu uchayna grafid zayn"
+  },
+  {
+   "start": 50.52,
+   "end": 51.64,
+   "text": "matematikyan uchundim"
+  },
+  {
+   "start": 51.64,
+   "end": 53.04,
+   "text": "oqibsiz, oqiyna alibsiz"
+  },
+  {
+   "start": 53.04,
+   "end": 54.48,
+   "text": "Yenli, talay yanimdi sadabi"
+  },
+  {
+   "start": 54.48,
+   "end": 55.44,
+   "text": "hamma da Instagram boq"
+  },
+  {
+   "start": 55.44,
+   "end": 57.12,
+   "text": "uxi Instagram-i eker, seyzi oqi YouTube-ki eker"
+  },
+  {
+   "start": 57.12,
+   "end": 57.72,
+   "text": "ediyan mo seyzi"
+  },
+  {
+   "start": 57.72,
+   "end": 58.76,
+   "text": "ablozhkilar boqla, ziyayndi"
+  },
+  {
+   "start": 58.76,
+   "end": 60.28,
+   "text": "kuchaydagi banerlar, chiroli chisi"
+  },
+  {
+   "start": 90.28,
+   "end": 92.28,
+   "text": "qolad, yuzey laqi qeym olmasin, nimim dimi?"
+  },
+  {
+   "start": 92.28,
+   "end": 94.28,
+   "text": "Otorizmash qolshada?"
+  },
+  {
+   "start": 94.28,
+   "end": 96.28,
+   "text": "Bayamla qovchuli qolshada, dadamlar"
+  },
+  {
+   "start": 96.28,
+   "end": 98.28,
+   "text": "baynitda rasn qar shal."
+  },
+  {
+   "start": 98.28,
+   "end": 100.28,
+   "text": "Hazir kurs pili otorizmol solishyaptim, otorizmol rahmat."
+  },
+  {
+   "start": 100.28,
+   "end": 102.28,
+   "text": "Abike, banyay intilishyiz. Dike, marashu salohat bulan"
+  },
+  {
+   "start": 102.28,
+   "end": 104.28,
+   "text": "munaltilishyiz qelayda. Otorizmol warabayt,"
+  },
+  {
+   "start": 104.28,
+   "end": 106.28,
+   "text": "konu begi toshkin yey shetakil qolad bingi, hofna?"
+  },
+  {
+   "start": 106.28,
+   "end": 108.28,
+   "text": "Masta?"
+  },
+  {
+   "start": 110.28,
+   "end": 112.28,
+   "text": "Fakat, kinim."
+  },
+  {
+   "start": 112.28,
+   "end": 114.28,
+   "text": "Otorizmol rahmat."
+  }
+ ],
+ "chars": 1665,
+ "chars_per_s": 14.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,246 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 9.24,
+   "text": "Hey, Shakhnaza, hello. And she took the IELTS test and she scored an impressive band score of 8.5."
+  },
+  {
+   "start": 30.0,
+   "end": 33.44,
+   "text": "Нахт 10 милион сон кешбай. Бу сізге. Табриклиймзэ."
+  },
+  {
+   "start": 34.44,
+   "end": 36.6,
+   "text": "Халпшахназэ, яна бір бар табриклиймзэ."
+  },
+  {
+   "start": 36.74,
+   "end": 38.24,
+   "text": "Бу нэгай юкар нэтича билэн."
+  },
+  {
+   "start": 38.34,
+   "end": 41.86,
+   "text": "Брикты сауэлэ бариды, сіз IELTS имтхонны бриынч мэтті ташырдизм?"
+  },
+  {
+   "start": 41.86,
+   "end": 43.38,
+   "text": "No, it was my third attempt."
+  },
+  {
+   "start": 43.58,
+   "end": 50.02,
+   "text": "I have taken IELTS exam twice before, and I got 6.5 and 8 in my previous attempts."
+  },
+  {
+   "start": 50.22,
+   "end": 55.16,
+   "text": "International, сіз IELTS X daftur uchunu tanladizmiyo ki, boshka sababan varma?"
+  },
+  {
+   "start": 55.46,
+   "end": 58.4,
+   "text": "I choose international specifically for IELTS preparation."
+  },
+  {
+   "start": 58.4,
+   "end": 62.86,
+   "text": "I love how they provided topic-specific vocabulary for common IELTS topics."
+  },
+  {
+   "start": 63.16,
+   "end": 67.46,
+   "text": "All four skills are taught in balance without one overshadowing the other."
+  },
+  {
+   "start": 67.5,
+   "end": 71.2,
+   "text": "Mr. Aziz, sizge aynan sunaqa natiju orushchun nima bilay ordan berd?"
+  },
+  {
+   "start": 71.24,
+   "end": 74.72,
+   "text": "He helped me the most with my speaking and writing skills,"
+  },
+  {
+   "start": 74.9,
+   "end": 79.2,
+   "text": "arranged speaking sessions out of his busy schedule before my real exam,"
+  },
+  {
+   "start": 79.58,
+   "end": 81.68,
+   "text": "and I'm really grateful for the help I received."
+  },
+  {
+   "start": 81.78,
+   "end": 83.54,
+   "text": "Hamma jawablaagi rahmat qottokon,"
+  },
+  {
+   "start": 83.62,
+   "end": 85.4,
+   "text": "kiri undi Mr. Aziz zikona silkirib,"
+  },
+  {
+   "start": 86.02,
+   "end": 87.58,
+   "text": "bulagi minnad dorchilik bildiramiz."
+  },
+  {
+   "start": 87.58,
+   "end": 88.38,
+   "text": "Let's go!"
+  },
+  {
+   "start": 88.4,
+   "end": 90.4,
+   "text": "Let's go!"
+  },
+  {
+   "start": 92.4,
+   "end": 94.4,
+   "text": "Hello!"
+  },
+  {
+   "start": 94.4,
+   "end": 96.4,
+   "text": "Ladies and gentlemen, this is"
+  },
+  {
+   "start": 96.4,
+   "end": 98.4,
+   "text": "Shaknoza Holoklyovideva."
+  },
+  {
+   "start": 98.4,
+   "end": 100.4,
+   "text": "She is one of my"
+  },
+  {
+   "start": 100.4,
+   "end": 102.4,
+   "text": "higher students and she scored"
+  },
+  {
+   "start": 102.4,
+   "end": 104.4,
+   "text": "an impressive band score of 80.5."
+  },
+  {
+   "start": 106.4,
+   "end": 108.4,
+   "text": "We are done with the question."
+  },
+  {
+   "start": 108.4,
+   "end": 110.4,
+   "text": "Shaknoza, did you study well?"
+  },
+  {
+   "start": 110.4,
+   "end": 112.4,
+   "text": "Yes, I studied."
+  },
+  {
+   "start": 112.4,
+   "end": 114.4,
+   "text": "I studied 100%."
+  },
+  {
+   "start": 114.4,
+   "end": 116.4,
+   "text": "Because Shaknoza"
+  },
+  {
+   "start": 116.4,
+   "end": 119.72,
+   "text": "Қарахыз түголэге берлмастан ұқш қабилияты барыды."
+  },
+  {
+   "start": 119.72,
+   "end": 122.32,
+   "text": "Құшан асан корып, сезиб, маң 100%-i шоң ғэнэндим,"
+  },
+  {
+   "start": 122.32,
+   "end": 124.32,
+   "text": "ұнах қатты нәтижалэргі иришлэргі."
+  },
+  {
+   "start": 124.32,
+   "end": 125.92,
+   "text": "Аджаиб, шахмады, янамыр бар,"
+  },
+  {
+   "start": 125.92,
+   "end": 129.44,
+   "text": "International School tavanıнда сізге 10 milyon son kesbək"
+  },
+  {
+   "start": 129.44,
+   "end": 130.96,
+   "text": "və tabrikliynizi buz sizge."
+  },
+  {
+   "start": 130.96,
+   "end": 131.96,
+   "text": "Бахмэн, Катакан."
+  },
+  {
+   "start": 131.96,
+   "end": 134.52,
+   "text": "Xab, ұqqylchilərgə nime etkən bolad?"
+  },
+  {
+   "start": 134.52,
+   "end": 140.92,
+   "text": "Well, first of all, I would say do not obsess over getting a high score."
+  },
+  {
+   "start": 140.92,
+   "end": 143.44,
+   "text": "Focus on enjoying the process itself."
+  },
+  {
+   "start": 143.72,
+   "end": 147.52,
+   "text": "If you do that, you're going to maintain consistency and discipline."
+  },
+  {
+   "start": 148.24,
+   "end": 152.7,
+   "text": "And about IELTS specifically, try to understand the exam itself"
+  },
+  {
+   "start": 152.7,
+   "end": 155.58,
+   "text": "because IELTS is not just about good English,"
+  },
+  {
+   "start": 155.58,
+   "end": 159.46,
+   "text": "but it's about strategy and good time management as well."
+  },
+  {
+   "start": 159.64,
+   "end": 161.58,
+   "text": "Əgər siz xamşında nətijəgi irishməkçibu ussangiz,"
+  },
+  {
+   "start": 162.26,
+   "end": 163.84,
+   "text": "izahlarda 100 bilinsini qalın."
+  }
+ ],
+ "chars": 2045,
+ "chars_per_s": 12.3,
+ "cyrillic_share": 0.18,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

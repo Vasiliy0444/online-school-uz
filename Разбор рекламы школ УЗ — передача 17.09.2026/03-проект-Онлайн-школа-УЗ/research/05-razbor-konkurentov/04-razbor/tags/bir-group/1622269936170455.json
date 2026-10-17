@@ -1,0 +1,83 @@
+{
+ "creative_id": "1622269936170455",
+ "platform": "meta",
+ "school_id": "bir-group",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "BIR ta'lim grantimizning 2 ta bosqichida o'qigan g'oliblarimiz, allaqachon 600 milliondan ko'proq pul topishdi.",
+  "types": [
+   "соцдоказательство",
+   "результат или доход",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: мужчина в тёмном костюме в помещении (тёплый интерьер, силуэт архитектурного макета на переднем плане); субтитры «BIR ta'lim» → «grantimizning» → «2 ta bosqichida» → «o'qigan g'oliblarimiz»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Bertalim Grandimizin ikite baskishida oqigan ghaliglarimiz,\n[00:03] Allah qachan 600 milyonman kubrak pul tapishti.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "доверие и окупаемость"
+  ],
+  "income_claim": "600 milliondan ko'proq pul topdi (1–2-bosqich g'oliblari, jamoaviy summa)",
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:05] Ikkinchi baskishda, 5 yarim mingdan artik ariyiza,\n[00:08] 341 nafar ghalib, 230 nafar bitir uchi,\n[00:11] wa bugun olardin kubchiligi Allah qachan ishlaq pul tapayotki mutakhasislar.",
+    "timecode": "00:05"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Buning uchun 500 ta grant ajratilgan. 25-sentabr kuni onlayn taqdimot bo'lib o'tadi."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:21] Bu baskishda, jami 500 nafar yashini yitita zamanawi wa yukari daramatli kastlarga bipul oqitamiz.",
+    "timecode": "00:21"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук на кадре необычно точно совпадает с расшифровкой [00:00–00:03] («BIR ta'lim grantimizning 2 ta bosqichida o'qigan g'oliblarimiz, allaqachon 600 milliondan ko'proq pul topishdi» реконструировано из «Bertalim Grandimizin ikite baskishida oqigan ghaliglarimiz, Allah qachan 600 milyonman kubrak pul tapishti», написание исправлено). Расшифровка покрывает почти весь ролик (00:00–00:33 из 38.5 с) и даёт уникальные для этой подборки детали: кампания заявлена как «3-bosqich» (третья волна) гранта Bir Ta'lim, во 2-й волне было «5 yarim mingdan artik ariza, 341 nafar g'olib, 230 nafar bitiruvchi». Заявление о доходе «600 milliondan ko'proq» относится к победителям 1–2 волн, совокупно, не на человека — это доход (pul topish), не оборот. Как и в 1405555864873119, здесь звучит «600 million», а не «650 million», как в остальных четырёх роликах подборки — похоже, эта пара роликов использует более раннюю или другую цифру. Ролик прямо называет Telegram-канал в концовке [00:33] «pastagi padropin tukmasini basib, telegram kanalimizga abunav olin», но link_url всё равно ведёт на лендинг bir-group-webinar.vercel.app, а не в t.me — ролик зовёт в Telegram-канал, но link_url ведёт на лендинг. Имя спикера не названо (хотя подача уверенная, с деталями программы) — по правилу не выдумываю имя, роль «актёр или ведущий»."
+}

@@ -1,0 +1,236 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.5,
+   "text": "Buratan, zrasti. Ozbek sinifani va itchid?"
+  },
+  {
+   "start": 3.5,
+   "end": 6.8,
+   "text": "Ozbejcana bilishmasega. Legiz, ozbejcana yaxshi chunaysiz."
+  },
+  {
+   "start": 6.8,
+   "end": 9.04,
+   "text": "Ipul tapishi yollar, nam yaxshi bilasiz."
+  },
+  {
+   "start": 9.04,
+   "end": 10.88,
+   "text": "Bitda zor yolun orgettama."
+  },
+  {
+   "start": 10.88,
+   "end": 13.38,
+   "text": "Uzun marketti sadaqilishi bilasimu."
+  },
+  {
+   "start": 13.38,
+   "end": 16.68,
+   "text": "Vay, munu orgen va gelish, ane, shuna qangi zor sakka tapishi vatti?"
+  },
+  {
+   "start": 16.68,
+   "end": 19.88,
+   "text": "Muni yuchun kana qadr qa'atdi cayi araynayga alib?"
+  },
+  {
+   "start": 19.88,
+   "end": 23.26,
+   "text": "Ali tolab, nalogam, tolisoynum chabas."
+  },
+  {
+   "start": 23.26,
+   "end": 26.6,
+   "text": "Imdan tashqara otargan cayizda, u izda yoki ofisizdi,"
+  },
+  {
+   "start": 26.6,
+   "end": 28.22,
+   "text": "narmali sakka tapisiz golam."
+  },
+  {
+   "start": 28.22,
+   "end": 29.5,
+   "text": "Serozni etomba?"
+  },
+  {
+   "start": 29.5,
+   "end": 31.02,
+   "text": "Mitte, bat afsil chiltiri mu?"
+  },
+  {
+   "start": 31.02,
+   "end": 33.5,
+   "text": "Uzu marketdi saadaqilish orginlani"
+  },
+  {
+   "start": 33.5,
+   "end": 35.9,
+   "text": "shishani qaddi biznismen bubketiz."
+  },
+  {
+   "start": 35.9,
+   "end": 37.66,
+   "text": "Boddigi orgitdi digaylan oza,"
+  },
+  {
+   "start": 37.66,
+   "end": 39.9,
+   "text": "vashi onlayi saadaqdi tur mili artkachi"
+  },
+  {
+   "start": 39.9,
+   "end": 42.22,
+   "text": "soday qilay digayla orgit sharkandi"
+  },
+  {
+   "start": 42.22,
+   "end": 44.62,
+   "text": "2.000 daga ozhu adangi orgit kamsil uzi."
+  },
+  {
+   "start": 44.62,
+   "end": 45.9,
+   "text": "Itadamash o kuchilarimiza bak."
+  },
+  {
+   "start": 45.9,
+   "end": 48.62,
+   "text": "Umumi abarotimiz 137.000 angi chikdazi un marketdi."
+  },
+  {
+   "start": 48.62,
+   "end": 50.62,
+   "text": "Abarotimizi 40.000.000 naqshu atdi."
+  },
+  {
+   "start": 50.62,
+   "end": 53.98,
+   "text": "Bar ay ichidi 30.000.000 che navirni abarot boldi."
+  },
+  {
+   "start": 53.98,
+   "end": 56.38,
+   "text": "Kursit qimmadmazmik, anay qibokil nadi oz orginlad?"
+  },
+  {
+   "start": 56.38,
+   "end": 58.94,
+   "text": "Kurssa onlayn okhsiz bolad, fama okhsiz bolad."
+  },
+  {
+   "start": 58.94,
+   "end": 62.22,
+   "text": "Agar onlayn bolsa, ke botar shartabaz?"
+  },
+  {
+   "start": 62.22,
+   "end": 64.66,
+   "text": "Da, platformani chi ekraz, oz dana platform boza bar,"
+  },
+  {
+   "start": 64.66,
+   "end": 66.42,
+   "text": "unchi da fama video darsaynani okhsiz bolad."
+  },
+  {
+   "start": 66.42,
+   "end": 68.5,
+   "text": "Agar si toshkinli torsas, shunday,"
+  },
+  {
+   "start": 68.5,
+   "end": 70.06,
+   "text": "baym etorogu yakin jaydiygan,"
+  },
+  {
+   "start": 70.06,
+   "end": 71.34,
+   "text": "shudda okhsiz bolad."
+  },
+  {
+   "start": 71.34,
+   "end": 73.46,
+   "text": "Tol olayan, xalasiz nakti diz,"
+  },
+  {
+   "start": 73.46,
+   "end": 75.5,
+   "text": "xalasiz bolib toleshgan,"
+  },
+  {
+   "start": 75.5,
+   "end": 76.46,
+   "text": "kolosiz bolad."
+  },
+  {
+   "start": 76.46,
+   "end": 78.58,
+   "text": "Man navindan ki, sez, konlar qoydu,"
+  },
+  {
+   "start": 78.58,
+   "end": 80.94,
+   "text": "yari bitdi kurssa, baypulxu veradygan bohsiz silad."
+  },
+  {
+   "start": 80.94,
+   "end": 81.38,
+   "text": "Shunat."
+  },
+  {
+   "start": 81.38,
+   "end": 81.82,
+   "text": "Ha?"
+  },
+  {
+   "start": 81.82,
+   "end": 83.82,
+   "text": "Keli, mittish qilamiz."
+  },
+  {
+   "start": 83.82,
+   "end": 85.82,
+   "text": "Pastda malamatizu qaldir siz,"
+  },
+  {
+   "start": 85.82,
+   "end": 87.82,
+   "text": "bi pul darsli tax edirladi."
+  },
+  {
+   "start": 87.82,
+   "end": 89.82,
+   "text": "Bittdi korib chqazdi, ki maqul bosa uqqoraz."
+  },
+  {
+   "start": 89.82,
+   "end": 91.82,
+   "text": "Maqul bomasa, yanay visho visho yoruraziz."
+  },
+  {
+   "start": 91.82,
+   "end": 93.82,
+   "text": "Pastda silke bar,"
+  },
+  {
+   "start": 93.82,
+   "end": 95.82,
+   "text": "xazi malamatizu qaldiri,"
+  },
+  {
+   "start": 95.82,
+   "end": 97.82,
+   "text": "fayda lamali inlaygan."
+  }
+ ],
+ "chars": 1609,
+ "chars_per_s": 16.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

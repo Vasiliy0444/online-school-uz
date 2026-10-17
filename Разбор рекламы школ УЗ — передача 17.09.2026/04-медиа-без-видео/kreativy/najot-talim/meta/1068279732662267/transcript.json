@@ -1,0 +1,81 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.8,
+   "text": "Toqtayn, ishte bun chali qinadash shartamas?"
+  },
+  {
+   "start": 3.96,
+   "end": 6.82,
+   "text": "Buleman, ishko, dekin xamas gurgurmimsiz."
+  },
+  {
+   "start": 7.02,
+   "end": 8.62,
+   "text": "Bugun sa sizge stres beruadda."
+  },
+  {
+   "start": 8.9,
+   "end": 10.24,
+   "text": "Mundan chixi piti olibar."
+  },
+  {
+   "start": 10.54,
+   "end": 12.9,
+   "text": "Uyan bosa suni intelektin yardam chiklash."
+  },
+  {
+   "start": 13.26,
+   "end": 17.82,
+   "text": "Khazirxam undan faydalan etken bolishiz munkun, amma ojiz khana qadgan natiji almayatken iz anag."
+  },
+  {
+   "start": 18.36,
+   "end": 20.44,
+   "text": "Agar siz suni intelektin qanag ishla shini,"
+  },
+  {
+   "start": 20.66,
+   "end": 23.66,
+   "text": "va sizzi ishi izzi qaysi suni intelektin yaksa bacar alashini bilsiz,"
+  },
+  {
+   "start": 24.0,
+   "end": 25.42,
+   "text": "undan natiji umuman basqa chibolad."
+  },
+  {
+   "start": 25.42,
+   "end": 29.42,
+   "text": "Bunda sizge, Najat Talamni, iki ailik Prompt Engineering kursi yardam berad."
+  },
+  {
+   "start": 30.0,
+   "end": 36.04,
+   "text": "Kursdan songisiz beyim alala rasyam, video, telegram bot, bir sakhipali web sayt va ofis ishlarinizni qildirshiz mogun."
+  },
+  {
+   "start": 36.5,
+   "end": 41.34,
+   "text": "Dostlar, agar siz yanvar oyda ruhatna otodiyan bosiz, birinci oy uchun 30% liy chigirmagi,"
+  },
+  {
+   "start": 41.62,
+   "end": 44.58,
+   "text": "va bundan tashkari yana 6-ta kymat baxa takliklagi ege bolas."
+  },
+  {
+   "start": 44.58,
+   "end": 46.52,
+   "text": "Batarsal barisliq uchun xavalan vasin."
+  }
+ ],
+ "chars": 823,
+ "chars_per_s": 17.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

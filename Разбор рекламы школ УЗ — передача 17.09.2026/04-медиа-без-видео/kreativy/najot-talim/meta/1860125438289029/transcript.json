@@ -1,0 +1,81 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.2,
+   "text": "Kiber xafsizli zor soxhi, o'ili giyam zor, lekin bu soxhi ge kripke maqchi bugillani biti qotta xatasi var. Nimei, tiimi?"
+  },
+  {
+   "start": 7.58,
+   "end": 11.86,
+   "text": "Kobchili murakab mazuladan boshlak koyadi. Bazili hatta sayti buzushke chikirip getip oladi."
+  },
+  {
+   "start": 12.24,
+   "end": 19.32,
+   "text": "Yo, avvalo siz dasturlar no'uzu kanaka ishlaxligini, algoritimlar kanaka ishlaxligini, C-va Python dasturlashdillarini bilishizki."
+  },
+  {
+   "start": 19.56,
+   "end": 22.66,
+   "text": "Bunda sizgiye Najat Alimdagi Dasturlash Foundation kursi yordan beradi."
+  },
+  {
+   "start": 22.66,
+   "end": 29.64,
+   "text": "Aynar manoshun, foundationini tamamlagyan talabalar kiber xafsizlikini orsan boshlashadi ve undigi bilimlerini tez uzlashdishadi."
+  },
+  {
+   "start": 29.64,
+   "end": 31.36,
+   "text": "Chunusubilin, uli dayin mitodan."
+  },
+  {
+   "start": 31.42,
+   "end": 35.36,
+   "text": "Bundan tashqara, yakshi natejakigan kobchilik talabala aynan bir il damidi"
+  },
+  {
+   "start": 35.36,
+   "end": 38.62,
+   "text": "xam foundation, xam kibir khasilikni ugan talabala qisoblan."
+  },
+  {
+   "start": 38.76,
+   "end": 42.64,
+   "text": "Agar sizan bazarini en aq safalardan bitansi kibir khasilikni talabasi,"
+  },
+  {
+   "start": 43.26,
+   "end": 44.82,
+   "text": "manashun safalini egesi bu pomaxchibusiz,"
+  },
+  {
+   "start": 45.02,
+   "end": 46.62,
+   "text": "undi foundationdan boshlayin."
+  },
+  {
+   "start": 46.8,
+   "end": 48.06,
+   "text": "Hazirda qabul dami tatdi."
+  },
+  {
+   "start": 48.3,
+   "end": 49.42,
+   "text": "Mani borakamilga telefon qilin,"
+  },
+  {
+   "start": 49.48,
+   "end": 51.26,
+   "text": "ya ki xab alani basi brokatna otukoyin."
+  }
+ ],
+ "chars": 958,
+ "chars_per_s": 18.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,31 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.34,
+   "text": "Kampitir orgenisit xaflisiz, lekin sizda na kampitir, na onu orgetladigan insambar."
+  },
+  {
+   "start": 4.52,
+   "end": 6.7,
+   "text": "Demek bu taklif siz uchun, aynimu da."
+  },
+  {
+   "start": 6.94,
+   "end": 11.12,
+   "text": "Okul zarayonada siz hem kampitir bilan, hem tajibali ustaz bilan taminlanasiz."
+  },
+  {
+   "start": 11.38,
+   "end": 14.66,
+   "text": "Bunin uchun siz IT-xasning kampitir saadqali kursi geyazili."
+  }
+ ],
+ "chars": 261,
+ "chars_per_s": 17.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

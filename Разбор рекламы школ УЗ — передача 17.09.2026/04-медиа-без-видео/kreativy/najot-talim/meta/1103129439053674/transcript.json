@@ -1,0 +1,111 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.5,
+   "text": "Istalgan kasp egyasy, istalgan uqochi, istalgan universiyati uqa iken uqochi meyden bir saol versi."
+  },
+  {
+   "start": 5.56,
+   "end": 12.96,
+   "text": "Agar hazir fakat bittin aslan urgenarish munkun bolsa va shu nima deyilsa, mey akken bolardim ki, bu prom injinering."
+  },
+  {
+   "start": 13.38,
+   "end": 22.76,
+   "text": "Hurmatli yoshda, aynisa fargana aqli, bu narjot talimda fargana hilyali, aynipaytda uzim urgen akken va siziyem urgen arsi tavsiyaklari yun alish bu prom injinering."
+  },
+  {
+   "start": 22.76,
+   "end": 25.44,
+   "text": "qindildan tavsiya qigan bolardan bu yunarlixti."
+  },
+  {
+   "start": 25.54,
+   "end": 27.42,
+   "text": "Na faqat, Najat Talim, istalgan"
+  },
+  {
+   "start": 27.42,
+   "end": 29.0,
+   "text": "bir joyda suni intelektan"
+  },
+  {
+   "start": 29.0,
+   "end": 31.38,
+   "text": "samarali faydan arsad ugani. Bu kasmaz"
+  },
+  {
+   "start": 31.38,
+   "end": 33.22,
+   "text": "bu kurnikmi. Yani qan deyqilib"
+  },
+  {
+   "start": 33.22,
+   "end": 34.82,
+   "text": "suni intelektin minkunatlar bar"
+  },
+  {
+   "start": 34.82,
+   "end": 37.82,
+   "text": "va ozini insansal ayhatini, bilimlarni,"
+  },
+  {
+   "start": 37.9,
+   "end": 39.64,
+   "text": "kurnikmalarni qan deyqib"
+  },
+  {
+   "start": 39.64,
+   "end": 41.38,
+   "text": "rojantrisi boladi kabi soqalga"
+  },
+  {
+   "start": 41.38,
+   "end": 43.48,
+   "text": "iki aylik suni intelekt"
+  },
+  {
+   "start": 43.48,
+   "end": 44.78,
+   "text": "kursi yordan beradi."
+  },
+  {
+   "start": 45.24,
+   "end": 47.32,
+   "text": "Faqana filanimizden ayni shuk kurs mavjud."
+  },
+  {
+   "start": 47.8,
+   "end": 49.26,
+   "text": "Beym ola qudayi rakamdan getiri"
+  },
+  {
+   "start": 49.26,
+   "end": 51.18,
+   "text": "vimakili shuk qali, yoki linkdi"
+  },
+  {
+   "start": 51.18,
+   "end": 53.1,
+   "text": "basiqaqali malamat alishengiz mükun."
+  },
+  {
+   "start": 53.52,
+   "end": 55.34,
+   "text": "Fargana filialida prom injinierin"
+  },
+  {
+   "start": 55.34,
+   "end": 56.3,
+   "text": "albatda orgenin."
+  }
+ ],
+ "chars": 927,
+ "chars_per_s": 15.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

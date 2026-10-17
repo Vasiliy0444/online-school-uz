@@ -1,0 +1,301 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.4,
+   "text": "Negi shunaki video laqosik, milyonlar koli yap biliyaksim?"
+  },
+  {
+   "start": 2.4,
+   "end": 4.96,
+   "text": "Ismim Abdu Azim, Fargana Viliyat Kuvvetumannam man."
+  },
+  {
+   "start": 4.96,
+   "end": 5.84,
+   "text": "Yashimi 20."
+  },
+  {
+   "start": 5.84,
+   "end": 7.04,
+   "text": "Kandiki uqqa düzne juttalim yi?"
+  },
+  {
+   "start": 7.04,
+   "end": 10.16,
+   "text": "Ganchada mi qizik shim mor, lajot talimni uqtish dizimden habarim mor."
+  },
+  {
+   "start": 10.16,
+   "end": 11.12,
+   "text": "Negi ayinam Python?"
+  },
+  {
+   "start": 11.12,
+   "end": 12.76,
+   "text": "Chunki Foundation am okudim 5 ay."
+  },
+  {
+   "start": 12.76,
+   "end": 14.76,
+   "text": "Jaga script am okudim, azgin aqini aldim."
+  },
+  {
+   "start": 14.76,
+   "end": 16.0,
+   "text": "Python meni uchunakindi."
+  },
+  {
+   "start": 16.0,
+   "end": 17.0,
+   "text": "Otonizmish qirshadi?"
+  },
+  {
+   "start": 17.0,
+   "end": 18.04,
+   "text": "Otonim, uqtuchi."
+  },
+  {
+   "start": 18.04,
+   "end": 19.12,
+   "text": "Kurs pulun kim tolayabdi?"
+  },
+  {
+   "start": 19.12,
+   "end": 19.68,
+   "text": "Yudigilarim."
+  },
+  {
+   "start": 19.68,
+   "end": 21.0,
+   "text": "Kursu bitirudimak maqchiz?"
+  },
+  {
+   "start": 21.0,
+   "end": 26.78,
+   "text": "Asasi maksadim, iki kirish talin uzumi kolum nandime keli alishini bilib turub, ushin yakalab kolumdaki yanshli qilishdi."
+  },
+  {
+   "start": 26.78,
+   "end": 28.86,
+   "text": "Mana braqa qabdiku, harikat kanakilasim yogi."
+  },
+  {
+   "start": 28.86,
+   "end": 32.78,
+   "text": "Yeddin chayi di tugu atib turub, sakizin chayi gi otardi, uzum proyekt pashliyashniyatim maruzi."
+  },
+  {
+   "start": 32.78,
+   "end": 34.06,
+   "text": "Adanizm ochon zogdish yaddi."
+  },
+  {
+   "start": 34.06,
+   "end": 35.06,
+   "text": "Shikirishiz yuzi qum?"
+  },
+  {
+   "start": 35.06,
+   "end": 36.64,
+   "text": "Asasi isi qizi qishim, toruz."
+  },
+  {
+   "start": 36.64,
+   "end": 37.94,
+   "text": "Qan deyqab mofaqa gerishim axchiz?"
+  },
+  {
+   "start": 37.94,
+   "end": 38.86,
+   "text": "Dilar, ney qerislar?"
+  },
+  {
+   "start": 38.86,
+   "end": 39.78,
+   "text": "Qizilar yalm midi?"
+  },
+  {
+   "start": 39.78,
+   "end": 40.62,
+   "text": "Qan dey shikiras?"
+  },
+  {
+   "start": 40.62,
+   "end": 42.18,
+   "text": "Ipam yeh Krishna yadim moroze?"
+  },
+  {
+   "start": 42.18,
+   "end": 43.54,
+   "text": "Zuh, yax shik kan de qalib?"
+  },
+  {
+   "start": 43.54,
+   "end": 44.26,
+   "text": "Inisil soraydi."
+  },
+  {
+   "start": 44.26,
+   "end": 45.54,
+   "text": "Negi shupay kech orgin mandis?"
+  },
+  {
+   "start": 45.54,
+   "end": 46.3,
+   "text": "Nima gedayn ge saz?"
+  },
+  {
+   "start": 46.3,
+   "end": 47.42,
+   "text": "Instagramda fayda nasi mo?"
+  },
+  {
+   "start": 47.42,
+   "end": 48.14,
+   "text": "Hmm, shat."
+  },
+  {
+   "start": 48.14,
+   "end": 49.26,
+   "text": "Yeh istirilay, yedilay."
+  },
+  {
+   "start": 49.26,
+   "end": 50.3,
+   "text": "Karayin, umir zavvalidi."
+  },
+  {
+   "start": 50.3,
+   "end": 51.14,
+   "text": "Otanilaydi enk etta"
+  },
+  {
+   "start": 51.14,
+   "end": 52.38,
+   "text": "Mouamad S. qalib ge paytta"
+  },
+  {
+   "start": 52.38,
+   "end": 53.74,
+   "text": "bolasinin shahsi hayvatini"
+  },
+  {
+   "start": 53.74,
+   "end": 54.78,
+   "text": "azad qilay mandi boylaydi."
+  },
+  {
+   "start": 54.78,
+   "end": 55.94,
+   "text": "Instagram si yokan kandida"
+  },
+  {
+   "start": 55.94,
+   "end": 56.74,
+   "text": "ap chikib otororaydi."
+  },
+  {
+   "start": 56.74,
+   "end": 58.06,
+   "text": "Tak tak tak tak tak ketoraydi."
+  },
+  {
+   "start": 58.06,
+   "end": 59.3,
+   "text": "Dunye karayin, olsot payda boylayab"
+  },
+  {
+   "start": 59.3,
+   "end": 60.78,
+   "text": "Instagramman pabdjin uchiro orses."
+  },
+  {
+   "start": 60.78,
+   "end": 64.22,
+   "text": "Qansiliye varin, kitab oqin, xaymat cuda gozal var ki, shani, ilim o siz."
+  },
+  {
+   "start": 64.22,
+   "end": 67.18,
+   "text": "Camiyatke bir faydali inson bolin ki, oto neziz bila fakhirlansin,"
+  },
+  {
+   "start": 67.18,
+   "end": 68.92,
+   "text": "ne faka da oto neziz, butun mahalla fakhirlansin."
+  },
+  {
+   "start": 68.92,
+   "end": 70.42,
+   "text": "Silaram ozgar si isteslilar, shani,"
+  },
+  {
+   "start": 70.42,
+   "end": 72.92,
+   "text": "neyke shunaka videoyla qoysik, milyonlar koli yap biliyapsin ma?"
+  },
+  {
+   "start": 72.92,
+   "end": 74.42,
+   "text": "Shuki, sizgi o shigebla yok yap."
+  },
+  {
+   "start": 74.42,
+   "end": 76.18,
+   "text": "Sizgi torudan torud ayitalishini istamiyisiz,"
+  },
+  {
+   "start": 76.18,
+   "end": 77.28,
+   "text": "dekin, isti ma zakali yap."
+  },
+  {
+   "start": 77.28,
+   "end": 78.82,
+   "text": "Shuki biliyapsin, usur mamasiz deyan var."
+  },
+  {
+   "start": 78.82,
+   "end": 80.52,
+   "text": "Oki koreyken oda ne farzantlari deyan var."
+  },
+  {
+   "start": 80.52,
+   "end": 82.12,
+   "text": "Suziz yehir bardosh nun chayet ilad, ilad."
+  },
+  {
+   "start": 82.12,
+   "end": 83.44,
+   "text": "Uzgayar ola, asn kuzhizan kilad."
+  },
+  {
+   "start": 83.44,
+   "end": 84.02,
+   "text": "Hareket!"
+  },
+  {
+   "start": 84.02,
+   "end": 85.1,
+   "text": "Otoriniziz shanchini oqlayin."
+  },
+  {
+   "start": 85.1,
+   "end": 85.9,
+   "text": "Otorinizgi rahamat."
+  },
+  {
+   "start": 85.9,
+   "end": 87.4,
+   "text": "Nacuh talim!"
+  }
+ ],
+ "chars": 1985,
+ "chars_per_s": 22.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

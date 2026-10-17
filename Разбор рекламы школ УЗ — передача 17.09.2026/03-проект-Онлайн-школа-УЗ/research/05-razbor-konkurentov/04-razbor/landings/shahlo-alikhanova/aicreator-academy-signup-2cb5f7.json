@@ -1,0 +1,75 @@
+{
+ "url": "https://aicreator.academy/signup",
+ "school_id": "shahlo-alikhanova",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "прочее",
+ "promise": {
+  "found": true,
+  "value": "Создавать, запускать и монетизировать с ИИ «от начала до конца» — программа для нового поколения AI-креаторов; начать учиться меньше чем за минуту",
+  "quote": "Build, ship, and monetize with AI — end to end.\nA production-grade curriculum for the new generation of AI-native creators. 8 modules. Built to compound.\n…\nCreate your account\nStart learning in under a minute.",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": true,
+  "value": "«Новое поколение AI-native креаторов» — без уточнений",
+  "quote": "A production-grade curriculum for the new generation of AI-native creators.",
+  "where": "первый экран"
+ },
+ "program": {
+  "found": true,
+  "modules": 8,
+  "lessons": 20,
+  "duration": "14 часов программы",
+  "format": "онлайн",
+  "quote": "8 modules. Built to compound.\n14h\nof curriculum\n20\nlessons\n∞\nAI tutor"
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [
+   "нет"
+  ]
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "страница регистрации на учебной платформе — цен нет; по Terms of Service пробные аккаунты ограничены до полной оплаты"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "имя",
+   "email",
+   "другое"
+  ]
+ },
+ "next_step": "личный кабинет",
+ "closed": true,
+ "notes": "Регистрация на учебной платформе AI Creators (адрес из карты сайта aicreator.academy; отдаёт 307 на www). Интерфейс на английском, переключатель языка «En». Вход: «Continue with Google», «Sign in with Telegram» или форма «First name», «Last name» (Optional), «Email», «Password» и кнопка «Create account»; «Already have an account? Sign in» ведёт на /login (не снималась). Не регистрировались. Этап «прочее»: это вход в личный кабинет, а не заявка и не оплата (stage_auto «основной продукт» — ошибка скрипта). «Start learning in under a minute.» и строка Terms of Service «Trial accounts may have limited access until full payment.» говорят о пробном доступе после регистрации — что внутри, не проверяли. Цифры программы расходятся между страницами: здесь 8 модулей, 14 часов, 20 уроков и «AI tutor»; в SEO-описании сайта — «five modules, twenty lessons» и «A 14-hour curriculum»; на продающей странице — «5 amaliy modul» и 5 недель. Блок «Build, ship, and monetize with AI — end to end.» есть в тексте страницы, но на мобильном скриншоте 390×844 его нет (видны логотип, «Create your account» и форма) — вероятно, выводится только на широком экране. intel.json пуст — builder и pixels не заполнены. Подвал «© AI Creators»."
+}

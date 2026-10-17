@@ -1,0 +1,146 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.52,
+   "text": "Shaqloq qarayinda Suni intelek bilan 5 milyon daromad tapish,"
+  },
+  {
+   "start": 2.6,
+   "end": 4.02,
+   "text": "kubchilik ki fantastikirgi tüyliyat."
+  },
+  {
+   "start": 4.06,
+   "end": 4.98,
+   "text": "O shun shotopisa buladim?"
+  },
+  {
+   "start": 5.46,
+   "end": 6.6,
+   "text": "Bu manimcha no tors o'qal."
+  },
+  {
+   "start": 6.68,
+   "end": 8.26,
+   "text": "Xazir, chunki Uzbekistan bozordayam,"
+  },
+  {
+   "start": 8.32,
+   "end": 10.44,
+   "text": "pragramiz bumagaylayam, injinoy bumagaylayam,"
+  },
+  {
+   "start": 10.52,
+   "end": 12.28,
+   "text": "oddi insolayam, EIA'yi organib,"
+  },
+  {
+   "start": 12.58,
+   "end": 14.28,
+   "text": "5 milyon da kub daromad tapishatda oygi."
+  },
+  {
+   "start": 14.52,
+   "end": 16.0,
+   "text": "Chunki ulan bitta farqa,"
+  },
+  {
+   "start": 16.1,
+   "end": 18.14,
+   "text": "EIA'yi kereyligini voxtida bilishganib."
+  },
+  {
+   "start": 18.14,
+   "end": 19.56,
+   "text": "Chunki kubchilik xazir Uzbekistan,"
+  },
+  {
+   "start": 19.62,
+   "end": 21.46,
+   "text": "barbar ozu Suni intelek mange kereyimi,"
+  },
+  {
+   "start": 21.46,
+   "end": 24.38,
+   "text": "suni intelek ozu suni di dipotirnya bitda pahitdi,"
+  },
+  {
+   "start": 24.38,
+   "end": 27.02,
+   "text": "bosko odabli eya kereyligini bilib,"
+  },
+  {
+   "start": 27.02,
+   "end": 28.78,
+   "text": "eya yi togri sistema da organib,"
+  },
+  {
+   "start": 28.78,
+   "end": 30.42,
+   "text": "bo arkali daramad topgirishad."
+  },
+  {
+   "start": 30.42,
+   "end": 31.78,
+   "text": "Endi shu videonu kuratgan edici da,"
+  },
+  {
+   "start": 31.78,
+   "end": 33.98,
+   "text": "eya yi bilan daramatda moksibogyanla gedima biroq namiz?"
+  },
+  {
+   "start": 33.98,
+   "end": 36.18,
+   "text": "Agar videoyimu shu joy gechi korishgan bosib,"
+  },
+  {
+   "start": 36.18,
+   "end": 37.58,
+   "text": "demi eya yi xizikishladi bar,"
+  },
+  {
+   "start": 37.58,
+   "end": 39.1,
+   "text": "eya arkali daramat topishmoksib,"
+  },
+  {
+   "start": 39.1,
+   "end": 40.3,
+   "text": "manoshunak insarlegi ma,"
+  },
+  {
+   "start": 40.3,
+   "end": 42.18,
+   "text": "beshqil yolda daramat topishboyichi,"
+  },
+  {
+   "start": 42.18,
+   "end": 43.54,
+   "text": "video dersi taylab goganma,"
+  },
+  {
+   "start": 43.54,
+   "end": 44.94,
+   "text": "video dersini korishchum,"
+  },
+  {
+   "start": 44.94,
+   "end": 46.1,
+   "text": "pastayi xavalan bosib,"
+  },
+  {
+   "start": 46.1,
+   "end": 47.66,
+   "text": "vizitasin bebala korsharimku."
+  }
+ ],
+ "chars": 969,
+ "chars_per_s": 20.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

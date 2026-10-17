@@ -1,0 +1,71 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.36,
+   "text": "Uzumda savda qilmok chaydengiz, amma no togri maksulot tanilashdan korqayapsizmim?"
+  },
+  {
+   "start": 6.06,
+   "end": 10.12,
+   "text": "Kopchilik uzum marketa savdanu boshlamaydi. Asosiy sabab, korqu borligi."
+  },
+  {
+   "start": 10.3,
+   "end": 13.86,
+   "text": "Shunin chun bizning kursda aloqida maksulot tanilashki modul bagishlangyan."
+  },
+  {
+   "start": 14.14,
+   "end": 20.18,
+   "text": "Kursin ispikeri Khayrulayev Sarvar. Marketplacelarda uchilik tajribagi va 5 milyard somda artik aylanmagi egi mutaqasis."
+  },
+  {
+   "start": 20.18,
+   "end": 24.04,
+   "text": "Qurs daumadi, siz uzun marketi sabdani bochlasning tolix jirayinda otasiz."
+  },
+  {
+   "start": 24.36,
+   "end": 31.46,
+   "text": "Daromatli maksulatini tallash, dokoningizni roxatna otgazish, kartishgalar dogr yaradish, sabdani yoyduklayish, ba jiraynatini atmatlashdirash."
+  },
+  {
+   "start": 31.58,
+   "end": 34.58,
+   "text": "Bizdi real uquchlar fikirlari bor, real netijalar bor."
+  },
+  {
+   "start": 34.72,
+   "end": 43.92,
+   "text": "Qursi akunada, sertifikatxan berladik."
+  },
+  {
+   "start": 43.92,
+   "end": 49.68,
+   "text": "Bizni uqutizmimiz boyi qa, alli qo 2-3 mina ortog qadam yudigishin bitiruxilari daromat topishmokta."
+  },
+  {
+   "start": 49.68,
+   "end": 54.42,
+   "text": "Qoşım çasigi biz rasmik okul markazimiz va ofisimiz toshkin shakrini markazda joylashgan."
+  },
+  {
+   "start": 54.68,
+   "end": 58.68,
+   "text": "Agar qaror qabul qilishke bir qadam qolganda toqtagan bolsaniz, yanı keçikdirmay."
+  },
+  {
+   "start": 58.9,
+   "end": 60.78,
+   "text": "Ariza qaldirin va basiz bilan bagilin amiz."
+  }
+ ],
+ "chars": 982,
+ "chars_per_s": 16.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

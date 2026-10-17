@@ -1,0 +1,56 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.3,
+   "text": "Aldin ingilisini orgen gansiz, repeditorgi, kursligi pult olagansiz, lekin 2-3 xaftida tashabki etkansiz."
+  },
+  {
+   "start": 5.4,
+   "end": 8.36,
+   "text": "Man techi razam 13 ilig tajribagi egi ingilisira oqt utsiman,"
+  },
+  {
+   "start": 8.48,
+   "end": 14.06,
+   "text": "va 22-23-24-ci sintiabr kunlari Beepool Online Masterclass tashkilashdirm oqtiman."
+  },
+  {
+   "start": 14.4,
+   "end": 17.66,
+   "text": "Uning mavzusu 0-30 kun ingilisili gaparishini baslash,"
+  },
+  {
+   "start": 17.96,
+   "end": 21.24,
+   "text": "kunigi iligdi sozini samarayli yotlab, unu xayyotlishet alish,"
+  },
+  {
+   "start": 21.54,
+   "end": 24.1,
+   "text": "va ba ilgi sertifikatini alishning samarayli yollari."
+  },
+  {
+   "start": 24.1,
+   "end": 25.94,
+   "text": "Masterclass-ta katnash mutlaka Beepool,"
+  },
+  {
+   "start": 25.94,
+   "end": 27.86,
+   "text": "Faqat xabar anusdugi basib, roi xatna otin"
+  },
+  {
+   "start": 27.86,
+   "end": 30.0,
+   "text": "va yapiq Telegram kanalimgi qoshili barin."
+  }
+ ],
+ "chars": 548,
+ "chars_per_s": 18.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

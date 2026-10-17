@@ -1,0 +1,96 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.5,
+   "text": "Qarazinmik talebalar va ishte ishledigiyallar uchun acayab khabarimiz var."
+  },
+  {
+   "start": 3.88,
+   "end": 6.78,
+   "text": "Kampiuturud uyaqadan kirib, uyaqadan cipirishini istesimim."
+  },
+  {
+   "start": 7.1,
+   "end": 11.48,
+   "text": "Yani, Najat Talim Merkezi Qarazin filialda maksuz Kampiutur Sohidkhali kursini yoylgoydi."
+  },
+  {
+   "start": 11.86,
+   "end": 14.46,
+   "text": "Bu kurs fakat kina Qarazin filiali uchun muzallangan,"
+  },
+  {
+   "start": 14.54,
+   "end": 17.24,
+   "text": "chuki bizi baska filiallarimizda aynan chukabu kursi yok."
+  },
+  {
+   "start": 17.4,
+   "end": 21.24,
+   "text": "Lekin bildi ki, Qarazin da köpçilik kampiuturunu noldan orgarishini isteydi."
+  },
+  {
+   "start": 21.24,
+   "end": 24.68,
+   "text": "və aynan xuddushu maksadda Najat Talim xarazin filialda"
+  },
+  {
+   "start": 24.68,
+   "end": 26.48,
+   "text": "kompüter sadxaligi kursi mavjud"
+  },
+  {
+   "start": 26.48,
+   "end": 28.84,
+   "text": "və istalgan adam bu kursida uqshimukun."
+  },
+  {
+   "start": 28.92,
+   "end": 30.4,
+   "text": "Talabalar, ista isla ucu adamlar,"
+  },
+  {
+   "start": 30.44,
+   "end": 33.7,
+   "text": "yaki kompüterin noldan orgarisna istal ucu barchi insan."
+  },
+  {
+   "start": 34.1,
+   "end": 38.48,
+   "text": "Biz ucayda kompüterini en saddat garyondan baslab,"
+  },
+  {
+   "start": 38.92,
+   "end": 40.72,
+   "text": "siz mustaqil faydana alediyan"
+  },
+  {
+   "start": 40.72,
+   "end": 42.88,
+   "text": "Word, Excel, maksuz dasturlar,"
+  },
+  {
+   "start": 42.98,
+   "end": 45.2,
+   "text": "xamda AI instrumentlarini xam orga tanimiz."
+  },
+  {
+   "start": 45.58,
+   "end": 48.42,
+   "text": "Agar sizgi kompüter sadxaligi kursi qizik bolsa,"
+  },
+  {
+   "start": 48.88,
+   "end": 49.78,
+   "text": "Najat Talimgi girin."
+  }
+ ],
+ "chars": 858,
+ "chars_per_s": 17.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

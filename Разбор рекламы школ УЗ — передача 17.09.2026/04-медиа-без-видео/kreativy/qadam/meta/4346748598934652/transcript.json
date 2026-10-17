@@ -1,0 +1,76 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.5,
+   "text": "Yeddi yil boldi, uydidikriyatdi otiri pul tapishni boshlaganimgi."
+  },
+  {
+   "start": 3.5,
+   "end": 6.5,
+   "text": "Va bilasmi, yillar oti bitanarsan chundim."
+  },
+  {
+   "start": 6.5,
+   "end": 9.0,
+   "text": "Bilasmi, kachan ayol kishi khotirjan bolib,"
+  },
+  {
+   "start": 9.0,
+   "end": 14.0,
+   "text": "hichkim bilan urishmasikin, hichkimna xafi bomidi, khasat qomidi, uydigilani gapi teymasikinin."
+  },
+  {
+   "start": 14.0,
+   "end": 17.0,
+   "text": "Kachanki uzini puli bogindi."
+  },
+  {
+   "start": 17.0,
+   "end": 20.5,
+   "text": "Xazir bunoki imkonyatladan bittasi uzun marketikin."
+  },
+  {
+   "start": 20.5,
+   "end": 24.0,
+   "text": "Gana uydid otiri bi malol onlayn sabda qilishmukun."
+  },
+  {
+   "start": 24.0,
+   "end": 29.0,
+   "text": "Maksulo tan lisiz, uzumgi cay lisiz, qolganini platformani ozuqiladi."
+  },
+  {
+   "start": 29.0,
+   "end": 32.86,
+   "text": "Shun narsilani orgenishda sizgaya qadam edikishin yordam biradi,"
+  },
+  {
+   "start": 33.04,
+   "end": 37.82,
+   "text": "mangi in yokani sod datildi qadam ma qadan sizin noldan daramat gechi obchikshadi."
+  },
+  {
+   "start": 37.98,
+   "end": 42.04,
+   "text": "Agar vloyotdan turub okumakchi bolsangiz, online platformada orgenishngiz mumkun."
+  },
+  {
+   "start": 42.24,
+   "end": 46.92,
+   "text": "Agar toshkende yashasangiz, shundo kasmanatlar metro yonuda okub markez joyolashgan,"
+  },
+  {
+   "start": 47.24,
+   "end": 49.68,
+   "text": "gelib offline darsilarda ishirogechngiz mumkun."
+  }
+ ],
+ "chars": 814,
+ "chars_per_s": 14.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

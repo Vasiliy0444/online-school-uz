@@ -1,0 +1,81 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Bu video yimiz trading va inwisya haqida."
+  },
+  {
+   "start": 2.0,
+   "end": 4.8,
+   "text": "Sakhi bu ichi shubqali, yoki di sawalliga jawab alishun,"
+  },
+  {
+   "start": 4.8,
+   "end": 6.8,
+   "text": "mana shu video no okhirgi chikoy."
+  },
+  {
+   "start": 6.8,
+   "end": 9.44,
+   "text": "Kimdorli bu sakhani na jahiz, yoki di qimar?"
+  },
+  {
+   "start": 9.44,
+   "end": 12.32,
+   "text": "E kimdorli isi, yu pul dan pul tapishti xisableshadi?"
+  },
+  {
+   "start": 12.32,
+   "end": 17.28,
+   "text": "Asli di baska sakhali kabi, trading va inwisya da ham jahiz usullara va na jahiz usullara mawchud."
+  },
+  {
+   "start": 17.28,
+   "end": 20.4,
+   "text": "HBS Akademiyasi Jamasi jahiz usulladi savda qilib gelib,"
+  },
+  {
+   "start": 20.4,
+   "end": 21.84,
+   "text": "ba bunu basqalargi orqetadi."
+  },
+  {
+   "start": 21.84,
+   "end": 24.0,
+   "text": "Kanay qilib jahiz usulladi savda qilish munkum?"
+  },
+  {
+   "start": 24.0,
+   "end": 26.0,
+   "text": "Bu sakhani kelecegi ba ma wuzi?"
+  },
+  {
+   "start": 26.0,
+   "end": 28.0,
+   "text": "daramatoma qanak qalib oxirsam boli."
+  },
+  {
+   "start": 28.0,
+   "end": 30.6,
+   "text": "Man isungi oxshagan sawallagi jawab al ushna xoxlay sizimla,"
+  },
+  {
+   "start": 30.6,
+   "end": 33.22,
+   "text": "offline konsultasi samizda da batafsil jawab veramiz."
+  },
+  {
+   "start": 33.22,
+   "end": 36.22,
+   "text": "Unun kyun pastagi hawalanib asin, varoy xatdan otupayin."
+  }
+ ],
+ "chars": 705,
+ "chars_per_s": 19.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

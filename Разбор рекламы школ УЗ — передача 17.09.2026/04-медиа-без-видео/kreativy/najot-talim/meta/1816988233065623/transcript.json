@@ -1,0 +1,231 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.08,
+   "text": "Hazirchi aylamasi 20 min dollorda oshkan kampanyagi asos solgan."
+  },
+  {
+   "start": 4.08,
+   "end": 5.52,
+   "text": "Dilshot teganiz zillage tanishlamak chuman."
+  },
+  {
+   "start": 5.52,
+   "end": 6.32,
+   "text": "Assalamu alaykum."
+  },
+  {
+   "start": 6.32,
+   "end": 7.32,
+   "text": "Salamu alaykum."
+  },
+  {
+   "start": 7.32,
+   "end": 10.16,
+   "text": "Aki uzirza, vasiz asos solgan kampanyagi aqadiga purbiasiniz."
+  },
+  {
+   "start": 10.16,
+   "end": 11.76,
+   "text": "Ismim Dilshot, basim 25 di."
+  },
+  {
+   "start": 11.76,
+   "end": 13.76,
+   "text": "Devla ayin usus kampanyasigi asos soldik."
+  },
+  {
+   "start": 13.76,
+   "end": 14.84,
+   "text": "Tam uch ayuche boguldi."
+  },
+  {
+   "start": 14.84,
+   "end": 17.36,
+   "text": "Biz sezdiki, tora mas kitabka apchikishimiz munkun."
+  },
+  {
+   "start": 17.36,
+   "end": 20.68,
+   "text": "Hazirchi yamode 10-12 orayliga de bollig var."
+  },
+  {
+   "start": 20.68,
+   "end": 22.08,
+   "text": "Irgesli yapmiz, aurazor."
+  },
+  {
+   "start": 22.08,
+   "end": 24.36,
+   "text": "Kabri klime, yakinda ITPAC rezidenti bogan ikansiz."
+  },
+  {
+   "start": 24.36,
+   "end": 25.04,
+   "text": "Bakhmet, bakhmet."
+  },
+  {
+   "start": 25.04,
+   "end": 26.14,
+   "text": "Necdi projekti iz bar haza?"
+  },
+  {
+   "start": 26.14,
+   "end": 28.76,
+   "text": "Production-da 2.2 plus posa kiri haza."
+  },
+  {
+   "start": 28.76,
+   "end": 31.28,
+   "text": "En kym oylik sizi adimizda necbi?"
+  },
+  {
+   "start": 31.28,
+   "end": 33.66,
+   "text": "Nacot taribna bitirgigan uquchilerdan baqit."
+  },
+  {
+   "start": 33.66,
+   "end": 35.44,
+   "text": "2 ay che boqen, bitirishkaniyad."
+  },
+  {
+   "start": 35.44,
+   "end": 38.06,
+   "text": "Amalyotchi dibaqiludiy, lekin zor isla bir siyabdi."
+  },
+  {
+   "start": 38.06,
+   "end": 39.22,
+   "text": "6 milyon atroftidi."
+  },
+  {
+   "start": 39.22,
+   "end": 40.6,
+   "text": "Nacot taribsi qachan bitirganiz?"
+  },
+  {
+   "start": 40.6,
+   "end": 42.36,
+   "text": "2023-ci il yazidi."
+  },
+  {
+   "start": 42.36,
+   "end": 43.68,
+   "text": "Sizi brinch oyligiz qanchi boqen?"
+  },
+  {
+   "start": 43.68,
+   "end": 44.48,
+   "text": "3 milyon edi."
+  },
+  {
+   "start": 44.48,
+   "end": 45.2,
+   "text": "Yetar vadi?"
+  },
+  {
+   "start": 45.2,
+   "end": 47.2,
+   "text": "Yo, albid, cide qiyin bolardi."
+  },
+  {
+   "start": 47.2,
+   "end": 53.2,
+   "text": "Aslede, uchayilay, veplugoy eshleshke razuboygan amalyotchilayram yeterliyche bazarda lekemeyona oqlamestim."
+  },
+  {
+   "start": 53.2,
+   "end": 58.2,
+   "text": "Chunki shu qademladan ozumotan qinchiliy kordim, agrgin bashqalaxs qilisni oqlamestim."
+  },
+  {
+   "start": 58.2,
+   "end": 63.2,
+   "text": "Olegi gumchi, Kopra kampanyani, yanayam kamandani, yirigira oqqilish niyatimiz bar."
+  },
+  {
+   "start": 63.2,
+   "end": 67.2,
+   "text": "Besh kishi bilan baxlodik, uchayi barmastan mana ondan oqshtik, se niyatimiz bar."
+  },
+  {
+   "start": 67.2,
+   "end": 69.2,
+   "text": "Yili agargeche valkin 50 plus moralismin oqlasi."
+  },
+  {
+   "start": 69.2,
+   "end": 72.2,
+   "text": "Bilisimchi, xaziz Ozbeksan da vizyada istikam oqlamestim."
+  },
+  {
+   "start": 72.2,
+   "end": 73.9,
+   "text": "Aqrqli nukte"
+  },
+  {
+   "start": 73.9,
+   "end": 78.4,
+   "text": "Tazikistani tukuli gemne, leke yashashini tulguz bihsitonini, uz minlatini, uz bih"
+  },
+  {
+   "start": 78.4,
+   "end": 79.64,
+   "text": "Engi reji maksadlari sanakak"
+  },
+  {
+   "start": 79.64,
+   "end": 82.94,
+   "text": "Dursu, koprak qishqorini yaratish, manfaatli preyiktlar qilish"
+  },
+  {
+   "start": 82.94,
+   "end": 86.96,
+   "text": "Engi ila gechi, milyon bakim, milyar dolarlik avaratla gechi yeti boharish"
+  },
+  {
+   "start": 86.96,
+   "end": 89.26,
+   "text": "Albetti, chetki ekspert qilish yadimiz"
+  },
+  {
+   "start": 89.26,
+   "end": 90.94,
+   "text": "Yaponyagi preyikt qiber yapniz"
+  },
+  {
+   "start": 90.94,
+   "end": 94.1,
+   "text": "Amerikadi logistiki kampanyagi shaknomi qiyamniz"
+  },
+  {
+   "start": 94.1,
+   "end": 98.5,
+   "text": "Carayondi, daali soqishab qosa Amerikagan preyikt qishqish arafaznidzi turukniz"
+  },
+  {
+   "start": 98.5,
+   "end": 103.06,
+   "text": "Xop, agar sizam ucizna IT kampaniyazgiye asal samaxchi bolsiz, bu videogi bita like basboyin."
+  },
+  {
+   "start": 103.14,
+   "end": 107.5,
+   "text": "Izoqta, 21-xoshda, qaysi dostiz, qaysi mufakat gerishkan, yazıq qoldarin."
+  },
+  {
+   "start": 107.58,
+   "end": 109.2,
+   "text": "Xop, xamma xursan bolib manfat."
+  }
+ ],
+ "chars": 2016,
+ "chars_per_s": 18.2,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

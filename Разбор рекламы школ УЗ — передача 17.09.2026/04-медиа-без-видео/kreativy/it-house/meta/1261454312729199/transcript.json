@@ -1,0 +1,41 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.84,
+   "text": "Agar farsanttingez juda xam qop telefon uyni otkan bolsa, bu tabi xolad."
+  },
+  {
+   "start": 4.0,
+   "end": 7.48,
+   "text": "Chunkibu ularinin otish davra, vay en asansi davr xosoblanada."
+  },
+  {
+   "start": 7.7,
+   "end": 12.32,
+   "text": "Kelingi sozge yaxshi berta gilibderiman, IT House Foundation Kids kurslarge satberda."
+  },
+  {
+   "start": 12.66,
+   "end": 17.24,
+   "text": "Kursda bomada farsanttingez, ofis tasturlara, kanva va figma, telegram bot yaratir,"
+  },
+  {
+   "start": 17.5,
+   "end": 19.42,
+   "text": "sunintiliktan togur faydalanishna organishada."
+  },
+  {
+   "start": 19.42,
+   "end": 24.02,
+   "text": "Kurs xagda batatsilmal mot kerek bolsa, xozroq bastagi xabol orqali roxatan otin."
+  }
+ ],
+ "chars": 434,
+ "chars_per_s": 17.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

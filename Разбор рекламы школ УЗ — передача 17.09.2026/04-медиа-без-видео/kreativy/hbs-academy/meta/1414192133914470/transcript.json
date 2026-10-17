@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.72,
+   "text": "Tradingini baslimaxsisiz, lekin pulizni oqat kuyishtan, korkasizmiz."
+  },
+  {
+   "start": 4.04,
+   "end": 7.24,
+   "text": "Mumu tradingini emes, bilan ve strategiasi sadaqilishti."
+  },
+  {
+   "start": 7.42,
+   "end": 11.0,
+   "text": "Express kursda siz, bazarini tahlil kiliish, kapitalini bashkarish,"
+  },
+  {
+   "start": 11.22,
+   "end": 14.58,
+   "text": "va riskilerini nazarat kiliishini, amaliyyati traderladan orginasiz."
+  },
+  {
+   "start": 14.82,
+   "end": 18.82,
+   "text": "Darsla toshin shakhra di, offline tarzli ve 12 kishili kichik gruqta bolu botadi."
+  },
+  {
+   "start": 19.22,
+   "end": 21.7,
+   "text": "Tradingini tahmin bilan emes, tizim bilan baslayin."
+  },
+  {
+   "start": 22.02,
+   "end": 25.04,
+   "text": "Batafsil malamat olishchun, registrasi tugmasini basip koyin."
+  }
+ ],
+ "chars": 458,
+ "chars_per_s": 17.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,77 @@
+{
+ "creative_id": "1668221804307044",
+ "platform": "meta",
+ "school_id": "logist-academy",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "AGARDA SIZ IMPORT-EKSPORT MENEJERI BO'LSANGIZ",
+  "types": [
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: подпись собирается по частям «AGARDA SIZ IMPORT-EKSPORT» → «MENEJERI BO'LSANGIZ»; женщина с бейджем LOGIST ACADEMY на жёлтом фоне «АКАДЕМИЯ ТРАНСПОРТ...»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Agar da siz import-export manageri bolisangiz, bu videona aqir gicham gorin.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "экономия времени"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:04] Siz xarijatlarini alindan soplab koyasiz, lekin deklaratsiya baska sonma chikaradi. [00:10] Khushumchi tolovalar payda boladi.",
+    "timecode": "00:04"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Kurslarimizda siz amaliy bilimlarga ega bo'lasiz, real misollar orqali deklaratsiya bilan ishlashni o'rganasiz."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Logist Academy bilan logistika va tashqi savdo sohasida faoliyatingizni boshlang! 📩 Kurslarimizga yoziling"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Apply now",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Единственный креатив порции без обещания дохода — это B2B-питч для действующих импорт-экспорт менеджеров про риск ошибок в декларации и лишние платежи («Khushumchi tolovalar payda boladi»), а не про заработок физлица. Ни один пункт meaning.main не описывает это точно — выбрал «экономия времени» как ближайший по смыслу (избежание лишних расходов/времени на ошибки), но это условная натяжка, хороший пример неоднозначности схемы для таких B2B-хуков. На кадре ~0:22 неожиданная вставка — рука листает график на телефоне поверх бумаг с текстом про «COVID-19» и «Virus paused a month ago» — похоже на постороннее стоковое видео о финансовых рынках, вставленное как иллюстрация «другая сумма» (BOSHQA SUMMA), тематически не связанное напрямую с декларациями; не расшифровал отдельно, т.к. не относится к офферу/хуку. sheet_hook/sheet_overview лежат в папке «1424519332924999», отличной от creative_id «1668221804307044» — как и у 952114621017880 (папка 1501436978368730) и 940631538765168 (папка 2492478537855210), это креативы с ads_with_this_creative>1 (несколько копий объявления на один и тот же ролик), путь к кадрам, видимо, указывает на первую/представительную копию."
+}

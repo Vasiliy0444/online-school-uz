@@ -1,0 +1,66 @@
+{
+ "creative_id": "2557488081435586",
+ "platform": "meta",
+ "school_id": "hbs-academy",
+ "format": {
+  "type": "динамическое (DCO)",
+  "duration_bucket": "не видео",
+  "aspect": "4:5"
+ },
+ "style": [
+  "статичный дизайн"
+ ],
+ "hook": {
+  "verbatim": "Ayollar uchun maxsus taklif",
+  "types": [
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "крупный текст",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: крупный розово-белый заголовок «Ayollar uchun maxsus taklif» над фото пионов/тюльпанов, лого «HBS TREYDERLAR AKADEMIYASI» внизу слева"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для мам",
+   "доход"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: «Uyda qo'shimcha daromad olish uchun moliya bozori va investitsiyalarini imtiyozli narxda kunduzgi guruhlarda o'rganing»"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "скидка"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: «...investitsiyalarini imtiyozli narxda kunduzgi guruhlarda o'rganing»; бейдж «format: Offline»"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "нет призыва",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "никого"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": true,
+ "confidence": "высокая",
+ "notes": "risk = true по правилу инструкции для трейдинга и инвестиций (приведено к одному виду 17.09). Тот же дизайн и текст, что у 1033564622652278 (тот же ad_text дословно), но другой кроп: соотношение 4:5 вместо 9:16, лого HBS переставлено вниз слева вместо верхнего центра. Вероятно, второй формат-вариант того же креатива под другое размещение Meta. Заголовок разбит на три строки («Ayollar uchun / maxsus / taklif»), смысл и цитаты идентичны."
+}

@@ -1,0 +1,41 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.58,
+   "text": "Data Analytica gu malumatlarini okup, undan faydali khulasalar chikalish sanati."
+  },
+  {
+   "start": 4.58,
+   "end": 9.96,
+   "text": "Data Analytica gu bankilar, dokonlar, va hatto ki xukumat malumatlarini taqlilqiladi."
+  },
+  {
+   "start": 10.02,
+   "end": 12.36,
+   "text": "Data Analytica biznisini rivajlandiradi."
+  },
+  {
+   "start": 12.58,
+   "end": 15.44,
+   "text": "Sizni hazırgi qadar basubotkan yolingizdan kilib chukub,"
+  },
+  {
+   "start": 15.72,
+   "end": 20.02,
+   "text": "kengi 5-10 yillikde kanday ishlar bolishini taqlilqilab, anakilab gerad."
+  },
+  {
+   "start": 20.06,
+   "end": 25.04,
+   "text": "Aki xansi Data Analytica kurslarida okin, hamda ozingiz va biznisini rivajlandirim."
+  }
+ ],
+ "chars": 421,
+ "chars_per_s": 16.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

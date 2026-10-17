@@ -1,0 +1,36 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.86,
+   "text": "Uzumda daromad tapmaksiz, lekin iki lamassizmı?"
+  },
+  {
+   "start": 3.04,
+   "end": 5.22,
+   "text": "Biz aynan siz uchun, bepul test ayarladi."
+  },
+  {
+   "start": 5.34,
+   "end": 10.28,
+   "text": "Siz u yurda ati ki 60 saniyada uzum marketta 500 dolarda 2000 dolara gechi daromadga chikalish,"
+  },
+  {
+   "start": 10.36,
+   "end": 11.88,
+   "text": "ya ki chikamasligizdi bilvalas."
+  },
+  {
+   "start": 12.18,
+   "end": 14.52,
+   "text": "Test daot uchun, hazuro pastigi xavalani basin."
+  }
+ ],
+ "chars": 265,
+ "chars_per_s": 18.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

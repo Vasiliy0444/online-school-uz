@@ -1,0 +1,251 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.24,
+   "text": "Men 16 yoshda, ishliyashdan kore duniyarini en yashi universidadari ikirish yakhigat qayim bulayim."
+  },
+  {
+   "start": 4.24,
+   "end": 7.6,
+   "text": "Assalamu alaykum. Ben Asifan Jalorudin. Famiinam Qadirov."
+  },
+  {
+   "start": 7.6,
+   "end": 8.96,
+   "text": "16 yoshda man hazir."
+  },
+  {
+   "start": 8.96,
+   "end": 9.76,
+   "text": "Qayir bensiz?"
+  },
+  {
+   "start": 9.76,
+   "end": 11.36,
+   "text": "Qach qadarim bulayim? Qarishi."
+  },
+  {
+   "start": 11.36,
+   "end": 12.56,
+   "text": "Otorizm yash qilshadi?"
+  },
+  {
+   "start": 12.56,
+   "end": 16.16,
+   "text": "O'yim siyakigasi. Adam qurulishki, boshliklik qiladisu."
+  },
+  {
+   "start": 16.16,
+   "end": 17.68,
+   "text": "Anima uchayinan dasturilash?"
+  },
+  {
+   "start": 17.68,
+   "end": 22.72,
+   "text": "Chunki dasturilashki, o'danam qizik qanma. Bu jayi qasih tasyakigayin. Bu aqan boladili."
+  },
+  {
+   "start": 22.72,
+   "end": 25.76,
+   "text": "Budde uxu gelib, akim xan, tahsi xa gelib, machchoyni."
+  },
+  {
+   "start": 25.76,
+   "end": 28.72,
+   "text": "Foundation bidir nimaq mohchchiz. Qaysi yunarish tali mohchchiz?"
+  },
+  {
+   "start": 28.72,
+   "end": 30.08,
+   "text": "Kibir xafsizlik."
+  },
+  {
+   "start": 30.08,
+   "end": 31.52,
+   "text": "Niga inan? Kibir xafsizlik."
+  },
+  {
+   "start": 31.52,
+   "end": 35.44,
+   "text": "Haz, niga sili hazirda emel tali lamayafsilar, sundi yun intelekt tali lamayafsilar?"
+  },
+  {
+   "start": 35.44,
+   "end": 38.0,
+   "text": "Masala, sundi yun intelekti, musli kirli zaygi zor kasi bil yidilar."
+  },
+  {
+   "start": 38.0,
+   "end": 41.28,
+   "text": "Shariyin, chunki hazi ham manasla sundi yun intelekti ban yun tegil sakli niyad, ham mananasa."
+  },
+  {
+   "start": 41.28,
+   "end": 43.52,
+   "text": "Muzdi qob sistar tabliyla sundi yun intelekti ban yunarish sakli niyad."
+  },
+  {
+   "start": 52.72,
+   "end": 55.84,
+   "text": "xarizmiz, qisizdan qanday qaba şeyyabdi,"
+  },
+  {
+   "start": 55.84,
+   "end": 57.16,
+   "text": "qozdan qanday tutyabdi,"
+  },
+  {
+   "start": 57.16,
+   "end": 58.0,
+   "text": "bolla cilim uxum."
+  },
+  {
+   "start": 58.0,
+   "end": 59.28,
+   "text": "Aga shulardan o sizgina"
+  },
+  {
+   "start": 59.28,
+   "end": 60.76,
+   "text": "kin teknik intriyo qoylan."
+  },
+  {
+   "start": 60.76,
+   "end": 61.8,
+   "text": "Yan, teknik mutakasibna"
+  },
+  {
+   "start": 61.8,
+   "end": 62.76,
+   "text": "siz boqalab qoyshadi,"
+  },
+  {
+   "start": 62.76,
+   "end": 63.68,
+   "text": "qani bilamana qoylin qi,"
+  },
+  {
+   "start": 63.68,
+   "end": 64.84,
+   "text": "agda teknik qaba amalaget"
+  },
+  {
+   "start": 64.84,
+   "end": 65.88,
+   "text": "oru qeladam edib qoylad."
+  },
+  {
+   "start": 65.88,
+   "end": 67.68,
+   "text": "Va, min 16 yuashtda"
+  },
+  {
+   "start": 67.68,
+   "end": 68.44,
+   "text": "ishliyashdan qoyla"
+  },
+  {
+   "start": 68.44,
+   "end": 69.24,
+   "text": "dunyavrli en yakhshin"
+  },
+  {
+   "start": 69.24,
+   "end": 69.72,
+   "text": "universitladayki"
+  },
+  {
+   "start": 69.72,
+   "end": 70.88,
+   "text": "kirish shahikatka qayam bolarim."
+  },
+  {
+   "start": 70.88,
+   "end": 72.08,
+   "text": "Sizgayam, sizgayam shul tavsiyan."
+  },
+  {
+   "start": 72.08,
+   "end": 73.04,
+   "text": "Tili bilasim yoğum?"
+  },
+  {
+   "start": 73.04,
+   "end": 73.6,
+   "text": "Ingiz tili?"
+  },
+  {
+   "start": 73.6,
+   "end": 74.8,
+   "text": "Qay darjadda?"
+  },
+  {
+   "start": 74.96,
+   "end": 75.62,
+   "text": "Pre-intermediate."
+  },
+  {
+   "start": 75.82,
+   "end": 76.88,
+   "text": "Qay darsidarjadzkechkin?"
+  },
+  {
+   "start": 77.06,
+   "end": 77.76,
+   "text": "Esaythi urgenin?"
+  },
+  {
+   "start": 77.8,
+   "end": 79.6,
+   "text": "Binal en yax shunusitlari uqshikirin?"
+  },
+  {
+   "start": 79.7,
+   "end": 80.16,
+   "text": "Ilajibor?"
+  },
+  {
+   "start": 80.38,
+   "end": 80.98,
+   "text": "Qulizan kelad?"
+  },
+  {
+   "start": 81.18,
+   "end": 81.52,
+   "text": "Shorin?"
+  },
+  {
+   "start": 81.8,
+   "end": 84.4,
+   "text": "Fakat xarakatlar vab maqsadlar shunusiyu uqliliyam bolishkiri?"
+  },
+  {
+   "start": 84.56,
+   "end": 84.82,
+   "text": "Qopmo?"
+  },
+  {
+   "start": 85.16,
+   "end": 85.88,
+   "text": "Otor nizgi rahmat."
+  },
+  {
+   "start": 86.1,
+   "end": 86.4,
+   "text": "Chaqam."
+  },
+  {
+   "start": 86.4,
+   "end": 86.7,
+   "text": "Qarxod."
+  }
+ ],
+ "chars": 1589,
+ "chars_per_s": 17.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

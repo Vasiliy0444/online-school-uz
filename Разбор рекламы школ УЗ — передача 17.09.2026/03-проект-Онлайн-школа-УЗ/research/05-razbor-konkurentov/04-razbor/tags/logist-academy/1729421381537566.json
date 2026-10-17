@@ -1,0 +1,76 @@
+{
+ "creative_id": "1729421381537566",
+ "platform": "meta",
+ "school_id": "logist-academy",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "DISPTACHER BOLISHNI ISTAYSIZMI? $2000 OYLIK OLISHNICHI?",
+  "types": [
+   "вопрос",
+   "результат или доход"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: неизменный бейдж «DISPTACHER BOLISHNI ISTAYSIZMI $2000 OYLIK OLISHNICHI» (опечатка «DISPTACHER» вместо «DISPATCHER»); тот же парень, та же машина, что и в 1336564451411706",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "быстрый старт",
+   "страх отстать"
+  ],
+  "income_claim": "$2000 oylik, dispatcher uchun (кадр); 2.000-3.000 dolar (по черновой расшифровке, о выпускниках со стажем 1-2 года); Oylik daromad: 10.000.000 dan 30.000.000 so'mgacha (текст объявления)",
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:12] Min 6 yildan meri logistika diishleymendi. [00:14] Khazir kunda okuchilaram, shagirtlaram, [00:16] logistikanı baslaganiga 1 yil, 2 yil bogan, [00:19] aige 2.000-3.000 dolar pul top yapdi.",
+    "timecode": "00:12"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Joylar: Atigi 10 ta! Bugun ro'yxatdan o'tmasangiz, ertaga joy qolmasligi mumkin."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Joylar: Atigi 10 ta! Bugun ro'yxatdan o'tmasangiz, ertaga joy qolmasligi mumkin."
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "основатель или эксперт"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "средняя",
+ "notes": "A/B-пара с креативом 1336564451411706 — идентичные ролик/расшифровка/финальный кадр «ROYHATDAN O'TING» (~0:33), отличается только текст хук-бейджа: здесь через профессию «диспетчер» и сумму $2000, там — через знание английского и $3000. Хороший пример прямого A/B-теста хука на одном и том же отснятом материале. В самом бейдже опечатка «DISPTACHER» вместо «DISPATCHER» — привёл дословно."
+}

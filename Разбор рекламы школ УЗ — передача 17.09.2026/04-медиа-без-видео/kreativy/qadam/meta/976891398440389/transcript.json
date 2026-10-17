@@ -1,0 +1,56 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.22,
+   "text": "Bizin yuk uchumus uzun marketi ayollar kimini sotuk, uchaydi 75 milyon aylami qildi."
+  },
+  {
+   "start": 4.46,
+   "end": 7.6,
+   "text": "Agersiz xam uzun marketi daromadda baxchi boshsangiz, videonu oqirgechik orin."
+  },
+  {
+   "start": 7.88,
+   "end": 10.48,
+   "text": "Bu tasalifi YouTube qimas, bu bizim mitozikamiz natijasidir."
+  },
+  {
+   "start": 10.48,
+   "end": 14.2,
+   "text": "Bu mitozika orqali biz ikimi na ortaq uchuchlarga talim berib gelmoktamiz."
+  },
+  {
+   "start": 14.42,
+   "end": 17.06,
+   "text": "Bizin kursimizda siz daromatli maksilatlarini talilashini,"
+  },
+  {
+   "start": 17.16,
+   "end": 20.24,
+   "text": "Xtaydan olib gelishini, dukanigisinin togri royhatna otkazishini,"
+  },
+  {
+   "start": 20.32,
+   "end": 22.16,
+   "text": "Noldan basqishima basqish organasiz."
+  },
+  {
+   "start": 22.42,
+   "end": 25.16,
+   "text": "Yangi guruklargi kabul ochik, amma orillar sona cheklengan."
+  },
+  {
+   "start": 25.16,
+   "end": 28.06,
+   "text": "qozurog ariza qoldering ba uzun marketa daromat qalashni boshlayang."
+  }
+ ],
+ "chars": 590,
+ "chars_per_s": 20.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

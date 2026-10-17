@@ -1,0 +1,131 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.46,
+   "text": "Kanri qlib men, tort oyda, IELTS 6 netchadan, IELTS 8 netchage kodarulim."
+  },
+  {
+   "start": 4.8,
+   "end": 6.34,
+   "text": "Salam, menin ismim Kamila."
+  },
+  {
+   "start": 6.52,
+   "end": 9.36,
+   "text": "International da tort oy okup, IELTS dan sakkiz netchage yarishdim."
+  },
+  {
+   "start": 9.48,
+   "end": 11.38,
+   "text": "Listening reading dan sakkiz yarim bal oldum."
+  },
+  {
+   "start": 11.54,
+   "end": 13.54,
+   "text": "Bu yurda, menge katta yordan bergan insondar,"
+  },
+  {
+   "start": 13.62,
+   "end": 16.64,
+   "text": "asosiyoqtu uchim Mr. Aziz, va support teacherim Mr. Maris."
+  },
+  {
+   "start": 16.84,
+   "end": 19.96,
+   "text": "Ulanin kolab kubatlashı, va support teacherimin har kunushu gulanish,"
+  },
+  {
+   "start": 20.06,
+   "end": 23.92,
+   "text": "menge ozymge burgan ishonchibni oshorishga, va shundey bal olushga yordan berdi."
+  },
+  {
+   "start": 23.92,
+   "end": 26.22,
+   "text": "Men IELTS dan aldin 6 bal olgan idim,"
+  },
+  {
+   "start": 26.22,
+   "end": 28.18,
+   "text": "va intarnation darslarga yazolib,"
+  },
+  {
+   "start": 28.58,
+   "end": 30.12,
+   "text": "nafagat inglis tilini darslarda"
+  },
+  {
+   "start": 30.12,
+   "end": 31.7,
+   "text": "va hayotta ham korlashga urgandim."
+  },
+  {
+   "start": 32.0,
+   "end": 33.06,
+   "text": "En qolay tamonushindaki,"
+  },
+  {
+   "start": 33.2,
+   "end": 34.98,
+   "text": "men students elb bilan uy vazifalarini"
+  },
+  {
+   "start": 34.98,
+   "end": 37.12,
+   "text": "xoklagyan paydimda va istagan joyimda bacardim."
+  },
+  {
+   "start": 37.38,
+   "end": 39.24,
+   "text": "IELTS-dan sakizansige yarishgan unuchun,"
+  },
+  {
+   "start": 39.36,
+   "end": 41.26,
+   "text": "intarnation school menga yokimli bonus"
+  },
+  {
+   "start": 41.26,
+   "end": 43.58,
+   "text": "fatta 2 milyon cashback verdir."
+  },
+  {
+   "start": 43.92,
+   "end": 45.58,
+   "text": "Intarnation bu, nafagat bilim,"
+  },
+  {
+   "start": 45.94,
+   "end": 47.26,
+   "text": "balki inovacion teknologilar"
+  },
+  {
+   "start": 47.26,
+   "end": 48.6,
+   "text": "va haqiki nadjalar joyidir."
+  },
+  {
+   "start": 49.04,
+   "end": 50.7,
+   "text": "Sus ham imkoynat ingizni boyu bermayn"
+  },
+  {
+   "start": 50.7,
+   "end": 52.06,
+   "text": "va kurslarga yazolink."
+  },
+  {
+   "start": 52.06,
+   "end": 53.96,
+   "text": "Xawala orqali royxatdan odin."
+  }
+ ],
+ "chars": 1012,
+ "chars_per_s": 17.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

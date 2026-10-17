@@ -1,0 +1,7 @@
+2026-09-16 19:59:51 start: 124 jobs, 2 already done, 122 to fetch
+2026-09-16 20:00:07 [1/122] onlayn vebinar: status=403 ads=6 counter=~8 results no_results=False 16s
+2026-09-16 20:00:57 [2/122] bepul master-klass: status=403 ads=30 counter=~160 results no_results=False 16s
+2026-09-16 20:12:00 [3/122] master klass: status=None ads=0 counter=None no_results=False 62s
+2026-09-16 20:14:03 [4/122] marafon: status=None ads=0 counter=None no_results=False 70s
+2026-09-16 20:15:44 [5/122] bepul marafon: status=None ads=0 counter=None no_results=False 62s
+2026-09-16 20:15:44 stop: 3 empty or failed responses in a row

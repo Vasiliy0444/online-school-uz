@@ -1,0 +1,381 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Yed talib, kurdurga chikasim, rostar."
+  },
+  {
+   "start": 2.0,
+   "end": 3.0,
+   "text": "Assalamu alaykum."
+  },
+  {
+   "start": 3.0,
+   "end": 7.0,
+   "text": "Ismim Shaqbaz, yoshim Yigirmadi, Toshkene vilayati, Angirani shakhri da yashimim."
+  },
+  {
+   "start": 7.0,
+   "end": 10.0,
+   "text": "Ozi, siz Angirani da har kini qatneyisim ya, Toshkene turasim?"
+  },
+  {
+   "start": 10.0,
+   "end": 11.0,
+   "text": "Uchi aydan meri qatneyimim."
+  },
+  {
+   "start": 11.0,
+   "end": 12.0,
+   "text": "Har kini?"
+  },
+  {
+   "start": 12.0,
+   "end": 13.0,
+   "text": "Har kini."
+  },
+  {
+   "start": 13.0,
+   "end": 14.0,
+   "text": "Qiyimmasimim?"
+  },
+  {
+   "start": 14.0,
+   "end": 16.0,
+   "text": "Yed talib, kurdurga chikasim, rostar."
+  },
+  {
+   "start": 16.0,
+   "end": 18.0,
+   "text": "Kurdurga yarimlar da, ukudan turub, yend tarin anib chikasim."
+  },
+  {
+   "start": 18.0,
+   "end": 21.0,
+   "text": "Vay besada. Nime zahir azhbida Toshkiz umas midi?"
+  },
+  {
+   "start": 21.0,
+   "end": 24.2,
+   "text": "Ortaqlarimi lan yasyrdi ki de, bular tar qalib gedisdi shungi de."
+  },
+  {
+   "start": 24.2,
+   "end": 25.96,
+   "text": "Nima ot, boshka ki var dedab shkiyim mi?"
+  },
+  {
+   "start": 25.96,
+   "end": 28.28,
+   "text": "Yendi bari or tanish bilish bilan turgen yaksid e."
+  },
+  {
+   "start": 28.28,
+   "end": 32.04,
+   "text": "Buma yenge, ma ye siz ochig masi zilani, ne ge yenge tanishli orttiramani dimisis?"
+  },
+  {
+   "start": 32.04,
+   "end": 35.8,
+   "text": "Nabo o kubra tanish atir sez hayvatki muafaka gerisiz osorra bolad?"
+  },
+  {
+   "start": 35.8,
+   "end": 36.92,
+   "text": "Aga tohlu tanishli bari bosa?"
+  },
+  {
+   "start": 36.92,
+   "end": 39.0,
+   "text": "Yani bir dide kitab tavsi yakalama, oqali birada."
+  },
+  {
+   "start": 39.0,
+   "end": 41.52,
+   "text": "Marinci, saul ortaya saul oqisis kin oqali birada."
+  },
+  {
+   "start": 41.52,
+   "end": 43.32,
+   "text": "Ne ge koworkinne faydalanin derski misi mi?"
+  },
+  {
+   "start": 43.32,
+   "end": 44.64,
+   "text": "Kis buk geti yapdi, da bari genci."
+  },
+  {
+   "start": 44.64,
+   "end": 46.64,
+   "text": "Abiyyitlar, neyim islar kovorkinda köp körüyo?"
+  },
+  {
+   "start": 46.64,
+   "end": 48.64,
+   "text": "Mashi yiti köp körüyo malikin kovorkinda."
+  },
+  {
+   "start": 48.64,
+   "end": 52.14,
+   "text": "Adatda kovorkindan faydalan ngerlada muafak yirishkani köpra boyan."
+  },
+  {
+   "start": 52.14,
+   "end": 54.14,
+   "text": "Chunku ularda amalat qirqir qipra vaxt boladi."
+  },
+  {
+   "start": 54.14,
+   "end": 57.14,
+   "text": "Vab kovorkindan maksiman faydalan ngin, buj kovorkin siz chonklinin."
+  },
+  {
+   "start": 57.14,
+   "end": 59.14,
+   "text": "Bitirib, qayri qirqir tapshir maqsisiz."
+  },
+  {
+   "start": 59.14,
+   "end": 61.14,
+   "text": "Bitirib, Germania yi qirqish niyat baridi, da ozi?"
+  },
+  {
+   "start": 61.14,
+   "end": 65.14,
+   "text": "Hazir min tavsiyan birin churdunda siz junior ligdan chikbir qirqish qiri, harqan qasiyir."
+  },
+  {
+   "start": 65.14,
+   "end": 68.14,
+   "text": "bunun uchun, hizli shkiri ebrar joydi, amalikikir shkiri"
+  },
+  {
+   "start": 68.14,
+   "end": 71.14,
+   "text": "yakinda biz grand helamakldi, Uzbekistan diyi en zur ballarini yigib"
+  },
+  {
+   "start": 71.14,
+   "end": 74.14,
+   "text": "ularda bir yil davamidir ojnatarimak shigidik, elli nafar olmak shigidik"
+  },
+  {
+   "start": 74.14,
+   "end": 77.14,
+   "text": "u yendir tasavvukliy, u 5.000 adam, 5.000 adam"
+  },
+  {
+   "start": 77.14,
+   "end": 80.14,
+   "text": "juda katli nasilar bilani yigilgan, 1.000 tasi jali ifirida katli nashigan"
+  },
+  {
+   "start": 80.14,
+   "end": 83.14,
+   "text": "usun 1.000 tadan 250 tasi kudja topshirigan"
+  },
+  {
+   "start": 83.14,
+   "end": 86.14,
+   "text": "180 nafarini olidik, elli nafar olamiz diganmiz uz"
+  },
+  {
+   "start": 86.14,
+   "end": 89.14,
+   "text": "lekin yigdigiye adam qamadi, shuyamsim, maksadlari, xaraketlari"
+  },
+  {
+   "start": 89.14,
+   "end": 91.72,
+   "text": "oz yin xata yin a etsige, mux xata larnasana beryab"
+  },
+  {
+   "start": 91.72,
+   "end": 93.72,
+   "text": "mux xatlarin a etsige, mux xatlarin asana beryab"
+  },
+  {
+   "start": 93.72,
+   "end": 95.72,
+   "text": "rezalarin a etsige, rezalarin asana beryab"
+  },
+  {
+   "start": 95.72,
+   "end": 97.72,
+   "text": "qasitab okuyansan, onta kitab asana beryab"
+  },
+  {
+   "start": 97.72,
+   "end": 100.46,
+   "text": "yeqtiki asansi bomiyarun shun, brutsasan nafar o adanda olo"
+  },
+  {
+   "start": 100.46,
+   "end": 103.0,
+   "text": "se shunak o adam ola lasin, oz yige oz yige sawal gari"
+  },
+  {
+   "start": 103.0,
+   "end": 105.0,
+   "text": "nama bochon sizir kanpa elash kivalish kiri"
+  },
+  {
+   "start": 105.0,
+   "end": 107.0,
+   "text": "gidla bu sawal larda"
+  },
+  {
+   "start": 107.0,
+   "end": 109.0,
+   "text": "jawabani bilmaseyiz, sizir kanpa elash kivalimiyin"
+  },
+  {
+   "start": 109.0,
+   "end": 111.0,
+   "text": "harekat kiliyin, sizishliyin"
+  },
+  {
+   "start": 111.0,
+   "end": 112.0,
+   "text": "qolga okuma yasisti?"
+  },
+  {
+   "start": 112.0,
+   "end": 113.0,
+   "text": "Ataniz soledin pilini?"
+  },
+  {
+   "start": 113.0,
+   "end": 114.0,
+   "text": "Dadan toledi."
+  },
+  {
+   "start": 114.0,
+   "end": 115.0,
+   "text": "Nadeziye rahmat."
+  },
+  {
+   "start": 115.0,
+   "end": 117.0,
+   "text": "Hammana ataniz soledik, torumu?"
+  },
+  {
+   "start": 117.0,
+   "end": 121.0,
+   "text": "Tashkendi yasaj, halaz jad, boshka, kishine summalan maski bular."
+  },
+  {
+   "start": 121.0,
+   "end": 123.0,
+   "text": "Va atanizdi haqqani halakli."
+  },
+  {
+   "start": 123.0,
+   "end": 127.0,
+   "text": "Haqqani halakliyish, tohru okish, intizam milan harekat qilayish, oyn kulgi berilmasi."
+  },
+  {
+   "start": 127.0,
+   "end": 130.0,
+   "text": "Bu, kompytor bilan oyna oyna shanm munkun?"
+  },
+  {
+   "start": 130.0,
+   "end": 131.0,
+   "text": "Bu, kompytor bilan okish okishan munkun?"
+  },
+  {
+   "start": 131.0,
+   "end": 133.0,
+   "text": "Bu, kompytor bilan kino kory shanm munkun?"
+  },
+  {
+   "start": 133.0,
+   "end": 138.0,
+   "text": "Atonez siy xupay kechi yedirdi, iqchirdi, okytdi pülye, nimad siy soli siy zi verdi."
+  },
+  {
+   "start": 138.0,
+   "end": 139.0,
+   "text": "Buna oqlax kiri."
+  },
+  {
+   "start": 139.0,
+   "end": 140.0,
+   "text": "Dadez nime xqilish aqdi?"
+  },
+  {
+   "start": 140.0,
+   "end": 141.0,
+   "text": "Sir bo mese."
+  },
+  {
+   "start": 141.0,
+   "end": 144.0,
+   "text": "Dada, shakhtiyor bo yin, an qirindi."
+  },
+  {
+   "start": 144.0,
+   "end": 145.0,
+   "text": "Kaun dexliygin."
+  },
+  {
+   "start": 145.0,
+   "end": 146.0,
+   "text": "Hazir nime xqilish aqdi?"
+  },
+  {
+   "start": 146.0,
+   "end": 147.0,
+   "text": "Hazir pensiya gechiqgan."
+  },
+  {
+   "start": 147.0,
+   "end": 149.0,
+   "text": "Hali, hazir pensiyan qisabim okytchiyey ebtim sizi?"
+  },
+  {
+   "start": 149.0,
+   "end": 150.0,
+   "text": "An qish, naqay."
+  },
+  {
+   "start": 150.0,
+   "end": 151.0,
+   "text": "Qayin."
+  },
+  {
+   "start": 151.0,
+   "end": 152.0,
+   "text": "Allah razibusin."
+  },
+  {
+   "start": 152.0,
+   "end": 154.0,
+   "text": "Ba, atonezi shuanxini oqlayin."
+  },
+  {
+   "start": 154.0,
+   "end": 155.0,
+   "text": "Yax, sizdexliygin."
+  },
+  {
+   "start": 155.0,
+   "end": 157.0,
+   "text": "Shikirsiz atiyin mingi."
+  },
+  {
+   "start": 157.0,
+   "end": 158.0,
+   "text": "Qitama."
+  }
+ ],
+ "chars": 3146,
+ "chars_per_s": 19.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 1,
+ "quality": "черновое"
+}

@@ -1,0 +1,56 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.46,
+   "text": "Deklaratsiya sahasini nol dan orgen maqchimisis?"
+  },
+  {
+   "start": 2.86,
+   "end": 7.52,
+   "text": "Agar siz buga altir, menajir, yoki, lagiz bolsangiz, bu aynan siz uqu."
+  },
+  {
+   "start": 7.66,
+   "end": 13.44,
+   "text": "Burailik deklaratsiya kurslarimizda ozingizga kulay bolgan tarzda offline yoki online oqishingiz mumdur."
+  },
+  {
+   "start": 13.58,
+   "end": 18.3,
+   "text": "Kursimiz Ozbekistan Respublikasi Baxkona Komitasinin oku dasirge maqhuk amalga ashirladi"
+  },
+  {
+   "start": 18.3,
+   "end": 20.94,
+   "text": "var rasmi sertifikatgan tagdim yetiladi."
+  },
+  {
+   "start": 20.94,
+   "end": 25.98,
+   "text": "Darslar Baxkona rasmilashtirva va tif sahasda 10 yildan artig tajribi gege,"
+  },
+  {
+   "start": 26.12,
+   "end": 27.98,
+   "text": "buta khaysilar tomandan olub bariladi."
+  },
+  {
+   "start": 27.98,
+   "end": 31.58,
+   "text": "Diklaratsa buu barqararkas wa yangi daramatki chixi olay."
+  },
+  {
+   "start": 31.58,
+   "end": 34.22,
+   "text": "Kurski yazili shun xaziraq royqatdan odiy."
+  }
+ ],
+ "chars": 570,
+ "chars_per_s": 12.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

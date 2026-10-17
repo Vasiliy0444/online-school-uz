@@ -1,0 +1,66 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.28,
+   "text": "Ma endi ingilisra organishki kesh qaldim."
+  },
+  {
+   "start": 2.28,
+   "end": 4.44,
+   "text": "Yawshimam otiket, dibo ili sizma?"
+  },
+  {
+   "start": 4.44,
+   "end": 7.16,
+   "text": "Bana techi razam 13-lik tajribagi ege ingilisra oqtutsiman"
+  },
+  {
+   "start": 7.16,
+   "end": 9.92,
+   "text": "va 22-nchi, 23-nchi, 24-nchi Sintiabur kunlare"
+  },
+  {
+   "start": 9.92,
+   "end": 12.72,
+   "text": "Bepul online masterclass-ta shkilashdirmakhtiman."
+  },
+  {
+   "start": 12.72,
+   "end": 16.76,
+   "text": "Ushbu masterclass-ta 0-dan 30-kin 3-di kundalik mauzurardi geyapirishni."
+  },
+  {
+   "start": 16.76,
+   "end": 20.12,
+   "text": "Kunigi elikdige cham sozlarini onsonyotlab, real hayatli shatish"
+  },
+  {
+   "start": 20.12,
+   "end": 24.16,
+   "text": "va ba 2-di darajaligi sertifikatini alishdini samarali yollarini orgatiman."
+  },
+  {
+   "start": 24.16,
+   "end": 25.96,
+   "text": "Masterclass-ta qatnash mutlaka Bepul,"
+  },
+  {
+   "start": 25.96,
+   "end": 27.7,
+   "text": "Fakat xabarabamustu qibasib roi xatnamotin"
+  },
+  {
+   "start": 27.7,
+   "end": 29.74,
+   "text": "Wa ya pqistirigam kanalimgi qoshil balin"
+  }
+ ],
+ "chars": 567,
+ "chars_per_s": 18.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

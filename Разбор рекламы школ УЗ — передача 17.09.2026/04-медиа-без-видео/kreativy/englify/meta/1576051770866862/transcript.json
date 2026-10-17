@@ -1,0 +1,96 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.3,
+   "text": "Birpaytlar ingilis dil digaplashki o'daam topolmaganim uchun tel o'ganishmiga o'ylar, balki yillarga chuzilgan."
+  },
+  {
+   "start": 5.38,
+   "end": 10.38,
+   "text": "Bugun dunyonin topun yusitlaridan barada 100-200 grand bulan o'qiman, va turli davratlarga sayokat qal yapman."
+  },
+  {
+   "start": 10.46,
+   "end": 12.8,
+   "text": "Bularnii basch yasi isa pitta karordan boshlangan."
+  },
+  {
+   "start": 13.06,
+   "end": 14.5,
+   "text": "Ingilis dilini o'ganish."
+  },
+  {
+   "start": 14.58,
+   "end": 15.92,
+   "text": "Lekin bu yol oson bolmagan."
+  },
+  {
+   "start": 16.08,
+   "end": 21.26,
+   "text": "Ingilis dil digaplashadini o'daam topishim junayam qiyinidi."
+  },
+  {
+   "start": 21.34,
+   "end": 24.78,
+   "text": "Dostlarimiza diyarliyi baxt bolmasi, yoki ingilis dilini bulishmasi."
+  },
+  {
+   "start": 24.82,
+   "end": 27.26,
+   "text": "Khazirisi bunin yichimi ingilifayi bulan anchi oson."
+  },
+  {
+   "start": 27.26,
+   "end": 31.7,
+   "text": "En kopdi oqqan fokusasi yasa, AI bilanchiksiz ingilishchada sukbat qilish imkon yadim."
+  },
+  {
+   "start": 31.74,
+   "end": 36.72,
+   "text": "Xato qilishdan uyalmay siz, istalgan mazuda qablashay siz va AI siznin gramatika ingiz talatuz ingiz xanda,"
+  },
+  {
+   "start": 36.88,
+   "end": 39.18,
+   "text": "sozdan lao ingiz boychay darxar fikir bildiradi."
+  },
+  {
+   "start": 39.3,
+   "end": 42.98,
+   "text": "Bir ayitdanimsiz shugulansayngiz, ingilishchi qablash ingizge ishanja xaydi,"
+  },
+  {
+   "start": 43.12,
+   "end": 46.56,
+   "text": "sozlargan tez roh qadlay siz va gavtuzush ingiz asanlashadi."
+  },
+  {
+   "start": 46.7,
+   "end": 49.48,
+   "text": "Agar mingi bir nishiyil aldin shunday ilavadin tavsiya qilishkanda,"
+  },
+  {
+   "start": 49.48,
+   "end": 52.64,
+   "text": "ingilis dilini bir yilli su dey ichi vargan bolardim."
+  },
+  {
+   "start": 52.64,
+   "end": 55.2,
+   "text": "Siz xamgilis dilin organa bravan yaprash moxshi borsan,"
+  },
+  {
+   "start": 55.26,
+   "end": 57.64,
+   "text": "giz, fasi gax xavala orqari roi xatna odin."
+  }
+ ],
+ "chars": 1113,
+ "chars_per_s": 19.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

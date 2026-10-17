@@ -1,0 +1,406 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.76,
+   "text": "Katsa damla yapashgeni, ule ipele?"
+  },
+  {
+   "start": 1.76,
+   "end": 2.7,
+   "text": "Yvashi zinyetchidi?"
+  },
+  {
+   "start": 2.7,
+   "end": 5.7,
+   "text": "Salam alaykum, ismi Muhammad Waliyev."
+  },
+  {
+   "start": 5.7,
+   "end": 8.54,
+   "text": "176 inchi Foundation groqida oqiyman."
+  },
+  {
+   "start": 8.54,
+   "end": 10.74,
+   "text": "Yashim 16 di, 11 sini fokutchisi man."
+  },
+  {
+   "start": 10.74,
+   "end": 11.76,
+   "text": "Tashi kenida toqilgenman."
+  },
+  {
+   "start": 11.76,
+   "end": 15.16,
+   "text": "Ata nama Tashi kenida yashab, ayim ugya qaridi, dadan biznismenli."
+  },
+  {
+   "start": 15.16,
+   "end": 17.16,
+   "text": "Foundeshinda aldin, hesh narsani bilmaksdim."
+  },
+  {
+   "start": 17.16,
+   "end": 20.16,
+   "text": "Kamputurni umrumda ochimegenman, notebookki kilib."
+  },
+  {
+   "start": 20.16,
+   "end": 23.36,
+   "text": "Foundeshindan kutimegenimdan kore koprondar sorgendim."
+  },
+  {
+   "start": 23.36,
+   "end": 25.74,
+   "text": "Foundeshindan ma xammagi tavsiya qilaman."
+  },
+  {
+   "start": 25.74,
+   "end": 28.56,
+   "text": "Bangi oxshab IT faqad suzini biladigen baallagi,"
+  },
+  {
+   "start": 28.56,
+   "end": 29.68,
+   "text": "Foundation tavsiye"
+  },
+  {
+   "start": 29.68,
+   "end": 31.82,
+   "text": "Yaw shligimdan bari ma IT-gi qizi qardim"
+  },
+  {
+   "start": 31.82,
+   "end": 33.28,
+   "text": "Kiga nimdi soray ishti"
+  },
+  {
+   "start": 33.28,
+   "end": 35.44,
+   "text": "Mani bulay saytisi okhazdi, ishtan sandi ishti"
+  },
+  {
+   "start": 35.44,
+   "end": 37.16,
+   "text": "Foundationgi bulmasam okhiz kiri"
+  },
+  {
+   "start": 37.16,
+   "end": 39.44,
+   "text": "Mani macbulat trishmadi, mangi tavsiye ber ishti"
+  },
+  {
+   "start": 39.44,
+   "end": 41.24,
+   "text": "Kat adamla yapishkendi, uliyipani"
+  },
+  {
+   "start": 41.24,
+   "end": 42.2,
+   "text": "Yaw shligiz nitcidi"
+  },
+  {
+   "start": 42.2,
+   "end": 42.86,
+   "text": "16-di"
+  },
+  {
+   "start": 42.86,
+   "end": 45.42,
+   "text": "Geni 5 yashali yigitlaran bazisi di yapirarom itti"
+  },
+  {
+   "start": 45.42,
+   "end": 48.28,
+   "text": "Kandi ka bunaka akili bu yetish tizdimaxi mani yaw shligizdan?"
+  },
+  {
+   "start": 48.28,
+   "end": 49.36,
+   "text": "Otanizmima qab tabi atibiz"
+  },
+  {
+   "start": 49.36,
+   "end": 51.96,
+   "text": "Indi brenchi bolib kat tarakmati otanam geytishm kiri"
+  },
+  {
+   "start": 51.96,
+   "end": 55.16,
+   "text": "Bazani en bashtan-axirga chi xammasni ulamangi berishkan."
+  },
+  {
+   "start": 55.16,
+   "end": 59.08,
+   "text": "Ilim kini shi, adamgi qanag gap laishi, mamlan qanag qoishi,"
+  },
+  {
+   "start": 59.08,
+   "end": 60.52,
+   "text": "xammasni atanam namrlim."
+  },
+  {
+   "start": 60.52,
+   "end": 62.12,
+   "text": "Abar azaqusna atanizdi, Muhammad."
+  },
+  {
+   "start": 62.12,
+   "end": 62.76,
+   "text": "Rakhmatik."
+  },
+  {
+   "start": 62.76,
+   "end": 64.76,
+   "text": "Muhammad, qandi qib qib qazidin jad talimgi?"
+  },
+  {
+   "start": 64.76,
+   "end": 65.92,
+   "text": "Ortaqim tavsiyak kuldi."
+  },
+  {
+   "start": 65.92,
+   "end": 67.0,
+   "text": "Ortaqim bot doqigan."
+  },
+  {
+   "start": 67.0,
+   "end": 68.32,
+   "text": "Barsaym shayman bu misan."
+  },
+  {
+   "start": 68.32,
+   "end": 69.8,
+   "text": "Qob IT jayladan qora,"
+  },
+  {
+   "start": 69.8,
+   "end": 71.0,
+   "text": "najat talim en zoru."
+  },
+  {
+   "start": 71.0,
+   "end": 72.08,
+   "text": "Najat talimda basli,"
+  },
+  {
+   "start": 72.08,
+   "end": 73.4,
+   "text": "axiri sanda zoru oladdi."
+  },
+  {
+   "start": 73.4,
+   "end": 75.36,
+   "text": "Foundationdaki qasimilmarsigit mohtsis?"
+  },
+  {
+   "start": 75.36,
+   "end": 76.08,
+   "text": "Kibirxafsili."
+  },
+  {
+   "start": 76.08,
+   "end": 77.28,
+   "text": "Ne geynan kibirxafizlik?"
+  },
+  {
+   "start": 77.28,
+   "end": 80.7,
+   "text": "Kibirxafizliyinda man uchun kelechagi ket de sakhi,"
+  },
+  {
+   "start": 80.7,
+   "end": 82.5,
+   "text": "xarid kelechagi ket de boladi."
+  },
+  {
+   "start": 82.5,
+   "end": 83.66,
+   "text": "Negi onladi boli yapsiz?"
+  },
+  {
+   "start": 83.66,
+   "end": 86.0,
+   "text": "Chunkiki yoma adamla barbir barbir dunyadi."
+  },
+  {
+   "start": 86.0,
+   "end": 88.0,
+   "text": "Ula barbir kompyturblan islashadi."
+  },
+  {
+   "start": 88.0,
+   "end": 89.92,
+   "text": "Ken musali chun bankomar makchi boladi."
+  },
+  {
+   "start": 89.92,
+   "end": 92.48,
+   "text": "Yahshi, bu yoshiz uchun fikirlar oz yomanmaz,"
+  },
+  {
+   "start": 92.48,
+   "end": 93.08,
+   "text": "jude yashi."
+  },
+  {
+   "start": 93.08,
+   "end": 95.24,
+   "text": "Shaxsi rovacilani uchun nimi lakli yapsiz, Muhammad?"
+  },
+  {
+   "start": 95.24,
+   "end": 96.16,
+   "text": "Kitab okub turasi mu?"
+  },
+  {
+   "start": 96.16,
+   "end": 96.92,
+   "text": "Echitib turaman."
+  },
+  {
+   "start": 96.92,
+   "end": 98.52,
+   "text": "Akhirgi matili ken okudum."
+  },
+  {
+   "start": 98.52,
+   "end": 100.08,
+   "text": "Cadiytlar haqidi, bitde kitab okudum."
+  },
+  {
+   "start": 100.08,
+   "end": 100.84,
+   "text": "Qasi ayna?"
+  },
+  {
+   "start": 100.84,
+   "end": 101.88,
+   "text": "Cholpan haqdi."
+  },
+  {
+   "start": 101.88,
+   "end": 102.38,
+   "text": "Zor."
+  },
+  {
+   "start": 102.38,
+   "end": 104.28,
+   "text": "Coworkingda xayr darjizda faydani nasiz?"
+  },
+  {
+   "start": 104.28,
+   "end": 105.38,
+   "text": "Hech qolmayanma ki o siz?"
+  },
+  {
+   "start": 105.38,
+   "end": 108.88,
+   "text": "Coworkingda faqad ikinci-uchinci ay cu deyam qatdiqchogurlan gaman,"
+  },
+  {
+   "start": 108.88,
+   "end": 111.78,
+   "text": "torinci ayda anam kopinci xatralishi baxiladli,"
+  },
+  {
+   "start": 111.78,
+   "end": 113.28,
+   "text": "balam yudi ishlab turgin didli."
+  },
+  {
+   "start": 113.28,
+   "end": 115.98,
+   "text": "O azdar yadif koyim, xatrami, aqi coworkingda bolisda?"
+  },
+  {
+   "start": 115.98,
+   "end": 117.58,
+   "text": "Itkana yurim, man bulam xiz didim,"
+  },
+  {
+   "start": 117.58,
+   "end": 118.78,
+   "text": "ma qarab turasman yudim."
+  },
+  {
+   "start": 118.78,
+   "end": 120.28,
+   "text": "Otta ishlamakchi ma ayir didim,"
+  },
+  {
+   "start": 120.28,
+   "end": 121.88,
+   "text": "lekin anam yi qarish chikmimi man,"
+  },
+  {
+   "start": 121.88,
+   "end": 122.48,
+   "text": "xab didim,"
+  },
+  {
+   "start": 122.48,
+   "end": 126.2,
+   "text": "Giyin xuda uxlasa legin ki bir xafs legi otsan botdo uxlab qalish niyatunan bot."
+  },
+  {
+   "start": 126.2,
+   "end": 128.48,
+   "text": "Ya uxlab qalishi ustat yor legin."
+  },
+  {
+   "start": 128.48,
+   "end": 130.68,
+   "text": "Uxlamasiz, oyna oylamasiz, qorxin yetdi gemotdur."
+  },
+  {
+   "start": 130.68,
+   "end": 131.64,
+   "text": "Bito n tun ishlasam niyat."
+  },
+  {
+   "start": 131.64,
+   "end": 133.32,
+   "text": "Biye malol, biye malol, imkyonat bar."
+  },
+  {
+   "start": 133.32,
+   "end": 134.0,
+   "text": "Biye malol."
+  },
+  {
+   "start": 134.0,
+   "end": 136.52,
+   "text": "Sizdi ma aqlan laqabortash qalida, sizdi qorab ulediyan."
+  },
+  {
+   "start": 136.52,
+   "end": 137.72,
+   "text": "Fakat kila buq siz bolda."
+  },
+  {
+   "start": 137.72,
+   "end": 139.32,
+   "text": "Ahmat, oto nizgi rahmat."
+  },
+  {
+   "start": 139.32,
+   "end": 139.92,
+   "text": "Ahmat."
+  },
+  {
+   "start": 139.92,
+   "end": 140.8,
+   "text": "Qab, tashamiq."
+  }
+ ],
+ "chars": 2696,
+ "chars_per_s": 18.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

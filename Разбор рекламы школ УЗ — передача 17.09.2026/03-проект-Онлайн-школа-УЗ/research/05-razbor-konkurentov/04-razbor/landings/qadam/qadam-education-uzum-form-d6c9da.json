@@ -1,0 +1,98 @@
+{
+ "url": "https://qadam.education/uzum-form",
+ "school_id": "qadam",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "основной продукт",
+ "builder": "Tilda",
+ "pixels": [
+  "Meta Pixel",
+  "Google Analytics (GA4)",
+  "Google Tag Manager",
+  "Яндекс.Метрика"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Научиться торговать на Uzum Market с нуля и зарабатывать $2000 в месяц",
+  "quote": "Uzum Marketda savdo qilishni 0 dan o'rganib, oyiga $2000 daromad toping!",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": true,
+  "value": "Доход $2000 в месяц — обещание в заголовке первого экрана (не цена курса), без источника",
+  "quote": "Uzum Marketda savdo qilishni 0 dan o'rganib, oyiga $2000 daromad toping!",
+  "where": "первый экран"
+ },
+ "audience": {
+  "found": true,
+  "value": "Кому подходит (список «…sizga to’g’ri keladi, agar siz…», 12 пунктов): производители и продавцы, которые хотят онлайн-продаж; новички, которые хотят профессию с нуля; кто хочет свободный график и финансовую свободу; женщины, совмещающие заработок с семьёй; работа из дома; недовольные работой и зарплатой; кто давно хочет начать бизнес",
+  "quote": "Marketplace’da savdo qilish sizga to’g’ri keladi, agar siz…\nRaqobatchilaringizdan o’tib ketish uchun onlayn savdoni ham yo’lga qo’ying va yetakchilikni qo’lga oling\nHozirda mahsulot ishlab chiqazasiz va savdoingizni yanada ko’paytirmoqchi bo’lsangiz\nZamonaviy kasbni 0 dan o’rganmoqchi bo’lsangiz\nErkin ish grafiki va moliyaviy erkinlikni xohlasangiz\nKelajakda talab kuchli bo’lgan kasbni o’rganib soha mutaxassisiga aylanasiz\nNechidan nechigacha ishlashingiz va qancha ko’p pul topishingiz o’zingizga bog’liq\nYangi sohani o’rganib, o’zingiz va oilangiz xohlagan narsalarni xarid qila olasiz\nBarcha kerakli ko’nikmalarni o’rganib, boshqa bir odamga emas balki o’zingizga o’zingiz ishlay olasiz\nAyol kishi bo’lib turib, oilangizni maksimal vaqt ajratgan holda o’zingiz uchun daromad qila olasiz\nUydan chiqmasdan turib yoki istalgan joydan ishlashni xohlasangiz\nHozirgi ishingizdan va oyligingizda qoniqmayotgan bo’lsangiz\nTadbirkorlikni anchadan beri boshlamoqchi bo’lib yurgan bo’lsangiz",
+  "where": "середина"
+ },
+ "program": {
+  "found": true,
+  "format": "гибрид",
+  "quote": "Darslar qayerda o‘tiladi va qanday formatda?\nOnline darslar — maxsus platformamizda. Offline darslar — ofisimizda, guruhli yoki individual formatda. Ofisimiz manzili: Afrosiyob, 2"
+ },
+ "speaker": {
+  "found": true,
+  "value": "Два спикера-селлера (самоотчёт): Xayrullayev Sarvar — 3 года на маркетплейсах, общий оборот 5 млрд сум, 6 лет в торговле, 3 своих и 2 партнёрских магазина, 300 млн сум оборота в месяц; Rajabboyev Muhammad — 2 года на маркетплейсах, оборот 4 млрд сум, 20 своих и 4 партнёрских магазина, 500 млн сум в месяц",
+  "quote": "Kurs spikerlari haqida\nXayrullayev Sarvar\nMarketplace'larda 3 yillik tajriba\nJami aylanma 5 milliard so'm\nSavdo sohasida: 6 yillik tajriba\nMarketing va online sotuvlar: 3 yillik tajriba\n3 ta faol do’kon egasi\n2 ta sherikchilik do’konlari\n300 million oylik aylanmaga ega sotuvchi\nRajabboyev Muhammad\nMarketplace'larda 2 yillik tajriba\nJami aylanma 4 milliard so'm\nSavdo sohasida: 4 yillik tajriba\n20 ta faol do’kon egasi\n4 ta sherikchilik do’kon\nOylik aylanma 500 million so’mga ega sotuvchi",
+  "where": "середина"
+ },
+ "social_proof": {
+  "types": [
+   "текстовые отзывы"
+  ],
+  "reviews_count": 18
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "цены на странице нет; вместо неё квиз из 7 вопросов и телефон для обратной связи («qayta aloqaga chiqishimiz uchun telefon raqamingizni yuboring»)"
+ },
+ "installments": {
+  "found": true,
+  "value": "Рассрочка через партнёров: Uzum nasiya, Alif nasiya, PayMe nasiya, Imanum; «без процентов и пени» — слова школы, условия (срок, число платежей) не раскрыты",
+  "quote": "Hozir bittada to’lashga pulim yo’q edi, bo’lib to’lash imkoniyati bormi?\nHa, albatta! Biz Uzum nasiya, Alif nasiya, PayMe nasiya, Imanum kabi korxonalar bilan rasmiy ishlaymiz. Barchasi foiz va penyasiz!",
+  "where": "низ страницы"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "квиз-вопросы",
+   "возраст",
+   "телефон"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "message_match": {
+  "library_id": "1461720902353705",
+  "scores": {
+   "promise_continuity": 7,
+   "language_match": 6,
+   "visual_continuity": 5,
+   "cta_alignment": 7,
+   "specificity_match": 5,
+   "emotional_match": 6
+  },
+  "total_of_60": 36
+ },
+ "notes": "Вариант uzum-inomarka-v5 с одним отличием в тексте: подводка к квизу — «Hozir Uzum Market kursiga qabul cheklangan. Testdan o'ting, shunda siz bizga mos ekanligingizni bilamiz. Faqat testdan o’tganlar qabul qilinadi!» (дефицит и «отбор» вместо «Yangi daromadingiz sari atigi 1% qoldi - quyidagi testdan o'ting»); ссылка в шапке ведёт на блок #rec1813501051. Даты окончания набора нет — это дефицит без срока, поэтому deadline не заполнен. Остальное (заголовок про $2000, кнопка «Kursga yozilish», квиз из 7 вопросов с формулировками v5, FAQ с рассрочкой, спикеры, 18 картинок отзывов) — как в v5; полное сравнение вариантов — в notes qadam-education-uzum-inomarka-v5-d75890.json. Реклама: 1 объявление UZUM_SKLAD V1 (с 06.04, 164 дня, ранг 9 — второй по показам среди страниц курса после uzum). Этап «основной продукт» (stage_auto «оферта или оплата» — из-за ссылки на оферту). Цены, гарантии, скидок нет. «$2000» ≈ 23 530 000 сум — обещание дохода; «$400» ≈ 4 706 000 сум — рекомендуемый стартовый капитал. message_match: объявление 1461720902353705 (текст тот же, что у CASE: «🚀 Uzumda o'z biznesingizni xavf-xatarsiz yo'lga qo'ying! …», CTA «Apply now»). Ролик (черновая расшифровка): парень у склада Uzum разбирает, сколько можно заработать за день торговли на Uzum, и советует курс «Uzum Seller» от Qadam Education с опытными спикерами; на экране «1 275 000 KUNLIK SOF FOYDA» и «noyob mahsulot qidirishga sarflamasdan yaxshi sotilayotgan tovarlarni». На странице совпадают «Uzum Seller» (блок «Lavozim»), «tajribali spikerlar», подбор товаров и фиолетовый Uzum в иллюстрации; дневной прибыли из ролика нет, заголовок обещает $2000 в месяц; «qabul cheklangan» поддерживает срочность текста объявления («hoziroq»). Скриншот — первый экран с шапкой («Sahifani yopmang va yangilamang», «Siz → Yangi Daromad») и заголовком про $2000."
+}

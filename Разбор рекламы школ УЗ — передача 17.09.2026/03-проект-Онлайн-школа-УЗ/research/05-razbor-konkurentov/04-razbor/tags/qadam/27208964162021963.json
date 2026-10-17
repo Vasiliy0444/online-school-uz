@@ -1,0 +1,107 @@
+{
+ "creative_id": "27208964162021963",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "постановка или скетч",
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Bratan, zdrasti. O'zbek…? … Lekin o'zbekchani yaxshi tushunasiz. Pul topish yo'llarini ham yaxshi bilasiz. Bitta zo'r yo'lini o'rgataman.",
+  "types": [
+   "история",
+   "результат или доход"
+  ],
+  "visual": [
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: чёрно-белый кадр в рамке видеокамеры «REC»; мужчина подходит к прохожему у здания со спорткаром",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Buratan, zrasti. Ozbek sinifani va ish?",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:03] Ozbejcana bilishmasega. Legin, zozbejcana yaxshi chunaysi.",
+    "timecode": "00:03"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:06] Ipul tapshi yollari nam yaxshi bilasiz.",
+    "timecode": "00:06"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:09] Bitda zor yolun orgettana.",
+    "timecode": "00:09"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "удалёнка и свобода",
+   "свой бизнес"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:06] Ipul tapshi yollari nam yaxshi bilasiz.",
+    "timecode": "00:06"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:23] Yumdan tashqara otargan cayizda, u izda yoki ofisizda narmali sakka tapsiz golan.",
+    "timecode": "00:23"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:29] Ytda bat afsil tshil turimu, uzun marketta saada qilish orgin alay, di shani qatda biznesmen mob ketaz.",
+    "timecode": "00:29"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (≈01:01): «AYLANMA» над прокручивающимся числом (не читается), ученик в офисе",
+    "timecode": "01:01"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "рассрочка"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[01:10] shudda oxh siz bolad. Tol olayan, xaliziz nakti diz, xaliziz bolib toleshgan,",
+    "timecode": "01:10"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "нет призыва",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "блогер"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "Скетч: блогер на фоне спорткара останавливает прохожего и рассказывает про заработок на Uzum Market, дальше вставка ученика с оборотом и визит в учебный центр. Роль «блогер» — по utm ссылки (UZUM_BLOGER_INOMARKA) и подаче от третьего лица. Хук по расшифровке, написание исправлено; первая реплика разобрана частично: «Bratan, zdrasti» — по-русски, дальше вопрос про узбекский язык неразборчив. Перевод разборчивой части: «…узбекский вы хорошо понимаете, способы заработать знаете. Научу одному отличному способу». В речи: зарабатывать можно из дома или офиса, аренда не нужна; «станете большим бизнесменом»; обороты учеников (137 млн, 40 млн, 30 млн — это оборот, не доход); курс онлайн на своей платформе или офлайн в Ташкенте у метро; оплата «xohlasangiz naqd, xohlasangiz bo'lib to'lash» (написание исправлено) → «рассрочка». Расшифровка в порции обрезана на 01:15 из 01:37: финальный призыв и возможный оффер не видны, in_creative «нет призыва» условно. Та же версия сценария, что 961427799714241."
+}

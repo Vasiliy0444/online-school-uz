@@ -1,0 +1,66 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.4,
+   "text": "Ixtan charchab gelasiz, va ingilisni organishki na kurch qoladi, na waqt."
+  },
+  {
+   "start": 3.4,
+   "end": 6.16,
+   "text": "Har kuni ertagi-ertagi disiz, kachan bosh disiz."
+  },
+  {
+   "start": 6.16,
+   "end": 9.08,
+   "text": "Ma, Tichir Azam, 13-lik tanjribigi egi ingilis roqta utsuman,"
+  },
+  {
+   "start": 9.08,
+   "end": 13.64,
+   "text": "va 22-nchi, 23-nchi, 24-nchi Sintyabur kunilari BAPL online masterclassi uyshtiri efman."
+  },
+  {
+   "start": 13.64,
+   "end": 17.92,
+   "text": "Ushbu masterclassi da qanay qilib 0-dan 30-guni chidi kundalik mauzurardi gyan parisini orgatiman."
+  },
+  {
+   "start": 17.92,
+   "end": 20.64,
+   "text": "Nuntashqari, kunigiye 50-gdi gecham sozini,"
+  },
+  {
+   "start": 20.64,
+   "end": 22.72,
+   "text": "10-son yotlab real xayotlishtyatish, va"
+  },
+  {
+   "start": 22.72,
+   "end": 25.94,
+   "text": "b2 sertifikat alishinin samaralik sullarini orgetaman."
+  },
+  {
+   "start": 26.3,
+   "end": 28.0,
+   "text": "MasterCard-da katinash mutlakao beyek ol,"
+  },
+  {
+   "start": 28.08,
+   "end": 29.82,
+   "text": "faqat xawalanustagi basib royokatdan otin"
+  },
+  {
+   "start": 29.82,
+   "end": 31.98,
+   "text": "va yapig Telegram kanalamizgi qoshir balin."
+  }
+ ],
+ "chars": 639,
+ "chars_per_s": 19.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,21 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.6,
+   "text": "Ingilis tirlini ona tirlingiz kaba bilmokchi bolsangiz."
+  },
+  {
+   "start": 2.82,
+   "end": 4.26,
+   "text": "Hawa ala orqali, roi xatnavati."
+  }
+ ],
+ "chars": 87,
+ "chars_per_s": 18.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

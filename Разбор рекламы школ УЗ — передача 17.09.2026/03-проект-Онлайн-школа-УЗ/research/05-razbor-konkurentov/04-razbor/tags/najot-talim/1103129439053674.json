@@ -1,0 +1,70 @@
+{
+ "creative_id": "1103129439053674",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "Hamma bilishi kerak! Istalgan kasb egasi, istalgan o'quvchi...",
+  "types": [
+   "обращение к сегменту",
+   "вопрос"
+  ],
+  "visual": [
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: заголовок «Hamma bilishi kerak ❗», субтитры «Istalgan kasb» → «egasi» → «istalgan o'quvchi»"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Istalgan kasp egyasy, istalgan uqochi, istalgan universiyati uqa iken uqochi meyden bir saol versi.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "профессия будущего"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:05] Agar hazir fakat bittin aslan urgenarish munkun bolsa va shu nima deyilsa, mey akken bolardim ki, bu prom injinering.",
+    "timecode": "00:05"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "sun'iy intellekt bilan ishlash bo'yicha zamonaviy va talab yuqori kasb egasiga aylaning."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "основатель или эксперт"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Мужчина в поло под деревьями обращается сразу ко всем сегментам («любой специалист, любой ученик, любой студент») и утверждает, что если бы можно было выучить только одну вещь сегодня — это был бы Prompt Injinering. Далее по расшифровке — личная рекомендация пройти курс именно в фарганском филиале. Публичное имя не звучит, роль отнесена к «основатель или эксперт» по тону личной рекомендации от лица школы — поле неоднозначное. Оффера нет."
+}

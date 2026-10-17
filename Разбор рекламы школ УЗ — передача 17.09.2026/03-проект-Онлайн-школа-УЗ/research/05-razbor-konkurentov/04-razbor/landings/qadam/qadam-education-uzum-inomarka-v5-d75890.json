@@ -1,0 +1,98 @@
+{
+ "url": "https://qadam.education/uzum-inomarka-v5",
+ "school_id": "qadam",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "основной продукт",
+ "builder": "Tilda",
+ "pixels": [
+  "Meta Pixel",
+  "Google Analytics (GA4)",
+  "Google Tag Manager",
+  "Яндекс.Метрика"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Научиться торговать на Uzum Market с нуля и зарабатывать $2000 в месяц",
+  "quote": "Uzum Marketda savdo qilishni 0 dan o'rganib, oyiga $2000 daromad toping!",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": true,
+  "value": "Доход $2000 в месяц — обещание в заголовке первого экрана (не цена курса), без источника",
+  "quote": "Uzum Marketda savdo qilishni 0 dan o'rganib, oyiga $2000 daromad toping!",
+  "where": "первый экран"
+ },
+ "audience": {
+  "found": true,
+  "value": "Кому подходит (список «…sizga to’g’ri keladi, agar siz…», 12 пунктов): производители и продавцы, которые хотят онлайн-продаж; новички, которые хотят профессию с нуля; кто хочет свободный график и финансовую свободу; женщины, совмещающие заработок с семьёй; работа из дома; недовольные работой и зарплатой; кто давно хочет начать бизнес",
+  "quote": "Marketplace’da savdo qilish sizga to’g’ri keladi, agar siz…\nRaqobatchilaringizdan o’tib ketish uchun onlayn savdoni ham yo’lga qo’ying va yetakchilikni qo’lga oling\nHozirda mahsulot ishlab chiqazasiz va savdoingizni yanada ko’paytirmoqchi bo’lsangiz\nZamonaviy kasbni 0 dan o’rganmoqchi bo’lsangiz\nErkin ish grafiki va moliyaviy erkinlikni xohlasangiz\nKelajakda talab kuchli bo’lgan kasbni o’rganib soha mutaxassisiga aylanasiz\nNechidan nechigacha ishlashingiz va qancha ko’p pul topishingiz o’zingizga bog’liq\nYangi sohani o’rganib, o’zingiz va oilangiz xohlagan narsalarni xarid qila olasiz\nBarcha kerakli ko’nikmalarni o’rganib, boshqa bir odamga emas balki o’zingizga o’zingiz ishlay olasiz\nAyol kishi bo’lib turib, oilangizni maksimal vaqt ajratgan holda o’zingiz uchun daromad qila olasiz\nUydan chiqmasdan turib yoki istalgan joydan ishlashni xohlasangiz\nHozirgi ishingizdan va oyligingizda qoniqmayotgan bo’lsangiz\nTadbirkorlikni anchadan beri boshlamoqchi bo’lib yurgan bo’lsangiz",
+  "where": "середина"
+ },
+ "program": {
+  "found": true,
+  "format": "гибрид",
+  "quote": "Darslar qayerda o‘tiladi va qanday formatda?\nOnline darslar — maxsus platformamizda. Offline darslar — ofisimizda, guruhli yoki individual formatda. Ofisimiz manzili: Afrosiyob, 2"
+ },
+ "speaker": {
+  "found": true,
+  "value": "Два спикера-селлера (самоотчёт): Xayrullayev Sarvar — 3 года на маркетплейсах, общий оборот 5 млрд сум, 6 лет в торговле, 3 своих и 2 партнёрских магазина, 300 млн сум оборота в месяц; Rajabboyev Muhammad — 2 года на маркетплейсах, оборот 4 млрд сум, 20 своих и 4 партнёрских магазина, 500 млн сум в месяц",
+  "quote": "Kurs spikerlari haqida\nXayrullayev Sarvar\nMarketplace'larda 3 yillik tajriba\nJami aylanma 5 milliard so'm\nSavdo sohasida: 6 yillik tajriba\nMarketing va online sotuvlar: 3 yillik tajriba\n3 ta faol do’kon egasi\n2 ta sherikchilik do’konlari\n300 million oylik aylanmaga ega sotuvchi\nRajabboyev Muhammad\nMarketplace'larda 2 yillik tajriba\nJami aylanma 4 milliard so'm\nSavdo sohasida: 4 yillik tajriba\n20 ta faol do’kon egasi\n4 ta sherikchilik do’kon\nOylik aylanma 500 million so’mga ega sotuvchi",
+  "where": "середина"
+ },
+ "social_proof": {
+  "types": [
+   "текстовые отзывы"
+  ],
+  "reviews_count": 18
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "цены на странице нет; вместо неё квиз из 7 вопросов и телефон для обратной связи («qayta aloqaga chiqishimiz uchun telefon raqamingizni yuboring»)"
+ },
+ "installments": {
+  "found": true,
+  "value": "Рассрочка через партнёров: Uzum nasiya, Alif nasiya, PayMe nasiya, Imanum; «без процентов и пени» — слова школы, условия (срок, число платежей) не раскрыты",
+  "quote": "Hozir bittada to’lashga pulim yo’q edi, bo’lib to’lash imkoniyati bormi?\nHa, albatta! Biz Uzum nasiya, Alif nasiya, PayMe nasiya, Imanum kabi korxonalar bilan rasmiy ishlaymiz. Barchasi foiz va penyasiz!",
+  "where": "низ страницы"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "квиз-вопросы",
+   "возраст",
+   "телефон"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "message_match": {
+  "library_id": "27208964162021963",
+  "scores": {
+   "promise_continuity": 6,
+   "language_match": 5,
+   "visual_continuity": 3,
+   "cta_alignment": 4,
+   "specificity_match": 5,
+   "emotional_match": 5
+  },
+  "total_of_60": 28
+ },
+ "notes": "Главный лендинг курса Uzum на момент снимка: на него ведут 30 из 131 объявления Qadam в Meta — больше, чем на любую другую страницу, включая свежие кампании (utm_medium): UZUM_BLOGER_INOMARKA и _BM V5 (с 24.04 и 04.05), UZUM_IRODA_BM V1–V6 (с 11.06), UZUM_Bekhzodbeck_BM V1–V8 (11 объявлений с 18–27.07), UZUM_12yosh V1–V5 (с 09.09, ролики про 12-летнего продавца), UZUM_iwash V1–V6 (с 14–15.09). Страница стала «по умолчанию» для новых роликов. Этап «основной продукт» (описание курса, спикеры, навыки, отзывы, FAQ); stage_auto «оферта или оплата» — из-за ссылки «Ommaviy oferta» в подвале. Цены нет ни на одном из 11 вариантов Uzum-лендинга и ни на одной снятой странице Qadam; гарантии, скидок, бонусов и дедлайна тоже нет. Порядок блоков: шапка с полосой прогресса «Siz → Yangi Daromad» и красной плашкой «Sahifani yopmang va yangilamang» → заголовок про $2000 и кнопка «Kursga yozilish» → «Marketplace’da savdo qilish sizga to’g’ri keladi, agar siz…» (12 пунктов) → «O’zbekistonda jadal rivojlanib kelayotgan ENG KATTA marketplace … Nega aynan Uzum Marketda savdo qilishingiz kerak?» → «Nimaga aynan Qadam» (опытные спикеры, кураторы, видеоуроки, «Savdoni boshlaguningizgacha sizni qo’llab-quvvatlaymiz») → спикеры → «Lavozim Uzum Seller», 10 навыков и инструменты (Uzum Market, Pinduoduo, 1688, Dadata, Canva, ChatGPT) → «O’quvchilarimiz fikri» (18 картинок; их содержимое в текстовом снимке не видно, тип «текстовые отзывы» условный; в подвале ещё ссылка «Sharhlar» на t.me/qadam_sharhlar) → квиз «Yangi daromadingiz sari atigi 1% qoldi - quyidagi testdan o'ting» (7 вопросов: возраст 17–19…36+, цель, желаемый доход $500/$1000/$1500, когда начать, готовность вложить «mablag' va vaqt», понимание, что нужна «sarmoya», финансовое положение — «Ota-onam / erim taminlaydi», «Talabaman») → телефон и кнопка «Natijani bilib oling» → FAQ из 7 вопросов → подвал; в конце снимка форма «Formani to’ldiring, siz bilan tez orada bog’lanamiz!» (только телефон, «Ro'yxatdan o'tish»), на неё ведут кнопки с якорем #forma. Квиз проверяет платёжеспособность — это отбор лида перед звонком. В FAQ: доход возможен уже во время учёбы («Kursni o’qiyotgan paytingizdayoq siz savdoni yo’lga qo’yib, daromadga chiqishingiz mumkin»), нужен компьютер («Menda telefon bor xolos … Yo’q»), стартовый капитал «ENG KAMI $400» (≈ 4 706 000 сум) — это не цена курса; «$2000» ≈ 23 530 000 сум — обещание дохода, не цена. Помесячной оплаты обучения нет; рассрочка — только через партнёров («nasiya»); по оферте (п. 4.9) долг партнёру гасится по графику независимо от посещения.\nВАРИАНТЫ СТРАНИЦЫ (сравнение текстов page.md; все 11 живы и получают рекламу; отдельные файлы — у этой страницы, uzum, uzum-form, uzum-inomarka-v3 и uzum-popup, остальные описаны здесь): 1) uzum-case — текст идентичен v5 (заголовок $2000, кнопка «Kursga yozilish», вопросы квиза как в v5), title «Copy of Uzum Market»; 5 объявлений UZUM_CASE_3 V1–V5 с 20.06, лучший ранг 22. 2) uzum — базовая (first_seen 2024-05-25, title «Uzum Market Chilla»): как v5, но мягче вопросы 5–6 квиза — «Uzumda daromad qilish uchun o'qishga vaqt ajratishga tayyormisiz?» (без «mablag'») и «…sarmoya kerakligini tushunyapsizmi?»; 4 объявления UZUM_CASE_KVAL2 (с 01.02, ранг 8) и UZUM_IWASH_M. 3) uzum-custdev — как uzum + кнопка первого экрана «Bepul konsultatsiya» вместо «Kursga yozilish», якорь на блок #rec2211031163; 3 объявления UZUM_KASTDEV V2–V4 с 28.04, ранг 21. 4) uzum-form — как v5, но подводка к квизу про дефицит и отбор: «Hozir Uzum Market kursiga qabul cheklangan. Testdan o'ting, shunda siz bizga mos ekanligingizni bilamiz. Faqat testdan o’tganlar qabul qilinadi!»; 1 объявление UZUM_SKLAD, ранг 9, 164 дня. 5) uzum-retarget — как v5, другая картинка первого экрана (Uzum_8.png вместо Frame_1948759431.png); 4 объявления UZUM_RETARGET V1–V4 с 28.04, ранг 26 (текст: «Uzum Market kursini ko‘rib chiqqansiz… lekin hali qaror qilmadingizmi?», «2500+ bitiruvchilar»). 6) uzum-popup — как v5 + всплывающее окно при входе «Qayerda yashaysiz?» («Toshkent» закрывает окно, «Boshqa» уводит на qadam.education/uzum-boshqa — её в снимках нет), заголовок «Uzum Market’da oyiga 2000$ topishni o‘rganing — oflayn konsultatsiyaga yoziling», другая картинка, кнопка «Bepul konsultatsiya», в квизе 8 шагов — добавлен вопрос о городе; 2 объявления UZUM_TH_TASHKENT с 20.08. 7) uzum-inomarka-v1…v4 — как v5, но без блока «O’zbekistonda jadal rivojlanib kelayotgan ENG KATTA marketplace… Nega aynan Uzum Marketda…», с кнопкой «Bepul konsultatsiya» и двухстрочным заголовком под хук своего ролика блогера: v1 «Har kuni bir joyga borib ishlashdan charchadingizmi? / Uzum orqali erkin daromadga chiqing!», v2 «Ko‘p vaqt sarflamasdan daromad qilishni xohlaysizmi? / Kuniga 2–3 soat yetarli», v3 «Qancha ishlasangiz ham pul yetmayaptimi? / Uzum orqali qo‘shimcha daromadga chiqing», v4 «Bozorda savdo qilasiz, lekin ko‘proq topmoqchimisiz? / Uzumda online savdoni boshlang»; по 1–2 объявления UZUM_BLOGER_INOMARKA(_BM) с 22.04–04.05, ранг есть только у v3 (14). Спикеры, навыки, отзывы, FAQ с рассрочкой и форма во всех вариантах одинаковые, цены нет нигде. Что тестируют: (а) заголовок под хук ролика (v1–v4) против общего «$2000»; (б) кнопку «Kursga yozilish» против «Bepul konsultatsiya»; (в) подводку к квизу («atigi 1% qoldi» против «qabul cheklangan»); (г) жёсткость отбора в квизе (с «mablag'» и без); (д) деление Ташкент/регионы до квиза (popup); (е) картинку первого экрана (retarget). Кроме того, одни и те же ролики (блогер «inomarka», «Iroda», «iwash») параллельно ведут на разные этапы: на бесплатные уроки qadam.online/courses/1/309 (Uzum_Exode_Inomarka, Uzum_Exode_IRODA), в Telegram-эфир uzum-tg (UzVi_Iroda, UzVi_iwash) и в квиз uzum/quiz/3 — тестируют точку входа при одном креативе.\nmessage_match: объявление 27208964162021963 — ранг 10, лучший среди 30 объявлений страницы; 136 дней; ролик 97 с без текста, CTA «Learn more». По черновой расшифровке: блогер у спорткара на улице спрашивает прохожего, умеет ли тот торговать на Uzum, обещает, что «katta biznesmen bo'lib ketasiz», показывает обороты учеников (137 млн сум и др.), отвечает на «kurs qimmat emasmi?», говорит про онлайн/офлайн и оплату наличными или частями, а в конце зовёт оставить данные по ссылке и получить бесплатный урок («bepul darslik»): «ma'qul bo'lsa o'qiysiz». Страница бесплатного урока не даёт — только квиз и «Kursga yozilish»; оборотов учеников на ней нет; живая съёмка с машиной не похожа на иллюстрацию первого экрана. Совпадают тема, онлайн/офлайн и рассрочка (FAQ). Тот же ролик ведёт и на Uzum Start (qadam.online/courses/1/309), где бесплатные уроки есть. Скриншот 390×844 — слегка прокрученный первый экран: заголовок про $2000, кнопка «Kursga yozilish», начало блока «Marketplace’da savdo qilish…»."
+}

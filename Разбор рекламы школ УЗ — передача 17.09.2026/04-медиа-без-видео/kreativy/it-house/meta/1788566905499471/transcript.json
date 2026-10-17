@@ -1,0 +1,31 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.3,
+   "text": "Unikki, on tur yosh farzandingiz IT-ge kizikishi bar, yok yok ligini bilmok chimisi,"
+  },
+  {
+   "start": 4.54,
+   "end": 8.7,
+   "text": "Foundation kursimiz alqali farzandingiz dasturilash olamgi birinci kadamini koyadi."
+  },
+  {
+   "start": 8.92,
+   "end": 13.42,
+   "text": "Kursimizda, kompytur sabotkhanigie va dasturilash asoslari amali usulda olib ariladi."
+  },
+  {
+   "start": 13.42,
+   "end": 19.42,
+   "text": "Foundation kursimizga kizikhi apsizmi, hozro komentariyada boli asozni asipaldirin va ozimiz galoka yachgamiz."
+  }
+ ],
+ "chars": 365,
+ "chars_per_s": 18.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

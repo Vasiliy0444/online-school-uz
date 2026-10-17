@@ -1,0 +1,96 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.5,
+   "text": "Thank you."
+  },
+  {
+   "start": 0.5,
+   "end": 2.5,
+   "text": "And today's big question is fun."
+  },
+  {
+   "start": 2.5,
+   "end": 3.5,
+   "text": "Which city..."
+  },
+  {
+   "start": 3.5,
+   "end": 5.0,
+   "text": "Manxozi korotka narsi level podcast."
+  },
+  {
+   "start": 5.0,
+   "end": 8.5,
+   "text": "Bug, xayqishka Amerikaliklar bilan Uzbeklar uchun olinyam podcast."
+  },
+  {
+   "start": 8.5,
+   "end": 11.5,
+   "text": "Lekin sudiyordi na faqad tinglaysiz, baliki qatnashasiz."
+  },
+  {
+   "start": 11.5,
+   "end": 13.0,
+   "text": "Sizdan soğullar xam soraradi."
+  },
+  {
+   "start": 13.0,
+   "end": 16.5,
+   "text": "What's the weather like in your city in the winter?"
+  },
+  {
+   "start": 20.0,
+   "end": 21.0,
+   "text": "Oh really?"
+  },
+  {
+   "start": 21.0,
+   "end": 24.5,
+   "text": "Bugarkali ingles sireni eishdi tinglash judiyam samarayli boladir."
+  },
+  {
+   "start": 24.5,
+   "end": 28.5,
+   "text": "Una tashkari olinyam bilimlarini muslaq qiamlashchun maash xam bacarasiz."
+  },
+  {
+   "start": 28.5,
+   "end": 32.26,
+   "text": "Байкин, ин қызыгы, үшву подкастар сизы дараджиязгэ мастангэ."
+  },
+  {
+   "start": 32.26,
+   "end": 35.54,
+   "text": "Бегинер бусыз, айнан бегинерлар чуна дикган қлыб алангэ."
+  },
+  {
+   "start": 35.54,
+   "end": 37.94,
+   "text": "Гу халэ онта функциямызнан биттас холос."
+  },
+  {
+   "start": 37.94,
+   "end": 40.62,
+   "text": "Барчас, билан, инглэстыр органыч чудэйам самарали болады."
+  },
+  {
+   "start": 40.62,
+   "end": 44.5,
+   "text": "Уз ингэс тэг шырб боли, хаваламстыгэ басын ва илах амзаны юклэ боли."
+  },
+  {
+   "start": 45.62,
+   "end": 51.94,
+   "text": "Yes, best place to live is, I think, Tashkent, because it's capital of Uzbekistan."
+  }
+ ],
+ "chars": 821,
+ "chars_per_s": 15.8,
+ "cyrillic_share": 0.35,
+ "repeated_segments": 0,
+ "quality": "низкое"
+}

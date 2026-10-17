@@ -1,0 +1,22 @@
+[INIT].... → Crawl4AI 0.9.3 
+[CAPTURE]. ℹ Error capturing response details for https://www.facebook.com/__rd_verify_Q_6hBQS3AG30pdlYeHUYifeZ5ajxYFi7Ed6lS2lwfj9kKWiBzQ?challenge=3: cannot access local variable 'text_body' where it
+is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://static.xx.fbcdn.net/rsrc.php/yF/r/8WoHlMpBzYd.webp: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://static.xx.fbcdn.net/rsrc.php/yu/r/8LAACOStowi.webp: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-2.xx.fbcdn.net/v/t1.30497-1/85215299_479381239411958_7755129104415850496_n.jpg?stp=c379.0.1290.1290a_cp0_dst-jpg_s50x50_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2f7377&_nc_ohc=FHTdqLoruZEQ7
+kNvwFiwi8U&_nc_oc=Adqfv3PgVFfkUNKCbp8vftkUV0XYx80vV8qGbdvkjIq950ietMRQvOOTnLssvynDfFI&_nc_zt=24&_nc_ht=scontent-cdg4-2.xx&_nc_ss=7b289&oh=00_AQJQ4udgsRjyVnYOkAbsRYlU9YBcV1BG8DzCSvp7wkFGIA&oe=6AD20216:
+ cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://static.xx.fbcdn.net/rsrc.php/yH/r/c_1vdG88uNh.woff2: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://static.xx.fbcdn.net/rsrc.php/yU/r/zSaFQ46AO2w.woff2: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://static.xx.fbcdn.net/rsrc.php/yh/r/pXADmoqqN0T.woff2: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://www.facebook.com/images/ads/politics/archive/empty-state_overfiltering_3x.png: cannot access local variable 'text_body' where it is not 
+associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://scontent.xx.fbcdn.net/hads-ak-prn2/1487645_6012475414660_1439393861_n.png: cannot access local variable 'text_body' where it is not associated
+with a value 
+[CAPTURE]. ℹ Error capturing response details for https://static.xx.fbcdn.net/rsrc.php/yg/r/HyqLWQiplYl.webp: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://static.xx.fbcdn.net/rsrc.php/y0/r/6tdeF54amQM.webp: cannot access local variable 'text_body' where it is not associated with a value 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...earch_type=page&view_all_page_id=100093860176934  | ✓ | ⏱: 42.07s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...earch_type=page&view_all_page_id=100093860176934  | ✓ | ⏱: 0.15s 
+[ERROR]... × https://www.facebook.co...page_id=100093860176934  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1324133 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...earch_type=page&view_all_page_id=100093860176934  | ✗ | ⏱: 42.26s 

@@ -1,0 +1,61 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 11.52,
+   "text": "Rasman, IT soxasiki qizi quchili, və manashu soxanı noldan boshlamakchi bogirli uchun, enkattı IT markazlardan biri, Najat Talimdi, Dasturlaj Foundation-ge qabul boshlandi."
+  },
+  {
+   "start": 11.84,
+   "end": 21.98,
+   "text": "Agersiz, Dasturlaj soxasidan, kiberqabsilik, data science, full stack, yoki frontend, backend, qaysi Dasturlaj yonarishdan qat inazar, manashu yonarishlardan ketmakchi boshlayiz."
+  },
+  {
+   "start": 21.98,
+   "end": 28.18,
+   "text": "Lekin, soxanı noldan boshlamakchi boshlayiz, qaysi yonarishdan talashibilme etken boshlayiz, onda Dasturlaj Foundation-dan boshlayiz."
+  },
+  {
+   "start": 28.18,
+   "end": 34.18,
+   "text": "Sababu bu kursda siz dasturilash soxasini nuldan boshlisisiz, aynan kompytur soxasini taligidan boshlat turub,"
+  },
+  {
+   "start": 34.18,
+   "end": 37.18,
+   "text": "siz algoritimlashni, C-va-B-tun dasturilashlilarini orginas."
+  },
+  {
+   "start": 37.18,
+   "end": 43.18,
+   "text": "Bu, sizgi dasturilashni toluq chunshizgi, undik yonashlarini, IT-teknologiyalarini chunshiki yordan biradi."
+  },
+  {
+   "start": 43.18,
+   "end": 46.18,
+   "text": "Aynan, siz giznagatkin kurs Manashu."
+  },
+  {
+   "start": 46.18,
+   "end": 48.18,
+   "text": "Manashu kursda siz xamuk shizmukun."
+  },
+  {
+   "start": 48.18,
+   "end": 51.18,
+   "text": "Bunuchun, manan bu rakamnaga telefon khuli orki, xavalan basiqli qatawdik."
+  },
+  {
+   "start": 51.18,
+   "end": 54.18,
+   "text": "Biz sizgi yanayan bataxsil malumatlerimiz aynan narharib araslayim."
+  }
+ ],
+ "chars": 981,
+ "chars_per_s": 17.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

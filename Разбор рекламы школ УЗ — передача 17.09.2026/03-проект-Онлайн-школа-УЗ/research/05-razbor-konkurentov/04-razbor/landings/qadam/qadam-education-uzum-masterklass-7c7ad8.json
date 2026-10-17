@@ -1,0 +1,90 @@
+{
+ "url": "https://qadam.education/uzum-masterklass",
+ "school_id": "qadam",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "вебинар или мастер-класс",
+ "builder": "Tilda",
+ "pixels": [
+  "Meta Pixel",
+  "Google Analytics (GA4)",
+  "Google Tag Manager",
+  "Яндекс.Метрика"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Мастер-класс: как с нуля торговать на Uzum Market и за 3 месяца выйти на $2000 дохода",
+  "quote": "Uzum Marketda 0 dan savdo qilib 3 oyda $2000 daromadga chiqish bo'yicha masterklass\n…\nMasterklassda qatnashish uchun ma'lumotlaringizni to'ldiring\nva telegram kanalimizga o'ting",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": true,
+  "value": "$2000 дохода: «3 oyda» в заголовке и «Oyiga $2000» в пункте — без источника",
+  "quote": "Uzum Marketda 0 dan savdo qilib 3 oyda $2000 daromadga chiqish bo'yicha masterklass\n…\nOyiga $2000 daromad",
+  "where": "первый экран"
+ },
+ "audience": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "program": {
+  "found": true,
+  "format": "онлайн",
+  "quote": "Boshlang'ich harakatlar\nDaromadli tovarlar topish siri\nBozor va Xitoy bilan ishlash\nOyiga $2000 daromad"
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [
+   "нет"
+  ]
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "участие за имя и телефон через Telegram-канал; цены нет, слова «bepul» на странице нет"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "имя",
+   "телефон"
+  ]
+ },
+ "next_step": "Telegram-канал",
+ "closed": true,
+ "message_match": {
+  "library_id": "1449672809947116",
+  "scores": {
+   "promise_continuity": 4,
+   "language_match": 5,
+   "visual_continuity": 3,
+   "cta_alignment": 6,
+   "specificity_match": 3,
+   "emotional_match": 5
+  },
+  "total_of_60": 26
+ },
+ "notes": "Тот же шаблон, что uzum-pdf, но «обёртка» — мастер-класс: заголовок «…bo'yicha masterklass», форма «Masterklassda qatnashish uchun ma'lumotlaringizni to'ldiring va telegram kanalimizga o'ting» (имя, телефон), кнопка «Masterklassda qatnashish» → telegram.dog/+DieQ90ypRwI3ZDYy (та же ссылка, что у PDF- и эфир-страниц; не переходили). Даты, времени, спикера и программы мастер-класса нет — только 4 пункта шаблона; deadline не заполнен. Этап «вебинар или мастер-класс»; stage_auto «оферта или оплата» — из-за ссылки на оферту в подвале (по адресу — верно «вебинар или мастер-класс»). Цены курса, рассрочки, гарантии нет; $2000 ≈ 23 530 000 сум — обещание дохода. Реклама: 2 объявления без utm с 13–14.04 (156–157 дней, ранг 28), оба про PDF: «📥 Uzum Market’da 0 dan savdo boshlash bo‘yicha bepul PDF qo‘llanma … oyiga stabil $1000 daromad topishni o'rganib olasiz 📎 Fayl sizni biriktirilgan xabarda kutyapti!». message_match: объявление 1449672809947116 (ранг 28). Ролик (черновая расшифровка): девушка — «bepul PDF qo'llanma tayyorladik»: как начать с нуля, ошибки новичков, стабильные $1000 в месяц; «faylni yuklab olish uchun Telegram kanalimizga o'ting». В кадре ролика — канал «Qadam | Uzum Market» (12 789 подписчиков на момент съёмки) с тремя PDF в закреплённом («0 dan ish boshlab $1000 ga yetish bo'yicha guide.pdf», «Marketplace_menejeri_bo'lib,_oyiga_50…h_uchun.pdf», «Offline savdoni Online savdoga o'tkazish guide.pdf») и приглашением на «har kungi JONLI VIDEOCHATGA» — так выглядит канал, куда ведут все Telegram-страницы. Страница обещает не PDF, а мастер-класс, и $2000 вместо $1000: ролики и страницы перепутаны (ролик мастер-класса ранга 1 ведёт на uzum-pdf, ролики про PDF — сюда). Совпадают «0 dan», переход в Telegram и форма с тем же действием."
+}

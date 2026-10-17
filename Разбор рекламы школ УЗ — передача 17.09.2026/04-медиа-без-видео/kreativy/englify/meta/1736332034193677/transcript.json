@@ -1,0 +1,81 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.12,
+   "text": "Sizdayam, ingilis dilida yangi sozlarinin yodlagani izdan kigen, ertas kuna darsga borgani ingizda, yoroglik tezligde esizdan chikolgan boladima."
+  },
+  {
+   "start": 7.38,
+   "end": 11.7,
+   "text": "Bug halat minin en agrogli noktalarimdan biriyadi, lekin mabungi ya yichim topganman."
+  },
+  {
+   "start": 12.14,
+   "end": 18.78,
+   "text": "Aynan, ingilifay ilovvasini yukilob borganimdan kigen, yangi sozlarinin yodlashim ancha asorlashdi, va olar khotiramda saklanip kolabda."
+  },
+  {
+   "start": 18.78,
+   "end": 24.96,
+   "text": "Darslar daim vocabulary yodlashbilan boshlanadi, unge krishingiz bilan har daim 3-4 hudumanoshunaka bolimlardan oborat,"
+  },
+  {
+   "start": 24.96,
+   "end": 30.96,
+   "text": "xarbutta bolumda esa ingilis xa 5-ta, 6-ta, Allah-u qoda sozlarini xarxar teknikalar bilan yodlab chikasiz."
+  },
+  {
+   "start": 31.04,
+   "end": 33.98,
+   "text": "Bunusida sozlarini birgelikte tarzimasi bilan belgayab chikasiz."
+  },
+  {
+   "start": 34.42,
+   "end": 37.46,
+   "text": "Logatiyotlaq jorayana da ulanin spellingin xam organib qetasiz."
+  },
+  {
+   "start": 37.92,
+   "end": 41.42,
+   "text": "Yangi sozlarinin xar birini qanday talafiz qilinishini organasiz."
+  },
+  {
+   "start": 41.84,
+   "end": 44.92,
+   "text": "Va axorda esa xudumun uxnaka naticyalar izna chikarib eradi."
+  },
+  {
+   "start": 45.26,
+   "end": 47.0,
+   "text": "Xarbutta bolum şu tarizda davam etadi."
+  },
+  {
+   "start": 47.0,
+   "end": 51.18,
+   "text": "Va qolgen dars manoshu yodlagani sozlarinizdan kilib chikan xolda oteladi."
+  },
+  {
+   "start": 51.18,
+   "end": 54.22,
+   "text": "Shu orqali bu xot rangizda yanayam katdiq mustaq gyan milanadi."
+  },
+  {
+   "start": 54.4,
+   "end": 56.84,
+   "text": "Endi bularini siz xamsin ap korgin giz geliyotkan bolisa,"
+  },
+  {
+   "start": 57.14,
+   "end": 60.6,
+   "text": "pastagi xovala orqali App Store yoki Google Playdan topasiz."
+  }
+ ],
+ "chars": 1149,
+ "chars_per_s": 18.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

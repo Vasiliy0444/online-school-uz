@@ -1,0 +1,356 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.46,
+   "text": "Akilaman do'ilat ishidan, boshamastan toru biznis qiganman, ikilasini paralilab kitganman, biznisim zor bob kitkandan kin, biznisi damitganman, do'ilashit kashib kitganman."
+  },
+  {
+   "start": 8.8,
+   "end": 12.0,
+   "text": "Kisayam agar ishilabatganm boshayla, koshumchi ish kisayla boladir."
+  },
+  {
+   "start": 12.26,
+   "end": 14.6,
+   "text": "Mansilagi orqatatikimta zor jay taf koydim akilay."
+  },
+  {
+   "start": 14.94,
+   "end": 20.2,
+   "text": "Onlayn, uchqana qano, arayndagi jayam alishiyla shantlamaz, kullas orqatam yuriladir, kuzadlariladir."
+  },
+  {
+   "start": 20.2,
+   "end": 23.9,
+   "text": "Mana masalam, uzumda silegi biznis qishi orqat koymachchimanku."
+  },
+  {
+   "start": 24.42,
+   "end": 27.98,
+   "text": "Uzummi bir nece yuste tavar tapshish punktlari ba."
+  },
+  {
+   "start": 27.98,
+   "end": 31.58,
+   "text": "Bir nece min adam shuladan tavar olad, an sizam agansiz."
+  },
+  {
+   "start": 31.58,
+   "end": 34.18,
+   "text": "Sizam unikenli tavar topib, shotu sot seyle bolad."
+  },
+  {
+   "start": 34.18,
+   "end": 36.78,
+   "text": "Meselen, bozordan olib, optimgi olib, sotasiz."
+  },
+  {
+   "start": 36.78,
+   "end": 39.18,
+   "text": "Yok yosda Xitoyda tek boy, unikenli tavar olin,"
+  },
+  {
+   "start": 39.18,
+   "end": 41.18,
+   "text": "xich kimdo golamasin, shumda ansar agam sotasiz."
+  },
+  {
+   "start": 41.18,
+   "end": 43.18,
+   "text": "Bulanyam, sige orga tipoyamiz."
+  },
+  {
+   "start": 43.18,
+   "end": 46.78,
+   "text": "Hullas, siz, biyagocizi, maksuatizi, top sirganizdanki,"
+  },
+  {
+   "start": 46.78,
+   "end": 47.98,
+   "text": "gen sikilatke borad."
+  },
+  {
+   "start": 47.98,
+   "end": 50.98,
+   "text": "Sikilatdan tarqatish, tolollari, nasiyage birish,"
+  },
+  {
+   "start": 50.98,
+   "end": 53.38,
+   "text": "xemmi xarakatlanik uzunm uzuqlad."
+  },
+  {
+   "start": 53.38,
+   "end": 56.38,
+   "text": "Sizgi fakat, geni, kompytur bilan internet bolsa boldi."
+  },
+  {
+   "start": 57.98,
+   "end": 59.98,
+   "text": "Aslamu alaikum, qehr qehr qehr"
+  },
+  {
+   "start": 59.98,
+   "end": 61.98,
+   "text": "Qadamit gechiyef shkifisatam yeki?"
+  },
+  {
+   "start": 61.98,
+   "end": 63.98,
+   "text": "Okey markazdik ordam, gey apiyo, qis qechi gey apir dhebi?"
+  },
+  {
+   "start": 63.98,
+   "end": 65.98,
+   "text": "Bize 2022-ci ildan bera"
+  },
+  {
+   "start": 65.98,
+   "end": 67.98,
+   "text": "Odamla gey rakamni i kesben orga tifkelamzi"
+  },
+  {
+   "start": 67.98,
+   "end": 69.98,
+   "text": "I minni uzur yonalsi goy uchi"
+  },
+  {
+   "start": 69.98,
+   "end": 71.98,
+   "text": "3.500-da artib o uchilani shkugun gechi orga tifkelamzi"
+  },
+  {
+   "start": 71.98,
+   "end": 73.98,
+   "text": "Qal daal diyo da sunchi o adam?"
+  },
+  {
+   "start": 73.98,
+   "end": 75.98,
+   "text": "Qatdan si dhejtik gey bisti?"
+  },
+  {
+   "start": 75.98,
+   "end": 77.98,
+   "text": "Bize yaxsi muta eslan iski agamlazi"
+  },
+  {
+   "start": 77.98,
+   "end": 79.98,
+   "text": "Uzlarin aborotlar, tor yarim milyardta, 5 milyardla"
+  },
+  {
+   "start": 79.98,
+   "end": 81.98,
+   "text": "Aborotli o uchilamzi bo"
+  },
+  {
+   "start": 81.98,
+   "end": 83.98,
+   "text": "həmə də shu 3-3-da, 4-3-da okul shu həni okdib,"
+  },
+  {
+   "start": 83.98,
+   "end": 85.98,
+   "text": "shu yunarishda daramat krizki yaradam yaramz."
+  },
+  {
+   "start": 85.98,
+   "end": 87.98,
+   "text": "Qanakil formatla da orqetliz?"
+  },
+  {
+   "start": 87.98,
+   "end": 89.98,
+   "text": "Biz həni uz ikchim formatimiza bar. Offline-la online."
+  },
+  {
+   "start": 89.98,
+   "end": 91.98,
+   "text": "Offline məsh okul mərkezimiza ikil"
+  },
+  {
+   "start": 91.98,
+   "end": 93.98,
+   "text": "orqencisi boladi, shunluqa 11-tron aldidi."
+  },
+  {
+   "start": 93.98,
+   "end": 95.98,
+   "text": "Bu, koprat hashqin də yashab turib,"
+  },
+  {
+   "start": 95.98,
+   "end": 97.98,
+   "text": "məsh də savdaqarish orqenemadib yeli uchuk,"
+  },
+  {
+   "start": 97.98,
+   "end": 99.98,
+   "text": "olay ikini. Agar online orqeneme,"
+  },
+  {
+   "start": 99.98,
+   "end": 101.98,
+   "text": "uz vəlayatimda orqenem turib, ya ki məni vaxtim"
+  },
+  {
+   "start": 101.98,
+   "end": 103.98,
+   "text": "camera digi ademli bursi, beni bala"
+  },
+  {
+   "start": 103.98,
+   "end": 105.98,
+   "text": "qatnashib, qatnashib, qatnashib"
+  },
+  {
+   "start": 105.98,
+   "end": 107.98,
+   "text": "qatnashib, qatnashib"
+  },
+  {
+   "start": 107.98,
+   "end": 109.98,
+   "text": "qatnashib, qatnashib"
+  },
+  {
+   "start": 109.98,
+   "end": 111.98,
+   "text": "qatnashib, qatnashib"
+  },
+  {
+   "start": 111.98,
+   "end": 113.98,
+   "text": "qatnashib, qatnashib"
+  },
+  {
+   "start": 113.98,
+   "end": 115.98,
+   "text": "qatnashib, qatnashib"
+  },
+  {
+   "start": 115.98,
+   "end": 117.98,
+   "text": "qatnashib, qatnashib"
+  },
+  {
+   "start": 117.98,
+   "end": 119.98,
+   "text": "qatnashib, qatnashib"
+  },
+  {
+   "start": 119.98,
+   "end": 121.98,
+   "text": "qatnashib, qatnashib"
+  },
+  {
+   "start": 121.98,
+   "end": 123.98,
+   "text": "qatnashib, qatnashib"
+  },
+  {
+   "start": 123.98,
+   "end": 125.98,
+   "text": "qatnashib, qatnashib"
+  },
+  {
+   "start": 125.98,
+   "end": 127.98,
+   "text": "qatnashib, qatnashib"
+  },
+  {
+   "start": 127.98,
+   "end": 129.98,
+   "text": "qatnashib, qatnashib"
+  },
+  {
+   "start": 129.98,
+   "end": 131.98,
+   "text": "qatnashib, qatnashib"
+  },
+  {
+   "start": 131.98,
+   "end": 161.98,
+   "text": "qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab qalab q"
+  },
+  {
+   "start": 161.98,
+   "end": 163.28,
+   "text": "qoluk diliqsi boladi"
+  },
+  {
+   "start": 163.28,
+   "end": 165.08,
+   "text": "yoki qoluk diliqsi bi bol"
+  },
+  {
+   "start": 165.08,
+   "end": 167.24,
+   "text": "o shirxami kurslarimizdiki dastlari yasi boladi"
+  },
+  {
+   "start": 167.24,
+   "end": 168.88,
+   "text": "ing zorcaya o tabiki"
+  },
+  {
+   "start": 168.88,
+   "end": 171.12,
+   "text": "ulu agar qoluk diliqsi yazilarigan busi"
+  },
+  {
+   "start": 171.12,
+   "end": 172.16,
+   "text": "kursinak ozgar midi"
+  },
+  {
+   "start": 172.16,
+   "end": 173.7,
+   "text": "baxki qanchi busi"
+  },
+  {
+   "start": 173.7,
+   "end": 175.54,
+   "text": "xud dushinarsani qoluk diliqsi asili boladi"
+  },
+  {
+   "start": 175.54,
+   "end": 177.94,
+   "text": "akeli ukeli toluru o malamat olamiz disili"
+  },
+  {
+   "start": 177.94,
+   "end": 179.22,
+   "text": "man patla sirki qaldir amen"
+  },
+  {
+   "start": 179.22,
+   "end": 181.1,
+   "text": "albatdak siri broyxatdan otiboyin"
+  },
+  {
+   "start": 181.1,
+   "end": 183.26,
+   "text": "minijirilarimiz ozlari sizgi alagaya chikadi"
+  },
+  {
+   "start": 183.26,
+   "end": 184.78,
+   "text": "o shatdini mi sovali li busi"
+  },
+  {
+   "start": 184.78,
+   "end": 186.62,
+   "text": "beri qoluk malamatlarima o alisti"
+  }
+ ],
+ "chars": 3117,
+ "chars_per_s": 16.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 12,
+ "quality": "низкое"
+}

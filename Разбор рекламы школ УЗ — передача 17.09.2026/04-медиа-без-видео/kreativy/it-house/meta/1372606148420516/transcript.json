@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.08,
+   "text": "Bu soxani kimlarga tavsiya qilaman?"
+  },
+  {
+   "start": 2.08,
+   "end": 5.36,
+   "text": "Erkin grafi nasay digarlar, vacekli onu xoxlamay digarlar uchun."
+  },
+  {
+   "start": 5.36,
+   "end": 9.36,
+   "text": "Oylik maoxt, organish darijangizga qara 500 dollardan 1000 dollar gecam."
+  },
+  {
+   "start": 9.36,
+   "end": 11.36,
+   "text": "Soxanoma ve pulstek."
+  },
+  {
+   "start": 11.36,
+   "end": 13.36,
+   "text": "Siz bu soxani IT haosda organin."
+  },
+  {
+   "start": 13.36,
+   "end": 17.28,
+   "text": "Oqish davringizdi kompyutor bilan, bitir gec ish bilan tamilinasiz."
+  },
+  {
+   "start": 17.28,
+   "end": 20.48,
+   "text": "Fakat yoshingiz 18 yoshtan balant pulso bas."
+  }
+ ],
+ "chars": 340,
+ "chars_per_s": 16.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

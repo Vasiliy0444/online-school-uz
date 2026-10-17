@@ -1,0 +1,56 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.72,
+   "text": "Qazm anay, oq uqchimizni anar arashvet deyikin, Nemirchun ayna international talagin haqida sorayamiz."
+  },
+  {
+   "start": 3.72,
+   "end": 7.02,
+   "text": "Instagramda qorub, qizikib, aldanam kurslarga barganidi."
+  },
+  {
+   "start": 7.14,
+   "end": 11.52,
+   "text": "Neticasi yaxshi buletgani uchun, keldik ala darajida, neticala yaxshi."
+  },
+  {
+   "start": 11.62,
+   "end": 18.34,
+   "text": "Qanli ozyarishla sizildi, Nemirchun, international talagin ila?"
+  },
+  {
+   "start": 18.46,
+   "end": 24.32,
+   "text": "Internationalda sifati, hama yogu ala darajida, tilfonda dars siklishlari, barabak darsini tavshiradi."
+  },
+  {
+   "start": 24.44,
+   "end": 29.84,
+   "text": "Agar darsini qimasa, oqt uqchisi tilfon qilib, darsini 100% qoysin, koshimchi oqt uqchisi agoklantiradi."
+  },
+  {
+   "start": 29.84,
+   "end": 32.12,
+   "text": "Fardan, zogu yapikim, boshqalagam tavsiye qalasimim?"
+  },
+  {
+   "start": 32.16,
+   "end": 33.46,
+   "text": "Tavsiye qaldim, qobchilikki."
+  },
+  {
+   "start": 33.56,
+   "end": 35.32,
+   "text": "Gelishti, bize sabab gelishti."
+  }
+ ],
+ "chars": 615,
+ "chars_per_s": 16.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

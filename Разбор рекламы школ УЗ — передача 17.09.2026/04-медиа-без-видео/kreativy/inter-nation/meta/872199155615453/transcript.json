@@ -1,0 +1,21 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 29.98,
+   "text": "Bugun daromad, kurs, o'qish va ish haqida gaplashamiz."
+  },
+  {
+   "start": 30.0,
+   "end": 32.0,
+   "text": "Chess"
+  }
+ ],
+ "chars": 60,
+ "chars_per_s": 1.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "низкое"
+}

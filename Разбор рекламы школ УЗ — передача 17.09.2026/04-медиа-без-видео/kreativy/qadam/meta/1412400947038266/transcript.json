@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.0,
+   "text": "Uzun markettagi oqochimiz uyur-uzur buyumlari sotub, bir oyda 1507000 som sa'adu aylamasini qildi."
+  },
+  {
+   "start": 5.26,
+   "end": 8.9,
+   "text": "Agar siz xaym uzun markette sa'adu oqilmoshli bulshangiz, videonu oqirgece koriyim."
+  },
+  {
+   "start": 9.62,
+   "end": 15.56,
+   "text": "Man khayrlayi sarvab, marketplislarda 5 milyarddan oshok sa'adu aylamasiki ege bugan sotuchek soblanima."
+  },
+  {
+   "start": 15.68,
+   "end": 19.92,
+   "text": "Ba uchillik tajribamimi aynan sili uchun bitti amali kurska yigdim."
+  },
+  {
+   "start": 19.92,
+   "end": 25.4,
+   "text": "Shokursda biz sizgi dokan achishtan bashlab, daramatli maqsilatlarin tanlab, ularin sato gachikarish,"
+  },
+  {
+   "start": 25.74,
+   "end": 30.46,
+   "text": "wa saada jarayanlarin aftamatilashdirishke chebolgan jarayanin noldan orgatib baramiz."
+  },
+  {
+   "start": 30.62,
+   "end": 33.72,
+   "text": "Yangi guruklarimizgi qabul achib, lekin jalar sona chekilangi."
+  },
+  {
+   "start": 33.96,
+   "end": 37.7,
+   "text": "Khazrak ariza qaldirin, wa uzun marketta daramat qilishni biz bilan baslayin."
+  }
+ ],
+ "chars": 685,
+ "chars_per_s": 18.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,16 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 11.98,
+   "text": "Ingilis tili di erkin gapirir, ujizgiye kottu imkanetilani payda oqilmachchi bolsangiz, pastagi xawalani basin va International Schoolni Andijon filaligi, ingilis tili kurslarigi yozalin."
+  }
+ ],
+ "chars": 187,
+ "chars_per_s": 12.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

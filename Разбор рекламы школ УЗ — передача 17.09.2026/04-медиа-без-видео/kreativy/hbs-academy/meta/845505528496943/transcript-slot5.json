@@ -1,0 +1,86 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.02,
+   "text": "Akciva kripto bazarda savda oqilib, natijiga irishmikum."
+  },
+  {
+   "start": 3.02,
+   "end": 5.02,
+   "text": "Kelim, munu birgaliida korib chikamiz."
+  },
+  {
+   "start": 5.02,
+   "end": 8.02,
+   "text": "Beto oqilishlamizan savda oqiyalarimi korshimiz imumqun,"
+  },
+  {
+   "start": 8.02,
+   "end": 11.02,
+   "text": "ulani meni ketmiget zarar va faydilari korumad."
+  },
+  {
+   "start": 11.02,
+   "end": 14.5,
+   "text": "29 dolar, 39, boli mart ayda,"
+  },
+  {
+   "start": 14.5,
+   "end": 18.22,
+   "text": "buda yashi savda oqiyali faydilari zarandarginiz bidan chikobir oqilib."
+  },
+  {
+   "start": 18.22,
+   "end": 20.72,
+   "text": "Demik, ulani umimi fqiyani daramatlari,"
+  },
+  {
+   "start": 20.72,
+   "end": 22.72,
+   "text": "385 dolari korshimiz imumqun,"
+  },
+  {
+   "start": 22.72,
+   "end": 25.72,
+   "text": "win rate-lari, yaniy estretiye gilani ishlasili ixtimalini gi,"
+  },
+  {
+   "start": 25.72,
+   "end": 27.72,
+   "text": "63 faizli korshat oqilini gi."
+  },
+  {
+   "start": 27.72,
+   "end": 33.22,
+   "text": "saldaaları oxirgi payitlidi bitcoin və akti bazarini top 500-di kampanyasigin nisbəti"
+  },
+  {
+   "start": 33.22,
+   "end": 34.72,
+   "text": "yaxshiraq faydi bugi."
+  },
+  {
+   "start": 34.72,
+   "end": 38.72,
+   "text": "Bu yan risk management-lari yaxshlamal qilib saldaq qaytkernilani nəticəs."
+  },
+  {
+   "start": 38.72,
+   "end": 41.22,
+   "text": "Agar siz amacindaki nəticili qilish xoxli siz,"
+  },
+  {
+   "start": 41.22,
+   "end": 44.72,
+   "text": "pastigi xavalar qali rohat dağıtib Express Trading kursimizigin yazilin."
+  }
+ ],
+ "chars": 768,
+ "chars_per_s": 17.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

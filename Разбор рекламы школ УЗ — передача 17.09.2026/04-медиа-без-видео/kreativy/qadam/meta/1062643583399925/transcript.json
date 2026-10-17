@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.7,
+   "text": "YouTube platformastı pul topishchun mashkhur bloger bolish shartamaz."
+  },
+  {
+   "start": 3.84,
+   "end": 8.02,
+   "text": "Kichik kanallı o zıxam, toğrı tizm asositu yurutilsi real daromat keltiradi."
+  },
+  {
+   "start": 8.08,
+   "end": 11.92,
+   "text": "Bizin YouTube Express kursimizisiz atige bir oyda YouTube kanallı toğra oqib,"
+  },
+  {
+   "start": 12.0,
+   "end": 16.28,
+   "text": "algoritimlar kanday ishlaqini videolanin mantash qilishi wa en qizgı monetizatsiya,"
+  },
+  {
+   "start": 16.5,
+   "end": 17.92,
+   "text": "yanim daromat qilishi orginas."
+  },
+  {
+   "start": 18.52,
+   "end": 23.54,
+   "text": "Yana koshib chasigi kontinti suni intelektu orqali yaratish bochi tarsinian bonus fatidi koshib eramiz."
+  },
+  {
+   "start": 23.54,
+   "end": 29.54,
+   "text": "Kursi akonide isisiz 500 doldar da 2000 dolar gechi daromat topish bochi en kerekli konikmaligi ege bolas."
+  },
+  {
+   "start": 29.54,
+   "end": 33.74,
+   "text": "Bi pul kansultatsi giyazili shchunisa, quydagi xabal orqali xaziro qarizi qaldri."
+  }
+ ],
+ "chars": 632,
+ "chars_per_s": 18.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

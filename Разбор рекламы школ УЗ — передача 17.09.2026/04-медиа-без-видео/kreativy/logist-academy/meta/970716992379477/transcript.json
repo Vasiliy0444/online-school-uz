@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.96,
+   "text": "Baqshana carimalari biznisni sekin oldirada."
+  },
+  {
+   "start": 3.24,
+   "end": 6.9,
+   "text": "Ku biznis egelari deklarasani chumagan uchun artik chetulu oqilishada."
+  },
+  {
+   "start": 7.32,
+   "end": 12.28,
+   "text": "Statistik malmadlargi karaganda hatalardin 60% nazarat yetishmasigi sababigyan."
+  },
+  {
+   "start": 12.58,
+   "end": 15.92,
+   "text": "Deklarasani chungan biznis egesi kamraq zarar korada,"
+  },
+  {
+   "start": 16.04,
+   "end": 20.24,
+   "text": "biznisinizin khabsiz bashkaraj va barca carayanlarina nazarat qilishchun."
+  },
+  {
+   "start": 20.58,
+   "end": 22.58,
+   "text": "Bura ilik deklarasi kursimizgi yazilin."
+  },
+  {
+   "start": 22.7,
+   "end": 24.64,
+   "text": "Yazilishchun xaziroq ruhikattan otib."
+  }
+ ],
+ "chars": 401,
+ "chars_per_s": 11.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

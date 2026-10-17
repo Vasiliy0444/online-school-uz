@@ -1,0 +1,76 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.72,
+   "text": "Bob, ishlariz korub chiptik, biz ge maqol kompytur ishlatishi bilassim."
+  },
+  {
+   "start": 3.92,
+   "end": 5.14,
+   "text": "Yod, xa nolgan shum kerek."
+  },
+  {
+   "start": 5.28,
+   "end": 9.54,
+   "text": "Mda, uzor biz sizne xikil ormaymiz, chunki bize kompytur chunadayan odomizdor kende."
+  },
+  {
+   "start": 9.8,
+   "end": 10.66,
+   "text": "Chunarli, rahmat."
+  },
+  {
+   "start": 11.52,
+   "end": 13.9,
+   "text": "Kompytur mi yaxshum agan ishchoy, yan ishkya orlishmadimo?"
+  },
+  {
+   "start": 14.0,
+   "end": 16.3,
+   "text": "Buda digi iki aychidi toghur nese boladi."
+  },
+  {
+   "start": 16.48,
+   "end": 17.88,
+   "text": "Foundation kursimiz dalbada."
+  },
+  {
+   "start": 17.88,
+   "end": 20.86,
+   "text": "Bu yirde siz noldan tohluq kompyturdan faydalanishi"
+  },
+  {
+   "start": 20.86,
+   "end": 24.58,
+   "text": "va ishki kerek bolagyan barchi programmalardan faydalanishi nal organasiz."
+  },
+  {
+   "start": 24.58,
+   "end": 29.3,
+   "text": "Xollas, istalgan jo geishki kraladigan dara jada kompyotorda ishlaxna organasiz."
+  },
+  {
+   "start": 29.36,
+   "end": 34.38,
+   "text": "Bonus tariqasta zamanavi suni intelekt programalardan faydalanishna xam organasiz."
+  },
+  {
+   "start": 34.62,
+   "end": 39.78,
+   "text": "13-ci akciabirdan 18-ci akciabir gechi foundation boychi biploch daslarimiz bolu botadi."
+  },
+  {
+   "start": 40.1,
+   "end": 43.8,
+   "text": "Joynizni band koli xuchun xozurov, basta gitugimu arkali roy xatan otin."
+  }
+ ],
+ "chars": 784,
+ "chars_per_s": 17.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

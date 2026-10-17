@@ -1,0 +1,91 @@
+{
+ "creative_id": "1993034777984848",
+ "platform": "meta",
+ "school_id": "englify",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон",
+  "запись экрана"
+ ],
+ "hook": {
+  "verbatim": "O'quvchilarim qiziqqanda, ingliz tilida nimanidir tushunmasa...",
+  "types": [
+   "боль",
+   "история"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.0s: «O'quvchilarim» / «qiziqda[n]»; мужчина за столом в национальном ресторане (плов, чайник)",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.5s–2.5s: «ingliz tilida» / «nimanidir tushunmasa»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Oquchilarim qiz wode, ingilis sildin madara chunmisi oqtuchistan sorashki uyayladi.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта",
+   "экономия времени"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:22: скриншот чат-бота «Alomat bot» — отвечает на вопрос «Present simple nima?» подробным объяснением грамматики",
+    "timecode": "00:22"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:14] siz undan yigrimator getti, xokhulegan partiz, xokhulegan soval, xokhulegan hatani sorashayiz baradi.",
+    "timecode": "00:14"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:36: «darsning yuki yoq»; ~0:50: «boshlaysiz»",
+    "timecode": "00:36"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Ilovani yuklab olish uchun video ostidagi havolani bosing 👇 ILOVANI YUKLAB OLISH"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Install now",
+  "in_creative": "перейти по ссылке",
+  "destination": "приложение",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Тот же ролик (тот же ведущий, тот же ресторанный интерьер, та же демонстрация ИИ-бота «Alomat bot»), что и у creative_id 27192061647078055, но упакован под установку приложения (itunes.apple.com, «Install now») вместо перехода на englify.uz."
+}

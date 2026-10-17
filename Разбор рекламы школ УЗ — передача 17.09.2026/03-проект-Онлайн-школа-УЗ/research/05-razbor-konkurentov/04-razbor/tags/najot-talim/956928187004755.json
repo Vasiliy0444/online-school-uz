@@ -1,0 +1,62 @@
+{
+ "creative_id": "956928187004755",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "картинка",
+  "duration_bucket": "не видео",
+  "aspect": "9:16"
+ },
+ "style": [
+  "статичный дизайн"
+ ],
+ "hook": {
+  "verbatim": "Toshkentda Kiberxavfsizlik kursi narxi qancha?",
+  "types": [
+   "вопрос"
+  ],
+  "visual": [
+   "крупный текст",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: заголовок «Toshkentda Kiberxavfsizlik kursi narxi qancha?», ниже «Batafsil ma'lumot olish» со стрелкой вниз, вверху лого NAJOT TA'LIM"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "профессия будущего"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Kiberjinoyatchilar har kuni minglab o'zbekistonliklarni fishing tuzog'iga tushirmoqda. Siz-chi, o'zingizni va kompaniyangizni himoya qila olasizmi?"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "AI (Sun'iy intellekt) yordamida xavflarni avtomatik aniqlash; Real keyslar va xalqaro metodika."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "никого"
+ },
+ "language": "узбекский латиница",
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Статичный дизайн (белый фон, лого Najot Ta'lim, без фото людей). Хук — главный заголовок на картинке, оформленный как вопрос о цене («narxi qancha?»); тот же шаблон дизайна (заголовок-вопрос о цене + «Batafsil ma'lumot olish» + стрелка) использован в объявлении 1269552338463876 (Mobilografiya) той же школы. Текст объявления (над картинкой в ленте) начинается с отдельного пугающего хука про фишинг и кражу данных в Telegram — это не хук на самой картинке, но задаёт тревожный фон для темы курса; учтено в meaning, не в hook. Оффер отсутствует: ни скидка, ни бонус, ни дедлайн не названы, «narxi qancha?» — кликбейт о цене без ответа на неё."
+}

@@ -1,0 +1,92 @@
+{
+ "creative_id": "1943808680357333",
+ "platform": "meta",
+ "school_id": "shahlo-alikhanova",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "запись экрана"
+ ],
+ "hook": {
+  "verbatim": "Menga shunaqa qiziq savol kelgan. Manashu savolga men o'zim(izn)i...",
+  "types": [
+   "вопрос"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: «menga shunaqa» → «qiziq savol» → «kelgan» → «manashu savolga» → «men o'zimizni»; сверху — окно комментария Instagram от «mushayot»: «Manan blog yuritishni boshlamoqchiman, lekin yuzimi ko'rsatishga ruxsat yo'q. Nima qilasam bo'ladi?»; Shahlo Alikhanova на площади со скандинавской застройкой",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Man ge shunaki qizil soqol kengana ke, mana shu soqolge ma uzunzana tajibamizna kelip chqib jawab verimok chi man.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "удалёнка и свобода",
+   "без опыта"
+  ],
+  "income_claim": "700 dollar daromad (AI-avatar misolida, ilova/kejs sifatida keltirilgan — sxema 1410266244400257 bilan bir xil hikoya)",
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:04] Tepida korpturgan video ila digi bu adam haqiki odam maz, bu sunintilik yordamida tayarlanga AI Avatar. [00:10] Bu Avatar meraz branda reklamararda chup, 700 dollar daromad topti.",
+    "timecode": "00:04"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg (~0:14): встроенный Instagram-пост аккаунта «meros.couture» — стилизованный портрет девушки в национальном образе со свечами, подпись «Meros SS 2026»",
+    "timecode": "00:14"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg (~0:14, нижний кадр): «700$ darom[ad]» на фоне Shahlo на площади",
+    "timecode": "00:23"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный урок"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "[BEPUL VIDEODARS] - Qanday Qilib Sun'iy Intellekt Orqali Daromad Qilish Mumkin?"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:29] Darslinni korushchun pasiqtun manabosin,",
+    "timecode": "00:29"
+   }
+  ]
+ },
+ "cta": {
+  "button": "See details",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "основатель или эксперт",
+  "public_name": "Shahlo Alikhanova"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук построен как ответ на вопрос подписчика из директа/комментариев («хочу вести блог, но не разрешено показывать лицо — что делать?») — формат «отвечаю на ваш вопрос». Расшифровка [00:00] сильно искажена («qizil soqol» = красная борода — явная ошибка распознавания слова «savol»/похожего), поэтому hook.verbatim взят с кадра (надёжнее). В теле ролика Shahlo прямо ссылается на кейс «AI-аватар, который не является настоящим человеком и заработал 700 долларов на рекламе бренду» — это дословно тот же сюжет, что служит хуком в отдельном креативе порции 1410266244400257 («Lekin man haqiqiy odam emasman»); похоже, этот ролик — Shahlo-обёртка, использующая тот же кейс как встроенный пример/доказательство. Расшифровка остатка (написание исправлено): «Tepada ko'rgan videodagi bu odam haqiqiy odam emas, bu sun'iy intellekt yordamida tayyorlangan AI avatar. Bu avatar mening brendlarim uchun reklamalarda ishlatilib, 700 dollar daromad topdi. Xo'sh, sizham o'z yuzingizni ko'rsatmasdan AI avatar tayyorlab, mana shu orqali blog yuritib, brendlar bilan hamkorlik qilib, reklamalar orqali daromad topishingiz mumkinmi? Agar sizga 2026-yil AI bilan blog yuritib, daromad topish mavzusi qiziq bo'ladigan bo'lsa, biz — Shvetsiyadan AI ekspertlar va xalqaro spikerlar — mana shu mavzuda video darslik tayyorladik. Darslikni ko'rish uchun pastdagi tugmani bosing, umid qilamanki bu darslik sizga foydali bo'ladi»."
+}

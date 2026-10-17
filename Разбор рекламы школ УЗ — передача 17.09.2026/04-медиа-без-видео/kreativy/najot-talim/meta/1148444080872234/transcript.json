@@ -1,0 +1,231 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.32,
+   "text": "Nima ge, hazi, toshkir shunchi imköratlar jayobobtir, anca onya qaytipet yadibs."
+  },
+  {
+   "start": 3.42,
+   "end": 5.82,
+   "text": "Sige taklib etimashidimu, bu mesesh ki okomashidimu."
+  },
+  {
+   "start": 5.86,
+   "end": 7.42,
+   "text": "Ismim Bakram, andi jandamman."
+  },
+  {
+   "start": 7.64,
+   "end": 8.86,
+   "text": "Esimim yona alisda okodim."
+  },
+  {
+   "start": 8.94,
+   "end": 12.4,
+   "text": "Uzbekistanin 24-li diniyasiga, ishket afshir gandim."
+  },
+  {
+   "start": 12.48,
+   "end": 13.42,
+   "text": "Shunda atgaz boldi."
+  },
+  {
+   "start": 13.58,
+   "end": 16.28,
+   "text": "Mena atgazdama sababim, enda tajribi etmaganim boldi."
+  },
+  {
+   "start": 16.34,
+   "end": 18.78,
+   "text": "Enkamba da, nima talablar koyilgalligin kordizmim?"
+  },
+  {
+   "start": 18.82,
+   "end": 22.66,
+   "text": "Eylan da, tekst yazish, content planlat izhish, shular verilgan asalsan."
+  },
+  {
+   "start": 22.72,
+   "end": 23.92,
+   "text": "Marketing, mkhum qayda bardi."
+  },
+  {
+   "start": 23.92,
+   "end": 26.64,
+   "text": "marketing organish osan tajiba tublash qiyin buqyan soxhi"
+  },
+  {
+   "start": 26.64,
+   "end": 28.2,
+   "text": "har doyim tajiba usudasiz"
+  },
+  {
+   "start": 28.2,
+   "end": 30.28,
+   "text": "yani umrizi axirgisi ilm organish iskidi marketingda"
+  },
+  {
+   "start": 30.28,
+   "end": 32.28,
+   "text": "chunki key iskibib, kory shkidi kirey buqyan"
+  },
+  {
+   "start": 32.28,
+   "end": 33.48,
+   "text": "demi elamda kordiiz"
+  },
+  {
+   "start": 33.48,
+   "end": 34.76,
+   "text": "sotbat offline boldi mi?"
+  },
+  {
+   "start": 34.76,
+   "end": 36.52,
+   "text": "aha, bordim, tazil haberdi"
+  },
+  {
+   "start": 36.52,
+   "end": 38.6,
+   "text": "tajibam unaki katta bomagani uchun"
+  },
+  {
+   "start": 38.6,
+   "end": 39.56,
+   "text": "sekinyini qildim"
+  },
+  {
+   "start": 39.56,
+   "end": 40.68,
+   "text": "shu sababdan adgaz boldim"
+  },
+  {
+   "start": 40.68,
+   "end": 42.16,
+   "text": "talim zaryarini da odaddi"
+  },
+  {
+   "start": 42.16,
+   "end": 43.72,
+   "text": "marketing, yoki grafik zayin"
+  },
+  {
+   "start": 43.72,
+   "end": 45.84,
+   "text": "analitiki kibir hafizik istalyan bu yunarizda"
+  },
+  {
+   "start": 45.84,
+   "end": 47.84,
+   "text": "usta, siz bilan uquchigi nisbatan yon dashadi"
+  },
+  {
+   "start": 47.84,
+   "end": 49.84,
+   "text": "Lakin kampanyalar biznes cikatni ondashadi."
+  },
+  {
+   "start": 49.84,
+   "end": 51.6,
+   "text": "Tasabikli yirmatda okuchsiz,"
+  },
+  {
+   "start": 51.6,
+   "end": 52.8,
+   "text": "hazir hamiz bitir yapsiz"
+  },
+  {
+   "start": 52.8,
+   "end": 54.32,
+   "text": "va bitirgan kyunizdan boshilab"
+  },
+  {
+   "start": 54.32,
+   "end": 55.96,
+   "text": "kampanyalar uchun rakabachigayliniz."
+  },
+  {
+   "start": 55.96,
+   "end": 58.48,
+   "text": "Va biznes sizgi faydali kaifisin boycha qaraydi."
+  },
+  {
+   "start": 58.48,
+   "end": 59.76,
+   "text": "Ushki tapchiraykin adamla icdi"
+  },
+  {
+   "start": 59.76,
+   "end": 61.64,
+   "text": "kim mingi kopro fayda veriyabdi dixablaydi."
+  },
+  {
+   "start": 61.64,
+   "end": 63.36,
+   "text": "Va manashu cikatidan harakad qiladi."
+  },
+  {
+   "start": 63.36,
+   "end": 65.04,
+   "text": "Qay sahanini bitirgizdiyan qatiyi nazar"
+  },
+  {
+   "start": 65.04,
+   "end": 66.08,
+   "text": "siz ish jayi maz,"
+  },
+  {
+   "start": 66.08,
+   "end": 67.08,
+   "text": "balkin mentir tallin,"
+  },
+  {
+   "start": 67.08,
+   "end": 68.24,
+   "text": "ilaji barici tavsiya qilami."
+  },
+  {
+   "start": 68.24,
+   "end": 70.04,
+   "text": "Sizgi sahaboychi,"
+  },
+  {
+   "start": 70.04,
+   "end": 71.44,
+   "text": "yahsi gini tajibasi"
+  },
+  {
+   "start": 71.44,
+   "end": 101.44,
+   "text": "qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir qazir q"
+  },
+  {
+   "start": 101.44,
+   "end": 102.14,
+   "text": "shokomo shidun."
+  },
+  {
+   "start": 102.22,
+   "end": 102.76,
+   "text": "Ahmadiyyat ta'lam."
+  },
+  {
+   "start": 102.9,
+   "end": 103.36,
+   "text": "Ahmadiyyat."
+  },
+  {
+   "start": 103.72,
+   "end": 104.76,
+   "text": "Ahmadiyyat ta'lam."
+  }
+ ],
+ "chars": 1936,
+ "chars_per_s": 18.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 1,
+ "quality": "черновое"
+}

@@ -1,0 +1,106 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.44,
+   "text": "Siz uzum kursige qiziqqansiz, amma xaliham karor qilmadengizmi?"
+  },
+  {
+   "start": 5.26,
+   "end": 8.5,
+   "text": "Bugun uzum market boyche kurslar kop, amma muqim so'ol boshka."
+  },
+  {
+   "start": 8.72,
+   "end": 11.76,
+   "text": "Kim real sot uchi? Kim haqiqi aynamasini korsi toladi?"
+  },
+  {
+   "start": 12.02,
+   "end": 14.2,
+   "text": "Kim tizim beradi, faqat yozu emas?"
+  },
+  {
+   "start": 14.44,
+   "end": 16.18,
+   "text": "Kursini spikeri Kharulaev Sarvar."
+  },
+  {
+   "start": 16.32,
+   "end": 20.66,
+   "text": "Marketplacelarda uchi lik tajribagi, va 5 milyard somda ortak aynamagi ege mutaqasis."
+  },
+  {
+   "start": 20.9,
+   "end": 24.38,
+   "text": "Kurs davamda siz uzum marketi sabdoni boshlasini tolix jera unda otasiz."
+  },
+  {
+   "start": 24.7,
+   "end": 27.74,
+   "text": "Daromatli maksulatini tallash, dokonigizni rohqatna otgazish,"
+  },
+  {
+   "start": 27.74,
+   "end": 31.82,
+   "text": "kartishgalar dohri yaradish, sandon yoyduhvish, ba jiraynlarini akumatlashdirish."
+  },
+  {
+   "start": 31.92,
+   "end": 34.94,
+   "text": "Bizde real uquchilar fikirlari bor, real natijalar bor."
+  },
+  {
+   "start": 35.06,
+   "end": 36.72,
+   "text": "Umi abarotimiz, bizot 7000 anich."
+  },
+  {
+   "start": 36.82,
+   "end": 38.52,
+   "text": "1 milyon ge yaqan abarot qildim."
+  },
+  {
+   "start": 38.58,
+   "end": 40.0,
+   "text": "1 milyon drablin odomliyad."
+  },
+  {
+   "start": 40.0,
+   "end": 42.18,
+   "text": "30 milyon che, nabirna, abarot boldi."
+  },
+  {
+   "start": 42.22,
+   "end": 44.2,
+   "text": "Kursiya kunida sertifikatxan beriladi."
+  },
+  {
+   "start": 44.7,
+   "end": 50.02,
+   "text": "Bizni uqu tizimimiz boyi qe, alli qicho 2,5 mili orti qadam yudikishim bitirimichilari daroma topshmokti."
+  },
+  {
+   "start": 50.02,
+   "end": 54.76,
+   "text": "Qoşim chasidi biz rasmiy uqu markazimiz va ofisimiz toshkin shakrini markazda joylashgan."
+  },
+  {
+   "start": 54.76,
+   "end": 59.14,
+   "text": "Agar qaror qabul qilishke bir qadam qolganda toqtigan bolsaniz, yanı keçikitirmayin."
+  },
+  {
+   "start": 59.3,
+   "end": 61.12,
+   "text": "Ariza qoldirin ba, basizmilan boğilin amiz."
+  }
+ ],
+ "chars": 1106,
+ "chars_per_s": 18.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

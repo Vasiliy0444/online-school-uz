@@ -1,0 +1,18 @@
+{
+ "school_id": "qadam",
+ "url": "https://qadam.education/naym-quiz",
+ "sources": "ads:meta | site:sitemap",
+ "first_seen": "2026-07-27",
+ "last_seen": "2026-09-16",
+ "stage_auto_url": "квиз",
+ "is_archive": false,
+ "snapshot_at": "2026-09-16T19:52:34+00:00",
+ "live_status": 200,
+ "final_url": "https://qadam.education/naym-quiz",
+ "title": "Copy of Qadam Education - Jamoamizga qo'shilish",
+ "screenshot": "/Users/Bel-a/Data/online-shkola-uz/05-razbor-konkurentov/lendingi/qadam/qadam-education-naym-quiz-034cd3/screenshot-mobile.jpg",
+ "stage_auto": "вебинар или мастер-класс",
+ "stage_reason": "текст (вебинар или мастер-класс) против адреса (квиз) — проверить по скриншоту",
+ "text_chars": 2787,
+ "reshot_at": "2026-09-17T00:28:56+00:00"
+}

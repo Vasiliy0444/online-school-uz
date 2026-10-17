@@ -1,0 +1,31 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.58,
+   "text": "Istergan vaqtda, istergan joyda,"
+  },
+  {
+   "start": 2.94,
+   "end": 5.36,
+   "text": "ve daimiyyish uchun bu pullar shaklimiz."
+  },
+  {
+   "start": 5.98,
+   "end": 10.92,
+   "text": "Buna uchun siz, IT House okumarkazinin 6 aylik grafizini kursarda oku chikishiniz kerek."
+  },
+  {
+   "start": 11.26,
+   "end": 15.3,
+   "text": "Agar yashiniz 18 qanundan yokarı bolsa, sizini ish bilantlam tamirilashadi."
+  }
+ ],
+ "chars": 238,
+ "chars_per_s": 15.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

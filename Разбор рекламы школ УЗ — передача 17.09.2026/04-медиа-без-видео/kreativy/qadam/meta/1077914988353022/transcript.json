@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.96,
+   "text": "YouTube platformasta daromad qilishchun kamera, yorogli, mantaj orkeriyyid boyl ismi yok."
+  },
+  {
+   "start": 5.08,
+   "end": 8.7,
+   "text": "Endi bulani bar chasini bita doni suni intelekt orqali bajarshiz munkun."
+  },
+  {
+   "start": 8.88,
+   "end": 12.74,
+   "text": "Bizni YouTube Express kursimizisiz atige bir oyda YouTube kanali togur oqib,"
+  },
+  {
+   "start": 12.84,
+   "end": 17.12,
+   "text": "algoritimlar kanday ishlaishini videolani mantaj qilishliwi en qizigi monetizatsiya,"
+  },
+  {
+   "start": 17.32,
+   "end": 18.76,
+   "text": "yanin daromad qilishchi orginas."
+  },
+  {
+   "start": 19.34,
+   "end": 24.38,
+   "text": "Yana koshib chasigi kantinti suni intelekt orqali yaratish boychi tarsinian bonus fatidi koshib eramiz."
+  },
+  {
+   "start": 24.38,
+   "end": 30.38,
+   "text": "Kursiya koni deyese siz 500 dollarda 2000 dollara gechi darama tapish bochi en kerekli koni kimalagi ege bolas."
+  },
+  {
+   "start": 30.74,
+   "end": 34.62,
+   "text": "Beypul konsultatsi geyo azili shkunesa, quydagi xabalar qali xaziro qarizi qaldirin."
+  }
+ ],
+ "chars": 658,
+ "chars_per_s": 18.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

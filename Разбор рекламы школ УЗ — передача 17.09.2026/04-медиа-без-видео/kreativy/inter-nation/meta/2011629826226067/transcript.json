@@ -1,0 +1,36 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.5,
+   "text": "Siz uchun Students App."
+  },
+  {
+   "start": 2.56,
+   "end": 4.62,
+   "text": "Uygevay tifalar, yangi soslar."
+  },
+  {
+   "start": 5.1,
+   "end": 6.24,
+   "text": "Barcha se telefon ingizde."
+  },
+  {
+   "start": 6.7,
+   "end": 9.22,
+   "text": "Agar siz kamishu ilovagi ege bolmohchi bolsengiz,"
+  },
+  {
+   "start": 9.54,
+   "end": 10.28,
+   "text": "tugimani bosin."
+  }
+ ],
+ "chars": 147,
+ "chars_per_s": 14.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

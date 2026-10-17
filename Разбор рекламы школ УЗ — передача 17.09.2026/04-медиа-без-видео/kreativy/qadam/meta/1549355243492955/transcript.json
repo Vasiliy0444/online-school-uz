@@ -1,0 +1,136 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.1,
+   "text": "Qadam education oqe rostanam kurut doy oqo markazi."
+  },
+  {
+   "start": 3.4,
+   "end": 5.8,
+   "text": "Sotondak yapraman ozi isqisakilab chikar oras."
+  },
+  {
+   "start": 5.94,
+   "end": 9.96,
+   "text": "Tor minti oquchini aynan shun naprawliyina boych oqichishgan."
+  },
+  {
+   "start": 10.1,
+   "end": 10.88,
+   "text": "Unan tashqarib."
+  },
+  {
+   "start": 10.92,
+   "end": 13.2,
+   "text": "Bod digi oqtuchilani ozu baro okey."
+  },
+  {
+   "start": 13.36,
+   "end": 16.68,
+   "text": "Tor milyard, beş milyard, som uzumda aborotxil sharka."
+  },
+  {
+   "start": 16.76,
+   "end": 16.94,
+   "text": "Qare."
+  },
+  {
+   "start": 17.76,
+   "end": 20.56,
+   "text": "Oqtuchi ozi uzumdishilab sukakilatdi di."
+  },
+  {
+   "start": 20.66,
+   "end": 22.5,
+   "text": "Shansmim o shanisizgi orgetadi."
+  },
+  {
+   "start": 23.24,
+   "end": 23.6,
+   "text": "Online."
+  },
+  {
+   "start": 23.68,
+   "end": 25.72,
+   "text": "Agar vloyatda basiz online oqish sezan bolad."
+  },
+  {
+   "start": 25.72,
+   "end": 27.98,
+   "text": "Agar yo offline gelaman man getisiz okey."
+  },
+  {
+   "start": 27.98,
+   "end": 30.9,
+   "text": "qaybi metro ni exigide telide choyleshgan."
+  },
+  {
+   "start": 30.9,
+   "end": 32.58,
+   "text": "Xamas sizichun qulaydi."
+  },
+  {
+   "start": 32.58,
+   "end": 34.94,
+   "text": "Agar xalayam kalladi, baxana baladigan basi,"
+  },
+  {
+   "start": 34.94,
+   "end": 36.62,
+   "text": "zor taklif etaman sizigi."
+  },
+  {
+   "start": 36.62,
+   "end": 40.98,
+   "text": "Qadam education-ni 40% gechi cheqirime derishu vatdi."
+  },
+  {
+   "start": 40.98,
+   "end": 42.5,
+   "text": "Chill access kiti vatdi."
+  },
+  {
+   "start": 42.5,
+   "end": 45.54,
+   "text": "Undan tashkari, aynashi chill access paytidi gelib,"
+  },
+  {
+   "start": 45.54,
+   "end": 47.54,
+   "text": "oqidiyan basi izbira idamamadi."
+  },
+  {
+   "start": 47.54,
+   "end": 49.54,
+   "text": "Su oku uchilan arasda, anamam,"
+  },
+  {
+   "start": 49.54,
+   "end": 51.14,
+   "text": "shiriligini gorbasim makvubki."
+  },
+  {
+   "start": 51.14,
+   "end": 53.78,
+   "text": "Bira ortasiga randomni beriladi."
+  },
+  {
+   "start": 53.78,
+   "end": 55.78,
+   "text": "Malamatim sizigi yeterli bovangan basi,"
+  },
+  {
+   "start": 55.78,
+   "end": 61.52,
+   "text": "Pastigi link boyiche, telefon nomerlarizi koldirsteiz, okey, meningerle sizgi kama malamotdi berisaydi."
+  }
+ ],
+ "chars": 982,
+ "chars_per_s": 15.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

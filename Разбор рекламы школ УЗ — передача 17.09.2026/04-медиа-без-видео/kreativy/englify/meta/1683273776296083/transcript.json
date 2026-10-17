@@ -1,0 +1,56 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.92,
+   "text": "Engilis tiri orga tamiz digan elallani kob kordiz. Bizan yan brinch mati kor mi hapsiz. Lekin Englify ozi nimaqil aliydi, qanag natiji bir aliydi."
+  },
+  {
+   "start": 7.28,
+   "end": 15.72,
+   "text": "Mana misalchum bizni suni intelekt yardamidi qiligan speaking fung tamiz. O aynam uzbeklar uchun sozlangan, va noldan erkin gaprish kecham abchqa alaydi. Mana oiz korin."
+  },
+  {
+   "start": 15.72,
+   "end": 19.08,
+   "text": "Hello, let's talk about best friends. Who is your best friend?"
+  },
+  {
+   "start": 19.38,
+   "end": 21.12,
+   "text": "My best friend is Asad."
+  },
+  {
+   "start": 21.18,
+   "end": 24.28,
+   "text": "That's great. What do you like to do together with Asad?"
+  },
+  {
+   "start": 24.42,
+   "end": 29.1,
+   "text": "I want to go to PC game club with him and play Counter-Strike."
+  },
+  {
+   "start": 29.1,
+   "end": 31.2,
+   "text": "Bu, ond te funksiyamizdan bit das khalas."
+  },
+  {
+   "start": 31.2,
+   "end": 33.74,
+   "text": "Xamasnon uziz faydalanib korchi uschunt xabarons tige."
+  },
+  {
+   "start": 33.74,
+   "end": 35.74,
+   "text": "Basinig, vay ilamanig yukilabalig."
+  }
+ ],
+ "chars": 655,
+ "chars_per_s": 18.2,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

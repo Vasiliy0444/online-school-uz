@@ -1,0 +1,118 @@
+{
+ "url": "https://web.englify.uz/",
+ "school_id": "englify",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "основной продукт",
+ "builder": "Vue/Nuxt на Vercel (по признакам)",
+ "pixels": [
+  "Google Analytics (GA4)"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Начать говорить по-английски с нуля за 3 месяца; «школа английского №1 в Узбекистане»",
+  "quote": "O'zbekistonda #1 ingliz tili maktabi\nINGLIZ TILIDA 0 DAN 3 OYDA GAPIRISHNI BOSHLANG.",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": true,
+  "value": "Занятые взрослые: работающие (госслужащие, сотрудники частных компаний), предприниматели, путешественники, домохозяйки-мамы, студенты для поступления за рубеж; в тарифах Bo'talog'im — для академической карьеры, Jo'shqin — «Davlat xodimlari, tadbirkorlar, ishli odamlar»",
+  "quote": "Kurs aynan kimlar uchun?\nIshli odamlar\nDavlat xodimlari, xususiy korxona xodimlari, kun tartibi har xil bo‘ladigan insonlar.\nTadbirkorlar\n…\nUy bekalari\nFarzandiga ingliz tili o‘rgatmoqchi va birga dars qilmoqchi bo‘lgan onalar\nStudentlar\nChet el universitetiga bakalavrga yoki magistraturaga topshirmoqchi bo’lganlar",
+  "where": "низ страницы"
+ },
+ "program": {
+  "found": true,
+  "lessons": 427,
+  "duration": "помесячно или пакет на 3 месяца (Bo'talog'im), Jo'shqin — по 495 000 в месяц при покупке на 6 месяцев; обещание — заговорить за 3 месяца",
+  "format": "онлайн",
+  "quote": "Serial uslubidagi 427 video darslar\nSun'iy intellekt bilan 24/7 amaliy mashg'ulot\nMavzularni mustahkamlash uchun 2893 ta mashqlar\nGarvard universitetining Spaced Repetition metodi orqali so‘z yodlash\nIELTS balli 8.0 ustozlar bilan haftada 3 marta, 80 daqiqadan jonli darslar\nEnglish Battle — o‘yin orqali mavzuni mustahkamlash"
+ },
+ "speaker": {
+  "found": true,
+  "value": "Основатель Teacher Azam — Azam Qahramoniy, основал Englify в 2022 году («платформа №1 в Средней Азии» — самоотчёт); Mr Javohir (Academic manager) и ещё 10 преподавателей только по именам с подписью «Teacher»",
+  "quote": "Englifyga kim qachon asos solgan\nEnglify platformasi 2022-yil Azam Qahramoniy tomonidan asos solingan. Hozirda, ingliz tili o'rganish uchun O'rta Osiyodagi 1-raqamli platforma.\nTeacher Azam\nEnglify Asoschisi",
+  "where": "середина"
+ },
+ "social_proof": {
+  "types": [
+   "число учеников",
+   "видеоотзывы",
+   "рейтинг площадки"
+  ],
+  "count_claim": "счётчики «Ilova yuklab olingan», «Faol o'quvchilar», «Ro'yxatdan o'tgan», «Sertifikat olganlar» — в снимке «0 +» (анимация не досчитала, реальные числа не сняты); «Nima uchun minglab o'quvchilar Englifyni tanladi?», «O'zbekistonda #1 ingliz tili maktabi», «O'rta Osiyodagi 1-raqamli platforma», рейтинг приложения «4.4 App Store» и «4.5 Playmarket» — самоотчёт",
+  "reviews_count": 5
+ },
+ "price": {
+  "found": true,
+  "tariffs": [
+   {
+    "name": "Bo'talog'im",
+    "price_uzs": 850000,
+    "period": "в месяц",
+    "quote": "Bo'talog'im\n850 000so'm\noyiga"
+   },
+   {
+    "name": "Jo'shqin",
+    "price_uzs": 495000,
+    "period": "в месяц при покупке на 6 месяцев (2 970 000 за 6 месяцев по арифметике)",
+    "quote": "Jo'shqin\n495 000so'm\noyiga - 6 oylik sotib olganda"
+   },
+   {
+    "name": "3 Oylik Bo'talog'im",
+    "price_uzs": 2250000,
+    "period": "за 3 месяца (750 000 в месяц)",
+    "quote": "3 Oylik Bo'talog'im\n2 250 000so'm\noyiga 750 000 so'mdan"
+   }
+  ]
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": true,
+  "value": "Словом «скидка» не названо, но предоплата дешевле: «3 Oylik Bo'talog'im» — 750 000 сум в месяц против 850 000 при помесячной оплате (−300 000 за 3 месяца); Jo'shqin — 495 000 в месяц только «6 oylik sotib olganda»",
+  "quote": "3 Oylik Bo'talog'im\n2 250 000so'm\noyiga 750 000 so'mdan\n…\nJo'shqin\n495 000so'm\noyiga - 6 oylik sotib olganda",
+  "where": "середина"
+ },
+ "bonuses": {
+  "found": true,
+  "value": "Бесплатно: определение уровня; бесплатный контент — Telegram-канал с еженедельными бесплатными уроками, YouTube-уроки, закрытый канал с ежемесячным мастер-классом Teacher Azam, в приложении — подкасты, демо-урок, фильмы, книги",
+  "quote": "Englify yetishtirgan uzumlardan bepulga bir shingil tatib ko’ring\n…\nTelegram kanal\nHaftalik bepul darslar\n…\nYopiq Kanal\nTeacher Azam bilan xar oy master-klass\nIlova\nPodcast, Demo dars, Kino, Kitob\n…\nDarajangizni bepulga aniqlaymiz",
+  "where": "низ страницы"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "имя",
+   "телефон"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "message_match": {
+  "library_id": "1610619443739071",
+  "scores": {
+   "promise_continuity": 7,
+   "language_match": 7,
+   "visual_continuity": 4,
+   "cta_alignment": 9,
+   "specificity_match": 6,
+   "emotional_match": 5
+  },
+  "total_of_60": 38
+ },
+ "notes": "Отдельный продающий лендинг основного продукта на поддомене web.englify.uz (первое появление — 07.09.2026, реклама и crt.sh). Порядок: бейдж «O'zbekistonda #1 ingliz tili maktabi» и заголовок «INGLIZ TILIDA 0 DAN 3 OYDA GAPIRISHNI BOSHLANG.» с формой (на скриншоте поля «Ismingiz va familyangiz» и телефон +998, кнопка «Ro’yxatdan o’tish», согласие с офертой englify.uz/public-offer; ниже — мужчина в очках с телефоном) → 4 счётчика (в снимке нули) → возможности приложения (427 видеоуроков, 2893 упражнения, ИИ 24/7, «Garvard universitetining Spaced Repetition metodi», English Battle) и рейтинги 4.4 App Store / 4.5 Playmarket → основатель и 11 преподавателей → «Englify vs An'anaviy ta'lim» (картинки after/before) → 5 отзывов учеников (иконка курсора и превью — по разметке видео) → тарифы с кнопками «Darsga yozilish» → бесплатный контент → «Kurs aynan kimlar uchun?» → финальная форма «Batafsil ma’lumot olish uchun ro’yxatdan o’ting» с пунктами «Darajangizni bepulga aniqlaymiz», «Jonli va qiziqarli format», «IELTS 8.0 balli ustozlar», «AI bilan 24/7 amaliyot» → подвал «\"ENGLIFY\" MChJ», «ИНН: 309795570». Цены (сум): Bo'talog'im 850 000 в месяц — «Jo'shqin tarifidagi barcha imkoniyatlar», живые уроки 3 раза в неделю по 80 минут, «IELTS 8.0 va 4 yillik tajribaga ega ustoz», «Tushunmagan mavzuyingiz uchun yordamchi ustozlar»; Jo'shqin 495 000 в месяц «6 oylik sotib olganda» — приложение 24/7, ИИ-помощник, сертификат, support-менеджер, без живых уроков; «3 Oylik Bo'talog'im» 2 250 000 («oyiga 750 000 so'mdan»). Помесячная оплата — не рассрочка; явного деления платежа, гарантии, возврата и дедлайна на странице нет (шкала возврата — в оферте). Jo'shqin за 6 мес. (495 000 × 6 = 2 970 000) совпадает с главной englify.uz; Jo'shqin на 3 месяца здесь нет. Данные о преподавателях расходятся: здесь «IELTS 8.0», в тексте рекламы «IELTS 8.5», на главной «7.5+». Что будет после формы, не сказано («Batafsil ma’lumot olish uchun ro’yxatdan o’ting» — подробности после заявки), next_step «звонок менеджера» — по смыслу. Техника: intel.json видит только GA4 — Meta Pixel не найден, хотя сюда ведёт реклама Meta; картинки через /_vercel/image и комментарии Vue «teleport» — Nuxt/Vue на Vercel (по признакам). Реклама: 7 объявлений, все с 07.09.2026 (10 дней), без рангов, один текст: «🗣️3 oyda ingliz tilida bemalol gapirib, tushuna oladigan darajaga chiqasiz. 🎓 Darslarimiz online, istalgan joyda va vaqtda o'rgana olasiz. 👩🏻‍🏫 IELTS 8.5 va 4 yillik tajribaga ega ustozlardan ta'lim olasiz. RO'XATDAN O'TISH» (тот же текст — у 11 объявлений на главную). message_match: объявление 1610619443739071 (при равных 10 днях — первое из двух с 2 копиями и расшифровкой; у второго, 1067945085976981, ролик на ту же тему: обещала себе начать английский с понедельника, на курсы нет времени и денег на дорогу — «Englify ilovasi» по 15–20 минут в любое время). Ролик (черновая расшифровка, 70 с): молодая мама на кухне (титр «Ona»): в декрете время зависит от ребёнка, неловко просить деньги у мужа, а курсы — это ещё дорога и мелкие расходы; поэтому через «Englify ilovasi» каждый день смотрит видеоуроки по 15 минут, пока ребёнок спит, — экономия денег и времени; призыв зарегистрироваться по ссылке внизу. Текст объявления и ролик говорят о разном (текст — живые уроки с IELTS-преподавателями и разговор за 3 месяца, ролик — самостоятельное приложение для мам). С текстом совпадают заголовок «0 DAN 3 OYDA GAPIRISHNI», «4 yillik tajriba», онлайн и регистрация на первом экране; с роликом — видеоуроки и приложение 24/7, блок «Uy bekalari» (внизу страницы). Расходятся «IELTS 8.5» и «IELTS 8.0»; обещание смягчено: в рекламе «bemalol gapirib, tushuna oladigan darajaga chiqasiz», на странице «gapirishni boshlang»; «15 минут в день» на странице нет. Визуально страница не продолжает ролик: домашнее видео от лица мамы против яркого синего брендового дизайна."
+}

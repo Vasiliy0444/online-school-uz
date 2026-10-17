@@ -1,0 +1,151 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.12,
+   "text": "On yil aldi maqini bazarili isliyin, odamli qanak i kub boladi, zapchaz bazarili isliyin, tuili boladi, hazi."
+  },
+  {
+   "start": 6.58,
+   "end": 8.38,
+   "text": "Bir yerli xamma online go tuket va."
+  },
+  {
+   "start": 8.46,
+   "end": 14.44,
+   "text": "Odamli dangazalashib, uydu otribda, oki, haman arsani otirgin joydi bitirish xala vatdi."
+  },
+  {
+   "start": 14.66,
+   "end": 19.62,
+   "text": "Dangazalik vatdi ma, oki, demi siz aynan shu xalatdan faydanan xal shizkiri, soqaqil shizkiri,"
+  },
+  {
+   "start": 19.72,
+   "end": 23.12,
+   "text": "shuladan qaya platformaladan bitlase bu uzun."
+  },
+  {
+   "start": 23.74,
+   "end": 28.18,
+   "text": "Agar da cudayam khuzu batgan bosa, sizgi bunar sani qadam education orgetadi."
+  },
+  {
+   "start": 28.18,
+   "end": 31.54,
+   "text": "qadam education oki rostanam kurutoy oku markazi"
+  },
+  {
+   "start": 31.54,
+   "end": 34.22,
+   "text": "sondag yapraman ozi isqisaklab chkari oras"
+  },
+  {
+   "start": 34.22,
+   "end": 38.38,
+   "text": "tor minti okuchini aynan shun naprawliyini boych okuchkani"
+  },
+  {
+   "start": 38.38,
+   "end": 41.62,
+   "text": "ondan tashkari, bod digi okutuchilani ozi bari oki"
+  },
+  {
+   "start": 41.62,
+   "end": 45.54,
+   "text": "tor milyardi, bish milyardi, som uzumda aborotxil sharki, qarayin"
+  },
+  {
+   "start": 45.54,
+   "end": 48.94,
+   "text": "okutuchi ozi uzundishilab soqaqi vatdi di"
+  },
+  {
+   "start": 48.94,
+   "end": 50.94,
+   "text": "shansmim o shani sizgi ori getadi"
+  },
+  {
+   "start": 50.94,
+   "end": 54.14,
+   "text": "online, agar vlog yaddi bo sez online okutsay zan bolad"
+  },
+  {
+   "start": 54.14,
+   "end": 56.34,
+   "text": "agar yo offline gelaman man gedsez oki"
+  },
+  {
+   "start": 56.34,
+   "end": 59.26,
+   "text": "qaybi metroni ejigili teyidi choylashgan."
+  },
+  {
+   "start": 59.26,
+   "end": 60.94,
+   "text": "Xamansiz için qulay."
+  },
+  {
+   "start": 60.94,
+   "end": 63.3,
+   "text": "Agar xalayam kalladi, baxana baladigan basi,"
+  },
+  {
+   "start": 63.3,
+   "end": 64.98,
+   "text": "zor taklif etamansizgi."
+  },
+  {
+   "start": 64.98,
+   "end": 69.34,
+   "text": "Qadam education-ni 40% gechi cheqirimi derish vatdi."
+  },
+  {
+   "start": 69.34,
+   "end": 70.86,
+   "text": "Chillaxer sketu vatdi."
+  },
+  {
+   "start": 70.86,
+   "end": 73.9,
+   "text": "Undan tashkari, aynashi chillaxer spaytidi gelib,"
+  },
+  {
+   "start": 73.9,
+   "end": 75.9,
+   "text": "okidigan basi izbray doamadi."
+  },
+  {
+   "start": 75.9,
+   "end": 78.86,
+   "text": "Su oku uchilan orasdi, anam shirili gini gorbasim,"
+  },
+  {
+   "start": 78.86,
+   "end": 79.58,
+   "text": "macbook-ki."
+  },
+  {
+   "start": 79.58,
+   "end": 82.14,
+   "text": "Brortasigi randomni beriladi."
+  },
+  {
+   "start": 82.14,
+   "end": 84.14,
+   "text": "Malamatim sizgi yeterli bovangan basi,"
+  },
+  {
+   "start": 84.14,
+   "end": 89.86,
+   "text": "Pastigi link boyiche, telefon nomerlarizi koldirsteiz, okey, meningerli sizgi kama malamotdi berisaydi."
+  }
+ ],
+ "chars": 1416,
+ "chars_per_s": 15.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

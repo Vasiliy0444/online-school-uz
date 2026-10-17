@@ -1,0 +1,110 @@
+{
+ "creative_id": "1577164553604508",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Uzum Marketda tovar sotishni xohlaysiz, lekin nimadan boshlashni bilmayapsizmi?",
+  "types": [
+   "вопрос",
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "таймер или обратный отсчёт",
+   "логотип площадки (Uzum и т.п.)"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s: таймер «00:29», «21+», логотип Uzum Market; мужчина в костюме говорит в камеру",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.0s: «TOVAR SOTISHNI XOHLAYSIZ»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s–2.5s: «NIMADAN BOSHLASHNI BILMAYAPSIZMI?» с эмодзи",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Uzumarketda tavar satish qaqilaysiz, lekin limadan boshash bilmaysiz?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта",
+   "быстрый старт"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:08] Bu darshigla da siz uzumarketda kanda ish boshash, yangi sotuchila qiladigan asosiy hatala,",
+    "timecode": "00:08"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:16] valbati saada onu tezrago boshilab, katta daromatga chixiz yullarini organib olasiz.",
+    "timecode": "00:16"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:21] Bu darshila daromadizzi oshirishdagi brinci va en mokhum qadamlak soblanadi.",
+    "timecode": "00:21"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Uzum’da savdo qilishni xohlaysiz, lekin qayerdan boshlashni bilmayapsizmi?"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "мини-курс"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:03] Biz aynan siz uchun uzumarketda saada qilish boyche Bepul video darshigla tayorlab chiktik.",
+    "timecode": "00:03"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "UZUM bo‘yicha bepul darslar"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Ro‘yxatdan o‘ting!"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "мини-курс или трипвайер"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Хук — крупный анимированный текст на кадрах, полная фраза по расшифровке, написание исправлено («tavar satish qaqilaysiz, lekin limadan boshash bilmaysiz» → «tovar sotishni xohlaysiz, lekin nimadan boshlashni bilmayapsizmi»). Оффер — бесплатные видеоуроки («Bepul video darshigla» = «bepul video darsliklar»): как начать на Uzum, главные ошибки новых продавцов, способы быстрее запустить продажи и выйти на большой доход; в тексте объявления — оформление карточек товара и почему их блокируют. Ссылка — платформа qadam.online/courses/1/309, уроков несколько → «мини-курс». Призыв [00:25]: «Ushbu darsliklarni olish uchun hozir quyidagi havola orqali ro'yxatdan o'ting» (написание исправлено; на кадре 4 из 4 субтитр «Ushbu») → регистрация, «заполнить форму». В кадре тот же человек, что представляется автором курса в 742177388962148 и 1322493646575545, но здесь он не представлен и говорит от имени школы («biz … tayyorlab chiqdik») → роль по подаче «актёр или ведущий», public_name не ставлю. Длительность 30,2 с округлена до 30 с. Кадр 1 из 4 — чёрная склейка с таймером «00:25»."
+}

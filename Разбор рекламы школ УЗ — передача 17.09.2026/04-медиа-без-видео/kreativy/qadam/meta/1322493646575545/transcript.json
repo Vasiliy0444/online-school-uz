@@ -1,0 +1,106 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Dog uqchimiz drill va shurpa yurlarik satib,"
+  },
+  {
+   "start": 2.0,
+   "end": 4.0,
+   "text": "bu ay davamida 360 milyon sauda aylanmasi qildi."
+  },
+  {
+   "start": 4.0,
+   "end": 6.0,
+   "text": "Agar siz san uzun marketi sauda oqil shva oqilasayniz,"
+  },
+  {
+   "start": 6.0,
+   "end": 8.0,
+   "text": "video na uqrga chek gorin."
+  },
+  {
+   "start": 8.0,
+   "end": 10.0,
+   "text": "Man khayrlayog Sarvab."
+  },
+  {
+   "start": 10.0,
+   "end": 12.0,
+   "text": "Marketplacelarda 5 milyarddan"
+  },
+  {
+   "start": 12.0,
+   "end": 14.0,
+   "text": "oshok sauda aylanmasiki ege bogan"
+  },
+  {
+   "start": 14.0,
+   "end": 16.0,
+   "text": "sot uchik soblanima. Va uchillik tajribamimi"
+  },
+  {
+   "start": 16.0,
+   "end": 18.0,
+   "text": "aynan sili uchun bitti amali"
+  },
+  {
+   "start": 18.0,
+   "end": 20.0,
+   "text": "kurska yigdim. Sho kursda biz"
+  },
+  {
+   "start": 20.0,
+   "end": 22.0,
+   "text": "sizga dokon ochisdan boshlab, daromatli"
+  },
+  {
+   "start": 22.0,
+   "end": 24.0,
+   "text": "maksilatlarini tanilab, ularini sot uga"
+  },
+  {
+   "start": 24.0,
+   "end": 26.0,
+   "text": "chikarish, va sauda jarionlarini"
+  },
+  {
+   "start": 26.0,
+   "end": 28.0,
+   "text": "aftamatilashdirishke che bolgan jaryonni"
+  },
+  {
+   "start": 28.0,
+   "end": 29.6,
+   "text": "noldan orgatib baramiz."
+  },
+  {
+   "start": 29.6,
+   "end": 31.4,
+   "text": "Yangi guruklarimizgi qabul ochib,"
+  },
+  {
+   "start": 31.4,
+   "end": 33.0,
+   "text": "lekin jawlar sonni chekilangya."
+  },
+  {
+   "start": 33.0,
+   "end": 34.32,
+   "text": "Khazrog ariza qaldirin"
+  },
+  {
+   "start": 34.32,
+   "end": 36.88,
+   "text": "va uzun marketta daramatqilishni biz bilan boshlayin."
+  }
+ ],
+ "chars": 687,
+ "chars_per_s": 18.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,126 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.84,
+   "text": "Hosh, menajirli ozu burkunda nemalakilad didiyan bu siyli m'cazla bilan gaplashasiz."
+  },
+  {
+   "start": 3.94,
+   "end": 6.24,
+   "text": "Tilifonda, yokida, tiligramda ishlani xalqilasiz."
+  },
+  {
+   "start": 6.36,
+   "end": 9.08,
+   "text": "Ulani sagorlariga jawab berib, kurs dasturini chuntirasiz."
+  },
+  {
+   "start": 9.12,
+   "end": 10.92,
+   "text": "Va shartamalani rasmilashdirasiz."
+  },
+  {
+   "start": 11.06,
+   "end": 14.12,
+   "text": "Ishikirsiz ailygim kanak boladdi, boylasiz, xazu chuntirib berima."
+  },
+  {
+   "start": 14.12,
+   "end": 19.56,
+   "text": "Fix aily aigi 2.5 milyonsum, sato oraycasini bacarsiz, yana 10.5 milyonsum bonus beriladi."
+  },
+  {
+   "start": 19.68,
+   "end": 22.82,
+   "text": "Shundi cami aigi 13 milyonsum gichi beymalal top sez boladi."
+  },
+  {
+   "start": 22.82,
+   "end": 27.86,
+   "text": "Bu xalaxan mas-mas, menajirli daniki, timlidi va ondanki rob bolib ishlasizan boladi."
+  },
+  {
+   "start": 27.86,
+   "end": 29.78,
+   "text": "Yani karyeri stoktosuz osadi."
+  },
+  {
+   "start": 29.78,
+   "end": 34.66,
+   "text": "Timlidirlani ailegi 16 mili osom, roblani ki bosik 22 mili osom atrafada chikarkani."
+  },
+  {
+   "start": 34.66,
+   "end": 36.66,
+   "text": "Qadamda qoshimchi bonus oyinlayan barakan."
+  },
+  {
+   "start": 36.66,
+   "end": 40.26,
+   "text": "Toloo apkirdizmi xarkil oyinladi qatmashi pulli soorilaniyam olasim."
+  },
+  {
+   "start": 40.26,
+   "end": 45.94,
+   "text": "Agar aili rejani baciradiyan bosiz, butun kamanda bilan kampaniya xsabidan da chigayam dama gani baralisis."
+  },
+  {
+   "start": 45.94,
+   "end": 47.7,
+   "text": "Ishki krischon sidan nimalat alab qilnadi."
+  },
+  {
+   "start": 47.7,
+   "end": 50.18,
+   "text": "Yashiz 18-26 araligda bolishkiri,"
+  },
+  {
+   "start": 50.18,
+   "end": 52.6,
+   "text": "Tashkin, yaki da Tashkin vilaayet da yashashish kiri,"
+  },
+  {
+   "start": 52.74,
+   "end": 56.22,
+   "text": "Savda, yaki da Kol Sentrala da kiamada uchay tajribiz bolish kiri"
+  },
+  {
+   "start": 56.22,
+   "end": 58.28,
+   "text": "wa busuzda asasi ishiz bolish kiri."
+  },
+  {
+   "start": 58.42,
+   "end": 60.56,
+   "text": "Ishqib Kol Sentrala da Sato menajda likhturum nish,"
+  },
+  {
+   "start": 60.6,
+   "end": 62.42,
+   "text": "vatabsh mumkun, ligin kor shilimumkun."
+  },
+  {
+   "start": 64.16,
+   "end": 66.5,
+   "text": "Agar sizam qadam jamasunu Sato kamandasi"
+  },
+  {
+   "start": 66.5,
+   "end": 67.4,
+   "text": "qoshinmakhchiboladi,"
+  },
+  {
+   "start": 67.48,
+   "end": 69.28,
+   "text": "mosiz pas diga khawala arqali otin."
+  }
+ ],
+ "chars": 1289,
+ "chars_per_s": 18.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

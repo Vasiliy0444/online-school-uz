@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.2,
+   "text": "Manashvi video YouTube-tigi 28 kuni chidi 3,800 olur daromad qigyan."
+  },
+  {
+   "start": 4.3,
+   "end": 7.32,
+   "text": "Bu taso dupmaz. Bu togratizm asositi ishlaj natijasy."
+  },
+  {
+   "start": 7.44,
+   "end": 11.34,
+   "text": "Bizdi YouTube Express kursimizisiz ati ge bir oydi YouTube kanali togratib,"
+  },
+  {
+   "start": 11.42,
+   "end": 15.7,
+   "text": "algoritimlar kanday ishlajini videolanin mantash qilishi va en qizigi monetizatsiya,"
+  },
+  {
+   "start": 15.82,
+   "end": 17.34,
+   "text": "yanin daromad qilishi orginas."
+  },
+  {
+   "start": 17.94,
+   "end": 22.98,
+   "text": "Yana koshib chasigi kantinti suni intelektu orqali yaratish bochi tarsinian bonus fatida koshib eramiz."
+  },
+  {
+   "start": 22.98,
+   "end": 28.98,
+   "text": "Kursi akonide ishsiz 500 dolorda 2,000 dolar gechi daromad tapish bochi en kerekli konikmalagi ege bolas."
+  },
+  {
+   "start": 28.98,
+   "end": 33.16,
+   "text": "Vipur konsultatsi giyozilishkynisa quydagi xabal orqali xaziro qarizi qaldri."
+  }
+ ],
+ "chars": 602,
+ "chars_per_s": 18.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

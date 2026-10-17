@@ -1,0 +1,92 @@
+{
+ "creative_id": "1574056041169618",
+ "platform": "meta",
+ "school_id": "shahlo-alikhanova",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "запись экрана"
+ ],
+ "hook": {
+  "verbatim": "Bugun 30 minut vaqtingiz bo'ladigan bo'lsa, shu darslikni ko'ring.",
+  "types": [
+   "бесплатно",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: расфокусированный коллаж из 3 фото, затем размытый уличный план и лицо крупным планом; текст «BUGUN 30 MINUT VAQTINGIZ BO'LADIGAN BO'LSA, SHU DARSLIKNI KO'RING» держится все 6 кадров; внизу — мужчина-соведущий и Shahlo Alikhanova за уличным столиком с кофе на фоне современного здания",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Bugun yarim saat waqt iz boladigan bolsa, albatta shu video darsayini korim.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "свой бизнес",
+   "доход"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg (~0:26): «QANAQA QILIB O'zbekistonda 2026-yil BIZNESLAR sun'iy intellektlarni qo'llab o'sishlari mumkin?»",
+    "timecode": "00:26"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:03] Bi Shvettsaran e-ekspertla wa xalqorot pekilar, Uzbekistanun yug va Shvettsaragi biznislarimizi suni intelek yordamda artamatashlarib, suni intelek yordamda daromadzimizi osharib kilalb.",
+    "timecode": "00:03"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg (~0:11): монитор с тёмной темой редактора кода — иллюстрация «автоматизации бизнеса с AI»",
+    "timecode": "00:11"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный урок"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "[BEPUL VIDEODARS] - Qanday Qilib Sun'iy Intellekt Orqali Daromad Qilish Mumkin?"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg: «Pastdagi tugmani bosib video darslikni ko'ring»",
+    "timecode": "00:26"
+   }
+  ]
+ },
+ "cta": {
+  "button": "See details",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "основатель или эксперт",
+  "public_name": "Shahlo Alikhanova"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук почти идентичен по шаблону креативу 4680242528865939 («Bugun yarim soat/30 daqiqa vaqtingiz bo'lsa...») — очевидное переиспользование одного и того же вступления с разными визуальными планами (разный фон, тот же дуэт Shahlo + соведущий). Тема ролика смещена на B2B-автоматизацию бизнеса через AI (не личный доход блогера/фрилансера, а рост бизнеса), что ближе к 28223945117246462. Расшифровка целиком (написание исправлено): «Biz Shvetsiyadan ekspertlar va xalqaro spikerlar, O'zbekiston va Shvetsiyadagi bizneslarimizni sun'iy intellekt yordamida avtomatlashtirib, sun'iy intellekt yordamida daromadimizni oshirib kelyapmiz. Aynan shu mavzuda, qanaqa qilib O'zbekistonda 2026-yil bizneslar sun'iy intellekt kanalini qo'llab o'sishlari mumkin. Shu haqida biz video darslik tayyorladik, va shu video darslik sizga foydali bo'lishi mumkin. Agar sizam 2026-yil biznesingizni AI orqali rivojlantirmoqchi bo'lsangiz, pastdagi tugmani bosib, ana shu video darsini ko'ring, ishonamanki bu video darsi sizga foydali bo'ladi»."
+}

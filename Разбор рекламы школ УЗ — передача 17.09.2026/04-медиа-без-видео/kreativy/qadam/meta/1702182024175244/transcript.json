@@ -1,0 +1,111 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Uzumlu orgayna pul tapse bolayrganm."
+  },
+  {
+   "start": 2.0,
+   "end": 4.0,
+   "text": "Oniki yashli i balayr, san pul tapasam?"
+  },
+  {
+   "start": 4.0,
+   "end": 6.0,
+   "text": "Osman, n'aqli gajhburat kanym yogo?"
+  },
+  {
+   "start": 6.0,
+   "end": 8.0,
+   "text": "Uzumlu orgayna pul tapse bolayrda."
+  },
+  {
+   "start": 8.0,
+   "end": 10.0,
+   "text": "Ishiyo, ishiyo, dupo cid u ydo otirib, bashka qayadnay qorayda."
+  },
+  {
+   "start": 10.0,
+   "end": 12.0,
+   "text": "Nartani? Tamla. Pulam tikshi ish shartmaz."
+  },
+  {
+   "start": 12.0,
+   "end": 14.0,
+   "text": "Biti dokan bolan baraz, shart namaglasiz."
+  },
+  {
+   "start": 14.0,
+   "end": 16.0,
+   "text": "Akhili ziyat ediganyan, sat ishi biladiganyan dokan bolan baraz."
+  },
+  {
+   "start": 16.0,
+   "end": 18.0,
+   "text": "Shart namaglasdi. Evbi izdigan nasabar."
+  },
+  {
+   "start": 18.0,
+   "end": 20.0,
+   "text": "Uzumgi koyayaz. Sat ilise oje dokan"
+  },
+  {
+   "start": 20.0,
+   "end": 22.0,
+   "text": "n'aqli abarib tapshiraz."
+  },
+  {
+   "start": 22.0,
+   "end": 24.3,
+   "text": "Ustugi pul koyub, məşni aqli utiraz. Pulam tik shish shakda."
+  },
+  {
+   "start": 24.3,
+   "end": 26.3,
+   "text": "Pul tik edi gani caiz bose, ebi oqli bishdi yuulaz."
+  },
+  {
+   "start": 26.3,
+   "end": 27.3,
+   "text": "Torum oğolm?"
+  },
+  {
+   "start": 27.3,
+   "end": 28.3,
+   "text": "Qatdi organni?"
+  },
+  {
+   "start": 28.3,
+   "end": 29.3,
+   "text": "Qadam eduk eyişindi."
+  },
+  {
+   "start": 29.3,
+   "end": 33.3,
+   "text": "12 yaşdi ibolegi trikili qilishi orgattimi oqe, sizgi anıq orgi talidi."
+  },
+  {
+   "start": 33.3,
+   "end": 36.3,
+   "text": "Akil bilan pul tapoz, agir mekhnatdan dayum kupra boladi."
+  },
+  {
+   "start": 36.3,
+   "end": 39.3,
+   "text": "Uzdani ozu bomidi, organni oqe, tanishilari izgi canati,"
+  },
+  {
+   "start": 39.3,
+   "end": 43.3,
+   "text": "bikarci ortaali izgi canati, arzimani gani pul toliydi, oqeydi trikili gini qiladi."
+  }
+ ],
+ "chars": 895,
+ "chars_per_s": 20.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

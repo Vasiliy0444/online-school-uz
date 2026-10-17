@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.06,
+   "text": "Bugi apam sal oqhri ishtil shumun kun, lekin chuni otoney sizi umrunu oqhri geche bakishke macburmaz."
+  },
+  {
+   "start": 6.06,
+   "end": 8.24,
+   "text": "Ondar nima qil sam bolad di boli o'asizm?"
+  },
+  {
+   "start": 8.24,
+   "end": 12.14,
+   "text": "Xazir siske zor narsi korsitaman Xit Hunter Vakan Salar saytidan"
+  },
+  {
+   "start": 12.14,
+   "end": 16.94,
+   "text": "interior designerlar uchun kampanyalar $200 dan $1200 geche toleshke tayyar."
+  },
+  {
+   "start": 16.94,
+   "end": 19.44,
+   "text": "Bugi asmini sisi 6 aychidi o'rgen sangez boladi"
+  },
+  {
+   "start": 19.44,
+   "end": 23.86,
+   "text": "va uch ay bi pulamalyat va 100% ishki jalaishlizike folatini biz beramiz."
+  },
+  {
+   "start": 23.86,
+   "end": 27.94,
+   "text": "Shuu xaqta interior design bochi mutsaqa bi pulachk dars boli botadi."
+  },
+  {
+   "start": 27.94,
+   "end": 30.76,
+   "text": "Roxatda atushun, xaziroq basayga xabalani basayin."
+  }
+ ],
+ "chars": 528,
+ "chars_per_s": 17.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

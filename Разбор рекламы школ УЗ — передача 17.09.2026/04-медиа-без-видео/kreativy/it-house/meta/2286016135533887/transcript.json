@@ -1,0 +1,31 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Kurs, kurs, kurs, kurs."
+  },
+  {
+   "start": 30.0,
+   "end": 31.9,
+   "text": "biz dis ingizini roazladirayim."
+  },
+  {
+   "start": 32.0,
+   "end": 34.08,
+   "text": "Batafsili manamat uchun padurumni tigmasini"
+  },
+  {
+   "start": 34.08,
+   "end": 34.28,
+   "text": "basim."
+  }
+ ],
+ "chars": 106,
+ "chars_per_s": 3.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

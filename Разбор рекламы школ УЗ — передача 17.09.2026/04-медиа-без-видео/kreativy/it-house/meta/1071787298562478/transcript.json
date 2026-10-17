@@ -1,0 +1,41 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.38,
+   "text": "Hazirda bu iki saha cedal varjanib barmakti."
+  },
+  {
+   "start": 2.5,
+   "end": 7.8,
+   "text": "Yorslarimiz bu sakhalarini orginiz size baslangich 500 doladan 1000 dolari gecadaramat kurslarimakini."
+  },
+  {
+   "start": 8.2,
+   "end": 13.4,
+   "text": "Yani irkin grab, kichichanda içekli olaryok bu sakhalar, web full stack, va no code."
+  },
+  {
+   "start": 13.86,
+   "end": 18.32,
+   "text": "Siz bularini IT house d'orgini, va WordPress size store sizgi tekin gor getiradi."
+  },
+  {
+   "start": 18.68,
+   "end": 22.48,
+   "text": "Kursini mafaqayatli etugetsiz anqis, siz ish bilanxam tamilanasiz."
+  },
+  {
+   "start": 22.78,
+   "end": 25.68,
+   "text": "Fakat yoshiniz 18 va undan yukhari bolsa bolgani."
+  }
+ ],
+ "chars": 431,
+ "chars_per_s": 16.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

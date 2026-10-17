@@ -1,0 +1,102 @@
+{
+  "creative_id": "1388249096753064",
+  "platform": "meta",
+  "school_id": "it-house",
+  "format": {
+    "type": "видео",
+    "duration_bucket": "16–30 с",
+    "aspect": "9:16"
+  },
+  "style": ["говорящая голова", "сток"],
+  "hook": {
+    "verbatim": "ishga joylashishga qiynalib ketyapsizmi? bir necha oylab haftalab ish qidirishga to'g'ri kelib qolyaptimi?",
+    "types": ["вопрос", "боль"],
+    "visual": ["лицо в первом кадре", "движение или смена кадра"],
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_hook.jpg 0.0s–1.5s: ishga joylashishga qiynalib ketyapsizmi? (девушка-ведущая за столом)",
+        "timecode": "00:00"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_hook.jpg 2.0s–2.5s: bir necha oylab haftalab ish qidirishga to'g'ri kelib qolyaptimi? (смена кадра: стоковый мужчина за ноутбуком)",
+        "timecode": "00:02"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Ishki joloshke qinalib yot vasizm?",
+        "timecode": "00:00"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["доход", "стабильность"],
+    "income_claim": "interyer dizaynerlar uchun kompaniyalar 400 dollardan 1200 dollargacha to'lashga tayyor; matnda: $700–800 oylik daromad",
+    "evidence": [
+      {
+        "source": "расшифровка",
+        "quote": "interior designerlar uchun kampanyalar\n[00:12] 400 dolardan 1200 dolorgi che toroshke tayyar.",
+        "timecode": "00:10"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:11: логотип hh (HeadHunter) и слово interyer",
+        "timecode": "00:11"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "100 fois ishki joloshke zike folatini biz beramiz.",
+        "timecode": "00:19"
+      },
+      {
+        "source": "текст объявления",
+        "quote": "📐 AutoCAD o‘rganing – $700–800 oylik daromad sari yo‘l oching!"
+      }
+    ]
+  },
+  "offer": {
+    "items": ["бесплатный урок", "гарантия", "бонус"],
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:26: mutlaqo bepul ochiq dars bo'lib o'tadi",
+        "timecode": "00:26"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Shuu xafta interior design bochun\n[00:24] mutsoqo depolachk dars bolib atadi.",
+        "timecode": "00:22"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "100 fois ishki joloshke zike folatini biz beramiz.",
+        "timecode": "00:19"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:19: 3 oy bepul",
+        "timecode": "00:19"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "va 3-o yoy depolamalyatva",
+        "timecode": "00:17"
+      }
+    ]
+  },
+  "cta": {
+    "button": "Learn more",
+    "in_creative": "заполнить форму",
+    "destination": "форма Meta",
+    "funnel_stage": "вебинар или мастер-класс"
+  },
+  "speaker": {
+    "role": "актёр или ведущий"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": true,
+  "risk": true,
+  "confidence": "средняя",
+  "notes": "Хук по субтитрам на кадрах. Ведущая говорит в камеру, вставки стока. Суммы и гарантия по расшифровке, написание исправлено: «400 dollardan 1200 dollargacha to'lashga tayyor» (вакансии на HeadHunter для дизайнеров интерьера), «6 oy o'rgansangiz… 3 oy bepul amaliyot» (разобрано неуверенно), «100 foiz ishga joylashishingizga kafolatni biz beramiz». «бесплатный урок» — «shu hafta interyer dizayn bo'yicha mutlaqo bepul ochiq dars» (неоднозначно: открытый урок-событие, мог бы быть «бесплатный вебинар»); «бонус» — 3 месяца бесплатной практики. Призыв: «Roj khatadus chun, xoz roq basayi xabalani basayin» (00:26) ≈ «Ro'yxatdan o'tish uchun hoziroq pastdagi havolani bosing» — регистрация через мгновенную форму. Расхождение: ролик про дизайн интерьера (400–1200 $), а текст объявления — про курс AutoCAD ($700–800). risk: «100% гарантия трудоустройства» и зарплата. Перевод хука: «Никак не можете устроиться на работу? Приходится неделями и месяцами искать работу?»"
+}

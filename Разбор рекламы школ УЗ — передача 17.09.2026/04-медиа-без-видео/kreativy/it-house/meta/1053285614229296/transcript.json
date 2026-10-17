@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.16,
+   "text": "6 oydan kien, umumam o'dan izan pul soramisiz."
+  },
+  {
+   "start": 3.4,
+   "end": 3.96,
+   "text": "Ish an orin."
+  },
+  {
+   "start": 4.34,
+   "end": 7.82,
+   "text": "Xazir sizke zor narsi korsitaman, xatxantar, vakantalar saytidan,"
+  },
+  {
+   "start": 7.98,
+   "end": 12.6,
+   "text": "interior designerlar uchun kampanyalar 400 dolardan 1200 dolardan che toleshke tayyar."
+  },
+  {
+   "start": 12.72,
+   "end": 15.1,
+   "text": "Bugun kersin nisi, siz 6 oychli orgin sengiz boladi,"
+  },
+  {
+   "start": 15.28,
+   "end": 19.54,
+   "text": "va uch ay be pulamalyat va 100 fois ishki jala shizike folatini bazbiramiz."
+  },
+  {
+   "start": 19.88,
+   "end": 23.64,
+   "text": "Shukhafta, interior design bochamutsaqa be pulachuk dars bolibotadi."
+  },
+  {
+   "start": 23.64,
+   "end": 26.46,
+   "text": "Roxat doldishchun, xaziroq basayi xavolani basin."
+  }
+ ],
+ "chars": 460,
+ "chars_per_s": 17.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

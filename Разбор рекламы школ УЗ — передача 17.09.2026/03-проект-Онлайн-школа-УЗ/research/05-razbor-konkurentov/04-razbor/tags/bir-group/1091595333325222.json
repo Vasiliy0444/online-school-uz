@@ -1,0 +1,92 @@
+{
+ "creative_id": "1091595333325222",
+ "platform": "meta",
+ "school_id": "bir-group",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Pulingiz yo'q bo'lsa ham, bu videoni to'liq ko'rsangiz hayotingizni o'zgartiradi.",
+  "types": [
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Pulu nguz yox bolsakam, bu videodan ken anliq sizni xayotunguzi ozgaradi.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: на телевизоре за спикером виден логотип «BIR TA'LIM» уже в первом кадре; спикер в сером пиджаке за столом, субтитров в эти 2.5с ещё нет",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта"
+  ],
+  "income_claim": "500 dollardan 1000 dollargacha daromad (shaxsiy, kelajakda erishiladigan natija sifatida); o'quvchilarning umumiy daromadi — 100 million so'm (shu oqim, jamlangan)",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:16: крупная золотая надпись «500$-1000$»",
+    "timecode": "00:16"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:14] daromadini 500 dollardan 1000 dollara gechi olup chikamiz.",
+    "timecode": "00:14"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:17] Shu akkecha okuchilarimizdi umimi jami daromad, [00:20] o'qish 100 milyon somni tashkil qiladi.",
+    "timecode": "00:17"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:23] Sizlarichim bu safaligi grant loyxamiz, 500 tane tashkil qiladi.",
+    "timecode": "00:23"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:30] 25. sentyabr kini buladigan online takdimatimizga khatnashimiz kiray.",
+    "timecode": "00:30"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "основатель или эксперт"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук только в речи: на кадрах 0.0–2.5s (sheet_hook.jpg) текста ещё нет, только лицо и логотип «BIR TA'LIM» на телевизоре за спиной — субтитры («BIZ BIR GROUP» и др.) появляются позже, лишь начиная с ~0:05 по sheet_overview.jpg. Verbatim восстановлен по смыслу («ken anliq» распознано как «to'liq» — неуверенно, ASR сильно искажена). Спикер — тот же человек и тот же кабинет с ТВ-логотипом Bir Ta'lim, что и в 920006017429811 и 4299106007046611: там он прямо говорит «biz... ishlab chiqqanimiz/chikamiz» («мы создали/создаём [проект]»), поэтому по совокупности трёх роликов ставлю role «основатель или эксперт» (представитель/спикер компании), хотя в этом конкретном ролике авторство не заявлено так прямо, а личное имя нигде не звучит и не подписано ни в одном из трёх — public_name не указываю. Доход: в этом ролике две разные цифры — «500-1000$» на человека и «100 млн сум» совокупно по потоку; это НЕ совпадает с суммой 600 млн сум, названной в roликах 1398281285823430 и 4299106007046611 (видимо другой поток/дата, либо ошибка распознавания) — цифры привожу как есть, с пометкой о несовпадении, что и снижает уверенность до «средняя». Фраза «daromadini... olib chiqamiz» («доведём доход до…») звучит как обещание результата, близкое к гарантии, но менее прямое и персонализированное, чем «ishga joylaymiz» («трудоустроим вас») в 4299106007046611 — risk оставляю false, но отмечаю как пограничный случай для проверки. Ролик зовёт в Telegram-канал (подтверждено расшифровкой ~00:39–00:41), но link_url ведёт на лендинг bir-group-webinar.vercel.app/ (корень)."
+}

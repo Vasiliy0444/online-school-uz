@@ -1,0 +1,76 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.84,
+   "text": "18-25 yaqshda siz leket hali tais kask minge mas degan sawalga jawab tapmagan siz."
+  },
+  {
+   "start": 5.84,
+   "end": 10.72,
+   "text": "Enkat tamamma bu sawalga jawab tapmagan niz demez, hali hech nisa fut gormagan nizdi."
+  },
+  {
+   "start": 10.72,
+   "end": 14.96,
+   "text": "Oz gelecagini beyfark bolmagan, yaqshlarga bizda acaib umqaniyat ba."
+  },
+  {
+   "start": 14.96,
+   "end": 17.52,
+   "text": "Yani 500 grand laykhamizi tabolunakchi."
+  },
+  {
+   "start": 17.52,
+   "end": 20.8,
+   "text": "Yetkili onaylish boychi 500 kishini beyfulgi okutmakchimiz."
+  },
+  {
+   "start": 20.8,
+   "end": 26.24,
+   "text": "Bundan alin gurukumuzda okugan okuchilar, hazar gechi 650 kimligin somdan koptul satib boldi."
+  },
+  {
+   "start": 26.24,
+   "end": 29.1,
+   "text": "Endi nabiz, sizniki, zamana vikastarini organin"
+  },
+  {
+   "start": 29.1,
+   "end": 31.86,
+   "text": "və tarama tapip rozgarinizi yardan verin."
+  },
+  {
+   "start": 31.86,
+   "end": 34.42,
+   "text": "Kolug malumat almaqcibu siz, 25-in sentyabr tun gula liyi"
+  },
+  {
+   "start": 34.42,
+   "end": 35.96,
+   "text": "online tagdimatini qatmashin."
+  },
+  {
+   "start": 35.96,
+   "end": 37.48,
+   "text": "Qatmashin, basayt imana basansiz"
+  },
+  {
+   "start": 37.48,
+   "end": 39.1,
+   "text": "və Telegram kanaliye koshilu olasiz."
+  },
+  {
+   "start": 39.1,
+   "end": 41.52,
+   "text": "Bat apsin, online tagdimatda hamasini xuduramiz."
+  }
+ ],
+ "chars": 728,
+ "chars_per_s": 17.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

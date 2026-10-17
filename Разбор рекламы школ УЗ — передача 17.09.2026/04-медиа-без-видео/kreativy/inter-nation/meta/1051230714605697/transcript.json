@@ -1,0 +1,41 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.9,
+   "text": "Mene 13 let, i mene IELTS 8 i cashback. Kak? S'chaz raskazhu."
+  },
+  {
+   "start": 30.0,
+   "end": 59.98,
+   "text": "Академия Саппорт"
+  },
+  {
+   "start": 60.0,
+   "end": 61.86,
+   "text": "Кэшбэк 2 миллионы сумма."
+  },
+  {
+   "start": 62.16,
+   "end": 62.9,
+   "text": "Хотите так же?"
+  },
+  {
+   "start": 63.24,
+   "end": 65.84,
+   "text": "Записывайтесь на пробный урок в Интернэйшн уже сейчас."
+  },
+  {
+   "start": 66.1,
+   "end": 67.3,
+   "text": "Ставьте плюс в комментариях."
+  }
+ ],
+ "chars": 202,
+ "chars_per_s": 2.7,
+ "cyrillic_share": 0.71,
+ "repeated_segments": 0,
+ "quality": "низкое"
+}

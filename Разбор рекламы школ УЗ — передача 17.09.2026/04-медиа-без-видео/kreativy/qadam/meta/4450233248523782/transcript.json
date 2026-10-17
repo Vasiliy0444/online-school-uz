@@ -1,0 +1,76 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.52,
+   "text": "Pulam tikish shartnaz, biti dokan bilan baraz, shartnaz magalaziz."
+  },
+  {
+   "start": 3.24,
+   "end": 5.84,
+   "text": "Akli izi edi digan, sat ishi bili digan dokan baraz, shartnaz magalazdi."
+  },
+  {
+   "start": 5.94,
+   "end": 10.4,
+   "text": "FB izi digan nasa bar, uzumgi koyaz, sat ilisi oje dokan dan alib, abarib, tapshiraz."
+  },
+  {
+   "start": 10.76,
+   "end": 12.3,
+   "text": "Bolyo da, ustugi pul koyub, mashnaqili otiraz."
+  },
+  {
+   "start": 12.36,
+   "end": 13.24,
+   "text": "Pulam tikish shartnaz."
+  },
+  {
+   "start": 13.46,
+   "end": 15.48,
+   "text": "Pul tikidi digan caiz basi, FB oqilib isdi yuulaz."
+  },
+  {
+   "start": 15.92,
+   "end": 16.4,
+   "text": "Tovrum o'lum?"
+  },
+  {
+   "start": 16.4,
+   "end": 17.52,
+   "text": "Qatda organni?"
+  },
+  {
+   "start": 17.78,
+   "end": 18.64,
+   "text": "Qadam edi ki ishindi."
+  },
+  {
+   "start": 18.94,
+   "end": 22.14,
+   "text": "12 yaşdi ibali ge trijili kili shiurgatda ma okey, sizgi an oqorga talidi."
+  },
+  {
+   "start": 22.14,
+   "end": 25.62,
+   "text": "Akil bilan pul tapiz, agir mekhnatdan dayum kubra boladi."
+  },
+  {
+   "start": 25.62,
+   "end": 28.58,
+   "text": "Uzdan uzu bomidi, organ liyaqi, tanashlarizgi jonatin,"
+  },
+  {
+   "start": 28.58,
+   "end": 32.3,
+   "text": "bikar coritalarizgi jonatin, arzmangan pul toliyidi, oxiyidi tricilikini qiladi."
+  }
+ ],
+ "chars": 666,
+ "chars_per_s": 20.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

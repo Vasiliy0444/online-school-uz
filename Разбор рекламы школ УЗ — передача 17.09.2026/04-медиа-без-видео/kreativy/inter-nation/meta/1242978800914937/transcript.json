@@ -1,0 +1,31 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.28,
+   "text": "International School Samarkand filiali, kengay maqti wa bizge ingilis siloqt uchilari kerek."
+  },
+  {
+   "start": 5.6,
+   "end": 9.2,
+   "text": "Oylik maqisha 23 milyon somdan 43 yarim milyon som gecha."
+  },
+  {
+   "start": 9.6,
+   "end": 12.9,
+   "text": "Beeple selfi kursi, treninglar wa karyera os chimkonyati."
+  },
+  {
+   "start": 13.14,
+   "end": 16.36,
+   "text": "Khaziraq ush buxawala orqali otin wa os sivingizdan yubarin."
+  }
+ ],
+ "chars": 269,
+ "chars_per_s": 16.2,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

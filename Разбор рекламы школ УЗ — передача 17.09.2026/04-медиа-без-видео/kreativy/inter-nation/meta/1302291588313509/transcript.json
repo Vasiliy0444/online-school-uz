@@ -1,0 +1,26 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.8,
+   "text": "International School de Ingilis tarnini organimi, yoki organimi, halem ikkilan otken bu siz, siz uchun maksus taklif."
+  },
+  {
+   "start": 8.12,
+   "end": 10.78,
+   "text": "Pastik haulad otin, vas suno datski ozanin."
+  },
+  {
+   "start": 10.94,
+   "end": 16.78,
+   "text": "Sizdan yashi kaifiyat, va dasta katnashish, bizdan sfatlit alim, va en zor ustozladir."
+  }
+ ],
+ "chars": 248,
+ "chars_per_s": 11.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

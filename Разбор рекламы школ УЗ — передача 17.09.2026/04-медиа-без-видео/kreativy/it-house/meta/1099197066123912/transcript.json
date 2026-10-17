@@ -1,0 +1,36 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.36,
+   "text": "Kampiutir saat xalagin izashrim oqtusiz. Buni guchu sizda kampiutir yov."
+  },
+  {
+   "start": 4.66,
+   "end": 8.46,
+   "text": "Shundaym? Demek sizgi kampiutir bilan tamil edgan okum arkiz girik."
+  },
+  {
+   "start": 8.78,
+   "end": 10.64,
+   "text": "Bu borada IT house-in tavsiya qaliman."
+  },
+  {
+   "start": 10.94,
+   "end": 15.08,
+   "text": "Shundagina siz ham kampiutir bilan, ham malakali usaz bilan tamilin nasiz."
+  },
+  {
+   "start": 15.66,
+   "end": 17.9,
+   "text": "Birinchi qadamni, bergelik tatashlayimiz."
+  }
+ ],
+ "chars": 296,
+ "chars_per_s": 16.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

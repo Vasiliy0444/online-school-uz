@@ -1,0 +1,71 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.12,
+   "text": "Ingilis sini bilganizda xayat sifatiz baso charaq, daromad darajas xan bala raq bolamda."
+  },
+  {
+   "start": 4.24,
+   "end": 11.2,
+   "text": "Lekim, ui, ish aile xayat tashvishlari, qachan organiman, e, yashidi organish kereydi, dhgo iladkan boshiz kereydi."
+  },
+  {
+   "start": 11.62,
+   "end": 15.14,
+   "text": "Buna biz bilganimiz chum xam aynan ishdi adamlar uchum biz gechim qiyamiz."
+  },
+  {
+   "start": 15.56,
+   "end": 22.68,
+   "text": "Qolagin jaydi, qolagin waqtizdi, saddi, interaktiv, qizqarli, darska uxshamidigan, darsni yukini bermidigan,"
+  },
+  {
+   "start": 22.88,
+   "end": 24.96,
+   "text": "mashqlar, vija darsiklar blan organisiz."
+  },
+  {
+   "start": 24.96,
+   "end": 29.76,
+   "text": "Suni intelekt bilan, u xato ki sizi xatolayiz chuntir beladini, u lagi xani qor gandish kiri,"
+  },
+  {
+   "start": 29.76,
+   "end": 33.28,
+   "text": "siz bilan ingilisinda geblasit, tizli izdi tez raad chikarish xaragat qiladi."
+  },
+  {
+   "start": 33.28,
+   "end": 38.84,
+   "text": "Va en qizghi, kunigi 50 daqqin shoglansayiz boldi, va u bittad 50 daqqin xeymas, u izgi bol olas."
+  },
+  {
+   "start": 38.84,
+   "end": 43.92,
+   "text": "10 daqqin 10 daqqatan kunigi 5 mahar xoxolagan payt izdi xoxolagan joyzi, telefoniz bolsa boldi."
+  },
+  {
+   "start": 43.92,
+   "end": 48.44,
+   "text": "Shunighi tizmilan rastanam organisa boladi, mnatiji boladi mnidib boli otgani bolsayiz,"
+  },
+  {
+   "start": 48.44,
+   "end": 50.88,
+   "text": "xabar hamz tige basin, ilaw hamzani yukilabali"
+  },
+  {
+   "start": 50.88,
+   "end": 52.06,
+   "text": "wa ujiz ishqatibali."
+  }
+ ],
+ "chars": 952,
+ "chars_per_s": 18.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

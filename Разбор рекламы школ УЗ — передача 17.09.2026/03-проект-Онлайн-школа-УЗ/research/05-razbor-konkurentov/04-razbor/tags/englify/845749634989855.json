@@ -1,0 +1,91 @@
+{
+ "creative_id": "845749634989855",
+ "platform": "meta",
+ "school_id": "englify",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон",
+  "запись экрана"
+ ],
+ "hook": {
+  "verbatim": "3 oy ichida ingliz tilida kundalik mavzularda gaplasha boshlaysiz.",
+  "types": [
+   "результат или доход",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.0s: «3 OY ICHIDA» / «INGILIZ TILIDA»; мужчина идёт по парку с рюкзаком, обращается в камеру",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.5s–2.5s: «KUNDALIK MAVZULARDA» / «BOSHLASHA[YSIZ]»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Uchoo aichidi ingilis sili di kundarik mawzulardi gaplasharidigan bolisiz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "быстрый старт",
+   "экономия времени"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Ilovamizda 470 dan ortiq teacherazam tomonidan o'rgatilgan video darslar, 10 000 + mashqlar va funksiyalar bor."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:07] 15 minuut video darsiz korasiz, 15 daqiqi yada mashgan bacarish izmunkum, wa yana 15 daqiqi kerey bosi skubaddaash, yani suni silikdiran speaking klabsiz.",
+    "timecode": "00:07"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:21] Haziri kun gachan, bizda yiginar bir min toq uchi oqib natijiga erishchikam.",
+    "timecode": "00:21"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "HAVOLA USTIGA BOSING"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "основатель или эксперт",
+  "public_name": "Teacher Azam"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук по кадрам (BOSHLASHA обрезано монтажом, вероятно «boshlaysiz») совпадает по смыслу с расшифровкой того же места, написание в hook.verbatim исправлено по кадрам. В кадре — мужчина с усами и очками (тот же типаж, что и в других роликах пачки), идёт по парку; в первых секундах также вставка макета телефона с приложением и логотип Englify. Имя «teacherazam» названо в тексте объявления как автор видеоуроков в приложении — на этом основании ставлю роль «основатель или эксперт» и public_name «Teacher Azam», хотя прямого визуального подтверждения (табличка с именем и т.п.), что именно этот ведущий на экране и есть teacherazam, в кадрах нет — идентификация только по совпадению текста объявления с тем, что он в кадре как рассказчик о курсе. Отдельного оффера нет, кроме прямого призыва «HAVOLA USTIGA BOSING» в тексте объявления."
+}

@@ -1,0 +1,56 @@
+2026-09-16 22:02:03 qadam page 111238895346791: windows from 2025-11
+2026-09-16 22:09:59 stage2 stopped: date filter is cumulative (ads started <= window end), halving windows does not reduce counts
+2026-09-16 22:17:07 qadam page 111238895346791: full list by launch-date cursor
+2026-09-16 22:37:53 qadam page 111238895346791: media exit 0
+2026-09-16 22:38:26 najot-talim page 215690519106811: full list by launch-date cursor
+2026-09-16 22:53:24 najot-talim page 215690519106811: media exit 0
+2026-09-16 22:53:59 najot-talim page 1116696684856861: full list by launch-date cursor
+2026-09-16 22:58:49 najot-talim page 1116696684856861: media exit 0
+2026-09-16 22:59:22 shahlo-alikhanova page 187576877762936: full list by launch-date cursor
+2026-09-16 23:02:00 shahlo-alikhanova page 187576877762936: media exit 0
+2026-09-16 23:02:31 bir-group page 280855418441675: full list by launch-date cursor
+2026-09-16 23:10:27 bir-group page 280855418441675: media exit 0
+2026-09-16 23:10:59 logist-academy page 225697427300662: full list by launch-date cursor
+2026-09-16 23:16:59 logist-academy page 225697427300662: media exit 0
+2026-09-16 23:17:36 logist-academy page 1210511435470073: full list by launch-date cursor
+2026-09-16 23:20:51 logist-academy page 1210511435470073: media exit 0
+2026-09-16 23:21:28 logist-academy page 102917572271494: full list by launch-date cursor
+2026-09-16 23:22:57 logist-academy page 102917572271494: media exit 0
+2026-09-16 23:23:40 it-house page 160305840488420: full list by launch-date cursor
+2026-09-16 23:34:37 it-house page 160305840488420: media exit 0
+2026-09-16 23:35:20 englify page 101731382738670: full list by launch-date cursor
+2026-09-16 23:49:29 englify page 101731382738670: media exit 0
+2026-09-16 23:50:00 inter-nation page 772096249574132: full list by launch-date cursor
+2026-09-16 23:58:08 inter-nation page 772096249574132: media exit 0
+2026-09-16 23:58:51 inter-nation page 697688940096741: full list by launch-date cursor
+2026-09-17 00:05:40 inter-nation page 697688940096741: media exit 0
+2026-09-17 00:06:23 inter-nation page 409888898873018: full list by launch-date cursor
+2026-09-17 00:12:40 inter-nation page 409888898873018: media exit 0
+2026-09-17 00:13:15 hbs-academy page 102623026249771: full list by launch-date cursor
+2026-09-17 00:21:33 hbs-academy page 102623026249771: media exit 0
+2026-09-17 00:21:33 stage 2 done
+shahlo continuation start 00:22:33
+shahlo-alikhanova page 187576877762936: full (continuation) exit 0 00:23:34
+shahlo-alikhanova page 187576877762936: media (continuation) exit 0 00:23:34
+gapfill start 00:26:36
+shahlo-alikhanova page 187576877762936: gapfill exit 0 00:30:14
+shahlo-alikhanova page 187576877762936: gapfill media exit 0 00:30:15
+hbs-academy page 102623026249771: gapfill exit 0 00:31:10
+hbs-academy page 102623026249771: gapfill media exit 0 00:33:22
+qadam page 111238895346791: gapfill exit 0 00:36:03
+qadam page 111238895346791: gapfill media exit 0 00:40:46
+englify page 101731382738670: gapfill exit 0 00:44:18
+englify page 101731382738670: gapfill media exit 0 00:46:04
+najot-talim page 215690519106811: gapfill exit 0 00:47:53
+najot-talim page 215690519106811: gapfill media exit 0 00:49:45
+najot-talim page 1116696684856861: gapfill exit 0 00:51:40
+najot-talim page 1116696684856861: gapfill media exit 0 00:51:41
+it-house page 160305840488420: gapfill exit 0 00:53:33
+it-house page 160305840488420: gapfill media exit 0 00:54:53
+bir-group page 280855418441675: gapfill exit 0 00:55:49
+bir-group page 280855418441675: gapfill media exit 0 00:56:05
+logist-academy page 225697427300662: gapfill exit 0 00:58:53
+logist-academy page 225697427300662: gapfill media exit 0 00:59:17
+inter-nation page 409888898873018: gapfill exit 0 01:00:13
+inter-nation page 409888898873018: gapfill media exit 0 01:01:56
+gapfill done 01:01:56

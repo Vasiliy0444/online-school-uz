@@ -1,0 +1,86 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.24,
+   "text": "Nechimatda oizgi vada berdis. Dushanbida engilislinni bashliymandim."
+  },
+  {
+   "start": 4.58,
+   "end": 9.6,
+   "text": "Lekin Dushanbila otuket vatti, siz bashlaish uyadotursak hatta kurs qidirganiz yok."
+  },
+  {
+   "start": 9.84,
+   "end": 11.88,
+   "text": "Toğrısini etsen mandayam khud doshunag."
+  },
+  {
+   "start": 12.08,
+   "end": 15.64,
+   "text": "Asil sababı bu vaqt kemligimiz buxchunchaki dengesali."
+  },
+  {
+   "start": 16.16,
+   "end": 19.7,
+   "text": "Kochegi chikisdan olni yuvunib taranib tatay balibu alishkiri,"
+  },
+  {
+   "start": 20.1,
+   "end": 25.48,
+   "text": "kegin yolgi vaqt ketadi, pul ketadi, prop gadi turp qalishmizi bar, parkovka qidrshmizi bar,"
+  },
+  {
+   "start": 25.48,
+   "end": 29.96,
+   "text": "u kurski yetib bargunimizgi kadar bir soqat vaqtimizi ketboladi."
+  },
+  {
+   "start": 30.0,
+   "end": 32.24,
+   "text": "Qullas, mən bu problemagi yechim taptim."
+  },
+  {
+   "start": 32.62,
+   "end": 35.24,
+   "text": "Englify ilovası da video darsilik korama."
+  },
+  {
+   "start": 35.58,
+   "end": 39.74,
+   "text": "Lüboy payet, lüboy joydi, 15-20 minut vaxt tapılip qogendi,"
+  },
+  {
+   "start": 40.28,
+   "end": 42.14,
+   "text": "shu vaxt kesimi da mən tıl organima."
+  },
+  {
+   "start": 42.24,
+   "end": 45.66,
+   "text": "Boska kursula bilan solishtir gendi, bu ancha arzi goli."
+  },
+  {
+   "start": 46.08,
+   "end": 51.4,
+   "text": "En yakimli isi aldan yolgi, kofigi, mayda chudagi ketken pulim yanimgi qovatdi."
+  },
+  {
+   "start": 51.8,
+   "end": 55.66,
+   "text": "Bu ilova orqali biza fakat kini bilim uchun inivestit saklamiza."
+  },
+  {
+   "start": 55.66,
+   "end": 60.1,
+   "text": "Yenə bitdə duşanməni kütmə, pəstigi xovalı arqali kire bugundan boshli."
+  }
+ ],
+ "chars": 922,
+ "chars_per_s": 15.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

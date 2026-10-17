@@ -1,0 +1,88 @@
+{
+ "creative_id": "4713777208946963",
+ "platform": "meta",
+ "school_id": "englify",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Ingliz tilini o'rganmoqchiman, yaxshi o'qituvchi topolmayapman.",
+  "types": [
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.5s: «Ingliz tilini» / «o'rganmoqchiman» / «yaxshi»; девушка в кафе на улице (вечер, гирлянды), держит телефон",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s–2.5s: «o'qituvchi» / «topolmayabman»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Engilisi nin o'rgan moqshimay lakin, yaxshi oqtoshi topolmay apany, kurslarisa judaqimad.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "👩🏻‍🏫 IELTS 8.5 va 4 yillik tajribaga ega ustozlardan ta'lim olasiz."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:07] Engili fayda oz ingiz musaqili oqishchun xama darsilar tartikma tartip sulyan.",
+    "timecode": "00:07"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:33] Shaksan manishun bu kurska borib, qob mablaq sarfaganan ancharzon rok.",
+    "timecode": "00:33"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "RO'XATDAN O'TISH"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "ученик"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Отличается от большинства роликов пачки: ведущая — девушка в формате отзыва от первого лица («мен» на протяжении всего текста — «не могу найти хорошего учителя, курсы слишком дорогие», затем описывает свой опыт с Englify), поэтому роль — «ученик», а не «актёр/ведущий». Текст объявления в этой пачке уникален (единственный с упоминанием IELTS 8.5 и 4-летнего опыта преподавателей вместо стандартного «7000/9000 o'quvchi»). Самый свежий ролик в подборке (first_started 2026-08-25, 23 дня показа на момент среза)."
+}

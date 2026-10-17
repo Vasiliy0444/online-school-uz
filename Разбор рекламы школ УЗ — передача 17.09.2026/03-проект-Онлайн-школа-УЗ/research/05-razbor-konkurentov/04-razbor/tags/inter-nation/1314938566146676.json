@@ -1,0 +1,70 @@
+{
+ "creative_id": "1314938566146676",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране",
+  "постановка или скетч"
+ ],
+ "hook": {
+  "verbatim": "Men har doim sayohat qilishni orzu qilganman. Ammo chet elda ingliz tilisiz sayohat qilish ancha qiyin ekan.",
+  "types": [
+   "история",
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: пошагово собирается фраза «Men har doim sayohat qilishni orzu qilganman» на кадрах с девушкой и жёлтым чемоданом у аэропорта",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Men har doyim sayukhat qilishni orzu qilganman. Ammu chet elde inglis tilisi sayukhat qilish anchi qiyinigam.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "статус"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:18] Uzumdan uyalip gettim. Har safar shuk oladi.",
+    "timecode": "00:18"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Мини-история про неловкие ситуации в путешествиях из-за незнания языка (ресторан, гостиница, дорога), заканчивается решением пойти учиться в Inter Nation (по расшифровке [00:29] «International Markazga borib royhatdan otdum»). Похоже на постановочный ролик по сценарию (девушка играет роль путешественницы), а не задокументированный отзыв конкретной ученицы, поэтому speaker.role «актёр или ведущий», а не «ученик» — но однозначного маркера (титра «актриса»/«ученица») в кадрах нет, это интерпретация по подаче. Текст на кадрах собирается по словам синхронно с речью — burned_subtitles=true."
+}

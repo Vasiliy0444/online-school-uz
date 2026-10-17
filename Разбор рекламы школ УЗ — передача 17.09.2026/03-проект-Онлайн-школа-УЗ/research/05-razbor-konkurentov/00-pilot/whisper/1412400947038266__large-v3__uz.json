@@ -1,0 +1,100 @@
+{
+ "library_id": "1412400947038266",
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language_arg": "uz",
+ "detected_language": "uz",
+ "seconds": 20.3,
+ "duration_s": 38.0,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.48,
+   "text": "Uzun markettagi okuchumiz uyur-uzur buyumlar satub,"
+  },
+  {
+   "start": 2.48,
+   "end": 5.12,
+   "text": "bir oyda 1507 milyon som saado aylamasini qildi."
+  },
+  {
+   "start": 5.12,
+   "end": 7.72,
+   "text": "Agar siz xaym uzun markette saado qilmaks bolchangiz,"
+  },
+  {
+   "start": 7.72,
+   "end": 9.16,
+   "text": "videonu oqir gece qorim."
+  },
+  {
+   "start": 9.16,
+   "end": 10.92,
+   "text": "Man xayrlayiq sarvab."
+  },
+  {
+   "start": 10.92,
+   "end": 14.56,
+   "text": "Marketplacelarda 5 milyarddan osok saado aylamasiki ege bogan"
+  },
+  {
+   "start": 14.56,
+   "end": 15.64,
+   "text": "sato uchek soblanima."
+  },
+  {
+   "start": 15.64,
+   "end": 17.96,
+   "text": "Ba uchillik tazribamimi aynan sili uchun"
+  },
+  {
+   "start": 17.96,
+   "end": 20.04,
+   "text": "bitti amali kurska yigdim."
+  },
+  {
+   "start": 20.04,
+   "end": 22.44,
+   "text": "Sho kursda biz sizgi dokon ochisdan boshlab,"
+  },
+  {
+   "start": 22.44,
+   "end": 24.2,
+   "text": "daromatlii maksulatlarini tanilab,"
+  },
+  {
+   "start": 24.2,
+   "end": 25.48,
+   "text": "ularini sato gecikharish"
+  },
+  {
+   "start": 25.48,
+   "end": 28.92,
+   "text": "wa saado jarayanlarini aftamatilashkirishke che bolgan jarayanini"
+  },
+  {
+   "start": 28.92,
+   "end": 30.52,
+   "text": "noldan orgetib baramiz."
+  },
+  {
+   "start": 30.52,
+   "end": 32.28,
+   "text": "Yangi gurukhlarimizgi qabul ochib,"
+  },
+  {
+   "start": 32.28,
+   "end": 33.88,
+   "text": "lekin jalar soni chekilangi."
+  },
+  {
+   "start": 33.88,
+   "end": 35.2,
+   "text": "Khazrak ariza qaldirin"
+  },
+  {
+   "start": 35.2,
+   "end": 37.84,
+   "text": "wa uzun markette daromat qilishni biz bolan boshlayin."
+  }
+ ]
+}

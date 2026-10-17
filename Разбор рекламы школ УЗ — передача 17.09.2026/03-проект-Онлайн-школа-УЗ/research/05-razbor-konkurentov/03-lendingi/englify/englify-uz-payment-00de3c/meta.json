@@ -1,0 +1,17 @@
+{
+ "school_id": "englify",
+ "url": "https://englify.uz/payment",
+ "sources": "site:/payment",
+ "first_seen": "",
+ "last_seen": "",
+ "stage_auto_url": "оферта или оплата",
+ "is_archive": false,
+ "snapshot_at": "2026-09-16T21:24:28+00:00",
+ "live_status": 200,
+ "final_url": "https://englify.uz/payment",
+ "title": "Englify School",
+ "screenshot": "/Users/Bel-a/Data/online-shkola-uz/05-razbor-konkurentov/lendingi/englify/englify-uz-payment-00de3c/screenshot-mobile.jpg",
+ "stage_auto": "оферта или оплата",
+ "stage_reason": "текст страницы",
+ "text_chars": 18901
+}

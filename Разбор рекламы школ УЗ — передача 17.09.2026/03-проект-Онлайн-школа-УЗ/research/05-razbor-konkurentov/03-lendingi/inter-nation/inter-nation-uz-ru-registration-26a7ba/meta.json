@@ -1,0 +1,13 @@
+{
+ "school_id": "inter-nation",
+ "url": "https://inter-nation.uz/ru/Registration",
+ "sources": "site:sitemap | wayback",
+ "first_seen": "2026-01-24",
+ "last_seen": "2026-06-09",
+ "stage_auto_url": "",
+ "is_archive": false,
+ "snapshot_at": "2026-09-16T21:18:03+00:00",
+ "live_status": 200,
+ "duplicate_of": "https://inter-nation.uz/Registration",
+ "stage_auto": "дубль (тот же текст)"
+}

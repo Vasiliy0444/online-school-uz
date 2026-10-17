@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.62,
+   "text": "Agar ayage 5 milyon topshish imqanu bosay, lekin buni uchun suni intiliklana organish girey bosay. Organar mı diz?"
+  },
+  {
+   "start": 5.96,
+   "end": 10.7,
+   "text": "Agar jawbiz ha, organyan bolardım dediyon bosay, biz Shvetsiran e-expertlar va halkoro speakerlar,"
+  },
+  {
+   "start": 11.0,
+   "end": 13.64,
+   "text": "2026-nchi il Uzbekistana kanakili daromad topshish munkun."
+  },
+  {
+   "start": 13.72,
+   "end": 17.36,
+   "text": "Shuaqqada biz video darsiy tayyuladi, biz o'limiz ki bu video darsiy sizgi fadali bolad."
+  },
+  {
+   "start": 17.36,
+   "end": 21.94,
+   "text": "Bu video darsiyin siz korganizdan kimi, xaysi daromad topshish yuli sizgin bakulligini bulvalarsiz,"
+  },
+  {
+   "start": 22.02,
+   "end": 24.48,
+   "text": "banashun yollu korgani, gen daromad topshish munkun bolad."
+  },
+  {
+   "start": 24.48,
+   "end": 28.46,
+   "text": "Pasti ki tugmanabosu vidyo dasidi albat de kori, chunka ulimiz ki sigi fadari gulad."
+  }
+ ],
+ "chars": 605,
+ "chars_per_s": 21.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

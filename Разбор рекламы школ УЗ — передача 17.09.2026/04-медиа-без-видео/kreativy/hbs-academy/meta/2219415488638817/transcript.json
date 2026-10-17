@@ -1,0 +1,81 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 29.98,
+   "text": "Bugun daromad, kurs, o'qish va ish haqida gaplashamiz."
+  },
+  {
+   "start": 30.0,
+   "end": 31.72,
+   "text": "qiptovalyuta bazarlargi nisi tsakilasis"
+  },
+  {
+   "start": 31.72,
+   "end": 32.88,
+   "text": "va qoshimchazgi aygi"
+  },
+  {
+   "start": 32.88,
+   "end": 34.88,
+   "text": "tor milion somna qoshib borasis."
+  },
+  {
+   "start": 34.88,
+   "end": 36.88,
+   "text": "Ratijadi, biriyari milicidi"
+  },
+  {
+   "start": 36.88,
+   "end": 38.88,
+   "text": "yengi jendirgi yetarigan pulingiz boladi,"
+  },
+  {
+   "start": 38.88,
+   "end": 40.32,
+   "text": "biriyari mil umringiz"
+  },
+  {
+   "start": 40.32,
+   "end": 42.32,
+   "text": "va 5.000 dolaringizni tecab qolasis."
+  },
+  {
+   "start": 42.32,
+   "end": 44.32,
+   "text": "Endi sizdi sawal togoladi,"
+  },
+  {
+   "start": 44.32,
+   "end": 46.32,
+   "text": "buni qan daqili bacarishin mumkun?"
+  },
+  {
+   "start": 46.32,
+   "end": 48.32,
+   "text": "HBS aga jemesini Express Trading kursi"
+  },
+  {
+   "start": 48.32,
+   "end": 50.32,
+   "text": "sizgi yardan veradi."
+  },
+  {
+   "start": 50.32,
+   "end": 52.32,
+   "text": "Pastagi xavaligi basib, kursagidi"
+  },
+  {
+   "start": 52.32,
+   "end": 54.32,
+   "text": "tonorog malima tarishin giz mumkun."
+  }
+ ],
+ "chars": 469,
+ "chars_per_s": 8.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

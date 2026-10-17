@@ -1,0 +1,70 @@
+{
+ "creative_id": "1063361809515055",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "сток"
+ ],
+ "hook": {
+  "verbatim": "Avvalari ishga kirayotgan paytingizda sizdan kompyuterni qanday bilasan? degan savol berilgan.",
+  "types": [
+   "история",
+   "тренд ИИ"
+  ],
+  "visual": [
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: стоковый кадр из сериала «The Office» (начальник указывает подчинённому на монитор), субтитры «Avvalari» → «ishga kirayotgan paytingizda» → «Sizdan kompyuterni qanday»; sheet_overview ~0:04: «bilasan? Degan savol berilgan»"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:12: мужчина в студии (лампа, растение на фоне) — «Sun'iy intellektdan qanday darajada foydalanib olasan?»"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "профессия будущего"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "sun'iy intellekt bilan ishlash bo'yicha zamonaviy va talab yuqori kasb egasiga aylaning."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:10] Ba bu sawalgi sizxan en ideal darizda jawab bira alin.",
+    "timecode": "00:10"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "основатель или эксперт"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук построен на стоковом отрывке из сериала «The Office» (начальник учит подчинённого работе за компьютером) — приём «раньше/сейчас»: раньше на собеседовании спрашивали про владение компьютером, теперь — про владение ИИ. Дальше говорящая голова в узнаваемой студийной декорации (лампа, растение, тёмный фон) — та же декорация и типаж, что и в 1643097997531754, вероятно, один и тот же диктор/эксперт для серии роликов про Prompt Injinering. Текст объявления идентичен объявлению 1103129439053674, отличается только филиалом (Самарканд вместо Ферганы) — шаблонное объявление, адаптированное под разные филиалы. Публичное имя не звучит. Оффера нет."
+}

@@ -1,0 +1,61 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.28,
+   "text": "Suni intilik kursi endi farganadi."
+  },
+  {
+   "start": 2.58,
+   "end": 4.62,
+   "text": "Darsin tayyarlamakchimizsiz, video tayyarlamakchimizsiz,"
+  },
+  {
+   "start": 4.7,
+   "end": 6.1,
+   "text": "atxujjetlanan tayyarlamakchimizsiz,"
+  },
+  {
+   "start": 6.16,
+   "end": 7.74,
+   "text": "ya ki, brar bitda layiha kamakchimizsiz,"
+  },
+  {
+   "start": 7.86,
+   "end": 11.7,
+   "text": "suni intilikte faydalani, o'qish izni asalashdarmakchimizsiz,"
+  },
+  {
+   "start": 12.04,
+   "end": 13.66,
+   "text": "unda bu kurs aynan siz uqun."
+  },
+  {
+   "start": 13.74,
+   "end": 17.3,
+   "text": "Shu vaqt kechiya, 12.000-dan artiq bitur uchi tamamlagan Najat Talim,"
+  },
+  {
+   "start": 17.3,
+   "end": 21.12,
+   "text": "uz ini fargana filiali dayam suni intilik derslarni yolgi koydi."
+  },
+  {
+   "start": 21.26,
+   "end": 22.94,
+   "text": "Suni intilik derslari atiq 16-di."
+  },
+  {
+   "start": 23.1,
+   "end": 26.46,
+   "text": "Qisda fursatda siz suni intilikten zor faydalandigan insan gaydanaz."
+  }
+ ],
+ "chars": 497,
+ "chars_per_s": 16.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

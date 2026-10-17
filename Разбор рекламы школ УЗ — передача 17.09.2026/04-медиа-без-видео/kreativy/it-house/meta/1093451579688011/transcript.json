@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.72,
+   "text": "Farzanningiz IT-ga qiziqadi, lekin o qaysiyonayisdan basash kiriligina bilmisizmi?"
+  },
+  {
+   "start": 4.88,
+   "end": 9.64,
+   "text": "12-14 yoshli bolelar uchun maqsus ishlab chikarilgan Computer Savathaniqi kursi."
+  },
+  {
+   "start": 9.86,
+   "end": 13.44,
+   "text": "Bu kursimizda okushilar kompiyotordan kan daqilip toğru faydalanash"
+  },
+  {
+   "start": 13.44,
+   "end": 15.98,
+   "text": "va dasurilashinin ilk baskishlarini organishadi."
+  },
+  {
+   "start": 16.18,
+   "end": 20.18,
+   "text": "Amali darslarimiz, tajibali mentorlarimiz va kulay okum khutadali bariladi."
+  },
+  {
+   "start": 20.42,
+   "end": 23.66,
+   "text": "Xozro komentaryaga, yogi dairexiga bolasoz niyaz padrin"
+  },
+  {
+   "start": 23.66,
+   "end": 25.4,
+   "text": "va ozimiz sizga alagaya chigamiz."
+  }
+ ],
+ "chars": 446,
+ "chars_per_s": 17.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

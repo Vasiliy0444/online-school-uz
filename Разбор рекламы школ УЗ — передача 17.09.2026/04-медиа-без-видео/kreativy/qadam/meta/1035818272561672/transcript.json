@@ -1,0 +1,36 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.6,
+   "text": "Asasi ishiz bar, va kushimcha daromat qilish oyla vasizmı? Undi YouTube ta content qilishi orgeni."
+  },
+  {
+   "start": 4.6,
+   "end": 14.64,
+   "text": "Bizdi YouTube Express kursimizisiz, ati ge bir oyda YouTube kanali togra oqib, algoritimlar kanday ishlaishini videolani, mantash qilishi, va en qizigi, manitizatsiya, yanim, daromat qilishi orgeniz."
+  },
+  {
+   "start": 15.24,
+   "end": 20.28,
+   "text": "Yana kushimchasigi contenti suni intelektu orqali yarachish bochi tarsinian, bonus fatida kush beramiz."
+  },
+  {
+   "start": 20.4,
+   "end": 26.26,
+   "text": "Kursi akoni deyisisiz, 500 dollarda 2000 dollar gechi daromat apish bochi, en kerekli konikmali ge ege bolas."
+  },
+  {
+   "start": 26.26,
+   "end": 30.46,
+   "text": "Paypal Consultancy Geozilishchunisa quidegi xaval orqali xaziro qadizi qaldri."
+  }
+ ],
+ "chars": 591,
+ "chars_per_s": 19.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

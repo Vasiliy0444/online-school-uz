@@ -1,0 +1,77 @@
+{
+ "creative_id": "904407209016410",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "≤15 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Noldan ikki oyda til o'rganib olmoqchimisiz? Unda Inter Nation siz uchun emas. Bu yerda faqat sifat.",
+  "types": [
+   "запрет или ошибка",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Noldan iki oyda ayals olmokchumisiz.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:05] Unda international siz uchun emas.",
+    "timecode": "00:05"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:08] Bu yerde fakat sifat.",
+    "timecode": "00:08"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_overview.jpg ~0:06: аэросъёмка здания с вывеской «INTER NATION» на фасаде",
+    "timecode": "00:06"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:08] Bu yerde fakat sifat.",
+    "timecode": "00:08"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук-фильтр «не для всех»: первое слово во второй фразе расшифровки восстановлено по смыслу («Noldan iki oyda ayals olmokchumisiz» → «Noldan ikki oyda til o'rganib olmoqchimisiz?», слово «til» — предположение по контексту, дословно не читается). Дальше чётко: «Unda international siz uchun emas» → «Unda Inter Nation siz uchun emas», «Bu yerde fakat sifat» → «Bu yerda faqat sifat». Явного произнесённого CTA в данной расшифровке нет (обрывается на [00:08] при длительности 14.4с), восстановлен по стандартной кнопке/шеврону в конце."
+}

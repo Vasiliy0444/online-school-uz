@@ -1,0 +1,86 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.72,
+   "text": "2035-in."
+  },
+  {
+   "start": 3.38,
+   "end": 5.66,
+   "text": "Teraqiyatnin chok qisi gerishdir."
+  },
+  {
+   "start": 7.28,
+   "end": 10.82,
+   "text": "Amma akhbarat xafsizligi digi muamualar tufayli,"
+  },
+  {
+   "start": 12.04,
+   "end": 15.34,
+   "text": "qoblab makhvi va shaksi malumatlar achqilarib getdi."
+  },
+  {
+   "start": 16.3,
+   "end": 20.34,
+   "text": "Davlatlar ortasta urush, biznislar talan taraqqilindi."
+  },
+  {
+   "start": 21.38,
+   "end": 25.42,
+   "text": "Qoblab insallar, abrosi, va mansambidan ayrildi."
+  },
+  {
+   "start": 26.42,
+   "end": 28.16,
+   "text": "Kiberjinayi alam rubacilandi."
+  },
+  {
+   "start": 28.16,
+   "end": 31.92,
+   "text": "və texnədəgik tarqiyyatinin kushandasiga aylən."
+  },
+  {
+   "start": 32.52,
+   "end": 33.88,
+   "text": "Men esə,"
+  },
+  {
+   "start": 35.32,
+   "end": 38.76,
+   "text": "hammasını uzgar tırishligi chun vaqt mashinasi xtirakud."
+  },
+  {
+   "start": 39.64,
+   "end": 42.02,
+   "text": "Və ortga qaytib,"
+  },
+  {
+   "start": 43.12,
+   "end": 44.62,
+   "text": "bir xatana tuzat moqchimad."
+  },
+  {
+   "start": 49.06,
+   "end": 51.88,
+   "text": "As-salamu alaikum, siz yixan nə yordam mer aliman?"
+  },
+  {
+   "start": 51.88,
+   "end": 56.78,
+   "text": "Kiber khafsizlikni"
+  },
+  {
+   "start": 56.78,
+   "end": 58.2,
+   "text": "Urgen moxchum"
+  }
+ ],
+ "chars": 521,
+ "chars_per_s": 8.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,66 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.24,
+   "text": "Qarayinda qupol bu seymetima biznisilegi sizi eya bilishiz umuman qizulmaz."
+  },
+  {
+   "start": 4.38,
+   "end": 8.66,
+   "text": "Ulegi siz chalcibitin bilasini, nanobanali rastin bilasini, midyonin bilasini umuman qizulmaz."
+  },
+  {
+   "start": 8.76,
+   "end": 11.46,
+   "text": "Ulegi pul qizu ulaniz savda usina oxish qizu."
+  },
+  {
+   "start": 11.54,
+   "end": 16.22,
+   "text": "Agar siz mucozlarizgi eya orqali, tezal kantinli qibersiz, kreativni reklamali qibersiz,"
+  },
+  {
+   "start": 16.32,
+   "end": 22.34,
+   "text": "biznisilegi siz qupro mucozlan opkibersiz, ushandisiz bozorda eya mutahasisiz uznizi urnizgi ege bolas."
+  },
+  {
+   "start": 22.34,
+   "end": 25.18,
+   "text": "Od digini eya ishikmaz, eya mutahasisiz bolas."
+  },
+  {
+   "start": 25.18,
+   "end": 29.5,
+   "text": "S'ozimizı, Shetsi Dayam Uzbekistanlayan suni intilik boyucha xarkhi layxali dişlip gelabiz."
+  },
+  {
+   "start": 29.5,
+   "end": 31.7,
+   "text": "Shetsi Dayam sufikir boygamizi qoddi seminardi."
+  },
+  {
+   "start": 31.7,
+   "end": 37.34,
+   "text": "Ba aynamani, sizdeki suni intilik orqali daramat tapmokchi boygan insalligi bizi videoda setayilagamiz."
+  },
+  {
+   "start": 37.34,
+   "end": 44.66,
+   "text": "Bu videoda seni koryan izdangiyin, siz Uzbekistan bozoridi 2026-inchi il kanaki yolda daramat tap shumikulligini bilvalasis."
+  },
+  {
+   "start": 44.66,
+   "end": 46.98,
+   "text": "Videonu korshichu, pastagi xavalanib, basit!"
+  }
+ ],
+ "chars": 870,
+ "chars_per_s": 18.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,21 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.22,
+   "text": "Kuni gaati ki, alt saat ishilat, 7,5 milyondan 9,5 milyon geche bolgan daromad almaqchumisis."
+  },
+  {
+   "start": 5.62,
+   "end": 6.9,
+   "text": "Unda xa'la arqa liruy xatda."
+  }
+ ],
+ "chars": 122,
+ "chars_per_s": 16.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

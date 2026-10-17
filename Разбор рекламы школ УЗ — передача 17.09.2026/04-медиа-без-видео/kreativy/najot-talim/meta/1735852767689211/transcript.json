@@ -1,0 +1,66 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.32,
+   "text": "Saman qatli mi siz unda diqqat bilan tinglayin."
+  },
+  {
+   "start": 2.62,
+   "end": 6.76,
+   "text": "Hich oz ishizi asanlashdirishlik uchun suni itilikten qaydalani qordiz mi?"
+  },
+  {
+   "start": 7.16,
+   "end": 10.44,
+   "text": "Ofis ishilari buladim, xisab kitab ishilari buladim, ya ki mediy ishilari buladim, farki yok."
+  },
+  {
+   "start": 11.04,
+   "end": 15.04,
+   "text": "Agar suni itilik siz izhilarizi qanchalik asanlashdirishini bilgan izdi,"
+  },
+  {
+   "start": 15.42,
+   "end": 19.08,
+   "text": "unu orginishki bogin haqishis iki kary ozgan boladim va tezra ozgan gen bolabdiz."
+  },
+  {
+   "start": 19.62,
+   "end": 23.36,
+   "text": "Sababı suni itilik orqalik saman adarlikin uch kary ozdirsib boladim,"
+  },
+  {
+   "start": 23.36,
+   "end": 24.82,
+   "text": "va kob ishik olgirisib boladim."
+  },
+  {
+   "start": 24.82,
+   "end": 28.44,
+   "text": "Lekin, sizde sawal bar, qaysi suniyentilik mani ishimmi yakhshira bacarat?"
+  },
+  {
+   "start": 28.44,
+   "end": 33.14,
+   "text": "Va yakhshira bacarashlik uchun qanaka puyurukla bir ishim kiri, qanakilq undan faydalani ishim kiri?"
+  },
+  {
+   "start": 33.14,
+   "end": 38.98,
+   "text": "Eynkatta IT markazi Najat Talamni Bromant Engineering kursi aynan sizgi bunda yordan veradi."
+  },
+  {
+   "start": 38.98,
+   "end": 46.66,
+   "text": "Ayni payita maqsus taklifilabilam uch bu kurtka qabul ketu atdi, bat afsar bilishlik uchun hawalan basin, bizi sotukchularim sizgi manimad bershadi."
+  }
+ ],
+ "chars": 891,
+ "chars_per_s": 18.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

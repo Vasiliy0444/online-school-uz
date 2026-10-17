@@ -1,0 +1,86 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.84,
+   "text": "Suni intelekt bugun eyn talabgir gunarishladanbira."
+  },
+  {
+   "start": 3.96,
+   "end": 8.92,
+   "text": "Haqikatnan har bir kaspi ygasi suni intelektan fundamental darajda."
+  },
+  {
+   "start": 9.04,
+   "end": 12.3,
+   "text": "Yani kanaka imkoynadlari var, nimalar kisa buladi, bilishmukun."
+  },
+  {
+   "start": 12.4,
+   "end": 16.36,
+   "text": "Tasabikun, siz bir ay davamda klakinan shizi endi on dakikadan amaligoshishmukun."
+  },
+  {
+   "start": 16.8,
+   "end": 21.16,
+   "text": "Ya ki, siz iki-uch gun vasar filediyon, urgenlishka kekkeza yiyan vahtizi,"
+  },
+  {
+   "start": 21.58,
+   "end": 23.08,
+   "text": "ziratiz kual amaligoshish shiz buladi."
+  },
+  {
+   "start": 23.16,
+   "end": 25.46,
+   "text": "Yani, zir köp nasalani hazimkoynati var."
+  },
+  {
+   "start": 25.6,
+   "end": 26.96,
+   "text": "Lakin köp chili gunarsalari bilmidi."
+  },
+  {
+   "start": 26.96,
+   "end": 31.26,
+   "text": "Vabunin nomirin suni intelektin toru faydalanish ilmini prom enjinerin digilar."
+  },
+  {
+   "start": 31.26,
+   "end": 36.76,
+   "text": "Biz, Najat Talim xamdi etiviks jamasi, birgirigde maksuz kurs islabchitig."
+  },
+  {
+   "start": 36.76,
+   "end": 41.76,
+   "text": "Bunda offline xamdi online tarzda siz prom enjinerin digilar."
+  },
+  {
+   "start": 41.76,
+   "end": 43.96,
+   "text": "Suni intelektin nimar imkanyatlari bor."
+  },
+  {
+   "start": 43.96,
+   "end": 48.96,
+   "text": "Nimarlarida oriyanish giri qaldi kisi o sohasiga intelegatsa kisi bolarinin barchasini"
+  },
+  {
+   "start": 48.96,
+   "end": 52.76,
+   "text": "maksuz online xamdi offline kurslarida oriyanishiginiz minkum bolarini."
+  },
+  {
+   "start": 52.76,
+   "end": 57.6,
+   "text": "qudayi rakamlar yu aqisad o qali roxat tawatin bis ziya albat aloqaya chkamis."
+  }
+ ],
+ "chars": 952,
+ "chars_per_s": 16.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

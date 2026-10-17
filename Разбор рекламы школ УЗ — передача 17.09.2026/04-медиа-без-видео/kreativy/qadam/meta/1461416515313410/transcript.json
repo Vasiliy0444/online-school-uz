@@ -1,0 +1,141 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.4,
+   "text": "Ayli dan ayli geche ful yet qizami yapkan bu seza buzge zor biznis boladi shani."
+  },
+  {
+   "start": 5.4,
+   "end": 6.76,
+   "text": "Seroz ni etomba?"
+  },
+  {
+   "start": 6.76,
+   "end": 8.28,
+   "text": "Bitda ba tafsil chuntriy mu?"
+  },
+  {
+   "start": 8.28,
+   "end": 13.16,
+   "text": "Uzur market di savda qilish orgin alay di shani katta biznismen bob getas."
+  },
+  {
+   "start": 13.16,
+   "end": 19.76,
+   "text": "Botdigi orgin tadigallar dozda vashi onlayi savda da tur mili artgechi sodakiladigallar orgin tsharkandi"
+  },
+  {
+   "start": 19.76,
+   "end": 22.16,
+   "text": "iki min tada o'ju adang orgin kamsil uzo."
+  },
+  {
+   "start": 22.16,
+   "end": 23.44,
+   "text": "Bitda dan soq uch barimiza ba."
+  },
+  {
+   "start": 23.44,
+   "end": 24.32,
+   "text": "Umumi abarotimiz."
+  },
+  {
+   "start": 24.32,
+   "end": 26.16,
+   "text": "Biz o'qish etkin gdani chikta uzumat getti."
+  },
+  {
+   "start": 26.16,
+   "end": 28.24,
+   "text": "Abarotimizi 40 minun naqsh vatdi."
+  },
+  {
+   "start": 28.24,
+   "end": 31.56,
+   "text": "1 ay 2-de 30 minun che, navar-navar od bol-di."
+  },
+  {
+   "start": 31.56,
+   "end": 34.0,
+   "text": "Kurs kymadmazm, qaylar qabukol nadi, odor genlad?"
+  },
+  {
+   "start": 34.0,
+   "end": 36.56,
+   "text": "Kurs-si onlayn od sez bolad, fama oklayn od sez bolad."
+  },
+  {
+   "start": 36.56,
+   "end": 39.8,
+   "text": "Agar onlayn bolse, ke botrish artamaz?"
+  },
+  {
+   "start": 39.8,
+   "end": 42.2,
+   "text": "Da, platforman iti yekraz, oz dana platform bozo bar,"
+  },
+  {
+   "start": 42.2,
+   "end": 44.0,
+   "text": "onlin-chi daxama video darsaynani kor sez bolad."
+  },
+  {
+   "start": 44.0,
+   "end": 47.64,
+   "text": "Agar si toshkinli torsayz, shun da ay bimi torg, yakhin-caydi egan,"
+  },
+  {
+   "start": 47.64,
+   "end": 49.0,
+   "text": "shud-ta ok sez bolad."
+  },
+  {
+   "start": 49.0,
+   "end": 53.12,
+   "text": "Tol olayan, xal-isiz lakht-di diz, xal-isiz bolib-tolashgan,"
+  },
+  {
+   "start": 53.12,
+   "end": 54.04,
+   "text": "tol-isiz bolad."
+  },
+  {
+   "start": 54.04,
+   "end": 59.04,
+   "text": "Man naamda ke sez konur qoydu, yali bitte kurs se, be pul qibera digan bohs sirlash, no?"
+  },
+  {
+   "start": 59.04,
+   "end": 61.04,
+   "text": "Keli mit tish qilamiz."
+  },
+  {
+   "start": 61.04,
+   "end": 65.04,
+   "text": "Pastaa, balim apsizu qaldir sez, be pul darsli tashad erlad."
+  },
+  {
+   "start": 65.04,
+   "end": 68.04,
+   "text": "Bitte qorib chqazdi, ke maqul bose o qor asiz."
+  },
+  {
+   "start": 68.04,
+   "end": 70.04,
+   "text": "Maqul bomese, yan ev shiv shiv yor ur asiz."
+  },
+  {
+   "start": 70.04,
+   "end": 74.04,
+   "text": "Pastaa, silke bar, xozi balim apsizu qaldiri, fayda lam alin legan."
+  }
+ ],
+ "chars": 1268,
+ "chars_per_s": 17.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

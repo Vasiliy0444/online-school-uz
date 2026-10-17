@@ -1,0 +1,36 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.04,
+   "text": "Meni ozum istegan vaqtda, ozum istegan gaida, va daimi ish kerek."
+  },
+  {
+   "start": 5.76,
+   "end": 7.14,
+   "text": "Mimana algenda bunin ilac bar."
+  },
+  {
+   "start": 7.72,
+   "end": 11.64,
+   "text": "Bunin uchun siz IT xalasina 6 aili graf dizan kurslarda oqishiniz kerek."
+  },
+  {
+   "start": 12.16,
+   "end": 15.16,
+   "text": "Va 300 dolardan yukara maash bilan ishbashlashiniz mok."
+  },
+  {
+   "start": 15.16,
+   "end": 19.62,
+   "text": "Agar yashiniz 18 yashtan balat bolse, sizgi ishgan tab bir shal."
+  }
+ ],
+ "chars": 290,
+ "chars_per_s": 14.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

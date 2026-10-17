@@ -1,0 +1,156 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.8,
+   "text": "Keb oqiganinche zarar boyan."
+  },
+  {
+   "start": 1.8,
+   "end": 5.5,
+   "text": "Nubotke keb oqiganinmnenken uju zarar ilanim toqtayan."
+  },
+  {
+   "start": 5.5,
+   "end": 7.8,
+   "text": "Ismum Gulnazay, tasanat tenchiyelman."
+  },
+  {
+   "start": 7.8,
+   "end": 9.1,
+   "text": "Shatiyash yaman to shayn da?"
+  },
+  {
+   "start": 9.1,
+   "end": 11.1,
+   "text": "Uju kin chaydan otkayamma, real shotka."
+  },
+  {
+   "start": 11.1,
+   "end": 13.1,
+   "text": "Ozo unu aldinam real shot ish lirdim."
+  },
+  {
+   "start": 13.1,
+   "end": 15.9,
+   "text": "Tracing boychi uju binanzda, kriptada."
+  },
+  {
+   "start": 15.9,
+   "end": 17.4,
+   "text": "Kopinche zarar gi ish lirgayamma."
+  },
+  {
+   "start": 17.4,
+   "end": 19.8,
+   "text": "Manama misal uchun, topken pulimi"
+  },
+  {
+   "start": 19.8,
+   "end": 22.8,
+   "text": "kopra ushi numatarla alishka sarflardim."
+  },
+  {
+   "start": 22.8,
+   "end": 25.8,
+   "text": "Liba qaystar bizniska tikardim pullarimi."
+  },
+  {
+   "start": 25.8,
+   "end": 32.2,
+   "text": "Uli binansgi bulun tiki shardi, tratingi bulun tiki shardi, aksiyagi bulun tiki shardi."
+  },
+  {
+   "start": 32.2,
+   "end": 36.92,
+   "text": "Qisqimudat iqidi, kupro daromadi top shardi, mangin ispat."
+  },
+  {
+   "start": 36.92,
+   "end": 42.92,
+   "text": "Aman, 1 ildi ili 6 oida topo digan foydami uli 2-3 oi iqidi top shardi."
+  },
+  {
+   "start": 42.92,
+   "end": 49.76,
+   "text": "100 dolar tikip digan arsa bulmagi, manda chukur oorganish bogam nar sanir."
+  },
+  {
+   "start": 49.76,
+   "end": 52.72,
+   "text": "Kripti da vishi 25 foyz foydadima aksiyadan bar."
+  },
+  {
+   "start": 52.72,
+   "end": 54.08,
+   "text": "Akciyata unfoiz."
+  },
+  {
+   "start": 54.08,
+   "end": 56.72,
+   "text": "Hamnage tavsiya qilaman, daxar man ulkemam."
+  },
+  {
+   "start": 56.72,
+   "end": 58.72,
+   "text": "Qizqadi xozur ushu uqishge."
+  },
+  {
+   "start": 58.72,
+   "end": 62.2,
+   "text": "Toxolisi uyanban nankim uqishu masitda baslam oxi."
+  },
+  {
+   "start": 62.2,
+   "end": 64.68,
+   "text": "Xama tanishlarimgi shotumas sakat beriman, chungi"
+  },
+  {
+   "start": 64.68,
+   "end": 67.56,
+   "text": "xama sovallige masitan jaloptop kenma ozun."
+  },
+  {
+   "start": 67.56,
+   "end": 71.72,
+   "text": "Xozur butun dunya boycheri baslangan soxaboygan uchun, xoz xama joyda kop."
+  },
+  {
+   "start": 71.72,
+   "end": 73.88,
+   "text": "Onlinam, offlinam topsi bolaydi."
+  },
+  {
+   "start": 73.88,
+   "end": 77.16,
+   "text": "Nolike HPC-di orgengan narsilarimman"
+  },
+  {
+   "start": 77.16,
+   "end": 79.16,
+   "text": "bishqa chodi qormayganma."
+  },
+  {
+   "start": 79.16,
+   "end": 81.6,
+   "text": "Onlin orgechvati internet anakilarida kopim,"
+  },
+  {
+   "start": 81.6,
+   "end": 84.88,
+   "text": "Instagram də, noreki, buno noh jayzligin, bulmaygima,"
+  },
+  {
+   "start": 84.96,
+   "end": 87.34,
+   "text": "mab, buno noh jayzligin, shotke kibligima."
+  }
+ ],
+ "chars": 1309,
+ "chars_per_s": 15.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

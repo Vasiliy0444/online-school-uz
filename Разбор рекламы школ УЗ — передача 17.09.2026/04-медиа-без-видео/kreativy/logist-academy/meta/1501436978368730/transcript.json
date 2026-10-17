@@ -1,0 +1,41 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.54,
+   "text": "Deklaratsiya. Bir yarum ay uchida online yoki offline okup deklarant kaspini egelin."
+  },
+  {
+   "start": 5.72,
+   "end": 14.84,
+   "text": "Uqtuchilarimiz uzaqiyillik tajribagi ege amaldagi deklarantlar bolib, deklaratsiya eksporti va importki ayit barchi khujetlarini togri toldirishini orgetshadi."
+  },
+  {
+   "start": 15.28,
+   "end": 20.04,
+   "text": "Kurslarimiz haftasigi uchimara ataba iki saatdan online va offline tartla bolib otadi."
+  },
+  {
+   "start": 20.04,
+   "end": 25.04,
+   "text": "Khayit kenchi, deklarantlar oyege 800 dolar va undan koproq daromat tapshadi."
+  },
+  {
+   "start": 25.16,
+   "end": 29.74,
+   "text": "Azrda eyn talabgar soxani ozlashtiri va daromatni yangi darajasi gechiki."
+  },
+  {
+   "start": 29.74,
+   "end": 32.92,
+   "text": "Bebul ociqdarsimizgi yaziluschun, dairektan mrojadqilin."
+  }
+ ],
+ "chars": 540,
+ "chars_per_s": 15.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

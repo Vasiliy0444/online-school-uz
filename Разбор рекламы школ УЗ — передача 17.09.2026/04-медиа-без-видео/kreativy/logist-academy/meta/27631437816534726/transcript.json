@@ -1,0 +1,226 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.72,
+   "text": "Chakrishdi, CV, o'zum haqinda birmitli galso ingilis rusche soradi. Kin bordim, shuyon o'qish nasi qaytladim soradi."
+  },
+  {
+   "start": 9.24,
+   "end": 15.24,
+   "text": "Introduce yourself in English dedi. O'nu ayiti verdim, rusche soradi. BOL, POD, TONE o'qish soradi soradi."
+  },
+  {
+   "start": 15.94,
+   "end": 20.76,
+   "text": "Marabu kartalardan, qish tatlard qiskatmasi, o'qish soradi. Timezone o'qish soradi, kere giladik."
+  },
+  {
+   "start": 20.76,
+   "end": 26.52,
+   "text": "O'qish soradi soradi. Hamasiga jawab verdim. Asnani o'naya Amazon mulayishlari kan dolar."
+  },
+  {
+   "start": 26.52,
+   "end": 28.8,
+   "text": "Amazon Chunterdi unna qamini qizhi qizhi sadiz zaydi"
+  },
+  {
+   "start": 28.8,
+   "end": 30.38,
+   "text": "Xu qizhi qizhi"
+  },
+  {
+   "start": 30.38,
+   "end": 31.34,
+   "text": "Xu qizhi"
+  },
+  {
+   "start": 31.34,
+   "end": 33.56,
+   "text": "Felix Expressin bi bolaydi"
+  },
+  {
+   "start": 33.56,
+   "end": 35.84,
+   "text": "Hizm"
+  },
+  {
+   "start": 35.84,
+   "end": 36.36,
+   "text": "Hizm"
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  },
+  {
+   "start": 36.36,
+   "end": 36.36,
+   "text": ""
+  }
+ ],
+ "chars": 525,
+ "chars_per_s": 14.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

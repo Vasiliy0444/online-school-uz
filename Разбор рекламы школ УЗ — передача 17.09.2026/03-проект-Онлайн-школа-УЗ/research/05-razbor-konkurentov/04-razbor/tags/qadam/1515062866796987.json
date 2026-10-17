@@ -1,0 +1,96 @@
+{
+ "creative_id": "1515062866796987",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Uzum Market'da daromad topmoqchisiz, lekin qaysi mahsulotni tanlashni va qanday boshlashni bilmayapsizmi?",
+  "types": [
+   "вопрос",
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "таймер или обратный отсчёт"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.5s: крупные стилизованные субтитры «Uzum Market'da»; таймер «00:16» и «21+»; девушка в очках на скамейке в парке",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.5s: «daromad topmoqchisiz»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Uzun marketa daromad topmux, sizdekin qaysim aqsilo talashni va qanday boshlashni bilmayapsizm?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта",
+   "доход"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈00:15): «ноль\"dan boshlash uchun»",
+    "timecode": "00:15"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:11] Joylar sonu chekilangan, xozrok ariza koldirin, va biz sizgi noldan boshlashchun anik yol haritasli korsitamiz.",
+    "timecode": "00:11"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈00:06): «boshlanishda», «KO'PCHILIK», «ayni…», «TO'XTAB QOLADI»",
+    "timecode": "00:06"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Uzun marketa daromad topmux, sizdekin qaysim aqsilo talashni va qanday boshlashni bilmayapsizm?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:11] Joylar sonu chekilangan, xozrok ariza koldirin, va biz sizgi noldan boshlashchun anik yol haritasli korsitamiz.",
+    "timecode": "00:11"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Apply now",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Хук: начало — стилизованные субтитры на кадрах («Uzum Market'da» / «daromad topmoqchisiz»), продолжение — по расшифровке, написание исправлено («sizdekin qaysim aqsilo talashni» → «lekin qaysi mahsulotni tanlashni»). Перевод: «хотите зарабатывать на Uzum Market, но не знаете, какой товар выбрать и как начать?». Тело: большинство останавливается на старте — не знают, что продавать, с чего начать, боятся ошибиться (на кадре «xato qilishdan»). Призыв: «Joylar soni cheklangan, hoziroq ariza qoldiring, va biz sizga noldan boshlash uchun aniq yo'l xaritasini ko'rsatamiz» (написание исправлено). На кадре 4 слово «ноль» написано кириллицей внутри латиницы. Ссылка — /uzum-custdev."
+}

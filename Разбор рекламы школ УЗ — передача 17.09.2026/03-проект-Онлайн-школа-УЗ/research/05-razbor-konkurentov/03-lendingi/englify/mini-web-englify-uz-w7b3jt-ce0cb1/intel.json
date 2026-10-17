@@ -1,0 +1,55 @@
+{
+ "url": "https://mini-web.englify.uz",
+ "domain": "mini-web.englify.uz",
+ "pages_scanned": [
+  "https://mini-web.englify.uz/w7b3jt"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)"
+  ]
+ },
+ "seo_metadata": {
+  "title": "KUNIGA 30 DAQIQA SARIFLAB ingliz tili OʻRGANISH SIRLARI",
+  "description": "Bepul master-klass: 3 oyda B2 sertifikatiga tayyorlanishning aniq va amaliy yoʻl xaritasi.",
+  "open_graph": {
+   "title": "KUNIGA 30 DAQIQA SARIFLAB ingliz tili OʻRGANISH SIRLARI",
+   "description": "Bepul master-klass: 3 oyda B2 sertifikatiga tayyorlanishning aniq va amaliy yoʻl xaritasi.",
+   "type": "website"
+  },
+  "headings": {
+   "h1": [
+    "KUNIGA 30 DAQIQA SARIFLAB ingliz tiliOʻRGANISH SIRLARI"
+   ],
+   "h2": [
+    "ROʻYXATDAN OʻTISH",
+    "Master-klassda siz:"
+   ]
+  }
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [],
+  "total_images_found": 1
+ },
+ "integration_links": [],
+ "hidden_elements": {
+  "html_comments": [
+   "englify-fonts https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap",
+   "/englify-fonts",
+   "englify-phone-intl",
+   "/englify-phone-intl",
+   "englify-modal-fix",
+   "/englify-modal-fix",
+   "englify-analytics",
+   "/englify-analytics",
+   "englify-hero-type",
+   "/englify-hero-type"
+  ]
+ }
+}

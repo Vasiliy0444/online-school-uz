@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.8,
+   "text": "Bu taklifi ratqilishiz munkun, lekin afsunslan maslik uchun ishchishat."
+  },
+  {
+   "start": 4.8,
+   "end": 9.44,
+   "text": "Bu yerini bitirgan bitir uchilar 321 dollardan 1700 dollarga cha tapishmokta."
+  },
+  {
+   "start": 10.04,
+   "end": 14.54,
+   "text": "Oqilichilarini ishekirishigeyse, Allaho da tek jobus namli kampanya yordam veradi."
+  },
+  {
+   "start": 14.84,
+   "end": 17.58,
+   "text": "Bundan tashqara, kar hafta boladiyan masterclassi vabimusabakalar,"
+  },
+  {
+   "start": 17.86,
+   "end": 20.18,
+   "text": "ularini qoshimche bilim alishlargi yordam veradi."
+  },
+  {
+   "start": 20.5,
+   "end": 23.6,
+   "text": "Ularini barchasi, Najat Talimni dasturlarish kursi haqida edi."
+  },
+  {
+   "start": 23.98,
+   "end": 27.14,
+   "text": "Sisxam, dasturlarishini aina Najat Talimda orga maqshiborsangiz,"
+  },
+  {
+   "start": 27.38,
+   "end": 28.64,
+   "text": "qaziro qidoyi xavolan basin."
+  }
+ ],
+ "chars": 506,
+ "chars_per_s": 17.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

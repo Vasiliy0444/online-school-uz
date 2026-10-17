@@ -1,0 +1,93 @@
+{
+ "creative_id": "1388249096753064",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "постановка или скетч"
+ ],
+ "hook": {
+  "verbatim": "Ishga joylashishga qiynalib ketyapsizmi?",
+  "types": [
+   "боль",
+   "вопрос"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.5s: девушка «ishga joylashishga qiynalib ketyapsizmi?» → 2.0–2.5s: мужчина на диване с ноутбуком, «bir necha oylab haftalab ish qidirishga to'g'ri kelib qolyaptimi?»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Ishki joloshke qinalib yot vasizm?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта"
+  ],
+  "income_claim": "AutoCAD o'rganing – $700–800 oylik daromad (текст объявления); в ролике — вакансии «interyer dizaynerlar» на hh.uz «400 dolardan 1200 dolargacha» (зарплата по вакансии с сайта поиска работы, не гарантия школы)",
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "📐 AutoCAD o‘rganing – $700–800 oylik daromad sari yo‘l oching!"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈0:11): значок «hh», «interyer[dizaynerlar]»",
+    "timecode": "00:11"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:11] 400 dolardan 1200 dolar gechi tolashke tayyar.",
+    "timecode": "00:11"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (≈0:19): офис, мужчина за компьютером — «3 oy bepul»",
+    "timecode": "00:19"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈0:26): «mutlaqo bepul ochiq dars bo'lib o'tadi»",
+    "timecode": "00:26"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Тот же шаблон, что у 1091042456797892: боль про поиск работы → вакансия «interyer dizayner» с hh.uz (400–1200$, к самому курсу AutoCAD прямого отношения не имеет) → «3 oy bepul» → «mutlaqo bepul ochiq dars». Отличается только завязка (здесь «ishga joylashishga qiynalib ketyapsizmi», у 1091042456797892 — «tajribangiz yo'q ekan deb ishga olishmayaptimi»), актёры и монтаж такие же (реакция мужчины на диване)."
+}

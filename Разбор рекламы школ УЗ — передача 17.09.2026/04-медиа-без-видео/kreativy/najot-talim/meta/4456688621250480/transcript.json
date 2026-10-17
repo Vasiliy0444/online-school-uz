@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.16,
+   "text": "Hich sez diilami, ishqanilada aldiyn kompytur talaqolardi endi suni intelekken sorashi bashlashotdi."
+  },
+  {
+   "start": 5.58,
+   "end": 9.7,
+   "text": "Buna qa paytta farzantlarimizda havatar olamiz. Ertigi ishki kiro atkenda qinilmidi midib?"
+  },
+  {
+   "start": 10.04,
+   "end": 17.84,
+   "text": "Agar sizan farzantlarizi qinilmasikin haqda sez, 14-17 yashli farzantlariz uchun najat talimdan en zor taklif."
+  },
+  {
+   "start": 17.84,
+   "end": 26.02,
+   "text": "Endi farzantiz kompyturni, dasturlashnimi, suni intelekni aynan top IT markazi najat talimda oganishmib."
+  },
+  {
+   "start": 26.02,
+   "end": 32.36,
+   "text": "Va kele cedi, istalgan sahadan ket sayam, uzun sahasizdagi top motorhizladan berge aylanishi munkum."
+  },
+  {
+   "start": 32.64,
+   "end": 38.46,
+   "text": "Bir vaqto uzdi 3000 yakın ataana ishanc bildiratgan, top IT markezladan mittasi bogyan,"
+  },
+  {
+   "start": 38.84,
+   "end": 41.56,
+   "text": "najat talanmi kurslariga farzat izaz maqchibusiz,"
+  },
+  {
+   "start": 41.88,
+   "end": 45.14,
+   "text": "mana bu rakamnaga telefon kuli, ya ki xebalanibasoruk atlatin."
+  }
+ ],
+ "chars": 709,
+ "chars_per_s": 15.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,61 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.96,
+   "text": "Farzan terbiyasini tashak koymastan, hayati ge muas giladigan, tinchini buzmidigan ishi bolishini har bir ayan orzu qiladi."
+  },
+  {
+   "start": 7.24,
+   "end": 10.24,
+   "text": "Hazir bunaki imkonyatladan bittasi uzun marki digan."
+  },
+  {
+   "start": 11.34,
+   "end": 14.18,
+   "text": "Buna uydu otri, beye malol online sabda qilishmukun."
+  },
+  {
+   "start": 14.52,
+   "end": 18.82,
+   "text": "Maksulor tan liysiz, uzun ge cayliysiz, qolganini platformani orzu qiladi."
+  },
+  {
+   "start": 19.6,
+   "end": 22.84,
+   "text": "Shunar silani orgenisda, sizge qadam edikishin yardan beradi."
+  },
+  {
+   "start": 22.84,
+   "end": 27.8,
+   "text": "Mangi in yokgani sodda tildi qadam ma qadan sizdi noldan daramat gechi ap chikishadi."
+  },
+  {
+   "start": 27.8,
+   "end": 32.02,
+   "text": "Agar vloyotdan turub okumakchi bolsangiz, onlayn platformada organichingiz mumkun."
+  },
+  {
+   "start": 32.2,
+   "end": 39.66,
+   "text": "Agar toshkende yashishangiz, shundo kasmanatlar metro yonada okubu markaz joyolashgan, gelib offline darslarda ishirokichingiz mumkun."
+  },
+  {
+   "start": 40.02,
+   "end": 45.56,
+   "text": "Agar siz xam anchiadan beri qaniyidi ozumni pulun bolsaydi dibirgan bosayiz, manim ki bu siz uchun acaib imkaniyat."
+  },
+  {
+   "start": 46.06,
+   "end": 49.62,
+   "text": "Xabala arkali otin, ariza yazib aldirin, va batafsil malumat olasiz."
+  }
+ ],
+ "chars": 855,
+ "chars_per_s": 17.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

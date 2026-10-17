@@ -1,0 +1,561 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.32,
+   "text": "Libboja yada yoruk basayn sorim. Tizi hana yaslav qanamay?"
+  },
+  {
+   "start": 2.32,
+   "end": 6.32,
+   "text": "Meyn ismi Muhammad Aziz. Yashim yi kirmade. Hazar TATU universitadiz oqimay?"
+  },
+  {
+   "start": 6.32,
+   "end": 6.82,
+   "text": "Fasyonalish."
+  },
+  {
+   "start": 6.82,
+   "end": 7.58,
+   "text": "Gibir xafsulik."
+  },
+  {
+   "start": 7.58,
+   "end": 8.08,
+   "text": "Khayrdansiz?"
+  },
+  {
+   "start": 8.08,
+   "end": 8.58,
+   "text": "Qargan edam."
+  },
+  {
+   "start": 8.58,
+   "end": 12.04,
+   "text": "Qob, nima uchun ayinan ajot tan nukiyaribsiz? Kimdori tavsiya qilda mi? Ekramadan kirdizim."
+  },
+  {
+   "start": 12.04,
+   "end": 12.82,
+   "text": "Tavsiya qildi."
+  },
+  {
+   "start": 12.82,
+   "end": 13.32,
+   "text": "Kim?"
+  },
+  {
+   "start": 13.32,
+   "end": 14.16,
+   "text": "Akim tavsiya qilsti."
+  },
+  {
+   "start": 14.16,
+   "end": 15.12,
+   "text": "Akiz latayilish kishadi."
+  },
+  {
+   "start": 15.12,
+   "end": 16.72,
+   "text": "Hazar fronti dasturcisi."
+  },
+  {
+   "start": 16.72,
+   "end": 19.36,
+   "text": "Nima uchun ayinan full stack, nima uchun ayinan dasturlash."
+  },
+  {
+   "start": 19.36,
+   "end": 22.56,
+   "text": "Matematik amalarga nisibatan qabiliyatim var."
+  },
+  {
+   "start": 22.56,
+   "end": 24.56,
+   "text": "Quzur? Ruxda matematika qizor misiz?"
+  },
+  {
+   "start": 24.56,
+   "end": 25.56,
+   "text": "Matematika istirikat qizor."
+  },
+  {
+   "start": 25.56,
+   "end": 27.56,
+   "text": "Matematika qizor sinayaxim gulurda?"
+  },
+  {
+   "start": 27.56,
+   "end": 29.56,
+   "text": "Asar yaxsisi edib."
+  },
+  {
+   "start": 29.56,
+   "end": 31.56,
+   "text": "Matematika urigin asosiyy masad nima uzi bilasin?"
+  },
+  {
+   "start": 31.56,
+   "end": 32.56,
+   "text": "Tikirlashti."
+  },
+  {
+   "start": 32.56,
+   "end": 33.56,
+   "text": "Qut dushin aqaq."
+  },
+  {
+   "start": 33.56,
+   "end": 34.56,
+   "text": "Qut dushin aqaq."
+  },
+  {
+   "start": 34.56,
+   "end": 36.56,
+   "text": "Ertege matematika misolli istirik qalish mkundur."
+  },
+  {
+   "start": 36.56,
+   "end": 39.56,
+   "text": "Lekin undan ochilgan miye malikullar unutilmiydi."
+  },
+  {
+   "start": 39.56,
+   "end": 41.06,
+   "text": "Yani miye uxu zaryalan urlitmiydi."
+  },
+  {
+   "start": 41.06,
+   "end": 42.56,
+   "text": "Uxu miyan uxu ochilishi bizgi giriye."
+  },
+  {
+   "start": 42.56,
+   "end": 44.16,
+   "text": "Matematikana asosiy masaj shubirib koyn"
+  },
+  {
+   "start": 44.16,
+   "end": 45.92,
+   "text": "Foundation-da nima uchun masaj ukebetirilad"
+  },
+  {
+   "start": 45.92,
+   "end": 46.68,
+   "text": "Tkirlashtash shushun"
+  },
+  {
+   "start": 46.68,
+   "end": 48.0,
+   "text": "Chunki kampaniyasi Aitadi ki"
+  },
+  {
+   "start": 48.0,
+   "end": 49.16,
+   "text": "Ma front end ta'miz bikin"
+  },
+  {
+   "start": 49.16,
+   "end": 50.56,
+   "text": "Mekin ta'miz tasawukol diyd"
+  },
+  {
+   "start": 50.56,
+   "end": 52.08,
+   "text": "Bizda shunaka fomusiya bolish gerekki"
+  },
+  {
+   "start": 52.08,
+   "end": 52.88,
+   "text": "Bu u malamodda"
+  },
+  {
+   "start": 52.88,
+   "end": 53.88,
+   "text": "Mana bu, mana bu, mana bu"
+  },
+  {
+   "start": 53.88,
+   "end": 55.2,
+   "text": "Filtriyayokoyla filtrilash gerekdiydi"
+  },
+  {
+   "start": 55.2,
+   "end": 56.0,
+   "text": "Bu masalaa"
+  },
+  {
+   "start": 56.0,
+   "end": 58.0,
+   "text": "Yatey kampaniya xudu shunaka task berad siziyyit"
+  },
+  {
+   "start": 58.0,
+   "end": 60.0,
+   "text": "Nima uchun sizik kampaniyashkaya bitiriyan zanyi asan?"
+  },
+  {
+   "start": 60.0,
+   "end": 61.76,
+   "text": "Uzun tavshirki korumakchiva ka"
+  },
+  {
+   "start": 61.76,
+   "end": 62.64,
+   "text": "Kampaniyalar"
+  },
+  {
+   "start": 62.64,
+   "end": 63.2,
+   "text": "Par"
+  },
+  {
+   "start": 63.2,
+   "end": 63.92,
+   "text": "Uwa?"
+  },
+  {
+   "start": 63.92,
+   "end": 66.06,
+   "text": "Qızıq, mene qızıq, kani qay kitabşır qirmaz siz?"
+  },
+  {
+   "start": 66.06,
+   "end": 67.28,
+   "text": "IT Park qe kitabşır qor."
+  },
+  {
+   "start": 67.28,
+   "end": 67.78,
+   "text": "Kani."
+  },
+  {
+   "start": 67.78,
+   "end": 69.82,
+   "text": "Muhafqatni insanin yedi kronikmaz kitab bar,"
+  },
+  {
+   "start": 69.82,
+   "end": 71.32,
+   "text": "shuniyam oqiylar, mutalibi bar."
+  },
+  {
+   "start": 71.32,
+   "end": 72.36,
+   "text": "Mutalibi bar mi, yovm?"
+  },
+  {
+   "start": 72.36,
+   "end": 72.86,
+   "text": "Yap."
+  },
+  {
+   "start": 72.86,
+   "end": 73.86,
+   "text": "Unnatim, bugun ol, shunizi."
+  },
+  {
+   "start": 73.86,
+   "end": 75.16,
+   "text": "Zor IT Park kitabşır qor,"
+  },
+  {
+   "start": 75.16,
+   "end": 77.12,
+   "text": "diyaniz, nige IT Park shkibasin siz?"
+  },
+  {
+   "start": 77.12,
+   "end": 78.88,
+   "text": "Qadrigi savalarim, jawabini bilin ki,"
+  },
+  {
+   "start": 78.88,
+   "end": 80.56,
+   "text": "siz libo kampani qe barsiz,"
+  },
+  {
+   "start": 80.56,
+   "end": 82.36,
+   "text": "mene, mene bu, mene bu, mene bu sabib qirgira"
+  },
+  {
+   "start": 82.36,
+   "end": 83.56,
+   "text": "marxiv kampani shkib alishkiri digi"
+  },
+  {
+   "start": 83.56,
+   "end": 84.56,
+   "text": "maysibinan barsiz kiri."
+  },
+  {
+   "start": 93.92,
+   "end": 96.78,
+   "text": "echar, boshqalardan otif olaa da aminat davirizdi, falanch khanaqay kandiydi"
+  },
+  {
+   "start": 96.78,
+   "end": 100.08,
+   "text": "sisi haqqayda isti uxtu odam yaxshi doki la berishkiri kampanyiye shakiriganiyizdanki"
+  },
+  {
+   "start": 100.08,
+   "end": 102.42,
+   "text": "mara shu kampanyiya, mara shu ishbu kutido yaxshayin da shuyarida"
+  },
+  {
+   "start": 102.42,
+   "end": 103.82,
+   "text": "hayvat ozgayladini, madar ozgayladini"
+  },
+  {
+   "start": 103.82,
+   "end": 106.96,
+   "text": "xalagay pay oziskiy aqidemiski olasiz, xalagay pay tohtatmaksib olasiz"
+  },
+  {
+   "start": 106.96,
+   "end": 110.36,
+   "text": "yadda kiya boshki ktiyasik guna atip olasiz, xob da suzashigirdizmi en zoru bolin"
+  },
+  {
+   "start": 110.36,
+   "end": 113.06,
+   "text": "bu masal okimayin, yurimayin bu soqadi, en zoru bolin"
+  },
+  {
+   "start": 113.06,
+   "end": 114.14,
+   "text": "Bo, start-up kliyin."
+  },
+  {
+   "start": 114.14,
+   "end": 117.06,
+   "text": "Asab kliyatsin, bir milyon dollar start-up ki bulut ki dhi otkiyan afta."
+  },
+  {
+   "start": 117.06,
+   "end": 118.62,
+   "text": "Bu, yangili kima do kampaniya?"
+  },
+  {
+   "start": 118.62,
+   "end": 121.04,
+   "text": "Shuncha ki, hamma kamunan tolovalar biti zyo yegik koyd."
+  },
+  {
+   "start": 121.04,
+   "end": 122.6,
+   "text": "Ilka masadlar koyn, harekat kliyn."
+  },
+  {
+   "start": 122.6,
+   "end": 123.78,
+   "text": "Bomi di bu turz, bilib koyn."
+  },
+  {
+   "start": 123.78,
+   "end": 125.38,
+   "text": "Tanjiyin hamma bilan, hamma bilan dos bolin."
+  },
+  {
+   "start": 125.38,
+   "end": 127.3,
+   "text": "Yakin sikil bolin, yakinlashin adamla bilan."
+  },
+  {
+   "start": 127.3,
+   "end": 128.3,
+   "text": "Kurs bolin kimi toloyabdi?"
+  },
+  {
+   "start": 128.3,
+   "end": 128.9,
+   "text": "Exitler."
+  },
+  {
+   "start": 128.9,
+   "end": 129.78,
+   "text": "Otolizmash kursyadi?"
+  },
+  {
+   "start": 129.78,
+   "end": 131.86,
+   "text": "Adan pensiyoner, khosru ayamibbi."
+  },
+  {
+   "start": 131.86,
+   "end": 133.06,
+   "text": "Qanaq kutolosh yapdind?"
+  },
+  {
+   "start": 133.06,
+   "end": 133.94,
+   "text": "Kursan xojari geba ma?"
+  },
+  {
+   "start": 133.94,
+   "end": 135.14,
+   "text": "Pensiyoner oz bilan toloyabdi?"
+  },
+  {
+   "start": 135.14,
+   "end": 136.66,
+   "text": "Qazda qanaq kutolosh yapd kurs bolin?"
+  },
+  {
+   "start": 136.66,
+   "end": 137.74,
+   "text": "Nyoman qalqoloyabdan,"
+  },
+  {
+   "start": 137.74,
+   "end": 139.54,
+   "text": "Doğursa, yana, pen sene odamla pultola yapdi da,"
+  },
+  {
+   "start": 139.54,
+   "end": 141.84,
+   "text": "topayken daramadan yarimini veriyat kursu üçün diyan."
+  },
+  {
+   "start": 141.84,
+   "end": 142.7,
+   "text": "Nima qaba oqla yapsiz?"
+  },
+  {
+   "start": 142.7,
+   "end": 143.74,
+   "text": "Kursa qayda rizda oqlay siz?"
+  },
+  {
+   "start": 143.74,
+   "end": 145.94,
+   "text": "Otona har dana ucun qaka, ozda barini veriyat."
+  },
+  {
+   "start": 145.94,
+   "end": 147.04,
+   "text": "Norsan, osanba, shunu bilin."
+  },
+  {
+   "start": 147.04,
+   "end": 148.04,
+   "text": "Qaçan bilasiz, bay, temi?"
+  },
+  {
+   "start": 148.04,
+   "end": 150.14,
+   "text": "Qorizgi, bir sonda hal odu pulto top qorinci,"
+  },
+  {
+   "start": 150.14,
+   "end": 151.28,
+   "text": "mardikolaya qechqanm miziz?"
+  },
+  {
+   "start": 151.28,
+   "end": 151.88,
+   "text": "Min qipqanm?"
+  },
+  {
+   "start": 151.88,
+   "end": 152.98,
+   "text": "Bilin qe mardikolayin qita top qan,"
+  },
+  {
+   "start": 152.98,
+   "end": 154.04,
+   "text": "bulun bir mi turi sunmuyin?"
+  },
+  {
+   "start": 154.04,
+   "end": 155.18,
+   "text": "Qaytta tur asiyo, toqan edan?"
+  },
+  {
+   "start": 155.18,
+   "end": 157.18,
+   "text": "An zar zar zar"
+  },
+  {
+   "start": 157.18,
+   "end": 159.18,
+   "text": "An zar zar zar"
+  },
+  {
+   "start": 159.18,
+   "end": 161.18,
+   "text": "An zar zar zar"
+  },
+  {
+   "start": 161.18,
+   "end": 163.18,
+   "text": "An zar zar"
+  },
+  {
+   "start": 163.18,
+   "end": 165.18,
+   "text": "An zar zar"
+  },
+  {
+   "start": 165.18,
+   "end": 167.18,
+   "text": "An zar zar"
+  },
+  {
+   "start": 167.18,
+   "end": 169.18,
+   "text": "An zar zar"
+  },
+  {
+   "start": 169.18,
+   "end": 171.18,
+   "text": "An zar zar"
+  },
+  {
+   "start": 171.18,
+   "end": 173.18,
+   "text": "An zar zar"
+  },
+  {
+   "start": 173.18,
+   "end": 175.18,
+   "text": "An zar zar"
+  },
+  {
+   "start": 175.18,
+   "end": 177.18,
+   "text": "An zar zar"
+  },
+  {
+   "start": 177.18,
+   "end": 179.18,
+   "text": "An zar zar"
+  },
+  {
+   "start": 179.18,
+   "end": 181.18,
+   "text": "An zar zar"
+  },
+  {
+   "start": 181.18,
+   "end": 183.18,
+   "text": "An zar zar"
+  },
+  {
+   "start": 183.18,
+   "end": 185.18,
+   "text": "An zar zar"
+  }
+ ],
+ "chars": 3444,
+ "chars_per_s": 19.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 1,
+ "quality": "черновое"
+}

@@ -1,0 +1,176 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.5,
+   "text": "Buratan, zrasti. Ozbek sinifani va ish?"
+  },
+  {
+   "start": 3.5,
+   "end": 6.8,
+   "text": "Ozbejcana bilishmasega. Legin, zozbejcana yaxshi chunaysi."
+  },
+  {
+   "start": 6.8,
+   "end": 9.04,
+   "text": "Ipul tapshi yollari nam yaxshi bilasiz."
+  },
+  {
+   "start": 9.04,
+   "end": 10.8,
+   "text": "Bitda zor yolun orgettana."
+  },
+  {
+   "start": 10.8,
+   "end": 13.3,
+   "text": "Uzun marketti sadaqilishi bilasim."
+  },
+  {
+   "start": 13.3,
+   "end": 16.6,
+   "text": "Vay, munu orgen va gelish, ane, shuna qangi zor sakka tapshi vatti?"
+  },
+  {
+   "start": 16.6,
+   "end": 19.8,
+   "text": "Muni yuchun kana qadr qa atti cayi araynaygi alib?"
+  },
+  {
+   "start": 19.8,
+   "end": 21.96,
+   "text": "Ali tolab, nalogam?"
+  },
+  {
+   "start": 21.96,
+   "end": 23.2,
+   "text": "Soli soyin, uncheba."
+  },
+  {
+   "start": 23.2,
+   "end": 28.2,
+   "text": "Yumdan tashqara otargan cayizda, u izda yoki ofisizda narmali sakka tapsiz golan."
+  },
+  {
+   "start": 28.2,
+   "end": 29.5,
+   "text": "Serozni etomba?"
+  },
+  {
+   "start": 29.5,
+   "end": 35.82,
+   "text": "Ytda bat afsil tshil turimu, uzun marketta saada qilish orgin alay, di shani qatda biznesmen mob ketaz."
+  },
+  {
+   "start": 35.82,
+   "end": 42.08,
+   "text": "Botdi qi orqetta digallan oza, vashi onlay saada da tur mila artkechi sodakilay digallay orqet sharkandi,"
+  },
+  {
+   "start": 42.08,
+   "end": 44.92,
+   "text": "2 min tada ozhu adam qorqet qamsil uzo."
+  },
+  {
+   "start": 44.92,
+   "end": 46.12,
+   "text": "Ytda dama shok uchilarimizda."
+  },
+  {
+   "start": 46.12,
+   "end": 48.88,
+   "text": "Umumi abarotimiz, 137 milani chikta uzun marketta."
+  },
+  {
+   "start": 48.88,
+   "end": 50.88,
+   "text": "Abarotimiz 40 milani naqshu atti."
+  },
+  {
+   "start": 50.88,
+   "end": 54.26,
+   "text": "Bar ay ichidi 30 milani che navirni abarot boldi."
+  },
+  {
+   "start": 54.26,
+   "end": 56.72,
+   "text": "Kurs qimmadmazm, qanarka bokil nadi ozul orginlan?"
+  },
+  {
+   "start": 56.72,
+   "end": 59.22,
+   "text": "Kursi online nuk sez boladi, fam offline nuk sez boladi."
+  },
+  {
+   "start": 59.22,
+   "end": 62.54,
+   "text": "Әgər onlayn bozhse, ki botor shartamaz."
+  },
+  {
+   "start": 62.54,
+   "end": 66.78,
+   "text": "Da, platforman ichi ekraz, oz dana platform bozabar, un ichi daxama video darsiyanani korsiz baray."
+  },
+  {
+   "start": 66.78,
+   "end": 70.42,
+   "text": "Əgər siz toshkinli torsiz, shundu ay, bimi torogu yakhin jaydiygan,"
+  },
+  {
+   "start": 70.42,
+   "end": 75.84,
+   "text": "shudda oxh siz bolad. Tol olayan, xaliziz nakti diz, xaliziz bolib toleshgan,"
+  },
+  {
+   "start": 75.84,
+   "end": 78.92,
+   "text": "hulisi bolad. Man navindan keziz, kondor qoydu,"
+  },
+  {
+   "start": 78.92,
+   "end": 81.32,
+   "text": "yari bitdi kursiz se, bej pul xubaradigan bozhsirla."
+  },
+  {
+   "start": 81.32,
+   "end": 81.82,
+   "text": "Shnat."
+  },
+  {
+   "start": 81.82,
+   "end": 85.9,
+   "text": "Ha? Kelim ittish qilamiz. Pastabalimab zizu qaldir siz,"
+  },
+  {
+   "start": 85.9,
+   "end": 87.7,
+   "text": "Bey pul darsliy tash ederladi."
+  },
+  {
+   "start": 87.82,
+   "end": 90.84,
+   "text": "Bitte korib chqazdi, ki maqul bosa uqoras."
+  },
+  {
+   "start": 90.92,
+   "end": 93.0,
+   "text": "Maqul bomasa, yanay visho visho yorurasiz."
+  },
+  {
+   "start": 93.32,
+   "end": 94.3,
+   "text": "Pastaya silke bar."
+  },
+  {
+   "start": 94.38,
+   "end": 96.96,
+   "text": "Haz balabatsizu qaldiri, faydala mali illeygan."
+  }
+ ],
+ "chars": 1615,
+ "chars_per_s": 16.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

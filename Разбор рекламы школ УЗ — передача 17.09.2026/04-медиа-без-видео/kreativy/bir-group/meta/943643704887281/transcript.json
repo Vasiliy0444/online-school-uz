@@ -1,0 +1,76 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.0,
+   "text": "Hechkim gelib sen hayatin uzgadir bermeydi, ya ki bunuchun yardan bermeydi."
+  },
+  {
+   "start": 3.1,
+   "end": 5.14,
+   "text": "Bunuchun asasin uzin hareketqil ishin gerey."
+  },
+  {
+   "start": 5.18,
+   "end": 7.56,
+   "text": "Pul yokhligi, sharayit yokhligi bu asasiy bahana maz."
+  },
+  {
+   "start": 7.86,
+   "end": 10.1,
+   "text": "Asasiy bahana bu sen hareketqil etkanyinda."
+  },
+  {
+   "start": 10.26,
+   "end": 13.3,
+   "text": "Hareketqil amen uzum gelecagin kursu intil amen detkin yoshlarga,"
+  },
+  {
+   "start": 13.68,
+   "end": 16.5,
+   "text": "birgirov jamasildan 500-ta talim grant-i."
+  },
+  {
+   "start": 16.64,
+   "end": 20.24,
+   "text": "Yetkili zamani kask boycha, be pulga oqishiz munkun."
+  },
+  {
+   "start": 20.56,
+   "end": 22.78,
+   "text": "Bunna aling yorklarimizda okukyan okuchilar,"
+  },
+  {
+   "start": 22.94,
+   "end": 25.22,
+   "text": "650 milion somdan kub daramat tapishti."
+  },
+  {
+   "start": 25.22,
+   "end": 27.96,
+   "text": "Grafik dizayn, mablografiya, video mantaj,"
+  },
+  {
+   "start": 28.04,
+   "end": 29.68,
+   "text": "va baska zamani kasklar boycha."
+  },
+  {
+   "start": 29.68,
+   "end": 35.54,
+   "text": "Ənn əlbət, sizi ki, pastak digmanı basib 25-ci sentyabr gün boladiga, onlayn taqdimatimiz kanalgi koshilin."
+  },
+  {
+   "start": 35.86,
+   "end": 39.84,
+   "text": "Taqdimatda grant yekimler qabul kılınadir, qana qashatlar var, batafsil çunturamiz."
+  }
+ ],
+ "chars": 731,
+ "chars_per_s": 18.2,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

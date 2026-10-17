@@ -1,0 +1,74 @@
+{
+ "creative_id": "966760509794263",
+ "platform": "meta",
+ "school_id": "shahlo-alikhanova",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "≤15 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "сток"
+ ],
+ "hook": {
+  "verbatim": "Mahsulotlaringizni AI modellariga kiydirib daromadni oshirish video darsligini ko'ring",
+  "types": [
+   "обращение к сегменту",
+   "результат или доход"
+  ],
+  "visual": [
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: «MAHSULOTLARINGIZNI AI MODELLARIGA KIYDIRIB DAROMADNI OSHIRISH VIDEO DARSLIGINI KO'RING» + «pastdagi tugmani bosing» — статичный текст все 6 кадров; редакторская fashion-съёмка трёх моделей в бежевой/нейтральной одежде на скалистом побережье (одна в широкополой шляпе, одна в хиджабе)",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] !",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "свой бизнес",
+   "доход"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg: «MAHSULOTLARINGIZNI AI MODELLARIGA KIYDIRIB DAROMADNI OSHIRISH» — предложение адресовано владельцам товарного бизнеса (продавцам одежды)",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный урок"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg: «video darsligini ko'ring» + «pastdagi tugmani bosing»",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "cta": {
+  "button": "See details",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "никого"
+ },
+ "language": "без речи",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Расшифровка mlx-whisper дала только «!» — разборчивой речи в ролике нет (тихая/фоновая музыка или её отсутствие), поэтому language = «без речи», speaker.role = «никого». Ролик резко отличается от большинства порции по теме: это не про личный доход через AI, а про конкретный узкий кейс — «одевать» товары в AI-сгенерированных моделей для интернет-магазинов одежды (сопоставимо с сюжетом об «AI Creators Studio» из sheet_overview креатива 28223945117246462, где показан похожий инструмент генерации модели с макияжем). Сама fashion-съёмка (3 модели на скалистом берегу, очень выверенный редакторский свет) по качеству похожа либо на лицензионный сток, либо сама на пример AI-сгенерированной картинки — в notes фиксирую обе версии, тег style ограничен «сток» как более осторожным вариантом. Текст объявления (общий для всей порции, про «5 способов дохода через AI») напрямую не совпадает с темой ролика (AI-модели для товаров) — несовпадение ролика и текста объявления, стоит отметить в отчёте."
+}

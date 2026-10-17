@@ -1,0 +1,196 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.06,
+   "text": "Köp tabrik ala bilan gaplashamiz. Aytadan narsalari, bazilari, esimim cam'a bilan ishidili, lekin, mela mu vaqtdanki esimim cam'a'na baxa sqimbalika tikka'adi."
+  },
+  {
+   "start": 7.06,
+   "end": 9.06,
+   "text": "Shu vaxtda, eger öz izni xadımnizni"
+  },
+  {
+   "start": 9.06,
+   "end": 10.3,
+   "text": "eSIMimda oktip aladan morsaniz,"
+  },
+  {
+   "start": 10.3,
+   "end": 11.78,
+   "text": "mobilografida oktip aladan morsaniz,"
+  },
+  {
+   "start": 11.78,
+   "end": 13.56,
+   "text": "öz izni xadımniz öz izni ishte,"
+  },
+  {
+   "start": 13.56,
+   "end": 15.26,
+   "text": "ham öz izni dukanizni ikini qalad,"
+  },
+  {
+   "start": 15.26,
+   "end": 16.1,
+   "text": "vay ondan tashkarik,"
+  },
+  {
+   "start": 16.1,
+   "end": 16.96,
+   "text": "shu vaxtni icinda"
+  },
+  {
+   "start": 16.96,
+   "end": 18.52,
+   "text": "eSIMimcilik bilan shuglanan shaya olmasa,"
+  },
+  {
+   "start": 18.52,
+   "end": 19.76,
+   "text": "mobilografiya bilan shuglanan,"
+  },
+  {
+   "start": 19.76,
+   "end": 20.46,
+   "text": "istoriya qali,"
+  },
+  {
+   "start": 20.46,
+   "end": 21.2,
+   "text": "brain-facebol,"
+  },
+  {
+   "start": 21.2,
+   "end": 23.02,
+   "text": "öz izni ishizde öz izni xadımniz"
+  },
+  {
+   "start": 23.02,
+   "end": 23.6,
+   "text": "ishlep baradi,"
+  },
+  {
+   "start": 23.6,
+   "end": 25.1,
+   "text": "vay ona koshimca aylik baradan morsaniz,"
+  },
+  {
+   "start": 25.1,
+   "end": 26.4,
+   "text": "eSIMim camagini kicharlim,"
+  },
+  {
+   "start": 26.4,
+   "end": 27.26,
+   "text": "kyob aylik barimisis,"
+  },
+  {
+   "start": 27.26,
+   "end": 29.26,
+   "text": "həm bu qoşimca daramatla buqqala da"
+  },
+  {
+   "start": 29.26,
+   "end": 31.26,
+   "text": "həm sizin ishizni SMIM-i yurucda davam et barad."
+  },
+  {
+   "start": 31.26,
+   "end": 33.26,
+   "text": "Shoyda ishla gyaldiki uchun SMIM camadan gore"
+  },
+  {
+   "start": 33.26,
+   "end": 35.26,
+   "text": "shoydagi maksulatlani kyobrak, yakhsharak bilad."
+  },
+  {
+   "start": 35.26,
+   "end": 37.26,
+   "text": "Tez talam buqqaladan, sizonli narsalaya,"
+  },
+  {
+   "start": 37.26,
+   "end": 39.26,
+   "text": "haz yiyak qigan narsalanam"
+  },
+  {
+   "start": 39.26,
+   "end": 41.26,
+   "text": "shoynin ozinda koyib, interneta koyib, calab baradan bosa"
+  },
+  {
+   "start": 41.26,
+   "end": 43.26,
+   "text": "tezrak, satilisliki vay netice baya ansat bolad."
+  },
+  {
+   "start": 43.26,
+   "end": 45.26,
+   "text": "Yasin San Teknikan magazinimizda"
+  },
+  {
+   "start": 45.26,
+   "end": 47.26,
+   "text": "shoy ishni yola koyganbiz biza uchun"
+  },
+  {
+   "start": 47.26,
+   "end": 49.26,
+   "text": "zor yakhsi netice bert tutdu."
+  },
+  {
+   "start": 49.26,
+   "end": 50.94,
+   "text": "eger xadımınız bol adam olsa,"
+  },
+  {
+   "start": 50.94,
+   "end": 51.98,
+   "text": "teklif etken bol ardim,"
+  },
+  {
+   "start": 51.98,
+   "end": 52.76,
+   "text": "binis igelerine,"
+  },
+  {
+   "start": 52.76,
+   "end": 53.72,
+   "text": "öz izinde xadımınızni,"
+  },
+  {
+   "start": 53.72,
+   "end": 55.16,
+   "text": "isimimde okutup alisini ya olmasa,"
+  },
+  {
+   "start": 55.16,
+   "end": 56.86,
+   "text": "isimimde okunan adami ishasan azam,"
+  },
+  {
+   "start": 56.86,
+   "end": 58.12,
+   "text": "shonasani neticani barayadim."
+  },
+  {
+   "start": 58.12,
+   "end": 58.98,
+   "text": "Kursaya azalish uchun,"
+  },
+  {
+   "start": 58.98,
+   "end": 59.98,
+   "text": "pesteki tügmeni basin."
+  }
+ ],
+ "chars": 1307,
+ "chars_per_s": 21.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

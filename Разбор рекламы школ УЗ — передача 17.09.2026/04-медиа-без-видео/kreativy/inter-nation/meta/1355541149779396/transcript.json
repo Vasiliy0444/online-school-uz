@@ -1,0 +1,21 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.66,
+   "text": "Od 23 000 000 do 43 500 000 sum v mesiz, rabotaya всего lish 6 shizov zeyn."
+  },
+  {
+   "start": 6.14,
+   "end": 8.96,
+   "text": "Если у тебя есть IELTS 7500, переходи по ссылке."
+  }
+ ],
+ "chars": 124,
+ "chars_per_s": 13.6,
+ "cyrillic_share": 0.36,
+ "repeated_segments": 0,
+ "quality": "низкое"
+}

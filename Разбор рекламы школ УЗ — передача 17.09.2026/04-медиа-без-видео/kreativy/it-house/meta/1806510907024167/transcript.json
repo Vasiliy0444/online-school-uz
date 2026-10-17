@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Yok pul, yok!"
+  },
+  {
+   "start": 2.0,
+   "end": 6.0,
+   "text": "Ufff, sedan pul yok baytdi, artxh chiras xod chqip qoladi mi?"
+  },
+  {
+   "start": 6.0,
+   "end": 13.0,
+   "text": "Ayti xausti web dasturlashki asbini organ siz, uch ay bay pola maliyot, va yus faos ishki jayla shizki afalatini biz veramiz."
+  },
+  {
+   "start": 13.0,
+   "end": 19.0,
+   "text": "Kurs onuki ay davam etadi, va shu oqt ichida siz real yoxalarbilan ishliyiz, va tiyor partfolioblan chqas."
+  },
+  {
+   "start": 19.0,
+   "end": 26.0,
+   "text": "Haytgan chi, kampanyalar web dasturchilargi aygi 2.000 dolardan boshlab, 3.000 dolargichi toloshki tayor."
+  },
+  {
+   "start": 26.0,
+   "end": 29.0,
+   "text": "Bunin xixi uz saytidi ozingi stekishrib kor sidam boladi."
+  },
+  {
+   "start": 29.0,
+   "end": 32.94,
+   "text": "Shukhafti webda surlajbochum mutlaka biya pola chukdars bolu botad."
+  },
+  {
+   "start": 33.18,
+   "end": 35.16,
+   "text": "Rojga totochum, pasagitugmane basin."
+  }
+ ],
+ "chars": 577,
+ "chars_per_s": 16.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

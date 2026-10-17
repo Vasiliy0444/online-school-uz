@@ -1,0 +1,84 @@
+{
+ "creative_id": "765600989845806",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "≤15 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Inter Nation School Andijon filialida barcha bosqichlar bo'yicha qabul boshlandi. Hoziroq havola orqali ro'yxatdan o'ting.",
+  "types": [
+   "новость",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "логотип бренда",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: молодой человек в свитере на фоне амфитеатра с логотипом Inter Nation говорит на камеру",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] International School Anjan filialda barchi basqishbo icha khabularimiz domayt yaqti.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:04] Khaziro, khawala damroqatna oti.",
+    "timecode": "00:04"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:15: жёлтый текст «BIZGA FOYDADAN KO'RA SIFAT MUHIM» на фоне амфитеатра",
+    "timecode": "00:15"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость",
+   "для регионов"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:15: «BIZGA FOYDADAN KO'RA SIFAT MUHIM» (для нас качество важнее прибыли)",
+    "timecode": "00:15"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "professional o‘qituvchilar, zamonaviy o‘quv dasturi va til hayot tarziga aylangan muhit"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук по расшифровке, написание исправлено («International School Anjan filialda barchi basqishbo icha khabularimiz domayt yaqti» → «Inter Nation School Andijon filialida barcha bosqichlar bo'yicha qabul boshlandi»; «Khaziro, khawala damroqatna oti» → «Hoziroq havola orqali ro'yxatdan o'ting»). В листе обзора метка времени доходит до ~0:22 при заявленной длительности ролика 7.1с — вероятно расхождение в метаданных длительности или лист сформирован из другой версии ролика; кадр с текстом «BIZGA FOYDADAN KO'RA SIFAT MUHIM» использован как есть, доверять точным таймкодам не стоит. Тот же диктор и декорации, что в 1887891171766252 (одна школа, разные ролики о филиале Андижан)."
+}

@@ -1,0 +1,74 @@
+{
+  "creative_id": "1048409657616076",
+  "platform": "meta",
+  "school_id": "englify",
+  "format": {
+    "type": "видео",
+    "duration_bucket": "16–30 с",
+    "aspect": "9:16"
+  },
+  "style": ["говорящая голова", "запись экрана"],
+  "hook": {
+    "verbatim": "Ingliz tilida so'z yodlash zerikarli va qiyin, to'g'rimi?",
+    "types": ["боль", "вопрос"],
+    "visual": ["лицо в первом кадре", "движение или смена кадра"],
+    "evidence": [
+      {
+        "source": "кадр без текста",
+        "quote": "sheet_hook.jpg 0.0s–1.5s: мужчина в очках сидит на столе в офисе и поворачивается к камере, текста нет",
+        "timecode": "00:00"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_hook.jpg 2.0s: Ingliz tilida; 2.5s: so'z yodlash",
+        "timecode": "00:02"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:03: zerikarli va",
+        "timecode": "00:03"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Engilis tildi soziotlash, zeirikarlik, vaqqiyan toqrimiz.",
+        "timecode": "00:00"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["экономия времени"],
+    "evidence": [
+      {
+        "source": "текст объявления",
+        "quote": "⏰ Har kuni atigi 10 daqiqa bilan boshlang"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:10: экран приложения Start battle — Battle vs AI / Duel / Multiplayer, субтитр sun'iy intellektga qarshi,",
+        "timecode": "00:10"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Bu kuddi oyindek tuyladi, lekin bilim xam olasiz.",
+        "timecode": "00:17"
+      }
+    ]
+  },
+  "offer": {
+    "items": ["без оффера"]
+  },
+  "cta": {
+    "button": "Install now",
+    "in_creative": "перейти по ссылке",
+    "destination": "приложение",
+    "funnel_stage": "основной продукт"
+  },
+  "speaker": {
+    "role": "актёр или ведущий"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": true,
+  "risk": false,
+  "confidence": "средняя",
+  "notes": "Хук: «Ingliz tilida so'z yodlash zerikarli va» — субтитры на кадрах, «qiyin, to'g'rimi?» — по расшифровке, написание исправлено. Тот же ведущий, что в 1030904319872614; рассказывает о функции battle в приложении, как основатель или эксперт не представлен, имя не звучит. Смысл ролика — учёба как игра (баттлы с ИИ, дуэли по словам и грамматике); точного значения в enum нет, «экономия времени» поставлена по тексту объявления («atigi 10 daqiqa») — неоднозначно. Показан макет экрана приложения (~0:10). Призыв: «ilavan yukilabarishin xabalamizdigi basin» (00:21) — скачать по ссылке. Перевод хука: «Учить английские слова скучно и сложно, правда?»"
+}

@@ -1,0 +1,26 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.12,
+   "text": "Gelecekde talab yukar boladigan soxani igalim oxsiz, lekin kaysiyon alishi tallashi bilmiyabsimi?"
+  },
+  {
+   "start": 5.34,
+   "end": 12.9,
+   "text": "Us aynan suzu chun, bepul test ayarladisi suyurda atigi 60 saniyadi suni itilikni organib, o'arkali daromadke chukalas mi, yog mi, bilivalas."
+  },
+  {
+   "start": 13.04,
+   "end": 16.02,
+   "text": "Testan otish chun eqse xaziroq pastigi xavalani basin."
+  }
+ ],
+ "chars": 294,
+ "chars_per_s": 17.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,102 @@
+{
+ "creative_id": "1129820676137866",
+ "platform": "meta",
+ "school_id": "bir-group",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "постановка или скетч"
+ ],
+ "hook": {
+  "verbatim": "Ota-onangizdan pul so'raydigan... ularga pul beradigan...",
+  "types": [
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.0s: постановочное фото — отец, сын-подросток с рюкзаком и бабушка в комнате с коврами и семейными портретами на стене; титры «OTA-ONANGIZDAN» → «PUL SO'RAYDIGAN»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 1.5s: кадр-переход (диагональная штриховка, затемнение), титра нет",
+    "timecode": "00:01"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s–2.5s: то же фото, отец и сын разглядывают деньги/конверт; титр «ULARGA PUL BERADIGAN»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Atamanimizdan kulsora ediganimiz, kullarga pul beraligan fazant bolish haqliz. [00:03] Kupchog yashlarida shu niyat ba.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "профессия будущего"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:03] Kupchog yashlarida shu niyat ba. [00:06] Fakat niyat dozu yeterliyimiz.",
+    "timecode": "00:03"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (~0:23): карточка «Bir Ta'lim Sun'iy Intellekt» с иконкой мозга/микросхемы",
+    "timecode": "00:23"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:20] Grafizay, mablografiya, targeting, [00:22] va baska zamana yukaslarida bekulga oqishiz munkum.",
+    "timecode": "00:20"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Buning uchun 500 ta grant ajratilgan. 25-sentabr kuni onlayn taqdimot bo‘lib o‘tadi."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:16] 500-ta yashlarina 7-tikli yonalish boycha, [00:19] bekulga oqitmaksimiz.",
+    "timecode": "00:16"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "основатель или эксперт"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук построен на постановочном семейном фото (отец, сын-подросток с рюкзаком, бабушка; на стене — портреты, похожие на официальные) со сборным титром по кадрам: «Ota-onangizdan pul so'raydigan... ularga pul beradigan...» — «[Не тот, кто] просит денег у родителей... [а тот, кто] даёт им деньги». Кадр на 1.5с — чистый переход (диагональная штриховка) без текста, поэтому verbatim дан с многоточием на месте пропущенного слова; по расшифровке смысл достраивается как «emas... farzand bo'lish» («не..., а стать [таким] ребёнком»), но дословно на кадре этого нет — не дописываю. Написание в verbatim и evidence по кадру не менял (только со слов расшифровки, где есть явные ошибки распознавания, писал бы литературно, но здесь опорный источник — кадр). В sheet_overview спикер меняется на мужчину в белой футболке на фоне мечети/медресе (похож на ведущего из 2643039256114579) — вероятно, тот же типовой сет для нескольких роликов подборки. Карточка курса «Bir Ta'lim Sun'iy Intellekt» появляется отдельным кадром — прямое визуальное подтверждение направления «ИИ» из числа 7 профессий. Сегмент хука («не проси у родителей, а сам обеспечивай их») не покрывается перечнем meaning схемы напрямую — ближе всего «доход»; фиксирую нюанс здесь. Ролик по расшифровке зовёт на «pastagi tugmani bosib... taqdimatga qatnashing» (без явного слова «telegram» в этой фразе), а текст объявления explicit называет «telegram kanalga qo'shilib oling» — беру «бот или канал Telegram» по умолчанию подборки, но отмечаю, что дословно в самой реплике ролика слово «telegram» не прозвучало. link_url ведёт на лендинг bir-group-webinar.vercel.app/a/ — стандартное расхождение с телеграм-призывом из текста объявления."
+}

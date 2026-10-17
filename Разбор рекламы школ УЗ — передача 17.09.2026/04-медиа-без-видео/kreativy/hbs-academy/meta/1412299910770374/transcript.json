@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.8,
+   "text": "Probshotunu kursda, kupchiliini aldaatgan, kushtarnani chilii traderli, kup ayuk etdi."
+  },
+  {
+   "start": 5.2,
+   "end": 11.3,
+   "text": "Ula esilagi, yustadan bitti oxshashmimugunmogan, risklii teknikali, yokidi milio-miliolli vadaqilisha."
+  },
+  {
+   "start": 11.42,
+   "end": 16.2,
+   "text": "Khoj, asli haqiqat ozikaniqi, tradingda va inisida kandayqali saudagilinadi,"
+  },
+  {
+   "start": 16.64,
+   "end": 18.7,
+   "text": "jayus usurladayan saudagilish yollari barmi."
+  },
+  {
+   "start": 18.76,
+   "end": 24.26,
+   "text": "Ejbe sakadaymasti, sizgi jayus usurladin, stabil daramatki irishkan, mutakayisili darsotadi."
+  },
+  {
+   "start": 24.26,
+   "end": 29.2,
+   "text": "Bu soxhiye kristina aldin sawalli, va aynan shu sawalligi, anig jawab alishni hoqlaysis."
+  },
+  {
+   "start": 29.2,
+   "end": 33.48,
+   "text": "programı kuydagi havali orqali offline konferensiyagi roh khattan otik"
+  },
+  {
+   "start": 33.48,
+   "end": 35.58,
+   "text": "va menedzirlarini sizgi aloqaya chikisadik."
+  }
+ ],
+ "chars": 608,
+ "chars_per_s": 17.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

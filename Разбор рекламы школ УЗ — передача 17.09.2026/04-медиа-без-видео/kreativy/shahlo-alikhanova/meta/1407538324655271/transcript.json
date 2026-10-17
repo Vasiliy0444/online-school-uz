@@ -1,0 +1,26 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.68,
+   "text": "2026. yir suni intelekt bilan daromad, o'qish videosini kursh chun,"
+  },
+  {
+   "start": 3.76,
+   "end": 6.2,
+   "text": "fastegi tugmani basip, videonu akhur geci kurshni unutmeyin,"
+  },
+  {
+   "start": 6.28,
+   "end": 7.74,
+   "text": "chunki yakinda uchir varishadi."
+  }
+ ],
+ "chars": 160,
+ "chars_per_s": 19.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

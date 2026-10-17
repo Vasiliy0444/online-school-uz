@@ -1,0 +1,84 @@
+{
+ "creative_id": "1756158795421697",
+ "platform": "meta",
+ "school_id": "logist-academy",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Endi siz logistikani qimmatga o'rganishingiz shart emas!",
+  "types": [
+   "запрет или ошибка"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.0s: «Endi siz logistikani» (по словам); 1.5s–2.5s: «QIMMATGA» → «o'rganishingiz» → «shart emas!»; парень в чёрном свитере на фоне плаката с фурами",
+    "timecode": "00:01"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость",
+   "доход",
+   "страх отстать"
+  ],
+  "income_claim": "Oylik daromad: 10.000.000 dan 30.000.000 so'mgacha",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:28: «ma'lum bir qismini to'laysiz» (платите только часть)",
+    "timecode": "00:28"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Oylik daromad: 10.000.000 dan 30.000.000 so'mgacha"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Joylar: Atigi 10 ta! Bugun ro'yxatdan o'tmasangiz, ertaga joy qolmasligi mumkin."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "рассрочка",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:28: «ma'lum bir qismini to'laysiz»",
+    "timecode": "00:28"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Joylar: Atigi 10 ta! Bugun ro'yxatdan o'tmasangiz, ertaga joy qolmasligi mumkin."
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук отличается от других креативов этой же ad_text-серии: акцент на цене/оплате («учиться логистике теперь не обязательно дорого»), а не на конкретной сумме дохода. На кадре ~0:39 ещё «speaking clublarimiz bor» и ~0:5x «B1-B2» — школа заявляет разговорные клубы английского до уровня B1-B2 как часть программы; это скорее описание продукта, чем тег из схемы meaning, поэтому в теги не выносил, только в notes. «ma'lum bir qismini to'laysiz» (платите лишь часть) трактовал как «рассрочка» — похоже на оплату по факту трудоустройства, как в других роликах серии, но здесь это не подтверждено явно. Текст объявления — общий шаблон «Amerika logistikasida…»."
+}

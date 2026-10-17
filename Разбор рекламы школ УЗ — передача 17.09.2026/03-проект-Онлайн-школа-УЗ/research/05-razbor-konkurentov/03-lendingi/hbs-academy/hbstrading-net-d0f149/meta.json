@@ -1,0 +1,18 @@
+{
+ "school_id": "hbs-academy",
+ "url": "https://hbstrading.net/",
+ "sources": "site:sitemap | wayback",
+ "first_seen": "2023-04-04",
+ "last_seen": "2025-08-11",
+ "stage_auto_url": "",
+ "is_archive": false,
+ "snapshot_at": "2026-09-16T21:27:41+00:00",
+ "live_status": 200,
+ "final_url": "https://hbstrading.net/",
+ "title": "HBS Group — treyding, akademiya va investitsiya",
+ "screenshot": "/Users/Bel-a/Data/online-shkola-uz/05-razbor-konkurentov/lendingi/hbs-academy/hbstrading-net-d0f149/screenshot-mobile.jpg",
+ "stage_auto": "прочее",
+ "stage_reason": "признаков нет — решить по скриншоту",
+ "text_chars": 23678,
+ "reshot_at": "2026-09-17T00:48:41+00:00"
+}

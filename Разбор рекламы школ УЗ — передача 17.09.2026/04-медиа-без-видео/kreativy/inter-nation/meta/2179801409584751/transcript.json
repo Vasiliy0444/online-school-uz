@@ -1,0 +1,31 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.78,
+   "text": "Engilis tali kursini o'rganish ayn oqt keldi."
+  },
+  {
+   "start": 2.88,
+   "end": 4.44,
+   "text": "Yana buraygi surub otirmayin."
+  },
+  {
+   "start": 4.78,
+   "end": 7.42,
+   "text": "Bugun aq, Engilis talini internationalin da baslayin."
+  },
+  {
+   "start": 7.52,
+   "end": 9.38,
+   "text": "Pastagi haolani basip, kurs taligi yazin."
+  }
+ ],
+ "chars": 171,
+ "chars_per_s": 13.2,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

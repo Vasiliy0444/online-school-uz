@@ -1,0 +1,71 @@
+{
+ "creative_id": "2067259530561151",
+ "platform": "meta",
+ "school_id": "hbs-academy",
+ "format": {
+  "type": "динамическое (DCO)",
+  "duration_bucket": "не видео",
+  "aspect": "9:16"
+ },
+ "style": [
+  "статичный дизайн"
+ ],
+ "hook": {
+  "verbatim": "Ayollar uchun maxsus taklif",
+  "types": [
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "крупный текст",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: заголовок «Ayollar uchun maxsus taklif» над фото сиренево-голубых цветов, лого «HBS» сверху по центру"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для мам",
+   "доход",
+   "без опыта"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: «Uyda qo'shimcha daromad olish uchun moliya bozori va investitsiyalarini imtiyozli narxda kunduzgi guruhlarda o'rganing»"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "🌸 Ayollar uchun yangi imkoniyat! Uy yumushlari yoki asosiy ishingizni tark etmasdan ham qo'shimcha daromad qilish mumkin."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "скидка"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: «...imtiyozli narxda kunduzgi guruhlarda o'rganing»; бейдж «format: Offline»"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "нет призыва",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "никого"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": true,
+ "confidence": "высокая",
+ "notes": "risk = true по правилу инструкции для трейдинга и инвестиций (приведено к одному виду 17.09). Картинка визуально идентична 4390643311219167 (тот же кроп 9:16, та же вёрстка) и тот же ad_text — отдельный library_id Meta с тем же изображением и текстом."
+}

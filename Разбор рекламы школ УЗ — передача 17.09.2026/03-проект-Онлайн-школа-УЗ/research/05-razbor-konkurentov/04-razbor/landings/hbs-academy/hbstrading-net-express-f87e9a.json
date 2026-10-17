@@ -1,0 +1,88 @@
+{
+ "url": "https://hbstrading.net/express",
+ "school_id": "hbs-academy",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "основной продукт",
+ "builder": "Nuxt",
+ "pixels": [
+  "Meta Pixel",
+  "Google Analytics (GA4)",
+  "Google Tag Manager"
+ ],
+ "promise": {
+  "found": true,
+  "value": "За 1,5 месяца с нуля очно учиться у практикующих трейдеров, инвестировать в акции «joiz yo’llarda» (дозволенными путями) и получать дополнительный доход",
+  "quote": "Express trading\n1,5 oy ichida 0’dan praktik treyderlardan yuzma-yuz tarzda ta’lim oling va joiz yo’llarda aksiya bozorlariga investitsiya qilib qo’shimcha daromad qiling",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": true,
+  "value": "Результаты спикеров (самоотчёт, источник не указан): $3 000 → $18 000 за 7 месяцев на рынке акций и «stavil daromad» от 20% до 42% за 6 месяцев; заработок на трейдинге в свободное время; заголовок видеоотзыва про 25–30% прибыли (период не указан)",
+  "quote": "Aylanma: 300 ming$ Natija: 7 oy ichida aksiya bozorida: $3000 ni $18,000 gacha olib chiqgan\nAylanma: 500 ming $ Natija: 6 oy davomida 20% dan 42% gacha stavil daromad\n…\nOrtiqcha vaqt sarflamasdan, qo'shimcha daromad manbai yaratasizBiznes yoki ish bilan band bo'lsangiz ham, bo'sh vaqtingizda treyding orqali pul ishlashni boshlaysiz\n…\nMEN HAM, AYOLIM HAM 25-30% FOYDA QILAMIZ!",
+  "where": "середина"
+ },
+ "audience": {
+  "found": true,
+  "value": "Блок «KURS KIMLARGA MOS KELADI?» (6 пунктов): новички («0’dan» в заголовке), занятые люди («Biznes yoki ish bilan band bo'lsangiz ham»), кто хочет дополнительный доход, торговать акциями дозволенными путями, не бояться потерь и заниматься очно",
+  "quote": "KURS KIMLARGA MOS KELADI?\nJoiz yo'llarda aksiya bozorida savdo qilishni o'rganasizJoiz aktivlarni saralashni va nojoiz aktivlarga investitsiya qilmaslik\nXatolar qilmasdan, tizimli savdo qilishni o'rganasizBozor tahlillari, xavf va kapitalni boshqarish kabi muhim bilimlarga ega bo'lasiz\nOrtiqcha vaqt sarflamasdan, qo'shimcha daromad manbai yaratasizBiznes yoki ish bilan band bo'lsangiz ham, bo'sh vaqtingizda treyding orqali pul ishlashni boshlaysiz\nIshonch bilan savdo qilasizTreydingda pullaringizni yoqotishdan qo'rqmaysiz, chunki kuchli nazorat va strategiyalar bilan ishlaysiz\nEng kuchli strategiyalarni o’rganasizJamoamiz bilan katta kapitallarni (3mln$+) bo’shqarishda ishlatadigan strategiyalarni o’rganasiz\nOfflayn darslar va yuzma-yuz darslarPraktik treyderlarimizdan hamma savollaringizga javob olishingiz mumkin",
+  "where": "середина"
+ },
+ "program": {
+  "found": true,
+  "duration": "1.5 oy (1,5 месяца); без пояснения: «3 soat» — «Darslar soati», «15» — «O'quvchilar soni»",
+  "format": "офлайн",
+  "quote": "Kurs davomiyligi\n1.5 oy\n15\nO'quvchilar soni\n3 soat\nDarslar soati\nKRIPTO:\nAmirxon Oripov, MuhammadAli\nAKSIYA:\nBahodir Abdurahimov\n…\nOfflayn darslar va yuzma-yuz darslarPraktik treyderlarimizdan hamma savollaringizga javob olishingiz mumkin"
+ },
+ "speaker": {
+  "found": true,
+  "value": "По акциям — Bahodir Abdurahimov («STOCK TRADER», «Aylanma: 300 ming$», $3 000 → $18 000 за 7 месяцев); по крипто — Amirxon Oripov (в карточке тоже «STOCK TRADER», «Aylanma: 500 ming $», 20–42% за 6 месяцев) и MuhammadAli (без описания). Цифры — самоотчёт, источник не указан",
+  "quote": "Darslarni kimlar o'tadi? Va ularni tajribasi qanaqa?\nBahodir Abdurahimov\nAylanma: 300 ming$ Natija: 7 oy ichida aksiya bozorida: $3000 ni $18,000 gacha olib chiqgan\nSTOCK TRADER\nAmirxon Oripov\nAylanma: 500 ming $ Natija: 6 oy davomida 20% dan 42% gacha stavil daromad\nSTOCK TRADER",
+  "where": "середина"
+ },
+ "social_proof": {
+  "types": [
+   "видеоотзывы",
+   "скриншоты доходов"
+  ],
+  "reviews_count": 4
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "цены нет: кнопка «Ma’lumot olish» и форма заявки на звонок («Sizga qachon qo'ng'iroq qilish ma’qul?»)"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": true,
+  "value": "Кроме занятий: выпускная церемония и «Jamoaga qo'shilish imkoniyati» (возможность присоединиться к команде; в RU — «к сообществу»)",
+  "quote": "AKSIYA\nDarslari\nBitiruv marosimi\nJamoaga\nqo'shilish\nimkoniyati",
+  "where": "середина"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "имя",
+   "телефон",
+   "Telegram",
+   "другое"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "notes": "Страница курса Express Trading (title «Express Trading — tezkor treyding kursi»; RU — hbstrading.net/ru/express, «Express Trading — ускоренный курс трейдинга»). Единственный полностью офлайн-курс сайта: «yuzma-yuz», «Offlayn darslar va yuzma-yuz darslar», на /hbs-academy — «Format:Offline», «Shaxar:Toshkent», «Muddati:1.5 oy». Позиционирование «joiz yo’llarda» (дозволенными путями): «Joiz aktivlarni saralashni va nojoiz aktivlarga investitsiya qilmaslik». stage_auto «прочее»; этап — основной продукт.\nПорядок блоков: первый экран (заголовок, обещание, кнопка «Ma’lumot olish», фото молодого мужчины в тёмном пиджаке без подписи) → «KURS KIMLARGA MOS KELADI?» (6 пунктов-выгод) → «Bizning akademiyamizga nima kiradi»: «Kurs davomiyligi 1.5 oy», «15 O'quvchilar soni», «3 soat Darslar soati» (за занятие или в сумме и что значит 15 — не пояснено), «KRIPTO: Amirxon Oripov, MuhammadAli», «AKSIYA: Bahodir Abdurahimov», плашки «AKSIYA Darslari», «Bitiruv marosimi», «Jamoaga qo'shilish imkoniyati» → «Darslarni kimlar o'tadi? Va ularni tajribasi qanaqa?» — две карточки с оборотом и результатом → «Talabalarimizning fikrlari» — 4 видео YouTube → «Talabalar natijalari» — 8 картинок с одним и тем же адресом student-result.webp (что на картинке, в текстовом снимке не видно; тип «скриншоты доходов» условный) → «O'zingizga qulay atmosferani tanlang» — 5 фото (файлы из папки finversity) → форма «Kontaktlar» → филиалы → подвал.\nЦифры спикеров — самоотчёт, источник не указан: Bahodir Abdurahimov — «Aylanma: 300 ming$» (≈ 3 529 500 000 сум), «$3000 ni $18,000 gacha» за 7 месяцев (≈ 35 295 000 → 211 770 000 сум, в 6 раз); Amirxon Oripov — «Aylanma: 500 ming $» (≈ 5 882 500 000 сум), «6 oy davomida 20% dan 42% gacha stavil daromad»; оба подписаны «STOCK TRADER», хотя Amirxon Oripov указан в группе «KRIPTO». Капитал команды «(3mln$+)» ≈ 35 295 000 000 сум. Заголовки видеоотзывов (имён нет): «MEN HAM, AYOLIM HAM 25-30% FOYDA QILAMIZ!», «AVVAL BOSHQA KURSDA HAM O'QIGANMAN LEKIN NATIJA BO'LMAGAN», «DIPLOMATIYADA DARS BERAMAN, TREYDERLIKNI O'RGANISHNI HAM XOHLADIM», «QO'SHIMCHA ISH SIFATIDA TREYDINGNI BOSHLADIM». Про риск на странице: «Bozor tahlillari, xavf va kapitalni boshqarish kabi muhim bilimlarga ega bo'lasiz», «Treydingda pullaringizni yoqotishdan qo'rqmaysiz, chunki kuchli nazorat va strategiyalar bilan ishlaysiz»; предупреждений о рисках, лицензий и регуляторов нет.\nЦены, тарифов, рассрочки, гарантии, скидок и сроков набора нет. У кнопки «Ma’lumot olish» в снимке нет ссылки (куда ведёт — не видно); форма — имя, телефон, Telegram-ник, время звонка («Sizga qachon qo'ng'iroq qilish ma’qul?»), курс → звонок менеджера. В объявлениях HBS — «Kunduzgi offline guruhlar uchun maxsus narx sizni kutmoqda» и «Ayollar uchun maxsus kunduzgi offline guruhlar» без суммы; на странице дневных и женских групп и особой цены нет. Реклама: в ads_meta.csv 30 объявлений страницы «HBS academy Uzbekistan» (все активны, старт 24.07–11.09.2026), все ведут на мгновенные формы Meta (link_url http://fb.me/, CTA «Sign up»), на сайт — ни одного, поэтому message_match не заполнялся.\nRU-версия — отличия: «За 1,5 месяца получите очное обучение у практикующих трейдеров и научитесь инвестировать в фондовые рынки по разрешённым направлениям, создавая дополнительный доход»; «Вы перестанете бояться потерь, так как будете работать по чётким стратегиям и под контролем»; «Изучите стратегии, которые наша команда применяет при управлении капиталами от 3 млн $ и выше»; «Jamoaga qo'shilish imkoniyati» (присоединиться к команде) переведено как «Возможность присоединиться к сообществу»; «АКЦИИ уроков»; результаты спикеров — «Оборот: 300 000 $ Результат: за 7 месяцев на фондовом рынке увеличил $3 000 до $18 000» и «Оборот: 500 000 $ Результат: за 6 месяцев стабильная доходность от 20% до 42%»; заголовки видео не переведены.\nТехника: GA4, Meta Pixel, GTM-5XW7TCSH (intel.json); Nuxt. Скриншот 390×844: первый экран — фото, название курса, подзаголовок, зелёная кнопка, заголовок следующего блока; текст совпадает с page.md."
+}

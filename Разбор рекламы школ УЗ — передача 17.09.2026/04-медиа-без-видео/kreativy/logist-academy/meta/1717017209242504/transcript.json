@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 9.58,
+   "text": "Xazir Amerikala yi ish sikasini organib, iki, uchi aydan keni daromadke chqib, aige 500-600. Bir yilda 1100-1000 dollar daromadke chqishiz munkun."
+  },
+  {
+   "start": 9.58,
+   "end": 16.32,
+   "text": "Endi bunu qirini organiban, kani qilib organisan boladi, yaqida nima qilishim kere ishla shchun, digan sawarlariz bosa,"
+  },
+  {
+   "start": 16.4,
+   "end": 18.78,
+   "text": "min yakishanba kuni Bepul seminar tashkir qiliyab."
+  },
+  {
+   "start": 18.86,
+   "end": 22.64,
+   "text": "Man Tashkin shahri da kilib, qatina shchib, polusim alimata sez boladi."
+  },
+  {
+   "start": 22.74,
+   "end": 27.02,
+   "text": "O shakunu min sizgi polusim Amerikala yi ish sikasi bojcha katta bitti Bepul darsotu veram."
+  },
+  {
+   "start": 27.02,
+   "end": 30.12,
+   "text": "qatnashish uchun pastigitugum arqali rol xatna otin,"
+  },
+  {
+   "start": 30.4,
+   "end": 31.9,
+   "text": "uzimiz toluq malumat birams."
+  }
+ ],
+ "chars": 563,
+ "chars_per_s": 17.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

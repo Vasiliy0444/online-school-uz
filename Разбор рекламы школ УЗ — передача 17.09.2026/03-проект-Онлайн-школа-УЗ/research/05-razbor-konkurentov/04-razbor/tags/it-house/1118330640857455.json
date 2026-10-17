@@ -1,0 +1,80 @@
+{
+ "creative_id": "1118330640857455",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Bu sohaga dunyo bo'yicha talab?",
+  "types": [
+   "вопрос",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.5s–2.5s: «BU SOHAGA DUNYO BO'YICHA TALAB?» — мужчина в чёрном костюме на фоне деревянных панелей держит ретро-телефон",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Bu saha ge duniya boych etalad.\n[00:03] 5 yarim min ongi yaqin ish vurni.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "профессия будущего",
+   "стабильность"
+  ],
+  "income_claim": "Boshlang'ich 1000$ dan oylik maosh",
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Boshlang'ich 1000$ dan oylik maosh! 📌 Talab yuqori zamonaviy kasblardan biri \"KIBERXAVFSIZLIK\" sohasini chuqur o'rganishni istaysizmi?"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:03] 5 yarim min ongi yaqin ish vurni.",
+    "timecode": "00:03"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:09] Kibir khasilik mutaqasiz.",
+    "timecode": "00:09"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Приём: мужчина держит и подносит к уху ретро-телефон (реквизит-метафора «важный звонок/новость»), крупный текст-вопрос про мировой спрос на профессию, дальше расшифровка про «5.5 млн вакансий в мире» и «кибербезопасность». income_claim — из текста объявления (дословно), в расшифровке этого конкретного ролика цифра $1000 не произносится явно (обрывается на «18 yoshdan oqishgan bolsa» — возрастное требование 18+), но заявлена в тексте объявления и повторяется в расшифровке однотипных роликов 1682504512828427/1812076963541812/1063585459936110 («boshlanqish 1000 dolar maash» — то же объявление, тот же сюжет о кибербезопасности, разные исполнения)."
+}

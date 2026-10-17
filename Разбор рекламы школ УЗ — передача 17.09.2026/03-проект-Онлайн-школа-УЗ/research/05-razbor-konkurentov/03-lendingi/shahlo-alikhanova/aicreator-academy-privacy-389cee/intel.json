@@ -1,0 +1,38 @@
+{
+ "url": "https://aicreator.academy",
+ "domain": "aicreator.academy",
+ "pages_scanned": [
+  "https://www.aicreator.academy/privacy"
+ ],
+ "tech_stack": {},
+ "seo_metadata": {
+  "title": "AI Creators — Build, ship, and monetize with AI",
+  "description": "A 14-hour curriculum for the new generation of AI-native creators. Foundations to image, video, content, and monetization — five modules, twenty lessons, designed to compound.",
+  "open_graph": {
+   "type": "website",
+   "url": "https://www.aicreator.academy",
+   "image": "https://www.aicreator.academy/icon-512.png",
+   "title": "AI Creators — Build, ship, and monetize with AI",
+   "description": "A 14-hour curriculum for the new generation of AI-native creators. Foundations to image, video, content, and monetization — five modules, twenty lessons, designed to compound."
+  },
+  "twitter_card": {
+   "card": "summary_large_image",
+   "image": "https://www.aicreator.academy/icon-512.png",
+   "title": "AI Creators — Build, ship, and monetize with AI",
+   "description": "A 14-hour curriculum for the new generation of AI-native creators. Foundations to image, video, content, and monetization — five modules, twenty lessons, designed to compound."
+  },
+  "canonical": "https://www.aicreator.academy"
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [],
+  "total_images_found": 1
+ },
+ "integration_links": [],
+ "hidden_elements": {}
+}

@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 29.98,
+   "text": "Bugun daromad, kurs, o'qish va ish haqida gaplashamiz."
+  },
+  {
+   "start": 30.0,
+   "end": 30.9,
+   "text": "qoyce oqtmaqchimiz."
+  },
+  {
+   "start": 31.38,
+   "end": 32.8,
+   "text": "Qanak qilip qatinaqchik munkun,"
+  },
+  {
+   "start": 32.88,
+   "end": 34.24,
+   "text": "nima shardilar bar batafsil,"
+  },
+  {
+   "start": 34.44,
+   "end": 35.78,
+   "text": "25 sentia bir gün,"
+  },
+  {
+   "start": 35.82,
+   "end": 38.72,
+   "text": "20-30-da online taqdimat qilip batafsil chuntiramiz."
+  },
+  {
+   "start": 38.84,
+   "end": 41.0,
+   "text": "Taqdimatka qatinaqchik chun pastak tukmanin basib,"
+  },
+  {
+   "start": 41.38,
+   "end": 43.3,
+   "text": "taqdimat bolaygan kanalga koshilib alin."
+  }
+ ],
+ "chars": 299,
+ "chars_per_s": 6.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

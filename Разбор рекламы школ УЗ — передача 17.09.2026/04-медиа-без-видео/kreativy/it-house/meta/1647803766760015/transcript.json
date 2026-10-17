@@ -1,0 +1,56 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.68,
+   "text": "Bugun sakhani kimlar usun taklif qaliman?"
+  },
+  {
+   "start": 1.68,
+   "end": 4.76,
+   "text": "Cheqlularini haqlam edigan, erkin graftini isay digallar uchun."
+  },
+  {
+   "start": 4.76,
+   "end": 9.52,
+   "text": "Aylik maashingiz xam, sizding bilimlari nizgi agarab 500 dollordan 1000 dollari gece boladi."
+  },
+  {
+   "start": 9.52,
+   "end": 11.6,
+   "text": "Sakha gecay, saka WebFoodStack."
+  },
+  {
+   "start": 11.6,
+   "end": 13.48,
+   "text": "Bugun yonaylasini IT House dokun."
+  },
+  {
+   "start": 13.48,
+   "end": 16.72,
+   "text": "Sababi, sizni oqish tarayanda computer bilan tamilaydi."
+  },
+  {
+   "start": 16.72,
+   "end": 18.72,
+   "text": "Agar kursli mafaqatili eti gugatsirangiz,"
+  },
+  {
+   "start": 18.72,
+   "end": 20.32,
+   "text": "sizni ish bilan xam tamilaydi."
+  },
+  {
+   "start": 20.32,
+   "end": 23.08,
+   "text": "Fakat gini yashingiz 18 do yukari bulish gebek."
+  }
+ ],
+ "chars": 441,
+ "chars_per_s": 19.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

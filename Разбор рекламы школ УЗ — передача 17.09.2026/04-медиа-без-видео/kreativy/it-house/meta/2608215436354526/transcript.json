@@ -1,0 +1,96 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.0,
+   "text": "Alo?"
+  },
+  {
+   "start": 4.0,
+   "end": 5.0,
+   "text": "Alo, as-salamu alaykum."
+  },
+  {
+   "start": 5.0,
+   "end": 6.0,
+   "text": "Alaykum as-salam."
+  },
+  {
+   "start": 6.0,
+   "end": 7.0,
+   "text": "Mange esh giregidi."
+  },
+  {
+   "start": 7.0,
+   "end": 9.0,
+   "text": "Osh, osh, qana qish?"
+  },
+  {
+   "start": 9.0,
+   "end": 12.0,
+   "text": "Istalgan vaqda, istalgan cawida, ing muqmi tayin mi eshi busan."
+  },
+  {
+   "start": 12.0,
+   "end": 14.0,
+   "text": "Bar shun aqas?"
+  },
+  {
+   "start": 14.0,
+   "end": 16.0,
+   "text": "Aylik maash qancha?"
+  },
+  {
+   "start": 16.0,
+   "end": 18.0,
+   "text": "Aylik maash ushi zorunan yuk haraq."
+  },
+  {
+   "start": 18.0,
+   "end": 19.0,
+   "text": "Demek minge yordan vera olaz?"
+  },
+  {
+   "start": 19.0,
+   "end": 22.0,
+   "text": "Yok, sizge IT-xaut yordan vera."
+  },
+  {
+   "start": 22.0,
+   "end": 24.0,
+   "text": "Una, 6 aylik graphic design kurslarini tuketasiz."
+  },
+  {
+   "start": 24.0,
+   "end": 26.0,
+   "text": "Wa sh-salam, hayk enchi."
+  },
+  {
+   "start": 26.0,
+   "end": 28.0,
+   "text": "Yashengiz 18 yorstan balantma?"
+  },
+  {
+   "start": 28.0,
+   "end": 29.0,
+   "text": "Haa?"
+  },
+  {
+   "start": 29.0,
+   "end": 31.0,
+   "text": "Un day bolsa, mingi okchab."
+  },
+  {
+   "start": 31.0,
+   "end": 33.0,
+   "text": "Ishbilankam tamilab boychadan."
+  }
+ ],
+ "chars": 454,
+ "chars_per_s": 13.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

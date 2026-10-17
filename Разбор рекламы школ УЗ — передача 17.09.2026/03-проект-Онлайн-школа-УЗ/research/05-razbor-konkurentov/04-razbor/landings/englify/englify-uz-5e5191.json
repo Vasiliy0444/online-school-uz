@@ -1,0 +1,117 @@
+{
+ "url": "https://englify.uz/",
+ "school_id": "englify",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "главная или каталог",
+ "builder": "своя сборка на Vercel (шаблон onWidget)",
+ "pixels": [
+  "Meta Pixel",
+  "Google Analytics (GA4)",
+  "Яндекс.Метрика"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Курс General English: выучить английский современными методами — быстро и эффективно (без конкретного результата и срока)",
+  "quote": "General English\nIngliz tilini zamonaviy metodlar yordamida\ntez va samarali o'rganing",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": true,
+  "value": "Без цифр: после курса — высокооплачиваемая работа и сотрудничество с зарубежными организациями («soqqani soqqaga urish» — «деньги к деньгам»); студентам — «финансовая свобода» через современные профессии",
+  "quote": "Shaxsiy karyerangizda o'sish uchun yuqori maoshli ish topishingiz, xorijiy tashkilotlar bilan hamkorlik qilib \"soqqani soqqaga urishni\" boshlaysiz\n…\nDarslardan tashqari zamonaviy kasblarni o'rganib moliyaviy erkinlikka erishmoqchi bo'lgan yoshlar uchun",
+  "where": "середина"
+ },
+ "audience": {
+  "found": true,
+  "value": "Широкая: абитуриенты (экзамены в вузы и лицеи), школьники, любители (путешественники, полиглоты), студенты, работающие специалисты для карьеры, соотечественники за рубежом",
+  "quote": "Kurslarimiz aynan\nAbituriyentlar\nDavlat va chet el universitetlari, litsey va boshqa o'quv muassasalari imtihonlariga ingliz tilidan tayyorlanuvchilar uchun\n…\nChet eldagi yurtdoshlarimiz\nIshlash yoki o'qish maqsadida chet elga ketgan, kundalik muloqot uchun ingliz tiliga ehtiyoji bo'lgan insonlar uchun ideal tanlov hisoblanadi",
+  "where": "середина"
+ },
+ "program": {
+  "found": true,
+  "duration": "подписка: JO'SHQIN на 3 или 6 месяцев, BO'TALOG'IM — помесячно; длительность курса и число уровней не указаны",
+  "format": "онлайн",
+  "quote": "Onlayn - format\nDunyoning istalgan nuqtasidan 24/7 vaqtda ilovaga kirish imkoniyati bor.\n…\nO'rtacha 14-16 ta o'quvchidan iborat guruhlarda o'quvchilar jonli onlayn darslarga qatnashadi, o'zaro bellashishadi va bir birlariga yordam berishadi.\n…\nBitta darsda 2tadan 4gagacha serial ko'rinishidagi videodarslarni ko'rish orqali mavzuni oson va qiziqarli tarzda tushunib olasiz (videolar davomiyligi 5-10 daqiqa)."
+ },
+ "speaker": {
+  "found": true,
+  "value": "Блок «Mentorlarimiz»: 14 преподавателей только по именам и фото (Mr.Mike, Iroda, Gulbahor, Islom, Bekzod, Maftuna, Elbek, Javohir, Go'zal, Shahrizoda, Muhammadamin, Sevinch, Zukhra, Maftuna) — без стажа, сертификатов и ролей. Основатель на странице не назван; фото сразу под первой формой — файл teacher_azam.jpg",
+  "quote": "Mentorlarimiz\nBizning maktab — bu ingliz tilini oson va qiziqarli o'rganish uchun ajoyib joy!\nTajribali o'qituvchilar va zamonaviy dasturlar yordamida siz maqsadingizga tezroq erishasiz.",
+  "where": "середина"
+ },
+ "social_proof": {
+  "types": [
+   "видеоотзывы",
+   "текстовые отзывы"
+  ],
+  "reviews_count": 24
+ },
+ "price": {
+  "found": true,
+  "tariffs": [
+   {
+    "name": "JO'SHQIN — 3 oy",
+    "price_uzs": 1635000,
+    "period": "за 3 месяца",
+    "quote": "JO'SHQIN\n…\n3 oy 1 635 000 sum"
+   },
+   {
+    "name": "JO'SHQIN — 6 oy",
+    "price_uzs": 2970000,
+    "period": "за 6 месяцев",
+    "quote": "6 oy 2 970 000 sum"
+   },
+   {
+    "name": "BO'TALOG'IM — oyiga",
+    "price_uzs": 850000,
+    "period": "в месяц",
+    "quote": "BO'TALOG'IM\n…\noyiga 850 000 sum"
+   }
+  ]
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": true,
+  "value": "Обещание без цифр и сроков: «время от времени» могут объявляться скидки при предоплате за 3 месяца (пункт есть в обеих карточках тарифов)",
+  "quote": "Chegirmalar\nVaqti-vaqti bilan oldindan 3 oylik to'lovlarlar uchun chegirmalar e'lon qilinishi mumkin",
+  "where": "низ страницы"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "имя",
+   "телефон"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "message_match": {
+  "library_id": "2941363729367351",
+  "scores": {
+   "promise_continuity": 4,
+   "language_match": 4,
+   "visual_continuity": 5,
+   "cta_alignment": 8,
+   "specificity_match": 3,
+   "emotional_match": 4
+  },
+  "total_of_60": 28
+ },
+ "notes": "Главная englify.uz — одностраничник курса General English с ценами; она же «страница цен»: адреса /narxlar, /tariflar, /kurslar, /courses, /payment, /tolov, /oferta, /offer, /ommaviy-oferta, /shartnoma, /dogovor, /testing отдают этот же текст (отличаются только ссылки меню) и отдельно не разбирались; /result — те же блоки отзывов и результатов без формы и цен. Настоящая оферта — /public-offer (разбор englify-uz-public-offer-04e0e6.json). Порядок блоков: форма «Ismingiz va Familiyangiz» + «Telefon raqamingiz» → «Ro'yhatdan o'tish» с согласием на оферту → фото преподавателя (teacher_azam.jpg) → «O'quvchilarning fikrlari» (7 карточек, у каждой «✕» — открываются во всплывающем окне, по разметке похоже на видео) → «O'quvchilarimizning natijalari💣» (16 разных фото сертификатов учеников) → «O'quvchilarning izohlari🤩» (17 скриншотов отзывов) → «Imkoniyatlar - ajoyib!» → «Sizni nima kutmoqda?» → «Kurslarimiz aynan» → «Mentorlarimiz» → блок приложения со ссылками App Store / Google Play и QR-кодами → «Hamma uchun qulay tarif turlari va narxlar:» → вторая форма «Orzuga yaqinroq bo'ling – o'qishga ariza bering!» → подвал: «\"ENGLIFY\" MChJ», «ИНН: 309795570», +998 (55) 515-69-69, логотипы Uzcard, Humo, Visa, Mastercard. Цифр о школе (число учеников, годы работы) на главной нет. reviews_count = 7 карточек отзывов + 17 скриншотов; сертификаты в счёт не входят. Цены: JO'SHQIN 1 635 000 сум за 3 мес. (≈545 000 в месяц) и 2 970 000 за 6 мес. (495 000 в месяц — как на web.englify.uz), BO'TALOG'IM 850 000 сум «oyiga» — помесячная оплата, по правилу не рассрочка; рассрочки, гарантии, условий возврата и дедлайна на странице нет. Противоречие в тарифах: карточка JO'SHQIN перечисляет «Zoom darslari Haftada 6 marta…» и «2ta o'qituvchi», а оферта (п. 4.1) и web.englify.uz описывают Jo'shqin как самостоятельное обучение без живых уроков; возможно, в карточке эти пункты показаны как «не входит» (зачёркнуты) — по тексту и скриншоту первого экрана не проверить. Требования к преподавателям разнятся: здесь «darajasi 7.5+ bo'lgan o'qituvchi», на web.englify.uz «IELTS 8.0», в рекламе «IELTS 8.5». Что происходит после формы, на странице не сказано (next_step «звонок менеджера» — по смыслу заявки из имени и телефона); кнопка «Student App» в шапке ведёт в кабинет учеников app.englify.uz/auth/welcome. Отдельный путь воронки — приложение: 30 из 106 объявлений Englify в ads_meta.csv ведут не на сайт, а на установку (кнопка «Install now»): 26 — в App Store (id6499320034; 22 с 12.06.2026, 97 дней, и 4 с 30.07; ранги 5, 8–16, 18, 19, 22, 29), 4 — в Google Play (uz.englify.englify_client_mobile, с 30.07.2026, 49 дней, ранги 23, 25, 30); текст у всех один: «[ILOVANI YUKLAB OLING!] Englify — har qanday yoshdagi o‘rganuvchilar uchun mos, qulay va samarali ingliz tili ilovasi. … ⏰ Har kuni atigi 10 daqiqa bilan boshlang …». На главной приложение продвигается блоком «Englify - ingliz tilini o'rganish uchun mo'ljallangan maxsus ilova…»; по оферте регистрация и покупка тарифов идут в мобильном приложении (там же самый простой тариф «Uchqun» и автосписание с карты); цены внутри приложения не сняты. Остальная реклама: 31 объявление на страницы бесплатного мастер-класса mini-web.englify.uz (с 11–15.09; 9 страниц разобраны, /l3v7yb — 1 объявление, снимка нет), web.englify.uz — 7 (с 07.09), instant.englify.uz — 6 (с 05.08), hr.englify.uz/apply/2 — 1 (с 12.09; вакансия «Sales Manager (Rustoz)» на HR-сайте Englify, в тексте — «Support Teacher» для Rustoz, онлайн-платформы по русскому языку; не студенческая воронка, в лимит 14 страниц не вошла), forms.gle — 2 (с 11.08; найм: «Agar siz Parkent yoki Yangibozor tumanida yashasangiz … 0 dan o‘rgatib ishga joylash», Google-форма не снималась). apply.englify.uz: корень — пустая заставка «Englify ro'yxatdan o'tish sistemasi.» без формы; /listeningwithmike — лид-магнит (разбор apply-englify-uz-listeningwithmike-63c6db.json); вебинаров там в снимках нет. public.englify.uz — 404 DEPLOYMENT_NOT_FOUND. Реклама на главную: 29 объявлений (все активны, видео, кнопка «Sign up»), ранги 1, 2, 3, 4, 6, 7, 17, 20, 24, 26, 27, 28; три текста: «🔥 Englify - ingliz tilini tizimli o'rgatadi. Shu sababli bizni o'quvchilar ingliz tili o'rganishni tashlab qo'ymasdan, oxrigacha o'rganishadi. Hozirda 7000dan ortiq o'quvchilar bizda o'qib, natija qilib kelishmoqda.» (14 объявлений с 12 и 18.05, до 128 дней), «✍🏻 Englify bilan ingliz tilini istalgan joyda va vaqta o'rganing. 📱 Ilovamizda 470 dan ortiq teacherazam tomonidan o'rgatilgan video darslar, 10 000 + mashqlar va funksiyalar bor. 🎓 Bizda xozir 21 000 ta o'quvchilar o'qib natija qilishgan.» (4 — с 26.06 и 25.08), «🗣️3 oyda ingliz tilida bemalol gapirib, tushuna oladigan darajaga chiqasiz. 🎓 Darslarimiz online, istalgan joyda va vaqtda o'rgana olasiz. 👩🏻‍🏫 IELTS 8.5 va 4 yillik tajribaga ega ustozlardan ta'lim olasiz.» (11 — с 25.08 и 07.09). Число учеников в рекламе расходится: «7000dan ortiq», «21 000 ta», в роликах мастер-класса Teacher Azam говорит о 25 тысячах — всё самоотчёт. message_match: объявление 2941363729367351 (ранг 1, 122 дня, с 18.05). Ролик (черновая расшифровка, 30 с): мужчина в очках на скамейке в парке (тот же ведущий, что на фото «Teacher Azam» на mini-web) рассказывает о специальном курсе speaking для занятых работающих людей старше 25 лет: 3 раза в неделю по 80 минут, преподаватели с высоким баллом IELTS (число в расшифровке неразборчиво) и 4 годами опыта, фокус только на разговоре, за 3 месяца с нуля — говорить, понимать и свободно общаться; призыв нажать на ссылку, после чего, по словам ролика, свяжутся специалисты школы (это и основание для next_step «звонок менеджера»). Совпадают регистрация (форма на первом экране), «Speaking» и «3 marta 80 daqiqadan» — но только глубоко в карточке тарифа; первый экран — общий «zamonaviy metodlar… tez va samarali», про занятых взрослых 25+, разговор за 3 месяца, «tizimli», «oxirigacha» и 7000 учеников на странице ничего нет. Техника: в intel.json Meta Pixel и GA4, Яндекс.Метрика — по HTML-комментарию «Yandex.Metrika counter»; сборка на Vercel (в адресе картинки og ?dpl=…), в метаданных twitter @onwidget — шаблон onWidget. Скриншот 390×844 — первый экран: логотип, кнопка «Student App», подзаголовок и форма; заголовок «General English» на мобильном первом экране не виден."
+}

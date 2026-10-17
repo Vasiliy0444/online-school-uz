@@ -1,0 +1,136 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.7,
+   "text": "Elina, 2011 yi god razhdeni?"
+  },
+  {
+   "start": 3.7,
+   "end": 4.2,
+   "text": "Yip."
+  },
+  {
+   "start": 4.2,
+   "end": 7.0,
+   "text": "Tak, horosho, yi eto vasha perva PPKL-s?"
+  },
+  {
+   "start": 7.0,
+   "end": 7.5,
+   "text": "Da."
+  },
+  {
+   "start": 7.5,
+   "end": 8.5,
+   "text": "Sem."
+  },
+  {
+   "start": 8.5,
+   "end": 9.5,
+   "text": "Sem."
+  },
+  {
+   "start": 9.5,
+   "end": 12.5,
+   "text": "Tak, u mene waprosy tochno yist. U kogo uchilis?"
+  },
+  {
+   "start": 12.5,
+   "end": 13.5,
+   "text": "U miss Marquise-a."
+  },
+  {
+   "start": 13.5,
+   "end": 15.5,
+   "text": "A, pouchaitso, vy sami yo vybarali?"
+  },
+  {
+   "start": 15.5,
+   "end": 17.5,
+   "text": "Ni, vybarala yo administratio."
+  },
+  {
+   "start": 17.5,
+   "end": 20.5,
+   "text": "A, pouchaitso, administratore podabrali vam nuzhno uchite?"
+  },
+  {
+   "start": 20.5,
+   "end": 21.0,
+   "text": "Da."
+  },
+  {
+   "start": 21.0,
+   "end": 22.5,
+   "text": "A, suportom zanimalis?"
+  },
+  {
+   "start": 22.5,
+   "end": 23.0,
+   "text": "Da."
+  },
+  {
+   "start": 23.0,
+   "end": 27.5,
+   "text": "Se yey yo praktikavala speaking, i ona kak Statsy Party, ona ochin khorosha."
+  },
+  {
+   "start": 27.5,
+   "end": 34.42,
+   "text": "Она может указать на ваши ошибки, но при этом поддерживать вас и давать вам альтернативу."
+  },
+  {
+   "start": 34.62,
+   "end": 36.26,
+   "text": "То есть ошибаться нормально?"
+  },
+  {
+   "start": 36.46,
+   "end": 36.62,
+   "text": "Да."
+  },
+  {
+   "start": 37.04,
+   "end": 44.8,
+   "text": "Хорошо. Вот по поводу IELTS X. Это просто красивое название или есть какая-то база знаний?"
+  },
+  {
+   "start": 45.38,
+   "end": 54.88,
+   "text": "Да, все формулы, методики, тактики, которые ты используешь для решения, к примеру, лызинга и ризинга, они были прям очень полезны."
+  },
+  {
+   "start": 54.88,
+   "end": 62.38,
+   "text": "А такшо формулы для writing таск 1, они тоже для IELTS Band 7 и выше."
+  },
+  {
+   "start": 62.78,
+   "end": 69.58,
+   "text": "Так, за ваш результат IELTS 7 вы получаете кэшбэк, но сегодня у нас есть только один результат, но кэшбэков будет два."
+  },
+  {
+   "start": 70.0,
+   "end": 71.14,
+   "text": "Как вы думаете, кого вы стараете?"
+  },
+  {
+   "start": 71.16,
+   "end": 72.14,
+   "text": "Для моего учителя."
+  },
+  {
+   "start": 72.74,
+   "end": 80.98,
+   "text": "Если вы хотите, чтобы следующим результатом был уже именно ваш, оставляйте плюсик в комментариях, и мы расскажем вам, с чего начать подготовку к IELTS."
+  }
+ ],
+ "chars": 1129,
+ "chars_per_s": 13.1,
+ "cyrillic_share": 0.62,
+ "repeated_segments": 0,
+ "quality": "низкое"
+}

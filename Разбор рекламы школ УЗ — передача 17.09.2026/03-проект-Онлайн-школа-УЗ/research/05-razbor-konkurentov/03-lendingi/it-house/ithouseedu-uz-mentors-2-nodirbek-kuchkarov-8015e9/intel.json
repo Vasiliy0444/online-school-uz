@@ -1,0 +1,85 @@
+{
+ "url": "https://ithouseedu.uz",
+ "domain": "ithouseedu.uz",
+ "pages_scanned": [
+  "https://ithouseedu.uz/mentors/2-nodirbek-kuchkarov"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)"
+  ],
+  "platform": [
+   "Next.js"
+  ]
+ },
+ "seo_metadata": {
+  "title": "Nodirbek Kuchkarov - Data-analitika | IT House Mentorlari | IT House",
+  "description": "Real loyihalar va tijoriy saytlar ustida ishlagan\r\nGoogle, IBM xalqaro sertifikatlariga ega\r\nO‘quvchilarining aksariyati junior darajada ish boshlagan yoki...",
+  "open_graph": {
+   "title": "Nodirbek Kuchkarov | IT House",
+   "description": "Real loyihalar va tijoriy saytlar ustida ishlagan\r\nGoogle, IBM xalqaro sertifikatlariga ega\r\nO‘quvchilarining aksariyati junior darajada ish boshlagan yoki...",
+   "image": "https://api.ithouseedu.uz/media/teacher_photos/photo_2026-04-08_14-17-24.jpg",
+   "type": "profile"
+  },
+  "twitter_card": {
+   "card": "summary_large_image",
+   "title": "Nodirbek Kuchkarov",
+   "description": "Real loyihalar va tijoriy saytlar ustida ishlagan\r\nGoogle, IBM xalqaro sertifikatlariga ega\r\nO‘quvchilarining aksariyati junior darajada ish boshlagan yoki...",
+   "image": "https://api.ithouseedu.uz/media/teacher_photos/photo_2026-04-08_14-17-24.jpg"
+  },
+  "structured_data": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Nodirbek Kuchkarov",
+    "jobTitle": "Data-analitika",
+    "description": "Real loyihalar va tijoriy saytlar ustida ishlagan\r\nGoogle, IBM xalqaro sertifikatlariga ega\r\nO‘quvchilarining aksariyati junior darajada ish boshlagan yoki freelancer bo‘lgan",
+    "image": "https://api.ithouseedu.uz/media/teacher_photos/photo_2026-04-08_14-17-24.jpg",
+    "worksFor": {
+     "@type": "Organization",
+     "name": "IT House",
+     "sameAs": "https://www.ithouseedu.uz/"
+    },
+    "knowsAbout": []
+   }
+  ],
+  "headings": {
+   "h1": [
+    "Nodirbek Kuchkarov"
+   ],
+   "h2": [
+    "Data-analitika",
+    "IT HOUSE - Kelajak shu yerda"
+   ],
+   "h3": [
+    "Biografiya",
+    "Ijtimoiy tarmoqlar"
+   ]
+  }
+ },
+ "ctas": [
+  {
+   "text": "Contact",
+   "href": "#support"
+  }
+ ],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [
+   "https://ithouseedu.uz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-white.fce634ce.png&amp;w=128&amp;q=75",
+   "https://ithouseedu.uz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-white.fce634ce.png&amp;w=64&amp;q=75"
+  ],
+  "total_images_found": 5
+ },
+ "integration_links": [],
+ "hidden_elements": {
+  "experiments_or_flags": [
+   "outline",
+   "default"
+  ]
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "creative_id": "920120907740417",
+ "platform": "meta",
+ "school_id": "englify",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "Agar ingliz tilini boshqa o'rgana olmayman, bo'ldi deyatgan bo'lsangiz, to'xtang.",
+  "types": [
+   "боль",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.0s: «agar ingliz tilini» / «boshqa o'rgana olmayman»; мужчина в зелёном поло на детской площадке",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.5s–2.5s: «bo'ldi deyatgan bo'lsangiz» / «to'xtang»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Agar ingilisini basqa orginali miwen bol dootkan bol, sez, tohtin.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "быстрый старт",
+   "экономия времени"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:05: «25 dan yoshi kattalarga»; ~0:15: «video darslik ko'rasiz»",
+    "timecode": "00:15"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:25: «aniq natijalar ko'rina boshlaydi»; ~0:35: «hoziroq»",
+    "timecode": "00:25"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:12] Kun davamidi, 10-15 minuttan vizio dersi koras, yo ki, qadar film koras, yo ki, podcast korishin giz munkun.",
+    "timecode": "00:12"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "HAVOLA USTIGA BOSiNG"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "По сути повтор ролика 2941363729367351 (тот же ведущий, та же детская площадка, тот же смысл хука в другой раскладке слов) — вероятно, альтернативный монтаж/новая версия того же сценария под тем же брендовым текстом объявления. Кадры хорошо совпадают с расшифровкой (написание в hook.verbatim исправлено по кадрам). Отдельного оффера нет, только призыв «HAVOLA USTIGA BOSiNG» в тексте объявления."
+}

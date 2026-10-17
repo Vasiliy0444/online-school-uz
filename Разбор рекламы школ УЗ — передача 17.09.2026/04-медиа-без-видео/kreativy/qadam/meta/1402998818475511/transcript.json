@@ -1,0 +1,101 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.06,
+   "text": "Ishikirsiz alaykum kanak boladdi, boladsis xazu chuntrib berima."
+  },
+  {
+   "start": 3.18,
+   "end": 8.5,
+   "text": "Fiks alay aigy 2.5 milyonsom, sato uraycasini bacarsiz, yana 10.5 milyonsom bonus beriladi."
+  },
+  {
+   "start": 8.62,
+   "end": 11.78,
+   "text": "Shundi cami aigy 13 milyonsom gichi, behimalal topsis boladdi."
+  },
+  {
+   "start": 11.9,
+   "end": 16.82,
+   "text": "Bughali xanmasmaz, menijirlidanki, timlid, va ondanki, rob bolub ishlasiz an boladdi."
+  },
+  {
+   "start": 17.02,
+   "end": 18.74,
+   "text": "Yani karyeriz toktozsiz osaddi."
+  },
+  {
+   "start": 18.86,
+   "end": 23.58,
+   "text": "Timlidirlan alaykum 16 milyonsom, roblani ki boz 2.2 milyonsom atrafada chikarkan."
+  },
+  {
+   "start": 23.58,
+   "end": 25.62,
+   "text": "Qadamda qoshim ki bonus oyinlayan barakan."
+  },
+  {
+   "start": 25.62,
+   "end": 29.2,
+   "text": "Toloo apkirdizm xarxil oyli dhe qatnashib pulli soorilaniyam olas."
+  },
+  {
+   "start": 29.2,
+   "end": 34.9,
+   "text": "Agar ayli rejanib baciradigam, busiz butoon kamanda bilan kampaniya xsabidan dachigayam dama gani baralisis."
+  },
+  {
+   "start": 34.9,
+   "end": 36.68,
+   "text": "Ishki krischon sidan nimalat alab qilnadi."
+  },
+  {
+   "start": 36.68,
+   "end": 39.18,
+   "text": "Ya shiz 18-26 araligda bolishkiri,"
+  },
+  {
+   "start": 39.18,
+   "end": 41.58,
+   "text": "Tashkin yaki da Tashkin vilayetidi yashishishkiri,"
+  },
+  {
+   "start": 41.58,
+   "end": 45.14,
+   "text": "Savda yaki da Kol Sentrli di kiamida uchayi tajribiz bolishkiri,"
+  },
+  {
+   "start": 45.14,
+   "end": 47.26,
+   "text": "ba busizdi asasi ishiz bolishkiri."
+  },
+  {
+   "start": 47.26,
+   "end": 49.3,
+   "text": "Ishqib Kol Sentrli di Satu Menajerli qituribni,"
+  },
+  {
+   "start": 49.3,
+   "end": 51.38,
+   "text": "ichbi tapish munkulligini, korish ili munkun."
+  },
+  {
+   "start": 51.38,
+   "end": 56.46,
+   "text": "Agar sizam qadam jamasun, satukamandasi qoshinmakhchi baladiyam,"
+  },
+  {
+   "start": 56.46,
+   "end": 58.24,
+   "text": "qosiz, pas diga xawala orqali otin."
+  }
+ ],
+ "chars": 1063,
+ "chars_per_s": 18.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

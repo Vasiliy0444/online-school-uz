@@ -1,0 +1,75 @@
+{
+ "creative_id": "1063585459936110",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Birgina shu sohaning o'zida, dunyo bo'ylab 5,5 million ish o'rni mavjud",
+  "types": [
+   "результат или доход",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: тот же ведущий с микрофоном, фон — оранжевая деревянная решётка; «BIRGINA» → «SHU SOHANING O'ZIGA» → «DUNYO BO'YLAB» → «[5,5] MILLION»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Birgini shuus oqanig huzigi, duniya boyla 5 yarim minyon yakin ish ornmadi.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "профессия будущего"
+  ],
+  "income_claim": "Boshlang'ich 1000$ dan oylik maosh (текст объявления; кадр «BOSHLANG'ICH» на ≈0:06 подтверждает начало этой фразы)",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈0:06): «BOSHLANG'ICH»",
+    "timecode": "00:06"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:04] Hatta uzbikistan daxam, boshlanqish 1000 dolar maash doleshadi.",
+    "timecode": "00:04"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Третий вариант с тем же ведущим-подкастером линейки кибербезопасности (см. 1682504512828427, 1812076963541812), здесь — третий фон (оранжевая решётка) и третий хук («всего в одной этой сфере — 5.5 млн вакансий в мире»). Все три ролика об одном и том же объявлении/предложении, различаются только заходом и фоном — классическое A/B/C-тестирование хуков при неизменном оффере."
+}

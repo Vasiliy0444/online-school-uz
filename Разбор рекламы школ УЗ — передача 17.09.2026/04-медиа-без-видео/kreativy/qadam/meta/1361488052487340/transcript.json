@@ -1,0 +1,111 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.2,
+   "text": "Uzun marketta kursnarx o'zunu oqilashidan shubqalan yapsiz mi?"
+  },
+  {
+   "start": 4.92,
+   "end": 8.04,
+   "text": "Harqanda itaylim gu sarmoya va asosiya saval doyim birxil."
+  },
+  {
+   "start": 8.2,
+   "end": 9.16,
+   "text": "Kulum koyup getmaydimi?"
+  },
+  {
+   "start": 9.4,
+   "end": 11.16,
+   "text": "Kursun o'z fikiri xarulayef sarvar."
+  },
+  {
+   "start": 11.3,
+   "end": 15.62,
+   "text": "Marketplacelarda uchilik tajribage va 5 milyard somda ortak aylamage ye mutakhasiz."
+  },
+  {
+   "start": 15.88,
+   "end": 19.36,
+   "text": "Kurs davamda siz uzun marketta sabdaonun bochilashning toylik jeraunda otasiz."
+  },
+  {
+   "start": 19.68,
+   "end": 22.72,
+   "text": "Daromatli maksulatini tallash, dokaninizin roqatna otgazish,"
+  },
+  {
+   "start": 22.72,
+   "end": 26.78,
+   "text": "kartishgalar dogr yaradish, sabdaonun yoydu kuyish, va jeraunatini aklimatlashdirish."
+  },
+  {
+   "start": 26.78,
+   "end": 29.92,
+   "text": "Bizde real uquchilar fikirlari bor, real natijalar bor."
+  },
+  {
+   "start": 30.04,
+   "end": 31.78,
+   "text": "Umi abarotimiz, biz o tilebkimi dani chik."
+  },
+  {
+   "start": 31.84,
+   "end": 33.5,
+   "text": "Milongi yaxan abarot qillim."
+  },
+  {
+   "start": 33.54,
+   "end": 34.98,
+   "text": "Umi qi 1 milyon drabliniz oda bulayad."
+  },
+  {
+   "start": 34.98,
+   "end": 37.16,
+   "text": "30 milyon che, nabirna, abarot boldi."
+  },
+  {
+   "start": 37.22,
+   "end": 39.26,
+   "text": "Kursi akundi da sertifikatxan berladim."
+  },
+  {
+   "start": 39.68,
+   "end": 41.08,
+   "text": "Bizni uquv tizimimiz boyi qi,"
+  },
+  {
+   "start": 41.16,
+   "end": 45.0,
+   "text": "alli qi qiqo 2,5 minu orti qadam yudigeyshin bitir uchilari daroma topshmokti."
+  },
+  {
+   "start": 45.16,
+   "end": 47.32,
+   "text": "Qojmchastigi biz rasmiy uqu markazimiz va,"
+  },
+  {
+   "start": 47.4,
+   "end": 49.72,
+   "text": "ofisimiz toshkin shakrini markazda joylashgan."
+  },
+  {
+   "start": 49.72,
+   "end": 54.02,
+   "text": "Agar qaror qabul qilishke bir qadam qolganda toqtigan bolsaniz, yanı keçikitirmay."
+  },
+  {
+   "start": 54.22,
+   "end": 56.1,
+   "text": "Ariza qoldirinba basizmdan boğilinamiz."
+  }
+ ],
+ "chars": 1058,
+ "chars_per_s": 18.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

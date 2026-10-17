@@ -1,0 +1,57 @@
+{
+  "creative_id": "1281075844170982",
+  "platform": "meta",
+  "school_id": "logist-academy",
+  "format": {
+    "type": "картинка",
+    "duration_bucket": "не видео",
+    "aspect": "4:5"
+  },
+  "style": ["статичный дизайн", "сток"],
+  "hook": {
+    "verbatim": "TIF SOHASIDA OYIGA 1300$ va undan ortiq daromad qilishni xohlaysanmi?",
+    "types": ["вопрос", "результат или доход", "цифра"],
+    "visual": ["крупный текст", "деньги или результат на экране", "лицо в первом кадре", "логотип бренда"],
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "image_512.jpg: TIF SOHASIDA / OYIGA 1300$ (на жёлтой плашке) / va undan ortiq daromad qilishni xohlaysanmi?"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "image_512.jpg: логотип LOGIST ACADEMY вверху слева; стоковый мужчина в костюме"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["доход", "статус", "стабильность"],
+    "income_claim": "OYIGA 1300$ va undan ortiq",
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "image_512.jpg: Sen yuqori daromad va martaba o'sishiga yo'l ochadigan kasbni egallaysan!"
+      },
+      {
+        "source": "текст объявления",
+        "quote": "💼 TIF sohasida katta daromad va barqaror martaba istaganlar uchun eng yaxshi imkoniyat!"
+      }
+    ]
+  },
+  "offer": {
+    "items": ["без оффера"]
+  },
+  "cta": {
+    "button": "Apply now",
+    "in_creative": "нет призыва",
+    "destination": "форма Meta",
+    "funnel_stage": "основной продукт"
+  },
+  "speaker": {
+    "role": "никого"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": false,
+  "risk": false,
+  "confidence": "высокая",
+  "notes": "Картинка 4:5. TIF — внешнеэкономическая деятельность (ВЭД): пункты «Bojxona deklaratsiyalari», «Xalqaro shartnomalar», «Haqiqiy ish holatlari (keyslar)». На картинке призыва нет. Расхождение: текст объявления зовёт позвонить или написать в директ («Qo‘ng‘iroq qiling… Yoki hoziroq direktga yozing»), а кнопка «Apply now» ведёт на мгновенную форму. «статус» — «martaba o'sishi» (карьерный рост), «стабильность» — «barqaror martaba» из текста объявления. Текст объявления на узбекском и русском. Перевод хука: «Хочешь зарабатывать в ВЭД 1300 $ в месяц и больше?»"
+}

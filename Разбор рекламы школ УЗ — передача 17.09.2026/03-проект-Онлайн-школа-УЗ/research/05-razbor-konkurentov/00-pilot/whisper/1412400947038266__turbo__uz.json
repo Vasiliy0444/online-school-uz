@@ -1,0 +1,50 @@
+{
+ "library_id": "1412400947038266",
+ "model": "mlx-community/whisper-large-v3-turbo",
+ "language_arg": "uz",
+ "detected_language": "uz",
+ "seconds": 11.2,
+ "duration_s": 38.0,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.0,
+   "text": "Uzunmarkedtaki uqucumiz uyruzor buyimlar sotu biroida 1507 milyon son saado aylamasini qildi."
+  },
+  {
+   "start": 5.0,
+   "end": 9.0,
+   "text": "Agar siz qaim uzunmarkedte saado qilmokshu bulsangiz, videonu oqirgece kori."
+  },
+  {
+   "start": 9.0,
+   "end": 15.0,
+   "text": "Man xayrlaiv sarwaf, marketplacelarda 5 milyardtdan ošok saado aylamasike ege bogean sotu uchaq soblanama."
+  },
+  {
+   "start": 15.0,
+   "end": 20.0,
+   "text": "Va 3 yillik tacribammi aynansilu uçun bitti amali kursge yigdim."
+  },
+  {
+   "start": 20.0,
+   "end": 25.0,
+   "text": "Su kursda biz sizge dukon ošihtan bošlab, daromatli maksulotlarini tanilab, ularini sotuga ciqarish,"
+  },
+  {
+   "start": 25.0,
+   "end": 30.0,
+   "text": "va saado jarionlarini aftamatlaştirişke çebolgan jarionini 0dan uruge tip boramiz."
+  },
+  {
+   "start": 30.0,
+   "end": 33.0,
+   "text": "Yangi guruhlarimizgi qabul oçuk, likin joolar sonu çekelengi."
+  },
+  {
+   "start": 33.0,
+   "end": 37.0,
+   "text": "Khosroq arizha qoldirin, va uzunmarkedte daromatkilişni bizbolan bošlayin."
+  }
+ ]
+}

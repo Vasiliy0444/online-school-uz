@@ -1,0 +1,93 @@
+{
+ "creative_id": "1085611750603492",
+ "platform": "meta",
+ "school_id": "bir-group",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Zamonaviy kasblarni o'rganib, ya'ni sotuv menejerligi, targeting, mobilografiya kabi kasblarni o'rganib, katta daromad qilishni xohlaysiz, lekin buning iloji yo'q deb o'ylaysiz.",
+  "types": [
+   "боль",
+   "запрет или ошибка"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: мужчина в белой футболке в парке; синий баннер с белой обводкой и текстом-заголовком «Zamonaviy kasblar» появляется на 0.5s и держится до 2.5s (сам текст хука на кадре не дублируется — только тематический ярлык)",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Zamanawi kasplarini organib, yani sunientilik, targeting mobilografi kabi kasplarini organib, katta daramat qilishni haqilisiz, lekin bunin ilaji yog, de boyilisiz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "профессия будущего",
+   "без опыта"
+  ],
+  "income_claim": "600 milliondan ziyod daromad (o'tgan grant loyihasi bitiruvchilari, jamlangan/umumiy summasi — не подушевая)",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:31: текст «600 mlndan ziyod» крупным планом на экране",
+    "timecode": "00:31"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:23] otkan safarigi grand layikamizni bitirgan okuchilar, [00:27] bugungun kunda 600 milyondan ziyad daramat kilishmakti.",
+    "timecode": "00:23"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:12] Agar men sizga yitista zamanavi kaspni bi pulga organasiz desam ishonasizmi? [00:18] Ha, albatta bu rast.",
+    "timecode": "00:12"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Buning uchun 500 ta grant ajratilgan. 25-sentabr kuni onlayn taqdimot bo'lib o'tadi."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:19] Bir talim 500 grand layikasiga haziraq koshilin, [00:37] 25-ci sentyabr bulubut etken mutlaqa bi pul online taqdimatimizga qatnashin.",
+    "timecode": "00:19"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Хук на кадре показан только как тематический ярлык-баннер «Zamonaviy kasblar» (0.5–2.5s), а сам смысловой хук — целиком в речи: «хотите зарабатывать много, изучив современные профессии (sotuv menejerligi, targeting, mobilografiya), но думаете, что это невозможно» (написание исправлено по расшифровке [00:00]) — тип «боль»/развенчание ограничивающего убеждения, ролик дальше явно отвечает на этот тезис: [00:12]-[00:18] «поверите ли, если я скажу, что вы бесплатно изучите современную профессию? Да, это правда». Доход прошлого потока — «600 million so'mdan ziyod» — редкий случай в этой подборке, когда цифра дословно совпадает и в кадре («600 mlndan ziyod», крупным планом, ~0:31), и в расшифровке [00:27] — двойное подтверждение, поэтому confidence поднят до «высокая». Сумма коллективная (по всей группе выпускников прошлого гранта), не на человека. Оффер (500 грантов, 25 сентября, бесплатно) подтверждён и расшифровкой, и текстом объявления. CTA максимально явный: [00:43] «yapiq telegram kanalimizga kushilin» — «присоединяйтесь к нашему ЗАКРЫТОМУ Telegram-каналу» (слово «yopiq» — закрытый/приватный — не встречается в такой явной форме в других роликах порции, отмечаю как нюанс формулировки). Ролик зовёт в Telegram-канал, а link_url ведёт на лендинг bir-group-webinar.vercel.app/a/ — расхождение. Спикер не назван по имени — роль «актёр или ведущий» без public_name."
+}

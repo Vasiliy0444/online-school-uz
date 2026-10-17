@@ -1,0 +1,116 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.52,
+   "text": "Mandat chqt, lekin siskutkan daxamasmi, natijja,"
+  },
+  {
+   "start": 2.9,
+   "end": 4.78,
+   "text": "ndimaqilaman, qetdo, qiman deyapsmi."
+  },
+  {
+   "start": 4.88,
+   "end": 7.2,
+   "text": "Undan kore keli Amerika lagisikasini organin,"
+  },
+  {
+   "start": 7.6,
+   "end": 9.2,
+   "text": "keing ilvun esese qirgun ische,"
+  },
+  {
+   "start": 9.32,
+   "end": 12.04,
+   "text": "o'qda xalese 1000-1500 dolar daramak ya chqa sez bolaydi."
+  },
+  {
+   "start": 12.08,
+   "end": 14.96,
+   "text": "Vana xazir kunda bir yildan meri lagisika dişleyekken shagirtlarim,"
+  },
+  {
+   "start": 15.26,
+   "end": 18.02,
+   "text": "1000-1500 kerebos 2.500 dolar gechi kultab biyabdi."
+  },
+  {
+   "start": 18.02,
+   "end": 19.78,
+   "text": "Basi 300 dolardan basilesiz,"
+  },
+  {
+   "start": 20.1,
+   "end": 22.22,
+   "text": "o'zimiz sizgen nol dan orga tamiz lagisikan."
+  },
+  {
+   "start": 22.52,
+   "end": 24.18,
+   "text": "Speaking iz orta daracada bose,"
+  },
+  {
+   "start": 24.38,
+   "end": 26.34,
+   "text": "o'zimiz speaking kurslarimiz bar tekint."
+  },
+  {
+   "start": 26.34,
+   "end": 29.74,
+   "text": "unda organib speaking izyan potaraz, xam laqisgan organiz,"
+  },
+  {
+   "start": 29.74,
+   "end": 31.14,
+   "text": "yaxshi organiz digan bo sez,"
+  },
+  {
+   "start": 31.14,
+   "end": 34.24,
+   "text": "ozimiz sizi 100% filan taqminigimiz bundan mamayog."
+  },
+  {
+   "start": 34.24,
+   "end": 37.04,
+   "text": "Fakat kinab, bitda talab, yaxshi organib der sez boldi."
+  },
+  {
+   "start": 37.04,
+   "end": 39.04,
+   "text": "En qizigi, kurs tolağini,"
+  },
+  {
+   "start": 39.04,
+   "end": 40.44,
+   "text": "ma'lumir qismini toluyuz,"
+  },
+  {
+   "start": 40.44,
+   "end": 42.64,
+   "text": "qa'ganini iski kirganizdan keynber waraz."
+  },
+  {
+   "start": 42.64,
+   "end": 43.94,
+   "text": "Kopraq malimatam oqchi bo sez,"
+  },
+  {
+   "start": 43.94,
+   "end": 45.74,
+   "text": "pasta tibima qaldiraman roxat namotin,"
+  },
+  {
+   "start": 45.74,
+   "end": 47.14,
+   "text": "ozimiz alaqaya chikamiz."
+  }
+ ],
+ "chars": 873,
+ "chars_per_s": 18.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

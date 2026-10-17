@@ -1,0 +1,345 @@
+{
+ "library_id": "1421572016595244",
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language_arg": null,
+ "detected_language": "tr",
+ "seconds": 87.9,
+ "duration_s": 189.8,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.26,
+   "text": "Öncelikle ben işlerden, işlerden başlamadan biznesi yapıyorum."
+  },
+  {
+   "start": 3.26,
+   "end": 4.8,
+   "text": "İlk başta para alıp gidiyorlar."
+  },
+  {
+   "start": 4.8,
+   "end": 6.54,
+   "text": "Biznesim zor olup gidiyorlar."
+  },
+  {
+   "start": 6.54,
+   "end": 8.54,
+   "text": "Biznesi devam ettikten sonra, işlerden başlamaya gidiyoruz."
+  },
+  {
+   "start": 8.54,
+   "end": 10.54,
+   "text": "Sizler işler yaparken bu sefer,"
+  },
+  {
+   "start": 10.54,
+   "end": 12.2,
+   "text": "hoşuma gittiğiniz sefer bu seferdir."
+  },
+  {
+   "start": 12.2,
+   "end": 14.84,
+   "text": "Ben size örgütlerden bir sefer zorluk almak istedim."
+  },
+  {
+   "start": 14.84,
+   "end": 18.22,
+   "text": "İnternet, içeriye çıkan, her yerden alışanlar ile şartlanmaz."
+  },
+  {
+   "start": 18.22,
+   "end": 20.22,
+   "text": "Herkes örgütlerden başlayabilir, gözetler alabilir."
+  },
+  {
+   "start": 20.22,
+   "end": 24.04,
+   "text": "Ben mesela, uzun bir süre biznesi yapmak istiyorum."
+  },
+  {
+   "start": 24.04,
+   "end": 28.22,
+   "text": "Uzun bir süre birkaç yüzde tavar tapışış punktları var."
+  },
+  {
+   "start": 28.22,
+   "end": 30.22,
+   "text": "Birkaç bin adam şunlardan tavar alır."
+  },
+  {
+   "start": 30.22,
+   "end": 32.22,
+   "text": "Ben size öneririm."
+  },
+  {
+   "start": 32.22,
+   "end": 34.22,
+   "text": "Size 12 tane tavar tapıp, satın alabilirsiniz."
+  },
+  {
+   "start": 34.22,
+   "end": 36.22,
+   "text": "Mesela, pazarda alıp, otobüse alıp satın alırsınız."
+  },
+  {
+   "start": 36.22,
+   "end": 38.22,
+   "text": "Yoksa, Kıto'ya da takılır."
+  },
+  {
+   "start": 38.22,
+   "end": 40.22,
+   "text": "12 tane tavar alın, hiç kim de bulamaz."
+  },
+  {
+   "start": 40.22,
+   "end": 42.22,
+   "text": "Şunu da 10 tane satın alır."
+  },
+  {
+   "start": 42.22,
+   "end": 44.22,
+   "text": "Bu nedenle, sizden örgütler yapıyoruz."
+  },
+  {
+   "start": 44.22,
+   "end": 46.22,
+   "text": "Herkes, siz, veya o yüzden, maksatınızı,"
+  },
+  {
+   "start": 46.22,
+   "end": 48.22,
+   "text": "tavşırkenizden ki, sıkılır."
+  },
+  {
+   "start": 48.22,
+   "end": 50.22,
+   "text": "Sıkılırsa, tar katış, toluları,"
+  },
+  {
+   "start": 50.22,
+   "end": 52.22,
+   "text": "mesleği veriş, her hareketleriniz,"
+  },
+  {
+   "start": 52.22,
+   "end": 54.22,
+   "text": "uzunluğu uzaklaşır."
+  },
+  {
+   "start": 54.22,
+   "end": 56.22,
+   "text": "Sizin de fark ederseniz, yine kompüter, internet varsa,"
+  },
+  {
+   "start": 56.22,
+   "end": 58.22,
+   "text": "bu olur. Ama, bilinmeyenler,"
+  },
+  {
+   "start": 58.22,
+   "end": 88.22,
+   "text": "burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada burada"
+  },
+  {
+   "start": 88.22,
+   "end": 91.22,
+   "text": "...farkınız var. Offline ile online. Offline okul merkezimizde..."
+  },
+  {
+   "start": 91.22,
+   "end": 94.22,
+   "text": "...gelip, organistler bulabilirler. Şunu da o METRO'nun aldı."
+  },
+  {
+   "start": 94.22,
+   "end": 97.22,
+   "text": "Bu koprat aşkında yaşamak için, sağlıklı organimleri..."
+  },
+  {
+   "start": 97.22,
+   "end": 100.22,
+   "text": "...diyebiliyorlar. Çok kolay. Eğer online organime,"
+  },
+  {
+   "start": 100.22,
+   "end": 102.22,
+   "text": "...vulayetimle organim tutarlar ya da vaktim kamera değil..."
+  },
+  {
+   "start": 102.22,
+   "end": 105.22,
+   "text": "...diyen adam varsa, benim buralarda o koprat programımız var."
+  },
+  {
+   "start": 105.22,
+   "end": 108.22,
+   "text": "Lütfen videodan abone olun. Beğenmeyi ve katılın."
+  },
+  {
+   "start": 108.22,
+   "end": 111.22,
+   "text": "Sağlıklı organistler bulabilirler. Topka çıkan şakadlarız var mı?"
+  },
+  {
+   "start": 111.22,
+   "end": 113.22,
+   "text": "Elbette. Biz okulcularımızı cüneyt katında..."
+  },
+  {
+   "start": 113.22,
+   "end": 116.22,
+   "text": "...neticele yükeliriz. Hem okulcuların, hem de neticelerine..."
+  },
+  {
+   "start": 116.22,
+   "end": 118.22,
+   "text": "...görebiliriz. Neticele yükeliriz, yüklerebiliriz."
+  },
+  {
+   "start": 118.22,
+   "end": 120.22,
+   "text": "Milliyetli yükeliriz. Hepsi bu."
+  },
+  {
+   "start": 120.22,
+   "end": 123.22,
+   "text": "Ben işim bu için 40% ayarlıyım."
+  },
+  {
+   "start": 123.22,
+   "end": 126.22,
+   "text": "40-60% ayarlıyor."
+  },
+  {
+   "start": 126.22,
+   "end": 129.22,
+   "text": "Uyuduğu oturabilen bu işe..."
+  },
+  {
+   "start": 129.22,
+   "end": 131.22,
+   "text": "...ayrı tutulur."
+  },
+  {
+   "start": 131.22,
+   "end": 133.22,
+   "text": "Kodla kodla tavarlı okurlar. Mesela benim..."
+  },
+  {
+   "start": 133.22,
+   "end": 136.22,
+   "text": "...yüğümde, tüm üstte, bir neçeden beri satılmıyor."
+  },
+  {
+   "start": 136.22,
+   "end": 138.22,
+   "text": "Çünkü kimselerde, realistik bir yer olsaydı, bulurken..."
+  },
+  {
+   "start": 138.22,
+   "end": 141.22,
+   "text": "...buraya gelirlerdi. Çünkü bize de..."
+  },
+  {
+   "start": 141.22,
+   "end": 143.22,
+   "text": "...çok yönelik bir şey bulamıyor. Uzun merkezde, içine."
+  },
+  {
+   "start": 143.22,
+   "end": 145.22,
+   "text": "Ya ki satılacak bir şey var, ya ki menajer olabilirler."
+  },
+  {
+   "start": 145.22,
+   "end": 146.22,
+   "text": "Haa."
+  },
+  {
+   "start": 146.22,
+   "end": 147.22,
+   "text": "Satılacak bir şey var, o zaman..."
+  },
+  {
+   "start": 147.22,
+   "end": 149.22,
+   "text": "...sabırlıktan, sabırlıktan, her şeyden..."
+  },
+  {
+   "start": 149.22,
+   "end": 151.22,
+   "text": "...görebilir. Yani eğer insanların..."
+  },
+  {
+   "start": 151.22,
+   "end": 153.22,
+   "text": "...besine başlamış olup, gelip..."
+  },
+  {
+   "start": 153.22,
+   "end": 154.22,
+   "text": "...yapacak bir şey varsa, o zaman..."
+  },
+  {
+   "start": 154.22,
+   "end": 156.22,
+   "text": "...menajer olabilirler."
+  },
+  {
+   "start": 156.22,
+   "end": 157.22,
+   "text": "Nahl meselesi."
+  },
+  {
+   "start": 157.22,
+   "end": 159.22,
+   "text": "Nahl meselesi, bir şey yoksa..."
+  },
+  {
+   "start": 159.22,
+   "end": 161.22,
+   "text": "...eğer o imkanı yoksa..."
+  },
+  {
+   "start": 161.22,
+   "end": 163.22,
+   "text": "...benim olarak, nahl okullarına..."
+  },
+  {
+   "start": 163.22,
+   "end": 165.22,
+   "text": "...ya ki, kurslarımızda, derslerimizde..."
+  },
+  {
+   "start": 165.22,
+   "end": 167.22,
+   "text": "...yapacak bir şey varsa..."
+  },
+  {
+   "start": 167.22,
+   "end": 169.22,
+   "text": "...en zor bir şey olacak. Çünkü..."
+  },
+  {
+   "start": 169.22,
+   "end": 171.22,
+   "text": "...eğer kurslarınızda, yapacak bir şey varsa..."
+  },
+  {
+   "start": 171.22,
+   "end": 172.22,
+   "text": "...kurslarınızda, yapabilirsiniz."
+  },
+  {
+   "start": 172.22,
+   "end": 174.22,
+   "text": "Yani, kurslarınızda, yapabilirsiniz."
+  },
+  {
+   "start": 174.22,
+   "end": 176.22,
+   "text": "Yani, böyle böyle bir kere aslında, böyle."
+  }
+ ]
+}

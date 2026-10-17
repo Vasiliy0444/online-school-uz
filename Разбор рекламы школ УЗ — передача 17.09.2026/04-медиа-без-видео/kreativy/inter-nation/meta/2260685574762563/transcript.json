@@ -1,0 +1,41 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.68,
+   "text": "Qurmatli Andijan dagi ingilis ilustazlari, agar da siz kunigi altsat islab 23 milyon somdan 43 yarim milyon somgechi aylik alishnistisangiz,"
+  },
+  {
+   "start": 9.12,
+   "end": 14.92,
+   "text": "halkara selti sertikatige bi pul oqib, en kushli akademik jamaa bilan malaki asirsin oqilisangiz,"
+  },
+  {
+   "start": 14.92,
+   "end": 21.62,
+   "text": "en asasisi, international jamaa bilan taqiyon bagirlardagi linerdi birgi mrikib damalish oqilisangiz,"
+  },
+  {
+   "start": 21.88,
+   "end": 27.52,
+   "text": "khazira usmuk havalar qali international school Andijan filialda ingilis iluk kutsi vakansiyasi gariyizi qaldirin."
+  },
+  {
+   "start": 27.62,
+   "end": 28.7,
+   "text": "Biz sizlarini kitamiz."
+  },
+  {
+   "start": 30.0,
+   "end": 33.68,
+   "text": "Thank you for watching!"
+  }
+ ],
+ "chars": 502,
+ "chars_per_s": 14.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

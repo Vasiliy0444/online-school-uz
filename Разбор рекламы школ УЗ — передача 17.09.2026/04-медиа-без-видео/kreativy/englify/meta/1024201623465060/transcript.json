@@ -1,0 +1,66 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.42,
+   "text": "Biz oz doyli qizigimizde, oqt uchidan uyalganimizdan soramimizayam, xatarlarimizdan togillamimiz."
+  },
+  {
+   "start": 5.82,
+   "end": 11.22,
+   "text": "Mayli uyalmasayayam, mayli sorimizdisiayam, xadib bezota qur, milikdib oylimiz."
+  },
+  {
+   "start": 11.32,
+   "end": 12.72,
+   "text": "Endi bu mamalar yox."
+  },
+  {
+   "start": 13.2,
+   "end": 19.7,
+   "text": "Siz yigrimi torgi yeddi, suni intilikten xakilaygan salisi beraz, xakilaygan xatarlarisi togillab sizgi yonaltiradi."
+  },
+  {
+   "start": 19.7,
+   "end": 25.54,
+   "text": "Endi ingilisira organish judayam ansan, uchayda, altayda siz oizimakta dizgi qarab natijiga chikalisiz,"
+  },
+  {
+   "start": 25.86,
+   "end": 28.46,
+   "text": "tilesi chikarishmi, ayil salishmi, xamazi gerisiz buradi."
+  },
+  {
+   "start": 28.46,
+   "end": 35.42,
+   "text": "En qizghi bu aynan ishli adarmar uchon qilin gani uchon xam, tığiz, vaxti tığiz adarmar uchon qilin gani uchon xam, kunigi 50 dakiqi etadi."
+  },
+  {
+   "start": 35.72,
+   "end": 42.62,
+   "text": "Bit do tırgandi 50 dakiqi maz, darsni yuki yuk, 10 dakiqi 10 dakiqi dan telefoniniz bozib oldu, xoqilagan jaydi, xoqilagan vaqti,"
+  },
+  {
+   "start": 43.0,
+   "end": 47.92,
+   "text": "10 dakiqi suni intelekt bina speaking, 10 dakiqi video darsar, 10 dakiqi maz, 10 dakiqi sorzi atlaj,"
+  },
+  {
+   "start": 48.2,
+   "end": 50.5,
+   "text": "va 10 dakiqi hatalar usudir qilishigiz munkun."
+  },
+  {
+   "start": 50.5,
+   "end": 56.7,
+   "text": "Rost na ishliyidima bu natiji beradima dotki ambasiz, xabar amstiga basin, ilal amiz nivkila balin, vab uzi zishlatib korin."
+  }
+ ],
+ "chars": 1020,
+ "chars_per_s": 17.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

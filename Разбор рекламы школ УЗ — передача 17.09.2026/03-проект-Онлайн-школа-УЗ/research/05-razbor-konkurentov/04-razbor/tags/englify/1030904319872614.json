@@ -1,0 +1,91 @@
+{
+ "creative_id": "1030904319872614",
+ "platform": "meta",
+ "school_id": "englify",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "85-90 foiz ingliz tili o'rganayotganlar 1-2 oydan keyin tashlab ketishadi.",
+  "types": [
+   "цифра",
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.0s: «85» / «85-90» / «85-90 foiz»; мужчина за столом в национальном ресторане (плов, чайник)",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.5s–2.5s: «ingliz tili» / «ingliz tili o'rganayotganlar» / «1-2 oydan»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] 85-90% ingilis ter o'rgan wat gale, berik ko'ay nekin tashabi o'warade.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "страх отстать",
+   "экономия времени",
+   "быстрый старт"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:36] shunu biligan xalatdi, ingilify aynan ishli adamlar uchun tizm yaratgan, kunigatigi 52 dakiqa, va, inqizg darsina yuki yuk.",
+    "timecode": "00:36"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[01:01] siz oyuz kutuliga natijani yoki irishasiz, yoki ketde ozgarlisayt sezishchi baschdis.",
+    "timecode": "01:01"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:29: «10 minut 10 minut»; ~0:07 «Hayot tashvishlari»",
+    "timecode": "00:29"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Ilovani yuklab olish uchun video ostidagi havolani bosing 👇 ILOVANI YUKLAB OLISH"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Install now",
+  "in_creative": "перейти по ссылке",
+  "destination": "приложение",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук на кадре обрывается на «1-2 oydan» (2.5s) — конец фразы достроен по смыслу расшифровки («тем, кто учит английский, часто бросают через 1-2 месяца»); дословная концовка фразы не подтверждена ни кадром, ни чистой расшифровкой, помечаю как приблизительную. Тот же ведущий и тот же ресторанный интерьер, что и в 27192061647078055/1993034777984848, но другой сценарий (статистика отсева учеников → система Englify для занятых людей). Расшифровка в целом сильно искажена (черновая), поэтому уверенность средняя, несмотря на совпадение кадров с началом расшифровки."
+}

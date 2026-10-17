@@ -1,0 +1,71 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.86,
+   "text": "Atamanimizdan kulsora ediganimiz, kullarga pul beraligan fazant bolish haqliz."
+  },
+  {
+   "start": 3.94,
+   "end": 5.86,
+   "text": "Kupchog yashlarida shu niyat ba."
+  },
+  {
+   "start": 6.18,
+   "end": 7.66,
+   "text": "Fakat niyat dozu yeterliyimiz."
+  },
+  {
+   "start": 8.02,
+   "end": 11.86,
+   "text": "Bonuchun sizga bazarda yakhsh haqt oluyo digan kask gerek boladim."
+  },
+  {
+   "start": 12.06,
+   "end": 16.64,
+   "text": "Oz gelichagi befark bolmagan yashlarga bir grob jama'amizdan zor taklif bar."
+  },
+  {
+   "start": 16.74,
+   "end": 18.98,
+   "text": "500-ta yashlarina 7-tikli yonalish boycha,"
+  },
+  {
+   "start": 19.14,
+   "end": 20.14,
+   "text": "bekulga oqitmaksimiz."
+  },
+  {
+   "start": 20.34,
+   "end": 22.32,
+   "text": "Grafizay, mablografiya, targeting,"
+  },
+  {
+   "start": 22.4,
+   "end": 25.26,
+   "text": "va baska zamana yukaslarida bekulga oqishiz munkum."
+  },
+  {
+   "start": 25.26,
+   "end": 27.28,
+   "text": "Agar shu grantan birin egyasi bomaksimiz,"
+  },
+  {
+   "start": 27.28,
+   "end": 32.16,
+   "text": "Osez, pasta ki tizmana basi 25 Sentiya bir günu boladigan onlayn taqdimatimizgi qatmasin."
+  },
+  {
+   "start": 32.56,
+   "end": 36.86,
+   "text": "Taqdimatda qatmasin shatlari qanaka, nimalar kerek boladiba taqsim, hamasin chuntur biramiz."
+  }
+ ],
+ "chars": 663,
+ "chars_per_s": 17.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

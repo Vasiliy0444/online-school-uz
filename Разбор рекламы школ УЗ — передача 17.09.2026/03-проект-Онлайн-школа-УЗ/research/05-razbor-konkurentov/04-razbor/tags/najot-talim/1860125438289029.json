@@ -1,0 +1,73 @@
+{
+ "creative_id": "1860125438289029",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Kiberxavfsizlik — zo'r soha, oyligi ham zo'r.",
+  "types": [
+   "результат или доход",
+   "запрет или ошибка"
+  ],
+  "visual": [
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.5s–2.5s: рука пишет от руки на интерактивной доске «Kiberxavfsizlik», затем подписи «zo'r soha» → «oyligi ham zo'r»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Kiber xafsizli zor soxhi, o'ili giyam zor, lekin bu soxhi ge kripke maqchi bugillani biti qotta xatasi var.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Kuchli matematik bo'lmasdan ham dasturchi bo'ling! AyTi uchun mukammal bilim shart emas, mantiq va xohish bo'lsa kifoya. Biz sizga noldan tushunarli tilda o'rgatamiz."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:38] Aynar manoshun, foundationini tamamlagyan talabalar kiber xafsilikini orsan boshlashadi ve undigi bilimlerini tez uzlashdishadi.",
+    "timecode": "00:38"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "See details",
+  "in_creative": "перейти по ссылке",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "основатель или эксперт"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук написан рукой на интерактивной смарт-доске (надёжный источник, буквальный текст «Kiberxavfsizlik»), подписи внизу кадра «zo'r soha»/«oyligi ham zo'r» дублируют часть речи. Мужчина в фирменной комнате (тот же интерьер с надписью «...xavfsizlik» на экране за спиной) даёт советы новичкам: не начинать сразу со сложных тем кибербезопасности, а сперва пройти курс «Dasturlash Foundation» (алгоritmы, C, Python), чтобы быстрее и легче войти в кибербезопасность. Роль спикера — не названный по имени человек, дающий профессиональный совет от лица школы; публичное имя не звучит и не написано, поэтому public_name не указан; тег speaker.role неоднозначен между «основатель или эксперт» и обычным ведущим — выбрано «основатель или эксперт» по тону подачи (экспертный совет), это одно из спорных полей. Ad_text рекламирует программирование в целом («kuchli matematik bo'lmasdan ham dasturchi bo'ling»), а ролик — конкретно кибербезопасность через Foundation; расхождение частичное, оба указывают на один и тот же курс Foundation как точку входа. Явной цифры зарплаты нет («oyligi ham zor» без суммы), income_claim не заполняю. Конец расшифровки: призыв звонить по номеру или нажать на ссылку — оба варианта присутствуют, выбран «перейти по ссылке» как основной (по кнопке «See details» и ad_text «quyidagi havola orqali»)."
+}

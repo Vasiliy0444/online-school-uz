@@ -1,0 +1,101 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.08,
+   "text": "Sizi hem dokaniz bar, ya ki kichkini biznis bilan shoglanansiz,"
+  },
+  {
+   "start": 3.08,
+   "end": 4.44,
+   "text": "ba sizdi hem mujazla kemmo?"
+  },
+  {
+   "start": 4.44,
+   "end": 6.24,
+   "text": "Buna asasi sebabbi, rakhabat kuchaygani,"
+  },
+  {
+   "start": 6.24,
+   "end": 8.92,
+   "text": "ba sizi dokaniz haqida xali hichkim bilmigdi."
+  },
+  {
+   "start": 8.92,
+   "end": 11.64,
+   "text": "Siz xali dokanizi tanigli iligini asirganiz yox."
+  },
+  {
+   "start": 11.64,
+   "end": 15.28,
+   "text": "Judi kopila biznisla xazi ozini Instagramda ozini sakhipasini yurutup durub,"
+  },
+  {
+   "start": 15.28,
+   "end": 16.8,
+   "text": "mujazla akhoman yarat olishka,"
+  },
+  {
+   "start": 16.8,
+   "end": 19.2,
+   "text": "agar sizhem ishtimai tarmaklarini yuruti,"
+  },
+  {
+   "start": 19.2,
+   "end": 21.6,
+   "text": "biznisizgiye mujazla akhoman yaratmaksch bozisiz,"
+  },
+  {
+   "start": 21.6,
+   "end": 24.88,
+   "text": "undi Najat Talimmi esmin kursi aynansiz uchun."
+  },
+  {
+   "start": 24.88,
+   "end": 27.0,
+   "text": "Agar siz sincha birdi okishini boshli diyan boshiz,"
+  },
+  {
+   "start": 27.26,
+   "end": 29.48,
+   "text": "sizgi Najat Tanimdan asasi ofir,"
+  },
+  {
+   "start": 29.74,
+   "end": 31.82,
+   "text": "agar kursini bitirib, sertikat alib,"
+  },
+  {
+   "start": 31.94,
+   "end": 33.72,
+   "text": "yo kursike qanik madim diyan boshiz,"
+  },
+  {
+   "start": 33.98,
+   "end": 36.6,
+   "text": "hudu shu kursini qayti bi pulgi okishini konyatini beramiz."
+  },
+  {
+   "start": 36.84,
+   "end": 39.5,
+   "text": "Bundan tashqara, yana 10 t-ofir sizi kututuribdi."
+  },
+  {
+   "start": 39.8,
+   "end": 40.86,
+   "text": "Batavsar malumatolish uchun,"
+  },
+  {
+   "start": 40.96,
+   "end": 42.34,
+   "text": "havalan basin vay ruhatna otin."
+  }
+ ],
+ "chars": 804,
+ "chars_per_s": 18.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

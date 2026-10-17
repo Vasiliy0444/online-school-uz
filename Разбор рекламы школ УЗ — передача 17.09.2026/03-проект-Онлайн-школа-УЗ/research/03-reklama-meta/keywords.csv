@@ -1,0 +1,137 @@
+query,script,group,scroll,pilot
+bepul vebinar,lat,voronki,12,1
+vebinar,lat,voronki,6,0
+onlayn vebinar,lat,voronki,6,0
+bepul master-klass,lat,voronki,6,0
+master klass,lat,voronki,6,0
+marafon,lat,voronki,6,0
+bepul marafon,lat,voronki,6,0
+intensiv,lat,voronki,6,0
+bepul dars,lat,voronki,6,0
+bepul darslar,lat,voronki,6,0
+ochiq dars,lat,voronki,6,0
+jonli efir,lat,voronki,6,0
+mini kurs,lat,voronki,6,0
+kurs,lat,voronki,6,0
+onlayn kurs,lat,voronki,6,0
+onlayn maktab,lat,voronki,6,0
+ro'yxatdan o'ting,lat,voronki,6,0
+joylar soni cheklangan,lat,voronki,6,0
+chegirma,lat,voronki,6,0
+oqim,lat,voronki,6,0
+bepul konsultatsiya,lat,voronki,6,0
+bepul qo'llanma,lat,voronki,6,0
+qo'llanma,lat,voronki,6,0
+darslik,lat,voronki,6,0
+mentorlik,lat,voronki,6,0
+kurator,lat,voronki,6,0
+бепул вебинар,cyr,voronki,6,0
+вебинар,cyr,voronki,6,0
+марафон,cyr,voronki,6,0
+бепул дарс,cyr,voronki,6,0
+онлайн курс,cyr,voronki,6,0
+курс,cyr,voronki,6,0
+рўйхатдан ўтинг,cyr,voronki,6,0
+мастер-класс,cyr,voronki,6,0
+жонли эфир,cyr,voronki,6,0
+чегирма,cyr,voronki,6,0
+daromad,lat,zarabotok,6,0
+onlayn daromad,lat,zarabotok,12,1
+internetda pul ishlash,lat,zarabotok,6,0
+pul ishlash,lat,zarabotok,6,0
+qo'shimcha daromad,lat,zarabotok,6,0
+uydan turib ishlash,lat,zarabotok,6,0
+masofaviy ish,lat,zarabotok,6,0
+oyiga 1000$,lat,zarabotok,6,0
+kasb o'rganing,lat,zarabotok,6,0
+yangi kasb,lat,zarabotok,6,0
+даромад,cyr,zarabotok,6,0
+пул ишлаш,cyr,zarabotok,6,0
+касб,cyr,zarabotok,6,0
+Uzum Market,lat,marketpleysy,12,1
+Uzum,lat,marketpleysy,6,0
+Wildberries,lat,marketpleysy,6,0
+Ozon,lat,marketpleysy,6,0
+Yandex Market,lat,marketpleysy,6,0
+marketpleys,lat,marketpleysy,6,0
+marketplace,lat,marketpleysy,6,0
+Xitoydan tovar,lat,marketpleysy,6,0
+tovar biznes,lat,marketpleysy,6,0
+sotuvchi bo'lish,lat,marketpleysy,6,0
+Uzum sotuvchi,lat,marketpleysy,6,0
+Узум,cyr,marketpleysy,6,0
+mobilografiya,lat,montazh,12,1
+mobilograf,lat,montazh,6,0
+montaj,lat,montazh,6,0
+video montaj,lat,montazh,6,0
+CapCut,lat,montazh,6,0
+reels,lat,montazh,6,0
+videograf,lat,montazh,6,0
+kontent kurs,lat,montazh,6,0
+Premiere Pro,lat,montazh,6,0
+мобилография,cyr,montazh,6,0
+монтаж,cyr,montazh,6,0
+SMM,lat,marketing,6,0
+SMM kurs,lat,marketing,12,1
+target,lat,marketing,6,0
+targetolog,lat,marketing,6,0
+target kurs,lat,marketing,6,0
+marketing kurs,lat,marketing,6,0
+marketolog,lat,marketing,6,0
+kopirayting,lat,marketing,6,0
+shaxsiy brend,lat,marketing,6,0
+bloger,lat,marketing,6,0
+bloger bo'lish,lat,marketing,6,0
+sotuv,lat,marketing,6,0
+sotuv menejeri,lat,marketing,6,0
+zapusk,lat,marketing,6,0
+prodyuser,lat,marketing,6,0
+Instagram kurs,lat,marketing,6,0
+Telegram kanal,lat,marketing,6,0
+СММ,cyr,marketing,6,0
+таргет,cyr,marketing,6,0
+sun'iy intellekt,lat,ii,6,0
+AI kurs,lat,ii,6,0
+ChatGPT,lat,ii,6,0
+Claude,lat,ii,6,0
+neyroset,lat,ii,6,0
+AI bilan daromad,lat,ii,6,0
+vibe coding,lat,ii,6,0
+prompt,lat,ii,6,0
+сунъий интеллект,cyr,ii,6,0
+frilans,lat,frilans-it-dizain,3,0
+frilanser,lat,frilans-it-dizain,3,0
+Upwork,lat,frilans-it-dizain,3,0
+Fiverr,lat,frilans-it-dizain,3,0
+dasturlash,lat,frilans-it-dizain,3,0
+IT kurs,lat,frilans-it-dizain,3,0
+dasturchi,lat,frilans-it-dizain,3,0
+web dizayn,lat,frilans-it-dizain,3,0
+grafik dizayn,lat,frilans-it-dizain,3,0
+Figma,lat,frilans-it-dizain,3,0
+Canva,lat,frilans-it-dizain,3,0
+UX UI,lat,frilans-it-dizain,3,0
+3D kurs,lat,frilans-it-dizain,3,0
+logist,lat,frilans-it-dizain,3,0
+dispetcher,lat,frilans-it-dizain,3,0
+manikyur kurs,lat,remesla-byuti,3,0
+kosmetolog kurs,lat,remesla-byuti,3,0
+konditer kurs,lat,remesla-byuti,3,0
+tikuvchilik kurs,lat,remesla-byuti,3,0
+sartarosh kurs,lat,remesla-byuti,3,0
+vizajist kurs,lat,remesla-byuti,3,0
+kiprik kurs,lat,remesla-byuti,3,0
+oshpaz kurs,lat,remesla-byuti,3,0
+biznes kurs,lat,biznes-risk,3,0
+tadbirkor,lat,biznes-risk,3,0
+biznes mentor,lat,biznes-risk,3,0
+investitsiya,lat,biznes-risk,3,0
+treyding,lat,biznes-risk,3,0
+kripto,lat,biznes-risk,3,0
+forex,lat,biznes-risk,3,0
+moliyaviy savodxonlik,lat,biznes-risk,3,0
+passiv daromad,lat,biznes-risk,3,0
+ingliz tili,lat,drugoe,3,0
+IELTS,lat,drugoe,3,0
+psixologiya kurs,lat,drugoe,3,0
+ayollar uchun kurs,lat,drugoe,3,0

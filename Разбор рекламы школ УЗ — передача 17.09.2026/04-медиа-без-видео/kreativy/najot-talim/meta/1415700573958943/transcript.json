@@ -1,0 +1,101 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.98,
+   "text": "Yaxla, xadimla, isimim nirgenin, marketinye talukli isimi, mabilagrafiya, target vashin okshagan,"
+  },
+  {
+   "start": 5.12,
+   "end": 7.22,
+   "text": "sakhalani agar siz oizda shekillantiradan bosaniz,"
+  },
+  {
+   "start": 7.28,
+   "end": 8.9,
+   "text": "beli da agar xadim bobi shidan bosanizam,"
+  },
+  {
+   "start": 9.0,
+   "end": 11.14,
+   "text": "aylikiniza koshimcha ravisda aylik koshib bayladib."
+  },
+  {
+   "start": 11.14,
+   "end": 13.22,
+   "text": "Bizan ozalimizam yechin dukanimizdaki xadimlani,"
+  },
+  {
+   "start": 13.32,
+   "end": 15.02,
+   "text": "birlarini isimimde alakta oktib alib,"
+  },
+  {
+   "start": 15.12,
+   "end": 16.28,
+   "text": "mabilagrafiyani urgetib,"
+  },
+  {
+   "start": 16.36,
+   "end": 18.12,
+   "text": "ozalimiza profilini ozlinizini bala,"
+  },
+  {
+   "start": 18.3,
+   "end": 20.14,
+   "text": "shu istoryasina videolarinda chikish,"
+  },
+  {
+   "start": 20.22,
+   "end": 21.54,
+   "text": "brand fashion okshagan nasilanda,"
+  },
+  {
+   "start": 21.68,
+   "end": 22.66,
+   "text": "shu xadimlarimiz chikadib."
+  },
+  {
+   "start": 22.66,
+   "end": 25.6,
+   "text": "Mabillografiyanin ugen gyaligin xisabina, koshimchay daramat tapardi."
+  },
+  {
+   "start": 25.6,
+   "end": 28.26,
+   "text": "Eger siz adi xadim bolsaniz, am shunayarsanay ugen qoydan bolsaniz,"
+  },
+  {
+   "start": 28.26,
+   "end": 31.08,
+   "text": "baska xadimladan sizna aylikiz köpliki bilan ziraldi turas."
+  },
+  {
+   "start": 31.08,
+   "end": 34.0,
+   "text": "Ula, ham mabillodan isni bilad, sizase ona koshimchay rabishta"
+  },
+  {
+   "start": 34.0,
+   "end": 37.0,
+   "text": "esimimni, marketingini, mabillografiyani bilgalygi sebapli"
+  },
+  {
+   "start": 37.0,
+   "end": 39.94,
+   "text": "brainface bolibam koshimchay rabishta yalim daramat qilashiz mumkin."
+  },
+  {
+   "start": 39.94,
+   "end": 41.82,
+   "text": "Kursaya azalish uchun pesttaki tügbani basan."
+  }
+ ],
+ "chars": 925,
+ "chars_per_s": 22.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

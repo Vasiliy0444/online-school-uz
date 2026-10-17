@@ -1,0 +1,91 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.34,
+   "text": "Maktab oqtushirar diqqatigi."
+  },
+  {
+   "start": 1.46,
+   "end": 2.74,
+   "text": "2020-nin shilini oqhurgacham,"
+  },
+  {
+   "start": 2.8,
+   "end": 4.64,
+   "text": "ingilisladan B2 sertifikatini olish,"
+  },
+  {
+   "start": 4.76,
+   "end": 5.78,
+   "text": "manchibur iboq qaldi."
+  },
+  {
+   "start": 5.9,
+   "end": 6.78,
+   "text": "Bunda khabariz bar."
+  },
+  {
+   "start": 6.88,
+   "end": 9.54,
+   "text": "Manat echer azam 13-lik tajirbegi ege ingilisla oqtu utsiman,"
+  },
+  {
+   "start": 9.64,
+   "end": 12.32,
+   "text": "va 22-nchi, 23-nchi, 24-nchi sinchabir kunlare"
+  },
+  {
+   "start": 12.32,
+   "end": 14.76,
+   "text": "B-Pool online masterclass taqshkirashdirm oqtaman."
+  },
+  {
+   "start": 15.2,
+   "end": 18.68,
+   "text": "Ushbu masterclass-da 0-dan 30-kin uchidi kundalik mauzurlardagi yaparishni."
+  },
+  {
+   "start": 19.16,
+   "end": 20.62,
+   "text": "Kunigi elikdige cham sozlarini"
+  },
+  {
+   "start": 20.62,
+   "end": 22.5,
+   "text": "onson yotlap, real hayotli shatish,"
+  },
+  {
+   "start": 22.5,
+   "end": 24.58,
+   "text": "va bi 2 dərəcədigi sertifikatini olyçtini"
+  },
+  {
+   "start": 24.58,
+   "end": 26.48,
+   "text": "samarali yollarini orgetamat."
+  },
+  {
+   "start": 26.62,
+   "end": 28.22,
+   "text": "Masterclass-da qatnaş, mutlaka bi,"
+  },
+  {
+   "start": 28.28,
+   "end": 30.1,
+   "text": "pul faqat xabar almsdigi basib royukatna mutin"
+  },
+  {
+   "start": 30.1,
+   "end": 32.14,
+   "text": "va yapiq, sirgam kanalimgi qoshil balin."
+  }
+ ],
+ "chars": 635,
+ "chars_per_s": 19.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,85 @@
+{
+ "creative_id": "2739456089756717",
+ "platform": "meta",
+ "school_id": "englify",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "Biz, o'zbeklar, qiziqamiz, lekin o'qituvchidan uyalganimizdan so'ramaymiz.",
+  "types": [
+   "боль",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.0s: «Biza o'zbeklar qiziqmiz»; мужчина в машине (белый пиджак, галстук)",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.5s–2.5s: «o'qituvchidan» / «uyalganimizdan»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Biz o'z doyli qizigimizdi, oqt uqidan uyalganimizdan soramimizayam, xatarlarimizdan togillamimiz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта",
+   "экономия времени"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:19] Endi ingilis siri organish judayam ansan, uchayda, altayda siz o'yiz maqsadizgi qarab natijiga chqalisis.",
+    "timecode": "00:19"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:34] kunigi 50 dakiqi etadi.",
+    "timecode": "00:34"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "HAVOLA USTIGA BOSING"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Тот же ролик (тот же creative_key), что и у creative_id 1024201623465060 — идентичные кадры и почти идентичная расшифровка (первый показ раньше: 2026-05-18 против 2026-06-12), но отдельный ad_id/релонч с тем же текстом объявления и той же ссылкой. Конец расшифровки после ~00:51 переходит в нечитаемый повтор символа «u», не цитирую."
+}

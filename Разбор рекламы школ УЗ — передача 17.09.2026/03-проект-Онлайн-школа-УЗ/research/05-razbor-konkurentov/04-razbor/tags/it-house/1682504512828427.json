@@ -1,0 +1,81 @@
+{
+ "creative_id": "1682504512828427",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "O'zbekistonda hatto ming dollar maosh oladigan kasb egalari haqida bilarmidingiz?",
+  "types": [
+   "вопрос",
+   "цифра",
+   "результат или доход"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "деньги или результат на экране"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: мужчина с подкаст-микрофоном на тёмно-зелёном фоне; счётчик «$1» → «$1000», «maosh oladigan», «kasb egalar haqida»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Uzbekistan da basan is min doldar maash alay digan tasp igalar haqda bular midingiz?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "профессия будущего"
+  ],
+  "income_claim": "Boshlang'ich 1000$ dan oylik maosh (текст объявления и счётчик на кадре хука)",
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Boshlang'ich 1000$ dan oylik maosh! 📌 Talab yuqori zamonaviy kasblardan biri \"KIBERXAVFSIZLIK\""
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈0:08): «talab shu daraja» + иконка роста спроса",
+    "timecode": "00:08"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:07] Ularga bolgan talab shu daraca yukhari ki, hatta dunyo boylab 5-5 milyonga yaqan ish orni makchub.",
+    "timecode": "00:07"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Новый ведущий для линейки кибербезопасности — подкаст-стиль (мужчина с ручным студийным микрофоном на тёмно-зелёном фоне), встречается ещё в 1812076963541812 (тот же актёр и фон) и 1063585459936110 (тот же актёр, другой фон). Счётчик денег «$1→$1000» — редкий для подборки приём анимации цифр поверх лица."
+}

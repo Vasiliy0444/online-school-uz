@@ -1,0 +1,406 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.64,
+   "text": "Maktabda en yaxsh kim oqiydi? Qizlar."
+  },
+  {
+   "start": 1.64,
+   "end": 3.32,
+   "text": "Ümrisatda en yaxsh kim oqiydi? Qizlar."
+  },
+  {
+   "start": 3.32,
+   "end": 5.16,
+   "text": "Ingizsidna kipra kim oqiydi? Qizlar."
+  },
+  {
+   "start": 5.16,
+   "end": 6.72,
+   "text": "Asidda yekeli dhe burish kiraydi shu."
+  },
+  {
+   "start": 6.72,
+   "end": 8.04,
+   "text": "Masur buly yapdi dhe qizlar shum ge."
+  },
+  {
+   "start": 8.04,
+   "end": 9.64,
+   "text": "Ismim Muzatillag, yaxshim 21 di."
+  },
+  {
+   "start": 9.64,
+   "end": 10.4,
+   "text": "Khayr dan shiz ozi?"
+  },
+  {
+   "start": 10.4,
+   "end": 11.56,
+   "text": "Qosh diyip edi, marguland."
+  },
+  {
+   "start": 11.56,
+   "end": 12.84,
+   "text": "Hoca ki, omamili."
+  },
+  {
+   "start": 12.84,
+   "end": 13.92,
+   "text": "Anshunada ki, pe sheslan."
+  },
+  {
+   "start": 13.92,
+   "end": 14.48,
+   "text": "Ahin."
+  },
+  {
+   "start": 16.08,
+   "end": 17.4,
+   "text": "Bakan diyikib qozdan zhudtali mi ge?"
+  },
+  {
+   "start": 17.4,
+   "end": 18.88,
+   "text": "Zhudtali mi ge shenitda qadar dhi toptim."
+  },
+  {
+   "start": 18.88,
+   "end": 20.58,
+   "text": "Ula shu Python-beykini tahsi yakal isdi"
+  },
+  {
+   "start": 20.58,
+   "end": 22.2,
+   "text": "Kampiyonu tors al bilmazdi umuman"
+  },
+  {
+   "start": 22.2,
+   "end": 24.2,
+   "text": "Python-di tuketkani zakin yezirariz kanaqa?"
+  },
+  {
+   "start": 24.2,
+   "end": 26.4,
+   "text": "Shu yaxshmi kastiyo yegayli shum aksayl doyrigan yapin"
+  },
+  {
+   "start": 26.4,
+   "end": 27.52,
+   "text": "Kanaqa ushki kirasi etdi"
+  },
+  {
+   "start": 27.52,
+   "end": 29.16,
+   "text": "Mana xazi Python-bochi tuket asilara"
+  },
+  {
+   "start": 29.16,
+   "end": 31.36,
+   "text": "15 kishi bosiyla, 15 kishi rakabatchi yegaylanadi"
+  },
+  {
+   "start": 31.36,
+   "end": 33.32,
+   "text": "Kampiyonu qirti olad, en zorun olad"
+  },
+  {
+   "start": 33.32,
+   "end": 36.16,
+   "text": "Salahiyati yaxshaydi, suzu budun, gapi joydi"
+  },
+  {
+   "start": 36.16,
+   "end": 37.8,
+   "text": "Xarizmatiki bugun odamda xik olad"
+  },
+  {
+   "start": 37.8,
+   "end": 39.8,
+   "text": "Yigitlar, en zora bolamandim harikatlarin"
+  },
+  {
+   "start": 39.8,
+   "end": 40.4,
+   "text": "Usyamsi mi?"
+  },
+  {
+   "start": 40.4,
+   "end": 41.84,
+   "text": "Qizlar dan muresan talaqqami mi?"
+  },
+  {
+   "start": 41.84,
+   "end": 43.16,
+   "text": "Dekin, yigitla suna bolish shard."
+  },
+  {
+   "start": 43.16,
+   "end": 44.16,
+   "text": "Dekin, hals camiyatta,"
+  },
+  {
+   "start": 44.16,
+   "end": 45.48,
+   "text": "qiprak qizlar suna qayakti yorog."
+  },
+  {
+   "start": 45.48,
+   "end": 46.32,
+   "text": "Etibabirasin, yon?"
+  },
+  {
+   "start": 46.32,
+   "end": 47.52,
+   "text": "Maktabda en yaxsh kim oqiydi?"
+  },
+  {
+   "start": 47.52,
+   "end": 48.0,
+   "text": "Qizlar."
+  },
+  {
+   "start": 48.0,
+   "end": 49.28,
+   "text": "Ümrisatda en yaxsh kim oqiydi?"
+  },
+  {
+   "start": 49.28,
+   "end": 49.68,
+   "text": "Qizlar."
+  },
+  {
+   "start": 49.68,
+   "end": 51.12,
+   "text": "Ingizsanda qiprak kim orgenadi?"
+  },
+  {
+   "start": 51.12,
+   "end": 51.52,
+   "text": "Qizlar."
+  },
+  {
+   "start": 51.52,
+   "end": 53.08,
+   "text": "Aslida yekeli dada bolish kiraydi shud."
+  },
+  {
+   "start": 53.08,
+   "end": 54.4,
+   "text": "Mazbur bolay apdi dada qizlar sunga."
+  },
+  {
+   "start": 54.4,
+   "end": 55.92,
+   "text": "Agar mien siz geyab ustazliyka yananda,"
+  },
+  {
+   "start": 55.92,
+   "end": 56.6,
+   "text": "mazburlarim."
+  },
+  {
+   "start": 56.6,
+   "end": 57.56,
+   "text": "Meni yaman kursizim."
+  },
+  {
+   "start": 57.56,
+   "end": 59.68,
+   "text": "Balagam kereybosa yahchli yolda macbulinla."
+  },
+  {
+   "start": 59.68,
+   "end": 61.08,
+   "text": "Otanasimak yap pashiladi kereybosa."
+  },
+  {
+   "start": 61.08,
+   "end": 61.96,
+   "text": "Telefona qoyladi."
+  },
+  {
+   "start": 61.96,
+   "end": 63.64,
+   "text": "PUBG, SU, Instagrami uchri varladi."
+  },
+  {
+   "start": 63.64,
+   "end": 64.96,
+   "text": "Ta ki insafn bulma gionchi."
+  },
+  {
+   "start": 64.96,
+   "end": 65.84,
+   "text": "Islubah bulma gionchi."
+  },
+  {
+   "start": 65.84,
+   "end": 66.92,
+   "text": "Chunki sisi davirizda,"
+  },
+  {
+   "start": 66.92,
+   "end": 68.16,
+   "text": "hali istima ayytarim ah hamda"
+  },
+  {
+   "start": 68.16,
+   "end": 69.96,
+   "text": "uynlar mutkasinan kitkin zamanda"
+  },
+  {
+   "start": 69.96,
+   "end": 71.24,
+   "text": "yashashiz kinlash bitkin."
+  },
+  {
+   "start": 71.24,
+   "end": 72.76,
+   "text": "Sizi ishladaykin Instagramin chun"
+  },
+  {
+   "start": 72.76,
+   "end": 74.6,
+   "text": "10 minlab adam algarikati muslodashlaydi."
+  },
+  {
+   "start": 74.6,
+   "end": 76.52,
+   "text": "Sizi ushujoyda harbari saniya qalishiz chun"
+  },
+  {
+   "start": 76.52,
+   "end": 77.6,
+   "text": "10 minlab adam ishlaydi."
+  },
+  {
+   "start": 77.6,
+   "end": 79.4,
+   "text": "Sizi bittay gina 15-20 yasharli"
+  },
+  {
+   "start": 79.4,
+   "end": 80.92,
+   "text": "Akliyiz bilan bunga karch turalminsiz."
+  },
+  {
+   "start": 80.92,
+   "end": 81.52,
+   "text": "Ilojiyog bun."
+  },
+  {
+   "start": 81.52,
+   "end": 83.02,
+   "text": "Shunun kichin, chekilash en yashi yechim."
+  },
+  {
+   "start": 83.02,
+   "end": 83.84,
+   "text": "Dostana chekilash,"
+  },
+  {
+   "start": 83.84,
+   "end": 85.96,
+   "text": "yani, birdan telefonini bir boz ishlatminsan mas,"
+  },
+  {
+   "start": 85.96,
+   "end": 87.0,
+   "text": "shun turish kerey borinda."
+  },
+  {
+   "start": 87.0,
+   "end": 88.44,
+   "text": "Uke, bu telefoni sengiz zarar."
+  },
+  {
+   "start": 88.44,
+   "end": 89.36,
+   "text": "Hazir kerey mas."
+  },
+  {
+   "start": 89.36,
+   "end": 90.52,
+   "text": "Hali vaxt kele di,"
+  },
+  {
+   "start": 90.52,
+   "end": 92.0,
+   "text": "en yashi telefoninan faydalanizan."
+  },
+  {
+   "start": 92.0,
+   "end": 92.92,
+   "text": "Hali vaxt kele di,"
+  },
+  {
+   "start": 92.92,
+   "end": 94.32,
+   "text": "ushu oniyilarda maz zakib oynaysan."
+  },
+  {
+   "start": 94.32,
+   "end": 95.6,
+   "text": "Lekin, hazir ilim oligin davrin."
+  },
+  {
+   "start": 95.6,
+   "end": 96.72,
+   "text": "Hazir uginigin davrin."
+  },
+  {
+   "start": 96.72,
+   "end": 98.36,
+   "text": "Hazir uziyini ushligin davrin."
+  },
+  {
+   "start": 98.36,
+   "end": 99.36,
+   "text": "Shununay kin giren senini,"
+  },
+  {
+   "start": 99.36,
+   "end": 100.94,
+   "text": "Madribur ishimim kuniyin, yeba itilarim."
+  },
+  {
+   "start": 100.98,
+   "end": 101.84,
+   "text": "Shunda oda muzgarishim."
+  },
+  {
+   "start": 102.0,
+   "end": 102.46,
+   "text": "Shem shizim."
+  },
+  {
+   "start": 102.52,
+   "end": 103.4,
+   "text": "Otorizmiz kuz shadi."
+  },
+  {
+   "start": 103.48,
+   "end": 104.78,
+   "text": "Tarantat birgur, onami birgaz."
+  },
+  {
+   "start": 104.92,
+   "end": 105.92,
+   "text": "Otorizmiz ahmak yadigam."
+  },
+  {
+   "start": 106.18,
+   "end": 106.56,
+   "text": "Tashabim."
+  }
+ ],
+ "chars": 2363,
+ "chars_per_s": 21.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 1,
+ "quality": "черновое"
+}

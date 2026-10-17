@@ -1,0 +1,88 @@
+{
+ "url": "https://inter-nation.uz/l/online",
+ "school_id": "inter-nation",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "заявка или консультация",
+ "builder": "Next.js",
+ "pixels": [
+  "Google Analytics (GA4)",
+  "Google Tag Manager"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Тот же общий заход, что на /l/instagram_*: хотите выучить английский — оставьте номер, ответим на все вопросы; про онлайн-формат ни слова",
+  "quote": "INGLIZ TILI ni\no`rganmoqchimisiz?\nU holda raqamingizni qoldiring va biz barcha savollaringizga javob beramiz.",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "program": {
+  "found": false,
+  "format": "онлайн"
+ },
+ "speaker": {
+  "found": true,
+  "value": "Преподаватели с сертификатами IELTS 9.0 и CELTA — баннер слайдера (фото преподавателя с бланком IELTS, Overall Band Score 9.0); имён, числа и стажа преподавателей нет",
+  "quote": "IELTS 9.0 VA CELTA sertifikatiga ega ustozlar",
+  "where": "первый экран"
+ },
+ "social_proof": {
+  "types": [
+   "нет"
+  ]
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "на странице только форма; цены онлайн-обучения нет ни здесь, ни в снимке главной — вкладка «Online» блока «Tariflar va narxlar» не раскрыта"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "имя",
+   "телефон",
+   "Telegram"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "message_match": {
+  "library_id": "1501314077748706",
+  "scores": {
+   "promise_continuity": 3,
+   "language_match": 3,
+   "visual_continuity": 3,
+   "cta_alignment": 7,
+   "specificity_match": 3,
+   "emotional_match": 4
+  },
+  "total_of_60": 23
+ },
+ "notes": "Онлайн-вариант рекламной лид-формы (stage_auto «прочее»; этап — «заявка или консультация»). Текст совпадает с /l/instagram_samarqand; отличие одно — необязательное поле Telegram: «Qo'shimcha aloqa», «Username» (подсказка @exampleusername), «Majburiy emas». Поля по скриншоту: «Ismingiz», «+998 Telefon raqami», Telegram-username (необязательно), кнопка «Yuborish» (форму не отправляли). Слайдер из 7 слайдов; на скриншоте — баннер «IELTS 9.0 VA CELTA sertifikatiga ega ustozlar», остальные слайды в снимок не попали. Слов online/onlayn на странице нет: формат «онлайн» проставлен по адресу /l/online и по объявлениям «INTER NATION ONLINE», которые сюда ведут. Цены, программы, расписания, условий онлайн-обучения, гарантии и дедлайна нет. Онлайн против офлайна: цена онлайн-тарифа в снимки не попала (на главной видна только вкладка Ташкента — офлайн: Group English 1 050 000 сум, Individual English 3 450 000 сум за 12 занятий); по оферте условия оплаты и возврата для онлайн и офлайн одинаковые (п. 9.6). Реклама: 6 объявлений основной страницы Inter Nation English School (5 видео, 1 картинка), все идут 321–362 дня, ранги 16–30. message_match: объявление 1501314077748706 (лучший ранг 16, с 31.10.2025, 321 день, видео 50,4 с, CTA «Sign up»). Расшифровок роликов inter-nation нет — оценка по тексту объявления и 8 кадрам ролика без звука. Текст: «💻 INTER NATION ONLINE — Ваша возможность получать знания в любой ситуации. Вы выбираете удобное место и время, а мы обеспечиваем качество. Опытные преподаватели, максимальный комфорт и поддержка на каждом этапе обучения 🤩💯 … Записывайтесь в INTER NATION!» (и то же на узбекском). Кадры: женщины в селе и дома учатся с ноутбуком (надпись «Student App»), дети на диване, женщина с цветами и табличкой «10.000.000» (похоже на вручение IELTS-кэшбэка — предположение), мама дарит сыну коробку с подарком, ведущая у здания филиала с надписью «Inter Nation qayerda bo'lma,». На странице нет ни онлайна, ни свободы места и времени, ни поддержки; с объявлением перекликаются только баннер про преподавателей IELTS 9.0 и CELTA и действие «записаться»; поле Telegram удобно тем, кто далеко. Самые долгие объявления сюда (по 362 дня): 1479036336751421 (картинка) и 653690847779688 (видео) с текстом «🌐 INTER NATION ONLINE — masofa endi muammo emas! … Izohlarda «➕» qoldiring» — они зовут ставить плюс в комментариях, а не оставлять заявку на сайте; 779700358255119 (360 дней) — «vaqt endi muammo emas!». Техника (intel.json): Next.js, GA4 и Google Tag Manager (GTM-M34NDCLF); Meta Pixel не обнаружен."
+}

@@ -1,0 +1,91 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.2,
+   "text": "Nimeyil agi iskani buzdo organishiz kiri."
+  },
+  {
+   "start": 2.5,
+   "end": 4.38,
+   "text": "Chunk ki biz sizge ishver alimiz."
+  },
+  {
+   "start": 4.46,
+   "end": 6.46,
+   "text": "Biz sizi speaking izgotar alimiz."
+  },
+  {
+   "start": 6.52,
+   "end": 9.62,
+   "text": "Biz sizge noldan dispatcherlikni, updaterlikni orgat alimiz."
+  },
+  {
+   "start": 9.92,
+   "end": 12.5,
+   "text": "Ve en qizgiz siz xazir kundi buzdo okumakchi bosayiz."
+  },
+  {
+   "start": 12.6,
+   "end": 17.92,
+   "text": "Kursni malumir qismin tolis, kaganyini, pulini, ishki kirganizden kegin bolub-bolub aymay tola varas."
+  },
+  {
+   "start": 18.26,
+   "end": 21.78,
+   "text": "Yani chuni ekgan bosayiz, biz sizi ishki apkirganimizden kegin pul tolisis deyipma."
+  },
+  {
+   "start": 21.78,
+   "end": 24.18,
+   "text": "Agar ingilis tiliz orta darajada bosay,"
+  },
+  {
+   "start": 24.52,
+   "end": 26.5,
+   "text": "va tashkengi ekilib okulli digan bosay,"
+  },
+  {
+   "start": 26.54,
+   "end": 27.78,
+   "text": "va tashkengi deyashay ekgan bosay,"
+  },
+  {
+   "start": 27.84,
+   "end": 30.92,
+   "text": "Amerikala iskas norganir 2-3 min dolar daramat qilallisiz."
+  },
+  {
+   "start": 31.22,
+   "end": 34.0,
+   "text": "Tori, 5 aydan masu, 1-2-3 yili chqvalallisiz."
+  },
+  {
+   "start": 34.1,
+   "end": 36.8,
+   "text": "Qancadan qancadan la u shu axtini bekarket qizgabdi."
+  },
+  {
+   "start": 37.16,
+   "end": 39.36,
+   "text": "Agar sizgi bu taklif qizgab oladiyan bosay,"
+  },
+  {
+   "start": 39.42,
+   "end": 41.2,
+   "text": "basi tibima qaldiraman, roxatna otin,"
+  },
+  {
+   "start": 41.32,
+   "end": 42.42,
+   "text": "ozimiz alofay chqamiz."
+  }
+ ],
+ "chars": 788,
+ "chars_per_s": 18.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

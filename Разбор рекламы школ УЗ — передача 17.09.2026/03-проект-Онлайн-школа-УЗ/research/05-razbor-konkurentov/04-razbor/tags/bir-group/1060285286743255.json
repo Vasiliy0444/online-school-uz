@@ -1,0 +1,97 @@
+{
+ "creative_id": "1060285286743255",
+ "platform": "meta",
+ "school_id": "bir-group",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Diqqat qiling! Bu xabarim yoshlar uchun.",
+  "types": [
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.0s: ч/б, женщина в чёрном платье с белым воротником на фоне колонн и растений; крупный текст «DIQQAT QILING!», ниже по буквам появляется «bu xabarim yoshlar uchun»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Dikatqilin bu xabarim yoshlar uchun.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "профессия будущего",
+   "без опыта"
+  ],
+  "income_claim": "600 milliondan ortiq daromad (ikkita bitirgan guruh o'quvchilari, jamlangan/umumiy summasi — не подушевая)",
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:09] Aynipatka kadar biznin ushbu yon alishimizda iki ta guruq bitirishka muafak boldi",
+    "timecode": "00:09"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:13] va ular aynipatka 600 milyondan ortik daromadka erishdi.",
+    "timecode": "00:13"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:05] Mabilografiya, targeting suni entelet, hamda sotu, menajir.",
+    "timecode": "00:05"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Buning uchun 500 ta grant ajratilgan. 25-sentabr kuni onlayn taqdimot bo'lib o'tadi."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:17] Agar sizge bu grant qizik bolsa, [00:20] 25-ci sintyabr kunu boli botadigan online takdimatda ishtirak edin.",
+    "timecode": "00:17"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:25: текст «Taqdimotda qatnash»",
+    "timecode": "00:25"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук совпадает по кадру и расшифровке: «Diqqat qiling! Bu xabarim yoshlar uchun» — прямое обращение к молодёжи, крупный текст растёт по буквам. На ~2.5с картинка переходит в цвет, на кадре видна женщина в той же позе на фоне колонн и растений (интерьер, судя по всему, офис Bir Group — на sheet_overview ~0:11 виден зал с экраном «BIR TA'LIM E...» и сидящей аудиторией). Названы 4 направления: mobilografiya, targeting, SMM, sotuv menejeri (расшифровка [00:05], сверена с текстом объявления — там ещё upomянуты grafik dizayn, videomontaj и др. из общих 7+). Доход: «600 million so'mdan ortiq» — только по расшифровке [00:13], на доступных кадрах overview (0:04, 0:11, 0:18, 0:25) цифра не показана крупным планом, поэтому подтверждение только текстовое (устное). Это доход выпускников двух завершённых групп по данному направлению — коллективная сумма, не на человека. CTA прямо называет Telegram: [00:24]–[00:26] «Takdimatda qatnaq uchun esab huyda gitubmanı basin va telegram kanalimizga abona bolin» (нажмите кнопку ниже и подпишитесь на наш Telegram-канал) — чёткое совпадение с типовым паттерном кампании. Ролик зовёт в Telegram-канал, а link_url ведёт на лендинг bir-group-webinar.vercel.app/a/ — расхождение. Спикер (женщина) не названа по имени ни голосом, ни подписью — роль «актёр или ведущий» без public_name."
+}

@@ -1,0 +1,31 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.68,
+   "text": "2026-nchi il biz Shvetsa da Halperok Konferensya da AI boyche speaker bolib master class-ot verdi"
+  },
+  {
+   "start": 4.68,
+   "end": 9.56,
+   "text": "va xazirgi faytki chi Uzbekistanlayan Shvetsadan turli loqad islab AI boyche daroma topib kiriabiz."
+  },
+  {
+   "start": 9.56,
+   "end": 14.56,
+   "text": "Bizi uzun zantajibamizdan kilib chikib, suni intelektu alqali daroma topish boyche video dersi terligamiz."
+  },
+  {
+   "start": 15.16,
+   "end": 19.78,
+   "text": "Pastigi xovalani bolsun, shu dersi inu kurshili unkun, chinki ulima bu video slagi faydali boladi."
+  }
+ ],
+ "chars": 403,
+ "chars_per_s": 20.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

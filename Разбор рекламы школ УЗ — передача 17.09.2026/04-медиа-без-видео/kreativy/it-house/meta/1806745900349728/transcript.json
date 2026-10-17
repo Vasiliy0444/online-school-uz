@@ -1,0 +1,26 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.52,
+   "text": "Freelancer bolub durub, 800 dolar aylik maash alasiz isamish onasmi?"
+  },
+  {
+   "start": 5.5,
+   "end": 13.12,
+   "text": "Bunun uchun, IT House-nin Graph Design kurslarini tamamlib, miliyolarinizgi ege bolishiniz gereyx olas."
+  },
+  {
+   "start": 13.8,
+   "end": 20.28,
+   "text": "Hayat kentse, eger yashiniz 18 yashtan belan bolsir, sizne isbilankam tamir lesharim."
+  }
+ ],
+ "chars": 258,
+ "chars_per_s": 12.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Qurban"
+  },
+  {
+   "start": 30.0,
+   "end": 32.28,
+   "text": "Qulay sharayit, yuqali daramat"
+  },
+  {
+   "start": 32.28,
+   "end": 33.84,
+   "text": "wa irkillik kerek bolsa,"
+  },
+  {
+   "start": 34.34,
+   "end": 36.16,
+   "text": "ki bir xafsizlik aynan siz üçün."
+  },
+  {
+   "start": 36.44,
+   "end": 38.02,
+   "text": "Qutmayn, bugundan boshlayn."
+  },
+  {
+   "start": 38.7,
+   "end": 39.9,
+   "text": "Buni yi chun xabalan"
+  },
+  {
+   "start": 39.9,
+   "end": 40.82,
+   "text": "istuge basayn."
+  }
+ ],
+ "chars": 159,
+ "chars_per_s": 3.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

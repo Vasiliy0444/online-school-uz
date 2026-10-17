@@ -1,0 +1,84 @@
+{
+ "creative_id": "1499105538918220",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "постановка или скетч",
+  "запись экрана"
+ ],
+ "hook": {
+  "verbatim": "Sizni ham pulingiz oylikkacha yetmayaptimi?",
+  "types": [
+   "боль",
+   "вопрос"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.0s: девушка за столом, «sizzi ham puliz oylikgacha yetmayaptimi?»; 2.5s — «hamma rasxodlarizni qoplidigan»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Tiziyan plus, olik techi yetmiyabti ma?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта"
+  ],
+  "income_claim": "AutoCAD o'rganing – $700–800 oylik daromad (текст объявления); в ролике — вакансии «interyer dizaynerlar» на hh.uz «400 dolardan 1200 dolargacha»",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈0:11): значок «hh», «headhunter vakansiyalari saytida»",
+    "timecode": "00:11"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:11] interior designerlar uchun kampanyalar 400 dolordan 1200 dolorgache tolashke tayyar.",
+    "timecode": "00:11"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:23] Shuu xafta, interior design bochiya mutsoqo web pola uchki darsi boli botadi.",
+    "timecode": "00:23"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Ещё один дубль AutoCAD/hh.uz-шаблона (см. 1091042456797892, 1388249096753064, 1537180601812232): хук про нехватку денег до зарплаты, далее типовая середина (вакансия interyer dizayner с hh.uz) и типовая концовка (бесплатный открытый урок)."
+}

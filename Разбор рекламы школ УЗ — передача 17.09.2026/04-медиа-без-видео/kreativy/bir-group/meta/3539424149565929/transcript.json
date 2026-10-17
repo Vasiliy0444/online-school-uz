@@ -1,0 +1,81 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.16,
+   "text": "Eng zamanawi yitita kaspini endi biyopolgoyurganishigiz mumkun."
+  },
+  {
+   "start": 3.32,
+   "end": 4.9,
+   "text": "Bertalimda 500 grand."
+  },
+  {
+   "start": 5.66,
+   "end": 8.16,
+   "text": "Targetingi yonalishida, video montaj yonalishida,"
+  },
+  {
+   "start": 8.26,
+   "end": 10.96,
+   "text": "mobilagrafiya yonalishida, sato menajirligi yonalishida,"
+  },
+  {
+   "start": 11.06,
+   "end": 14.48,
+   "text": "sunni intelekti yonalishida, 500 grand elankildi."
+  },
+  {
+   "start": 14.66,
+   "end": 17.04,
+   "text": "Shukun yacha bu yonalishida okigan oku uchilarimiz"
+  },
+  {
+   "start": 17.04,
+   "end": 19.72,
+   "text": "650 milion somdan ziyot daromad tapishti."
+  },
+  {
+   "start": 20.08,
+   "end": 22.78,
+   "text": "Endilikta susgan bu yonalishidan birida okip,"
+  },
+  {
+   "start": 22.92,
+   "end": 25.74,
+   "text": "öz kaspini egallar, yaxshi daromad kiliyishigiz mumkun."
+  },
+  {
+   "start": 25.74,
+   "end": 28.82,
+   "text": "Bunin uchini isa 25. sentiya bir kini bolu bot edigan"
+  },
+  {
+   "start": 28.82,
+   "end": 30.6,
+   "text": "online taqdimatli qatnaqshiniz kerek."
+  },
+  {
+   "start": 30.96,
+   "end": 32.1,
+   "text": "Bu taqdimatli qatnaqshinizin"
+  },
+  {
+   "start": 32.1,
+   "end": 33.98,
+   "text": "tasdaqi padro omtugmasin bas fazura"
+  },
+  {
+   "start": 33.98,
+   "end": 34.84,
+   "text": "ruhiqatdan oytovan."
+  }
+ ],
+ "chars": 614,
+ "chars_per_s": 17.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

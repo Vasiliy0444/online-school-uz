@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.76,
+   "text": "Dogri, ingilis tilini online va mustaqli organish judayam qiliy."
+  },
+  {
+   "start": 3.9,
+   "end": 9.26,
+   "text": "Chunk ki tezikni oziz belgilis, qay yerda, qachon, va kancha dozadan organishni xam oziz belgilisis."
+  },
+  {
+   "start": 9.5,
+   "end": 16.12,
+   "text": "Lekin bitti minusi, xata qiyam bo sez, ustaz Mahmeti nemey xata, nemaqsam toru bolad edib, saal beramisis."
+  },
+  {
+   "start": 16.68,
+   "end": 19.12,
+   "text": "Buna biligan xalda biz yangi funksi, AI takhil,"
+  },
+  {
+   "start": 19.3,
+   "end": 25.34,
+   "text": "yani suni intelektizgi ozbeg tilidi xata ayalinizni chuntiri bere aladigan funksi qoshkiamiz."
+  },
+  {
+   "start": 25.34,
+   "end": 27.7,
+   "text": "Bu, onta funksiyamizdan bittas xalaz."
+  },
+  {
+   "start": 27.7,
+   "end": 33.88,
+   "text": "Bagyan fungstira ardunxam u zingiz ishtatib korin, ishanch khasir qilin, minchun xawalan us tige basib ila wamizni yukila barin."
+  }
+ ],
+ "chars": 581,
+ "chars_per_s": 17.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

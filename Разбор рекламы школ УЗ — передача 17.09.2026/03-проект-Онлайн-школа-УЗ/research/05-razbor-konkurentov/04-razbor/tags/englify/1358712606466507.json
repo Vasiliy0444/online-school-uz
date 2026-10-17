@@ -1,0 +1,84 @@
+{
+ "creative_id": "1358712606466507",
+ "platform": "meta",
+ "school_id": "englify",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон",
+  "запись экрана"
+ ],
+ "hook": {
+  "verbatim": "Bu ingliz tili ilovasida, turli janrdagi ingliz tilidagi filmlarni...",
+  "types": [
+   "новость"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.0s: «Bu ingliz tili ilovasida» / «Turli janrdagi»; девушка на фоне городских высоток",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s–2.5s: «Ingliz tilidagi filmlarni»; на экране появляются карточки жанров (Fantazy, Romance, Andventure, Action, Drama)",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Bugun ingilisri ilo vasta turuli janadagi ingilisli diki filminani tamoshagil shizmim.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:15: «Misol uchun:» — карточки «Level Elementary 2 (A2), Category Fantasy» и «Level Intermediate 1 (B1+), Category Adventure»",
+    "timecode": "00:15"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:10] Xar bur film xaisi ingilisli darajas uchum masi agadiki xami ozlin yan boladim.",
+    "timecode": "00:10"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "RO'YXATDAN O'TISH"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "блогер"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Ведущая — девушка (новый типаж, не встречается в других роликах пачки), подаёт материал как обзор функции («фильмы по уровню и жанру внутри приложения»), в конце зовёт оставить в комментариях любимый жанр — стиль блогерского обзора, а не личный отзыв и не «мы» от лица компании, поэтому роль «блогер». Текст объявления называет «teacherazam» как автора видеоуроков в приложении, но сама ведущая себя так не называет и не показана как преподаватель — public_name не проставляю, так как в этом конкретном ролике нет прямой привязки её лица к этому имени. Ссылка ведёт на instant.englify.uz (не описан отдельно в уточнениях к заданию, разметил по общему правилу «свой домен → лендинг»/«основной продукт») — стоит уточнить, отдельная ли это точка входа."
+}

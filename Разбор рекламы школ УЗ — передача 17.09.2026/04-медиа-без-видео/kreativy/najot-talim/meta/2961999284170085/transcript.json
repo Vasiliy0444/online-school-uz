@@ -1,0 +1,471 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.54,
+   "text": "Kichin asan oriyanmasi ikirey dilgen balayam shi ushtan asan oriyanish sili."
+  },
+  {
+   "start": 3.54,
+   "end": 5.26,
+   "text": "Ismim Azize, 41 yashda man."
+  },
+  {
+   "start": 5.34,
+   "end": 7.9,
+   "text": "Yaq kaayil laykin, 41 yashda izde oqibiruz zaykin."
+  },
+  {
+   "start": 8.54,
+   "end": 10.72,
+   "text": "Nima mazub okilda sizi 41 yashda talim alish?"
+  },
+  {
+   "start": 10.74,
+   "end": 13.32,
+   "text": "Karantin boshlan gendiki, balarimla uido otirp aldimdi."
+  },
+  {
+   "start": 13.38,
+   "end": 15.54,
+   "text": "Uido otirsam, sal mazam bami yurdim."
+  },
+  {
+   "start": 15.8,
+   "end": 18.96,
+   "text": "Balarim geyam uzi, ulan o bilmaslik ozumgen yito boldi."
+  },
+  {
+   "start": 19.02,
+   "end": 21.06,
+   "text": "Pashka jodan, xamma savolagi jabiraman,"
+  },
+  {
+   "start": 21.16,
+   "end": 23.78,
+   "text": "kompiterdan, anchen arsi, kruajlanish boq kitkenike."
+  },
+  {
+   "start": 23.78,
+   "end": 25.26,
+   "text": "xamma kurslan okup chqib, endib"
+  },
+  {
+   "start": 25.26,
+   "end": 26.22,
+   "text": "majad talim qoygeni qen,"
+  },
+  {
+   "start": 26.22,
+   "end": 27.14,
+   "text": "shin okup qoydi qeldim."
+  },
+  {
+   "start": 27.14,
+   "end": 29.26,
+   "text": "Bundan ikiyen, xazir ki ganymda bildim,"
+  },
+  {
+   "start": 29.26,
+   "end": 30.66,
+   "text": "ngilisili dan qinal shimmi,"
+  },
+  {
+   "start": 30.66,
+   "end": 31.42,
+   "text": "bollarim bili shadi,"
+  },
+  {
+   "start": 31.42,
+   "end": 33.62,
+   "text": "ula bilan qoshilib okuma ganymga afslandim."
+  },
+  {
+   "start": 33.62,
+   "end": 34.34,
+   "text": "Men ayataman,"
+  },
+  {
+   "start": 34.34,
+   "end": 36.62,
+   "text": "yoshilar en kamyda 3 tani asan uru ganyzlar gery."
+  },
+  {
+   "start": 36.62,
+   "end": 38.42,
+   "text": "Akhlaq, inginistili, texnologiya."
+  },
+  {
+   "start": 38.42,
+   "end": 39.5,
+   "text": "Hich tani asan uru ganym,"
+  },
+  {
+   "start": 39.5,
+   "end": 40.86,
+   "text": "masi ikere ediylgan bollaya,"
+  },
+  {
+   "start": 40.86,
+   "end": 41.98,
+   "text": "shi 3 tani asan uru ganyz gery."
+  },
+  {
+   "start": 41.98,
+   "end": 43.02,
+   "text": "Bu, zaman talabi."
+  },
+  {
+   "start": 43.02,
+   "end": 44.14,
+   "text": "SM-di uru ganyab suzu?"
+  },
+  {
+   "start": 44.14,
+   "end": 46.04,
+   "text": "Nimalar orgeniz kasp khanak iken"
+  },
+  {
+   "start": 46.04,
+   "end": 47.8,
+   "text": "və kollamaqshim isiz okin"
+  },
+  {
+   "start": 47.8,
+   "end": 49.26,
+   "text": "maqsad izi maqsun orgeniz tan?"
+  },
+  {
+   "start": 49.26,
+   "end": 50.52,
+   "text": "Ballarimgi orge tishin"
+  },
+  {
+   "start": 50.52,
+   "end": 51.78,
+   "text": "social medyanı tan isitirib"
+  },
+  {
+   "start": 51.78,
+   "end": 53.64,
+   "text": "oru yunaliş birer iskin isilatişi mümkün"
+  },
+  {
+   "start": 53.64,
+   "end": 55.58,
+   "text": "likin uzun bulsaqa da isilamaqshim asman"
+  },
+  {
+   "start": 55.58,
+   "end": 57.18,
+   "text": "marketing bu social medyan"
+  },
+  {
+   "start": 57.18,
+   "end": 58.32,
+   "text": "uzun tishunca alib"
+  },
+  {
+   "start": 58.32,
+   "end": 60.06,
+   "text": "uzun bilim uashirish boychi oqidam"
+  },
+  {
+   "start": 60.06,
+   "end": 61.04,
+   "text": "Yaxsh kasp bar"
+  },
+  {
+   "start": 61.04,
+   "end": 63.34,
+   "text": "adatda men futbol gelar diyan koryemma"
+  },
+  {
+   "start": 63.34,
+   "end": 63.98,
+   "text": "telefonda"
+  },
+  {
+   "start": 63.98,
+   "end": 65.4,
+   "text": "vida nimalar oqad qisaq koyib"
+  },
+  {
+   "start": 65.4,
+   "end": 66.46,
+   "text": "jaylab, shuarqalyayam"
+  },
+  {
+   "start": 66.46,
+   "end": 67.44,
+   "text": "vida yaxshish laqli shadi"
+  },
+  {
+   "start": 67.44,
+   "end": 68.98,
+   "text": "laki kishin ekisne nimalar laqli"
+  },
+  {
+   "start": 68.98,
+   "end": 70.98,
+   "text": "Anamya Anamya"
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 70.98,
+   "text": ""
+  },
+  {
+   "start": 70.98,
+   "end": 71.48,
+   "text": "qusbila?"
+  },
+  {
+   "start": 71.48,
+   "end": 71.98,
+   "text": "hə?"
+  },
+  {
+   "start": 71.98,
+   "end": 72.48,
+   "text": "qusbila?"
+  },
+  {
+   "start": 72.48,
+   "end": 72.98,
+   "text": "qusbila?"
+  },
+  {
+   "start": 72.98,
+   "end": 73.48,
+   "text": "qusbila?"
+  },
+  {
+   "start": 73.48,
+   "end": 73.98,
+   "text": "qusbila?"
+  },
+  {
+   "start": 73.98,
+   "end": 74.48,
+   "text": "qusbila?"
+  }
+ ],
+ "chars": 1434,
+ "chars_per_s": 19.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

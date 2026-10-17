@@ -1,0 +1,81 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.52,
+   "text": "Karyera ingizni, Tashkendaki International Schoolda bashlasin xaqilaysisimi?"
+  },
+  {
+   "start": 3.7,
+   "end": 12.86,
+   "text": "Yigirmaynchi, Senta bir kuni. Islam Karyon 8-u bir manzilidi. Bu yilgi, Tashkendi, uzog fitilgan jobber bobotadi."
+  },
+  {
+   "start": 13.06,
+   "end": 18.68,
+   "text": "Agar siz bizni jamalimizni bir kisi bolishlisasayngiz, sizde bachi sufat bashchilardan bir kunin ozdi otish,"
+  },
+  {
+   "start": 19.0,
+   "end": 22.18,
+   "text": "va quydagi jamalariye koshish uchun ajoyib ngonyat mavjud."
+  },
+  {
+   "start": 22.18,
+   "end": 29.78,
+   "text": "ESL Teacher, Academic Support, Administrator, Cashier, Videographer, Scenario Creator, Brand Face,"
+  },
+  {
+   "start": 30.0,
+   "end": 32.68,
+   "text": "Job fair bir neçte qisimdan ibarat boladi."
+  },
+  {
+   "start": 32.82,
+   "end": 40.26,
+   "text": "Aval isni afzalliklari, maaşi, batalablari xaqidi boliboda diyan katti takdimatdan son barci sovarlarinizga jabab veriladi."
+  },
+  {
+   "start": 40.38,
+   "end": 44.12,
+   "text": "Takdimatdan son barci üçte sukbat carayonlari amalga oshiriladi"
+  },
+  {
+   "start": 44.12,
+   "end": 46.58,
+   "text": "va naticasini shukunning ozida bolib olasis."
+  },
+  {
+   "start": 46.8,
+   "end": 49.42,
+   "text": "Hatto bashi kampanyada shliyatkan bolisangiz,"
+  },
+  {
+   "start": 49.52,
+   "end": 53.76,
+   "text": "ham kelib uzinizni sinab va kerelim almatini olshingiz ham munkun."
+  },
+  {
+   "start": 53.86,
+   "end": 57.36,
+   "text": "Sizgi kerek boladiyan yagyanonlarsa bu elektron formattagi rezumeyengiz."
+  },
+  {
+   "start": 57.36,
+   "end": 60.56,
+   "text": "22 Sintiabir, biznen xalqlar dosla ge filalımiz edi,"
+  },
+  {
+   "start": 60.82,
+   "end": 62.96,
+   "text": "soot 11 nonoldi, gorush gulti."
+  }
+ ],
+ "chars": 1003,
+ "chars_per_s": 15.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

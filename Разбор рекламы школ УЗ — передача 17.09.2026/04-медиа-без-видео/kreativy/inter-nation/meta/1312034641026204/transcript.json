@@ -1,0 +1,106 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Salam alaykum, ayir, ben keldim."
+  },
+  {
+   "start": 2.0,
+   "end": 4.0,
+   "text": "Kildim, olum."
+  },
+  {
+   "start": 4.0,
+   "end": 6.0,
+   "text": "Kir, kir,"
+  },
+  {
+   "start": 6.0,
+   "end": 8.0,
+   "text": "choy chams."
+  },
+  {
+   "start": 8.0,
+   "end": 10.0,
+   "text": "Bani o'li ayil tismi, bindime sertifikat"
+  },
+  {
+   "start": 10.0,
+   "end": 12.0,
+   "text": "awabdi. Sho, sertifikat bilan, kana qadar"
+  },
+  {
+   "start": 12.0,
+   "end": 14.0,
+   "text": "yaxsh yaxsh oqishlargi kirse bolarkyan."
+  },
+  {
+   "start": 14.0,
+   "end": 16.0,
+   "text": "Sinam ingilisdilini urgan va sin bolardi."
+  },
+  {
+   "start": 16.0,
+   "end": 18.0,
+   "text": "Ha, ayi, uzman xarkat"
+  },
+  {
+   "start": 18.0,
+   "end": 20.0,
+   "text": "xiliyat ban. Kündüzü bilan ishim bar."
+  },
+  {
+   "start": 20.0,
+   "end": 22.0,
+   "text": "Kechik bayi di bozsa yaxsh ingilisdili kurslar"
+  },
+  {
+   "start": 22.0,
+   "end": 24.0,
+   "text": "yogakyan da, uzman boykona qidrdim,"
+  },
+  {
+   "start": 24.0,
+   "end": 26.0,
+   "text": "topamadim bich qaydin yaxsh kurslu."
+  },
+  {
+   "start": 26.0,
+   "end": 28.0,
+   "text": "Bani aldimizdagi internationalda, 18-30-di"
+  },
+  {
+   "start": 28.0,
+   "end": 30.1,
+   "text": "kechik gursliar auachili, d'ingli jestli,"
+  },
+  {
+   "start": 30.1,
+   "end": 31.72,
+   "text": "ham jestli dun tiga tib,"
+  },
+  {
+   "start": 31.72,
+   "end": 33.44,
+   "text": "theticli, yazli, buxi, dun biladli\"."
+  },
+  {
+   "start": 33.44,
+   "end": 34.2,
+   "text": "Ay, Oghay,"
+  },
+  {
+   "start": 34.2,
+   "end": 36.2,
+   "text": "Chess Chess"
+  }
+ ],
+ "chars": 582,
+ "chars_per_s": 14.2,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,61 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.82,
+   "text": "YouTube platformastı pul topishun, yillab content qilish keredi bolishmı?"
+  },
+  {
+   "start": 3.88,
+   "end": 8.1,
+   "text": "Yok, aslida kichik kanal ozyam yeterli, agar do u toğri tizi masosti yurutilsa."
+  },
+  {
+   "start": 8.26,
+   "end": 12.14,
+   "text": "Bizdi YouTube Express kursimizisiz, atige bir oyda YouTube kanalı toğri ocip,"
+  },
+  {
+   "start": 12.24,
+   "end": 15.08,
+   "text": "algoritimlar kanday ishlaishini videolanin mantash qilishivi,"
+  },
+  {
+   "start": 15.22,
+   "end": 18.14,
+   "text": "en qizgı monetizatsiya, yanim daromat qilishi orgenas."
+  },
+  {
+   "start": 18.74,
+   "end": 22.38,
+   "text": "Yana koshib chasigi contenti suni intelektu orqali yaratish bochi tersinyan,"
+  },
+  {
+   "start": 22.46,
+   "end": 23.78,
+   "text": "bonus fatidi koshib eramiz."
+  },
+  {
+   "start": 23.78,
+   "end": 27.82,
+   "text": "Kursi akonide isisiz, 500 dolorda 2000 dolar gechi daromat topish bochi,"
+  },
+  {
+   "start": 27.98,
+   "end": 29.78,
+   "text": "en kerehli konikmaligi ege bolas."
+  },
+  {
+   "start": 30.0,
+   "end": 33.96,
+   "text": "Bi pul kansultatsi giyazili shkunisa, quydagi xawal orqali xazir qarizi qaldri."
+  }
+ ],
+ "chars": 640,
+ "chars_per_s": 18.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

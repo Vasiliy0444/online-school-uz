@@ -1,0 +1,70 @@
+{
+ "url": "https://qadam.education",
+ "domain": "qadam.education",
+ "pages_scanned": [
+  "https://qadam.education/uzum/quiz/2"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)",
+   "Google Tag Manager"
+  ],
+  "ad_pixel": [
+   "Meta Pixel"
+  ]
+ },
+ "seo_metadata": {
+  "title": "Copy of Blank page",
+  "open_graph": {
+   "url": "https://qadam.education/uzum/quiz/2",
+   "title": "Copy of Blank page",
+   "type": "website"
+  },
+  "canonical": "https://qadam.education/uzum/quiz/2",
+  "headings": {
+   "h3": [
+    "Tabriklaymiz!",
+    "${step.title}",
+    "${data.title}"
+   ]
+  }
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [],
+  "total_images_found": 4
+ },
+ "integration_links": [],
+ "hidden_elements": {
+  "html_comments": [
+   "metatextblock",
+   "/metatextblock",
+   "Meta Pixel Code",
+   "End Meta Pixel Code",
+   "Yandex.Metrika counter",
+   "/Yandex.Metrika counter",
+   "nominify end",
+   "Global Site Tag (gtag.js) - Google Analytics",
+   "@classes t-title t-text t-btn",
+   "============ ЭКРАНЫ КВИЗА (генерируются JS, разметка ниже как шаблон-контейнер) ============",
+   "WHEEL MODAL",
+   "nominify end",
+   "/allrecords",
+   "Yandex.Metrika counter 102020541",
+   "/Yandex.Metrika counter"
+  ]
+ },
+ "google_ids": {
+  "ga4": [
+   "G-PTHDY45413"
+  ],
+  "gtm": [
+   "GTM-T5VCRHRZ"
+  ]
+ }
+}

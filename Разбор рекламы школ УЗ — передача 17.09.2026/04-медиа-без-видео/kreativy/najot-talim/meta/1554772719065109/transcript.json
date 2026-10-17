@@ -1,0 +1,41 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.88,
+   "text": "Xaliam kod yazub dasturchi bolimandaysangi, zamandan xali gechi arkadi ikansiz."
+  },
+  {
+   "start": 4.18,
+   "end": 10.16,
+   "text": "Zaman xazir bit talab kod yazub otiradigan dasturchini kimaz, dasturlashini xazir suni intelek blambirgelikte organishmakti."
+  },
+  {
+   "start": 10.68,
+   "end": 16.84,
+   "text": "Xazirgi kunda addii web sadyaki serem dasturini yashbarlar suni intelek blambirgelikte bir kunda uzdi qilip koyishyabdi."
+  },
+  {
+   "start": 16.84,
+   "end": 23.3,
+   "text": "Aynan shundayi zamange masashgan xalati, Uzbekistanigi enkette Najat Talim IT Merkezi AI coding kursunam cari yikildi."
+  },
+  {
+   "start": 23.62,
+   "end": 28.74,
+   "text": "Sez ushbu kurs damidi, noldan suni intelek blambirgelikte dasturlashini xam tor ayda organisiz."
+  },
+  {
+   "start": 28.74,
+   "end": 32.64,
+   "text": "Agar zidigushm kursumus qizqbol se, huyda yi xawalarkali roi xatan otin."
+  }
+ ],
+ "chars": 613,
+ "chars_per_s": 18.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

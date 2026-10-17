@@ -1,0 +1,126 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.32,
+   "text": "Oqtu uchi lan o'zu baro oqe, tor milyar, beish milyar, som uzumda aborot qil sharka, qaray."
+  },
+  {
+   "start": 5.98,
+   "end": 10.84,
+   "text": "Oqtu uchi ozi uzumdi shilab sukak o'attidi, shuansmo o'xana sizgi or getadi."
+  },
+  {
+   "start": 11.58,
+   "end": 14.04,
+   "text": "Onglayn, agar vloyatdi basiz, onlayn oqqisay zan balad."
+  },
+  {
+   "start": 14.08,
+   "end": 19.14,
+   "text": "Agar yo, offline gelaman man getisiz oqe, qaybi metroni ejigili tiyidi choylashgan."
+  },
+  {
+   "start": 19.68,
+   "end": 20.74,
+   "text": "Xaman sizicun kulay."
+  },
+  {
+   "start": 20.74,
+   "end": 24.84,
+   "text": "Agar xalayam kalladi, baxana baladigan basi, zor taklif etaman sizgi."
+  },
+  {
+   "start": 25.48,
+   "end": 29.2,
+   "text": "Qadam education-ni 40% gechi chigirmi berish vat."
+  },
+  {
+   "start": 29.2,
+   "end": 30.76,
+   "text": "Qilla aksiyas qetu vat."
+  },
+  {
+   "start": 30.76,
+   "end": 33.88,
+   "text": "Undan tashqara, aynash qilla aksiyas paytada gelib,"
+  },
+  {
+   "start": 34.24,
+   "end": 35.08,
+   "text": "uqidi gyan bozayiz,"
+  },
+  {
+   "start": 35.14,
+   "end": 35.82,
+   "text": "buray doamadi,"
+  },
+  {
+   "start": 36.34,
+   "end": 37.38,
+   "text": "uqu qilan orasda,"
+  },
+  {
+   "start": 37.44,
+   "end": 37.7,
+   "text": "anam,"
+  },
+  {
+   "start": 37.94,
+   "end": 38.86,
+   "text": "shiriligini gorvasim,"
+  },
+  {
+   "start": 38.92,
+   "end": 39.36,
+   "text": "makvukki."
+  },
+  {
+   "start": 40.02,
+   "end": 40.7,
+   "text": "Burar tasiga,"
+  },
+  {
+   "start": 40.92,
+   "end": 42.06,
+   "text": "randomni berilad."
+  },
+  {
+   "start": 42.18,
+   "end": 44.14,
+   "text": "Malamatim sizgi yetarli bovayan gyan bozayiz,"
+  },
+  {
+   "start": 44.18,
+   "end": 45.38,
+   "text": "pastigi link boyichi,"
+  },
+  {
+   "start": 45.54,
+   "end": 47.1,
+   "text": "telefon nomorlarizi qolur sayiz,"
+  },
+  {
+   "start": 47.16,
+   "end": 47.3,
+   "text": "okey,"
+  },
+  {
+   "start": 47.4,
+   "end": 48.24,
+   "text": "meningerli sizgi,"
+  },
+  {
+   "start": 48.5,
+   "end": 49.82,
+   "text": "xama malamatdi berishaydi."
+  }
+ ],
+ "chars": 800,
+ "chars_per_s": 16.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

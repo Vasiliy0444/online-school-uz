@@ -1,0 +1,66 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.72,
+   "text": "Bulim alishdan, charchami man."
+  },
+  {
+   "start": 1.78,
+   "end": 4.84,
+   "text": "Hamagi salam, man ismim Komale, yashi migirma sakkizda."
+  },
+  {
+   "start": 4.9,
+   "end": 8.56,
+   "text": "Va man, magisla tori talabas bolish uchun kura shishke qararkaldim."
+  },
+  {
+   "start": 8.62,
+   "end": 11.3,
+   "text": "Ikh shuncho uqib, alim bolarmadim."
+  },
+  {
+   "start": 11.36,
+   "end": 15.4,
+   "text": "Bugun hayalarni yok qalib, ingilis tala darajamni yakhshilashke qararkaldim."
+  },
+  {
+   "start": 15.42,
+   "end": 18.08,
+   "text": "Is it possible to learn English online on your own?"
+  },
+  {
+   "start": 18.32,
+   "end": 19.28,
+   "text": "Yes, it's very possible."
+  },
+  {
+   "start": 19.58,
+   "end": 23.56,
+   "text": "It's possible for you to learn how to speak English online by yourself."
+  },
+  {
+   "start": 24.08,
+   "end": 26.1,
+   "text": "But you need to practice also with people around you."
+  },
+  {
+   "start": 26.1,
+   "end": 29.56,
+   "text": "Or especially native speakers or people around you that know how to speak in English very well."
+  },
+  {
+   "start": 30.0,
+   "end": 45.28,
+   "text": "Altyazı M.K."
+  }
+ ],
+ "chars": 578,
+ "chars_per_s": 12.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,31 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.28,
+   "text": "Plus, you can work in international transport logistics."
+  },
+  {
+   "start": 2.28,
+   "end": 5.72,
+   "text": "Можно работать удаленно. Для работы вам нужен только телефон."
+  },
+  {
+   "start": 5.72,
+   "end": 11.9,
+   "text": "И вам не нужно знать английский язык. Работаешь по несколько часов в день и зарабатываешь от 500 долларов в месяц."
+  },
+  {
+   "start": 11.9,
+   "end": 18.32,
+   "text": "Хочешь также? Записывайся на наш онлайн курс, пиши нам в директ и мы вышлим тебе всю подробную информацию."
+  }
+ ],
+ "chars": 340,
+ "chars_per_s": 16.2,
+ "cyrillic_share": 0.82,
+ "repeated_segments": 0,
+ "quality": "низкое"
+}

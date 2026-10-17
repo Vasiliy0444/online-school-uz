@@ -1,0 +1,366 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.8,
+   "text": "Digidlar, agar oqshama yaptim, oqimay."
+  },
+  {
+   "start": 1.8,
+   "end": 3.16,
+   "text": "Keriyamaz, maklas bu yusraf qilib."
+  },
+  {
+   "start": 3.16,
+   "end": 4.04,
+   "text": "Boshas oqadan kitib."
+  },
+  {
+   "start": 4.04,
+   "end": 5.2,
+   "text": "Isim Manzat Bek."
+  },
+  {
+   "start": 5.2,
+   "end": 5.92,
+   "text": "Na o'ydam ban?"
+  },
+  {
+   "start": 5.92,
+   "end": 6.48,
+   "text": "Yashkiz."
+  },
+  {
+   "start": 6.48,
+   "end": 7.16,
+   "text": "Yigirmada."
+  },
+  {
+   "start": 7.16,
+   "end": 8.08,
+   "text": "Oqishim baro zhoyda?"
+  },
+  {
+   "start": 8.08,
+   "end": 8.76,
+   "text": "Palitexta."
+  },
+  {
+   "start": 8.76,
+   "end": 9.4,
+   "text": "Ikkinchi kurs."
+  },
+  {
+   "start": 9.4,
+   "end": 11.04,
+   "text": "Nigay aynan dasturlar faundashin?"
+  },
+  {
+   "start": 11.04,
+   "end": 13.32,
+   "text": "Birinchidan uzum qizik amin."
+  },
+  {
+   "start": 13.32,
+   "end": 16.44,
+   "text": "Ikkinchidan binan kiyingi yunarishimga."
+  },
+  {
+   "start": 16.44,
+   "end": 17.56,
+   "text": "Ichkishliye taafshimakchim."
+  },
+  {
+   "start": 17.56,
+   "end": 19.0,
+   "text": "Kibir xafziy qibich uqimakchim."
+  },
+  {
+   "start": 19.0,
+   "end": 20.32,
+   "text": "Boshanakchim, janarishichim."
+  },
+  {
+   "start": 20.32,
+   "end": 21.72,
+   "text": "Turayli kursu tafsiyakaldi."
+  },
+  {
+   "start": 21.72,
+   "end": 22.92,
+   "text": "Yandi sawalim barim,"
+  },
+  {
+   "start": 22.92,
+   "end": 25.04,
+   "text": "itkisilargi yeki bira xafziyi bolimaya kershiki quchun"
+  },
+  {
+   "start": 25.04,
+   "end": 26.46,
+   "text": "aylan qani talabla qoyil shigini"
+  },
+  {
+   "start": 26.46,
+   "end": 27.18,
+   "text": "uruganim chikdizm?"
+  },
+  {
+   "start": 27.18,
+   "end": 27.58,
+   "text": "Yok."
+  },
+  {
+   "start": 27.58,
+   "end": 28.4,
+   "text": "Nigi uruganim madiz?"
+  },
+  {
+   "start": 28.4,
+   "end": 29.52,
+   "text": "Tavsiya qilami uruganim chikdiz?"
+  },
+  {
+   "start": 29.52,
+   "end": 30.7,
+   "text": "Slardon ilarida bagayanamda,"
+  },
+  {
+   "start": 30.7,
+   "end": 32.02,
+   "text": "min qayar il shikirim axibuqsam,"
+  },
+  {
+   "start": 32.02,
+   "end": 33.7,
+   "text": "oxu jaydi talablarimi uruganim chikam bolardim."
+  },
+  {
+   "start": 33.7,
+   "end": 34.74,
+   "text": "Khazidan urugan ardibimda,"
+  },
+  {
+   "start": 34.74,
+   "end": 35.9,
+   "text": "ozimi shungi tayallab borardim."
+  },
+  {
+   "start": 35.9,
+   "end": 37.0,
+   "text": "Ucadlarim jaydi amin."
+  },
+  {
+   "start": 37.0,
+   "end": 38.74,
+   "text": "Shahsi kemaladim shungi masmim."
+  },
+  {
+   "start": 38.74,
+   "end": 39.76,
+   "text": "Ilmim shungi masmim."
+  },
+  {
+   "start": 39.76,
+   "end": 41.68,
+   "text": "Shunde anak oizige rodmyebz bolas."
+  },
+  {
+   "start": 41.68,
+   "end": 43.48,
+   "text": "Shur rodmyebzige suba havaday zarur."
+  },
+  {
+   "start": 43.48,
+   "end": 44.28,
+   "text": "Masadi zor."
+  },
+  {
+   "start": 44.28,
+   "end": 48.28,
+   "text": "Aylan, maalavi yunarishde isliy, ishle sizan, ishki kirib qo sez ayetiyin bengi."
+  },
+  {
+   "start": 48.28,
+   "end": 50.0,
+   "text": "Ulargayim yaxshmi taqas har dami karyab ulad."
+  },
+  {
+   "start": 50.0,
+   "end": 51.04,
+   "text": "Otanizm yaxsh qal shaylan."
+  },
+  {
+   "start": 51.04,
+   "end": 53.0,
+   "text": "An dadan deyx qarlar, anan uxtochi."
+  },
+  {
+   "start": 53.0,
+   "end": 54.04,
+   "text": "Qurs turan kimi tolayabdi?"
+  },
+  {
+   "start": 54.04,
+   "end": 54.48,
+   "text": "Akam."
+  },
+  {
+   "start": 54.48,
+   "end": 54.96,
+   "text": "Yaxsh."
+  },
+  {
+   "start": 54.96,
+   "end": 55.88,
+   "text": "Akizgi rahmat."
+  },
+  {
+   "start": 55.88,
+   "end": 56.8,
+   "text": "Otanizgi rahmat."
+  },
+  {
+   "start": 56.8,
+   "end": 58.04,
+   "text": "Fakat shungi ala shay okiylar."
+  },
+  {
+   "start": 58.04,
+   "end": 60.0,
+   "text": "Bugun yaxshash har jatiziyam akizi qabriyidim?"
+  },
+  {
+   "start": 60.0,
+   "end": 60.44,
+   "text": "Hmm."
+  },
+  {
+   "start": 60.44,
+   "end": 61.64,
+   "text": "Qorqina faydalanasi ma?"
+  },
+  {
+   "start": 61.64,
+   "end": 62.32,
+   "text": "Ha, kem."
+  },
+  {
+   "start": 62.32,
+   "end": 62.96,
+   "text": "Dima ki kem."
+  },
+  {
+   "start": 62.96,
+   "end": 64.76,
+   "text": "Niki kursdagi en yarsisi ma siz?"
+  },
+  {
+   "start": 64.76,
+   "end": 66.4,
+   "text": "En yarsisi borucu hareket qil qordizim?"
+  },
+  {
+   "start": 66.4,
+   "end": 68.08,
+   "text": "Ha, haraket qaliyatlandi."
+  },
+  {
+   "start": 68.08,
+   "end": 68.84,
+   "text": "Ye, haraket qalijim."
+  },
+  {
+   "start": 68.84,
+   "end": 70.24,
+   "text": "Mena ma itisan vola da haraket qilayatlandi."
+  },
+  {
+   "start": 70.24,
+   "end": 71.08,
+   "text": "Nima qabar qalijiz?"
+  },
+  {
+   "start": 71.08,
+   "end": 72.56,
+   "text": "Mana, kimgin shonam ayitim?"
+  },
+  {
+   "start": 72.56,
+   "end": 75.64,
+   "text": "Masalan dili bir kundi talim uchun 6 saat acazikken,"
+  },
+  {
+   "start": 75.64,
+   "end": 78.0,
+   "text": "mosu 6 saatin hammasini shrungini sarifilagan,"
+  },
+  {
+   "start": 78.0,
+   "end": 80.12,
+   "text": "shambeyik shamminiyam fokus qilib sarifilagan,"
+  },
+  {
+   "start": 80.12,
+   "end": 82.4,
+   "text": "dars bomayan kullariyam qorqina kilib faydalanib,"
+  },
+  {
+   "start": 82.4,
+   "end": 83.48,
+   "text": "hammasini qaldim."
+  },
+  {
+   "start": 83.48,
+   "end": 86.98,
+   "text": "Diyiki, mendi okxamayabdiy disa, u adam yaytaman ki, uke bu soxada ketimadim ayatam."
+  },
+  {
+   "start": 86.98,
+   "end": 93.28,
+   "text": "Biro imaz, iki ay, uke tola harakabdiy qordi, hamasini qildi, akal kiotarimayabdi, uke bosho soxaya ket dimi."
+  },
+  {
+   "start": 93.28,
+   "end": 94.78,
+   "text": "Otanini plusisraf qimaygin dimi."
+  },
+  {
+   "start": 94.78,
+   "end": 97.68,
+   "text": "Agar ful harakabdiy qib, okxamayibkani bolsid, soxadan tashib qitid."
+  },
+  {
+   "start": 97.68,
+   "end": 98.98,
+   "text": "Plusisraf qitiab, chundizay."
+  },
+  {
+   "start": 98.98,
+   "end": 99.48,
+   "text": "Okamay."
+  },
+  {
+   "start": 99.48,
+   "end": 101.68,
+   "text": "Chundizay, kimliyab, qosayayataman, chugayabdiy qidilay."
+  },
+  {
+   "start": 101.68,
+   "end": 103.08,
+   "text": "Agar okxamayabdiy qib, okamayibkani."
+  },
+  {
+   "start": 103.08,
+   "end": 119.37,
+   "text": "An zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar zar"
+  }
+ ],
+ "chars": 2622,
+ "chars_per_s": 21.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

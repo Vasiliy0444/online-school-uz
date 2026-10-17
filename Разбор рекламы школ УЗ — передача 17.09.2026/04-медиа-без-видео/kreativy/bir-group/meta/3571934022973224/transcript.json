@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.32,
+   "text": "Bundan 5 yil avvel nöldan zamanavi kaspini organib."
+  },
+  {
+   "start": 3.4,
+   "end": 5.76,
+   "text": "Ustaz mediyada video montajyor bolub ishleganmam."
+  },
+  {
+   "start": 5.86,
+   "end": 6.92,
+   "text": "Vara mana 5 yil otdi."
+  },
+  {
+   "start": 7.22,
+   "end": 9.42,
+   "text": "Khuda qe shukurman ishnaqa maqshinalar alish nasib kildi."
+  },
+  {
+   "start": 9.52,
+   "end": 13.32,
+   "text": "Endi sisqam en zamanavi kaspilardan birini Bepolga organishiniz mumkun."
+  },
+  {
+   "start": 13.44,
+   "end": 17.8,
+   "text": "Bunun uchun isa 25. senti aburkunu bolub etedigin online taadima tikatini ashiniz kerek."
+  },
+  {
+   "start": 17.88,
+   "end": 22.3,
+   "text": "Bu taadima tikatini ashun isa hazroq pastagi padrobin tigmasini basib rohqatdan otuvalim."
+  }
+ ],
+ "chars": 432,
+ "chars_per_s": 19.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

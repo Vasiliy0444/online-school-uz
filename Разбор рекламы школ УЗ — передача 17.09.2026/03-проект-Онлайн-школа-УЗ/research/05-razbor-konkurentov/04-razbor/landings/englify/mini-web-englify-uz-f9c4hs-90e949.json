@@ -1,0 +1,86 @@
+{
+ "url": "https://mini-web.englify.uz/f9c4hs",
+ "school_id": "englify",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "вебинар или мастер-класс",
+ "builder": "своя сборка (фреймворк не определён)",
+ "pixels": [
+  "Google Analytics (GA4)"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Бесплатный мастер-класс: выучить английский и проводить конференции за рубежом; методика — заговорить за 30 дней, говорить уверенно без страха ошибок",
+  "quote": "BEPUL MASTER-KLASS\n22-23-24 Sentyabr·Soat 20:00\nIngliz tilini oʻrganib chet elda konferensiya oʻtkazing",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "program": {
+  "found": true,
+  "duration": "22, 23 и 24 сентября в 20:00 — одна встреча на выбор или серия из трёх, на странице не сказано",
+  "format": "неизвестно",
+  "quote": "Master-klassda siz:\n30 kunda ingliz tilida gapirishni boshlash metodikasini\nYodlagan soʻzlaringizni amalda ishlatishni\nXatolardan qoʻrqmay, ishonch bilan gapirishni oʻrganasiz"
+ },
+ "speaker": {
+  "found": true,
+  "value": "Teacher Azam — подпись (alt) фото ведущего на первом экране; в видимом тексте имени нет, в описании страницы — «Teacher Azam bilan bepul master-klass…»",
+  "quote": "Teacher Azam",
+  "where": "первый экран"
+ },
+ "social_proof": {
+  "types": [
+   "нет"
+  ]
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "бесплатный мастер-класс («BEPUL MASTER-KLASS») — цены нет, цена курса не упоминается"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": true,
+  "value": "Даты мастер-класса: 22, 23 и 24 сентября в 20:00 (год не указан; снимок от 16.09.2026)",
+  "quote": "22-23-24 Sentyabr·Soat 20:00",
+  "where": "первый экран"
+ },
+ "form": {
+  "present": true
+ },
+ "next_step": "Telegram-канал",
+ "closed": true,
+ "message_match": {
+  "library_id": "1566156487772365",
+  "scores": {
+   "promise_continuity": 8,
+   "language_match": 7,
+   "visual_continuity": 6,
+   "cta_alignment": 8,
+   "specificity_match": 6,
+   "emotional_match": 7
+  },
+  "total_of_60": 42
+ },
+ "notes": "Вариант страницы бесплатного мастер-класса (общее описание серии — в разборе mini-web-englify-uz-p4v9tz-3d58b4): фиолетовая тема, бейджи «Speaking» и «Amaliy mashqlar», фото ведущего со скрещёнными руками; пункты — набор «30 kunda … / Yodlagan … / Xatolardan qoʻrqmay, ishonch bilan gapirishni oʻrganasiz». Формы в тексте снимка и на скриншоте нет — только две кнопки «ROʻYXATDAN OʻTISH»; в HTML есть вставки «englify-modal-fix» и «englify-phone-intl», поэтому форма, видимо, открывается во всплывающем окне (у вариантов с формой на странице — поля «Ismingiz» и «Telefon raqamingiz»): form.present = true, поля не указаны. Слова «efir» на странице нет — format «неизвестно» (в роликах — «bepul online masterclass»). Цены, отзывов, оферты нет. Куда ведёт регистрация, на странице не сказано; next_step «Telegram-канал» — по роликам мастер-класса. Техника: в intel.json только GA4; вставки englify-*. Реклама: 1 объявление 1566156487772365 с 11.09.2026 (6 дней), текст общий для серии («… ✅ 30 kunda ingliz tilida gapirishni boshlash ✅ Til o'rganishni yarimida tashlab ketmay, oxirigacha borish siri … IELTS yoki milliy sertifikatidan yuqori ball …»), кнопка-подпись «MASTER-KLASSDA QATNASHISH». Ролик (черновая расшифровка, 39 с): ведущий в белом врачебном халате в больничном коридоре, титр «SHIFOKORSIZ» — вы врач, и чтобы участвовать в конференциях, нужен английский; заниматься по 2–3 часа в день не обязательно, хватит регулярных 30 минут, если знать, какие темы и как учить; «Teacher Azam», 13 лет опыта; 22–24 сентября бесплатный онлайн-мастер-класс: заговорить с нуля за 30 дней, запоминать и применять до 50 слов в день, получить сертификат B2; регистрация по ссылке и закрытый Telegram-канал. Заголовок «chet elda konferensiya oʻtkazing» подхватывает хук ролика про врачей и конференции; из обещаний ролика на странице есть только «30 kunda … gapirishni boshlash»; нет «30 минут в день», 50 слов, B2, 13 лет опыта и самих врачей. Текст рекламы про конференции ничего не говорит."
+}

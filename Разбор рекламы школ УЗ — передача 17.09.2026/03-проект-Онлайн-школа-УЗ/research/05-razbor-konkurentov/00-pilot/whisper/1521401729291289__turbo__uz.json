@@ -1,0 +1,60 @@
+{
+ "library_id": "1521401729291289",
+ "model": "mlx-community/whisper-large-v3-turbo",
+ "language_arg": "uz",
+ "detected_language": "uz",
+ "seconds": 5.5,
+ "duration_s": 26.6,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.16,
+   "text": "Baadlar yoki uqo kurslari sotkansiz unde biz aynen sizi qadrvamiz."
+  },
+  {
+   "start": 4.38,
+   "end": 7.82,
+   "text": "Qadam edikishin nii sato bolimi ki tajribani menedjerlar kereki."
+  },
+  {
+   "start": 7.98,
+   "end": 10.3,
+   "text": "Talabla Addi, ontoxu yashdan qadda bolishiz,"
+  },
+  {
+   "start": 10.38,
+   "end": 12.22,
+   "text": "tajken shahra yoki biloyatda yashashiz"
+  },
+  {
+   "start": 12.22,
+   "end": 14.24,
+   "text": "vakiamida altay tajribes bolishkere."
+  },
+  {
+   "start": 14.48,
+   "end": 17.26,
+   "text": "İş grafiki ir talabki saat ondan keçki saat yetti gece"
+  },
+  {
+   "start": 17.26,
+   "end": 18.56,
+   "text": "vah haftasigi bir kundam."
+  },
+  {
+   "start": 18.66,
+   "end": 21.46,
+   "text": "Bizdi menedjerlarimiz orta ki uçayda altı yetti milyon"
+  },
+  {
+   "start": 21.46,
+   "end": 23.84,
+   "text": "vah altaydayse on, onikki milyon top yapti."
+  },
+  {
+   "start": 24.08,
+   "end": 26.42,
+   "text": "Taklifimiz qızubisi, xo zirok arizi qaldirin."
+  }
+ ]
+}

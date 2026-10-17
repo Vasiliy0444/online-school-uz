@@ -1,0 +1,276 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 30.0,
+   "text": "Jamar zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart zart z"
+  },
+  {
+   "start": 30.0,
+   "end": 34.44,
+   "text": "Bazda u gulmi qorushimum qo ayna xozi bil faytda, chunki chasini maktab got kyanman"
+  },
+  {
+   "start": 34.44,
+   "end": 35.64,
+   "text": "Qaysi khusus qimaytad u qiz?"
+  },
+  {
+   "start": 35.64,
+   "end": 36.52,
+   "text": "Rigistondi"
+  },
+  {
+   "start": 36.52,
+   "end": 43.5,
+   "text": "Shambi-akshambi kullarikyan, darsdan qiyan qoqab, najotda qorqayn da qaytadan qib chqib, qoshimchalarini, ustazgi ayitama tekshirib beladili"
+  },
+  {
+   "start": 43.5,
+   "end": 45.1,
+   "text": "Qiyan sport bulunam shqolinyam"
+  },
+  {
+   "start": 45.1,
+   "end": 45.6,
+   "text": "Qaysi?"
+  },
+  {
+   "start": 45.6,
+   "end": 46.4,
+   "text": "Tekyvandaz dush"
+  },
+  {
+   "start": 46.4,
+   "end": 47.56,
+   "text": "Volla ularikyan sita"
+  },
+  {
+   "start": 47.56,
+   "end": 49.7,
+   "text": "Maz, maksadlays qana qayt gelijag uchun?"
+  },
+  {
+   "start": 49.7,
+   "end": 52.0,
+   "text": "Birinchi xazi mayla da ECT topshirama,"
+  },
+  {
+   "start": 52.0,
+   "end": 53.9,
+   "text": "qiyam el solama, uqshlik tugu atib,"
+  },
+  {
+   "start": 53.9,
+   "end": 55.16,
+   "text": "qiyam topshirq korama."
+  },
+  {
+   "start": 55.16,
+   "end": 57.7,
+   "text": "Sizi regizisoyna en fahli uqshlarida mbi regiyanaynayz."
+  },
+  {
+   "start": 57.7,
+   "end": 60.3,
+   "text": "Agar makti mamuriyasiz banjdi yax togur islaysa."
+  },
+  {
+   "start": 60.3,
+   "end": 62.26,
+   "text": "Sizi en yaxsh universitetlalika tarikatnayin duniyana."
+  },
+  {
+   "start": 62.26,
+   "end": 63.3,
+   "text": "Qol izan kilaydi, binm olim."
+  },
+  {
+   "start": 63.3,
+   "end": 66.3,
+   "text": "Uzi universitet talayikanda ilajibaric yunarish talayish kirayi"
+  },
+  {
+   "start": 66.3,
+   "end": 68.1,
+   "text": "vay yunarishkyan basilay universitet talayish kirayi."
+  },
+  {
+   "start": 68.1,
+   "end": 69.74,
+   "text": "Vay albidda sizdiki mentor qosn."
+  },
+  {
+   "start": 69.74,
+   "end": 71.26,
+   "text": "Duniyani top universiteti qirigan"
+  },
+  {
+   "start": 71.26,
+   "end": 75.26,
+   "text": "bir orta oda nida oz ila iya mentor qib olili iltimas qilini, kandini qilini niki dan orqali"
+  },
+  {
+   "start": 75.26,
+   "end": 76.26,
+   "text": "ular bilan geplas qilari"
+  },
+  {
+   "start": 76.26,
+   "end": 80.26,
+   "text": "man opam oz angiliyadi, opam qub uniyyoyla qitabchirgin, ameriki ge, angiliyagi"
+  },
+  {
+   "start": 80.26,
+   "end": 84.26,
+   "text": "opam qib ro, amerikidan qora angiliyaya xiratini qiradib, angiliyaya tanlayi"
+  },
+  {
+   "start": 84.26,
+   "end": 86.26,
+   "text": "IT box universiyati qinaqi talinladi"
+  },
+  {
+   "start": 86.26,
+   "end": 89.26,
+   "text": "burin chorinda dunyali en yakshi IT box universiyatini sarilarib olinladi"
+  },
+  {
+   "start": 89.26,
+   "end": 91.26,
+   "text": "ee orqali ik sizdan buladim, nasar"
+  },
+  {
+   "start": 91.26,
+   "end": 94.26,
+   "text": "sarilab ogan izdanki, indi ular qayisi davlatlarida"
+  },
+  {
+   "start": 94.26,
+   "end": 96.26,
+   "text": "100% grand biladi miyoki yogmi"
+  },
+  {
+   "start": 96.26,
+   "end": 97.94,
+   "text": "Yaqani, Dilar Fuzur diyan qizimiz grand liyt."
+  },
+  {
+   "start": 97.94,
+   "end": 99.58,
+   "text": "Tuxlardib, blan, baqlari sanfsi yapilama."
+  },
+  {
+   "start": 99.58,
+   "end": 101.38,
+   "text": "Qupra grand utkyan, baqlari blan yapilash qiri."
+  },
+  {
+   "start": 101.38,
+   "end": 102.7,
+   "text": "Nima laqaldi, nima hataqli laqaldi."
+  },
+  {
+   "start": 102.7,
+   "end": 104.58,
+   "text": "Agar, partifolio zor qibiyaxsiz baqyo,"
+  },
+  {
+   "start": 104.58,
+   "end": 106.06,
+   "text": "misnigi 100% liy grand birishan."
+  },
+  {
+   "start": 106.06,
+   "end": 108.3,
+   "text": "Kin kanakadir tashkilatchi liy ishlari qopayatish qiri."
+  },
+  {
+   "start": 108.3,
+   "end": 109.38,
+   "text": "Mahtad khuduzda boshiyam,"
+  },
+  {
+   "start": 109.38,
+   "end": 110.58,
+   "text": "nacatdar nuzda boshiyam,"
+  },
+  {
+   "start": 110.58,
+   "end": 111.7,
+   "text": "kanakad tadbirli aqliliyla,"
+  },
+  {
+   "start": 111.7,
+   "end": 113.98,
+   "text": "urjitdi kamurdi hos aqliliyla kanakadir."
+  },
+  {
+   "start": 113.98,
+   "end": 114.9,
+   "text": "Quslar qiriydi,"
+  },
+  {
+   "start": 114.9,
+   "end": 116.9,
+   "text": "Unna ki, dimakim ah tushaq, kur tuket kani zakin?"
+  },
+  {
+   "start": 116.9,
+   "end": 119.7,
+   "text": "Dokuz nasan tuket gunim chi, online yashlamax shiman?"
+  },
+  {
+   "start": 119.7,
+   "end": 121.1,
+   "text": "Shilamiyay, startuplar yako shilay."
+  },
+  {
+   "start": 121.1,
+   "end": 124.5,
+   "text": "Ishqanada masuday kubraq kushlay, startuplar da anchi erki rob olansiz."
+  },
+  {
+   "start": 124.5,
+   "end": 126.5,
+   "text": "Jamavelik kubraq kushlay rob olansiz."
+  },
+  {
+   "start": 126.5,
+   "end": 128.5,
+   "text": "Vab, onbi shunashdan siz ichgin qanun nishki olmaydi dha?"
+  },
+  {
+   "start": 128.5,
+   "end": 130.5,
+   "text": "Startuplar ikgin olansiz jamasigin."
+  },
+  {
+   "start": 130.5,
+   "end": 133.0,
+   "text": "Startuplar jamasig yokurlilad, bol, qayosig yokurlilad."
+  },
+  {
+   "start": 133.0,
+   "end": 134.7,
+   "text": "Xamma zor qalib shilaydi, bol."
+  },
+  {
+   "start": 134.7,
+   "end": 136.7,
+   "text": "Adonizgi rahmat, yaxsh tarabaya berishibdi."
+  },
+  {
+   "start": 136.7,
+   "end": 141.2,
+   "text": "Anyayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayaya"
+  }
+ ],
+ "chars": 3272,
+ "chars_per_s": 23.2,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

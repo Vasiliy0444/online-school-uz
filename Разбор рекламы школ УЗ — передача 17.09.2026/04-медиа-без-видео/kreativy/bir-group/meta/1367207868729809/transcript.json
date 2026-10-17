@@ -1,0 +1,36 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.78,
+   "text": "Zamana vekeslarni örgani maqchibigan yashlarga acaib unkanayat. Biz, bir grob jamasi, yi tqil yonayalishi boyi chab, 500-ta yashlarini Bepulga oqitmachchimiz."
+  },
+  {
+   "start": 8.92,
+   "end": 13.9,
+   "text": "Bunda aldingi guruklarimizda bitirgin oquchilar, 650 milion somdan kop daramad tapishti."
+  },
+  {
+   "start": 13.9,
+   "end": 17.26,
+   "text": "Endin abe, sizdiki, saman aykaslan, bepl gorgan maqchi bosez,"
+  },
+  {
+   "start": 17.34,
+   "end": 21.64,
+   "text": "pastayi digi manibasi, 1.25.1.1.g.n. boladiyan online taqdimatunisiya qatnashin."
+  },
+  {
+   "start": 21.76,
+   "end": 26.26,
+   "text": "Taqdimatda kumla grantke xoshilishi munkun, anaqa shatilari var, bat asil, xunturamiz."
+  }
+ ],
+ "chars": 477,
+ "chars_per_s": 18.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

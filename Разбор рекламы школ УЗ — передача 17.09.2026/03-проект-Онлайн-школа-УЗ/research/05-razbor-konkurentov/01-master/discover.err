@@ -1,0 +1,431 @@
+[INIT].... → Crawl4AI 0.9.3 
+[CAPTURE]. ℹ Error capturing response details for https://www.facebook.com/__rd_verify_Q_6hBQRhTr4E88ttiMtE5YXLGZYhW2rm_9CU06FK7LWRhGqFTw?challenge=3: cannot access local variable 'text_body' where it
+is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://static.xx.fbcdn.net/rsrc.php/yF/r/8WoHlMpBzYd.webp: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://static.xx.fbcdn.net/rsrc.php/yu/r/8LAACOStowi.webp: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-2.xx.fbcdn.net/v/t1.30497-1/85215299_479381239411958_7755129104415850496_n.jpg?stp=c379.0.1290.1290a_cp0_dst-jpg_s50x50_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2f7377&_nc_ohc=FHTdqLoruZEQ7
+kNvwFiwi8U&_nc_oc=Adqfv3PgVFfkUNKCbp8vftkUV0XYx80vV8qGbdvkjIq950ietMRQvOOTnLssvynDfFI&_nc_zt=24&_nc_ht=scontent-cdg4-2.xx&_nc_ss=7b289&oh=00_AQIYxjBSdk4o5LUUf6bHWDGyreBOVCRfsEWQ19_e_U8ouw&oe=6AD23A56:
+ cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://static.xx.fbcdn.net/rsrc.php/yH/r/c_1vdG88uNh.woff2: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://static.xx.fbcdn.net/rsrc.php/yU/r/zSaFQ46AO2w.woff2: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://static.xx.fbcdn.net/rsrc.php/yh/r/pXADmoqqN0T.woff2: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://scontent.xx.fbcdn.net/hads-ak-prn2/1487645_6012475414660_1439393861_n.png: cannot access local variable 'text_body' where it is not associated
+with a value 
+[CAPTURE]. ℹ Error capturing response details for https://static.xx.fbcdn.net/rsrc.php/y0/r/6tdeF54amQM.webp: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/753865407_2484116765348370_2260498037850711771_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iwZ0hBn29ikQ7kNvwH7z3P6&_nc_oc=AdrIAG6ksO-_Z0aFh4B-36
+MROS3-o4OF6Wo0gtU_oJWL8IOvh5djQWXBlkHRxjJ4954&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQL7SVIaAgt4auiMHV3ddyfl5RjP6ecoodV7Pxm6m2jv3g&oe=6AB07E34: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/752648966_4348976912036211_1805409623631617860_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ldwrr0aSZwUQ7kNvwF7i6xW&_nc_oc=Adr1fl23QVzbzLQq8XGz66
+c-sDTCP3Mmf5WZQQo6HcMzmhuC8aO7j0_EdpmUcf360xQ&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQImOCoEeoauIY9U0JV5Q5ixgOn-CO9q_F2fuJz7Mdp-xA&oe=6AB069A0: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/809876106_1577010540870791_186794710352830606_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=luuUEOLWodQQ7kNvwFH2AZX&_nc_oc=AdqByxokldedvrvNy1hJSqD
+20rTOcnKixyFyct5E7-Nvm7Yc1WOrhNYScQTDyFAatz8&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQILFj4QdxyY76bpHl_-oQpfTJB95kdf-va39LyuPMK70A&oe=6AB08C18: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/745644805_1505164337565816_4928067955625247816_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n_bqxpDUpJgQ7kNvwG8RYoO&_nc_oc
+=Adpgg7DNTId-DlJImAvcpD9jmO2ruRCgfHEXPqe6rW567t1cHFZnDO3bvPA-_svInBk&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQJmJVus9IlfLX4Xz_NqVomPeZ1xiZ_59UH3uGMOipdEj
+w&oe=6AB077D0: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/750617668_1026513860202497_3608978493822911689_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AvlrfDKA84wQ7kNvwGwktS1&_nc_oc
+=Adp-SWeXKAxfYIwtndIUnSYYG461sYp_76EJSIBenGm0EeTEphyeh0JoYZ3yZxaHRGA&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQJpWsq6EI7iMRf4IGb7YspRErbrO6QXfy06fnZ-EcT7r
+g&oe=6AB0881E: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/801009181_1636280344814179_947451299869346488_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NXwwx2J-D6cQ7kNvwGdzTxJ&_nc_oc=
+AdrHq0bMym_U18ILrzJynLA_rOjeOd7dMG3IHhkgCR4hUnjkTpnRtGCGf8QYXSO2jzc&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQIZN2eehZ657N6pJlu_TwM_FGcdHyVqzH0FVlUuAuBZYA
+&oe=6AB06977: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/808929629_1805695170869376_3492439438716019882_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h8e4ey85px4Q7kNvwG2Z-Yg&_nc_oc
+=AdrgaIrdpaVmXMdUdH4CPueK9SasjNH5YV3GzShHvToD0m6O33zYZsnRSYkRxA3Hs60&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQKq_HBReIqbqqxpmo0IE2kOBNdKoBT7WWIfG_dOuSV-f
+Q&oe=6AB079F8: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/811994108_1741488327131949_8670565043461284529_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TOsJZRX5gNwQ7kNvwGsoyyo&_nc_oc
+=AdqUy4-VhdAnWra90pzvEIx5I5eMaytqq__FBITnAEjxVS94CZhOGvHdnBDjvurqikc&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQKWT4zYiK6a1BPgLyifKxPSBY73O0mkl6UGCINT2VtOr
+Q&oe=6AB073E2: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/799308446_1426063322767295_984588820733875282_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dfdLoMiXqZMQ7kNvwFD5IML&_nc_oc=Adq-SVoFnXUveUGOx4BeLts
+WmP129h3BJBs6NQ0jUu7FSCRorScD3oy-B6zTzmF9PGU&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQJOnxqxyFc43jr9wdoUBQfY0ubiIhvQlvQ3-P4UF5JaYA&oe=6AB08B6C: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/753970732_1670693997343800_3225539410673799716_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4S1FdDg3c1QQ7kNvwHILd33&_nc_oc
+=AdrDFKP_HaZjxNzBj_JpINfPzd0Oqd22M4j5qa_1JBp8bvnhuohVc7qvda7pq1DvVgY&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQI2LF-B4uXRIEPJrrtdLUj9prix-96-bee8nRVnjKsj3
+g&oe=6AB06E74: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://static.xx.fbcdn.net/rsrc.php/yg/r/HyqLWQiplYl.webp: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://static.xx.fbcdn.net/rsrc.php/y-/r/uhBloS7nYQk.webp: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/809844133_916295787866081_9171593965980648709_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RTuTv9I0oCUQ7kNvwHsELH2&_nc_o
+c=AdqE_-yhH0fXBvmDGBvldGd7Bc_58l6wzv6W5gE1FtErPYLMSJALTfzqe3AEygnsR3Y&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQILKNumsccbxrSWsuI3a5uEa-IQUBBcNqrhWbLMJHqK
+tg&oe=6AB09A0B: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/809226363_1384587686599875_1108661907764463594_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0B5JQ4xCV80Q7kNvwEKyZKN&_nc_oc=AdpMGOL83TobtA2pu_Kksk
+fzDcS_s3p4rEEi2ptlrHsTCDlW-hNwOLHWFv3cSIYFS1c&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQI0dMEyUhEmrUkhnq9vrhmXdpJVvfs4MW0l6Em3kME5QQ&oe=6AB07444: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/810556722_1098761719567037_1439598240225092330_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1kU-y8tT0YQQ7kNvwHcieIK&_nc_
+oc=AdpZfw-NYoX7rXNmWAvGQcFYPRzKWWpnnh4ZwtSkwytU3jRKsscJv_ToOwjrJh9-Unc&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQLXKg6dYtoF9y_QokHgpcauK6vJcgtn3Y7Mas70L8m
+v0w&oe=6AB09549: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/812342973_3560222587461916_3924862825023945817_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=54ZmpuejjjsQ7kNvwHGTq67&_nc_oc=Adof9uIGXl2SreJmu1XFte
+9zvwIx5hScofXEAjMBivNVA3NiXToP9d-kCq4Hg7QZ4vk&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQIfOxhE4WTPcVuIJ2ux0-D_gjxb7eb8Cbq8Sxd-xnx8zw&oe=6AB07B81: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/812940316_1082989280773683_104000885281693474_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k_YJ1hk01tIQ7kNvwE2T4oJ&_nc_oc=
+AdqbqPQqTND08uBFhWv77arS6vzwjMqOQYChWLwNu1ISyKL76HXG7Bi5xVVpu4xvxvg&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQLrGsQGr6pcDFjpDgCGh5RMZueoeWJBqS6hgpuwrKE7qg
+&oe=6AB06F33: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/800469568_1713769333051127_6767210090006077969_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LfF8hvPs0koQ7kNvwG74Weg&_nc_oc=AdrxIcBUPVm1T-n_Xkh-z-
+mXQBUbh_YVRdQnudF9ENkR-gbe0O-Vekx4deruKL4cWUs&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQJqav1M_BSC-AHgCH03erh7r6oHv7nG1tBDYdyT2k9-YQ&oe=6AB086D3: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/800086886_1452070547020338_1307314745383913335_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oFQwUwQCPfIQ7kNvwHXBe5f&_nc_oc
+=AdrllPbIZ7zSGAO4LKIPduSzsoIPt4cs4u7FmPo7RV10fr4_eUVfL22fLR0mwMR86Is&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQJaIKhC30CRWIQ9hc_4TApCXPfhLpTF1twzHNrKn7elk
+Q&oe=6AB0979D: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/810090947_1360180469242316_4801935625214332145_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H-oLG2sSjukQ7kNvwHoDKQr&_nc_
+oc=AdoD2vN9vrLF9gaY-uxlQJRX9_RvXe-6n9TSIEr-EU1-BXjHwNTkdFQnX-6c6Rvaz08&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQKFpiA6opSDXUllDKh-eoY3Ir4as4iQ8JFwPEinM46
+_1Q&oe=6AB07534: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/813420908_1506341661513529_7196893102503801442_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qG4m2YxzX2cQ7kNvwE9Xi2y&_nc_oc=Adp3uW4eW8w2Oiyt5cSqkU
+iW0nTM--dDChqLNZZmyl4ZxJtvL3ksUE57n9TdHMDKoBI&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQLY3v1wysMZODJiW6XGfvAyQ8plzCHPf54Kb5aTLK8EPw&oe=6AB06B03: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/813775175_1065867736060738_494755535227972895_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1ph0jW74JisQ7kNvwFmvpIn&_nc_oc=
+Adp4uU-QNPzD26k-2PGjgI-eRbFgpyBPKHtQ83twt6Pe0CSHz4xzvw2kSQGKcr7Fuhc&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQJt1WvxdMM_wwrLdOoHcXeFcVgqWFiAU4VaaNY4VRuVYQ
+&oe=6AB07E90: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/809979339_2611022102662292_7752347004974989479_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MBDFArtarwIQ7kNvwHVyg2A&_nc_
+oc=Adrp3GELEQ2ApaT9wRJdlfOVUQpv8I4jLW3GhewhTlEXoJngmz0jst5DoBIvT08Fw9c&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQJEbwWd9fHTmqnb_ZCJ3khFNPIFxbWKyfGVPX8Vx7E
+Hew&oe=6AB09028: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/751469451_1066846122442373_2207658557565367411_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BKFAykUwVGEQ7kNvwEARZpL&_nc_oc=AdriZmnthwQczd4ZxX2M9q
+20ko2P4VCUT2WuU1VzdJd74nzUjtFBQ2Wtseu1bmL0U40&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQLj0r7eDJAmxyN6vwYa3jhJRovTunQn70RnJJIauE87Fw&oe=6AB06A1B: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/810623541_4497469280495253_2994145302604948274_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MFXLJsuIuq4Q7kNvwGjOHcA&_nc_oc
+=AdqU31wJCUGPTYIWO8-rtdpMRAOvqXXz8Eo67MF9IPpmAG0-USU6tK5MZVLZ9jTf_XE&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQK1QMKDBnHnxZvPkRQKLoZe1bstzAbEP22B5Oxp38Ut6
+g&oe=6AB09D3D: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/809730074_1018359551233568_6853034784630338259_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HkH2cWfIAAEQ7kNvwFPfZM9&_nc_
+oc=AdpBV7EgBxzfYSxHW304AWK0hj9sDzTSvT76ockFAyi526UYGxzMrhwvRnmohVSzNMU&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQJO_k8kGMnTDKieCNcA8ye5_yIn-Ign5jM4NXZUQXI
+uXw&oe=6AB09758: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/812875822_2032053324092854_3416706301801899253_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XAliHoWWDB4Q7kNvwHISubZ&_nc_oc=AdoJKmbKU9GvqZ4bDQVWHh
+pyngm6JmCPrzfxnwaojCbPFDmiNHt0WTTlboXvWu364Bs&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQKKljPP4dw06d7LDjJFoudLXbOU3SbUwy813myHqB65TA&oe=6AB07DEF: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/800642795_1073844208391644_3177900639021567942_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9eD7qmQ-5qMQ7kNvwES5OtY&_nc_oc
+=AdpRSSg8JvS-8otZMcReLPdhdIikejofpZWV0WyYiwKTzFICFtUTfNcr1oLmBagaBP8&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&oh=00_AQJUSaOvEaC2JRaxwl48fKmQAmAt6_dk68tGQ4MM1uf3q
+g&oe=6AB09157: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg4-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQNoqLuZNytUbXd-X51PB5v8s4PkgYJdix6csWDDXM4UfLYPfS35saW1m3DZIqCHWnYAM4dS2tMn1DATn_3SrFoZvn-uIPmjnNnqJQjkDw.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video
+-cdg4-2.xx.fbcdn.net&_nc_ohc=LKIToRWzhBEQ7kNvwEkdMwq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V
+0X2lkIjoxMDkwMjc2NTcwMDgzOTE2LCJhc3NldF9hZ2VfZGF5cyI6NiwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&_nc_zt=
+28&oh=00_AQJsbzOQ9m3KiPvtjbUhnVwDTz0M2932vDQ_YGMS7Ez3gw&oe=6AB098BD: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg4-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPcnKCZMwYKkNKDBr6qijU-4qCOlaIe1lNzaJ5VmRtDfu7dhsbtOqygdBGW2RANndiecd4SN17dslhxx1oMZdJW0Ah7EQWwNfFoii5w6w.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video
+-cdg4-1.xx.fbcdn.net&_nc_ohc=V1gDl4C8e4MQ7kNvwETKQ4J&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NDQwOTMzNTA2OTM5MTc0MSwiYXN
+zZXRfYWdlX2RheXMiOjE3OCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjU0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&_nc_zt=28&oh=00_AQLHsWWKWyfXyJGlWS2xMUK
+VU7QGRNegoIFEJyIPl8M2Og&oe=6AB09968: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg4-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQNv1dwyrtb-ImKP-wqrdP7QUSi8svCKf0F_Uj_RUHPWaoGHvnNp5EWb5bDDrFlLy-dimfQh7ld2h6J742L9FMVvJo9h98mgZgtNqH7uyA.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video
+-cdg4-3.xx.fbcdn.net&_nc_ohc=QUB9v91Gh8IQ7kNvwEP_YGk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTE2OTQwMzUxNTM1MDI2OSwiYXN
+zZXRfYWdlX2RheXMiOjg2LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&_nc_zt=28&oh=00_AQI7s1R_1-v9TDC1PPXbw
+JlHxqdqjtCcPUfAg9lJ_2CNiw&oe=6AB08B80: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOlOdi--PqKT4oFMml5r0keVZ1p60iNiAJToTqLJwg0EnoIkEqFZa6cU-dGj6wNvUnqjzCNq5AWR-QsuGcCr1kS7-cfusGQgeP_olP0-w.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video
+-cdg6-1.xx.fbcdn.net&_nc_ohc=7ljZzFV0a5kQ7kNvwEhvBsj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTczNTc1NDM0NDIwNzUxMSwiYXN
+zZXRfYWdlX2RheXMiOjcsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo1NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&_nc_zt=28&oh=00_AQLr0K0VwDCxojimlgK7OCQM8Un9z
+y6-d3mQIv9kMRrfgg&oe=6AB08F61: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg4-2.xx.fbcdn.net/o1/v/t2/f2/m69/AQPa5KEveYJvoRn3WLjb-X8WBu4wcNKhvnUFjJRYJHLnyA5_YnG3F1rN4UekuazGN1XNwGfcWx9sDeZddOX0dnS7.mp4?strext=1&_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-cdg4-2.xx
+.fbcdn.net&_nc_ohc=x3kfRhJbYWMQ7kNvwF4k3cB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjQ0MjQ1MDI0NjA5MzM1MSwiYXNzZXRfYWdlX
+2RheXMiOjUxOCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE0NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&_nc_zt=28&oh=00_AQJwkDsqFy-l4pWwYiVqKJpX4EEoTTovtu5
+0UMbp0clXzA&oe=6AB06989: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg4-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOXbKW2rKwrkLZXmrgxM5U3t-y_ZlW2wWQQ8BIZvqAlSYegQ-3vVQle0KwW7bnaWPnDZVWtmaGFhbeNoGKvF3APrj-hncjDoXvtEwQ1eQ.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video
+-cdg4-2.xx.fbcdn.net&_nc_ohc=GGqmHnSVrEYQ7kNvwELBX8D&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc1MjI1MzYyOTM3ODAyNCwiYXN
+zZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo2MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&_nc_zt=28&oh=00_AQJabATValRAI-mju0zQtOIp3pPT3
+J36u9bnyWN-9gYuFg&oe=6AB06C45: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg4-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQMFtAFU3eldZjiQnmAaf5KgBJmPXNX9kB8NMjBy_yynRCsv9nngQra4fPmqJQc29QJ4mxRVJ60WECFh2d9hYF_arUTM-zGDAvg2Cu013A.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video
+-cdg4-3.xx.fbcdn.net&_nc_ohc=ZXgliqb5NXsQ7kNvwG9fAhs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjUwNTU4OTE1MzI2MzQxOCwiYXN
+zZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo0NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&_nc_zt=28&oh=00_AQKBxG24D87hxbtzC0YNTNLtJG5SM
+pdLhRBOMQZGyQQTXQ&oe=6AB06D44: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg4-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQOdQoDh2WXK_SZfoY32QecM6aBc_M-kVZGz_Ai2i60-cbvOuM7H55JOCvGjDE2HAczA3N5HfsKrxOqdXXcimYLGfTm17F23W8FEgDClNg.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video
+-cdg4-2.xx.fbcdn.net&_nc_ohc=a1IlOEKytKkQ7kNvwGEFiDE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V
+0X2lkIjoxNTg0NjEzNDMwMDc2ODgzLCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjUzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&_nc_zt=
+28&oh=00_AQItt5KzseS8wn_1GoK-92eHZKCK0HYPd6PyS7BNG0ziIQ&oe=6AB076DF: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg6-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQPRBRKr2PCBaEcJCR-m-7h8YzqzH03gBRKb96U1RNhNpilCI_rUpexoY8Hnsa25WiYGjj42xg8mmuNEPdJBUFivno4J2hUeuUdYRqFqxQ.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video
+-cdg6-1.xx.fbcdn.net&_nc_ohc=MNSDTqCQd-UQ7kNvwEgfc3F&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V
+0X2lkIjoxNjI4MzIyNTcyMTQ5NTE2LCJhc3NldF9hZ2VfZGF5cyI6MiwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjczLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&_nc_zt=
+28&oh=00_AQLEho6pXy-jAePqC3ke3MmL4GE9yB6jBVTOXBMe9qEo_g&oe=6AB07DDF: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOyLPfzwL7ix_2KueAmx1T8gDU9ato0s7L7P7ZmeRnx6kIYImG31P54VfEVXhU0wOcq9cGwsg6JiFPwvh1uP0MPvJRwFgOzjURF6_vs7Q.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video
+-cdg6-1.xx.fbcdn.net&_nc_ohc=ub7rpPk5-2EQ7kNvwEyPXh7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM5OTA0MTEzMjQwNjc5NCwiYXN
+zZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=Da8YO3IzFUBtA-KCNwbikA&_nc_ss=7b289&_nc_zt=28&oh=00_AQJxsv_BU-R2rCsYXtiYgxJNPXj8d
+urBPaYJUDkDzDYvNQ&oe=6AB08821: cannot access local variable 'text_body' where it is not associated with a value 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...ll&q=bepul+vebinar&search_type=keyword_unordered  | ✓ | ⏱: 14.53s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...ll&q=bepul+vebinar&search_type=keyword_unordered  | ✓ | ⏱: 0.22s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1736134 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...ll&q=bepul+vebinar&search_type=keyword_unordered  | ✗ | ⏱: 14.79s 
+[INIT].... → Crawl4AI 0.9.3 
+[CAPTURE]. ℹ Error capturing response details for https://www.facebook.com/__rd_verify_Q_6hBQRhTr4E88ttiMtE5YXLGZYhW2rm_9CU06FK7LWRhGqFTw?challenge=3: cannot access local variable 'text_body' where it
+is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://static.xx.fbcdn.net/rsrc.php/yF/r/8WoHlMpBzYd.webp: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://static.xx.fbcdn.net/rsrc.php/yu/r/8LAACOStowi.webp: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-2.xx.fbcdn.net/v/t1.30497-1/85215299_479381239411958_7755129104415850496_n.jpg?stp=c379.0.1290.1290a_cp0_dst-jpg_s50x50_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2f7377&_nc_ohc=FHTdqLoruZEQ7
+kNvwFiwi8U&_nc_oc=Adqfv3PgVFfkUNKCbp8vftkUV0XYx80vV8qGbdvkjIq950ietMRQvOOTnLssvynDfFI&_nc_zt=24&_nc_ht=scontent-cdg4-2.xx&_nc_ss=7b289&oh=00_AQIYxjBSdk4o5LUUf6bHWDGyreBOVCRfsEWQ19_e_U8ouw&oe=6AD23A56:
+ cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://static.xx.fbcdn.net/rsrc.php/yH/r/c_1vdG88uNh.woff2: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://static.xx.fbcdn.net/rsrc.php/yU/r/zSaFQ46AO2w.woff2: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://static.xx.fbcdn.net/rsrc.php/yh/r/pXADmoqqN0T.woff2: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://scontent.xx.fbcdn.net/hads-ak-prn2/1487645_6012475414660_1439393861_n.png: cannot access local variable 'text_body' where it is not associated
+with a value 
+[CAPTURE]. ℹ Error capturing response details for https://static.xx.fbcdn.net/rsrc.php/y0/r/6tdeF54amQM.webp: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/753970732_1670693997343800_3225539410673799716_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4S1FdDg3c1QQ7kNvwHILd33&_nc_oc
+=AdrDFKP_HaZjxNzBj_JpINfPzd0Oqd22M4j5qa_1JBp8bvnhuohVc7qvda7pq1DvVgY&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQKFHTWETalssEewnBsLoyzdTvP1jkMi5xBj1XpIf2FFB
+Q&oe=6AB06E74: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/752648966_4348976912036211_1805409623631617860_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ldwrr0aSZwUQ7kNvwF7i6xW&_nc_oc=Adr1fl23QVzbzLQq8XGz66
+c-sDTCP3Mmf5WZQQo6HcMzmhuC8aO7j0_EdpmUcf360xQ&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQILeg8-ktyiqpigrto_bu73Xa1qQPWKvYEUyuQs8z6zow&oe=6AB069A0: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/753865407_2484116765348370_2260498037850711771_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iwZ0hBn29ikQ7kNvwH7z3P6&_nc_oc=AdrIAG6ksO-_Z0aFh4B-36
+MROS3-o4OF6Wo0gtU_oJWL8IOvh5djQWXBlkHRxjJ4954&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQK6fGr7sNR20S4jjxvy5lVQsc3VpYgxc3hKwdOhfiq6eA&oe=6AB07E34: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/813775175_1065867736060738_494755535227972895_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1ph0jW74JisQ7kNvwFmvpIn&_nc_oc=
+Adp4uU-QNPzD26k-2PGjgI-eRbFgpyBPKHtQ83twt6Pe0CSHz4xzvw2kSQGKcr7Fuhc&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQLf2v-ykBZCcFeyGtXUnXbzQU1UgNV7IfIGK7ppU_TuGA
+&oe=6AB07E90: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/754159962_2576094982835903_8783026714759488945_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kvdDzDC2plwQ7kNvwF1ynVt&_nc_oc
+=Adq_wE5kJbFeECUqPSEOHerjFhwNWDNFpBKaUM7N7m_d7H11mkGn32Ajh9ptPpH5IhY&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQKyWWZE6aL3VAfuCA3JyvmC8CuON38XKdOJmIPLHJEtN
+A&oe=6AB068A0: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/811994108_1741488327131949_8670565043461284529_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TOsJZRX5gNwQ7kNvwGsoyyo&_nc_oc
+=AdqUy4-VhdAnWra90pzvEIx5I5eMaytqq__FBITnAEjxVS94CZhOGvHdnBDjvurqikc&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQJqEUP7B_KBtxjf3b7ygdaokO96bQGcmWGM-rGZmsJwh
+Q&oe=6AB073E2: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/745644805_1505164337565816_4928067955625247816_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n_bqxpDUpJgQ7kNvwG8RYoO&_nc_oc
+=Adpgg7DNTId-DlJImAvcpD9jmO2ruRCgfHEXPqe6rW567t1cHFZnDO3bvPA-_svInBk&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQJWz0hS1XSF2DlRKyjNtRzjuIecsj3uQXnM3NlKbBVTj
+g&oe=6AB077D0: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/750617668_1026513860202497_3608978493822911689_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AvlrfDKA84wQ7kNvwGwktS1&_nc_oc
+=Adp-SWeXKAxfYIwtndIUnSYYG461sYp_76EJSIBenGm0EeTEphyeh0JoYZ3yZxaHRGA&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQKi36vIPX46Xot2d2ueZwBXBTAtlyMLDnP3FKBg91aM1
+Q&oe=6AB0881E: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/799308446_1426063322767295_984588820733875282_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dfdLoMiXqZMQ7kNvwFD5IML&_nc_oc=Adq-SVoFnXUveUGOx4BeLts
+WmP129h3BJBs6NQ0jUu7FSCRorScD3oy-B6zTzmF9PGU&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQIGsPoPgGBlJgbrTP7ZCT2rz5yZad6dVxbZ7jsJbisZ0g&oe=6AB08B6C: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/812342973_3560222587461916_3924862825023945817_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=54ZmpuejjjsQ7kNvwHGTq67&_nc_oc=Adof9uIGXl2SreJmu1XFte
+9zvwIx5hScofXEAjMBivNVA3NiXToP9d-kCq4Hg7QZ4vk&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQJzxt9C9OA4CpMTUenlsJzraTJ5VbyXJ4uK7wF_uk4PXA&oe=6AB07B81: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/801009181_1636280344814179_947451299869346488_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NXwwx2J-D6cQ7kNvwGdzTxJ&_nc_oc=
+AdrHq0bMym_U18ILrzJynLA_rOjeOd7dMG3IHhkgCR4hUnjkTpnRtGCGf8QYXSO2jzc&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQL3EOL_-zNKKAE5Q6OHLvJ9PoKo2D4lmdKEMPSdvu7ppQ
+&oe=6AB06977: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/808929629_1805695170869376_3492439438716019882_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h8e4ey85px4Q7kNvwG2Z-Yg&_nc_oc
+=AdrgaIrdpaVmXMdUdH4CPueK9SasjNH5YV3GzShHvToD0m6O33zYZsnRSYkRxA3Hs60&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQLDX8uPUNFXOFXc29yI9QKyw8p108yvC0p-gbpDSD3V6
+w&oe=6AB079F8: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/800469568_1713769333051127_6767210090006077969_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LfF8hvPs0koQ7kNvwG74Weg&_nc_oc=AdrxIcBUPVm1T-n_Xkh-z-
+mXQBUbh_YVRdQnudF9ENkR-gbe0O-Vekx4deruKL4cWUs&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQL89nXj9XHqZlmbDka8trv1U1tG6JjsaLPBPRCMAzqjJQ&oe=6AB086D3: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/800086886_1452070547020338_1307314745383913335_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oFQwUwQCPfIQ7kNvwHXBe5f&_nc_oc
+=AdrllPbIZ7zSGAO4LKIPduSzsoIPt4cs4u7FmPo7RV10fr4_eUVfL22fLR0mwMR86Is&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQL0HmzLMCr7cwrcVZ99SGuGnWhA8MFHaQzFQdrqhIO_8
+g&oe=6AB0979D: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/809226363_1384587686599875_1108661907764463594_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0B5JQ4xCV80Q7kNvwEKyZKN&_nc_oc=AdpMGOL83TobtA2pu_Kksk
+fzDcS_s3p4rEEi2ptlrHsTCDlW-hNwOLHWFv3cSIYFS1c&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQLlN45nNEnqncrBfBMTULeGKcLNxVTgEPdYLplgtJCisQ&oe=6AB07444: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/813420908_1506341661513529_7196893102503801442_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qG4m2YxzX2cQ7kNvwE9Xi2y&_nc_oc=Adp3uW4eW8w2Oiyt5cSqkU
+iW0nTM--dDChqLNZZmyl4ZxJtvL3ksUE57n9TdHMDKoBI&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQKbxsRF_e53TVo209fqEMqfa62EWX7UY65ycMh8l7AGUQ&oe=6AB06B03: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/750439323_1064341749608684_6019154167614561078_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8s9OVRly6zIQ7kNvwGYQ4IO&_nc_
+oc=AdoTv3cFZH9lTMYP9d8GEz7tdX3B9Lby0h3wPrSKn9KL7Et_LsEnRgdjGuf_NFmLwrE&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQJgQJ3pR2S_qr9ZymWs0aP0i028h_saO6rIwrGIvdR
+SQA&oe=6AB0720B: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/809844133_916295787866081_9171593965980648709_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RTuTv9I0oCUQ7kNvwHsELH2&_nc_o
+c=AdqE_-yhH0fXBvmDGBvldGd7Bc_58l6wzv6W5gE1FtErPYLMSJALTfzqe3AEygnsR3Y&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQLnzm2f2LWoT2xTETKEmFf6UhDVDmjIder1_Tcqupps
+MA&oe=6AB09A0B: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/811028780_1063529049908979_8956735881165370575_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6cOY2nPw9sMQ7kNvwHnZUZ5&_nc_oc=Adqrwb4-gIT7xY-EeLOR_w
+fc8wTNqGQY5RYgd-zDHTsh33EMDh2SvK2Zr4oP-zjBtic&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQJKkr8RaU12A-h84NLUPPoZfgjo-HHlryuxrm26NY-hWQ&oe=6AB09072: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/809876106_1577010540870791_186794710352830606_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=luuUEOLWodQQ7kNvwFH2AZX&_nc_oc=AdqByxokldedvrvNy1hJSqD
+20rTOcnKixyFyct5E7-Nvm7Yc1WOrhNYScQTDyFAatz8&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQIMwqdD2zgu1wyPNwrPXw08p6FeBijmWRish__9Z4rLTQ&oe=6AB08C18: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/799142883_1475283414428359_506992903518503390_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DO8go4Rn2vAQ7kNvwGWDZBa&_nc_oc=
+AdqG6BNtiyE1GesK7Ww9qP-RJPfPlZGm2G-4phCYIPJgqODukfQEoR21T9S7-gEY_uw&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQJlIl66P191Xrg8smVh6dKOO7x8JpbIaSZp4HajrtQ1RA
+&oe=6AB0745F: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/809979339_2611022102662292_7752347004974989479_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MBDFArtarwIQ7kNvwHVyg2A&_nc_
+oc=Adrp3GELEQ2ApaT9wRJdlfOVUQpv8I4jLW3GhewhTlEXoJngmz0jst5DoBIvT08Fw9c&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQLy4jguftoe_TtJXw8NlNq0WaA1WJ9L6W6yGBQMtCd
+0Zg&oe=6AB09028: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/810090947_1360180469242316_4801935625214332145_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H-oLG2sSjukQ7kNvwHoDKQr&_nc_
+oc=AdoD2vN9vrLF9gaY-uxlQJRX9_RvXe-6n9TSIEr-EU1-BXjHwNTkdFQnX-6c6Rvaz08&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQKSPwBZbJ5Lwy8X4eHwp4BC-JSsV6W_QRoy8iwVfy7
+wfw&oe=6AB07534: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/811028724_1807977997006654_4411596177589779719_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o_S1RtD54iYQ7kNvwGR49mK&_nc_oc=AdqOgICj8lOd2KM0CuMlG-
+GRlAdxdQJRCRlgA_rUECsd7qseFB8Nwf_DD1BIZmZrTlI&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQKNxlPf1ROtjwHyLaVh_OEocL3st8Fsp2Nq6xhAZRywdw&oe=6AB086E4: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://static.xx.fbcdn.net/rsrc.php/yg/r/HyqLWQiplYl.webp: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/798152385_28703558045935227_8402976597039301933_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lM5P0T8XCx8Q7kNvwFF3_e0&_nc
+_oc=AdrwWVW8qQXf_eZSdrxtzU1awIVjRW5Ymele7iGS_8UpJpSWGr5DVwgJJJHmm_AGA4c&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQISwPuPWMqb15Of6_x_loy86I-EhN1ZtHG5wWYb3y
+MNYQ&oe=6AB0999E: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for https://static.xx.fbcdn.net/rsrc.php/y-/r/uhBloS7nYQk.webp: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/810556722_1098761719567037_1439598240225092330_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1kU-y8tT0YQQ7kNvwHcieIK&_nc_
+oc=AdpZfw-NYoX7rXNmWAvGQcFYPRzKWWpnnh4ZwtSkwytU3jRKsscJv_ToOwjrJh9-Unc&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQIpxSuezQ_CSrFv4BkICzAH0K9xiJmDnwzjnCTANGd
+TNg&oe=6AB09549: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/812875822_2032053324092854_3416706301801899253_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XAliHoWWDB4Q7kNvwHISubZ&_nc_oc=AdoJKmbKU9GvqZ4bDQVWHh
+pyngm6JmCPrzfxnwaojCbPFDmiNHt0WTTlboXvWu364Bs&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQKLifk8Y2Ykdxy05ZPvOIOU2jwLpnJ--vcON29rBa6KgQ&oe=6AB07DEF: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/751469451_1066846122442373_2207658557565367411_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BKFAykUwVGEQ7kNvwEARZpL&_nc_oc=AdriZmnthwQczd4ZxX2M9q
+20ko2P4VCUT2WuU1VzdJd74nzUjtFBQ2Wtseu1bmL0U40&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQKrjRUC00hsFqM1ohWv55wgPeOswOX-SH9DzCu0KJFVlQ&oe=6AB06A1B: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/810699859_1113744324554339_5623459749795383064_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DFlzPcwbAFsQ7kNvwGF8oS-&_nc_oc=AdoazcE-B_z5mBb5Uvu93H
+3rKLdmpUwKTyMq_O9WBV1NN6f2sjT_cnlnq-Sb7WoTh1s&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQLSCH-5pknK9Vp4KHozHm6IkKU5df62QVKDArj9Lnsezw&oe=6AB09028: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/812940316_1082989280773683_104000885281693474_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k_YJ1hk01tIQ7kNvwE2T4oJ&_nc_oc=
+AdqbqPQqTND08uBFhWv77arS6vzwjMqOQYChWLwNu1ISyKL76HXG7Bi5xVVpu4xvxvg&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQL6CkexnSAyMRrTyK3iFJbVNI0KSaBCoPZW-s2Zn0uEcA
+&oe=6AB06F33: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/811830860_2232774060841253_3189300668211137501_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lO_2Cg3VpY8Q7kNvwH29L88&_nc_oc
+=AdqHPiXhIJ6vwz0djVRp7Vfg8GHPM9jzd3DYF6LTZSGkYB1u0aay8109UbuaqNxfI6A&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQIjQfVfZrSoN1hMahpS7We9Q5dZTpMX_77iclR_tnxrL
+A&oe=6AB07CD4: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/810623541_4497469280495253_2994145302604948274_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MFXLJsuIuq4Q7kNvwGjOHcA&_nc_oc
+=AdqU31wJCUGPTYIWO8-rtdpMRAOvqXXz8Eo67MF9IPpmAG0-USU6tK5MZVLZ9jTf_XE&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQL4AXyVneKhDk-Oc5FkNlw_krit1L5dwLdn7l_ayFMvo
+A&oe=6AB09D3D: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/809730074_1018359551233568_6853034784630338259_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HkH2cWfIAAEQ7kNvwFPfZM9&_nc_
+oc=AdpBV7EgBxzfYSxHW304AWK0hj9sDzTSvT76ockFAyi526UYGxzMrhwvRnmohVSzNMU&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQJVGn8WZ5WfealrTXx8-FL5oZ1SXF8Pxk9oSXtjN9T
+TSA&oe=6AB09758: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/800642795_1073844208391644_3177900639021567942_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9eD7qmQ-5qMQ7kNvwES5OtY&_nc_oc
+=AdpRSSg8JvS-8otZMcReLPdhdIikejofpZWV0WyYiwKTzFICFtUTfNcr1oLmBagaBP8&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQLBCxHE1pHDk07i-GalYjggVdpYQgwuQkggo1uNFzdSC
+Q&oe=6AB09157: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/812281938_5608506072707067_9029082589536114336_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gea0Xj575qQQ7kNvwEufRKB&_nc_oc
+=AdqcDZhxQjrJxY1eR7Q4avWJwvAvdAsEVqGM64AgeZkdJifz4GkQSw6zts3KcmUPkbI&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQIS24od0OLy56h-MA0aV_dprRAxJW-wZNzBhTKVGUqRc
+g&oe=6AB06F4A: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/811562048_2047162669272319_1816437794138237183_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5jYjwRRqcPwQ7kNvwG23t2I&_nc_oc
+=AdpcwUH0AUZUYFZ06CQ9Azg5N3WrkZ3BiRjx84Iy3xsSsYvhjod7qV0uLcGIzCkZ2lY&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQL_MiehSahGwwvvfAd0rBqSmVE9gvNEozTcCz7ca1y5c
+A&oe=6AB096F5: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/811266900_1309907608875387_7140483859705679175_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3hPeqb646SEQ7kNvwEorzzV&_nc_oc
+=AdrOET8F6H-ATeCcwEWyEn9bLBrNEE8QukUP5nnzGR6jW_NLaQd5cl7hdu3IPGoIFLc&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQLvHbRY49PTyUxNtSeYyJmUXZFzWY2l2voIFTMxAfWFT
+g&oe=6AB0891D: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/811057023_1510784900855217_6989826142110393371_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TItgU9VCdx4Q7kNvwGerRQA&_nc_oc
+=Adpdmiw-aym47w7m6B-QNWJjKVMsCfssc-uy0ssytsGXuMbMw6F9EG1qKwAWCj3Tn_o&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQKp90D7-Cz8B_BT11sB9WMLsxg946SKuD3nEsN9pX5SA
+g&oe=6AB09AE3: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/809980279_1057394027084890_1609735196829645135_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BLhKc4qgbk0Q7kNvwGiX3E5&_nc_oc=AdoLjwvq7d0pnH0kBmwRR8
+H2-jSFxmFz889fSyG-QeBSq_uMDJV4iGmIwn3WOWhd-58&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQKWdaJ338HKFOFvJYuDKdsU7iMMUvj5ZeEkyexbH2vfTg&oe=6AB08A77: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/810557216_1784706209236325_482780798613151774_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FKvlJ9XO2v0Q7kNvwG3or6E&_nc_oc=AdpehuHkIEFBa3ylXKxNR77
+OM3jF0MEoB26KrebzYT4xsjWwdCmg1g8QiMAUtXfvXcg&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&oh=00_AQJ3DcIXfWyD4hKe11md57YoSHbJV3P6HvuS2iPKjXPANg&oe=6AB07A4C: cannot 
+access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOlOdi--PqKT4oFMml5r0keVZ1p60iNiAJToTqLJwg0EnoIkEqFZa6cU-dGj6wNvUnqjzCNq5AWR-QsuGcCr1kS7-cfusGQgeP_olP0-w.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video
+-cdg6-1.xx.fbcdn.net&_nc_ohc=7ljZzFV0a5kQ7kNvwEhvBsj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTczNTc1NDM0NDIwNzUxMSwiYXN
+zZXRfYWdlX2RheXMiOjcsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo1NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&_nc_zt=28&oh=00_AQImi6qS2fb4DLfma01ClXYkix6Ga
+qCqaagZNEvHdOOGdQ&oe=6AB08F61: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg4-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQNv1dwyrtb-ImKP-wqrdP7QUSi8svCKf0F_Uj_RUHPWaoGHvnNp5EWb5bDDrFlLy-dimfQh7ld2h6J742L9FMVvJo9h98mgZgtNqH7uyA.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video
+-cdg4-3.xx.fbcdn.net&_nc_ohc=QUB9v91Gh8IQ7kNvwEP_YGk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTE2OTQwMzUxNTM1MDI2OSwiYXN
+zZXRfYWdlX2RheXMiOjg2LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&_nc_zt=28&oh=00_AQL_X0V4T5SlPEx0e-tUa
+x7zRl0RBHY8tSwgHDVAJWxiPQ&oe=6AB08B80: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg4-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPcnKCZMwYKkNKDBr6qijU-4qCOlaIe1lNzaJ5VmRtDfu7dhsbtOqygdBGW2RANndiecd4SN17dslhxx1oMZdJW0Ah7EQWwNfFoii5w6w.mp4?_nc_cat=102&_nc_sid=ef5aa3&_nc_ht=video
+-cdg4-1.xx.fbcdn.net&_nc_ohc=V1gDl4C8e4MQ7kNvwETKQ4J&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NDQwOTMzNTA2OTM5MTc0MSwiYXN
+zZXRfYWdlX2RheXMiOjE3OCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjU0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&_nc_zt=28&oh=00_AQK9tL8maD59-AfB6bmf8ej
+bvGu2YgU1YsyDNV58Yk0foQ&oe=6AB09968: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg4-2.xx.fbcdn.net/o1/v/t2/f2/m69/AQPa5KEveYJvoRn3WLjb-X8WBu4wcNKhvnUFjJRYJHLnyA5_YnG3F1rN4UekuazGN1XNwGfcWx9sDeZddOX0dnS7.mp4?strext=1&_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video-cdg4-2.xx
+.fbcdn.net&_nc_ohc=x3kfRhJbYWMQ7kNvwF4k3cB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjQ0MjQ1MDI0NjA5MzM1MSwiYXNzZXRfYWdlX
+2RheXMiOjUxOCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE0NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&_nc_zt=28&oh=00_AQKKsQ6WD3gML6Bq0VuSF_7s7Oe8XQusbv1
+SloA3tjSH0Q&oe=6AB06989: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg4-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQNoqLuZNytUbXd-X51PB5v8s4PkgYJdix6csWDDXM4UfLYPfS35saW1m3DZIqCHWnYAM4dS2tMn1DATn_3SrFoZvn-uIPmjnNnqJQjkDw.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video
+-cdg4-2.xx.fbcdn.net&_nc_ohc=LKIToRWzhBEQ7kNvwEkdMwq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V
+0X2lkIjoxMDkwMjc2NTcwMDgzOTE2LCJhc3NldF9hZ2VfZGF5cyI6NiwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&_nc_zt=
+28&oh=00_AQIDnSPJa4x4GBbGbz4P98mTSKMLHXtLCpw7rrHaNo9Xzg&oe=6AB098BD: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg4-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQOdQoDh2WXK_SZfoY32QecM6aBc_M-kVZGz_Ai2i60-cbvOuM7H55JOCvGjDE2HAczA3N5HfsKrxOqdXXcimYLGfTm17F23W8FEgDClNg.mp4?_nc_cat=107&_nc_sid=ef5aa3&_nc_ht=video
+-cdg4-2.xx.fbcdn.net&_nc_ohc=a1IlOEKytKkQ7kNvwGEFiDE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V
+0X2lkIjoxNTg0NjEzNDMwMDc2ODgzLCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjUzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&_nc_zt=
+28&oh=00_AQJ72FGMmLwUcH9N9cYDJonAIVNncVyuUm-unZyC3JzvgA&oe=6AB076DF: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg6-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQPRBRKr2PCBaEcJCR-m-7h8YzqzH03gBRKb96U1RNhNpilCI_rUpexoY8Hnsa25WiYGjj42xg8mmuNEPdJBUFivno4J2hUeuUdYRqFqxQ.mp4?_nc_cat=103&_nc_sid=ef5aa3&_nc_ht=video
+-cdg6-1.xx.fbcdn.net&_nc_ohc=MNSDTqCQd-UQ7kNvwEgfc3F&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V
+0X2lkIjoxNjI4MzIyNTcyMTQ5NTE2LCJhc3NldF9hZ2VfZGF5cyI6MiwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjczLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&_nc_zt=
+28&oh=00_AQJKcj7kDVOXXou55md_Dt_r9n61FJq6McYqdsgaAXm1AA&oe=6AB07DDF: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg6-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOyLPfzwL7ix_2KueAmx1T8gDU9ato0s7L7P7ZmeRnx6kIYImG31P54VfEVXhU0wOcq9cGwsg6JiFPwvh1uP0MPvJRwFgOzjURF6_vs7Q.mp4?_nc_cat=105&_nc_sid=ef5aa3&_nc_ht=video
+-cdg6-1.xx.fbcdn.net&_nc_ohc=ub7rpPk5-2EQ7kNvwEyPXh7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTM5OTA0MTEzMjQwNjc5NCwiYXN
+zZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&_nc_zt=28&oh=00_AQILWbMTJuualoA3sRDzOZLcmxkQH
+XcENKzXFYxQOjLVLA&oe=6AB08821: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg4-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQPNPZMdLrX81hMYDj9JxFW9RHzdsHzpYa-m34yZrTlFe2A2cW_YCJTvfC5QAcSs84FGP3DjMpdZY6hiHDods3_9pEl0KM-z80a8mtGMxg.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video
+-cdg4-2.xx.fbcdn.net&_nc_ohc=gvwC9JPcNJoQ7kNvwFQq6qx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTY0OTQzNDc0Njc5MTYxMCwiYXN
+zZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjozNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&_nc_zt=28&oh=00_AQLzaU1fIALAX9fc6CoAzrIl6pKd-
+s4PyS2XV9XFNAucMw&oe=6AB06C7D: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg4-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQM5C3cDBs7tqjTtR2F1T-tQhfchJOKQHOyO62J8CQfTNhdkv8s3d3ieOYmZpOW7XTqXDQZaDWqTRA1B_YUSakbtShT0GS6_b-HoCh0xOA.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video
+-cdg4-2.xx.fbcdn.net&_nc_ohc=7AfS-QNwAlkQ7kNvwEhyrT8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTU0NDc1MjkxNzQ1NTM4MywiYXN
+zZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjoyNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&_nc_zt=28&oh=00_AQK4232JBnsblWW4r5KdbFaW2HgE6
+FRCs6ToSbhqfNNHww&oe=6AB07311: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg4-3.xx.fbcdn.net/o1/v/t2/f2/m412/AQMFtAFU3eldZjiQnmAaf5KgBJmPXNX9kB8NMjBy_yynRCsv9nngQra4fPmqJQc29QJ4mxRVJ60WECFh2d9hYF_arUTM-zGDAvg2Cu013A.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video
+-cdg4-3.xx.fbcdn.net&_nc_ohc=ZXgliqb5NXsQ7kNvwG9fAhs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjUwNTU4OTE1MzI2MzQxOCwiYXN
+zZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo0NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&_nc_zt=28&oh=00_AQLWA691p2ouA-L5uUI-tjjUsvQH7
+YbpmBs8OanIMfJ4cg&oe=6AB06D44: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg6-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQPO4HSMQgoyxOTs4aVsme2Bf_OfPo7r85QNX8ovU7BhI38fAvj_bHr49GwYN8FlpbiB4wriCbdh9B2tlsRQb3Ocfm_ZnqDf5QlJDq71qQ.mp4?_nc_cat=106&_nc_sid=ef5aa3&_nc_ht=video
+-cdg6-1.xx.fbcdn.net&_nc_ohc=N17lt93siCQQ7kNvwEp3jtw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V
+0X2lkIjoxODExNzk0NzU2NjkzOTY5NCwiYXNzZXRfYWdlX2RheXMiOjE4LCJ2aV91c2VjYXNlX2lkIjoxMjM3NCwiZHVyYXRpb25fcyI6MTEyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&_nc
+_zt=28&oh=00_AQLRvnqZBCsdZX4CdquffHKj00WWgcYv0G1obrS3Fl4vmg&oe=6AB096F8: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg4-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOXbKW2rKwrkLZXmrgxM5U3t-y_ZlW2wWQQ8BIZvqAlSYegQ-3vVQle0KwW7bnaWPnDZVWtmaGFhbeNoGKvF3APrj-hncjDoXvtEwQ1eQ.mp4?_nc_cat=101&_nc_sid=ef5aa3&_nc_ht=video
+-cdg4-2.xx.fbcdn.net&_nc_ohc=GGqmHnSVrEYQ7kNvwELBX8D&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTc1MjI1MzYyOTM3ODAyNCwiYXN
+zZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTM5LCJkdXJhdGlvbl9zIjo2MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&_nc_zt=28&oh=00_AQLrXL77Ql6Nx7s0bJLNYRriJS23q
+yzTl00kMCA81C12nQ&oe=6AB06C45: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg4-2.xx.fbcdn.net/o1/v/t2/f2/m367/AQMKSbnjLEZ5zwcw8KtM0p1lV3lFIUnf9dj0jTq9cS3pgTlv3fwrbqU_T852Q_IdUlnXoPmDOSWOGyhfyNbsHeGVoZNVA2biwxf43dOO2g.mp4?_nc_cat=109&_nc_sid=ef5aa3&_nc_ht=video
+-cdg4-2.xx.fbcdn.net&_nc_ohc=pDOulnSpzkoQ7kNvwELAgLt&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V
+0X2lkIjoxODExNjk0NjM1NTkzOTY5NCwiYXNzZXRfYWdlX2RheXMiOjI0LCJ2aV91c2VjYXNlX2lkIjoxMjM3NCwiZHVyYXRpb25fcyI6NTksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&_
+nc_zt=28&oh=00_AQKnkACtCOAYoBzk4gX2GEGJcA0r3wKRZ4XWR9QK8hcRtg&oe=6AB07CE5: cannot access local variable 'text_body' where it is not associated with a value 
+[CAPTURE]. ℹ Error capturing response details for 
+https://video-cdg4-3.xx.fbcdn.net/o1/v/t2/f2/m367/AQP_6z3btqroGvtS3oUh9kk5hkSkuPCHmoa0etXpF6a-DNB3SORqalqTfwoMTLIzh4QLqwFN-Ztl8h_Xr3cWPnVp08WuWh9qiUhif92lbg.mp4?_nc_cat=110&_nc_sid=ef5aa3&_nc_ht=video
+-cdg4-3.xx.fbcdn.net&_nc_ohc=P3LOFmWqffEQ7kNvwFZ6bnY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V
+0X2lkIjoxODExNjIwMjE2NjkzOTY5NCwiYXNzZXRfYWdlX2RheXMiOjI4LCJ2aV91c2VjYXNlX2lkIjoxMjM3NCwiZHVyYXRpb25fcyI6NTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=aAypij52fbJ9_L-pb_82zg&_nc_ss=7b289&_
+nc_zt=28&oh=00_AQInn0O4U-bh6PC7NoMnWc7zyzZEEXssOoOA0J3dEx6lIA&oe=6AB08EA8: cannot access local variable 'text_body' where it is not associated with a value 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...type=all&q=vebinar&search_type=keyword_unordered  | ✓ | ⏱: 14.49s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...type=all&q=vebinar&search_type=keyword_unordered  | ✓ | ⏱: 0.29s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1904582 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...type=all&q=vebinar&search_type=keyword_unordered  | ✗ | ⏱: 14.82s 

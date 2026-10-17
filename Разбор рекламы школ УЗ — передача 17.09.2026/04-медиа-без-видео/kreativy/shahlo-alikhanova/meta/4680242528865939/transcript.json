@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.76,
+   "text": "Bugun yarim saat o'qish bussa, albatta shu video darsini korin."
+  },
+  {
+   "start": 3.0,
+   "end": 7.8,
+   "text": "Biz Shweetsaran e-expertla wa halkora speakerlar Uzbekistan dan Shweetsaran turli lo'ykhla da AI lo'ykhalar disilab,"
+  },
+  {
+   "start": 8.08,
+   "end": 8.84,
+   "text": "daromad tofkiliyabiz."
+  },
+  {
+   "start": 8.84,
+   "end": 13.68,
+   "text": "Aynan shu mazudu, Uzbekistan da 2026-inchi il anaqil suni tshrikban daromad tofkiliyabiz."
+  },
+  {
+   "start": 13.72,
+   "end": 14.8,
+   "text": "Shuaq qida biz darsitaylib."
+  },
+  {
+   "start": 15.16,
+   "end": 20.1,
+   "text": "Agar sizam 2026-inchi il AI bilan hayatizda kana qadar ma'nada uzgayrtirmakchi busiz,"
+  },
+  {
+   "start": 20.2,
+   "end": 22.04,
+   "text": "pastegi tugmanu basi video darsini korin."
+  },
+  {
+   "start": 22.38,
+   "end": 24.22,
+   "text": "Ma'ir imam bu sizge yen'i yon alish bolada."
+  }
+ ],
+ "chars": 492,
+ "chars_per_s": 19.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

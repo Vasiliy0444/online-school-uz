@@ -1,0 +1,136 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.26,
+   "text": "85-90% adamli ingresli orga matkanda, iki ay brai da tashabi baradi, iki tas azi sabab bar, bit tasa bud."
+  },
+  {
+   "start": 7.78,
+   "end": 9.94,
+   "text": "Kutular na tori ligi, iki nchi basa tizim goli."
+  },
+  {
+   "start": 10.06,
+   "end": 14.2,
+   "text": "Bulay nima digana, kutular na tori ligi, ha, brinchi dars, bir xafti otti, iki xafti otti,"
+  },
+  {
+   "start": 14.3,
+   "end": 17.8,
+   "text": "qana qachoma ingresli diga praman digana, afsos ki, shunara kutu bazilarda bar,"
+  },
+  {
+   "start": 18.54,
+   "end": 20.7,
+   "text": "adam bilish kere, bir xafti da nima netiqi boladi."
+  },
+  {
+   "start": 20.7,
+   "end": 22.72,
+   "text": "Brai da nima boladi, iki ay da nima boladi."
+  },
+  {
+   "start": 22.78,
+   "end": 26.04,
+   "text": "Bunu aldinam, biz anna kutulan toru xoibalsak, mati vatsa olmidi."
+  },
+  {
+   "start": 26.04,
+   "end": 29.54,
+   "text": "ikinchi maityvasan uldirmigigan va axirgichan o baradigan nartsa bu tizm"
+  },
+  {
+   "start": 29.54,
+   "end": 31.22,
+   "text": "yani ketmiketli"
+  },
+  {
+   "start": 31.22,
+   "end": 34.72,
+   "text": "awal nima qilnadi, keyn nima, ma bugun ozi niman ustishtavam"
+  },
+  {
+   "start": 34.72,
+   "end": 38.36,
+   "text": "man niman xazir yaksivam, ma qatgan, manashun, mashq"
+  },
+  {
+   "start": 38.36,
+   "end": 40.84,
+   "text": "nima qalib baradi, manashunu bilishti"
+  },
+  {
+   "start": 40.84,
+   "end": 42.8,
+   "text": "shuran biligan xolati biz ingilifaydi"
+  },
+  {
+   "start": 42.8,
+   "end": 46.78,
+   "text": "aynan isli adamlar uchum, manashunu qi tizmilashtirilgan ilavagiyamiz"
+  },
+  {
+   "start": 46.78,
+   "end": 50.14,
+   "text": "platformu uyerdisiz, kunigi elli dagiki vaqti izajiratas, boldi"
+  },
+  {
+   "start": 50.14,
+   "end": 53.68,
+   "text": "va en qizghi, elli dagiki bitta otirishtamaz"
+  },
+  {
+   "start": 53.68,
+   "end": 55.68,
+   "text": "yani dars yuki yox"
+  },
+  {
+   "start": 55.68,
+   "end": 58.68,
+   "text": "omid omidda kunizax xaxilaygan kismidi"
+  },
+  {
+   "start": 58.68,
+   "end": 59.68,
+   "text": "xaxilaygan jaydi"
+  },
+  {
+   "start": 59.68,
+   "end": 61.68,
+   "text": "telefoniz basi boldi, u shay payt torginasiz"
+  },
+  {
+   "start": 61.68,
+   "end": 63.68,
+   "text": "probkadami, ishqanadami, uydami farqiyo"
+  },
+  {
+   "start": 63.68,
+   "end": 65.68,
+   "text": "qobla funktiyaramiz bar"
+  },
+  {
+   "start": 65.68,
+   "end": 67.68,
+   "text": "suni intelekt, vidyo darslar, xamasi"
+  },
+  {
+   "start": 67.68,
+   "end": 69.68,
+   "text": "rasa netiji boladim dotkem basiz"
+  },
+  {
+   "start": 69.68,
+   "end": 72.68,
+   "text": "xawalan ustagi basi mutagayislar xamasini chuntri belshadi"
+  }
+ ],
+ "chars": 1256,
+ "chars_per_s": 17.2,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

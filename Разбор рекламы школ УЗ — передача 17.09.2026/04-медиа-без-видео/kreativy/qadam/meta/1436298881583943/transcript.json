@@ -1,0 +1,206 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.54,
+   "text": "Yeddi yil boldi, uydidikriyatda otirib pul tapishini boshlaganimga."
+  },
+  {
+   "start": 3.96,
+   "end": 6.42,
+   "text": "Wa bilasmi, yillar otib bitan arsan chundim."
+  },
+  {
+   "start": 6.84,
+   "end": 9.18,
+   "text": "Bilasmi, qachan ayol kishi, khatirjan bolib,"
+  },
+  {
+   "start": 9.28,
+   "end": 11.72,
+   "text": "hichkim bilan urushmasikin, hichkim nan xafib bomidi,"
+  },
+  {
+   "start": 11.82,
+   "end": 13.98,
+   "text": "khasat qomidi, uydigilani gapi teymasikinin."
+  },
+  {
+   "start": 14.4,
+   "end": 16.98,
+   "text": "Qachanki, uzini puli bogenda."
+  },
+  {
+   "start": 17.28,
+   "end": 19.02,
+   "text": "Lekin, faqat pulini uziyemaz."
+  },
+  {
+   "start": 19.48,
+   "end": 23.06,
+   "text": "Ertegi nimi bolarkyan digan korqu bolmasligi uchun kerek."
+  },
+  {
+   "start": 23.06,
+   "end": 25.94,
+   "text": "Pul tapish uchun, ishtash kereyli gini hamayan biladi."
+  },
+  {
+   "start": 26.24,
+   "end": 29.1,
+   "text": "Lekin, er talibten kechkeche, uyni, rozgarini,"
+  },
+  {
+   "start": 29.1,
+   "end": 31.98,
+   "text": "qazan tovanin tashab getishkin xamayan tayar imas."
+  },
+  {
+   "start": 32.38,
+   "end": 34.04,
+   "text": "Farzan tarbiyasini tashab koymastan,"
+  },
+  {
+   "start": 34.44,
+   "end": 35.52,
+   "text": "xayatiga muas giladigan,"
+  },
+  {
+   "start": 35.62,
+   "end": 37.32,
+   "text": "tinchini buzmidigan ishi bolishini"
+  },
+  {
+   "start": 37.32,
+   "end": 39.16,
+   "text": "xar bir ayan orzu qiladi."
+  },
+  {
+   "start": 39.56,
+   "end": 41.48,
+   "text": "Xazir bunaka imkonyatilardan bittasi"
+  },
+  {
+   "start": 41.48,
+   "end": 42.44,
+   "text": "uzun marketigyan."
+  },
+  {
+   "start": 43.54,
+   "end": 44.3,
+   "text": "Bana uydu otri,"
+  },
+  {
+   "start": 44.44,
+   "end": 46.38,
+   "text": "beye malol online savda qilashmukun."
+  },
+  {
+   "start": 46.72,
+   "end": 47.84,
+   "text": "Maksulor tan lisiz,"
+  },
+  {
+   "start": 48.4,
+   "end": 49.42,
+   "text": "uzungi cay lisiz,"
+  },
+  {
+   "start": 49.54,
+   "end": 51.02,
+   "text": "qolganini platformani orzu qiladi."
+  },
+  {
+   "start": 51.78,
+   "end": 53.0,
+   "text": "Shunarsalan organishta,"
+  },
+  {
+   "start": 53.16,
+   "end": 55.04,
+   "text": "sizga qadam edikishini yardan veradi."
+  },
+  {
+   "start": 55.04,
+   "end": 57.02,
+   "text": "Mangi in yokgani sodda tildi"
+  },
+  {
+   "start": 57.02,
+   "end": 58.08,
+   "text": "qadam ma qadam"
+  },
+  {
+   "start": 58.08,
+   "end": 59.96,
+   "text": "sizde noldan daramat gechi ap chixadi."
+  },
+  {
+   "start": 60.12,
+   "end": 62.44,
+   "text": "Agar vloyatan turub okumakchi bolsangiz,"
+  },
+  {
+   "start": 62.56,
+   "end": 64.2,
+   "text": "online platformada organichengiz mumkun."
+  },
+  {
+   "start": 64.4,
+   "end": 65.76,
+   "text": "Agar toshkende yashishangiz,"
+  },
+  {
+   "start": 66.08,
+   "end": 67.9,
+   "text": "shundo kasmanatlar metro yanida"
+  },
+  {
+   "start": 67.9,
+   "end": 69.08,
+   "text": "okubu markaz joyolashgan,"
+  },
+  {
+   "start": 69.4,
+   "end": 71.86,
+   "text": "gelib offline darslarda ishtirok etshengiz mumkun."
+  },
+  {
+   "start": 72.4,
+   "end": 73.64,
+   "text": "Agar sizxam ancedan beri"
+  },
+  {
+   "start": 73.64,
+   "end": 76.0,
+   "text": "qanidi uzumni pulun bolisaydi dibirgen polsangiz,"
+  },
+  {
+   "start": 76.1,
+   "end": 77.44,
+   "text": "bu agayib imkonyat."
+  },
+  {
+   "start": 77.74,
+   "end": 80.04,
+   "text": "Ularda biy pul qirij darslari xam bar,"
+  },
+  {
+   "start": 80.42,
+   "end": 81.66,
+   "text": "xabali arkali otib,"
+  },
+  {
+   "start": 81.76,
+   "end": 82.62,
+   "text": "organichengiz mumkun."
+  }
+ ],
+ "chars": 1372,
+ "chars_per_s": 16.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

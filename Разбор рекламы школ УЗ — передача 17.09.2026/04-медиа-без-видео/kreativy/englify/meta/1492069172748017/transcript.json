@@ -1,0 +1,96 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.74,
+   "text": "Tasawur qilin, siz chet doolatiga birin chimarda chikishiz."
+  },
+  {
+   "start": 2.84,
+   "end": 6.72,
+   "text": "Ulani tilini, insonlarini, va xattoki turgan lakat seziam bilmisiz."
+  },
+  {
+   "start": 6.88,
+   "end": 10.18,
+   "text": "Aynan shu vaziyat birnice yerlar oldin, man bilan sadir bolgan."
+  },
+  {
+   "start": 10.32,
+   "end": 15.08,
+   "text": "Va shu vaziyattan osan va yengil chikib getishim uchun, mange bitin arsa yordan bergan."
+  },
+  {
+   "start": 15.24,
+   "end": 16.46,
+   "text": "Va bu, tel bilganim."
+  },
+  {
+   "start": 16.62,
+   "end": 20.24,
+   "text": "Aynan ingilis tilini bilganim, va speaking darajam yakhshi bolgan uchun,"
+  },
+  {
+   "start": 20.58,
+   "end": 24.18,
+   "text": "insonlar bilan mulaqat qilib, bemalol oz manzilimmi topib olganim."
+  },
+  {
+   "start": 24.18,
+   "end": 27.32,
+   "text": "Aynan mana shu vaziyattan keyin, bitin arsani chunib yetim."
+  },
+  {
+   "start": 27.32,
+   "end": 31.82,
+   "text": "Insan oz ye qilgan en qodda investizyasi bu til organishi."
+  },
+  {
+   "start": 31.88,
+   "end": 36.28,
+   "text": "Qulaz, dosla, mangi oxshabchay davlatlariga chigganizda shunaka adaxib qomasligiz uchun."
+  },
+  {
+   "start": 36.42,
+   "end": 38.78,
+   "text": "Speaking darajizi yanayam yakhishlashiz kerek."
+  },
+  {
+   "start": 39.0,
+   "end": 42.62,
+   "text": "Wa bu uchun man sizgi English-File lovasini tavsi qilgan bolardim."
+  },
+  {
+   "start": 42.66,
+   "end": 47.68,
+   "text": "Mangi en yokgan tomonu suhbat xona ge qirib, siz xoklagyan vaxtiz, xoklagyan joyingizda."
+  },
+  {
+   "start": 47.72,
+   "end": 50.64,
+   "text": "Wa istalgan mavzuda suhbat qorushingiz munkun."
+  },
+  {
+   "start": 50.64,
+   "end": 53.06,
+   "text": "Sıxam oz ingizgi investisiya qimoxchi boses"
+  },
+  {
+   "start": 53.06,
+   "end": 55.5,
+   "text": "ba ingilisdili darajizi yaxshlamoxchi boses"
+  },
+  {
+   "start": 55.5,
+   "end": 57.76,
+   "text": "shu xavali orqali roxatda undi."
+  }
+ ],
+ "chars": 1018,
+ "chars_per_s": 17.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

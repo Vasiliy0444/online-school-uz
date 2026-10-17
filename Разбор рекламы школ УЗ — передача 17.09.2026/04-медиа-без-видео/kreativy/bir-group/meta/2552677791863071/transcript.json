@@ -1,0 +1,56 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.58,
+   "text": "Bugun jamyatimizda asasi mammalarga aylani bor etkian ishsizlik, pulsizlik, bilimsizliktir."
+  },
+  {
+   "start": 6.84,
+   "end": 14.2,
+   "text": "Men sizlarga acaib bir imkaniyatini aitmakschivan, yani bir talim 500 kishilik grant ilan qilmagda."
+  },
+  {
+   "start": 14.2,
+   "end": 20.54,
+   "text": "Bu, bar yogu 500-ta bilimge chan qaq, öz usta ishlamakschibigan yoshlar uchun."
+  },
+  {
+   "start": 20.98,
+   "end": 25.62,
+   "text": "Yitita kaspni mutlaka bi pulga urgana alishizmukun."
+  },
+  {
+   "start": 25.62,
+   "end": 34.02,
+   "text": "Utkan safargi, bir talim grandi patog okuchilari bugun kunda umumi xsabda 600 milyondan kop daramat qilip kilimakta."
+  },
+  {
+   "start": 34.36,
+   "end": 40.74,
+   "text": "Agar siz xam, shu okuchilar kabi daramatka chikishina oqlasayngiz, manashu grand loyxasta qatnashin."
+  },
+  {
+   "start": 41.06,
+   "end": 47.6,
+   "text": "Grand loyxasi, jaylar sani, chekilangan, 25-ci sentia bir kunu online taqdimat bulub utmakta,"
+  },
+  {
+   "start": 47.6,
+   "end": 55.42,
+   "text": "manashu online taqdimatka qatnashin, vay granddan birini itubaling, vay iti takasdan birini mutlaka bi pulga urgany."
+  },
+  {
+   "start": 55.42,
+   "end": 57.22,
+   "text": "Khazrak roi khattan otin."
+  }
+ ],
+ "chars": 777,
+ "chars_per_s": 13.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

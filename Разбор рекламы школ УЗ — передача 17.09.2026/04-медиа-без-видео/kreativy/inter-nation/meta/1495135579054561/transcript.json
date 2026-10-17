@@ -1,0 +1,61 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.76,
+   "text": "Uf, tashkarada plus 50."
+  },
+  {
+   "start": 2.06,
+   "end": 5.54,
+   "text": "Rastanam ayitkanda unaka, afqavada hish narsak gizgimidi."
+  },
+  {
+   "start": 5.92,
+   "end": 8.78,
+   "text": "Na o'qish, na kurslar, na o'qish haqarakat."
+  },
+  {
+   "start": 9.3,
+   "end": 12.64,
+   "text": "Irtalat ish, kumboy, ish, charcha."
+  },
+  {
+   "start": 13.48,
+   "end": 16.08,
+   "text": "Kichki barib isa, ishlarim sal boshidi."
+  },
+  {
+   "start": 16.08,
+   "end": 20.16,
+   "text": "18-30 dagi kichki ingilisili kurslarimiz aynimuda."
+  },
+  {
+   "start": 20.52,
+   "end": 24.46,
+   "text": "Oz ingiz uchun sal vaqtni aciratib, o'qishni kuzgesi qaldirmayn."
+  },
+  {
+   "start": 24.66,
+   "end": 26.94,
+   "text": "Ba tafsil malumat alish uchun izaklarda."
+  },
+  {
+   "start": 27.22,
+   "end": 28.48,
+   "text": "Plus belgisinin qaldirin."
+  },
+  {
+   "start": 28.48,
+   "end": 31.36,
+   "text": "ua internation English Skolbuna rivaj danik!"
+  }
+ ],
+ "chars": 428,
+ "chars_per_s": 11.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,70 @@
+{
+ "creative_id": "926476080520746",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "постановка или скетч"
+ ],
+ "hook": {
+  "verbatim": "Hozir kelajakdagi o'zimga telefon qilib ko'raman.",
+  "types": [
+   "история",
+   "вопрос"
+  ],
+  "visual": [
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: крупный план разобранного ноутбука/материнской платы, затем парень в полосатом свитере со старым дисковым телефоном; субтитры «Hozir kelajakdagi» → «o'zimga telefon» → «qilib ko'raman»"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:03] Alo, asalamu alaykum.\n[00:05] Wa alaykum asalam, kim bu?\n[00:06] Bu man, yani san man, taqat otmishdan, 2026-ci il basidan.",
+    "timecode": "00:03"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта",
+   "профессия будущего"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Rezyume yuborasiz, javob kelmaydi. Intervyuga borasiz, \"tajribangiz yetarli emas\" deyishadi."
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Portfolio bilan chiqasiz — bo'sh qo'l bilan emas."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Постановочный скетч: герой «звонит» себе из будущего по старому проводному телефону среди разобранной компьютерной техники — концептуальный хук про звонок себе из 2026 года. Далее по расшифровке диалог о том, что «весь мир помешался на ИИ» и рекомендация пройти курс Najot Ta'lim. Актёр не идентифицирован как ученик или основатель. Текст объявления про отказы по резюме из-за нехватки опыта хорошо ложится на «без опыта» — курс обещает выход с портфолио вместо пустых рук."
+}

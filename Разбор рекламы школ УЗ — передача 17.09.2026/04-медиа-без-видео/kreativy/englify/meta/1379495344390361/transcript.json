@@ -1,0 +1,96 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.18,
+   "text": "Agar ingilis sinu organishni rije qatken osiz, ushti momu alaykumla anig duchk elasiz."
+  },
+  {
+   "start": 4.18,
+   "end": 7.44,
+   "text": "Birinisi denge sali, ikinisi soziotla ono xayat ishita almaslik,"
+  },
+  {
+   "start": 7.44,
+   "end": 8.44,
+   "text": "wa uchunisi gramatika."
+  },
+  {
+   "start": 8.44,
+   "end": 11.28,
+   "text": "Man techi razam 13-lik tajribi gi ege ingilis sil oqsu utsiman,"
+  },
+  {
+   "start": 11.28,
+   "end": 14.52,
+   "text": "wa osi fayratim davamadi okucharan manashi u momu alayk duchk elishgan,"
+  },
+  {
+   "start": 14.52,
+   "end": 16.24,
+   "text": "wa man ularga yechim doyan ber algan."
+  },
+  {
+   "start": 16.24,
+   "end": 19.28,
+   "text": "Wa 22-nchi, 23-nchi, 24-nchi Sintiabur kullara"
+  },
+  {
+   "start": 19.28,
+   "end": 24.0,
+   "text": "aynan manashi u momu alayki yechim berish maksaddi online masterclass tashkirilashdirihman."
+  },
+  {
+   "start": 24.0,
+   "end": 26.12,
+   "text": "Bu, Master Class-da bu mamoradan tashqari,"
+  },
+  {
+   "start": 26.12,
+   "end": 27.94,
+   "text": "boshqa masallarini hamgay oplasayabasim."
+  },
+  {
+   "start": 27.94,
+   "end": 29.0,
+   "text": "Masal uchun Speaking,"
+  },
+  {
+   "start": 29.0,
+   "end": 30.28,
+   "text": "Sunilchilikdan faydalanish,"
+  },
+  {
+   "start": 30.28,
+   "end": 31.28,
+   "text": "ba boshqala."
+  },
+  {
+   "start": 31.28,
+   "end": 33.2,
+   "text": "Master Class-da qatmirash mutlaka obeybul,"
+  },
+  {
+   "start": 33.2,
+   "end": 35.44,
+   "text": "fagat gina pastigi xabar orqali royxatdan otib,"
+  },
+  {
+   "start": 35.44,
+   "end": 37.2,
+   "text": "biznin Yapok Telegram kanalamizgi"
+  },
+  {
+   "start": 37.2,
+   "end": 38.2,
+   "text": "koshirib olshiniz gerek."
+  }
+ ],
+ "chars": 784,
+ "chars_per_s": 20.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

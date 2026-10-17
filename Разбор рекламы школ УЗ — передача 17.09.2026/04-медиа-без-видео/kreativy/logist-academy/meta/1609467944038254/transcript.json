@@ -1,0 +1,91 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Ular ishla yapdi."
+  },
+  {
+   "start": 2.0,
+   "end": 4.0,
+   "text": "Ular aygi 2000-3000-5000$ liyadchi."
+  },
+  {
+   "start": 4.0,
+   "end": 6.0,
+   "text": "Dajundan kopro pul top yagyanlari bar."
+  },
+  {
+   "start": 6.0,
+   "end": 8.0,
+   "text": "En qizig ularini yashi 19-20-21 yashi."
+  },
+  {
+   "start": 8.0,
+   "end": 10.0,
+   "text": "18-19 yashi da vaygisikani."
+  },
+  {
+   "start": 10.0,
+   "end": 12.0,
+   "text": "Baxin yalishki, 1-2 yili tajribi bar."
+  },
+  {
+   "start": 12.0,
+   "end": 14.0,
+   "text": "Ixilash yapdi."
+  },
+  {
+   "start": 14.0,
+   "end": 16.0,
+   "text": "Hazir kundi aygi 23000-3000$ liyadchi."
+  },
+  {
+   "start": 16.0,
+   "end": 18.0,
+   "text": "Ham masayi kursan, ota-analar kursan."
+  },
+  {
+   "start": 18.0,
+   "end": 20.0,
+   "text": "Balasi yaxshi pul top yapdi."
+  },
+  {
+   "start": 20.0,
+   "end": 22.0,
+   "text": "En qizigi ular universiteti oqidi."
+  },
+  {
+   "start": 22.0,
+   "end": 24.0,
+   "text": "Diplomun ariyam yok."
+  },
+  {
+   "start": 24.0,
+   "end": 26.0,
+   "text": "Hich kanaka."
+  },
+  {
+   "start": 26.0,
+   "end": 28.0,
+   "text": "Hich kanaka IELTS sertifikat ham keremaz."
+  },
+  {
+   "start": 28.0,
+   "end": 43.84,
+   "text": "Fakat ingilis tind orta daracada bilseylar, və yashiylar, və maktabbi bitirgan bosaylar, və 18-19 yashta bostaylar və yashiylar, kelasla, birayda ammida uzumsilayga, yaxshilay lagi iskani orqatama, kegen masha, amerika lagi iskasi degi top yonarishla, dispatch, update yonarishladan bitdasi ishqab qorub koyamiz."
+  },
+  {
+   "start": 44.12,
+   "end": 49.98,
+   "text": "Laxsh orqana digan bosayiz, ishtan mambayo, savarla bolay digan bosay, pastegi tudumarkali roxatdan otin, tolu orham alimad veramiz."
+  }
+ ],
+ "chars": 875,
+ "chars_per_s": 17.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.22,
+   "text": "Sintam, sevarim, o' inan, o' inanma."
+  },
+  {
+   "start": 7.62,
+   "end": 8.02,
+   "text": "Bismillah."
+  },
+  {
+   "start": 10.78,
+   "end": 12.98,
+   "text": "Sizin di xam, ayis nadi janiz."
+  },
+  {
+   "start": 13.36,
+   "end": 15.54,
+   "text": "Uzum ka ve shiren bolisini zizaniz."
+  },
+  {
+   "start": 15.88,
+   "end": 17.2,
+   "text": "International School of Learning."
+  },
+  {
+   "start": 17.64,
+   "end": 18.54,
+   "text": "Kuzgi mausumge."
+  },
+  {
+   "start": 18.98,
+   "end": 20.12,
+   "text": "Ki atta qabul ocik."
+  }
+ ],
+ "chars": 184,
+ "chars_per_s": 7.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,71 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.9,
+   "text": "Academic Support ozun endini ishqiladi."
+  },
+  {
+   "start": 2.02,
+   "end": 3.64,
+   "text": "O talabalarini imtikonlarga tiyarlaydi."
+  },
+  {
+   "start": 3.72,
+   "end": 5.5,
+   "text": "Tushunmagan mauzlarini qaytib tushuntiradi."
+  },
+  {
+   "start": 5.72,
+   "end": 8.56,
+   "text": "Ba en yasas talabalarda ingilisilgi bolgan ishtiyokni,"
+  },
+  {
+   "start": 8.88,
+   "end": 10.42,
+   "text": "yanadi mustaqcamilashki ordandiradi."
+  },
+  {
+   "start": 10.56,
+   "end": 13.88,
+   "text": "Andijan Filial International Schoolda Academic Support vakansasi qochi."
+  },
+  {
+   "start": 14.04,
+   "end": 16.56,
+   "text": "Ayig maasha 7.000.000-9.000.000.000."
+  },
+  {
+   "start": 16.62,
+   "end": 18.18,
+   "text": "Ish saati isa 2-8 gechi."
+  },
+  {
+   "start": 18.28,
+   "end": 20.96,
+   "text": "Talablarimiz, uzbekla ruslilardi erkin buloqat,"
+  },
+  {
+   "start": 21.16,
+   "end": 23.98,
+   "text": "ba ayniltsan 7 balgi ege bolishengiz kirek bolidi."
+  },
+  {
+   "start": 23.98,
+   "end": 25.76,
+   "text": "Agar dilsiz udda laymanı bolishengiz,"
+  },
+  {
+   "start": 26.02,
+   "end": 27.5,
+   "text": "xavalakali ariza xalbidi."
+  }
+ ],
+ "chars": 512,
+ "chars_per_s": 17.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

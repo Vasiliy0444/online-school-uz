@@ -1,0 +1,416 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Tanimim, onun nido, nikali di ish yaqbiz yuk."
+  },
+  {
+   "start": 2.0,
+   "end": 5.0,
+   "text": "Salam alaykum, ismim Bilshar Deg, 21 yashlaman."
+  },
+  {
+   "start": 5.0,
+   "end": 5.5,
+   "text": "Tayyar kansiz."
+  },
+  {
+   "start": 5.5,
+   "end": 6.0,
+   "text": "Anacan."
+  },
+  {
+   "start": 6.0,
+   "end": 7.0,
+   "text": "Nüvessetda oqim an."
+  },
+  {
+   "start": 7.0,
+   "end": 8.0,
+   "text": "Karsit mi yunaril ishda?"
+  },
+  {
+   "start": 8.0,
+   "end": 8.5,
+   "text": "Sohtver."
+  },
+  {
+   "start": 8.5,
+   "end": 9.5,
+   "text": "Kandiyak yuk qaldis?"
+  },
+  {
+   "start": 9.5,
+   "end": 10.5,
+   "text": "Biye tavsiya safasida."
+  },
+  {
+   "start": 10.5,
+   "end": 11.0,
+   "text": "Kim tavsiya qaldi?"
+  },
+  {
+   "start": 11.0,
+   "end": 15.5,
+   "text": "Qala Moğlu boladi, haza öz karay edishlaydi, ash ayati boyi che full stack edishlaydi."
+  },
+  {
+   "start": 15.5,
+   "end": 18.5,
+   "text": "Karay hamma tavsiya bulan ki yinaygan oda, qaz bir kishi internetin ki yinaygan di yijaydi."
+  },
+  {
+   "start": 18.5,
+   "end": 20.0,
+   "text": "Nimi ki tavsiya qalishgan?"
+  },
+  {
+   "start": 20.0,
+   "end": 22.0,
+   "text": "qalim qalim qalim"
+  },
+  {
+   "start": 22.0,
+   "end": 24.0,
+   "text": "qalim"
+  },
+  {
+   "start": 24.0,
+   "end": 26.0,
+   "text": "qalim"
+  },
+  {
+   "start": 26.0,
+   "end": 28.0,
+   "text": "qalim"
+  },
+  {
+   "start": 28.0,
+   "end": 30.0,
+   "text": "qalim"
+  },
+  {
+   "start": 30.0,
+   "end": 32.0,
+   "text": "qalim"
+  },
+  {
+   "start": 32.0,
+   "end": 34.0,
+   "text": "qalim"
+  },
+  {
+   "start": 34.0,
+   "end": 36.0,
+   "text": "qalim"
+  },
+  {
+   "start": 36.0,
+   "end": 38.0,
+   "text": "qalim"
+  },
+  {
+   "start": 38.0,
+   "end": 40.0,
+   "text": "qalim"
+  },
+  {
+   "start": 40.0,
+   "end": 42.0,
+   "text": "qalim"
+  },
+  {
+   "start": 42.0,
+   "end": 44.0,
+   "text": "qalim"
+  },
+  {
+   "start": 44.0,
+   "end": 46.0,
+   "text": "qalim"
+  },
+  {
+   "start": 46.0,
+   "end": 48.0,
+   "text": "qalim"
+  },
+  {
+   "start": 48.0,
+   "end": 49.42,
+   "text": "Kurç sakana okulisiz."
+  },
+  {
+   "start": 49.42,
+   "end": 51.0,
+   "text": "Orta chayin, universitet bolub."
+  },
+  {
+   "start": 51.0,
+   "end": 52.66,
+   "text": "Baxana, saol ordey, saol okulsin."
+  },
+  {
+   "start": 52.66,
+   "end": 53.44,
+   "text": "Haa, okimayin."
+  },
+  {
+   "start": 53.44,
+   "end": 55.14,
+   "text": "Künki min yezashda yoteyabdi, birdaniga."
+  },
+  {
+   "start": 55.14,
+   "end": 57.06,
+   "text": "Kitab rastan insana okut qarayda, yotlar qizay."
+  },
+  {
+   "start": 57.06,
+   "end": 58.2,
+   "text": "Ola, usudashda ishkere."
+  },
+  {
+   "start": 58.2,
+   "end": 60.12,
+   "text": "Ozgarimaygan yeganan arsa, bo, ozgarishdir."
+  },
+  {
+   "start": 60.12,
+   "end": 62.64,
+   "text": "Yani, ozgarish insana har doymir, wajlarnishi,"
+  },
+  {
+   "start": 62.64,
+   "end": 63.8,
+   "text": "dunayon yaragli tuki toqtamayin."
+  },
+  {
+   "start": 63.8,
+   "end": 65.76,
+   "text": "Shunun chini ilofan shurik darazayi ki yetibiyin."
+  },
+  {
+   "start": 65.76,
+   "end": 67.6,
+   "text": "Insana doyim ozgarishkiye ihtiyalci bo."
+  },
+  {
+   "start": 67.6,
+   "end": 69.06,
+   "text": "Bugun bir yangi malamat olgan diz."
+  },
+  {
+   "start": 69.06,
+   "end": 70.38,
+   "text": "shus suhbatimizda, otoshimizda"
+  },
+  {
+   "start": 70.38,
+   "end": 72.22,
+   "text": "ertage bugingide bolishki hakqiz yok"
+  },
+  {
+   "start": 72.22,
+   "end": 73.94,
+   "text": "shunki sizde, yangi, bilin vay konukmalar bo"
+  },
+  {
+   "start": 73.94,
+   "end": 75.5,
+   "text": "hayvati ki, shun integratisi qala olishkerik"
+  },
+  {
+   "start": 75.5,
+   "end": 78.26,
+   "text": "min, adatan, har günni liftten faydalanmasini piyada chikama"
+  },
+  {
+   "start": 78.26,
+   "end": 79.82,
+   "text": "shunki insandi kaloriya boshkarani"
+  },
+  {
+   "start": 79.82,
+   "end": 80.9,
+   "text": "bu, bitne misal ketiri yapa"
+  },
+  {
+   "start": 80.9,
+   "end": 82.78,
+   "text": "adatlar bo ucadi, insandi adatlar boshkarani"
+  },
+  {
+   "start": 82.78,
+   "end": 84.98,
+   "text": "ham malasada tabasusun kulu kyorishchi grobili"
+  },
+  {
+   "start": 84.98,
+   "end": 85.82,
+   "text": "adatlani shungi"
+  },
+  {
+   "start": 85.82,
+   "end": 87.14,
+   "text": "tanishi ishardi masayinan o dan"
+  },
+  {
+   "start": 87.14,
+   "end": 89.14,
+   "text": "tanimi iman, ono nido, ono yagali di iski hakqiz yok"
+  },
+  {
+   "start": 89.14,
+   "end": 90.86,
+   "text": "kanakarishki yirmaksti erte, bitirigandanki"
+  },
+  {
+   "start": 90.86,
+   "end": 92.06,
+   "text": "Amaniyot bulag?"
+  },
+  {
+   "start": 92.06,
+   "end": 93.26,
+   "text": "Qaisi kampanyan ish kekir mohchiz?"
+  },
+  {
+   "start": 93.26,
+   "end": 95.56,
+   "text": "Tavsiyaqigan bolag, mir payetlizda proyektik kiyotarib yetisdi."
+  },
+  {
+   "start": 95.56,
+   "end": 99.8,
+   "text": "Kursi uryanyayken payetizdi, bugi uryanyan yansizigan mohchizda proyektin invadar qismin davam etirib kiyoturilaz har kuna."
+  },
+  {
+   "start": 99.8,
+   "end": 101.0,
+   "text": "Qaisi kampanyan ish kekir mohchiz?"
+  },
+  {
+   "start": 101.0,
+   "end": 104.7,
+   "text": "Hazir, bashlanqich oku yapbano, sakiz ay okuyandaygin, blamb."
+  },
+  {
+   "start": 104.7,
+   "end": 106.46,
+   "text": "Sizi altaynayki uzgarib qalamanda boyurisim?"
+  },
+  {
+   "start": 106.46,
+   "end": 107.72,
+   "text": "Oqushim boych, ilmim boych."
+  },
+  {
+   "start": 107.72,
+   "end": 109.7,
+   "text": "Ilmimiz boych, legin duniyo qarashi boych uzgaribmiz."
+  },
+  {
+   "start": 109.7,
+   "end": 111.46,
+   "text": "yani siz kays kampanyash ki oladda, oylav korynchi?"
+  },
+  {
+   "start": 111.46,
+   "end": 113.66,
+   "text": "Kampany, an xazr oylav koryanm yoy orostan shi?"
+  },
+  {
+   "start": 113.66,
+   "end": 115.78,
+   "text": "O, xazrdan oryani, o brykun oryani giondar samas?"
+  },
+  {
+   "start": 115.78,
+   "end": 117.86,
+   "text": "Shoni, brykun yoy orgin olm niz, aga siz xazrdan"
+  },
+  {
+   "start": 117.86,
+   "end": 120.02,
+   "text": "kays kampanyash karch bojidja, masal dzi anabogin dzi,"
+  },
+  {
+   "start": 120.02,
+   "end": 121.7,
+   "text": "koshimchad nimay ilimla olish karyay diga,"
+  },
+  {
+   "start": 121.7,
+   "end": 122.82,
+   "text": "maysad dzi shakrlan amin."
+  },
+  {
+   "start": 122.82,
+   "end": 125.06,
+   "text": "Unichin insonyin kupra balim karyay, kupra tajriba karyay."
+  },
+  {
+   "start": 125.06,
+   "end": 126.82,
+   "text": "Kaysa fulgstayg dast surchila rtan yisis?"
+  },
+  {
+   "start": 126.82,
+   "end": 129.74,
+   "text": "Dasar chala balimi balay ki kampanyala uzum, payimi?"
+  },
+  {
+   "start": 129.74,
+   "end": 131.28,
+   "text": "Ya bu mashur kampanyala dha hammas."
+  },
+  {
+   "start": 131.28,
+   "end": 132.44,
+   "text": "Instagram fayda dha nasam?"
+  },
+  {
+   "start": 132.44,
+   "end": 132.88,
+   "text": "Haa."
+  },
+  {
+   "start": 132.88,
+   "end": 134.84,
+   "text": "Kili kancha fayda dha dha gaya kaza?"
+  },
+  {
+   "start": 134.84,
+   "end": 135.76,
+   "text": "Parisavad bryanam shavad."
+  },
+  {
+   "start": 135.76,
+   "end": 137.14,
+   "text": "Nima kira ge borsi ge bryanam shavad?"
+  },
+  {
+   "start": 137.14,
+   "end": 139.2,
+   "text": "Nima kira gaya amaloy ki fayda dha gaya ziyax masmo?"
+  },
+  {
+   "start": 139.2,
+   "end": 140.7,
+   "text": "Khotoni ziyar hamad oman zibirsana."
+  },
+  {
+   "start": 140.7,
+   "end": 141.2,
+   "text": "Chacha may."
+  }
+ ],
+ "chars": 2729,
+ "chars_per_s": 18.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 1,
+ "quality": "черновое"
+}

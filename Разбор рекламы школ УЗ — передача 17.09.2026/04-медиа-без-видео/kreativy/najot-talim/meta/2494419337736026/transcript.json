@@ -1,0 +1,41 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.48,
+   "text": "Wipe coding, bu kodi ozbasan turub, web site, serin, va turliqli ilawalarini tayyarilash digan."
+  },
+  {
+   "start": 4.96,
+   "end": 10.14,
+   "text": "Bunda siz vizizke nima kereyligini, saytganak konusda bulishini, va namalar kala alishini koristadigan mutakasiz bolas."
+  },
+  {
+   "start": 10.26,
+   "end": 14.18,
+   "text": "Siz sunintilikki promoti ozasiz, va usizge noldan khavasini tayyarilab berad."
+  },
+  {
+   "start": 14.46,
+   "end": 17.26,
+   "text": "Sizese bunu korup chikasiz, togurlisis, va kayitni iski churasiz."
+  },
+  {
+   "start": 17.26,
+   "end": 25.32,
+   "text": "Siz botta uzizini rejisor sifatida tasawur kolasiz, va kol osizde sunchaki sunintiliklarini ishlatasiz, va bittida sorunan noldan uziz korup kayitayasiz."
+  },
+  {
+   "start": 25.32,
+   "end": 34.66,
+   "text": "Najat Talim sizga aynan VIBE coding-ni orgetladigan AI coding tor aili kursini sizga taklif koladi. Batarsan, mana matolishdi uchun habolani basin, oki, mana bu rakamligi telefon kolayin."
+  }
+ ],
+ "chars": 701,
+ "chars_per_s": 19.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

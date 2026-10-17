@@ -1,0 +1,128 @@
+{
+ "creative_id": "27820341164244535",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "O'qituvchilarni o'zi borku, 4 milliard, 5 milliard so'm Uzumda oborot qilisharkan, qarang.",
+  "types": [
+   "авторитет спикера",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "движение или смена кадра",
+   "деньги или результат на экране"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–0.5s: «O'qituvchilarni»; преподаватель за столом в учебном классе",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.0s: «O'qituvchilarni o'zi borku»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.5s–2.5s: смена плана — ученица в классе; субтитры «4», «4 milliard», «4 milliard 5»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Oqtu uchi lan o'zu baro oqe, tor milyar, beish milyar, som uzumda aborot qil sharka, qaray.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость",
+   "для регионов"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 1 из 4 (≈00:06): «qarang o'qituvchi»; мужчина в очках идёт по офису",
+    "timecode": "00:06"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:05] Oqtu uchi ozi uzumdi shilab sukak o'attidi, shuansmo o'xana sizgi or getadi.",
+    "timecode": "00:05"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:11] Onglayn, agar vloyatdi basiz, onlayn oqqisay zan balad.",
+    "timecode": "00:11"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:14] Agar yo, offline gelaman man getisiz oqe, qaybi metroni ejigili tiyidi choylashgan.",
+    "timecode": "00:14"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈00:19): анимированная карта с меткой «qadam»",
+    "timecode": "00:19"
+   }
+  ],
+  "revenue_claim": "4 milliard, 5 milliard so'm Uzumda oborot (о преподавателях; «4 milliard» на кадре, остальное по черновой расшифровке)"
+ },
+ "offer": {
+  "items": [
+   "скидка",
+   "бонус"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:25] Qadam education-ni 40% gechi chigirmi berish vat.",
+    "timecode": "00:25"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:29] Qilla aksiyas qetu vat.",
+    "timecode": "00:29"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (≈00:31): «undan tashqari»; мужчина у стойки открывает коробку техники Apple",
+    "timecode": "00:31"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:38] makvukki.",
+    "timecode": "00:38"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:40] randomni berilad.",
+    "timecode": "00:40"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "блогер"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук — субтитры на кадрах и расшифровка, написание исправлено («tor milyar, beish milyar, som uzumda aborot qil sharka, qaray» → «4 milliard, 5 milliard so'm Uzumda oborot qilisharkan, qarang»). Перевод: «Преподаватели-то сами, оказывается, делают на Uzum оборот 4–5 миллиардов сумов, смотрите». В кадрах хука — учебный класс (преподаватель, ученица). Дальше мужчина в очках водит по офису школы и говорит о ней со стороны («zo'r taklif etaman sizga», «Qadam Education … chegirma»); имя не звучит и не написано; в utm ссылки UZUM_Bekhzodbeck_BM → роль «блогер». Авторитет в хуке — преподавателей, а не самого говорящего. Смысл по расшифровке (написание исправлено): преподаватель сам работал и продавал на Uzum; из региона можно учиться онлайн, офлайн — в офисе у метро (карта с меткой «qadam»). Оффер: «Qadam Education 40% gacha chegirma», идёт акция («aksiya») → «скидка». Далее «undan tashqari, aynan shu aksiya paytida kelib o'qisangiz…» и неразборчиво «makvukki … randomni berilad» на фоне коробки Apple — вероятно, розыгрыш MacBook среди записавшихся; «бонус» отмечен по частично разобранной речи, суть угадана. Призыв [00:42–00:48]: «ma'lumotim sizga yetarli bo'lmagan bo'lsa, pastdagi link bo'yicha telefon nomerlaringizni qoldirsangiz, menejerlar sizga hamma ma'lumotni berishadi» (кадр 4 — «ma'lumotim sizga yetarli bo'lmagan», написание исправлено) → форма и звонок менеджера. Текста объявления нет. risk нет: сумм дохода не обещают."
+}

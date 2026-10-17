@@ -1,0 +1,36 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.38,
+   "text": "Qolizdiqi iPhone-ni afzariti tuqun maz, balki yaxshigini daromad kulus uchun ishlatin."
+  },
+  {
+   "start": 5.38,
+   "end": 9.0,
+   "text": "Instagramda qimatlii waqtizi saraflab koru atkan videolar izi muhalifi,"
+  },
+  {
+   "start": 9.0,
+   "end": 14.0,
+   "text": "mabilogrofla qisoplana da, wuli orta che 500 dolda da 1000 dolda geche top shada."
+  },
+  {
+   "start": 14.0,
+   "end": 18.0,
+   "text": "Bu kaspir talab qandiliini bilish uchun, wakanse kanallarini tekshirsiz bas."
+  },
+  {
+   "start": 18.0,
+   "end": 23.34,
+   "text": "Ux bu daromatlii kaspini adigi 2 ayda organish xokhlasiz, haziro pastigi tukmani basin."
+  }
+ ],
+ "chars": 405,
+ "chars_per_s": 17.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

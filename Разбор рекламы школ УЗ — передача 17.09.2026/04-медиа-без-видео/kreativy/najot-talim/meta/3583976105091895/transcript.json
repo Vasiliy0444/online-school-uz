@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.52,
+   "text": "Iqtisadi otxamda maaliya bilanshi diyan insolarda yangi trend payda buldi. Bu, data analitiki."
+  },
+  {
+   "start": 4.66,
+   "end": 10.34,
+   "text": "Ayni payita, Najat Talimda en kubus olaligan sohalardan biri, yani top 5 yunaristan biri bu data analitiki."
+  },
+  {
+   "start": 10.46,
+   "end": 15.3,
+   "text": "Agar siz matematika bilanshi yakshi bolsaniz, malimotlanla qayta ishlar sizgi zahuk bersi,"
+  },
+  {
+   "start": 15.7,
+   "end": 17.86,
+   "text": "min sizgi data analitiki yunarishini tavsiya kipolima."
+  },
+  {
+   "start": 18.04,
+   "end": 22.76,
+   "text": "Najat Talimda barca filerlerdi. Data analitiki kursu uchun qabul, rasman, boshlandi."
+  },
+  {
+   "start": 22.76,
+   "end": 26.48,
+   "text": "Hazira quydagi rakamlargi telefon kolinyo ki linki orqali rohatna otin."
+  },
+  {
+   "start": 26.58,
+   "end": 27.64,
+   "text": "Najat Talimda koryushkinchi."
+  }
+ ],
+ "chars": 534,
+ "chars_per_s": 19.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

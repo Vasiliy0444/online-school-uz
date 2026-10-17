@@ -1,0 +1,100 @@
+{
+ "creative_id": "2266546904194108",
+ "platform": "meta",
+ "school_id": "shahlo-alikhanova",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "сток"
+ ],
+ "hook": {
+  "verbatim": "Sun'iy intellekt bilan 5 mln daromad topsa bo'ladimi?",
+  "types": [
+   "вопрос",
+   "результат или доход",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: «SUN'IY INTELLEKT BILAN 5 MLN DAROMAD TOPSA BO'LADIMI?» — крупный текст поверх кадра; женщина в очках и хиджабе, бежевое пальто, сидит за столиком уличного кафе (европейский город, зонт, велосипеды на фоне), пьёт напиток",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Shaqloq qarayinda Suni intelek bilan 5 milyon daromad tapish, [00:02] kubchilik ki fantastikirgi tüyliyat.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (~0:18): «CHUNKI ULARNI bitta farqi AI KERAKLIGINI VAQTIDA BILISHGANI!» на фоне стилизованного пустынного пейзажа с идущим человеком",
+    "timecode": "00:18"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта",
+   "профессия будущего"
+  ],
+  "income_claim": "5 mln — заявлено в форме вопроса («5 mln daromad topsa bo'ladimi?»), не как утверждённый факт",
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:06] Xazir, chunki Uzbekistan bozordayam, [00:08] pragramiz bumagaylayam, injinoy bumagaylayam, oddi insolayam, EIA'yi organib, [00:12] 5 milyon da kub daromad tapishatda oygi.",
+    "timecode": "00:06"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (~0:30): «bu orqali daromad.» — иллюстративная вставка (женщина в кресле, не спикер)",
+    "timecode": "00:30"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (~0:42): «daromad topish bo'yicha» — зал с аплодирующей публикой на мероприятии",
+    "timecode": "00:42"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный урок"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "[BEPUL VIDEODARS] - Qanday Qilib Sun'iy Intellekt Orqali Daromad Qilish Mumkin?"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:42] video dersi taylab goganma, [00:43] video dersini korishchum, [00:44] pastayi xavalan bosib,",
+    "timecode": "00:42"
+   }
+  ]
+ },
+ "cta": {
+  "button": "See details",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "основатель или эксперт",
+  "public_name": "Shahlo Alikhanova"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук — заголовок на кадре (надёжнее расшифровки): «Sun'iy intellekt bilan 5 mln daromad topsa bo'ladimi?». Расшифровка [00:00–00:02] сильно искажена («Shaqloq qarayinda...») и дословно не восстанавливается — вероятно перефразирует тот же вопрос от первого лица; не привожу как исправленную цитату, только как сырой фрагмент. Далее по расшифровке (местами реконструировано близко к оригиналу, написание исправлено): «Hozir, chunki O'zbekiston bozorida ham dasturchi bo'lmasa ham, muhandis bo'lmasa ham, oddiy inson ham AI'ni o'rganib, 5 milliondan ko'p daromad topishyapti» — доступность без техфона. Кадр 2 обзора почти дословно совпадает с расшифровкой [00:14–00:16] («Chunki ularning bitta farqi — AI kerakligini vaqtida bilishgani»), что подтверждает: субтитры реально дублируют речь (не только заголовок). Кадры 3–4 (женщина в кресле, зал с аплодисментами) — вероятно иллюстративные вставки/сток, не сама спикер; период показа не сопоставлен с таймкодом расшифровки. Финал [00:30–00:46] (написание исправлено): «Endi shu videoni ko'rayotganlarga — agar sizda AI'ga qiziqish bo'lsa, AI orqali daromad topishni xohlasangiz, shunday odamlar uchun besh xil yo'lda daromad topish bo'yicha video dars tayyorlagan edim, pastdagi tugmani bosib ko'rishingiz mumkin» — ведёт на bepul video dars, совпадает с текстом объявления."
+}

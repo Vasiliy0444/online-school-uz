@@ -1,0 +1,136 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.32,
+   "text": "Yaxli davridagi mashakqatta bir giram zarari yok. Men ziyye vada verib etim."
+  },
+  {
+   "start": 3.32,
+   "end": 9.98,
+   "text": "Yani inson, usmirlik davridi to o'yla qurgunchi mashakqat chekishligini ilim uchun mihnat uchun qinilishligini zarari yok."
+  },
+  {
+   "start": 10.04,
+   "end": 11.94,
+   "text": "Agar u toru yolda busa, mihnata halal busa."
+  },
+  {
+   "start": 12.0,
+   "end": 15.86,
+   "text": "Keyin chaligi afsus nadama chekimasi guchun, keyin chaligi bro'nu kuruya karamimu okumasi guchun,"
+  },
+  {
+   "start": 15.94,
+   "end": 20.22,
+   "text": "keyin chaligi farzadlari yaxshiyashashir guchun irgeyikishi usmirlik davridi qattag mihnat uchkiri."
+  },
+  {
+   "start": 20.26,
+   "end": 22.34,
+   "text": "25 yoshdakin start alish yuda qinilishki bita."
+  },
+  {
+   "start": 22.34,
+   "end": 24.58,
+   "text": "Ma hayramman, ballar talebali paitida nimakladidib."
+  },
+  {
+   "start": 24.58,
+   "end": 26.7,
+   "text": "Talebali paitida khujum chaski ballar ishlas qedib."
+  },
+  {
+   "start": 26.7,
+   "end": 28.46,
+   "text": "Indi ulusi tuketaman se ulan diliyab."
+  },
+  {
+   "start": 28.46,
+   "end": 29.66,
+   "text": "Toğul ulan sham qediyab uzatan."
+  },
+  {
+   "start": 29.66,
+   "end": 32.46,
+   "text": "Lekim ulan iken paitida sart aalik indi adamlin qeynliyib duduriyab."
+  },
+  {
+   "start": 32.46,
+   "end": 33.74,
+   "text": "Xuna qabar insani gyalanimki,"
+  },
+  {
+   "start": 33.74,
+   "end": 34.98,
+   "text": "xalaya paiti qizalmashdari alim."
+  },
+  {
+   "start": 34.98,
+   "end": 36.5,
+   "text": "Ilim aval alish qeynmoyim."
+  },
+  {
+   "start": 36.5,
+   "end": 37.38,
+   "text": "Kitab qimmat boyim."
+  },
+  {
+   "start": 37.38,
+   "end": 38.3,
+   "text": "Ilim alishu quchun eva ki,"
+  },
+  {
+   "start": 38.3,
+   "end": 39.46,
+   "text": "Najat Talim yuva paitidi,"
+  },
+  {
+   "start": 39.46,
+   "end": 40.54,
+   "text": "hamad toshqingib orubukuyim."
+  },
+  {
+   "start": 40.54,
+   "end": 43.34,
+   "text": "Xazi mikonadlar ancaxin kitab oqiman, siz mohamm mikonad bar,"
+  },
+  {
+   "start": 43.34,
+   "end": 44.98,
+   "text": "ayte yur yana man, siz mohamm mikonad bar,"
+  },
+  {
+   "start": 44.98,
+   "end": 45.78,
+   "text": "qoror kinlar bar,"
+  },
+  {
+   "start": 45.78,
+   "end": 48.02,
+   "text": "qabshira man, siz ish urnilara aval gidan qibroq,"
+  },
+  {
+   "start": 48.02,
+   "end": 48.94,
+   "text": "bu anak, bu fakt."
+  },
+  {
+   "start": 48.94,
+   "end": 50.58,
+   "text": "Ba xud dushnaka urindi, agar kimdi,"
+  },
+  {
+   "start": 50.58,
+   "end": 52.66,
+   "text": "qitab olmasay, fakat gina uzini malamat qisin."
+  }
+ ],
+ "chars": 1197,
+ "chars_per_s": 22.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

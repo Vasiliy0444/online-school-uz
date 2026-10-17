@@ -1,0 +1,66 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.36,
+   "text": "Iki yildan beri ingilistiri bilan shukurlanayotkan, bugun sanxam,"
+  },
+  {
+   "start": 3.36,
+   "end": 5.8,
+   "text": "kesh shukur speakingimni oshir olmayadik kalyanim."
+  },
+  {
+   "start": 5.8,
+   "end": 9.56,
+   "text": "Leki, ingili fay ilogasigdagi subbatqanin fungsyasi oqalib."
+  },
+  {
+   "start": 9.56,
+   "end": 13.44,
+   "text": "Bor yogu baraychide, speakingimni sizilani daracadi oshir lim."
+  },
+  {
+   "start": 13.44,
+   "end": 17.0,
+   "text": "Subbatqanida ea bilan istergan mauzunun boychik haplashaman,"
+  },
+  {
+   "start": 17.0,
+   "end": 20.0,
+   "text": "ingi kizigi suni itirikmenig daracamga moslashib,"
+  },
+  {
+   "start": 20.0,
+   "end": 21.4,
+   "text": "min bilan subbat qiladi."
+  },
+  {
+   "start": 21.4,
+   "end": 23.84,
+   "text": "Ingim okumu hech kim ustimdan kulmaydi."
+  },
+  {
+   "start": 23.84,
+   "end": 25.44,
+   "text": "Hotir canmashik kalamam."
+  },
+  {
+   "start": 25.44,
+   "end": 28.64,
+   "text": "Sizxam ingilistiri ingilisi uyanmastan oshir makchi bolsanyiz,"
+  },
+  {
+   "start": 28.64,
+   "end": 31.14,
+   "text": "Sizge ingin ifay ilo vasnada tavsiya qalaman."
+  }
+ ],
+ "chars": 549,
+ "chars_per_s": 17.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

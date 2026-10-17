@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.36,
+   "text": "Uzun markettagi oquchimiz bura o'ydamimi di bollar oyuncağini sotup 44 milyon sado aylanmasi kildi va bularinin barchasi Fultik Metro Fibers Yunarishdi idi."
+  },
+  {
+   "start": 9.5,
+   "end": 15.42,
+   "text": "Man khayrlayiq sarva. Marketplislarda 5 milyarddan oshuk sado aylanmasi ki ege bugan sot uchiq soblanima."
+  },
+  {
+   "start": 15.54,
+   "end": 19.78,
+   "text": "Va uchillik tajribami aynan sili uchun bitti amali kurska yigdim."
+  },
+  {
+   "start": 19.78,
+   "end": 25.28,
+   "text": "Shukursda biz sizge dukan atishdan bashlap, daramatli maqsilatlarin tanlap, ularin satuga chikarish,"
+  },
+  {
+   "start": 25.6,
+   "end": 30.32,
+   "text": "wa salda jarayanlarin aftamatilashdishkeche bolgan jarayanin noldan urgatib baramiz."
+  },
+  {
+   "start": 30.46,
+   "end": 33.6,
+   "text": "Yangi guruklarimizgi qabul atip, lekin jalar sona chekilanya."
+  },
+  {
+   "start": 33.84,
+   "end": 37.56,
+   "text": "Khazrak ariza qaldirin, wa uzun marketta daramat qilishni biz bilan bashlayin."
+  }
+ ],
+ "chars": 655,
+ "chars_per_s": 17.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

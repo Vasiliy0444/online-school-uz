@@ -1,0 +1,21 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.72,
+   "text": "Kengi il gelqam ayatistan 8 yarim yuki 9 omoxchimiz siz"
+  },
+  {
+   "start": 3.72,
+   "end": 7.16,
+   "text": "batdagi xoğli dotin va ingilisdili kurslargi yozinin."
+  }
+ ],
+ "chars": 109,
+ "chars_per_s": 12.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

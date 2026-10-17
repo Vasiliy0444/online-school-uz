@@ -1,0 +1,69 @@
+{
+ "creative_id": "1142238940872878",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Ingliz tilini o'rgandingiz. Endi, bugun sizga Inter Nation School yangiligi haqida aytib beraman.",
+  "types": [
+   "новость"
+  ],
+  "visual": [
+   "лицо в первом кадре"
+  ],
+  "evidence": [
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: мужчина в костюме в полоску на фоне вывески «MUMTOZ» (торговый центр), бейдж на груди читается как «BRANCH MANAGER» на кадрах обзора",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Engilis sinni organ dingiz. Genchi, bugun sizgi International School Yangiligi haqida aytib birama.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:06] IELTS ni organish ushun, yagona mukamal dastur bor mi?",
+    "timecode": "00:06"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "INTER NATION O'zbekistonda birinchi, IELTS 9.0 egalari, native speaker va CELTA sertifikatiga ega ustozlar bilan birgalikda yaratilgan — IELTS-X mualliflik dasturini taqdim etadi!"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "Самый длинный ролик после 1148565487490717 (87.2с). Герой — на бейдже читается «BRANCH MANAGER» (не «основатель/эксперт» по методике, поэтому роль оставлена «актёр или ведущий»). Явный произнесённый призыв в конце расшифровки [02:24] «Xawala orxali ruyxatdan udi» → «Havola orqali ro'yxatdan o'ting» — отсюда in_creative «перейти по ссылке»/«основной продукт»; отдельно текст объявления вдобавок просит «Izohlarda «➕» qoldiring!» (параллельный письменный призыв к комментарию), но т.к. в самом ролике звучит прямой призыв к переходу по ссылке, funnel_stage поставлен по нему, а не по подписи. Средняя часть расшифровки (~00:14–01:57) про структуру IELTS-X (Student's Book, Unique Presentations, Student App) в целом соответствует тексту объявления, но сильно искажена — подробности из неё в структурированные поля не включаю."
+}

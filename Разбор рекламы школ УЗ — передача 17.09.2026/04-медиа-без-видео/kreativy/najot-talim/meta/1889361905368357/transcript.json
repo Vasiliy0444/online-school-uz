@@ -1,0 +1,71 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.86,
+   "text": "Dostan, azad talima giyadim a'zim. Azad talimda zor yengilik buddukdayken, agar yashlarizdi, ballarizdi ber adam olsaniz, dim zor yengilik."
+  },
+  {
+   "start": 7.54,
+   "end": 17.36,
+   "text": "Aktyabrni 10-ci sene-seneci agar bira oqisha gir adam olsaniz, malim bir kurslarinda SME, marketing, design, desturla, suni, intellect,"
+  },
+  {
+   "start": 17.36,
+   "end": 20.8,
+   "text": "qaqaza sakhalarinda eger farizatlaiz bu qita dam olsaniz,"
+  },
+  {
+   "start": 20.86,
+   "end": 22.68,
+   "text": "birda köp yengiliqda ba,"
+  },
+  {
+   "start": 22.84,
+   "end": 25.36,
+   "text": "Cambridge oku mərkazina skitkelay,"
+  },
+  {
+   "start": 25.46,
+   "end": 26.82,
+   "text": "mutala, va başka-başka,"
+  },
+  {
+   "start": 27.16,
+   "end": 30.74,
+   "text": "anca bir onlan ziyad caayla bilan hamkarlik qiliptilaz,"
+  },
+  {
+   "start": 30.82,
+   "end": 33.38,
+   "text": "shulada bonuslarina skitkelayini iyab olasiz,"
+  },
+  {
+   "start": 33.88,
+   "end": 35.24,
+   "text": "daxalasa ham ilimni aladi,"
+  },
+  {
+   "start": 35.4,
+   "end": 36.84,
+   "text": "ham kaspitunarlik oladi farizatlaiz,"
+  },
+  {
+   "start": 36.92,
+   "end": 39.1,
+   "text": "ham bonus aksilana faydamak qilas."
+  },
+  {
+   "start": 39.1,
+   "end": 40.2,
+   "text": "daxalasa."
+  }
+ ],
+ "chars": 628,
+ "chars_per_s": 15.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

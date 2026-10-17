@@ -1,0 +1,86 @@
+2026-09-16 18:17:35 start: 80 jobs, 0 already done, 80 to fetch
+2026-09-16 18:17:51 [1/80] 1366425478509152: status=403 ads=30 counter=~160 results no_results=False 16s
+2026-09-16 18:18:37 [2/80] 1756046018633090: status=403 ads=30 counter=~30 results no_results=False 15s
+2026-09-16 18:19:36 [3/80] 1379707713766932: status=403 ads=30 counter=~190 results no_results=False 15s
+2026-09-16 18:20:25 [4/80] 1632092101784848: status=403 ads=10 counter=~120 results no_results=False 15s
+2026-09-16 18:21:17 [5/80] 2596829784098456: status=403 ads=30 counter=~40 results no_results=False 15s
+2026-09-16 18:22:14 [6/80] 2748959295486983: status=403 ads=30 counter=~100 results no_results=False 15s
+2026-09-16 18:23:05 [7/80] 1091767420178834: status=403 ads=31 counter=~110 results no_results=False 15s
+2026-09-16 18:23:59 [8/80] 1771826157380200: status=403 ads=15 counter=~14 results no_results=False 15s
+2026-09-16 18:24:39 [9/80] 3651638781656079: status=403 ads=13 counter=~12 results no_results=False 15s
+2026-09-16 18:25:27 [10/80] 3931634066978799: status=403 ads=30 counter=~95 results no_results=False 15s
+2026-09-16 18:26:15 [11/80] 1573174234317319: status=403 ads=30 counter=~85 results no_results=False 15s
+2026-09-16 18:27:12 [12/80] 1570015208045173: status=403 ads=30 counter=~120 results no_results=False 15s
+2026-09-16 18:28:04 [13/80] 2596635454129824: status=403 ads=26 counter=~25 results no_results=False 15s
+2026-09-16 18:28:52 [14/80] 1029503123111644: status=403 ads=10 counter=~9 results no_results=False 15s
+2026-09-16 18:29:34 [15/80] 1569895414304344: status=403 ads=30 counter=~96 results no_results=False 15s
+2026-09-16 18:30:17 [16/80] 2136835870205213: status=403 ads=31 counter=~86 results no_results=False 15s
+2026-09-16 18:31:00 [17/80] 1517118970202867: status=403 ads=30 counter=~47 results no_results=False 15s
+2026-09-16 18:31:49 [18/80] 1897757347517635: status=403 ads=30 counter=~57 results no_results=False 15s
+2026-09-16 18:32:48 [19/80] 942596058894578: status=403 ads=12 counter=~11 results no_results=False 15s
+2026-09-16 18:33:34 [20/80] 1028649392822461: status=403 ads=8 counter=~7 results no_results=False 15s
+2026-09-16 18:34:32 [21/80] 1611223900489460: status=403 ads=31 counter=~120 results no_results=False 17s
+2026-09-16 18:35:30 [22/80] 1610900763774598: status=403 ads=11 counter=~10 results no_results=False 15s
+2026-09-16 18:36:20 [23/80] 1860211961635927: status=403 ads=30 counter=~84 results no_results=False 15s
+2026-09-16 18:37:03 [24/80] 1626404865877266: status=403 ads=6 counter=~5 results no_results=False 15s
+2026-09-16 18:38:03 [25/80] 1413106750789202: status=403 ads=26 counter=~25 results no_results=False 15s
+2026-09-16 18:38:56 [26/80] 27210461388596800: status=403 ads=30 counter=~53 results no_results=False 15s
+2026-09-16 18:39:43 [27/80] 1071118489233804: status=403 ads=11 counter=~10 results no_results=False 15s
+2026-09-16 18:40:34 [28/80] 1611543563833206: status=403 ads=4 counter=~3 results no_results=False 15s
+2026-09-16 18:41:16 [29/80] 1084748643897737: status=403 ads=9 counter=~8 results no_results=False 15s
+2026-09-16 18:42:15 [30/80] 1584527929717116: status=403 ads=20 counter=~19 results no_results=False 15s
+2026-09-16 18:43:00 [31/80] 1684737749443483: status=403 ads=16 counter=~17 results no_results=False 15s
+2026-09-16 18:43:55 [32/80] 1065027329668594: status=403 ads=8 counter=~7 results no_results=False 15s
+2026-09-16 18:44:52 [33/80] 1580352830240113: status=403 ads=30 counter=~49 results no_results=False 15s
+2026-09-16 18:45:43 [34/80] 2852417701795009: status=403 ads=30 counter=~85 results no_results=False 15s
+2026-09-16 18:46:41 [35/80] 1750360909467972: status=403 ads=13 counter=~12 results no_results=False 15s
+2026-09-16 18:47:23 [36/80] 1101117128957349: status=403 ads=6 counter=~5 results no_results=False 15s
+2026-09-16 18:48:14 [37/80] 2291261657945264: status=403 ads=30 counter=~100 results no_results=False 15s
+2026-09-16 18:49:13 [38/80] 960551267027834: status=403 ads=30 counter=~160 results no_results=False 15s
+2026-09-16 18:50:00 [39/80] 1005986465788455: status=403 ads=7 counter=~6 results no_results=False 15s
+2026-09-16 18:50:52 [40/80] 1073297482091260: status=403 ads=8 counter=~7 results no_results=False 15s
+2026-09-16 18:51:46 [41/80] 1687841545835931: status=403 ads=7 counter=~6 results no_results=False 15s
+2026-09-16 18:52:38 [42/80] 1010946131959616: status=403 ads=30 counter=~78 results no_results=False 15s
+2026-09-16 18:53:28 [43/80] 1071280629088426: status=403 ads=30 counter=~120 results no_results=False 15s
+2026-09-16 18:54:11 [44/80] 2907418496275290: status=403 ads=19 counter=~18 results no_results=False 15s
+2026-09-16 18:54:53 [45/80] 1462352265943546: status=403 ads=17 counter=~16 results no_results=False 15s
+2026-09-16 18:55:46 [46/80] 3186613838200167: status=403 ads=30 counter=~46 results no_results=False 15s
+2026-09-16 18:56:40 [47/80] 2023358994815259: status=403 ads=6 counter=~5 results no_results=False 15s
+2026-09-16 18:57:35 [48/80] 1712126239888659: status=403 ads=4 counter=~3 results no_results=False 15s
+2026-09-16 18:58:28 [49/80] 2212299902842947: status=403 ads=30 counter=~67 results no_results=False 15s
+2026-09-16 18:59:23 [50/80] 1095898190053365: status=403 ads=30 counter=~31 results no_results=False 15s
+2026-09-16 19:00:10 [51/80] 1010276021897178: status=403 ads=5 counter=~4 results no_results=False 15s
+2026-09-16 19:00:53 [52/80] 1613201869778665: status=403 ads=4 counter=~3 results no_results=False 15s
+2026-09-16 19:01:37 [53/80] 1609298507478618: status=403 ads=10 counter=~9 results no_results=False 15s
+2026-09-16 19:02:26 [54/80] 1643454780237562: status=403 ads=17 counter=~16 results no_results=False 15s
+2026-09-16 19:03:21 [55/80] 1081982550861819: status=403 ads=20 counter=~19 results no_results=False 15s
+2026-09-16 19:04:17 [56/80] 910488435138125: status=403 ads=30 counter=~37 results no_results=False 15s
+2026-09-16 19:05:16 [57/80] 1500431758506155: status=403 ads=12 counter=~11 results no_results=False 15s
+2026-09-16 19:06:03 [58/80] 1258670336344494: status=403 ads=0 counter=None no_results=True 15s
+2026-09-16 19:06:59 [59/80] 29623806963940957: status=403 ads=10 counter=~9 results no_results=False 15s
+2026-09-16 19:07:57 [60/80] 27676140485373532: status=403 ads=5 counter=~4 results no_results=False 15s
+2026-09-16 19:08:52 [61/80] 1639035084254032: status=403 ads=2 counter=~1 result no_results=False 15s
+2026-09-16 19:09:48 [62/80] 1350232519907007: status=403 ads=10 counter=~9 results no_results=False 15s
+2026-09-16 19:10:38 [63/80] 2156950881915390: status=403 ads=2 counter=~1 result no_results=False 15s
+2026-09-16 19:11:37 [64/80] 1620316826398750: status=403 ads=18 counter=~17 results no_results=False 15s
+2026-09-16 19:12:28 [65/80] 1406502501427813: status=403 ads=30 counter=~47 results no_results=False 15s
+2026-09-16 19:13:28 [66/80] 4414561895523311: status=403 ads=6 counter=~5 results no_results=False 15s
+2026-09-16 19:14:14 [67/80] 1682487946168147: status=403 ads=16 counter=~15 results no_results=False 15s
+2026-09-16 19:14:58 [68/80] 1811582070284428: status=403 ads=30 counter=~42 results no_results=False 15s
+2026-09-16 19:15:48 [69/80] 2485343921950537: status=403 ads=3 counter=~2 results no_results=False 15s
+2026-09-16 19:16:42 [70/80] 2034336297287135: status=403 ads=10 counter=~9 results no_results=False 15s
+2026-09-16 19:17:42 [71/80] 2235739523868419: status=403 ads=19 counter=~18 results no_results=False 15s
+2026-09-16 19:18:35 [72/80] 1092976069799567: status=403 ads=6 counter=~5 results no_results=False 15s
+2026-09-16 19:19:27 [73/80] 2707064102975775: status=403 ads=2 counter=~1 result no_results=False 15s
+2026-09-16 19:20:14 [74/80] 4528557554095076: status=403 ads=30 counter=~150 results no_results=False 15s
+2026-09-16 19:21:05 [75/80] 1082637051375008: status=403 ads=0 counter=None no_results=True 15s
+2026-09-16 19:21:55 [76/80] 2641871709573115: status=403 ads=31 counter=~220 results no_results=False 15s
+2026-09-16 19:22:42 [77/80] 1020863190802159: status=403 ads=2 counter=~1 result no_results=False 15s
+2026-09-16 19:26:29 [78/80] 1554174292563445: status=None ads=0 counter=None no_results=False 15s
+2026-09-16 19:37:13 [79/80] 1630579425300917: status=None ads=0 counter=None no_results=False 323s
+2026-09-16 19:38:08 [80/80] 1057114310531276: status=403 ads=0 counter=None no_results=True 15s
+2026-09-16 19:38:08 done
+2026-09-16 21:15:30 start: 2 jobs, 0 already done, 2 to fetch
+2026-09-16 21:15:47 [1/2] 1554174292563445: status=403 ads=2 counter=~1 result no_results=False 16s
+2026-09-16 21:16:30 [2/2] 1630579425300917: status=403 ads=1 counter=~1 result no_results=False 15s
+2026-09-16 21:16:30 done

@@ -1,0 +1,82 @@
+{
+ "url": "https://ithouseedu.uz",
+ "domain": "ithouseedu.uz",
+ "pages_scanned": [
+  "https://ithouseedu.uz/courses/7-smm"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)"
+  ],
+  "platform": [
+   "Next.js"
+  ]
+ },
+ "seo_metadata": {
+  "title": "SMM | IT House | IT House",
+  "description": "SMM mutaxassislari brendlarni ijtimoiy tarmoqlarda targ‘ib qiladi: kontent, auditoriya va reklama bilan ishlaydi, va shu orqali daromad qiladi....",
+  "open_graph": {
+   "title": "SMM kursi",
+   "description": "SMM mutaxassislari brendlarni ijtimoiy tarmoqlarda targ‘ib qiladi: kontent, auditoriya va reklama bilan ishlaydi, va shu orqali daromad qiladi....",
+   "image": "https://api.ithouseedu.uz/media/course_banners/ChatGPT_Image_Jul_23_2026_01_50_17_PM.png",
+   "type": "website"
+  },
+  "twitter_card": {
+   "card": "summary_large_image",
+   "title": "SMM",
+   "description": "SMM mutaxassislari brendlarni ijtimoiy tarmoqlarda targ‘ib qiladi: kontent, auditoriya va reklama bilan ishlaydi, va shu orqali daromad qiladi....",
+   "image": "https://api.ithouseedu.uz/media/course_banners/ChatGPT_Image_Jul_23_2026_01_50_17_PM.png"
+  },
+  "structured_data": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "SMM",
+    "description": "SMM mutaxassislari brendlarni ijtimoiy tarmoqlarda targ‘ib qiladi: kontent, auditoriya va reklama bilan ishlaydi, va shu orqali daromad qiladi.",
+    "provider": {
+     "@type": "Organization",
+     "name": "IT House",
+     "sameAs": "https://www.ithouseedu.uz/"
+    },
+    "image": "https://api.ithouseedu.uz/media/course_banners/ChatGPT_Image_Jul_23_2026_01_50_17_PM.png"
+   }
+  ],
+  "headings": {
+   "h1": [
+    "SMM"
+   ],
+   "h2": [
+    "Batafsil ma&#x27;lumot",
+    "IT HOUSE - Kelajak shu yerda"
+   ],
+   "h3": [
+    "Ijtimoiy tarmoqlar"
+   ]
+  }
+ },
+ "ctas": [
+  {
+   "text": "Contact",
+   "href": "#support"
+  }
+ ],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [
+   "https://ithouseedu.uz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-white.fce634ce.png&amp;w=128&amp;q=75",
+   "https://ithouseedu.uz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-white.fce634ce.png&amp;w=64&amp;q=75"
+  ],
+  "total_images_found": 12
+ },
+ "integration_links": [],
+ "hidden_elements": {
+  "experiments_or_flags": [
+   "outline",
+   "default"
+  ]
+ }
+}

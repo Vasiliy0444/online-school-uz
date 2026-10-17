@@ -1,0 +1,66 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.24,
+   "text": "Ingilis tarida soz yotlayisiz, lekin iki uch kundan kin esizdan chixib kitadimi?"
+  },
+  {
+   "start": 4.4,
+   "end": 8.26,
+   "text": "Engli fayni ishlatma gulimche, manyam aynan shu momolar qinab gelardi."
+  },
+  {
+   "start": 8.46,
+   "end": 13.76,
+   "text": "Ilova da sozlarini oddi yotlamaysiz, bal ki xizikarli mashkilar bilan tez de esilab qolasiz."
+  },
+  {
+   "start": 13.86,
+   "end": 16.08,
+   "text": "Shunchak yotlashki qindargan sozlaringizna,"
+  },
+  {
+   "start": 16.16,
+   "end": 20.88,
+   "text": "vocabulary bolimiga, huddi playlistingizgi musiki talinagin di qoshib qoyin boldi."
+  },
+  {
+   "start": 21.24,
+   "end": 22.82,
+   "text": "Qolganana, oz esilatadi."
+  },
+  {
+   "start": 22.82,
+   "end": 26.34,
+   "text": "Yotlayan sozlaringiz, benim loqatim bolimida saklanib qoladi,"
+  },
+  {
+   "start": 26.34,
+   "end": 31.14,
+   "text": "va ularini beye maral xoxil agen paytiniz qayta takrolaşim konyatigi egasiz."
+  },
+  {
+   "start": 31.28,
+   "end": 34.38,
+   "text": "Va bu tigana endi sozlar esizdan çıxit gitmidi."
+  },
+  {
+   "start": 34.6,
+   "end": 37.08,
+   "text": "Siza mandik vakebdor idarijesini oşirib çün,"
+  },
+  {
+   "start": 37.28,
+   "end": 39.32,
+   "text": "pastagi xavaladan royxat tanotin."
+  }
+ ],
+ "chars": 662,
+ "chars_per_s": 16.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

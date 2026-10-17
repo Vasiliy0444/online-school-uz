@@ -1,0 +1,66 @@
+{
+ "creative_id": "1653266559606629",
+ "platform": "meta",
+ "school_id": "hbs-academy",
+ "format": {
+  "type": "динамическое (DCO)",
+  "duration_bucket": "не видео",
+  "aspect": "9:16"
+ },
+ "style": [
+  "статичный дизайн"
+ ],
+ "hook": {
+  "verbatim": "Ayollar uchun maxsus taklif",
+  "types": [
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "крупный текст",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: крупный розово-белый заголовок «Ayollar uchun maxsus taklif» над фото пионов/тюльпанов, лого «HBS TREYDERLAR AKADEMIYASI» сверху"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для мам",
+   "доход"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: «Uyda qo'shimcha daromad olish uchun moliya bozori va investitsiyalarini imtiyozli narxda kunduzgi guruhlarda o'rganing»"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "скидка"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: «...investitsiyalarini imtiyozli narxda kunduzgi guruhlarda o'rganing»; бейдж «format: Offline»"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "нет призыва",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "никого"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": true,
+ "confidence": "высокая",
+ "notes": "risk = true по правилу инструкции для трейдинга и инвестиций (приведено к одному виду 17.09). Картинка визуально идентична 1033564622652278 (тот же кроп 9:16, лого сверху по центру, тот же текст) — отдельный library_id Meta с тем же изображением. Тот же слоган и оффер, что у 1033564622652278 и 2557488081435586 — три записи в порции с одинаковым текстом объявления «Ayollar uchun maxsus taklif...»."
+}

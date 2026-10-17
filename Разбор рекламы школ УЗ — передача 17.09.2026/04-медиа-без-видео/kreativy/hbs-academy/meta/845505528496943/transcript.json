@@ -1,0 +1,91 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.64,
+   "text": "Hammamiz farzantimizin en yakshi universiteti o'qishi,"
+  },
+  {
+   "start": 2.64,
+   "end": 5.44,
+   "text": "yaki nufuzli kampanyayla da ishlaishini xaxilayimiz, toqrami?"
+  },
+  {
+   "start": 5.44,
+   "end": 8.96,
+   "text": "Tan alishgiri, sifatli talim va yakshi kasi muttahassisi bolshigichi"
+  },
+  {
+   "start": 8.96,
+   "end": 10.64,
+   "text": "baribir utrafilashimiz giri."
+  },
+  {
+   "start": 10.64,
+   "end": 13.44,
+   "text": "Lekin, sizde xazirdan shurtuldi yigib barishi imkani bar."
+  },
+  {
+   "start": 13.44,
+   "end": 17.84,
+   "text": "Shundi, 5-12 meyldan kin siz farzantinizgi en yakshi harayetli qilib bir alisis."
+  },
+  {
+   "start": 17.84,
+   "end": 19.6,
+   "text": "Bugungi, aksiya ve kripto sahasi,"
+  },
+  {
+   "start": 19.6,
+   "end": 23.68,
+   "text": "caiz yoylerde online sadaqilishini organish orqali asaraq irish alisis."
+  },
+  {
+   "start": 23.68,
+   "end": 27.24,
+   "text": "Mesalan, xar ayda aksiya bazariga 200 dolardan invensiya qili borsanigiz"
+  },
+  {
+   "start": 27.24,
+   "end": 30.08,
+   "text": "ba urtachaf ayda gana 20% xisabladigan borsayib,"
+  },
+  {
+   "start": 30.08,
+   "end": 32.32,
+   "text": "5 yillan kin plus 18000 dolar,"
+  },
+  {
+   "start": 32.32,
+   "end": 35.2,
+   "text": "10 yillan kin isa 60000 dolar atrafida bolardib."
+  },
+  {
+   "start": 35.2,
+   "end": 36.4,
+   "text": "Farzantizi kirijigiy uchun,"
+  },
+  {
+   "start": 36.4,
+   "end": 38.28,
+   "text": "xazirdan invensiya qilisda borslayin."
+  },
+  {
+   "start": 38.28,
+   "end": 40.08,
+   "text": "Uqu dastor xakada maqamat alish uchun,"
+  },
+  {
+   "start": 40.08,
+   "end": 41.64,
+   "text": "pastagi xalqaliga basayin."
+  }
+ ],
+ "chars": 793,
+ "chars_per_s": 18.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

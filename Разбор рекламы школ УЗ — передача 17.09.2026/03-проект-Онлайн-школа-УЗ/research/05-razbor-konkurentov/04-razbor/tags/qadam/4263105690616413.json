@@ -1,0 +1,87 @@
+{
+ "creative_id": "4263105690616413",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "картинка",
+  "duration_bucket": "не видео",
+  "aspect": "1:1"
+ },
+ "style": [
+  "статичный дизайн"
+ ],
+ "hook": {
+  "verbatim": "Uzumda 1 MILLIARD aylanmaga chiqishning YO'L XARITASI / MUTLAQO BEPUL",
+  "types": [
+   "цифра",
+   "результат или доход",
+   "бесплатно"
+  ],
+  "visual": [
+   "крупный текст",
+   "деньги или результат на экране",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: логотип «qadam»; «Uzumda 1 MILLIARD aylanmaga chiqishning YO'L XARITASI»; «MUTLAQO BEPUL»"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "image_512.jpg: объёмная оранжевая пачка денег в правой нижней части"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта",
+   "быстрый старт"
+  ],
+  "income_claim": "Uzum Marketda 0 dan savdo qilib 3 oyda $2000 daromadga chiqish uchun qo'llanma",
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Uzum Marketda 0 dan savdo qilib 3 oyda $2000 daromadga chiqish uchun qo'llanma"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: «Uzumda 1 MILLIARD aylanmaga chiqishning YO'L XARITASI»"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Uzum’da pul qila olmayapsizmi?"
+   }
+  ],
+  "revenue_claim": "1 MILLIARD"
+ },
+ "offer": {
+  "items": [
+   "лид-магнит (PDF, гайд)"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: «YO'L XARITASI», «MUTLAQO BEPUL», «Olish uchun quyidagi tugmani bosing»"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Men bu bo‘yicha bepul qo‘llanma tayyorladim"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "лид-магнит"
+ },
+ "speaker": {
+  "role": "никого"
+ },
+ "language": "узбекский латиница",
+ "risk": true,
+ "confidence": "высокая",
+ "notes": "Статичная картинка с логотипом qadam. Перевод: «Дорожная карта выхода на оборот 1 млрд на Uzum. Абсолютно бесплатно. Чтобы получить, нажмите кнопку ниже». «1 MILLIARD» — оборот, не доход; сумма дохода есть только в тексте объявления ($2000 за 3 месяца). Текст объявления: хук «Uzum'da pul qila olmayapsizmi?», «разница всего в 4 вещах» (прибыльный товар, правильная карточка, понимание продаж, системная работа), бесплатное руководство в закреплённом сообщении Telegram-канала, «ma'lumotlaringizni to'ldiring va telegram kanalimizga o'ting». «быстрый старт» — по сроку «3 oyda». risk: $2000 дохода за 3 месяца с нуля."
+}

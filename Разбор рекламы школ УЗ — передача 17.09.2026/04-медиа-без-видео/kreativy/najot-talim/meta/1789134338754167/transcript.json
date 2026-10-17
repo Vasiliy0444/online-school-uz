@@ -1,0 +1,61 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.7,
+   "text": "Harazimli la isla uchun zimzor yangilikimiz ba."
+  },
+  {
+   "start": 2.82,
+   "end": 7.14,
+   "text": "Agar da siz kiska mudad ichinda zamanami kaspi egeti bolamandaysaniz,"
+  },
+  {
+   "start": 7.48,
+   "end": 9.96,
+   "text": "teiz IT merkasi Najat Talim'e galin."
+  },
+  {
+   "start": 10.3,
+   "end": 13.34,
+   "text": "Chunky Najat Talim'da okuchila uchun kabul başlandi."
+  },
+  {
+   "start": 13.42,
+   "end": 18.22,
+   "text": "Bir da siz, esimi mobilografiya, soni intiliyab, kompytur savad halligi"
+  },
+  {
+   "start": 18.22,
+   "end": 21.6,
+   "text": "va desturlaj yonalishlari boyica oqisha tapchirsas boladi."
+  },
+  {
+   "start": 21.92,
+   "end": 24.98,
+   "text": "Agar da siz, 10. oktiabradon oqishni baslasas,"
+  },
+  {
+   "start": 24.98,
+   "end": 28.96,
+   "text": "yoshlar ishlari agentligi muta ola va ibrat farsantlari layikasindan"
+  },
+  {
+   "start": 28.96,
+   "end": 46.88,
+   "text": "1 aylik premium-a. Bundan tashkari Robot Edifix layxasi uchun 500 minisomlik chekirmaga, na online AI kurslari uchun 20% chekirmaga, dekkan bazar elektronika va teknika dokarlari uchun 300 minisomna 600 minisomadan bugan chekirmalara ega bolishiz munkun."
+  },
+  {
+   "start": 47.16,
+   "end": 54.76,
+   "text": "Shunchun tez havalan ustuna basib, ariza kaldirin, ya ki bulmasa telefon nomerlara muracat atin, chunki bundi imkaniyat, baska bulmastiki munkun."
+  }
+ ],
+ "chars": 855,
+ "chars_per_s": 15.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

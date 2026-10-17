@@ -1,0 +1,85 @@
+{
+ "creative_id": "1053285614229296",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "постановка или скетч",
+  "запись экрана"
+ ],
+ "hook": {
+  "verbatim": "6 oydan keyin umuman ota-onangizdan pul so'ramaysiz.",
+  "types": [
+   "результат или доход",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "деньги или результат на экране"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.5s–2.5s: девушка с пачкой купюр в руке, «6 oy dan keyin umuman ota-onangizdan pul so'ramaysiz»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] 6 oydan kien, umumam o'dan izan pul soramisiz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта"
+  ],
+  "income_claim": "AutoCAD o'rganing – $700–800 oylik daromad (текст объявления); в ролике — скриншот вакансии hh.ru (по-русски) «Дизайнер интерьеров, 500 – 2000 $ в месяц, на руки» — другая цифра, чем в устных вариантах семейства (400–1200$)",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈0:10): скриншот приложения hh — «Дизайнер интерьеров», «500 – 2000 $ за месяц, на руки»",
+    "timecode": "00:10"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:04] Xazir sizke zor narsi korsitaman, xatxantar, vakantalar saytidan,",
+    "timecode": "00:04"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈0:23): «mutlaqo bepul ochiq dars bo'lib»",
+    "timecode": "00:23"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Единственный в семействе AutoCAD/hh-роликов, где «доказательство дохода» показано скриншотом настоящего приложения hh (на русском языке, «Дизайнер интерьеров», 500–2000$ на руки) вместо иконки/устного упоминания — и цифра здесь заметно выше (500–2000$), чем в остальных роликах этой группы (400–1200$, см. 1091042456797892 и др.). Возможно, скриншот брали из разных вакансий/на разные даты."
+}

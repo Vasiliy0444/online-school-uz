@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.72,
+   "text": "Talabala, bu imkaniyattan faydalanmasaz, anı kutuzas."
+  },
+  {
+   "start": 2.96,
+   "end": 5.98,
+   "text": "Na fakat Universitet 9, belki imtihallara tayallanish ucinam,"
+  },
+  {
+   "start": 6.16,
+   "end": 9.7,
+   "text": "erteng burgun ishe girzak bolsazam, kompitor savatkanlik kursi cideketler olonydi."
+  },
+  {
+   "start": 9.98,
+   "end": 11.6,
+   "text": "Demek, hazir onu örgenes vakti."
+  },
+  {
+   "start": 11.78,
+   "end": 15.38,
+   "text": "Nazat taliminin 10.000-ni artik bitiruculari, hazirda zamanavi kesib egelari."
+  },
+  {
+   "start": 15.8,
+   "end": 18.14,
+   "text": "IT sahasindaki 7 illik tezribadan gelip-çikib,"
+  },
+  {
+   "start": 18.18,
+   "end": 20.88,
+   "text": "size 3 aylik kompitor savatkanlik kursini tagdim etedi."
+  },
+  {
+   "start": 21.32,
+   "end": 22.84,
+   "text": "Havalanı basin ve ruhet tutin."
+  }
+ ],
+ "chars": 442,
+ "chars_per_s": 18.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

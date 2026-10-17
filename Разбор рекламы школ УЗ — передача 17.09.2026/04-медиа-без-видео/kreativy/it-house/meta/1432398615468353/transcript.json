@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.06,
+   "text": "Bug yapam sal o'qru ishtil shumun kun, lekin chuni otoneyn sizzi umrunu o'qru geche bokushka macburmaz."
+  },
+  {
+   "start": 6.06,
+   "end": 8.56,
+   "text": "Undar nima qil sam bolad di boli o'asizm?"
+  },
+  {
+   "start": 8.56,
+   "end": 10.56,
+   "text": "Xazir, sizge zor narsi kursatiman."
+  },
+  {
+   "start": 10.56,
+   "end": 17.56,
+   "text": "Headhunter vacansalar saytida kampanyalar web dasturchi kaspu uchun 2.000 dolordan 3.000 dolor geche tolashka tayyor."
+  },
+  {
+   "start": 17.56,
+   "end": 21.06,
+   "text": "Bug kaskin nesay siz atige 12 oychida orgin o'asiz boladi."
+  },
+  {
+   "start": 21.06,
+   "end": 25.76,
+   "text": "Va 3 oy bi pola maliyotva 100% ishki jolashchizi ka falatini biz beremiz."
+  },
+  {
+   "start": 25.76,
+   "end": 29.76,
+   "text": "Shuu xabta web dasturlash boychiya mutloka bi pola chuk dars bol botadi."
+  },
+  {
+   "start": 29.76,
+   "end": 32.28,
+   "text": "Roxha tonchchon, xoz rox pasaygi tukmano basin."
+  }
+ ],
+ "chars": 552,
+ "chars_per_s": 17.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

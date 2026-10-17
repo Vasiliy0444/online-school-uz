@@ -1,0 +1,92 @@
+{
+ "url": "https://englify.uz",
+ "domain": "englify.uz",
+ "pages_scanned": [
+  "https://englify.uz/courses"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)"
+  ],
+  "ad_pixel": [
+   "Meta Pixel"
+  ]
+ },
+ "seo_metadata": {
+  "title": "Englify School",
+  "description": "Ingliz tilini zamonaviy metodlar yordamida tez va samarali o&#39;rganing. Englify â bu ingliz tilini oson va qiziqarli o&#39;rganish uchun ajoyib joy!",
+  "open_graph": {
+   "title": "Englify School",
+   "description": "Ingliz tilini zamonaviy metodlar yordamida tez va samarali o&#39;rganing. Englify â bu ingliz tilini oson va qiziqarli o&#39;rganish uchun ajoyib joy!",
+   "url": "https://englify.uz/courses",
+   "type": "website",
+   "image": "https://englify.uz/logo.jpg?dpl=dpl_DewPv5TWzwGz7t7zQHjWYeNxuWjT",
+   "locale": "uz_Latn",
+   "site_name": "Englify Online School"
+  },
+  "twitter_card": {
+   "card": "summary",
+   "site": "@onwidget",
+   "creator": "@onwidget"
+  },
+  "canonical": "https://englify.uz/courses",
+  "headings": {
+   "h1": [
+    "General English",
+    "Mentorlarimiz"
+   ],
+   "h2": [
+    "O&#39;quvchilarning fikrlari",
+    "O&#39;quvchilarimizning natijalarið£",
+    "O&#39;quvchilarning izohlarið¤©",
+    "Imkoniyatlar - ajoyib!",
+    "Sizni nima kutmoqda?",
+    "Kurslarimiz aynan",
+    "Hamma uchun qulay tarif turlari va narxlar:",
+    "Orzuga yaqinroq bo&#39;ling â o&#39;qishga ariza bering!"
+   ],
+   "h3": [
+    "Onlayn - format",
+    "Uy vazifasi bo&#39;yicha doimiy fikr-mulohazalar",
+    "Guruhlar",
+    "Sertifikatlar",
+    "Interaktiv onlayn platforma va shaxsiy akkaunt",
+    "Haqiqiy amerikancha darslar",
+    "Abituriyentlar",
+    "Maktab o&#39;quvchilari",
+    "Havaskorlar",
+    "Talabalar",
+    "Ma&#39;lum kasb egalari",
+    "Chet eldagi yurtdoshlarimiz"
+   ]
+  }
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [
+   "https://englify.uz/EnglifyFooterLogo.svg",
+   "https://englify.uz/headerLogo.png",
+   "https://englify.uz/logo.jpg?dpl=dpl_DewPv5TWzwGz7t7zQHjWYeNxuWjT",
+   "https://englify.uz/logo/humo.png",
+   "https://englify.uz/logo/master-card.png",
+   "https://englify.uz/logo/uzcard.png",
+   "https://englify.uz/logo/visa.png",
+   "https://englify.uz/old_style_logo.png"
+  ],
+  "total_images_found": 68
+ },
+ "integration_links": [],
+ "hidden_elements": {
+  "html_comments": [
+   "Meta Pixel Code",
+   "Yandex.Metrika counter",
+   "/Yandex.Metrika counter",
+   "End Meta Pixel Code"
+  ]
+ }
+}

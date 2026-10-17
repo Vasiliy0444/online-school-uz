@@ -1,0 +1,71 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.94,
+   "text": "Engilis tilini bilaman, endi pul tap shim kerey deb oylayapsm?"
+  },
+  {
+   "start": 2.94,
+   "end": 6.22,
+   "text": "Ve Engilis tilini bilib, kana qisaxi da pul tap san boladya deb yurganm?"
+  },
+  {
+   "start": 6.22,
+   "end": 8.22,
+   "text": "O sez, meni siz yazbiti zor kaspaytaman."
+  },
+  {
+   "start": 8.22,
+   "end": 11.8,
+   "text": "Bu sahar qalixsiz, yigirma, otiz, qirig, elli, otmish, yetmish milyon som getib,"
+  },
+  {
+   "start": 11.8,
+   "end": 13.8,
+   "text": "bem ala pul tap paliz kereyb usundanam kod."
+  },
+  {
+   "start": 13.8,
+   "end": 15.8,
+   "text": "Chuki, khazir kundi, ozum okuchilarim,"
+  },
+  {
+   "start": 15.8,
+   "end": 22.1,
+   "text": "on tok qiz yigirma, yigirma bir yashti otiz, qirig, elli milyon somla pul taplayabdi ayige."
+  },
+  {
+   "start": 22.1,
+   "end": 26.02,
+   "text": "Siziyam qolizam unarsid kere ad, faqat ingilis zilin orta daraja da qeplash allay siz boldi."
+  },
+  {
+   "start": 26.3,
+   "end": 30.02,
+   "text": "Keyin, qayirdan organaman bunu, qayirdan ishtablaman disiz, mam mamaz."
+  },
+  {
+   "start": 30.12,
+   "end": 35.88,
+   "text": "Mey ozum organatam, mey ozum lagisikan organatam, pers berev, keyin ozumiz kata kampanyaga ishqab kirganmiz."
+  },
+  {
+   "start": 36.16,
+   "end": 42.36,
+   "text": "Sizam kesiz, lagisikan organatamiz, yakshi organatigan bosik, tayyar bitda kampanyaga dispichir qilib alishimiz munkun."
+  },
+  {
+   "start": 42.66,
+   "end": 45.22,
+   "text": "Pasay qutugum arifalyo, royxatna odsisiz, toluq malimak biremiz."
+  }
+ ],
+ "chars": 890,
+ "chars_per_s": 19.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

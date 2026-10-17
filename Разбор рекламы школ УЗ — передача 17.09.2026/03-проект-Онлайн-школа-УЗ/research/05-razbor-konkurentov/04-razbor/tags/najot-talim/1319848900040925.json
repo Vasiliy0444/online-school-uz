@@ -1,0 +1,79 @@
+{
+ "creative_id": "1319848900040925",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "Dunyodagi gigant AyTI korporatsiyalar sun'iy intellekt sababli 10 000 lab xodimlarini ishdan bo'shata boshladi.",
+  "types": [
+   "цифра",
+   "новость",
+   "страх упустить"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.5s–2.5s: подписи «Dunyodagi gigant» → «AyTi korporatsiyalar» → «sun'iy inteliekt» поверх мужчины в кепке на фоне деревьев",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Dunyadagi gigant IT korparatsiyali Suni Intellectsab 10.000 ilab xadumlarini ishtan boshat waddi.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "профессия будущего",
+   "страх отстать"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:05] Hamamiz biladigan Oracle kampanyasi shtatini 13% xatir wardi.",
+    "timecode": "00:05"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:36] vay bizan aldimizda bari oga ikiti tanlo bar. [00:39] Yoki biz ono cilo ulab, oz kolimizgi alamiz, [00:41] yoki biz onge maqlub bolib, [00:42] cemiyatta oz ornimiz yuqatamiz.",
+    "timecode": "00:36"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "sun'iy intellekt bilan ishlash bo'yicha zamonaviy va talab yuqori kasb egasiga aylaning."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "блогер"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Мужчина в кепке и худи с принтом «Musaffo Osmon» идёт по улице и рассказывает в камеру о реальных увольнениях в IT из-за ИИ (Oracle −13% штата/21 000 чел., Facebook −8 000, UPS −12 000 менеджеров/до 30 000), затем призывает пройти курс Prompt Injinering в Najot Ta'lim (Самарканд), чтобы остаться востребованным. Подача — прямой монолог блогерского типа на улице, не привязан к бренду явно (футболка стороннего бренда одежды), поэтому speaker.role = «блогер», не «эксперт»; имя не названо. Числа по увольнениям — за пределами школы (новостной инфоповод), не доход/выручка школы или ученика, поэтому income_claim/revenue_claim не заполняю. Ad_text и ролик совпадают по теме (Prompt Injinering, Самарканд); оффера нет, только «qabul boshlandi»."
+}

@@ -1,0 +1,111 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.06,
+   "text": "Oquchilarim qiz wode, ingilis sildin madara chunmisi oqtuchistan sorashki uyayladi."
+  },
+  {
+   "start": 4.28,
+   "end": 9.96,
+   "text": "En togri xamlayam uyaylmidi, siz misal chunlaymaz, sorimadi shiz munkun, lekin oqtuchini daim awara qilamisis."
+  },
+  {
+   "start": 10.42,
+   "end": 14.16,
+   "text": "Endi bu ma ma imaz, Inglify platformasi suni itilik chunagishidi ki,"
+  },
+  {
+   "start": 14.48,
+   "end": 19.36,
+   "text": "siz undan yigrimator getti, xokhulegan partiz, xokhulegan soval, xokhulegan hatani sorashayiz baradi."
+  },
+  {
+   "start": 19.48,
+   "end": 21.62,
+   "text": "Xamasini chuntirib, sizgi yonali shi beradi."
+  },
+  {
+   "start": 21.62,
+   "end": 25.68,
+   "text": "Undan tashqara bizi speakingi banisi bar, yani suni itilik bilan siz, speakingi qilasiz,"
+  },
+  {
+   "start": 25.68,
+   "end": 27.68,
+   "text": "usuzgi baha beradi, gramachkadan bunax ketosan,"
+  },
+  {
+   "start": 27.68,
+   "end": 29.68,
+   "text": "sosboiligi imani bunday, bunust isliyag indib,"
+  },
+  {
+   "start": 29.68,
+   "end": 30.8,
+   "text": "qaytalaqi beradi."
+  },
+  {
+   "start": 30.8,
+   "end": 32.8,
+   "text": "Va en qizg, butun qizm"
+  },
+  {
+   "start": 32.8,
+   "end": 34.4,
+   "text": "isliy adanar uchum ostangan."
+  },
+  {
+   "start": 34.4,
+   "end": 36.72,
+   "text": "Kuniqi 50 dakiqi yetadi, darsinik yuki yok."
+  },
+  {
+   "start": 36.72,
+   "end": 39.2,
+   "text": "10 dakiqi, 10 dakiqi, 10 dakiqi qali bol waras."
+  },
+  {
+   "start": 39.2,
+   "end": 41.44,
+   "text": "10 minut speaking qalas, qaytalaq qalas,"
+  },
+  {
+   "start": 41.44,
+   "end": 43.68,
+   "text": "15 minut video daslik qoras, masklarini qalas."
+  },
+  {
+   "start": 43.68,
+   "end": 44.72,
+   "text": "Qechkibayit bosu,"
+  },
+  {
+   "start": 44.72,
+   "end": 46.16,
+   "text": "yangi sozan yotla shizminkun,"
+  },
+  {
+   "start": 46.16,
+   "end": 48.16,
+   "text": "ulan qanak qali isliyatish qaqidi xam"
+  },
+  {
+   "start": 48.16,
+   "end": 50.96,
+   "text": "yor yorok artiri ulan isliyatishinan bas nisis."
+  },
+  {
+   "start": 50.96,
+   "end": 57.36,
+   "text": "m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m"
+  }
+ ],
+ "chars": 1424,
+ "chars_per_s": 24.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

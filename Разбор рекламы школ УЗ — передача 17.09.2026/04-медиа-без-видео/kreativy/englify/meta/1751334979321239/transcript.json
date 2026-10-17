@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.34,
+   "text": "Ixtan charchab gelasiz, va ingilisni organishki na kuch qoladi, na vaqt."
+  },
+  {
+   "start": 3.44,
+   "end": 6.08,
+   "text": "Har kuni ertagi-ertagi disiz, qacham basdisiz."
+  },
+  {
+   "start": 6.16,
+   "end": 9.1,
+   "text": "Ma an tichir azam 13-lik tajribi gi egi ingilis roqti utsiman,"
+  },
+  {
+   "start": 9.2,
+   "end": 13.88,
+   "text": "va 22-nch, 23-nch, 24-nch sentyavr kullari Beeple online masterclass-ta ashkili yapman."
+  },
+  {
+   "start": 13.88,
+   "end": 18.44,
+   "text": "Ushu masterclass-ta b2 sertifikat alishni samarali yollarini orga teman."
+  },
+  {
+   "start": 18.72,
+   "end": 20.44,
+   "text": "Masterclass-ta katna ishi mutlaka o Beeple,"
+  },
+  {
+   "start": 20.52,
+   "end": 22.24,
+   "text": "faqat xawalan ustagi basib roy xatlan otin,"
+  },
+  {
+   "start": 22.32,
+   "end": 24.42,
+   "text": "va yapiq telegram kanalamizgi koshil balin."
+  }
+ ],
+ "chars": 475,
+ "chars_per_s": 19.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

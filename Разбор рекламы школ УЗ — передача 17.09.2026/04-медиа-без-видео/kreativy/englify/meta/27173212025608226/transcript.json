@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.24,
+   "text": "Endi ingilislinin orga namiyyimayin, siz toqtayin."
+  },
+  {
+   "start": 2.52,
+   "end": 5.72,
+   "text": "Biz ishi bar, yashi 25 tanka otgalaygi ingilisli orga etamiz."
+  },
+  {
+   "start": 5.88,
+   "end": 8.9,
+   "text": "Xatasigi 3 marti, kuniga 80 dakika danjirasyiz yetad."
+  },
+  {
+   "start": 8.92,
+   "end": 11.78,
+   "text": "Paylis 8 yarim, turiyilik tajibagi ustazlardan talim alim."
+  },
+  {
+   "start": 11.8,
+   "end": 14.1,
+   "text": "Daftar ruchga xam shartmaz, xammasi iloqamiz itchi."
+  },
+  {
+   "start": 14.12,
+   "end": 17.38,
+   "text": "3 ayda, ingilisli da beymal olgay apirib, chunaladi on darajaga chqas."
+  },
+  {
+   "start": 17.38,
+   "end": 20.72,
+   "text": "Fastagi havala orqaliy roxatda otin, menajerlarimiz tolok malimat verishad."
+  }
+ ],
+ "chars": 424,
+ "chars_per_s": 20.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

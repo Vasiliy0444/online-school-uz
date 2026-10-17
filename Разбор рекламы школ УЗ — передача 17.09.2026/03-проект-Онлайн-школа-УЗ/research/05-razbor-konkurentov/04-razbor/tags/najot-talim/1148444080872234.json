@@ -1,0 +1,71 @@
+{
+ "creative_id": "1148444080872234",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": ">120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Nimaga hozir Toshkentda shuncha imkoniyatlar bo'lib turib, Andijonga qaytib...",
+  "types": [
+   "вопрос",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "крупный текст",
+   "лицо в первом кадре"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: чёрно-белая съёмка «под камеру», субтитры «Nimaga hozir» → «Toshkent shuncha» → «imkoniyatlar» → «joyi bo'lib turib» → «Andijonga qaytib»"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Navbatdagi o'quvchimiz Andijon viloyatidan Bahrom, hozirda Chilonzordagi markazimizda SMM Pro kursi bitiruvchisi."
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта",
+   "для регионов"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Marketing o'rganilishi oson, lekin tajriba to'plash qiyin bo'lgan sohami?"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:16] Enkamba da, nima talablar koyilgalligin kordizmim? [00:18] Eylan da, tekst yazish, content planlat izhish, shular verilgan asalsan.",
+    "timecode": "00:16"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Visit Instagram profile",
+  "in_creative": "слово в комментарии",
+  "destination": "Instagram",
+  "funnel_stage": "директ"
+ },
+ "speaker": {
+  "role": "ученик"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "Отзыв ученика Bahrom (из Андижанской области, курс SMM Pro в Чиланзаре), имя не выношу в speaker. Хук — вопрос о том, зачем уезжать из Ташкента с его возможностями обратно в Андижан (по кадру, надёжно). Далее по расшифровке — рассказ о сложностях трудоустройства из-за нехватки опыта после офлайн-собеседования. Расшифровка сильно искажена на всём протяжении (105 с), поэтому confidence низкая. Оффера нет, призыв — «➕» в комментариях."
+}

@@ -1,0 +1,60 @@
+{
+ "creative_id": "1897757347517635",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "картинка",
+  "duration_bucket": "не видео",
+  "aspect": "4:5"
+ },
+ "style": [
+  "статичный дизайн"
+ ],
+ "hook": {
+  "verbatim": "INDIVIDUAL INGLIZ TILI KURSLARIGA qabul ochiq",
+  "types": [
+   "новость"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: экран на стене «INDIVIDUAL INGLIZ TILI KURSLARIGA qabul ochiq», мужчина в оранжевом поло с бейджем указывает на экран, внизу «Quyidagi havola orqali o'ting va Ingliz tili kurslarimizga yoziling»"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "экономия времени"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Siz aynan o'zingiz uchun muhim bo'lgan jihatlarga e'tibor qaratib, natijaga tezroq erishasiz"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Статичный дизайн, заголовок и текст чётко читаются на кадре. Смысл «индивидуальный подход» не имеет отдельного тега в схеме — выбран ближайший «экономия времени» по фразе про удобный темп и более быстрый результат; возможна и альтернативная трактовка."
+}

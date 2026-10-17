@@ -1,0 +1,75 @@
+{
+ "creative_id": "1087002090576562",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": ">120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Mening ismim Muhammadaziz. Yoshim yigirmada. Hozir TATU universitetida o'qiyman.",
+  "types": [
+   "история"
+  ],
+  "visual": [
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:02] Meyn ismi Muhammad Aziz. Yashim yi kirmade. Hazar TATU universitadiz oqimay?",
+    "timecode": "00:02"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.0s: мужчина в бежевом поло в кадре «видоискателя» (REC, ISO 100, F1.8) — тот же ведущий-приём, что в ролике 1617350793344143; на 2.5s смена на молодого человека в тёмной куртке в фирменной комнате",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость",
+   "профессия будущего"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Qahramonimizning otalari nafaqada, onalari esa uy bekasi bo'lishiga qaramay, kurs to'lovlariga to'lov qilmoqda... \"Eng yaxshi investitsiya – ilmga qilingan investitsiya\" kabi qarashlaridan dalolat beradi."
+   },
+   {
+    "source": "текст объявления",
+    "quote": "IT Parkga ishga kirmoqchiman."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:15] Hazar fronti dasturcisi.",
+    "timecode": "00:15"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Visit Instagram profile",
+  "in_creative": "слово в комментарии",
+  "destination": "Instagram",
+  "funnel_stage": "директ"
+ },
+ "speaker": {
+  "role": "ученик"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "Отзыв ученика (канал «najottalim_talabalari»): студент TATU на Full Stack курсе, имя в ad_text и расшифровке звучит как «Muhammadaziz» — по инструкции в speaker не указываю. Первая реплика [00:00] «Libboja yada yoruk basayn sorim. Tizi hana yaslav qanamay?» нечитаема, вероятно, вопрос интервьюера за кадром — не смог уверенно восстановить смысл, поэтому за хук взята следующая разборчивая фраза-самопредставление [00:02], написание исправлено. В кадрах видоискателя (bezовый поло, REC/ISO/F1.8) — тот же визуальный приём «съёмки под камеру», что и в другом ролике этой серии (1617350793344143), похоже на повторяющийся монтажный шаблон канала. Далее по расшифровке — рекомендация от старшего брата (frontend-разработчик), интерес к математике, детали Foundation-курса; текст объявления подчёркивает жертву родителей ради оплаты обучения и мечту о работе в IT Park. Явных субтитров на кадрах overview не видно (в отличие от 1617350793344143), поэтому burned_subtitles = false. Общая confidence низкая из-за нечитаемой первой реплики и сильно искажённой расшифровки на всём протяжении."
+}

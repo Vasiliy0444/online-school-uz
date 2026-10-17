@@ -1,0 +1,72 @@
+{
+ "url": "https://qadam.education",
+ "domain": "qadam.education",
+ "pages_scanned": [
+  "https://qadam.education/ai-hunarmand"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)",
+   "Google Tag Manager"
+  ],
+  "ad_pixel": [
+   "Meta Pixel"
+  ]
+ },
+ "seo_metadata": {
+  "title": "Kelajak Sun'iy Intellektni biladigan insonlar qo'lida!",
+  "description": "Sun’iy intellekt — bu imkoniyat. Kim uni birinchi o‘rgansa, o‘sha yutadi!",
+  "open_graph": {
+   "url": "https://qadam.education/ai-hunarmand",
+   "title": "Kelajak Sun&#039;iy Intellektni biladigan insonlar qo&#039;lida!",
+   "description": "Sun’iy intellekt — bu imkoniyat. Kim uni birinchi o‘rgansa, o‘sha yutadi!",
+   "type": "website",
+   "image": "https://static.tildacdn.net/tild3664-6639-4637-b332-383734356237/logo.svg"
+  },
+  "canonical": "https://qadam.education/ai-hunarmand"
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [
+   "https://static.tildacdn.net/tild3664-6639-4637-b332-383734356237/logo.svg",
+   "https://thb.tildacdn.net/tild3264-3137-4139-a263-373536303962/-/resize/20x/Claude_Logo_2023-s12.png",
+   "https://thb.tildacdn.net/tild6165-3337-4338-b937-313364616638/-/resize/20x/3840px-Python_logo_a.png",
+   "https://thb.tildacdn.net/tild6230-6165-4464-b438-346436663532/-/resize/20x/Google-flutter-logo.png"
+  ],
+  "total_images_found": 41
+ },
+ "integration_links": [],
+ "hidden_elements": {
+  "html_comments": [
+   "metatextblock",
+   "/metatextblock",
+   "Meta Pixel Code",
+   "End Meta Pixel Code",
+   "Yandex.Metrika counter",
+   "/Yandex.Metrika counter",
+   "nominify end",
+   "Global Site Tag (gtag.js) - Google Analytics",
+   "new soclinks",
+   "/new soclinks",
+   "nominify end",
+   "nominify end",
+   "nominify end",
+   "/allrecords",
+   "Yandex.Metrika counter 102020541",
+   "/Yandex.Metrika counter"
+  ]
+ },
+ "google_ids": {
+  "ga4": [
+   "G-PTHDY45413"
+  ],
+  "gtm": [
+   "GTM-T5VCRHRZ"
+  ]
+ }
+}

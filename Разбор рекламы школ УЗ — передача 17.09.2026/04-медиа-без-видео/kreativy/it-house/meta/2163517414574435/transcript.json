@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.24,
+   "text": "Adon kovir"
+  },
+  {
+   "start": 30.0,
+   "end": 31.04,
+   "text": "qalishini izmunkon."
+  },
+  {
+   "start": 31.32,
+   "end": 32.12,
+   "text": "Xozroq bizin"
+  },
+  {
+   "start": 32.12,
+   "end": 32.9,
+   "text": "bi pul birinchi"
+  },
+  {
+   "start": 32.9,
+   "end": 34.2,
+   "text": "darsarimizke roxatna otin."
+  },
+  {
+   "start": 34.42,
+   "end": 35.24,
+   "text": "Rokatna onzishon"
+  },
+  {
+   "start": 35.24,
+   "end": 36.52,
+   "text": "padrovni tigmasan basin."
+  }
+ ],
+ "chars": 128,
+ "chars_per_s": 3.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

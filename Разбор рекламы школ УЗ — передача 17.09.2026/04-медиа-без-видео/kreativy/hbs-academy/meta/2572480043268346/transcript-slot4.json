@@ -1,0 +1,61 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.0,
+   "text": "Qaysa aqisana sotub olsam boladi digan sovolani, telegramdan, yokidi, tanishlarizdan testi sorab durasizma."
+  },
+  {
+   "start": 6.36,
+   "end": 8.94,
+   "text": "Kimdir sizgi qaysa aqisi sotub olishini tavsiye qilishi munkun?"
+  },
+  {
+   "start": 9.2,
+   "end": 10.64,
+   "text": "Una sotub olishiniz ham munkun."
+  },
+  {
+   "start": 10.98,
+   "end": 14.66,
+   "text": "Lekin, naq tushub getsadchi, kancha kutush kiri, kachan sotubi barish kiri,"
+  },
+  {
+   "start": 14.92,
+   "end": 18.76,
+   "text": "va kachan bazorgi kirmasli kireligini kimdandir sorashiniz kirey boladi?"
+  },
+  {
+   "start": 18.76,
+   "end": 23.94,
+   "text": "Chunkim omo, signal yokli gidemez, bazarini mustakil tohri tahlil qilalimaslikdi."
+  },
+  {
+   "start": 23.94,
+   "end": 30.94,
+   "text": "HBS Express kursıda aksalarına toğru tahlil qilash, caiz aktivlarına anaqilash və riskini başqarashini orginashiz."
+  },
+  {
+   "start": 31.66,
+   "end": 35.7,
+   "text": "Kurs toshkin shakrada offline tarzda bolu gotad və bir yarimoy davam etad."
+  },
+  {
+   "start": 35.88,
+   "end": 37.98,
+   "text": "Bashqalarına qararini qeyr pul tikishini tohtatin."
+  },
+  {
+   "start": 38.3,
+   "end": 43.44,
+   "text": "Uzingiz mustaqil tahlil qilashini orginash uchun, hazirat pastagitigimani basin və ruhatdan otin."
+  }
+ ],
+ "chars": 773,
+ "chars_per_s": 17.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

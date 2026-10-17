@@ -1,0 +1,71 @@
+{
+ "creative_id": "1355755812939037",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "≤15 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Ingliz tili INTER NATION'da!",
+  "types": [
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "движение или смена кадра",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: быстрая смена нескольких говорящих (девушка в белом платье, мужчины в кепке/свитере/рубашке) в холле филиала — та же эстафета, что и в 1384609010521904",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:09: карточка «IELTS olmoqchimisiz?»",
+    "timecode": "00:09"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Ingliz tili INTER NATION'da! 💯"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Sizni xalqaro sertifikatlarga ega va IELTS'dan yuqori natijalarga erishgan o'qituvchilar, Student App orqali innovatsion o'qitish tizimi va natijaga yo'naltirilgan mualliflik IELTS-X dasturi kutmoqda"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "ВАЖНОЕ НЕСООТВЕТСТВИЕ В ДАННЫХ ПОРЦИИ: sheet_hook/sheet_overview этого creative_id визуально идентичны кадрам 1384609010521904 (та же эстафета нескольких лиц в холле, та же карточка «IELTS olmoqchimisiz?», тот же финальный логотип) — похоже, тот же видеоресурс используется в обоих объявлениях (у обоих ads_with_this_creative/copies_max = 2). При этом transcript, приложенный к этому creative_id в порции («Noldan iki oyda ayilz olmokchumiziz... Unda internet shansiz uchun emaz... Bu yerde fakat sifat»), дословно совпадает с расшифровкой СОВСЕМ ДРУГОГО ролика — 904407209016410 (чёрный фон, без эстафеты) — и не соответствует тому, что видно на кадрах. Поэтому расшифровку для хука не использую (доверяю кадрам и тексту объявления), а duration_bucket оставлен по указанной в порции длительности (14.4с), хотя она тоже похожа на значение от 904407209016410 и может быть перепутана. Об этом стоит сообщить как проблему исходных данных порции."
+}

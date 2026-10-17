@@ -1,0 +1,81 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.62,
+   "text": "Hazir asosi ishiz bar, lekin erkin grafikli,"
+  },
+  {
+   "start": 2.9,
+   "end": 5.22,
+   "text": "va stabil kotarili bar uchi daromad egesi bolash,"
+  },
+  {
+   "start": 5.64,
+   "end": 7.88,
+   "text": "keli jiz uchu yaxshi nivsi sakilish niyat edes."
+  },
+  {
+   "start": 7.98,
+   "end": 10.12,
+   "text": "Echmez akademisiz uz uchu maksuz taklif bar."
+  },
+  {
+   "start": 10.34,
+   "end": 13.76,
+   "text": "Asosi ishizna chalgini yaxalatda kunigi 2-3 saat vahti izajiratib"
+  },
+  {
+   "start": 13.76,
+   "end": 15.2,
+   "text": "yangi zamana yi kasp orgeni."
+  },
+  {
+   "start": 15.26,
+   "end": 17.96,
+   "text": "Express Trazing kursosiz aktiva kripteblan savda oqilash,"
+  },
+  {
+   "start": 18.16,
+   "end": 20.62,
+   "text": "maliyo bazorlan kotarilash, va chushi vaktlaran anigilash,"
+  },
+  {
+   "start": 20.62,
+   "end": 22.84,
+   "text": "Risk Management asosida xabsiz savda oqilash,"
+  },
+  {
+   "start": 22.96,
+   "end": 24.72,
+   "text": "va kapital bashqarishni orgenis."
+  },
+  {
+   "start": 24.72,
+   "end": 27.88,
+   "text": "2 mayda amidasiz, 3Z-inva inivisitetsi soxalarini oriyanib,"
+  },
+  {
+   "start": 27.98,
+   "end": 31.08,
+   "text": "yiligi 25-30%-gechi daramitgechikish sirlarini bilibaliz."
+  },
+  {
+   "start": 31.18,
+   "end": 33.3,
+   "text": "Kelijegizgi inivisitetsi qilishini xazirdan baxlayin."
+  },
+  {
+   "start": 33.36,
+   "end": 35.76,
+   "text": "Pastigi xavalina rohatna otu, batavsin malum atanayin."
+  }
+ ],
+ "chars": 705,
+ "chars_per_s": 19.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

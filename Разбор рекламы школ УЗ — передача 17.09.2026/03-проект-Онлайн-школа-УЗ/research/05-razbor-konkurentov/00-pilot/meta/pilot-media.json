@@ -1,0 +1,42 @@
+[
+ {
+  "library_id": "1366425478509152",
+  "kind": "video_hd",
+  "curl_exit": 0,
+  "bytes": 4976063,
+  "duration_s": "29.997324",
+  "err": ""
+ },
+ {
+  "library_id": "1412400947038266",
+  "kind": "video_hd",
+  "curl_exit": 0,
+  "bytes": 5312183,
+  "duration_s": "37.961769",
+  "err": ""
+ },
+ {
+  "library_id": "1935694397074090",
+  "kind": "video_hd",
+  "curl_exit": 0,
+  "bytes": 5705132,
+  "duration_s": "35.546893",
+  "err": ""
+ },
+ {
+  "library_id": "1521401729291289",
+  "kind": "video_hd",
+  "curl_exit": 0,
+  "bytes": 6691443,
+  "duration_s": "26.621375",
+  "err": ""
+ },
+ {
+  "library_id": "1421572016595244",
+  "kind": "video_hd",
+  "curl_exit": 0,
+  "bytes": 35340759,
+  "duration_s": "189.821375",
+  "err": ""
+ }
+]

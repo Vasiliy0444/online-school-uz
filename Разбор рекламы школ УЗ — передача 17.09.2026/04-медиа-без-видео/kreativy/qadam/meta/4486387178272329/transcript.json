@@ -1,0 +1,36 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.02,
+   "text": "Koshimchi, daromad man bayini izlavasiz, lekin nimadan bashlashib bilmiyabsimi?"
+  },
+  {
+   "start": 4.24,
+   "end": 6.42,
+   "text": "Biz aynan siz uchun, be pul test ayarladi."
+  },
+  {
+   "start": 6.54,
+   "end": 11.48,
+   "text": "Siz u yurda atigi 60 saniyadi, uzun marketi 500 dolarda, 2000 dolara gechi daromadke chikalish,"
+  },
+  {
+   "start": 11.56,
+   "end": 13.08,
+   "text": "ya ki chikamasligizdi bilvalas."
+  },
+  {
+   "start": 13.38,
+   "end": 15.74,
+   "text": "Test daot uchun, khaziro pastigi xavolani basin."
+  }
+ ],
+ "chars": 299,
+ "chars_per_s": 18.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

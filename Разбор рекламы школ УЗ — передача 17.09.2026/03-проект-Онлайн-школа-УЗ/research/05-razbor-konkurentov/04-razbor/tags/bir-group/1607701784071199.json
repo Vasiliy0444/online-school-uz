@@ -1,0 +1,98 @@
+{
+ "creative_id": "1607701784071199",
+ "platform": "meta",
+ "school_id": "bir-group",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Diqqat qiling! Bu xabarim yoshlar uchun.",
+  "types": [
+   "новость",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.0s: чёрно-белая съёмка, женщина в чёрном платье с белым воротником (стиль дикторши/ведущей новостей) на фоне колонн и растений; титры «DIQQAT QILING!» → «bu xabarim y o s h» → «bu xabarim yoshlar uchun»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.5s: кадр становится цветным (тёплый свет), титр «BIR Group kompaniyasi»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Dikatqilin bu xabarim yoshlar uchun.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "доверие и окупаемость",
+   "профессия будущего"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:09] Aynipatka kadar biznin ushbu yon alishimizda iki ta guruq bitirishka muafak boldi va ular aynipatda 600 milyondan ortik daromatka erishdi.",
+    "timecode": "00:09"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:05] Mabilografiya, targetting suni entelet, hamda sotu, menajir.",
+    "timecode": "00:05"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (~0:11): зал с молодыми слушателями, на экране позади — «BIR ... BIR TA'LIM E...», титр «bizning ushbu»",
+    "timecode": "00:11"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Buning uchun 500 ta grant ajratilgan. 25-sentabr kuni onlayn taqdimot bo‘lib o‘tadi."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:20] 25-ci sintyabr kunu boli botadigan online takdimatda ishtirak edin.",
+    "timecode": "00:20"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук стилизован под выпуск новостей: чёрно-белая картинка, женщина в строгом чёрном платье с белым воротником, «DIQQAT QILING!» (Внимание!), к ~2.5с кадр становится цветным и появляется титр «BIR Group kompaniyasi». В отличие от других роликов подборки, здесь о компании и о её достижениях говорится в третьем лице («Bir grup kampanyası sizge... bi pul orgetadi» — «Bir Group компания вам... бесплатно обучает», «ular... daromatka erishdi» — «ОНИ достигли дохода»), а не «biz» (мы) — поэтому классифицирую спикера как «актёр или ведущий» (образ теле-ведущей/диктора), а не «основатель или эксперт»; имя не звучит и не подписано. Кадр overview (~0:11) показывает реальный зал с молодыми слушателями и экраном с надписью «BIR TA'LIM E...» — похоже на съёмку с офлайн-презентации/семинара бренда, встроенную как перебивка. income_claim: «600 milliondan ortiq daromadga erishdi» — по написанию исправлено из «600 milyondan ortik daromatka erishdi»; это совокупный доход выпускников ДВУХ групп («ikki ta guruh bitirishga muvaffaq bo'ldi»), а не на одного человека — заявление школы (со звёздочкой), число отличается от 650 млн у 2643039256114579 (там иная формулировка, возможно другая когорта). Ролик прямо зовёт подписаться на телеграм-канал («telegram kanalimizga abona bolin»), а link_url ведёт на лендинг bir-group-webinar.vercel.app/b/ — стандартное расхождение."
+}

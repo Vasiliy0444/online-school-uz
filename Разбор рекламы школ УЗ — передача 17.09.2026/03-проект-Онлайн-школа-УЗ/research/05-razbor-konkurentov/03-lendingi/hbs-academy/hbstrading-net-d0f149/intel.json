@@ -1,0 +1,216 @@
+{
+ "url": "https://hbstrading.net",
+ "domain": "hbstrading.net",
+ "pages_scanned": [
+  "https://hbstrading.net/"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)"
+  ]
+ },
+ "seo_metadata": {
+  "title": "HBS Group — treyding, akademiya va investitsiya",
+  "description": "HBS Group: kripto va klassik bozorlarda ta",
+  "open_graph": {
+   "title": "HBS Group — treyding, akademiya va investitsiya",
+   "description": "HBS Group: kripto va klassik bozorlarda ta",
+   "url": "https://hbstrading.net/",
+   "type": "website",
+   "image": "https://hbstrading.net/logo/hbs-holding-main-logo.webp",
+   "locale": "uz_UZ"
+  },
+  "twitter_card": {
+   "card": "summary_large_image"
+  },
+  "canonical": "https://hbstrading.net/",
+  "hreflang": [
+   {
+    "lang": "ru-RU",
+    "url": "https://hbstrading.net/ru"
+   },
+   {
+    "lang": "uz-UZ",
+    "url": "https://hbstrading.net/"
+   },
+   {
+    "lang": "x-default",
+    "url": "https://hbstrading.net/"
+   }
+  ],
+  "structured_data": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://hbstrading.net/#organization",
+    "name": "HBS Group",
+    "url": "https://hbstrading.net",
+    "logo": "https://hbstrading.net/logo/hbs-holding-main-logo.webp",
+    "email": "info@hbstrading.net",
+    "sameAs": [
+     "https://t.me/hbs_akademiya",
+     "https://www.instagram.com/hbsakademiyasi?igsh=MTFiYnVocHpuYzFpaA==",
+     "https://www.linkedin.com/company/hbstrading/posts/?feedView=all",
+     "https://www.facebook.com/hbsacademyuz"
+    ],
+    "subOrganization": [
+     {
+      "@type": "Organization",
+      "name": "HBS Academy",
+      "url": "https://hbstrading.net/hbs-academy"
+     },
+     {
+      "@type": "Organization",
+      "name": "Saraf Screening",
+      "url": "https://hbstrading.net/saraf"
+     },
+     {
+      "@type": "Organization",
+      "name": "Saraf Robot",
+      "url": "https://hbstrading.net/saraf-robot"
+     },
+     {
+      "@type": "Organization",
+      "name": "HBS Asset Management",
+      "url": "https://hbstrading.net/hbs-asset-info"
+     },
+     {
+      "@type": "Organization",
+      "name": "HBS Prop",
+      "url": "https://hbstrading.net/hbs-prop"
+     },
+     {
+      "@type": "Organization",
+      "name": "HBS AI",
+      "url": "https://hbstrading.net/hbs-ai"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "https://hbstrading.net/#website",
+    "name": "HBS Group",
+    "url": "https://hbstrading.net",
+    "inLanguage": [
+     "uz-UZ",
+     "ru-RU"
+    ],
+    "publisher": {
+     "@id": "https://hbstrading.net/#organization"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 1,
+    "name": "HBS Academy",
+    "url": "https://hbstrading.net/hbs-academy"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 2,
+    "name": "Saraf Screening",
+    "url": "https://hbstrading.net/saraf"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 3,
+    "name": "Saraf Robot",
+    "url": "https://hbstrading.net/saraf-robot"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 4,
+    "name": "HBS Asset Management",
+    "url": "https://hbstrading.net/hbs-asset-info"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 5,
+    "name": "HBS Prop",
+    "url": "https://hbstrading.net/hbs-prop"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 6,
+    "name": "HBS AI",
+    "url": "https://hbstrading.net/hbs-ai"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "HBS Group — treyding, akademiya va investitsiya",
+    "description": "HBS Group: kripto va klassik bozorlarda ta'lim, Saraf Screening, aktivlar boshqaruvi va professional treyding ekotizimasi.",
+    "url": "https://hbstrading.net/",
+    "inLanguage": "uz-UZ",
+    "isPartOf": {
+     "@id": "https://hbstrading.net/#website"
+    }
+   }
+  ],
+  "headings": {
+   "h1": [
+    "O&#39;sish uchun imkoniyat, Yangi eshiklar ochiladi"
+   ],
+   "h2": [
+    "Biz haqimizda",
+    "HBS Akademiyasi",
+    "Saraf Screening",
+    "Saraf Robot",
+    "HBS Aktivlarni boshqarish",
+    "HBS Prop",
+    "Kontaktlar",
+    "Bizning filiallarimiz"
+   ],
+   "h3": [
+    "3000 +",
+    "10 +",
+    "40 +",
+    "HBS Akademiyada siz o&#39;rganasiz:",
+    "HBS Akademiyada siz o&#39;rganasiz:",
+    "Dubay",
+    "Toshkent"
+   ]
+  }
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [
+   "https://hbstrading.net/images/statistics/slider.svg",
+   "https://hbstrading.net/images/statistics/users.svg",
+   "https://hbstrading.net/logo/hbs-academy-main-logo.svg",
+   "https://hbstrading.net/logo/hbs-holding-main-logo.webp",
+   "https://hbstrading.net/logo/holdings/hbs-academy-logo.svg",
+   "https://hbstrading.net/logo/holdings/hbs-asset-logo.svg",
+   "https://hbstrading.net/logo/holdings/hbs-group-main-logo.svg",
+   "https://hbstrading.net/logo/holdings/saraf-logo-dark.svg",
+   "https://hbstrading.net/logo/saraf-white-logo.svg",
+   "https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0013-zcash-zec-64x64.png",
+   "https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0020-multi-collateral-dai-dai-64x64.png",
+   "https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0024-usd1-wlfi-usd1-64x64.png",
+   "https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0027-ethena-usde-usde-64x64.png",
+   "https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0032-global-dollar-usdg-usdg-64x64.png",
+   "https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0034-uniswap-uni-64x64.png",
+   "https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0040-near-protocol-near-64x64.png"
+  ],
+  "total_images_found": 64
+ },
+ "integration_links": [],
+ "hidden_elements": {},
+ "google_ids": {
+  "gtm": [
+   "GTM-5XW7TCSH"
+  ]
+ }
+}

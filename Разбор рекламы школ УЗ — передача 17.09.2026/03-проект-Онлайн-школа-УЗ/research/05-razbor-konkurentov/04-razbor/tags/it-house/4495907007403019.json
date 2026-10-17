@@ -1,0 +1,74 @@
+{
+ "creative_id": "4495907007403019",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Kompyuterda ishlagan ishingizni ortiqcha qiyinchiliklarsiz bajarishni istaysiz",
+  "types": [
+   "боль",
+   "вопрос"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.5s–2.5s: мужчина в клетчатом пиджаке на персиковом фоне, в кадр «влетает» графика ретро-компьютера; на 1.5s текст «qiynalasiz, shundaymi?»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Kampiutirde islargan ishingizni ortisca xinciliklasiz, bacarishni ishsaysiz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта",
+   "быстрый старт"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (≈0:13): «taklif qilamiz. Qisqa muddat»",
+    "timecode": "00:13"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:12] Qisqan bunda ticida uzini soxaragyan dik kampiutirini islatishni orjanasiz.",
+    "timecode": "00:12"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Ещё один дубль скетча «трудно работать за компьютером без навыков» (тот же текст объявления, см. список повторов в 1591878965927205.json), с новым фоном (персиковый градиент) и анимацией «влетающего» ретро-компьютера вместо линейных иконок."
+}

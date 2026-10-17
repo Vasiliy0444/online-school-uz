@@ -1,0 +1,118 @@
+{
+ "creative_id": "1509620034215065",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Uzum Marketda mahsulotingiz bor, lekin buyurtmalaringiz yo'qmi?",
+  "types": [
+   "вопрос",
+   "боль",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "таймер или обратный отсчёт",
+   "логотип площадки (Uzum и т.п.)"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s: таймер «00:34», «21+», логотип Uzum Market; ведущий на диване говорит в камеру",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.0s: «MAHSULOTINGIZ BOR»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.5s: «BUYURTMALARINGIZ YO'QMI?»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Uzun markette mahsilatiz bar, leykim buyurtmalariz yoxma?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта",
+   "доход",
+   "стабильность"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈00:10): «0 DAN DAROMADGA CHIQISHNI»",
+    "timecode": "00:10"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (≈00:18): «$1000 OYLIK DAROMAD»",
+    "timecode": "00:18"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:14] i undan tashkara ayge stabilni min dolu daromad tapishi olu orgetilinadi.",
+    "timecode": "00:14"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "oyiga stabil $1000 daromad topishni o'rganib olasiz"
+   }
+  ],
+  "income_claim": "$1000 OYLIK DAROMAD (кадр) / oyiga stabil $1000 daromad topishni o'rganib olasiz (текст объявления)"
+ },
+ "offer": {
+  "items": [
+   "лид-магнит (PDF, гайд)"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:04] Biz ayna siz uchun Beeple PDF kollamma tayyarladiyi.",
+    "timecode": "00:04"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Uzum Market’da 0 dan savdo boshlash bo‘yicha bepul PDF qo‘llanma"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:22] Kollammanin yukilab alishi, xazirak kanalimizgi otiyin,",
+    "timecode": "00:22"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈00:24): экран телефона: Telegram-канал «Qadam | Uzum Market», закреплённое сообщение «Bu qo'llanmalar orqali siz qadam-ba…»",
+    "timecode": "00:24"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "лид-магнит"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "высокая",
+ "notes": "Хук — текст на кадрах, полная фраза по расшифровке, написание исправлено («mahsilatiz bar, leykim buyurtmalariz yoxma» → «mahsulotingiz bor, lekin buyurtmalaringiz yo'qmi»): обращение к тем, у кого уже есть товар на Uzum, но нет заказов. Оффер — бесплатный PDF-гайд: как выйти на доход с нуля, избежать ошибок новичков и «oyiga stabil ming dollar daromad topish» — обещание стабильного дохода → risk. Призыв [00:22–00:24]: «Qo'llanmani yuklab olish uchun hoziroq kanalimizga o'ting, PDF qo'llanma sizni biriktirilgan xabarda kutyapti» (написание исправлено). Несовпадение ролика и ссылки: ролик зовёт в Telegram-канал, а ссылка ведёт на лендинг qadam.education/uzum-pdf; в тексте объявления — «quyidagi havola orqali ariza qoldiring va kanalimizga o'ting» (заявка, затем канал). На скриншоте канала мелко виден пост про эфир «Bugun soat 20:00 da» — в ролике не озвучен, в оффер не включён. Кадр 1 из 4 — чёрная склейка с таймером."
+}

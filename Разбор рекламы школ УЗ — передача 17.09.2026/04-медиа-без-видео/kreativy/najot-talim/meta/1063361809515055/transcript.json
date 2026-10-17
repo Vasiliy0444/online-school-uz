@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.78,
+   "text": "Awallari ishke kireyken paytizde sizden kapiturinan kay darizda bilasam digini sawal boyorilgin."
+  },
+  {
+   "start": 4.94,
+   "end": 6.32,
+   "text": "Lekin bugun jarayam ozgarim."
+  },
+  {
+   "start": 6.74,
+   "end": 10.5,
+   "text": "Sawal huyda gichi, suni intelektinan kay darizda faydalanan olasan."
+  },
+  {
+   "start": 10.96,
+   "end": 14.52,
+   "text": "Ba bu sawalgi sizxan en ideal darizda jawab bira alin."
+  },
+  {
+   "start": 14.76,
+   "end": 20.8,
+   "text": "Gani so hangiz boyi che, orgenyayken bilaminiz boyi che, suni intelektin en yashlaridan faydalanashini sesangiz,"
+  },
+  {
+   "start": 20.96,
+   "end": 24.6,
+   "text": "biz sizne Najat Talimnin suni intelekt kurslarida kutup alamiz."
+  },
+  {
+   "start": 25.02,
+   "end": 27.02,
+   "text": "Najat Talim, zamana kesilan markazim."
+  },
+  {
+   "start": 27.02,
+   "end": 30.92,
+   "text": "quldiq sondayi en yashlusuni intelik kursini siya akli fitadi."
+  }
+ ],
+ "chars": 526,
+ "chars_per_s": 16.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

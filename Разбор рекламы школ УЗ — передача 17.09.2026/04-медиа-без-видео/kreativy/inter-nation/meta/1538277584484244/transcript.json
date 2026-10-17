@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 12.32,
+   "text": "Bagzani inson nima nondor jidi xoklaydi, dekin kaya dan boshlashini bilmaya qolad."
+  },
+  {
+   "start": 12.72,
+   "end": 16.86,
+   "text": "Maqsadi bolad, orzulari bolad, dekin jimizde bir sawal qolad."
+  },
+  {
+   "start": 17.22,
+   "end": 18.46,
+   "text": "Min bu ngeyar shualanamim?"
+  },
+  {
+   "start": 18.76,
+   "end": 23.62,
+   "text": "Chinki bazibaytlar al ngeyorishniyamaz, doqru yolun tapshina örgenish kerek bolad."
+  },
+  {
+   "start": 25.28,
+   "end": 27.4,
+   "text": "Min Yakub Janushoja, 16 yashtaman."
+  },
+  {
+   "start": 27.6,
+   "end": 29.66,
+   "text": "Boshtlant panal sportlan shugurlanibdraman."
+  },
+  {
+   "start": 30.0,
+   "end": 60.0,
+   "text": "Chunk insan faqat ki-tabdar ortar exemple, ki-ziqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliqliq"
+  }
+ ],
+ "chars": 689,
+ "chars_per_s": 10.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

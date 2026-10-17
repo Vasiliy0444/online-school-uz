@@ -1,0 +1,90 @@
+{
+ "creative_id": "1554069146388165",
+ "platform": "meta",
+ "school_id": "englify",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон",
+  "запись экрана"
+ ],
+ "hook": {
+  "verbatim": "Ingliz tilini o'rganmoqchisiz, lekin uy ishlari, oila tashvishlari...",
+  "types": [
+   "боль",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.5s–1.0s: «ingliz tilini o'rganmoqchisiz»; мужчина в машине (белый пиджак, галстук)",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.5s–2.5s: «lekin uy ishlari, oila tashvishlari»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Ha, ingilisli organ maqtsiz, lekin uy, ish, o'ile tashvishlari, organishki waqt yox, am bubda bir amal la waqto pamanciz offline.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "экономия времени"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:07: «Bir amallab»; ~0:20: «Hammasi siz uchun»",
+    "timecode": "00:20"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:19] Xam asasiz uchun, kunigi ellik dakiqa yetadi, darsni yuki.",
+    "timecode": "00:19"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:47: «Xullas, funksiyalari juda ham ko'p»",
+    "timecode": "00:47"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "HAVOLA USTIGA BOSING"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Тот же ведущий (машина, белый пиджак с галстуком), что и в других роликах пачки. Хук адресован занятым людям с семьёй/бытом («уй ишлари, оила ташвишлари»), дальше — питч про ИИ-собеседника, 50 минут в день, эксклюзивные подкасты по уровням. Кадры хорошо совпадают с расшифровкой."
+}

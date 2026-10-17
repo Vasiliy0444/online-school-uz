@@ -1,0 +1,141 @@
+{
+ "url": "https://najottalim.uz/kurslar",
+ "school_id": "najot-talim",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "главная или каталог",
+ "builder": "Next.js",
+ "pixels": [
+  "Google Analytics (GA4)"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Выберите подходящее направление: практико-ориентированные интенсивные курсы по программированию, ИИ, маркетингу, дизайну и аналитике данных",
+  "quote": "Oʻzingizga mos yoʻnalishni tanlang\nDasturlash, sunʼiy intellekt, marketing, dizayn va data analitika yoʻnalishlarida amaliyotga yoʻnaltirilgan intensiv kurslar.",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "program": {
+  "found": false
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [
+   "нет"
+  ],
+  "reviews_count": 0
+ },
+ "price": {
+  "found": true,
+  "tariffs": [
+   {
+    "name": "Dasturlash Foundation — «Oylik toʻlov»",
+    "price_uzs": 1800000,
+    "period": "в месяц",
+    "quote": "Dasturlash Foundation 4 oy · haftada 3 kun · 4 soatBoshlangʻich Oylik toʻlov 1 800 000 soʻm"
+   },
+   {
+    "name": "Start Junior — «Oylik toʻlov»",
+    "price_uzs": 1200000,
+    "period": "в месяц",
+    "quote": "Start Junior 12 oy · haftada 3 kun · 1,5 soat15–17 yosh Oylik toʻlov 1 200 000 soʻm"
+   },
+   {
+    "name": "Sunʼiy Intellekt Asoslari — «Oylik toʻlov»",
+    "price_uzs": 1500000,
+    "period": "в месяц",
+    "quote": "Sunʼiy Intellekt Asoslari 2 oy · haftada 2 kun · 2 soat Oylik toʻlov 1 500 000 soʻm"
+   },
+   {
+    "name": "Full-stack Dasturlash — «Oylik toʻlov»",
+    "price_uzs": 1600000,
+    "period": "в месяц",
+    "quote": "Full-stack Dasturlash 10 oy · haftada 3 kun · 2 soatIntensiv Oylik toʻlov 1 600 000 soʻm"
+   },
+   {
+    "name": "Kiberxavfsizlik — «Oylik toʻlov»",
+    "price_uzs": 2500000,
+    "period": "в месяц",
+    "quote": "Kiberxavfsizlik 8 oy · haftada 3+3 kun · 3 soatIntensiv Oylik toʻlov 2 500 000 soʻm"
+   },
+   {
+    "name": "Machine Learning — «Oylik toʻlov»",
+    "price_uzs": 2500000,
+    "period": "в месяц",
+    "quote": "Machine Learning 8 oy · haftada 6 kun · 2 soatIntensiv Oylik toʻlov 2 500 000 soʻm"
+   },
+   {
+    "name": "Data Analitika — «Oylik toʻlov»",
+    "price_uzs": 2200000,
+    "period": "в месяц",
+    "quote": "Data Analitika 7 oy · haftada 3 kun · 2 soatIntensiv Oylik toʻlov 2 200 000 soʻm"
+   },
+   {
+    "name": "SMM Pro — «Oylik toʻlov»",
+    "price_uzs": 2200000,
+    "period": "в месяц",
+    "quote": "SMM Pro 4 oy · haftada 3 kun · 2 soatIntensiv Oylik toʻlov 2 200 000 soʻm"
+   },
+   {
+    "name": "Videografiya — «Oylik toʻlov»",
+    "price_uzs": 2200000,
+    "period": "в месяц",
+    "quote": "Videografiya 6 oy · haftada 3 kun · 2 soat Oylik toʻlov 2 200 000 soʻm"
+   },
+   {
+    "name": "Mobilografiya — «Oylik toʻlov»",
+    "price_uzs": 2200000,
+    "period": "в месяц",
+    "quote": "Mobilografiya 2 oy · haftada 3 kun · 2 soat Oylik toʻlov 2 200 000 soʻm"
+   },
+   {
+    "name": "AI Dizayn — «Oylik toʻlov»",
+    "price_uzs": 2000000,
+    "period": "в месяц",
+    "quote": "AI Dizayn 4 oy · haftada 3 kun · 2 soat Oylik toʻlov 2 000 000 soʻm"
+   },
+   {
+    "name": "AI Coding — «Oylik toʻlov»",
+    "price_uzs": 1500000,
+    "period": "в месяц",
+    "quote": "AI Coding 4 oy · haftada 2 marta · 2 soatBoshlangʻich Oylik toʻlov 1 500 000 soʻm"
+   }
+  ]
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": false
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "notes": "12 курсов с ценой «Oylik toʻlov»: от 1 200 000 до 2 500 000 сум в месяц, длительность от 2 до 12 месяцев. Помесячная оплата обучения — по правилу не рассрочка. Цены совпадают с тарифом «Toshkent shahri» на страницах курсов; для регионов там дешевле. Категории карточек: Dasturlash — 7, Dizayn — 4 (в т. ч. «Sunʼiy Intellekt Asoslari»), Marketing — 1 (SMM Pro). Соцдоказательств, формы, явного деления платежа, скидок, гарантии и дедлайна нет. Конверсионный призыв — «Roʻyxatdan oʻtish» в шапке (ведёт в форму на главной najottalim.uz/#royxat, после неё обещан звонок); карточки ведут на открытые страницы курсов. Авторазметка «оферта или оплата» ошибочна — сработала ссылка «Ommaviy oferta» в подвале. Скриншот (один кадр 390×844) показывает подвал, а не первый экран; «первый экран» определён по порядку текста в page.md."
+}

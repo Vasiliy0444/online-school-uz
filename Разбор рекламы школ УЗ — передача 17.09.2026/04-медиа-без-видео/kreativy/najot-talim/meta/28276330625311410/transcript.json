@@ -1,0 +1,471 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 0.92,
+   "text": "Instagram faydalan nasim?"
+  },
+  {
+   "start": 0.92,
+   "end": 1.42,
+   "text": "Ujir vargim."
+  },
+  {
+   "start": 1.42,
+   "end": 1.92,
+   "text": "Rasta."
+  },
+  {
+   "start": 1.92,
+   "end": 3.12,
+   "text": "Karsay chak uaylo, shu yitki."
+  },
+  {
+   "start": 4.54,
+   "end": 5.24,
+   "text": "Assalamu alaykum."
+  },
+  {
+   "start": 5.24,
+   "end": 5.74,
+   "text": "Wa alaykisam."
+  },
+  {
+   "start": 5.74,
+   "end": 6.38,
+   "text": "Rahmatullah."
+  },
+  {
+   "start": 6.38,
+   "end": 6.88,
+   "text": "Kharazimna."
+  },
+  {
+   "start": 6.88,
+   "end": 7.88,
+   "text": "Gurlantim anna."
+  },
+  {
+   "start": 7.88,
+   "end": 10.88,
+   "text": "Khadar demin Kharazimna tashkiniga ayati urgan shushun kilidi shunakam?"
+  },
+  {
+   "start": 10.88,
+   "end": 13.24,
+   "text": "Yagosh moun sakkizdi, universitga tavshirmagam man."
+  },
+  {
+   "start": 13.24,
+   "end": 16.38,
+   "text": "Uqdaqilisay kilaychayqda shu chetin universitla yaga tavshirshun yagatim bar."
+  },
+  {
+   "start": 16.38,
+   "end": 18.76,
+   "text": "Ishqaqilish masalasayt yapradigam usam shu indi,"
+  },
+  {
+   "start": 18.76,
+   "end": 20.26,
+   "text": "jay fantaziyas web kitadyon,"
+  },
+  {
+   "start": 20.26,
+   "end": 23.22,
+   "text": "Google, Facebook, Amazon, mazhinax kambaliya kashniyq mazhi"
+  },
+  {
+   "start": 23.22,
+   "end": 24.02,
+   "text": "Bu fantaziya mazh"
+  },
+  {
+   "start": 24.02,
+   "end": 26.66,
+   "text": "Uzbeydiniyqtadir, bollar shiridi u shliyabda, bu normal zaryan"
+  },
+  {
+   "start": 26.66,
+   "end": 28.46,
+   "text": "Va sizi yashizda tavsiyaq yamolardim ki"
+  },
+  {
+   "start": 28.46,
+   "end": 31.42,
+   "text": "Mazhatlar khud dushnak iken, brolurda kambaliya ishashiz shartmaz"
+  },
+  {
+   "start": 31.42,
+   "end": 35.12,
+   "text": "Lekin, sohan urutmasdiq uchun paralel doyam lohaqli barj tavsiyaqlindan"
+  },
+  {
+   "start": 35.12,
+   "end": 37.18,
+   "text": "En kambida startuplar yukoshilish tavsiyaqlaman"
+  },
+  {
+   "start": 37.18,
+   "end": 39.98,
+   "text": "Va har doyam, har kanday community-lar yukoshilin, ati community-lar ye"
+  },
+  {
+   "start": 39.98,
+   "end": 43.52,
+   "text": "Qayladar, startuplar boychi, tatikatlar bostar, takdimatlar bostar"
+  },
+  {
+   "start": 43.52,
+   "end": 44.96,
+   "text": "Albat da barin. Link edin bar mi?"
+  },
+  {
+   "start": 44.96,
+   "end": 45.46,
+   "text": "Ya, yok."
+  },
+  {
+   "start": 45.46,
+   "end": 46.44,
+   "text": "Qach anga chayasiz?"
+  },
+  {
+   "start": 46.44,
+   "end": 47.24,
+   "text": "Dogan aga daghla."
+  },
+  {
+   "start": 47.24,
+   "end": 47.74,
+   "text": "Zor."
+  },
+  {
+   "start": 47.74,
+   "end": 48.94,
+   "text": "Kan bu durdan oyu oynanmisis?"
+  },
+  {
+   "start": 48.94,
+   "end": 49.44,
+   "text": "Yok."
+  },
+  {
+   "start": 49.44,
+   "end": 50.34,
+   "text": "Nigi oyu oynanmisis?"
+  },
+  {
+   "start": 50.34,
+   "end": 51.48,
+   "text": "18 yashiz o?"
+  },
+  {
+   "start": 51.48,
+   "end": 52.48,
+   "text": "Hali yoshiz boyu gitlal mi?"
+  },
+  {
+   "start": 52.48,
+   "end": 53.48,
+   "text": "Girma bira girima ikkilar bar ikan?"
+  },
+  {
+   "start": 53.48,
+   "end": 54.14,
+   "text": "Full stake."
+  },
+  {
+   "start": 54.14,
+   "end": 55.92,
+   "text": "No, o kistan aldim oynyarim, haz oynanim."
+  },
+  {
+   "start": 55.92,
+   "end": 56.94,
+   "text": "Instagram faydalan nasim?"
+  },
+  {
+   "start": 56.94,
+   "end": 58.3,
+   "text": "Oynayam shu full stake vasayistan aldim."
+  },
+  {
+   "start": 58.3,
+   "end": 58.9,
+   "text": "O gir varigam."
+  },
+  {
+   "start": 58.9,
+   "end": 59.4,
+   "text": "Rastan."
+  },
+  {
+   "start": 59.4,
+   "end": 60.54,
+   "text": "Qar say chakoylo shu gitkin?"
+  },
+  {
+   "start": 62.38,
+   "end": 62.76,
+   "text": "Yaxshay."
+  },
+  {
+   "start": 62.76,
+   "end": 64.0,
+   "text": "Otam nizmiz qilash qilash adi rayiz?"
+  },
+  {
+   "start": 64.0,
+   "end": 66.62,
+   "text": "shu aylavi ta dur kaqamiz, shu sobyan market xar azinda"
+  },
+  {
+   "start": 66.62,
+   "end": 67.72,
+   "text": "yurlan yi warsam kirama"
+  },
+  {
+   "start": 67.72,
+   "end": 70.44,
+   "text": "bilasama, nursetladan grant alish boyi chakizik qoyqanmiz sech"
+  },
+  {
+   "start": 70.44,
+   "end": 73.54,
+   "text": "grantlar adatda sizi azyralib tuloygan nimadir bilan veriladi"
+  },
+  {
+   "start": 73.54,
+   "end": 75.46,
+   "text": "masalan, adamda liderligi chun veriladi"
+  },
+  {
+   "start": 75.46,
+   "end": 78.16,
+   "text": "liderligi diyani, kakayada chikib spiz qilishmaz"
+  },
+  {
+   "start": 78.16,
+   "end": 81.5,
+   "text": "manan shu yoshiz yiyamos boygan nimadir qilalyan bolshiz"
+  },
+  {
+   "start": 81.5,
+   "end": 83.5,
+   "text": "masalan, turkshin yiga biti start-up qiyan bolshiz"
+  },
+  {
+   "start": 83.5,
+   "end": 85.5,
+   "text": "vaki diri ekologiya boyi chan nimadir ishlaqishiz"
+  },
+  {
+   "start": 85.5,
+   "end": 87.62,
+   "text": "yani camniyatki biye farq masigiz bildirish"
+  },
+  {
+   "start": 87.62,
+   "end": 90.18,
+   "text": "Adeta eteman, duniyani eyn top universitlari"
+  },
+  {
+   "start": 90.18,
+   "end": 93.78,
+   "text": "kimdir IELTS-dan nisidir balabarligi, SAT-dan nisidir balabarligi chun grant birmiyin."
+  },
+  {
+   "start": 93.78,
+   "end": 96.66,
+   "text": "Chunki, uzeyge tafsun uche, barchata birxla ushin astarab bulad."
+  },
+  {
+   "start": 96.66,
+   "end": 99.82,
+   "text": "Pulan bar didi mendar didi, SAT sertifikatiyan bar didi, IELTS-dan bar didi."
+  },
+  {
+   "start": 99.82,
+   "end": 102.9,
+   "text": "Enda adamlarida fakat gina acayat barish munkum buganlarsa"
+  },
+  {
+   "start": 102.9,
+   "end": 105.14,
+   "text": "camiyatka qay derecidda qay gura alishi,"
+  },
+  {
+   "start": 105.14,
+   "end": 107.18,
+   "text": "irtaya kim bomaxchi, agar bunge grant birsek,"
+  },
+  {
+   "start": 107.18,
+   "end": 110.7,
+   "text": "agar bunog ukshki olsek, bu khadirgi yuaxhiga mas buga nima islar qilal dodu bu soriyin?"
+  },
+  {
+   "start": 110.7,
+   "end": 111.62,
+   "text": "uluqan ishlar dimaz?"
+  },
+  {
+   "start": 111.62,
+   "end": 113.28,
+   "text": "Duniyonu uzgatir girmandigyan ishtimaz?"
+  },
+  {
+   "start": 113.28,
+   "end": 114.54,
+   "text": "Me shunaka mgaqma qordim,"
+  },
+  {
+   "start": 114.54,
+   "end": 116.14,
+   "text": "bunge cam a uyu shunaka yechimla qaldig,"
+  },
+  {
+   "start": 116.14,
+   "end": 116.94,
+   "text": "manaka sayadlar qaldig,"
+  },
+  {
+   "start": 116.94,
+   "end": 117.86,
+   "text": "manaka ilawalar qaldig."
+  },
+  {
+   "start": 117.86,
+   "end": 119.46,
+   "text": "Bo ki, biz sabri bunaka-bunaka nasilak"
+  },
+  {
+   "start": 119.46,
+   "end": 120.62,
+   "text": "uzgarda diga alish soriyad."
+  },
+  {
+   "start": 120.62,
+   "end": 121.54,
+   "text": "Wa aga ular shunge,"
+  },
+  {
+   "start": 121.54,
+   "end": 123.06,
+   "text": "waw, zor ki u naizdisi,"
+  },
+  {
+   "start": 123.06,
+   "end": 124.66,
+   "text": "ushi jayda grand versi bolarkani,"
+  },
+  {
+   "start": 124.66,
+   "end": 126.2,
+   "text": "oki ukshika qab oqsi bolarkani diga"
+  },
+  {
+   "start": 126.2,
+   "end": 127.0,
+   "text": "xulasiye gelin dada."
+  },
+  {
+   "start": 127.0,
+   "end": 128.74,
+   "text": "Bakim, matibiyatsiyon xat yalish soriyani."
+  },
+  {
+   "start": 128.74,
+   "end": 130.14,
+   "text": "Aga, duniyonun in topi ulasilada"
+  },
+  {
+   "start": 130.14,
+   "end": 131.14,
+   "text": "qil maqchi qo ses."
+  },
+  {
+   "start": 131.14,
+   "end": 132.14,
+   "text": "Motiivasyon xat birdan yazil mid?"
+  },
+  {
+   "start": 132.14,
+   "end": 135.14,
+   "text": "Adam uzun nima uken shayqganilin u ila u alish qili abbala."
+  },
+  {
+   "start": 135.14,
+   "end": 137.14,
+   "text": "Maqsadilarilima qil izidi kim bo maqchi?"
+  },
+  {
+   "start": 137.14,
+   "end": 140.14,
+   "text": "Fakat ikan u yu mashin yabilan qifayiladim ya ki unnan camiyatki nima dor qoladim?"
+  },
+  {
+   "start": 140.14,
+   "end": 142.14,
+   "text": "Yani nima dor beri oladim o adamlargi?"
+  },
+  {
+   "start": 142.14,
+   "end": 143.14,
+   "text": "Mana shun arsam uxum?"
+  },
+  {
+   "start": 143.14,
+   "end": 144.14,
+   "text": "Bo bu yu axizdi qibra shu haqda ulin."
+  },
+  {
+   "start": 144.14,
+   "end": 145.14,
+   "text": "Xop?"
+  },
+  {
+   "start": 145.14,
+   "end": 146.14,
+   "text": "Ishikiriz shizgimas."
+  },
+  {
+   "start": 146.14,
+   "end": 147.14,
+   "text": "Chungi maqsadiliz universit."
+  },
+  {
+   "start": 147.14,
+   "end": 148.14,
+   "text": "Bo dunarini en yasli universitilara."
+  },
+  {
+   "start": 148.14,
+   "end": 149.14,
+   "text": "Toktol shungi harikat qilin."
+  },
+  {
+   "start": 149.14,
+   "end": 151.14,
+   "text": "qalima qalima"
+  },
+  {
+   "start": 151.14,
+   "end": 153.14,
+   "text": "qalima"
+  },
+  {
+   "start": 153.14,
+   "end": 155.14,
+   "text": "qalima"
+  }
+ ],
+ "chars": 3316,
+ "chars_per_s": 21.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 1,
+ "quality": "черновое"
+}

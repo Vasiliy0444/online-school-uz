@@ -1,0 +1,151 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.56,
+   "text": "Yaman, chunmadim davlad, mi qrostanam, chunki adami tikin qoqitin aqishmiz ila?"
+  },
+  {
+   "start": 4.56,
+   "end": 5.76,
+   "text": "Talibat, düz faqir."
+  },
+  {
+   "start": 5.76,
+   "end": 8.0,
+   "text": "Mutlaqa, Beipulga, Uzbekistan boylab,"
+  },
+  {
+   "start": 8.0,
+   "end": 10.28,
+   "text": "zamanayi yedista kask boychi,"
+  },
+  {
+   "start": 10.28,
+   "end": 11.88,
+   "text": "500 qoqichini oqitagmiz."
+  },
+  {
+   "start": 11.88,
+   "end": 14.32,
+   "text": "Bittab olani oqitish ozi, khachalik deyin,"
+  },
+  {
+   "start": 14.32,
+   "end": 17.8,
+   "text": "500 ta bunna aldin qiganmiz ila, boyish ozi?"
+  },
+  {
+   "start": 17.8,
+   "end": 20.24,
+   "text": "Shupatka cha biz, bir grob kampanyamizdini"
+  },
+  {
+   "start": 20.24,
+   "end": 21.36,
+   "text": "bir tarlan oykhasla,"
+  },
+  {
+   "start": 21.36,
+   "end": 23.48,
+   "text": "Toruzgiye yaqin qoqichini oqittik."
+  },
+  {
+   "start": 23.48,
+   "end": 26.56,
+   "text": "Ularida 60-70%-i ishliy borishti."
+  },
+  {
+   "start": 26.56,
+   "end": 30.56,
+   "text": "urtaci 300$ dan 500$ gaci khadrdi daraam urtabcadi"
+  },
+  {
+   "start": 30.56,
+   "end": 33.56,
+   "text": "undanam 1000$ gaci tapetgani onkocili bar"
+  },
+  {
+   "start": 33.56,
+   "end": 34.56,
+   "text": "Zor legin"
+  },
+  {
+   "start": 34.56,
+   "end": 40.56,
+   "text": "Shubbayt gaci unimi ulari tapgani puli 54000$ dan ku tasorgil apsizda"
+  },
+  {
+   "start": 40.56,
+   "end": 42.56,
+   "text": "Tekingi oku kincadaraamad"
+  },
+  {
+   "start": 42.56,
+   "end": 47.56,
+   "text": "Zor legin, bu imkaniyattan obinacilarimiz kanak faydalanisi bolad okid"
+  },
+  {
+   "start": 47.56,
+   "end": 51.56,
+   "text": "Talin okul amiz 21 Sintiamburgini 20.30-da Telegram kanaldi"
+  },
+  {
+   "start": 51.56,
+   "end": 53.56,
+   "text": "John Leifer bolu botadi"
+  },
+  {
+   "start": 53.56,
+   "end": 55.56,
+   "text": "John Leiferdi ushe kaspilar dairasda tolo malamatdi birayamiz"
+  },
+  {
+   "start": 55.56,
+   "end": 57.56,
+   "text": "iti dhe zamana yodi kaspi boychi"
+  },
+  {
+   "start": 57.56,
+   "end": 59.56,
+   "text": "Kimgi qais kaspi mahluk iladi yam bolsa"
+  },
+  {
+   "start": 59.56,
+   "end": 61.56,
+   "text": "royxatdan utshiyadi"
+  },
+  {
+   "start": 61.56,
+   "end": 63.56,
+   "text": "olayin tadamatda qatnakshi"
+  },
+  {
+   "start": 63.56,
+   "end": 65.56,
+   "text": "bundan son sarilay olayamiz olayamiz"
+  },
+  {
+   "start": 65.56,
+   "end": 67.56,
+   "text": "Bu inkolonyatdan faydalanish"
+  },
+  {
+   "start": 67.56,
+   "end": 69.56,
+   "text": "uchun Azura Pastagi padrobni tigmasini basib"
+  },
+  {
+   "start": 69.56,
+   "end": 71.56,
+   "text": "telgiramga otoy olayamiz"
+  }
+ ],
+ "chars": 1085,
+ "chars_per_s": 15.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

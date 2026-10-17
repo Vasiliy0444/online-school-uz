@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.88,
+   "text": "Uf, bu Cain'a tanan qilib ozgertir ardi."
+  },
+  {
+   "start": 3.62,
+   "end": 5.36,
+   "text": "Ezvazi, kucatla tayyar mi?"
+  },
+  {
+   "start": 5.84,
+   "end": 6.7,
+   "text": "Xazir, xazir."
+  },
+  {
+   "start": 7.9,
+   "end": 10.6,
+   "text": "Bitte Cain'i iki saatdan bir ozgertir vasmi?"
+  },
+  {
+   "start": 10.92,
+   "end": 12.78,
+   "text": "Yuzmerti ettim shu uchun sizgi."
+  },
+  {
+   "start": 12.92,
+   "end": 14.94,
+   "text": "Kampyotirdan faydan ashri organi indidim."
+  },
+  {
+   "start": 15.32,
+   "end": 17.96,
+   "text": "Kampyotir ishlaqini bulmaganiz uchu, ati ishlayam,"
+  },
+  {
+   "start": 18.04,
+   "end": 19.48,
+   "text": "uchdur saat gechi ozgertir vat, dima?"
+  }
+ ],
+ "chars": 289,
+ "chars_per_s": 14.2,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

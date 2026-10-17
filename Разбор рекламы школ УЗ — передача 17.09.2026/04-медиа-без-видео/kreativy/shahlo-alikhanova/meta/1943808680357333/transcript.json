@@ -1,0 +1,56 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.9,
+   "text": "Man ge shunaki qizil soqol kengana ke, mana shu soqolge ma uzunzana tajibamizna kelip chqib jawab verimok chi man."
+  },
+  {
+   "start": 4.9,
+   "end": 10.4,
+   "text": "Tepida korpturgan video ila digi bu adam haqiki odam maz, bu sunintilik yordamida tayarlanga AI Avatar."
+  },
+  {
+   "start": 10.4,
+   "end": 14.6,
+   "text": "Bu Avatar meraz branda reklamararda chup, 700 dollar daromad topti."
+  },
+  {
+   "start": 14.6,
+   "end": 22.1,
+   "text": "Tozi, sizan voziz yuz yuz kurs atmaztan AI Avatarla tayarlab, mana shu orqali blog yuritib, brandla blanchlab, reklamala orqali daromad top shizmikun."
+  },
+  {
+   "start": 22.1,
+   "end": 27.1,
+   "text": "Agar sizgi 2026-in chiik AI blan blog yuritib, daromad top shi mavzusu qizig bola digan bisi,"
+  },
+  {
+   "start": 27.1,
+   "end": 29.48,
+   "text": "bizi Shveti-dən AI expert-la, halkala speaker-li"
+  },
+  {
+   "start": 29.48,
+   "end": 31.9,
+   "text": "manashu mavzuda bizi video darsli tayyarilagamiz."
+  },
+  {
+   "start": 32.0,
+   "end": 33.76,
+   "text": "Darslinni korushchun pasiqtun manabosin,"
+  },
+  {
+   "start": 33.84,
+   "end": 35.64,
+   "text": "umidxilaman bu darsli sizgi faydali boladi."
+  }
+ ],
+ "chars": 715,
+ "chars_per_s": 19.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,4 @@
+[00:00] Deklaratsi oqqu kursimizde namalarini o'rgenasis.
+[00:02] Ekspert va imprt operatsilari boychi, bochkona yuk deklaratsilari toldurish,
+[00:06] tavarinin kiften kodini aniklash, xamda xalkaro shartnomalarini roxatdan otqizish,
+[00:11] imtiyaz va preferensyalari toguri va oz ordunda kollash, xamda bochkona qimati aniklashni usullarini o'rgenasis.

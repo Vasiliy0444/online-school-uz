@@ -1,0 +1,66 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.36,
+   "text": "Boxtilgi zaym etib turupti, ingilis tilini organgin, chetil firma arabilan ishli isan o'li ginam oshad doqti."
+  },
+  {
+   "start": 5.36,
+   "end": 6.68,
+   "text": "Lekin siz voxtoqpam yapsi."
+  },
+  {
+   "start": 6.98,
+   "end": 10.6,
+   "text": "Bunak ki etishti, yawsh dediki ingilisini biladigan bali bu imkonyatdi ilibket edi."
+  },
+  {
+   "start": 10.66,
+   "end": 13.48,
+   "text": "Maat echi razam 13-lik tajribi ge egi ingilis roqta utsiman."
+  },
+  {
+   "start": 13.6,
+   "end": 18.02,
+   "text": "Va 22-ci, 23-ci, 24-ci, 7-ci abur kunlare Bepul online masterclassi uyshtiri yapman."
+  },
+  {
+   "start": 18.36,
+   "end": 22.34,
+   "text": "Ushbu masterclassi da kanayakilib 0-dan 30-kuni chidi kundalik mauzurada ge aparishdini orga taban."
+  },
+  {
+   "start": 22.34,
+   "end": 26.74,
+   "text": "Nuntashqari, kunigi ellikti gecham sozini onson yotlab realxayotlishtatish"
+  },
+  {
+   "start": 26.74,
+   "end": 30.42,
+   "text": "va bayki sertifikat olishnin samarali usullarini orgetaman."
+  },
+  {
+   "start": 30.7,
+   "end": 32.4,
+   "text": "Masterclass-da katnash mutlaka obi ebul,"
+  },
+  {
+   "start": 32.48,
+   "end": 34.2,
+   "text": "faqat xawalan ustagi basib roy xattan otin"
+  },
+  {
+   "start": 34.2,
+   "end": 36.38,
+   "text": "va yapig Telegram kanalamizgi qoshirib olin."
+  }
+ ],
+ "chars": 730,
+ "chars_per_s": 20.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

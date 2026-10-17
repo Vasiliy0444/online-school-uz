@@ -1,0 +1,86 @@
+{
+ "creative_id": "1367207868729809",
+ "platform": "meta",
+ "school_id": "bir-group",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Zamonaviy kasblarni o'rganmoqchi bo'lgan yoshlarga ajoyib imkoniyat.",
+  "types": [
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: молодой мужчина в белой футболке на фоне парковой аллеи на закате; субтитры «ZAMONAVIY KASBLARNI» → «O'RGANMOQCHI» → «BO'LGAN YOSHLARGA» → «AJOYIB IMKONIYAT»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Zamana vekeslarni örgani maqchibigan yashlarga acaib unkanayat.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "профессия будущего"
+  ],
+  "income_claim": "650 million so'mdan ko'p daromad (oldingi guruh bitiruvchilari, jamoaviy summa)",
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:08] Bunda aldingi guruklarimizda bitirgin oquchilar, 650 milion somdan kop daramad tapishti.",
+    "timecode": "00:08"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:10: полный зал сидящих слушателей (похоже на библиотеку или зал презентаций), подпись «GURUHLARIMIZDA»",
+    "timecode": "00:10"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Buning uchun 500 ta grant ajratilgan. 25-sentabr kuni onlayn taqdimot bo'lib o'tadi."
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:23: спикер в парке, подпись «GRANTGA QO'SHILISHI»",
+    "timecode": "00:23"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук чистый по кадру, полностью совпадает по смыслу с расшифровкой [00:00]. Заявление «650 million so'mdan kop daromad» — расшифровка [00:08], доход, совокупный по прошлым группам, не на человека; ни один из 4 обзорных кадров не показывает саму сумму текстом (только полный зал слушателей на ~0:10 с подписью «GURUHLARIMIZDA» как косвенное подтверждение масштаба). Собственная концовка ролика («pastdagi tugmani bosib... online taqdimotga qatnashing», расшифровка [00:13–00:17]) тоже не называет Telegram явно (как и в 1113177281137576) — классифицирую in_creative как Telegram по тексту объявления и общему паттерну пачки, а не по собственной реплике этого ролика. Link_url ведёт на лендинг bir-group-webinar.vercel.app, а не в Telegram — ролик по умолчанию зовёт в Telegram-канал (по тексту объявления), но link_url ведёт на лендинг. Имя спикера не названо, роль «актёр или ведущий»."
+}

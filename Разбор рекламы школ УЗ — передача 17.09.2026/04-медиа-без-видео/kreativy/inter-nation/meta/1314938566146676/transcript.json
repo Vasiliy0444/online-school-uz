@@ -1,0 +1,66 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.76,
+   "text": "Men har doyim sayukhat qilishni orzu qilganman. Ammu chet elde inglis tilisi sayukhat qilish anchi qiyinigam."
+  },
+  {
+   "start": 6.9,
+   "end": 11.26,
+   "text": "Ristoranda awqot biurtma qilaman, lekin afitsan poshka awqat olup geladi."
+  },
+  {
+   "start": 11.5,
+   "end": 14.26,
+   "text": "Yul soramokchi bolaman, hech kim kishunmaydi."
+  },
+  {
+   "start": 14.42,
+   "end": 18.72,
+   "text": "Mehmon khonu da ruyqattan otaman, lekin uzum xoklagan khonani ololmayman."
+  },
+  {
+   "start": 18.9,
+   "end": 22.68,
+   "text": "Uzumdan uyalip gettim. Har safar shuk oladi. Yitarlik."
+  },
+  {
+   "start": 22.92,
+   "end": 26.46,
+   "text": "Samarkanga qaytganimdan kin uzumga qat iy vada verdim."
+  },
+  {
+   "start": 26.46,
+   "end": 28.56,
+   "text": "Albatta inglistilini organoman."
+  },
+  {
+   "start": 28.82,
+   "end": 29.88,
+   "text": "Sho qarordan son,"
+  },
+  {
+   "start": 29.96,
+   "end": 32.56,
+   "text": "International Markazga borib royhatdan otdum."
+  },
+  {
+   "start": 32.74,
+   "end": 35.48,
+   "text": "Siz san bugun oq inglistilini organisni baslan."
+  },
+  {
+   "start": 35.56,
+   "end": 37.28,
+   "text": "Qawala orqali royhatdan odin."
+  }
+ ],
+ "chars": 587,
+ "chars_per_s": 14.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

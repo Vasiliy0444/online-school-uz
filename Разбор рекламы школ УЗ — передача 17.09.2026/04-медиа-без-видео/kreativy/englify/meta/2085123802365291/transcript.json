@@ -1,0 +1,106 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.24,
+   "text": "Otuz yashdankim Trenslen chunuk qaldim. Odam uchuy en qimmet baganarsib, o vaxt boladi."
+  },
+  {
+   "start": 4.24,
+   "end": 8.76,
+   "text": "Vaman Dubaygi ishlagani kigenimdanki ingilis dilini kuchay etirish uchum onlayn kursu sato aldim."
+  },
+  {
+   "start": 8.76,
+   "end": 12.28,
+   "text": "Yakshi oqa almadim itti, chunki ko baxt talab qildi."
+  },
+  {
+   "start": 12.28,
+   "end": 16.6,
+   "text": "Endi bizib etli ishlagani, bizichum, musafir bolgani uchum judayan qiim boldi."
+  },
+  {
+   "start": 16.6,
+   "end": 19.8,
+   "text": "Aradan vaxt otkandankigin, xarkhil ilavalan qidrib kordim."
+  },
+  {
+   "start": 19.8,
+   "end": 22.12,
+   "text": "Asal sanan ruschi, ingilischi organisis."
+  },
+  {
+   "start": 22.12,
+   "end": 26.04,
+   "text": "Ozbi chifikirlagani uchum, angi ingilifi ilabasi judayan tori kildi."
+  },
+  {
+   "start": 26.04,
+   "end": 27.76,
+   "text": "Unbila mashqilishi baxladim."
+  },
+  {
+   "start": 27.76,
+   "end": 29.76,
+   "text": "Xalxil funksiyli arqali organ sez boladim."
+  },
+  {
+   "start": 29.76,
+   "end": 31.5,
+   "text": "Man asansan speaking nashirishchun,"
+  },
+  {
+   "start": 31.5,
+   "end": 35.02,
+   "text": "igrimitoru yed ilavani chidi gi sun intelektan fadilani sh baxladim."
+  },
+  {
+   "start": 35.02,
+   "end": 36.3,
+   "text": "U sizgi soz orgatadi."
+  },
+  {
+   "start": 36.3,
+   "end": 38.3,
+   "text": "Vsiz qaytarigan paytizdi,"
+  },
+  {
+   "start": 38.3,
+   "end": 40.3,
+   "text": "in qizotamani xichki musbizdan kulmid."
+  },
+  {
+   "start": 40.3,
+   "end": 43.66,
+   "text": "Siz bemalal xijalat bomastani sozdan organ sez boladim."
+  },
+  {
+   "start": 43.66,
+   "end": 45.66,
+   "text": "Xata jaylarin togolab yedadi."
+  },
+  {
+   "start": 45.66,
+   "end": 48.16,
+   "text": "Kunigun bish, igrimamdi yoki bir saad xalagan izchir."
+  },
+  {
+   "start": 48.16,
+   "end": 50.54,
+   "text": "Ta chant kulay bosu, shi payt organ sez boladim."
+  },
+  {
+   "start": 50.54,
+   "end": 54.68,
+   "text": "Siz ham engli failawasni snap core moxchi bosayiz, pastigi hawal orqali royxatan otin."
+  }
+ ],
+ "chars": 1026,
+ "chars_per_s": 18.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

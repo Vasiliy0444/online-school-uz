@@ -1,0 +1,66 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.62,
+   "text": "Ozbekistan da rakabatikam, wa bugungi kundigi zamanavi bizniseygalar uchun kirak boladigan IT kaspina, bilasizma?"
+  },
+  {
+   "start": 5.88,
+   "end": 9.66,
+   "text": "Ozbekistan da xalikopchir gulmaydigan yangi zamanavi kasp, data analitika."
+  },
+  {
+   "start": 9.98,
+   "end": 14.36,
+   "text": "Azrgi waqtda ish orullara juda xamkobliyikin unge mas kadirlar isa, ancha girekam?"
+  },
+  {
+   "start": 14.72,
+   "end": 18.52,
+   "text": "Girik kampanyalar wa bizniseygalara daimi ravishda juda kattamalmatlar bilashashadi,"
+  },
+  {
+   "start": 18.8,
+   "end": 23.4,
+   "text": "wa aynan osha kattamalmatlarini kirakli xalatda yetkazi biruchilar, data analitiklar deyladi."
+  },
+  {
+   "start": 23.4,
+   "end": 26.9,
+   "text": "Aynan shuning chun, Nacat Talimning, Tashkin, Samarkan, wa Fargana firalarda,"
+  },
+  {
+   "start": 26.9,
+   "end": 28.76,
+   "text": "yed talik data analizke kursuna"
+  },
+  {
+   "start": 28.76,
+   "end": 30.1,
+   "text": "princhilardan bolobarganin."
+  },
+  {
+   "start": 30.76,
+   "end": 32.3,
+   "text": "Agar ush bu kursuzgi kizq bolsa,"
+  },
+  {
+   "start": 32.38,
+   "end": 33.66,
+   "text": "khaturak qudayi xabalar qali"
+  },
+  {
+   "start": 33.66,
+   "end": 34.9,
+   "text": "beypul açqtarski yazlin."
+  }
+ ],
+ "chars": 675,
+ "chars_per_s": 19.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

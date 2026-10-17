@@ -1,0 +1,81 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.5,
+   "text": "Yeddi yil boldi, uydidikriyatda otirib pul tapishini boshlaganimgi."
+  },
+  {
+   "start": 3.5,
+   "end": 6.5,
+   "text": "Va bilasmi, yillar otib bitanarsan chundim."
+  },
+  {
+   "start": 6.5,
+   "end": 9.0,
+   "text": "Bilasmi, kachan ayol kishi khotirjan bolib,"
+  },
+  {
+   "start": 9.0,
+   "end": 14.0,
+   "text": "hichkim bilan urushmasikin, hichkim nan xafib bomidi, khasat qomidi, uydigilani gapi teymasikinin."
+  },
+  {
+   "start": 14.0,
+   "end": 17.0,
+   "text": "Kachanki uzini puli bogindi."
+  },
+  {
+   "start": 17.0,
+   "end": 20.5,
+   "text": "Khazir bunoki imkonyatladan bittasi uzun marketikin."
+  },
+  {
+   "start": 20.5,
+   "end": 24.0,
+   "text": "Mana uydid otirib, behi malol, onlayn sabdoqilishmikun."
+  },
+  {
+   "start": 24.0,
+   "end": 29.0,
+   "text": "Maksulo, tan liysiz, uzumgi cay liysiz, qolganini platformani ozikiladi."
+  },
+  {
+   "start": 29.0,
+   "end": 37.82,
+   "text": "Shun nar silani orgenishta, sizgaya qadam edukishini yordam biradi, mangi in yokani sod datildi qadam ma qadan sizin noldan daramat gechi obchikishadi."
+  },
+  {
+   "start": 37.94,
+   "end": 42.04,
+   "text": "Agar vloyotdan turub, okumakchi bolsangiz, online platformada orgenichingiz mumkun."
+  },
+  {
+   "start": 42.24,
+   "end": 49.68,
+   "text": "Agar toshkende yashishangiz, shundo kasmanaflar metro yanida okubu markaz joyolashgan, gelib offline darslarda ishtirokichingiz mumkun."
+  },
+  {
+   "start": 50.06,
+   "end": 55.58,
+   "text": "Agar sizxam anchadan beri qanidi ozumni pulim bolsaydi dibirgan boseyiz, manimki bu siz uchun acaib imkanyat."
+  },
+  {
+   "start": 55.58,
+   "end": 58.3,
+   "text": "Xabala orqali otin, ariza yazib qaldirin"
+  },
+  {
+   "start": 58.3,
+   "end": 59.6,
+   "text": "Va batafsil malumat ola siz"
+  }
+ ],
+ "chars": 1016,
+ "chars_per_s": 16.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

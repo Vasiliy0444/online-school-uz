@@ -1,0 +1,105 @@
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.09s 
+[FETCH]... ↓ https://englify.uz/dogovor#certificate-section                                                       | ✓ | ⏱: 9.03s 
+[SCRAPE].. ◆ https://englify.uz/dogovor#certificate-section                                                       | ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://englify.uz/dogovor#certificate-section                                                       | ✓ | ⏱: 9.22s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.06s 
+[FETCH]... ↓ https://englify.uz/dogovor#contacts                                                                  | ✓ | ⏱: 8.74s 
+[SCRAPE].. ◆ https://englify.uz/dogovor#contacts                                                                  | ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://englify.uz/dogovor#contacts                                                                  | ✓ | ⏱: 8.83s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.08s 
+[FETCH]... ↓ https://englify.uz/dogovor#school                                                                    | ✓ | ⏱: 8.81s 
+[SCRAPE].. ◆ https://englify.uz/dogovor#school                                                                    | ✓ | ⏱: 0.17s 
+[COMPLETE] ● https://englify.uz/dogovor#school                                                                    | ✓ | ⏱: 9.01s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.06s 
+[FETCH]... ↓ https://englify.uz/dogovor#tariffs                                                                   | ✓ | ⏱: 8.59s 
+[SCRAPE].. ◆ https://englify.uz/dogovor#tariffs                                                                   | ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://englify.uz/dogovor#tariffs                                                                   | ✓ | ⏱: 8.68s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.11s 
+[FETCH]... ↓ https://englify.uz/oferta#certificate-section                                                        | ✓ | ⏱: 8.77s 
+[SCRAPE].. ◆ https://englify.uz/oferta#certificate-section                                                        | ✓ | ⏱: 0.15s 
+[COMPLETE] ● https://englify.uz/oferta#certificate-section                                                        | ✓ | ⏱: 8.97s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.08s 
+[FETCH]... ↓ https://englify.uz/oferta#contacts                                                                   | ✓ | ⏱: 8.75s 
+[SCRAPE].. ◆ https://englify.uz/oferta#contacts                                                                   | ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://englify.uz/oferta#contacts                                                                   | ✓ | ⏱: 8.91s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.08s 
+[FETCH]... ↓ https://englify.uz/oferta#school                                                                     | ✓ | ⏱: 8.53s 
+[SCRAPE].. ◆ https://englify.uz/oferta#school                                                                     | ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://englify.uz/oferta#school                                                                     | ✓ | ⏱: 8.71s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.17s 
+[FETCH]... ↓ https://englify.uz/oferta#tariffs                                                                    | ✓ | ⏱: 8.89s 
+[SCRAPE].. ◆ https://englify.uz/oferta#tariffs                                                                    | ✓ | ⏱: 0.14s 
+[COMPLETE] ● https://englify.uz/oferta#tariffs                                                                    | ✓ | ⏱: 9.08s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.06s 
+[FETCH]... ↓ https://englify.uz/ommaviy-oferta#certificate-section                                                | ✓ | ⏱: 8.72s 
+[SCRAPE].. ◆ https://englify.uz/ommaviy-oferta#certificate-section                                                | ✓ | ⏱: 0.09s 
+[COMPLETE] ● https://englify.uz/ommaviy-oferta#certificate-section                                                | ✓ | ⏱: 8.84s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.08s 
+[FETCH]... ↓ https://englify.uz/ommaviy-oferta#contacts                                                           | ✓ | ⏱: 9.10s 
+[SCRAPE].. ◆ https://englify.uz/ommaviy-oferta#contacts                                                           | ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://englify.uz/ommaviy-oferta#contacts                                                           | ✓ | ⏱: 9.27s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.08s 
+[FETCH]... ↓ https://englify.uz/ommaviy-oferta#school                                                             | ✓ | ⏱: 8.62s 
+[SCRAPE].. ◆ https://englify.uz/ommaviy-oferta#school                                                             | ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://englify.uz/ommaviy-oferta#school                                                             | ✓ | ⏱: 8.81s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.08s 
+[FETCH]... ↓ https://englify.uz/ommaviy-oferta#tariffs                                                            | ✓ | ⏱: 8.60s 
+[SCRAPE].. ◆ https://englify.uz/ommaviy-oferta#tariffs                                                            | ✓ | ⏱: 0.16s 
+[COMPLETE] ● https://englify.uz/ommaviy-oferta#tariffs                                                            | ✓ | ⏱: 8.81s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.08s 
+[FETCH]... ↓ https://englify.uz/public-offer                                                                      | ✓ | ⏱: 9.00s 
+[SCRAPE].. ◆ https://englify.uz/public-offer                                                                      | ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://englify.uz/public-offer                                                                      | ✓ | ⏱: 9.11s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.11s 
+[FETCH]... ↓ https://englify.uz/shartnoma#certificate-section                                                     | ✓ | ⏱: 9.71s 
+[SCRAPE].. ◆ https://englify.uz/shartnoma#certificate-section                                                     | ✓ | ⏱: 0.14s 
+[COMPLETE] ● https://englify.uz/shartnoma#certificate-section                                                     | ✓ | ⏱: 9.90s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.06s 
+[FETCH]... ↓ https://englify.uz/shartnoma#contacts                                                                | ✓ | ⏱: 8.63s 
+[SCRAPE].. ◆ https://englify.uz/shartnoma#contacts                                                                | ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://englify.uz/shartnoma#contacts                                                                | ✓ | ⏱: 8.81s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.08s 
+[FETCH]... ↓ https://englify.uz/shartnoma#school                                                                  | ✓ | ⏱: 9.07s 
+[SCRAPE].. ◆ https://englify.uz/shartnoma#school                                                                  | ✓ | ⏱: 0.15s 
+[COMPLETE] ● https://englify.uz/shartnoma#school                                                                  | ✓ | ⏱: 9.27s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.08s 
+[FETCH]... ↓ https://englify.uz/shartnoma#tariffs                                                                 | ✓ | ⏱: 8.67s 
+[SCRAPE].. ◆ https://englify.uz/shartnoma#tariffs                                                                 | ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://englify.uz/shartnoma#tariffs                                                                 | ✓ | ⏱: 8.84s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.09s 
+[FETCH]... ↓ https://qadam.education/dogovor-oferta#form                                                          | ✓ | ⏱: 9.92s 
+[SCRAPE].. ◆ https://qadam.education/dogovor-oferta#form                                                          | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://qadam.education/dogovor-oferta#form                                                          | ✓ | ⏱: 9.96s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.07s 
+[FETCH]... ↓ https://qadam.education/dogovor-oferta#kurslar                                                       | ✓ | ⏱: 9.27s 
+[SCRAPE].. ◆ https://qadam.education/dogovor-oferta#kurslar                                                       | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://qadam.education/dogovor-oferta#kurslar                                                       | ✓ | ⏱: 9.34s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.04s 
+[FETCH]... ↓ https://qadam.education/dogovor-oferta#sharhlar                                                      | ✓ | ⏱: 9.28s 
+[SCRAPE].. ◆ https://qadam.education/dogovor-oferta#sharhlar                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://qadam.education/dogovor-oferta#sharhlar                                                      | ✓ | ⏱: 9.31s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.04s 
+[FETCH]... ↓ https://qadam.education/dogovor-oferta#tchr                                                          | ✓ | ⏱: 9.07s 
+[SCRAPE].. ◆ https://qadam.education/dogovor-oferta#tchr                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://qadam.education/dogovor-oferta#tchr                                                          | ✓ | ⏱: 9.10s 

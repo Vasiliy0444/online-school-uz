@@ -1,0 +1,186 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.68,
+   "text": "Kopkotda kishi vokqom mandi."
+  },
+  {
+   "start": 1.68,
+   "end": 4.68,
+   "text": "Ma shi o'qilunga qara bulumu, boyu ujum mandinan usib getdi."
+  },
+  {
+   "start": 4.68,
+   "end": 6.68,
+   "text": "I bittani asiga amin bolidim."
+  },
+  {
+   "start": 6.68,
+   "end": 11.68,
+   "text": "Yakshi yam yoshligiden ingilisi li, rusisi li itibar bergan agamiz."
+  },
+  {
+   "start": 11.68,
+   "end": 14.68,
+   "text": "Buna qalib boli tez kotda vokqoladi boylamagan agami."
+  },
+  {
+   "start": 14.68,
+   "end": 17.68,
+   "text": "Oreyla da bangi onshigan o'tali bar, masani yashkoyraman bolisli."
+  },
+  {
+   "start": 17.68,
+   "end": 20.68,
+   "text": "Va man qigan xatolani qimeli."
+  },
+  {
+   "start": 20.68,
+   "end": 24.68,
+   "text": "Kopkini kursi li berganmiz, vaqtdan yutqisp koyganmiz yakshi mazbob chikgan."
+  },
+  {
+   "start": 24.68,
+   "end": 27.68,
+   "text": "Va manam xokliyman sana farizandi li yakshi talim alishini."
+  },
+  {
+   "start": 57.68,
+   "end": 60.92,
+   "text": "okuchli IELTS alushchun okidi"
+  },
+  {
+   "start": 60.92,
+   "end": 63.74,
+   "text": "ingrisin olgin chadim, shun IELTS programmasi okishadi"
+  },
+  {
+   "start": 63.74,
+   "end": 66.3,
+   "text": "ushundi mamunche kitabbi bize"
+  },
+  {
+   "start": 66.3,
+   "end": 68.58,
+   "text": "mamunche kitabki IELTS X-ni qiyamiz"
+  },
+  {
+   "start": 68.58,
+   "end": 70.64,
+   "text": "yani 40-da 50-da kitabbi"
+  },
+  {
+   "start": 70.64,
+   "end": 73.58,
+   "text": "en kireli, en masaldig digan cay boladi"
+  },
+  {
+   "start": 73.58,
+   "end": 76.18,
+   "text": "masaldigini yigib, bitti IELTS X-ni qiyamiz"
+  },
+  {
+   "start": 76.18,
+   "end": 78.18,
+   "text": "dunyada bunu ordu bosa diganlari bam"
+  },
+  {
+   "start": 78.18,
+   "end": 80.18,
+   "text": "anig yo, misalchun"
+  },
+  {
+   "start": 80.18,
+   "end": 82.68,
+   "text": "IELTS X kitabimiz uzu kakres"
+  },
+  {
+   "start": 82.68,
+   "end": 85.88,
+   "text": "birinciden Uzbekistanin Intellectual Mulk Agentlikinden patent olgiyamiz"
+  },
+  {
+   "start": 85.88,
+   "end": 96.96,
+   "text": "Və, misal, cun, an kursiz bol edi, ozveksitan kurasim, IELTS X Fragnambasta, an ozumizi milli nasili, milli brendilani kogiyamizi, amtayim, International aga tiplari kursiz bol edi."
+  },
+  {
+   "start": 96.96,
+   "end": 107.1,
+   "text": "Ab, buni chateli li ozgan bo sekere da, International ozuna jamasi, IELTS Fookers, uktuchila, SELTIS, SELTIS, IEG, OGA, MUTAKASHI,"
+  },
+  {
+   "start": 107.1,
+   "end": 115.14,
+   "text": "Və, ayna ingilis tili soxhasti, akademik bilimi bor, native speaker, yan, tili gelani ishvatganiz, bir yar mil voktumiz ketgan biz."
+  },
+  {
+   "start": 115.14,
+   "end": 117.14,
+   "text": "Abu canu var qimmet turz e geri?"
+  },
+  {
+   "start": 117.14,
+   "end": 121.14,
+   "text": "General English bilan birxil narq, farqi, ayil siyik storay boladi."
+  },
+  {
+   "start": 121.14,
+   "end": 124.14,
+   "text": "Oglis, kankir etlimizdan etkinimizi qilir."
+  },
+  {
+   "start": 124.14,
+   "end": 127.14,
+   "text": "Yax soqsi, kani di yeddi yar mali."
+  },
+  {
+   "start": 127.14,
+   "end": 129.14,
+   "text": "Man yeddi asiy maqinay verimini vada bergani dim."
+  },
+  {
+   "start": 129.14,
+   "end": 131.14,
+   "text": "Maqinayni xazirdan taklap koyishki."
+  },
+  {
+   "start": 131.14,
+   "end": 132.14,
+   "text": "Vaaaw!"
+  },
+  {
+   "start": 132.14,
+   "end": 133.14,
+   "text": "Yib koyim baro?"
+  },
+  {
+   "start": 133.14,
+   "end": 136.14,
+   "text": "Uziyan sanam axti oqqot kani ini butun dunya boldi di."
+  },
+  {
+   "start": 136.14,
+   "end": 139.14,
+   "text": "Oz rastanam yax rizaydi, man resultatlan ozun koron man."
+  },
+  {
+   "start": 139.14,
+   "end": 144.14,
+   "text": "Agar ota sipetli, sizgin farzan dizdi ingil stilisi zor bolshin xali seyli,"
+  },
+  {
+   "start": 144.14,
+   "end": 145.96,
+   "text": "Xawala orxali ruyxatdan udi."
+  }
+ ],
+ "chars": 1842,
+ "chars_per_s": 12.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,46 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 10.12,
+   "text": "Bu yashli kushli yichxdi di, ingilis sil niyan biladi, kani qadar programmi le shetadi, miyakitlanir mali mali taqbi yuradi, ishim komitliyadi, yam kopro lavazim ashgani, ulegi basa cha qarashadi."
+  },
+  {
+   "start": 10.52,
+   "end": 13.08,
+   "text": "Siz boysi u izi chetti qabketgani xisqotgani bolishiz munkun."
+  },
+  {
+   "start": 13.44,
+   "end": 20.38,
+   "text": "Ingilis silni oriyani disiz, aili, bali chaki, hayat tashvishlari, bol deyindi keyikdibi olotgani bolishiz munkun, lekin bu mo mo imas."
+  },
+  {
+   "start": 20.84,
+   "end": 26.3,
+   "text": "Inglify platformasi aynan isli adamlar uchun kurs chikargani, butun tuzim isli adamlar uchun ishidi."
+  },
+  {
+   "start": 26.3,
+   "end": 41.0,
+   "text": "Kunigi 50 dagiqa xoxilagan cayda, xoxilagan vaqtizda, telefoniz bosa boldi, enmukhomi 50 dagiqa darsini yuki yuk. Otur 50 dagiqa qildigan narsa yuk. 10 dagiqa 10 dagiqadan, oizga qulayi xoxilagan cayda qilasiz."
+  },
+  {
+   "start": 41.0,
+   "end": 55.42,
+   "text": "Suni intelekt bilan speakingni mashqilasiz, 10 dagiqa vizyolar qilasiz, 10 dagiqa mashqilar qilib, 10 dagiqa sozyotlash uste shashizmikun qarabsiz ki, 1-2 ayda anniq netijira qorishni boshiz. Sezilarli ozgarishlar bolishni boshiz, ingilisda da malamat alishni boshiz."
+  },
+  {
+   "start": 55.42,
+   "end": 61.9,
+   "text": "Rostamu nati ziberadimi ishidimi datki yammasiz, xabar hans tige basib ilabamiz nivyukila baling va uzi iz ishtatib baling."
+  }
+ ],
+ "chars": 1098,
+ "chars_per_s": 17.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,101 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.06,
+   "text": "Andijan, bizda muhum yangilik."
+  },
+  {
+   "start": 2.66,
+   "end": 4.06,
+   "text": "International English School,"
+  },
+  {
+   "start": 4.36,
+   "end": 7.32,
+   "text": "shakharinin en markezi nuktasi da ishlamakta."
+  },
+  {
+   "start": 7.42,
+   "end": 9.22,
+   "text": "Andijan filialida iki qavat,"
+  },
+  {
+   "start": 9.3,
+   "end": 11.38,
+   "text": "yigirmagi yaqin zamaniwi auditoriyalar,"
+  },
+  {
+   "start": 11.48,
+   "end": 13.8,
+   "text": "akademik support uchun alahida khanalar,"
+  },
+  {
+   "start": 13.96,
+   "end": 15.42,
+   "text": "tadbirlar uchun amfiteyatar,"
+  },
+  {
+   "start": 15.48,
+   "end": 16.8,
+   "text": "kuley co-working zonalar,"
+  },
+  {
+   "start": 16.94,
+   "end": 20.3,
+   "text": "bir vaqnin ozida uchmin nafarga yaqin talabalar uchun"
+  },
+  {
+   "start": 20.3,
+   "end": 22.02,
+   "text": "tahtsil alish imkaniyati."
+  },
+  {
+   "start": 22.18,
+   "end": 23.82,
+   "text": "Negi aynan sujoy, markez,"
+  },
+  {
+   "start": 23.82,
+   "end": 25.14,
+   "text": "qatmash uchunjuda kuley,"
+  },
+  {
+   "start": 25.2,
+   "end": 28.04,
+   "text": "biz Andijangi en kuchliy jama'amizni alip geldik."
+  },
+  {
+   "start": 28.04,
+   "end": 36.7,
+   "text": "IELTS, TOPS-X, SELTA sertifikatiga ega ustazlar, Toshkent va Samarkanddagi talebalarimiz natijalari bunga yakqal dalil."
+  },
+  {
+   "start": 37.16,
+   "end": 39.94,
+   "text": "IELTS 8 va undan yukari natijalar."
+  },
+  {
+   "start": 40.06,
+   "end": 49.16,
+   "text": "Talebalar uchun students app, mashqilish va okishni hoxlagan joyingizda, hoxlagan vaqtda davam ettirish imkaniyati."
+  },
+  {
+   "start": 49.36,
+   "end": 52.02,
+   "text": "Andijan, indin abad silgi."
+  },
+  {
+   "start": 52.36,
+   "end": 54.08,
+   "text": "Havala orqali, royxatdan odin."
+  }
+ ],
+ "chars": 781,
+ "chars_per_s": 13.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

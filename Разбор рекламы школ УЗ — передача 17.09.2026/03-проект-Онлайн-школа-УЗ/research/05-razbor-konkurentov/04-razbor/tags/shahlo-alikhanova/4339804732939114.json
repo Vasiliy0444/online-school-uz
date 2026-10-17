@@ -1,0 +1,80 @@
+{
+ "creative_id": "4339804732939114",
+ "platform": "meta",
+ "school_id": "shahlo-alikhanova",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "≤15 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "сток"
+ ],
+ "hook": {
+  "verbatim": "Yozgi ta'tilda farzandingiz bekor yurmasligi uchun...",
+  "types": [
+   "обращение к сегменту",
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: «Yozgi ta'tilda farzandingiz bekor yurmasligi uchun...» — статичный текст все 6 кадров; девочка (~10-12 лет, цветастое платье) и мальчик (~10 лет, мятная рубашка) на фоне голубого неба, машут и говорят в камеру",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Yazgi kanikul da boliz bekar yurmasligi uchun suni intelekt orget shikeberin.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для мам",
+   "профессия будущего"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] suni intelekt orget shikeberin. Pastagi tugmanı basib, malumat alishiz munkun.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный урок"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "[BEPUL VIDEODARS] - Qanday Qilib Sun'iy Intellekt Orqali Daromad Qilish Mumkin?"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "Pastagi tugmanı basib, malumat alishiz munkun.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "cta": {
+  "button": "See details",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Единственный креатив порции с явно другой аудиторией — не «заработок для взрослых», а предложение для родителей научить ребёнка AI на летних каникулах (дети-актёры в кадре, не Shahlo и не типичный ученик-«взрослый»). Хук на кадре и расшифровка совпадают почти дословно, что даёт высокую уверенность, несмотря на сильно искажённую орфографию расшифровки в целом. Полная фраза (написание исправлено): «Yozgi ta'tilda farzandingiz bekor yurmasligi uchun sun'iy intellekt o'rgatib ko'ring. Pastagi tugmani bosib, ma'lumot olishingiz mumkin» — CTA сформулирован обобщённо («получить информацию»), без явного упоминания «video darslik», в отличие от большинства других роликов порции; funnel_stage оставлен по умолчанию «вебинар или мастер-класс» (per правило), но реальный оффер для этого сегмента (детский AI-курс) landing-страницей не подтверждён — возможное несовпадение темы ролика (дети/каникулы) и общего текста объявления/лендинга (взрослый доход), стоит отметить в отчёте. burned_subtitles = false: показанный текст не является субтитрами реплики целиком, а обобщённой подписью-приглашением, отдельной от произносимых детьми слов на видео (сами слова детей в кадре не расшифрованы отдельно от общего VO)."
+}

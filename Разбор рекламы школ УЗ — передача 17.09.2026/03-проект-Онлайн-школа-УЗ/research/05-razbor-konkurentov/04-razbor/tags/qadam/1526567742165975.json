@@ -1,0 +1,109 @@
+{
+ "creative_id": "1526567742165975",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "pul topish uchun ishlash kerakligini hamma ham biladi. Lekin ertalabdan kechgacha uyni, ro'zg'orini, qozon-tovoqni tashlab ketishga hamma ham tayyor emas.",
+  "types": [
+   "боль",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–1.0s: женщина на кухне поворачивается к камере, камера приближается",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.0s: субтитры «pul topish uchun ishlash kerakligini»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s: «hamma ham biladi»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Pul tabish uchun ishtash kerey ligini hamayam biladi.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:02] Lekin, iyer taleptan kechkeche, uyni, rozgarini, kazan tovanini, tashab ketishki hamayam tayyar imas.",
+    "timecode": "00:02"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 1 из 4 (≈00:07): «qozon-tovoqni tashlab ketishga»",
+    "timecode": "00:07"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для мам",
+   "удалёнка и свобода",
+   "доход"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:09] Farzan tarbiyasini tashab koymastan, hayatiga muas keledigan, tinchini buzmidi digan ishi bolishini,",
+    "timecode": "00:09"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:14] xar bir ayan orzu qiladi.",
+    "timecode": "00:14"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈00:22): «mana uyda o'tirib bemalol onlayn»",
+    "timecode": "00:22"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:20] Gana uydu otri, beye malol online savda qilishmikun.",
+    "timecode": "00:20"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:49] Agar sizxam anchadan beri qanidi ozumni pulun bolsaydi dibirgan boseyiz, manim ki bu suz uchun acaib imkaniyat.",
+    "timecode": "00:49"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Apply now",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Та же ведущая и часть сценария, что в 2665525253841952, но без вступления про 7 лет в декрете. Хук: первая фраза — субтитры на кадрах, вторая — по расшифровке, написание исправлено и сверено с субтитром «qozon-tovoqni tashlab ketishga». Перевод: «все знают, что для заработка надо работать, но не каждая готова с утра до вечера бросать дом, хозяйство, кастрюли». Смысл: каждая женщина мечтает о работе без ущерба детям и спокойствию → Uzum Market из дома → Qadam учит «qadamma-qadam noldan daromadgacha»; онлайн для регионов, офлайн у метро «Kosmonavtlar» в Ташкенте. Призыв (запись [00:54]): «Havola orqali o'ting, ariza yozib qoldiring va batafsil ma'lumot olasiz» (написание исправлено) — форма; «консультация» не отмечена (бесплатная консультация прямо не названа). Ссылка /uzum-inomarka-v5 — та же, что у роликов блогера со спорткаром."
+}

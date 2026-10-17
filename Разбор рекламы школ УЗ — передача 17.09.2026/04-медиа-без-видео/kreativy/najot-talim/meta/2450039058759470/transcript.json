@@ -1,0 +1,76 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.68,
+   "text": "Booyy, kartamnigi pulun buqula duarishdik, qanaq pulli guni?"
+  },
+  {
+   "start": 3.68,
+   "end": 6.16,
+   "text": "Sholosamliyikyan sochin opteshimaaan."
+  },
+  {
+   "start": 6.16,
+   "end": 10.12,
+   "text": "Siz, cema o'coylardigi Wi-Fi-lar kancalig xafliye kealigini bilasiz ma?"
+  },
+  {
+   "start": 10.12,
+   "end": 14.28,
+   "text": "Adatda bunday Wi-Fi-lar gulenganingizda, rakaminigizni tasqlasi uchun kodini qirtasiz."
+  },
+  {
+   "start": 14.28,
+   "end": 17.72,
+   "text": "Shundasiz, o'z malumatlaringizni togurdan togurha xakerge bergen bolasiz."
+  },
+  {
+   "start": 17.72,
+   "end": 21.64,
+   "text": "Musal uchun, 2024-inchi ilda, 42-yoshlii Avstralik Michael Klepsis,"
+  },
+  {
+   "start": 21.64,
+   "end": 25.48,
+   "text": "ay rekordlargi tikin Wi-Fi urnatish orqali 50-gmin, 100-mini atrofidegi adamlarini"
+  },
+  {
+   "start": 25.48,
+   "end": 29.48,
+   "text": "e-mail-lari, rakam-lari, Instagram-i və ciddi kop-lab şaxsi-i malumat-larini qol getirtkən"
+  },
+  {
+   "start": 29.48,
+   "end": 32.48,
+   "text": "və onu qarabazarda sabdib anca-gini doldar-lari islabdabdi."
+  },
+  {
+   "start": 32.48,
+   "end": 36.98,
+   "text": "Chunki cemaat waqfay-lari adatdi saddi tuturgani və aynan shunday waqfay-larini buzibkırish asa."
+  },
+  {
+   "start": 36.98,
+   "end": 40.98,
+   "text": "Shuni uchun cemaat joylardigi waqfay-lariden faydalanitkanda oti ixtiadkar bolish lazim."
+  },
+  {
+   "start": 40.98,
+   "end": 45.48,
+   "text": "Siz xam shunday kibir cinayatlarini aldini aladigan mutakhis bolishni xalaysizmi?"
+  },
+  {
+   "start": 45.48,
+   "end": 46.98,
+   "text": "Ondan Nacad tanimgi keliyin."
+  }
+ ],
+ "chars": 930,
+ "chars_per_s": 19.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

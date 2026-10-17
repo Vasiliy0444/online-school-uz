@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.0,
+   "text": "Qindil dorobda, nige aylan trading soxasini talladiniz?"
+  },
+  {
+   "start": 3.0,
+   "end": 11.06,
+   "text": "Man trading soxasini tallashini sabab, ma uzum qizqaman, bu yon alish bu yon yana kelecayda ishlamak chunan,"
+  },
+  {
+   "start": 11.36,
+   "end": 14.34,
+   "text": "va uydu otrib daroma topishi qizqtiradi manim."
+  },
+  {
+   "start": 14.58,
+   "end": 16.62,
+   "text": "HPS Akademiyasini tallashini ziy sabab?"
+  },
+  {
+   "start": 17.3,
+   "end": 21.3,
+   "text": "Toris netam, aldan onlayin kurslidi kop oqigan man, lekin rezultati bomagan."
+  },
+  {
+   "start": 22.04,
+   "end": 29.2,
+   "text": "HPS Akademiyasini tallashini asosiy ikiti sabab bor, bunuz bremsi offlayin darsli otu berishligi,"
+  },
+  {
+   "start": 29.2,
+   "end": 32.7,
+   "text": "ikinsi, kopili tazribi gegi mentrlar jamu asi."
+  },
+  {
+   "start": 32.82,
+   "end": 38.7,
+   "text": "Nazari bilimledan tashkara, yana amaliyatiyan beymolol kilib bacarsibolak."
+  }
+ ],
+ "chars": 548,
+ "chars_per_s": 14.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

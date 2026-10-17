@@ -1,0 +1,146 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.54,
+   "text": "Agarsiz kunige 2-3 saat wat ajratda, biyash gini daralat kumaxchi basayiz."
+  },
+  {
+   "start": 4.8,
+   "end": 7.52,
+   "text": "Serozni etomba, bitda ba tafsil chulturimu,"
+  },
+  {
+   "start": 7.66,
+   "end": 9.94,
+   "text": "uzum marketta saada qilish orgin avali,"
+  },
+  {
+   "start": 10.18,
+   "end": 12.34,
+   "text": "di shani qatda biznismen bubketaz."
+  },
+  {
+   "start": 12.56,
+   "end": 14.2,
+   "text": "Botdi orgin ta digallan oza,"
+  },
+  {
+   "start": 14.26,
+   "end": 18.68,
+   "text": "vaysh onlayan saada da tur mili artkechi soda qiladigallan orgin tshargan da,"
+  },
+  {
+   "start": 19.16,
+   "end": 21.42,
+   "text": "2.000 tiga ozhu adam orgin kamsil oyu."
+  },
+  {
+   "start": 21.42,
+   "end": 22.78,
+   "text": "Uzum marketta dama shok uchilarimiza var."
+  },
+  {
+   "start": 22.78,
+   "end": 25.42,
+   "text": "Umumi abaratımız 27.000.000 qe chikta uzum marketta."
+  },
+  {
+   "start": 25.54,
+   "end": 27.38,
+   "text": "Abaratımız 40.000.000 naqsh vatda."
+  },
+  {
+   "start": 27.38,
+   "end": 30.78,
+   "text": "1 ay 2-de 30 minun che, nabar, nabar, od bol-di."
+  },
+  {
+   "start": 30.78,
+   "end": 33.28,
+   "text": "Kurs qimadmazmiz, qan artabuqil nadi odor genlad?"
+  },
+  {
+   "start": 33.28,
+   "end": 35.78,
+   "text": "Kurssi online oksez bolad, fama offline oksez bolad."
+  },
+  {
+   "start": 35.78,
+   "end": 39.08,
+   "text": "Agar online bolse, ke botor shartamaz?"
+  },
+  {
+   "start": 39.08,
+   "end": 41.48,
+   "text": "Da, platformani che ekras, ozdan platform bozo bar,"
+  },
+  {
+   "start": 41.48,
+   "end": 43.28,
+   "text": "uniche da fama video darsenani oksez bolad."
+  },
+  {
+   "start": 43.28,
+   "end": 46.88,
+   "text": "Agar siz toshkinli torses, shundu ay, beh, metrogi yakincay digan,"
+  },
+  {
+   "start": 46.88,
+   "end": 48.28,
+   "text": "shudda oksez bolad."
+  },
+  {
+   "start": 48.28,
+   "end": 52.28,
+   "text": "Tol olayan, xalisis naqt dis, xalisis bolib toleshgan,"
+  },
+  {
+   "start": 52.28,
+   "end": 53.48,
+   "text": "bolese bolad."
+  },
+  {
+   "start": 53.48,
+   "end": 58.06,
+   "text": "Man namindaki sez konur qoydu, yani bitde kurs se, be pul qveradi qan bu asrla, shnat?"
+  },
+  {
+   "start": 58.06,
+   "end": 58.6,
+   "text": "Ha?"
+  },
+  {
+   "start": 58.6,
+   "end": 60.6,
+   "text": "Keli mitish qilamiz."
+  },
+  {
+   "start": 60.6,
+   "end": 64.24,
+   "text": "Pastda balim abzidu qaldir sez, be pul darsli tash edariladi."
+  },
+  {
+   "start": 64.24,
+   "end": 67.38,
+   "text": "Bitde qorib chqazdi, ki makul bosa u qor asr."
+  },
+  {
+   "start": 67.38,
+   "end": 69.38,
+   "text": "Makul bomasa, yani vishu vishu yorur asr."
+  },
+  {
+   "start": 69.38,
+   "end": 73.62,
+   "text": "Pastda silke bar, haz balim abzidu qaldiri, qayda lam alin laygan."
+  }
+ ],
+ "chars": 1241,
+ "chars_per_s": 16.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

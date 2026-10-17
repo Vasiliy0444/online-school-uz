@@ -1,0 +1,36 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.62,
+   "text": "Agar da siz import-export manageri bolisangiz, bu videona aqir gecham gori."
+  },
+  {
+   "start": 4.94,
+   "end": 10.1,
+   "text": "Siz tawar malumatlarini berasiz, lekin kichkini xata butun deklarasyani bizadi."
+  },
+  {
+   "start": 10.82,
+   "end": 19.22,
+   "text": "HS code, qimat, vatavsifta xata bolisa, bochgani da yuk ushlinadi, vaqt getadi, nucaz kutadi, basim mesa siz gechushadi."
+  },
+  {
+   "start": 20.12,
+   "end": 25.16,
+   "text": "Buna aldini alishchun, deklarasyada qaysi malumat qanda ishlaishni anig chunish kerek."
+  },
+  {
+   "start": 25.16,
+   "end": 31.18,
+   "text": "Əgər xalatni kəm aytırib, yuk nö tez otkazim axchi bolsangiz, biz nin deklaratsiya kursimizgi yazali?"
+  }
+ ],
+ "chars": 465,
+ "chars_per_s": 14.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

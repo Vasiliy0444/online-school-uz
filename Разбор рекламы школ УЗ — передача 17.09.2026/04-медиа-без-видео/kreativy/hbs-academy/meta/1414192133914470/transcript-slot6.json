@@ -1,0 +1,41 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.56,
+   "text": "Youtube-ta trading-ni orgen amanda bir videodan ikintisi geotib yuribsizmi."
+  },
+  {
+   "start": 3.94,
+   "end": 6.22,
+   "text": "Birdi satib aldiydi, bashkazdi satdiydi."
+  },
+  {
+   "start": 6.46,
+   "end": 9.5,
+   "text": "Akhira de isi, sizde tizim emat, chalkechlik qalad."
+  },
+  {
+   "start": 9.58,
+   "end": 13.96,
+   "text": "Express kursimizde isi, bilimlar noldan bashlak, yagana tizim asasda berilad."
+  },
+  {
+   "start": 14.08,
+   "end": 17.7,
+   "text": "Dersler Tashkin shahridi, ustaz bilan, offline tarzda bolu botad."
+  },
+  {
+   "start": 17.88,
+   "end": 24.08,
+   "text": "Waqtinizni tarqaq malumatlargi sariflamak, ariza kaldirib, hazirak toru yonashdi sarifdaq ishini orgenin."
+  }
+ ],
+ "chars": 418,
+ "chars_per_s": 17.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

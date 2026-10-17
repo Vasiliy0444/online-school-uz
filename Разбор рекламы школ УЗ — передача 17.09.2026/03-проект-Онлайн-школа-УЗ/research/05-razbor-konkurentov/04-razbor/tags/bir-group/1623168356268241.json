@@ -1,0 +1,95 @@
+{
+ "creative_id": "1623168356268241",
+ "platform": "meta",
+ "school_id": "bir-group",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "Bir Ta'lim loyihamizda shu yilning o'zida 400 ga yaqin o'quvchilarni o'qitdik.",
+  "types": [
+   "цифра",
+   "соцдоказательство"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: селфи-ракурс (видна вытянутая рука/телефон), мужчина в светлой полосатой рубашке на фоне заката/стройки с солнечной панелью; крупный текст «BIR TA'LIM LOYIHAMIZDA» (0.0–1.0s) → «SHU YILNING O'ZIDA» (1.5–2.5s)",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Bir talim layiqamizda shuyuldin ozyda 400-ga yaqin oquchilarda oqiptik.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "профессия будущего",
+   "без опыта",
+   "доверие и окупаемость"
+  ],
+  "income_claim": "70% ishbilan ta'minlanib, eng kamida 500 dollardan, eng ko'pi 2000 dollargacha oylik daromad (относится конкретно к выпускникам направления «sotuv menejerligi», 2 потока по 18 и 40 человек — не ко всем ученикам и не ко всем направлениям школы)",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:18: текст «TA'MINLANGAN» (мужчина уже в другой одежде и локации — короткий рукав, жилая улица)",
+    "timecode": "00:18"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:16] 70% ishbilan tamilani en kamida 500-dolordan, en kopini ki 2000-dolorda qecha oylik daromadga chikdi.",
+    "timecode": "00:16"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:12] Birinci pato ogyimizda 18-ta, ikinci pato ogyimizda 40-ta.",
+    "timecode": "00:12"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Buning uchun 500 ta grant ajratilgan. 25-sentabr kuni onlayn taqdimot bo'lib o'tadi."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:39] 25-ci sentiyabrda boladigin online taqdimatimiz gagat nasib, [00:42] grantda barini youtube alishiniz munkum bolay.",
+    "timecode": "00:39"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук подтверждён кадром и расшифровкой: «Bir Ta'lim loyihamizda shu yilning o'zida 400 ga yaqin o'quvchilarni o'qitdik» — цифра и социальное доказательство масштаба. Съёмка похожа на подлинное селфи на телефон (видна вытянутая рука, естественное закатное освещение, смена локаций по ходу ролика), в отличие от 2102027537351296, где «REC»-эффект — стилизация поверх студийной съёмки; здесь помечено style «съёмка на телефон» как более вероятно настоящий формат. По ходу ролика минимум 2 смены локации/одежды у говорящего (закат у стройки → дневная жилая улица с машиной) — возможно, это один и тот же рассказчик в разных сценах (день из жизни), речь идёт от «биз»/первого лица на протяжении всего ролика без явной смены говорящего, поэтому оставлен один speaker. Доход: конкретная и наиболее детализированная claim среди всех 6 роликов — «70% трудоустроены, доход от 500 до 2000 долларов в месяц» относится именно к выпускникам направления sotuv menejerligi (2 потока, 18+40=58 человек), не ко всем ученикам и не как гарантия (заявлено 70%, а не 100%) — поэтому risk=false, в отличие от 1395679418729293. Слово «TA'MINLANGAN» на кадре (~0:18) точно совпадает с «ishbilan ta'minlanib» в расшифровке [00:16] — хорошее перекрёстное подтверждение. CTA в конце расшифровки [00:45] «padrob nitugmasin bas, prohat notin» — узнаётся «pastdagi tugmani bosing» и, вероятно, искажённое «Podrobnee» (кнопка объявления), но слово «telegram» явно не звучит (в отличие от 3 из 5 остальных роликов) — cta.in_creative проставлен «бот или канал Telegram» по общему паттерну кампании и тексту объявления, но с меньшей уверенностью именно для этого ролика. Ролик зовёт в Telegram-канал, а link_url ведёт на лендинг bir-group-webinar.vercel.app/ (корень) — расхождение. Спикер(-ы) не назван(ы) по имени — роль «актёр или ведущий» без public_name."
+}

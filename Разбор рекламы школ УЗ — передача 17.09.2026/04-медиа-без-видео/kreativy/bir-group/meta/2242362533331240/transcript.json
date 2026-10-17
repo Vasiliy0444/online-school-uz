@@ -1,0 +1,61 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.6,
+   "text": "Diplominiz var, lekin bazar pul töl ediyen kaskiginiz var mi?"
+  },
+  {
+   "start": 3.9,
+   "end": 8.74,
+   "text": "Üniversitetin aktabini bitirish baska, lekin bazarda pul töl ediyen kaskigini bolish baska."
+  },
+  {
+   "start": 8.98,
+   "end": 14.22,
+   "text": "Ayni shunaka, bazar pul töl ediyen zamanayi kaskigini örganyi maktib olsayiz, bu video ayni siz uchun."
+  },
+  {
+   "start": 14.82,
+   "end": 17.2,
+   "text": "Biz 500 grant layihamiz basladik."
+  },
+  {
+   "start": 17.3,
+   "end": 22.06,
+   "text": "Yani, yetkili yönalishda 500-ta yashini B-pulga, zamanayi kaskigini örganyi maktibiz."
+  },
+  {
+   "start": 22.06,
+   "end": 30.78,
+   "text": "Bundan aldin ikte goruk chikardik və bətərgan okucilar umumi 650 miliyon somdan kub pul tapib uyiga, rozga aragi yardan veriyabdi."
+  },
+  {
+   "start": 31.3,
+   "end": 32.22,
+   "text": "Enda növbət siziki."
+  },
+  {
+   "start": 32.4,
+   "end": 39.06,
+   "text": "Agar shu grantda qatnaş maqtib usayiz, fastagit gümayini basib, 25-ci sentyabr günü boladigan online taqdimat kanalimizi xoşilib alin."
+  },
+  {
+   "start": 39.52,
+   "end": 43.0,
+   "text": "Taqdimatda kanak qilib saraylaşdan 300-cim gün kanaka şartlari var."
+  },
+  {
+   "start": 43.08,
+   "end": 44.96,
+   "text": "Batarsil, həmmasi boyce yaplaşamiz."
+  }
+ ],
+ "chars": 766,
+ "chars_per_s": 16.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

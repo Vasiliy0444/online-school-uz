@@ -1,0 +1,151 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.6,
+   "text": "Ottargan caizda, u izda, yoki ofisda nermali sakta tafsiz golan."
+  },
+  {
+   "start": 3.88,
+   "end": 9.04,
+   "text": "Seroz zeytamba, mitda bat afsil chiltriymo, uzun marketta saada qilish orgin alani,"
+  },
+  {
+   "start": 9.26,
+   "end": 11.4,
+   "text": "di shani, katta biznesmen bob ketas."
+  },
+  {
+   "start": 11.62,
+   "end": 15.52,
+   "text": "Botdi orgin tadigallan oza, vashi onlay saada, tur mili artkechit,"
+  },
+  {
+   "start": 15.52,
+   "end": 17.7,
+   "text": "sudi qiladigallan orgin charkandi,"
+  },
+  {
+   "start": 18.22,
+   "end": 20.56,
+   "text": "iki min tada ozo adang orgin kamsil ozo."
+  },
+  {
+   "start": 20.58,
+   "end": 21.88,
+   "text": "Iti dama shok uchilarimiza baz."
+  },
+  {
+   "start": 21.88,
+   "end": 24.48,
+   "text": "Umumi abarotimiz, 247 mili anga chiktoz un marketta."
+  },
+  {
+   "start": 24.74,
+   "end": 26.46,
+   "text": "Abarotimiza 40 mili naqsh vatda."
+  },
+  {
+   "start": 26.64,
+   "end": 29.88,
+   "text": "Bar ay ichide, 30 mili onche, nabirna abarot bolda."
+  },
+  {
+   "start": 29.88,
+   "end": 32.32,
+   "text": "kurs kimmat mazmik, an yadda bu qil nadi, o dorgyanlad?"
+  },
+  {
+   "start": 32.32,
+   "end": 34.92,
+   "text": "Kurssi onlayn oxsiz bolad, fam ohtlayn oxsiz bolad."
+  },
+  {
+   "start": 34.92,
+   "end": 38.12,
+   "text": "Agar onlayn bolse, ke botar shartamaz?"
+  },
+  {
+   "start": 38.12,
+   "end": 40.56,
+   "text": "Da platformani chi ekraz, oz dana platform boza bar,"
+  },
+  {
+   "start": 40.56,
+   "end": 42.32,
+   "text": "unu chi daxama video darsaynani kursiz bolad."
+  },
+  {
+   "start": 42.32,
+   "end": 45.04,
+   "text": "Agar siz toshkinli torsiz, shunday ay bimi torgay,"
+  },
+  {
+   "start": 45.04,
+   "end": 47.28,
+   "text": "aqan jaydiygan, shudda oxsiz bolad."
+  },
+  {
+   "start": 47.28,
+   "end": 49.36,
+   "text": "Tol oleyan, halisiz nakti diz,"
+  },
+  {
+   "start": 49.36,
+   "end": 51.44,
+   "text": "halisiz bolib toleshgan,"
+  },
+  {
+   "start": 51.44,
+   "end": 52.44,
+   "text": "hulisi bolad."
+  },
+  {
+   "start": 52.44,
+   "end": 54.52,
+   "text": "Man navindan keses, kondar qoydu,"
+  },
+  {
+   "start": 54.52,
+   "end": 57.16,
+   "text": "biyanibit di kurs se, bi pulq i veradigan bu asisillar, shunat?"
+  },
+  {
+   "start": 58.4,
+   "end": 59.96,
+   "text": "Uzi, gerb asiv aradigan cayi?"
+  },
+  {
+   "start": 59.96,
+   "end": 61.4,
+   "text": "Pasti silke qaldir ama?"
+  },
+  {
+   "start": 61.4,
+   "end": 63.32,
+   "text": "Hazi malimatizdi qaldirsiz,"
+  },
+  {
+   "start": 63.32,
+   "end": 64.72,
+   "text": "uziligi alagaya chqib,"
+  },
+  {
+   "start": 64.72,
+   "end": 66.56,
+   "text": "yena batafsil malimat birishadi."
+  },
+  {
+   "start": 66.56,
+   "end": 68.32,
+   "text": "Hazi qaldirin malimatizdi."
+  }
+ ],
+ "chars": 1164,
+ "chars_per_s": 17.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

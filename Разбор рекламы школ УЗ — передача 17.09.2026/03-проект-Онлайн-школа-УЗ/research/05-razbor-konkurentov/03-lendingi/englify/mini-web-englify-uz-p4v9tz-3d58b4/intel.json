@@ -1,0 +1,52 @@
+{
+ "url": "https://mini-web.englify.uz",
+ "domain": "mini-web.englify.uz",
+ "pages_scanned": [
+  "https://mini-web.englify.uz/p4v9tz"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)"
+  ]
+ },
+ "seo_metadata": {
+  "title": "Ingliz tilida 0 dan 30 kunda gapirishni boshlash",
+  "description": "Teacher Azam bilan bepul master-klass: 30 kunda ingliz tilida erkin gapirishni boshlash metodikasi.",
+  "open_graph": {
+   "title": "Ingliz tilida 0 dan 30 kunda gapirishni boshlash",
+   "description": "Teacher Azam bilan bepul master-klass: 30 kunda ingliz tilida erkin gapirishni boshlash metodikasi.",
+   "type": "website"
+  },
+  "headings": {
+   "h1": [
+    "Ingliz tilida0 dan 30 kundagapirishni boshlash"
+   ],
+   "h2": [
+    "Master-klassda siz:"
+   ]
+  }
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [],
+  "total_images_found": 1
+ },
+ "integration_links": [],
+ "hidden_elements": {
+  "html_comments": [
+   "englify-fonts https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap",
+   "/englify-fonts",
+   "englify-phone-intl",
+   "/englify-phone-intl",
+   "englify-modal-fix",
+   "/englify-modal-fix",
+   "englify-analytics",
+   "/englify-analytics"
+  ]
+ }
+}

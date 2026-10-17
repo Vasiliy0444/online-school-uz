@@ -1,0 +1,56 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.28,
+   "text": "Qaysi katsini tori yi leymaz toru ayda urigan shimkin."
+  },
+  {
+   "start": 2.28,
+   "end": 4.8,
+   "text": "Ayini shu soxalardan beri bu esimem yunalishi."
+  },
+  {
+   "start": 4.8,
+   "end": 9.44,
+   "text": "Esimem yunalishi uriganlishi asan tajiba toplash qiyin bulgan soxalardan beri."
+  },
+  {
+   "start": 9.44,
+   "end": 12.52,
+   "text": "Yani, siz uchun anaq bir mashagkatli bir ishtasiz."
+  },
+  {
+   "start": 12.52,
+   "end": 16.08,
+   "text": "Aga shunge tayyib bolsaniz, Najat Talim sizige shu soxani urigar chike tayyor."
+  },
+  {
+   "start": 16.08,
+   "end": 23.68,
+   "text": "Najat Talimnin barca filiyallar, Jumladan, Toshkin, Samarkand, Kharazim, hamda fargana filiyallarida esimem kurs uchun xar doyim qaboli bor."
+  },
+  {
+   "start": 23.68,
+   "end": 27.28,
+   "text": "Tor ay vahtini izni ajatas, hamda esimem katsibi muttokhasi gelinas."
+  },
+  {
+   "start": 27.28,
+   "end": 29.28,
+   "text": "qaz제к ми zoxlar zya published boya zin qadariny"
+  },
+  {
+   "start": 29.28,
+   "end": 31.28,
+   "text": "oya quyda zya qamraya getir boya qariny"
+  }
+ ],
+ "chars": 608,
+ "chars_per_s": 19.3,
+ "cyrillic_share": 0.01,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

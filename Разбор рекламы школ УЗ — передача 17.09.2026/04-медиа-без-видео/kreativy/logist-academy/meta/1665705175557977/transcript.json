@@ -1,0 +1,71 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.88,
+   "text": "Qantrakhtizozis tolep, udeqilarga yardan beremen desiz, men yaxshla beshtim."
+  },
+  {
+   "start": 5.42,
+   "end": 13.24,
+   "text": "Amerikala gi istikasy orqali xazir kundda shagirtlarim kontraktini toleyabdi, udeqilarga yardan bereyabdi, mashina bereyabdi dadalariga."
+  },
+  {
+   "start": 13.4,
+   "end": 16.44,
+   "text": "Ular endi kirganiga 2 il, 3 il bolda Amerikala gi istikasyga."
+  },
+  {
+   "start": 16.76,
+   "end": 22.08,
+   "text": "Sizam, 19 yashmiziz, net yashmol shizan qatdi nazar, xazir Amerikala gi istikasyni organib,"
+  },
+  {
+   "start": 22.52,
+   "end": 28.14,
+   "text": "2-3 aydan kin daramatga chikib, aige 500-600, 1 yilda 1100-1000 dolar daramatga chikishiz munkun."
+  },
+  {
+   "start": 28.14,
+   "end": 31.64,
+   "text": "ndi bunu qeyrni organa man, qana qaqlib organ san boladi,"
+  },
+  {
+   "start": 31.8,
+   "end": 34.88,
+   "text": "ya ki da nima qilishim kere ishlaqchun, digan sovarlariz bolsa,"
+  },
+  {
+   "start": 34.94,
+   "end": 38.24,
+   "text": "min yakishanba kunu bepul seminar tashkirqali yapman Tashkin shahrida,"
+  },
+  {
+   "start": 38.66,
+   "end": 41.2,
+   "text": "kilib qatnaqshib polusyum alimot asayiz boladi."
+  },
+  {
+   "start": 41.3,
+   "end": 45.62,
+   "text": "O shakunu min sizgi polusyam erkilay ishqyasi bojcha katta bitti bepul darsotu veraman,"
+  },
+  {
+   "start": 46.0,
+   "end": 48.66,
+   "text": "qatnaqshish uchun pastaygi tugum orqali royxatna otin,"
+  },
+  {
+   "start": 48.96,
+   "end": 50.5,
+   "text": "uzimiz toluq malimot veramiz."
+  }
+ ],
+ "chars": 879,
+ "chars_per_s": 17.3,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

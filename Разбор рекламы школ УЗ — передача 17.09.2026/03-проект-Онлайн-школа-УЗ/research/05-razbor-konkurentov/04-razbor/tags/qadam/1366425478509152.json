@@ -1,0 +1,99 @@
+{
+ "creative_id": "1366425478509152",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "UZUM MARKETDA DAROMAD QILMOQCHISIZ / XATOLARDAN QO'RQYAPSIZMI?",
+  "types": [
+   "вопрос",
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "таймер или обратный отсчёт"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s: таймер обратного отсчёта «00:29» и «21+»; мужчина в костюме в машине ночью говорит в камеру",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.5s: «UZUM MARKETDA DAROMAD QILMOQCHISIZ»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s: «XATOLARDAN QO'RQYAPSIZMI?»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Uzumarketda daromad kilmaksiz, lekin xatalardan korkayabsizmiz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:08] Bu darsikla da siz uzumarketda kanda ishba o'qishla ish, yangi sotu uchila qiladigan asosii xatalar,",
+    "timecode": "00:08"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:16] valbati saada onu tizra o'qilishba o'qishla katka daromadga chikish yullarini organib olasiz.",
+    "timecode": "00:16"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Uzum’da savdo qilishni xohlaysiz, lekin qayerdan boshlashni bilmayapsizmi?"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "мини-курс"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "UZUM bo‘yicha bepul darslar"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:03] Biz aynansiz uchun uzumarketda saada o'qilishbo iche Bepul video darsikla tayorlap chiktik.",
+    "timecode": "00:03"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "мини-курс или трипвайер"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Хук — крупный анимированный текст на кадрах, речь совпадает («…qilmoqchisiz, lekin xatolardan qo'rqyapsizmi?»). Спикер в ролике не представлен; та же съёмка (ночная машина, офис с пальмами), что в 1412400947038266, где спикер назван автором курса. Оффер — бесплатные видеоуроки («Bepul video darsikla» = «bepul video darsliklar»): по речи — как работать на Uzum, основные ошибки новых продавцов, способы «взорвать» продажи и выйти на большой доход; по тексту объявления — оформление карточек товара, пошаговое создание карточки, почему карточки блокируют. Призыв в речи: «Ushbu darsliklarni olish uchun hozir quyidagi havola orqali ro'yxatdan o'ting» (написание исправлено) — регистрация, отмечено «заполнить форму». Ссылка — платформа qadam.online/courses; этап «мини-курс» выбран для серии бесплатных уроков (можно трактовать и как лид-магнит). Субтитры видны на кадре 4 обзора («Ushbu darsliklarni»)."
+}

@@ -1,0 +1,93 @@
+{
+ "creative_id": "28223945117246462",
+ "platform": "meta",
+ "school_id": "shahlo-alikhanova",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "запись экрана",
+  "нарезка эфира или подкаста"
+ ],
+ "hook": {
+  "verbatim": "Bizneslarga AI bilishingiz umuman qiziq emas...",
+  "types": [
+   "запрет или ошибка"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: «BIZNESLARGA AI BILISHINGIZ UMUMAN QIZIQ EMAS...» — Shahlo Alikhanova (очки, хиджаб, бежевое пальто) идёт по европейской улице с телефоном в руке",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Qarayinda qupol bu seymetima biznisilegi sizi eya bilishiz umuman qizulmaz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта",
+   "доход",
+   "свой бизнес"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:04] Ulegi siz chalcibitin bilasini, nanobanali rastin bilasini, midyonin bilasini umuman qizulmaz. [00:08] Ulegi pul qizu ulaniz savda usina oxish qizu.",
+    "timecode": "00:04"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg (~0:06): «chatgptni bilasizmi, nano...» — упомянуты конкретные инструменты (ChatGPT, вероятно Nano Banana)",
+    "timecode": "00:06"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg (~0:18): интерфейс AI-генератора изображений (промпт + сгенерированные фото модели с макияжем) под брендом «AI CREATORS STUDIO», подпись «bizneslarga siz ko'proq mijozlarni [jalb qilishingiz mumkin]»",
+    "timecode": "00:18"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный урок"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "[BEPUL VIDEODARS] - Qanday Qilib Sun'iy Intellekt Orqali Daromad Qilish Mumkin?"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:44] Videonu korshichu, pastagi xavalanib, basit!",
+    "timecode": "00:44"
+   }
+  ]
+ },
+ "cta": {
+  "button": "See details",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "основатель или эксперт",
+  "public_name": "Shahlo Alikhanova"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук — контрарианское утверждение («бизнесу не важно, знаете ли вы AI лично») — редкий для порции тип. По ходу ролика Shahlo встречается с мужчиной-соведущим в кадре с люстрой (тот же, что в 3490918217757569 и др.), затем показана демонстрация AI-инструмента генерации модели/макияжа под брендом «AI Creators Studio» — это тот же суббренд/продукт, что и в креативе 966760509794263 (одевание товаров на AI-моделей), здесь он явно привязан к Shahlo и её команде. Расшифровка целиком (реконструкция смысла, много неразборчивых мест, дословность не гарантирую): «Qarasangiz, aslida bu — biznesingiz uchun siz AI bilishingiz umuman qiziq emas. Siz dasturlashni bilasizmi, neyron tarmoq qurishni bilasizmi, modellarni bilasizmi — umuman qiziq emas. Muhimi — pulingiz, ya'ni sizning savdo(marketing)ingiz oldinga chiqishi. Agar siz mijozlaringizga AI orqali tezroq xizmat ko'rsatsangiz, kreativ reklama qilsangiz, biznesingizga ko'proq mijoz olib kelsangiz — shunda siz bozorda AI mutaxassisi bo'lmasangiz ham o'z o'rningizni egallaysiz. ...Biz Shvetsiyadan va O'zbekistondan turli loyihalarda ishlab kelamiz» — центральный тезис («вам не обязательно самому быть AI-специалистом») достаточно уверенно восстановлен, детали (»chatgptni bilasizmi, nano...«) обрываются на кадре, дословность не гарантирую."
+}

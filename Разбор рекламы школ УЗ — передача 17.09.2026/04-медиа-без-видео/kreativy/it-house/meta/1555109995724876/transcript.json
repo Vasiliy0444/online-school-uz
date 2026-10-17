@@ -1,0 +1,61 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.86,
+   "text": "Erkin grafik. Artikcha chekla olarsiz barsanatish 500 dolurgan 1000 dollari gecha daromad."
+  },
+  {
+   "start": 4.98,
+   "end": 6.74,
+   "text": "Sizdan talab klinadi fakat kina sifat."
+  },
+  {
+   "start": 6.9,
+   "end": 9.3,
+   "text": "Kan deyishtib sorasangiz web full stack bima."
+  },
+  {
+   "start": 9.46,
+   "end": 10.64,
+   "text": "Bu soxana organish chun?"
+  },
+  {
+   "start": 10.9,
+   "end": 12.28,
+   "text": "IT hauslim aslaqat dira man."
+  },
+  {
+   "start": 12.4,
+   "end": 16.44,
+   "text": "Chunki, komputeriniz yok bolsa, oqo carayonada komputer bilan tamirlaydi."
+  },
+  {
+   "start": 16.6,
+   "end": 19.02,
+   "text": "Kursi mafaqa izi tugasangiz, isbilan ham tamirlaydi."
+  },
+  {
+   "start": 19.1,
+   "end": 21.64,
+   "text": "Bunin uchinsizizni yashiniz 18 dan ashgan bolsa bas."
+  },
+  {
+   "start": 21.82,
+   "end": 23.36,
+   "text": "Shoshlin, jaylar sahani cheklangan."
+  },
+  {
+   "start": 23.76,
+   "end": 25.36,
+   "text": "Songi, pushayman, ozingi dushma."
+  }
+ ],
+ "chars": 478,
+ "chars_per_s": 18.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

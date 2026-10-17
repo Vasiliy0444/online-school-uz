@@ -1,0 +1,71 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.7,
+   "text": "Zilolopi, nege aynan trading soxasini talayganmiz?"
+  },
+  {
+   "start": 3.0,
+   "end": 5.22,
+   "text": "Uldu otirib, gosimci daromad, o'qish itchin."
+  },
+  {
+   "start": 5.76,
+   "end": 8.3,
+   "text": "Zilma sababtan, HBS Akademiyasini talayganmiz?"
+  },
+  {
+   "start": 8.72,
+   "end": 13.94,
+   "text": "HBS Akademiyasini talayganmiz sabab, YouTube-di mamurgani, o'qish saotli darsilarini korup chikganman,"
+  },
+  {
+   "start": 14.12,
+   "end": 19.12,
+   "text": "nangi jüriyami okkan, va ula sabab, tradingi qizilqishin payda obogi,"
+  },
+  {
+   "start": 19.6,
+   "end": 21.38,
+   "text": "sunucu aynan HBS-i talayganman."
+  },
+  {
+   "start": 21.7,
+   "end": 25.04,
+   "text": "Tradingini, yangi goslo otikanlargi tavsiyaniz?"
+  },
+  {
+   "start": 25.04,
+   "end": 29.18,
+   "text": "Tradingi haqidagi, negetli fikirligi, hadib kulaq solishmasin,"
+  },
+  {
+   "start": 29.18,
+   "end": 36.0,
+   "text": "çünki bu soxada hazırda negativ fikirlar ciduhamkot, sababı bu soxana notora targib qilucu"
+  },
+  {
+   "start": 36.0,
+   "end": 40.9,
+   "text": "və notora shakinda urgatucu ustazlar, traderlar kopayib getkəm."
+  },
+  {
+   "start": 41.5,
+   "end": 48.62,
+   "text": "Ozli gozimi shaksiv tikrib olsun, bu soxada halal, joyuz, daramat qisi boladi."
+  },
+  {
+   "start": 49.0,
+   "end": 53.98,
+   "text": "Probnik darslarga qatnaqib qorishisin, ozli gozi ishan chahasam qilishadi."
+  }
+ ],
+ "chars": 767,
+ "chars_per_s": 14.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

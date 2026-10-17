@@ -1,0 +1,26 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.1,
+   "text": "Engilis tili na faqat chunib, balkim uzizgi ishanch bilan gaplashmokchi bolsanyiz,"
+  },
+  {
+   "start": 5.28,
+   "end": 9.94,
+   "text": "Sintyabir ayige, Samarkand filagimizge, Engilis tili kurslargi qabul ochik,"
+  },
+  {
+   "start": 10.1,
+   "end": 13.56,
+   "text": "pastage havalana otin, ba International School de Engilis tili na boshlin."
+  }
+ ],
+ "chars": 233,
+ "chars_per_s": 13.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

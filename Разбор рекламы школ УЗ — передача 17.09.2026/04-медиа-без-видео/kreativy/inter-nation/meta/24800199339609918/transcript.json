@@ -1,0 +1,61 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.64,
+   "text": "Ustaz, bu sos va bu kast hech kachan olmay digan kastlardan barib."
+  },
+  {
+   "start": 4.84,
+   "end": 7.4,
+   "text": "Insaniyat bar ki, bu ish xardayin bolgan."
+  },
+  {
+   "start": 7.8,
+   "end": 10.64,
+   "text": "Intermissions kulan jan filiali, uqtushilarn ishke taklit buladi."
+  },
+  {
+   "start": 11.02,
+   "end": 13.4,
+   "text": "IELTS-tan 7-dan yukar balgeyge bolishingiz,"
+  },
+  {
+   "start": 13.68,
+   "end": 16.18,
+   "text": "Uzbek rosturlarida erkin mulaqat qilishingiz talatpanlar."
+  },
+  {
+   "start": 16.48,
+   "end": 19.12,
+   "text": "O'lik mawashlari isa, 23 milyon somdan boshlan,"
+  },
+  {
+   "start": 19.44,
+   "end": 21.42,
+   "text": "43,5 milyon som gechat davam etadi."
+  },
+  {
+   "start": 21.7,
+   "end": 24.42,
+   "text": "Asasi ishingiz isa, mana bunday kulay sharaytta,"
+  },
+  {
+   "start": 24.42,
+   "end": 26.76,
+   "text": "drive bilan dars otu alish qabiliyati,"
+  },
+  {
+   "start": 27.18,
+   "end": 29.9,
+   "text": "sizlarina ari zangizni xabalar qali kutuk alamiz."
+  }
+ ],
+ "chars": 498,
+ "chars_per_s": 16.2,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.06,
+   "text": "Hazir gunda bit doqbilan ikta koyan orishma yapdi."
+  },
+  {
+   "start": 2.14,
+   "end": 3.76,
+   "text": "Belki undan koprak koyala orish yapdi."
+  },
+  {
+   "start": 3.94,
+   "end": 5.28,
+   "text": "Hazir boni sizgi ispotla biraman."
+  },
+  {
+   "start": 5.76,
+   "end": 8.74,
+   "text": "Copywriting, targeting, content maker, mobilagrafya."
+  },
+  {
+   "start": 8.96,
+   "end": 11.92,
+   "text": "Bularinin belchazana IT hafiznin esmim kurslarina orgini sharkali,"
+  },
+  {
+   "start": 12.26,
+   "end": 13.28,
+   "text": "orgi kirtishiniz mukin."
+  },
+  {
+   "start": 13.6,
+   "end": 15.52,
+   "text": "Agar yashiniz 18 yasdan yukari bolsa,"
+  },
+  {
+   "start": 15.78,
+   "end": 17.12,
+   "text": "sizni isbilan xam tamir leshaba."
+  }
+ ],
+ "chars": 338,
+ "chars_per_s": 19.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

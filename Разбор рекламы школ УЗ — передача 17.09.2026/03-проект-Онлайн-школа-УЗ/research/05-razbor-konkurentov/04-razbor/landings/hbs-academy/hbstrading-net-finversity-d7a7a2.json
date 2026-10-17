@@ -1,0 +1,94 @@
+{
+ "url": "https://hbstrading.net/finversity",
+ "school_id": "hbs-academy",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "основной продукт",
+ "builder": "Nuxt",
+ "pixels": [
+  "Meta Pixel",
+  "Google Analytics (GA4)",
+  "Google Tag Manager"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Научиться торговать в трейдинге с абсолютного нуля",
+  "quote": "Finversity\nTreyding sohasida mutlaqo 0’dan savdo qilishni o'rganing",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": true,
+  "value": "Анонимные карточки учеников (самоотчёт, без периода и базы расчёта): 10–30%, 40% «real shotda», 20% прибыли, 20–25% дохода; заголовок видеоотзыва про 25–30% прибыли",
+  "quote": "Har kuni bozorga ishonch bilan kira oladi, 10-30% gacha daromad.\nHBS jamoasi a'zosi, 40% real shotda daromad.\nHBS Akademiyasida o'qib, treydingni o'zi uchun yangitdan kashf qilgan. Hozir 20% foydada.\nHozirda treyding orqali 20-25% daromad qilmoqdalar\nMEN HAM, AYOLIM HAM 25-30% FOYDA QILAMIZ!",
+  "where": "середина"
+ },
+ "audience": {
+  "found": true,
+  "value": "8 карточек «Ushbu Dastur Siz Uchun Agarda siz...»: преподаватель вуза, трейдер, дизайнер, студент, безработный, домохозяйка, предприниматель, программист — было и стало; плюс «mutlaqo 0’dan» на первом экране",
+  "quote": "Ushbu Dastur Siz Uchun Agarda siz...\nBu dastur sizga to'g'ri keladimi-yo'qmi degan savol tug'ilgan bo'lsa, avval talabalarimiz qanday natijalarga erishganini ko'ring\nO'qituvchiInstitutda o'qituvchi\nBoshqa joylardan ishonchli va joiz kurslar topa olmagan.\nHar kuni bozorga ishonch bilan kira oladi, 10-30% gacha daromad.\nTreyderAsosiy kasbi\nTo'g'ri o'rganilmagan bilim orqali pullari sliv bo'lib ketgan.\nHBS Akademiyasi darslari va nazorati ostida, joiz yo'llar bilan daromadga chiqdi.\nDizaynerAsosiy kasbi\nDizaynerlik bilan shug'ullangan. Lekin daromadi kimdadir bog'liq bo'lishini xohlamagan.\nHBS jamoasi a'zosi, 40% real shotda daromad.\nTalabaO'quvchi\nInstitutdagi treyding darslari juda sodda bo'lgani uchun bu soha haqida boshqacha fikrda bo'lgan.\nHBS Akademiyasida o'qib, treydingni o'zi uchun yangitdan kashf qilgan. Hozir 20% foydada.\nIshsizAniq kasbi yo'q\nBoshqa kursda o'qigan, lekin natija bo'lmagan.\nHozir real shotda mustaqil ishlay oladi.\nUy bekasiUyda\nO'ziga qulay bo'lgan ish bo'lishini orzu qilgan.\nHBS Akademiyasida o'zi izlagan barcha qulayliklarni topgan.\nTadbirkorBiznesmen\nTijorat sohasida faoliyat yuritib savdo-sotiq qilar edilar\nHozirda treyding orqali 20-25% daromad qilmoqdalar\nDasturchiProgramist\nAsosiy ishdan tashqari passiv daromad qilish istagi\nHBS Akademiyasida o'qib hozirda mustaqil investitsiya qila oladi",
+  "where": "середина"
+ },
+ "program": {
+  "found": true,
+  "modules": 26,
+  "lessons": 300,
+  "duration": "2.5 oy (2,5 месяца), еженедельные Zoom-встречи",
+  "format": "гибрид",
+  "quote": "Darslar tugaganidan so'ng\n4 oylik\ndostup\n300 ga\nyaqin darsliklar\n…\nOnlinepraktika\n2.5 OY\nDastur davomiyligi\n26\nUmumiy modullar soni\nZOOM\nHaftalik meetinglar"
+ },
+ "speaker": {
+  "found": true,
+  "value": "Mamur Bakhromov, Abdulloh Shokirov, Bakhodir Abdurakhimov, Amirxon Oripov — имена и фото в блоке состава курса, без регалий и цифр; на /hbs-academy менторами Finversity названы двое: Abdulloh Shokirov и Ma'mur Bakhromov",
+  "quote": "Mamur Bakhromov, Abdulloh Shokirov, Bakhodir Abdurakhimov, Amirxon Oripov",
+  "where": "середина"
+ },
+ "social_proof": {
+  "types": [
+   "текстовые отзывы",
+   "видеоотзывы",
+   "число учеников"
+  ],
+  "count_claim": "«4 yil ichida HBS, 2 500 dan ortiq insonlarning hayotini o'zgartirishga hissa qo'shdi» и на той же странице «4 yil ichida HBS, 3 000 dan ortiq insonlarni hayotini o'zgartirishga hissa qo'shdi» — самоотчёт",
+  "reviews_count": 12
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "два тарифа («Standart Tarifi», «VIP Tarifi») без сумм — в текстовом снимке цен нет; у тарифов кнопки «Ro'yxatdan o'tish» и «Bo'lib to'lash orqali olish»"
+ },
+ "installments": {
+  "found": true,
+  "value": "Кнопка «Bo'lib to'lash orqali olish» (RU — «Оформить в рассрочку») у обоих тарифов; через кого (банк, насия-сервис), на какой срок и под какой процент — не сказано; куда ведёт кнопка, в снимке не видно",
+  "quote": "Standart Tarifi\n…\nRo'yxatdan o'tishBo'lib to'lash orqali olish",
+  "where": "низ страницы"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": true,
+  "value": "VIP-тариф сверх Standart (13 пунктов): дополнительные материалы и практические задания, мастер-классы приглашённых спикеров, выпускная и наградная церемония, личный куратор и контроль менторов, тимбилдинг, 6 месяцев полного доступа к платформе Trading Floor, офлайн-встречи и нетворкинг, «Rasmiy sertifikat», «HBS jamoasiga qo'shilish imkoniyati», Zoom-встречи и живые обсуждения, Student Pack, членство в клубе трейдеров, VIP-группа с менторами",
+  "quote": "VIP Tarifi\nUmumiy guruhga kirish\nDarslar tugaganidan so'ng 2 oylik dostup\n300+ darsliklar\nQo'shimcha materiallar va amaliy topshiriqlar\nMehmon spikerlardan maxsus master-klasslar\nBitiruv va taqdirlash marosimida ishtirok etish\nShaxsiy kurator va mentorlar nazorati\nTeam Building tadbirlari\nTrading Floor platformasiga 6 oylik to'liq kirish\nOflayn uchrashuvlar va networking\nRasmiy sertifikat\nHBS jamoasiga qo'shilish imkoniyati\nZOOM uchrashuvlar va jonli muhokamalar\nStudent Pack — o'quvchilarga maxsus to'plam\nTreyderlar klubi a’zoligi\nVIP guruh — ustozlar va faol o'quvchilar bilan aloqada bo'lish",
+  "where": "низ страницы"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "имя",
+   "телефон",
+   "Telegram",
+   "другое"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "notes": "Страница курса Finversity (title «Finversity — moliyaviy bozorlar bo‘yicha kurs»; RU — hbstrading.net/ru/finversity). На /hbs-academy: «Format:Online + Offline praktika», «Shaxar:Toshkent», «Muddati:2.5 oy», менторы Abdulloh Shokirov и Ma'mur Bakhromov; на самой странице в блоке состава — четыре имени (ещё Bakhodir Abdurakhimov и Amirxon Oripov). Этап — основной продукт; stage_auto «вебинар или мастер-класс» сработал на «Mehmon spikerlardan maxsus master-klasslar» в VIP-тарифе.\nПорядок блоков: первый экран («Finversity», «Treyding sohasida mutlaqo 0’dan savdo qilishni o'rganing», кнопка «Ma’lumot olish», фото мужчины в синем пиджаке без подписи) → «Ushbu Dastur Siz Uchun Agarda siz...» — 8 анонимных карточек в формате профессия, было, стало («O'qituvchi», «Treyder», «Dizayner», «Talaba», «Ishsiz», «Uy bekasi», «Tadbirkor», «Dasturchi») под фразой «avval talabalarimiz qanday natijalarga erishganini ko'ring» → «Bizning akademiyamizga nima kiradi» (доступ, около 300 уроков, VIP-группа, офлайн-встречи, 4 ментора, клуб трейдеров, «HBS jamoasiga qo'shilish», личный куратор, Zoom, «Rasmiy sertifikat»; «2.5 OY», «26 Umumiy modullar soni», «ZOOM Haftalik meetinglar») → «Siz bir o'zingiz emassiz» (флаги России, США, Южной Кореи, Японии, Турции, Кыргызстана, ОАЭ) → 4 видеоотзыва (те же, что на Express) → 5 фото → «O'zingizga qulay tarifni tanlang» → форма → филиалы → подвал.\nТарифы: «Standart Tarifi» («Umumiy guruhga kirish», «Darslar tugaganidan so'ng 2 oylik dostup», «300+ darsliklar») и «VIP Tarifi» (те же 3 пункта + 13, см. bonuses) — сумм в текстовом снимке нет; у каждого кнопки «Ro'yxatdan o'tish» и «Bo'lib to'lash orqali olish» (ссылок в снимке нет, не переходили). Рассрочка — только эта кнопка (RU «Оформить в рассрочку»): партнёр, срок, число платежей и проценты не названы; в «Xizmat shartlari» оплата частями не описана. Гарантии, возврата, скидок и сроков набора нет.\nСамоотчёт и расхождения на странице: «4 yil ichida HBS, 2 500 dan ortiq insonlarning hayotini o'zgartirishga hissa qo'shdi» (и почти так же над тарифами) и «4 yil ichida HBS, 3 000 dan ortiq insonlarni hayotini o'zgartirishga hissa qo'shdi»; на /hbs-academy — «2021 Yildan beri ta’lim beriladi» и «3 000+ O'quvchilar»; доступ после окончания — «4 oylik dostup» в блоке состава и «2 oylik dostup» в обоих тарифах; уроков — «300 ga yaqin darsliklar» и «300+». Доходности в карточках (самоотчёт, без периода, базы и имён): «Har kuni bozorga ishonch bilan kira oladi, 10-30% gacha daromad.», «HBS Akademiyasi darslari va nazorati ostida, joiz yo'llar bilan daromadga chiqdi.», «HBS jamoasi a'zosi, 40% real shotda daromad.», «Hozir 20% foydada.», «Hozir real shotda mustaqil ishlay oladi.», «Hozirda treyding orqali 20-25% daromad qilmoqdalar»; в карточке трейдера — «To'g'ri o'rganilmagan bilim orqali pullari sliv bo'lib ketgan.». Карточки дословно совпадают с /crypto-investor. reviews_count 12 = 8 карточек + 4 видео. Лицензий, регуляторов и предупреждений о рисках на странице нет; «Rasmiy sertifikat» — кем выдаётся и какой у него статус, не сказано.\nФорма — имя, телефон, Telegram-ник, время звонка, курс → звонок менеджера; closed = true (дальше регистрация, рассрочка или звонок). Реклама: в ads_meta.csv 30 объявлений страницы «HBS academy Uzbekistan» (все активны, старт 24.07–11.09.2026), все ведут на мгновенные формы Meta (link_url http://fb.me/, CTA «Sign up»), на сайт — ни одного, поэтому message_match не заполнялся.\nRU-версия — отличия: в карточке трейдера «Под контролем Академии HBS вышел на стабильный доход по разрешённым направлениям.» (в UZ слова «barqaror» в этой фразе нет); «Потерял средства из-за неправильно усвоенных знаний.»; «Член команды HBS, 40% доходности на реальном счёте.»; «Сейчас в прибыли на 20%.»; «Сейчас зарабатывает 20–25% через трейдинг.»; дизайнер «не хотел зависеть от чужих заказов»; «После окончания занятий 4 месяца доступ к примерно 300 урокам»; «Присоединение к команде HBS», «Официальный сертификат»; тарифы «Тариф Standard», «Тариф VIP», кнопки «Зарегистрироваться» и «Оформить в рассрочку»; заголовки видео не переведены.\nТехника: GA4, Meta Pixel, GTM-5XW7TCSH (intel.json); Nuxt. Скриншот 390×844: первый экран — фото, название курса, подзаголовок, зелёная кнопка, начало блока «Ushbu Dastur Siz Uchun Agarda siz...»; текст совпадает с page.md."
+}

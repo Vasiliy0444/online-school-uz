@@ -1,0 +1,81 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.82,
+   "text": "Firsota, nige aynan trading soxasini darmagansiz?"
+  },
+  {
+   "start": 2.94,
+   "end": 5.98,
+   "text": "Brinci sabab, bozorna taklil klesh o'zumge qizig bulgan,"
+  },
+  {
+   "start": 6.14,
+   "end": 9.36,
+   "text": "ba ikinci sabab, 9-6 gechi ishlajtaqa kora,"
+  },
+  {
+   "start": 9.48,
+   "end": 11.78,
+   "text": "mange sabudni grafik udobni bulgan uchun."
+  },
+  {
+   "start": 12.16,
+   "end": 14.46,
+   "text": "HPS Akademiyasini talashamizik sabab?"
+  },
+  {
+   "start": 15.22,
+   "end": 16.72,
+   "text": "Offline darslari bulgan uchun,"
+  },
+  {
+   "start": 16.8,
+   "end": 18.06,
+   "text": "va trading svorgi gelib,"
+  },
+  {
+   "start": 18.16,
+   "end": 20.48,
+   "text": "praktika qilishmik onyati bulgan uchun."
+  },
+  {
+   "start": 20.98,
+   "end": 22.88,
+   "text": "Va ikincisi, bu,"
+  },
+  {
+   "start": 23.0,
+   "end": 25.04,
+   "text": "mazime kamililani video darslarini"
+  },
+  {
+   "start": 25.04,
+   "end": 26.24,
+   "text": "YouTube-ta korib,"
+  },
+  {
+   "start": 26.32,
+   "end": 27.36,
+   "text": "yen HPS-ki keganma."
+  },
+  {
+   "start": 27.36,
+   "end": 29.36,
+   "text": "Tradingi indi boshlamakchi bulganlarga,"
+  },
+  {
+   "start": 30.0,
+   "end": 46.02,
+   "text": "Trading soxhazidi kop odamli tez va oson pul topish yoladi qarashadi, lekin trading tez doyb kitish yoli imaz, va unge kas sifatidi qarash girey, shumda rezultat ozgi yarashi olad."
+  }
+ ],
+ "chars": 637,
+ "chars_per_s": 13.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

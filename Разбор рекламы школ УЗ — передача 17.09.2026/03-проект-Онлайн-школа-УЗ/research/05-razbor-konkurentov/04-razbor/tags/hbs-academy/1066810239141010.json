@@ -1,0 +1,90 @@
+{
+ "creative_id": "1066810239141010",
+ "platform": "meta",
+ "school_id": "hbs-academy",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Zilola opa, nega aynan treyding sohasini tanlagansiz?",
+  "types": [
+   "вопрос",
+   "соцдоказательство"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s (караоке-субтитр по словам): «Zilola opa, nega aynan treyding sohasini tanlagansiz,»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Zilolopi, nege aynan trading soxasini talayganmiz?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость",
+   "для мам",
+   "без опыта"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (~0:48): «joiz uslubda daromad» (после кадра 3 «ham ko'p, sababi bu sohani»)",
+    "timecode": "00:48"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:41] Ozli gozimi shaksiv tikrib olsun, bu soxada halal, joyuz, daramat qisi boladi.",
+    "timecode": "00:41"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "🌸 Ayollar uchun yangi imkoniyat! Uy yumushlari yoki asosiy ishingizni tark etmasdan ham qo'shimcha daromad qilish mumkin."
+   },
+   {
+    "source": "текст объявления",
+    "quote": "📈 Investitsiya va treydingni noldan o'rganing, tajribali mentorlar bilan amaliy darslarda qatnashing."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "скидка"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "✨ Kunduzgi offline guruhlar uchun maxsus narx sizni kutmoqda."
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "неизвестно",
+  "destination": "форма Meta",
+  "funnel_stage": "мини-курс или трипвайер"
+ },
+ "speaker": {
+  "role": "ученик"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "средняя",
+ "notes": "risk = true по правилу инструкции для трейдинга и инвестиций (приведено к одному виду 17.09). Формат интервью: за кадром спрашивают именную героиню («Zilola opa» — по правилу учеников не называем в public_name), она отвечает, почему выбрала трейдинг и именно HBS; кадры и расшифровка совпадают по смыслу («nima sababdan aynan HBS ni... sababi bu sohada joiz uslubda daromad» — легальный/дозволенный способ дохода). Обзорные кадры обрывают речь на ~0:48 при длительности 54.7 с — последние ~6 с и итоговый CTA не видны и в расшифровке едва намечены. Финал расшифровки [00:49] «Probnik darslarga qatnaqib qorishisin, ozli gozi ishan chahasam qilishadi» похоже на «probniy darslarga qatnashib ko'rishsin, o'zi ko'zi bilan ishonch hosil qilsin» (пусть сходят на пробные уроки и сами убедятся) — упоминание пробных уроков, но не ясно, бесплатные ли они и это ли финальный призыв; в offer не включено, оставлено в notes. Явных цифр дохода в речи нет. cta.in_creative и funnel_stage — по совокупности контента (курс через форму), но с осторожностью из-за необнаруженного конца ролика."
+}

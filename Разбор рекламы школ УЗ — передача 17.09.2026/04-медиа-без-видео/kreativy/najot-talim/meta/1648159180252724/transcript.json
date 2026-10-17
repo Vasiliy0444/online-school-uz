@@ -1,0 +1,71 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.86,
+   "text": "Ozyarimizna harazimimizda 14-17 yarslu fersantla uchun 3-ninji aya chalukta hali ozyarimizdan bilimimiza ki."
+  },
+  {
+   "start": 7.14,
+   "end": 13.02,
+   "text": "Eger fersantliyiz, köp telefonu oynasa, xish nersage kizikmansa, oqatlanisham hata bursa,"
+  },
+  {
+   "start": 13.34,
+   "end": 16.8,
+   "text": "mektetden gaysadan, burs vaqtani bekerdan bekara sarflasa,"
+  },
+  {
+   "start": 17.32,
+   "end": 21.86,
+   "text": "sisteyiz, merkazi Asiyadagi en katta IT merkezde dan birsi boğan,"
+  },
+  {
+   "start": 22.18,
+   "end": 24.18,
+   "text": "Najab Talina fersantliyizni alup gali."
+  },
+  {
+   "start": 24.18,
+   "end": 27.44,
+   "text": "Bizabi de kuru kattala oqidi da bolido aikanmizdi,"
+  },
+  {
+   "start": 27.44,
+   "end": 31.24,
+   "text": "qiqinberda kiqqinanarami suni intilletni beyim olal örgansab oladika."
+  },
+  {
+   "start": 31.64,
+   "end": 37.32,
+   "text": "Manzilimiz Al-Haraizmi köcədə Miziya Parkni ikinci etajri Mittuay dokanini dəfəsində caylaşgan."
+  },
+  {
+   "start": 37.86,
+   "end": 42.06,
+   "text": "Hali uylan boturqmusiz, kib uylanman, tez Nacat təlima fərzantiznək gəlin."
+  },
+  {
+   "start": 42.16,
+   "end": 43.9,
+   "text": "Eger tolu krakmalamat gərək bosa,"
+  },
+  {
+   "start": 44.26,
+   "end": 45.82,
+   "text": "shurdagi halavan üstünə basin,"
+  },
+  {
+   "start": 45.9,
+   "end": 48.46,
+   "text": "ya ki bomata telefon nomerlarimiza muracat edin."
+  }
+ ],
+ "chars": 768,
+ "chars_per_s": 15.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

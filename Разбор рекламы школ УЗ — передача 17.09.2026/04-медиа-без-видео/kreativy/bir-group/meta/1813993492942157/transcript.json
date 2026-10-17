@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.36,
+   "text": "Dikatqilin bu xabarim yoshlar uchun."
+  },
+  {
+   "start": 2.52,
+   "end": 5.78,
+   "text": "Bir grup kampanyası sizge yedi tak yasipni bi pul orgetadi."
+  },
+  {
+   "start": 5.88,
+   "end": 9.08,
+   "text": "Mabilografiya, targetting suni entelet, hamda sotu, menajir."
+  },
+  {
+   "start": 9.18,
+   "end": 13.94,
+   "text": "Aynipatka kadar biznin ushbu yon alishimizda iki ta guruq bitirishka muafak boldi"
+  },
+  {
+   "start": 13.94,
+   "end": 17.66,
+   "text": "va ular aynipatda 600 milyondan ortik daromatka erishdi."
+  },
+  {
+   "start": 17.74,
+   "end": 19.86,
+   "text": "Agar sizge bu grant qizik bolsa,"
+  },
+  {
+   "start": 20.22,
+   "end": 23.86,
+   "text": "25-ci sintyabr kunu boli botadigan online takdimatda ishtirak edin."
+  },
+  {
+   "start": 23.86,
+   "end": 28.54,
+   "text": "Takdimatda qatmash uchun esak uydagi tudmanı basin va telegram kanalimizga abona bolin."
+  }
+ ],
+ "chars": 485,
+ "chars_per_s": 16.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

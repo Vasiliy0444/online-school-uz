@@ -1,0 +1,106 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.96,
+   "text": "Uy, manyakara, yurovla san uqshla qadarmay di buly."
+  },
+  {
+   "start": 5.44,
+   "end": 8.66,
+   "text": "Cizan, boshla manyakar, nima qidi siz?"
+  },
+  {
+   "start": 8.66,
+   "end": 12.54,
+   "text": "Uy, yoshin utubar yapti, unan qura uqqib kas buurgan sen bubaydi mi?"
+  },
+  {
+   "start": 12.54,
+   "end": 14.56,
+   "text": "Hayrda buurgan ama, ozak ya."
+  },
+  {
+   "start": 14.56,
+   "end": 20.16,
+   "text": "Mana, nacot talim, SMM, IT, Suni Intellect, Dasurlaq bu ucha qabul ochgan."
+  },
+  {
+   "start": 20.16,
+   "end": 21.3,
+   "text": "Uy, qe?"
+  },
+  {
+   "start": 21.3,
+   "end": 24.64,
+   "text": "Sintyabr oydu uqqisda boshla gailan uchu maqsus taklifla beri yapti."
+  },
+  {
+   "start": 24.64,
+   "end": 28.14,
+   "text": "Agar da san bu ronda kursda uqqib, naki cakla olmadim di bu sobla sen,"
+  },
+  {
+   "start": 28.14,
+   "end": 30.9,
+   "text": "orsha kursi 2 il davamda qayto oxishinmumki"
+  },
+  {
+   "start": 30.9,
+   "end": 34.78,
+   "text": "Robert va Edwix kurslar uchun 500 miksumlik chigirma"
+  },
+  {
+   "start": 34.78,
+   "end": 36.98,
+   "text": "dars qilishi uchun hamma sharaytlar baro"
+  },
+  {
+   "start": 36.98,
+   "end": 39.7,
+   "text": "Wi-Fi, Networking, Core-Working zonalar"
+  },
+  {
+   "start": 39.7,
+   "end": 40.9,
+   "text": "kusun etsam mozi"
+  },
+  {
+   "start": 40.9,
+   "end": 45.9,
+   "text": "Kempur-Sawat Khanligi HR kurslar uchun 1.200.000 miksumlik chigirma"
+  },
+  {
+   "start": 45.9,
+   "end": 50.14,
+   "text": "bunda tashkari Cambridge ingilisili kursi uchun 500 miksumlik chigirma veriyat"
+  },
+  {
+   "start": 50.14,
+   "end": 52.9,
+   "text": "buna qaym kondentlardan faydal arsindim, akilis kirek"
+  },
+  {
+   "start": 52.9,
+   "end": 55.78,
+   "text": "bana quydagi hawalagi basasan, royuqatdan otasan"
+  },
+  {
+   "start": 55.78,
+   "end": 57.78,
+   "text": "va tolog malumatu ozardan osayn boladi"
+  },
+  {
+   "start": 57.78,
+   "end": 59.3,
+   "text": "Maikara, tizro harakati."
+  }
+ ],
+ "chars": 920,
+ "chars_per_s": 15.4,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

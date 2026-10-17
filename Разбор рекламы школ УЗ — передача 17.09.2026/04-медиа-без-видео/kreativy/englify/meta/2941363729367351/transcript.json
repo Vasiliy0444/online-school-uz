@@ -1,0 +1,36 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.7,
+   "text": "Indi bold ingilisri orginal mimand o'qeyam bo seyiz taqtiyam. Biz aynan 25 yoshdan kattibolgan, ishli band adamlar uchun makhsuz speaking kursu qarganmiz."
+  },
+  {
+   "start": 9.1,
+   "end": 16.92,
+   "text": "Xaftasigi uch marotibiz. 80 dekikadan, ayolz bali sakki sakki zaynmdan bananbolgan, tor tilik tajribigi egi bolgan, oqs uchurarsizgi darsotadi."
+  },
+  {
+   "start": 17.42,
+   "end": 24.56,
+   "text": "Asos ufokus faqat speaking. Ushandisiz uch oydi, nuldan gapiradigan, chunadigan, bemra mulaqat qiladigan derecegi chikasiz."
+  },
+  {
+   "start": 24.56,
+   "end": 27.02,
+   "text": "Agar da qizq bosa, xozu roqmanish xavalonus digi basin"
+  },
+  {
+   "start": 27.02,
+   "end": 29.86,
+   "text": "Və siz giye mutaqaslarimiz bər qim armatlarına berisadir"
+  }
+ ],
+ "chars": 534,
+ "chars_per_s": 17.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

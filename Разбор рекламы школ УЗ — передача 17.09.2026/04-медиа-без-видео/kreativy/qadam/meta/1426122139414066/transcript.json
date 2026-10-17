@@ -1,0 +1,56 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.96,
+   "text": "Farzan tarbiyasini tashak koymastan, hayatu ge muas giladigan, tinchini buzmidigan ishi bolishini xar bir ayan orzu qiladi."
+  },
+  {
+   "start": 7.4,
+   "end": 10.24,
+   "text": "Xazir bunaka imkonyatlardan bittasi uzun marketigam."
+  },
+  {
+   "start": 11.34,
+   "end": 14.2,
+   "text": "Buna uydu otri, beye malol online sabda qilashmukun."
+  },
+  {
+   "start": 14.52,
+   "end": 18.82,
+   "text": "Maksulot tan liysiz, uzun ge cay liysiz, qolganini platformani orzu qiladi."
+  },
+  {
+   "start": 19.6,
+   "end": 22.84,
+   "text": "Shun arselan orgenisda sizge qadam edikishini yardan beradi."
+  },
+  {
+   "start": 23.02,
+   "end": 27.78,
+   "text": "Mangi in yokgani so ditaldi qadam ma qadan sizdi noldan daromad gechi ap chikishadi."
+  },
+  {
+   "start": 27.78,
+   "end": 32.02,
+   "text": "Agar vloyotdan turub okumakchi bolsangiz, onlayn platformada organichingiz mumkun."
+  },
+  {
+   "start": 32.22,
+   "end": 36.9,
+   "text": "Agar toshkende yashisangiz, shundo kasmanatlar metro yonada okub markez joyolashgan,"
+  },
+  {
+   "start": 37.2,
+   "end": 39.66,
+   "text": "gelib offlayn darslarda ishirokichingiz mumkun."
+  }
+ ],
+ "chars": 667,
+ "chars_per_s": 14.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

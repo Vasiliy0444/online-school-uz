@@ -1,0 +1,56 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.4,
+   "text": "Daromad ingiz faqad bitti biznis, ya'ki aylikga ba'alq bolib qalgan."
+  },
+  {
+   "start": 3.8,
+   "end": 6.96,
+   "text": "Bugun faqad bitti daromad, manbaziga tayanish, katsata waqgar."
+  },
+  {
+   "start": 7.18,
+   "end": 13.26,
+   "text": "Leki ikinchi biznis haqish, yangi khadimlar yollayish, o'ki yana bir cayda ishlaqish, xamman xam vaqdi yetmidi."
+  },
+  {
+   "start": 13.48,
+   "end": 18.98,
+   "text": "HBS Express kursidi, asasi ishizdi tashamastan, boş vaqtizdi aktibozonu taklil qilish,"
+  },
+  {
+   "start": 19.34,
+   "end": 24.32,
+   "text": "caiz aktiblani saralajbi kapitalingizni anix strategi asastı bosh qarishni organiziz."
+  },
+  {
+   "start": 24.32,
+   "end": 29.98,
+   "text": "1-i armali kurs Tashkent shakrda 15 kishlik kichi gurukta vat toruk offline formatda bolad."
+  },
+  {
+   "start": 30.12,
+   "end": 32.6,
+   "text": "Dramatinizin fakat bitda mambagya bağlab koymayin."
+  },
+  {
+   "start": 32.74,
+   "end": 36.18,
+   "text": "2-ci dramat yolini tasaduf bilan emaz, toguri bilin bilan basayin."
+  },
+  {
+   "start": 36.26,
+   "end": 39.2,
+   "text": "Batasil malamat alishchun, hazrak arizi qaldirayin."
+  }
+ ],
+ "chars": 678,
+ "chars_per_s": 17.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

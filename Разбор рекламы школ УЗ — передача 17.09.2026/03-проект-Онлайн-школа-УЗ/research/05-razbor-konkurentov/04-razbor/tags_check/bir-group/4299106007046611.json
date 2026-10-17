@@ -1,0 +1,110 @@
+{
+  "creative_id": "4299106007046611",
+  "platform": "meta",
+  "school_id": "bir-group",
+  "format": {
+    "type": "видео",
+    "duration_bucket": "31–60 с",
+    "aspect": "9:16"
+  },
+  "style": ["говорящая голова", "сток"],
+  "hook": {
+    "verbatim": "Maktabni ham bitirdingiz, endi musofirga borib 500 dollar, 600 dollar, 700 dollar oylik ishlamoqchi bo'lyapsizmi?",
+    "types": ["вопрос", "обращение к сегменту", "боль", "цифра"],
+    "visual": ["движение или смена кадра", "логотип бренда"],
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_hook.jpg 0.0s–2.5s: MAKTABNI HAM / BITIRDINGIZ, / ENDI MUSOFIRGA / BORIB (0.0–1.0s — рука с выпускной шапочкой, стоковый план)",
+        "timecode": "00:00"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_hook.jpg 1.5s: смена кадра на спикера за столом, на экране за ним логотип BIR TA'LIM",
+        "timecode": "00:01"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:06: BO'LYAPSIZMI?",
+        "timecode": "00:06"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Maktabni xan bitirdiniz endi musafirga barib 500 dolar, 600 dolar, 700 dolar o'yliki ishlamakchi bolayaksizmi?",
+        "timecode": "00:00"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["доход", "профессия будущего", "без опыта", "доверие и окупаемость"],
+    "income_claim": "oyiga 500 dollardan 1000 dollargacha (biz sizni 500 dollardan 1000 dollargacha bo'lgan ishlarga joylab qo'yamiz); o'quvchilarimiz shu vaqtgacha 600 million so'mlik daromadga chiqdi",
+    "evidence": [
+      {
+        "source": "расшифровка",
+        "quote": "Toqtayn biz sizni 500 dolar dan 1000 dolar gechi bolgen ishlarga joylip koyayamiz.",
+        "timecode": "00:07"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "o'yge 500 dolar dan 1000 dolar gechi topadigan daramatli kastlarini orgetip kiliyatmiz.",
+        "timecode": "00:21"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Umiimi okuvchilarimiz shuvak kechi 600 milion somlik daramatike chikti.",
+        "timecode": "00:26"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:19: ENG ZAMONAVIY",
+        "timecode": "00:19"
+      },
+      {
+        "source": "текст объявления",
+        "quote": "Zamonaviy kasbni 0 dan o‘rganing — BEPUL!"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:32: нарезка мероприятий с залом слушателей, на экране сцены «BIR TA'LIM - ta'limdan natijaga yo'l», субтитр LOYIHAMIZDA",
+        "timecode": "00:32"
+      }
+    ]
+  },
+  "offer": {
+    "items": ["бесплатный вебинар", "дедлайн или ограничение мест", "гарантия"],
+    "evidence": [
+      {
+        "source": "текст объявления",
+        "quote": "25-sentabr kuni onlayn taqdimot bo‘lib o‘tadi."
+      },
+      {
+        "source": "текст объявления",
+        "quote": "Buning uchun 500 ta grant ajratilgan."
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Agar sizxan 500 de grandtan barini YouTube olugisini istasangiz,",
+        "timecode": "00:37"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Bu bir talim loyxamizda bi pulga zamani vi kastlarini urgatamiz\n[00:35] va uzimiz ispilan tamirla biramiz.",
+        "timecode": "00:30"
+      }
+    ]
+  },
+  "cta": {
+    "button": "Learn more",
+    "in_creative": "бот или канал Telegram",
+    "destination": "лендинг",
+    "funnel_stage": "вебинар или мастер-класс"
+  },
+  "speaker": {
+    "role": "основатель или эксперт"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": true,
+  "risk": true,
+  "confidence": "средняя",
+  "notes": "Хук: начало фразы — субтитры на кадрах, продолжение («500 dollar, 600 dollar, 700 dollar oylik ishlamoqchi») — по расшифровке, написание исправлено; конец подтверждён кадром ~0:06. Суммы дохода по расшифровке, написание исправлено. Спикер говорит от лица проекта и как его автор («Biz bir talim loyikasini ishlab chikamiz», 00:14), имя и должность не звучат. «гарантия» — устное обещание трудоустройства без условий («biz sizni … ishlarga joylab qo'yamiz», «o'zimiz ish bilan ta'minlab beramiz»), слова kafolat нет. Грант на бесплатное обучение (500 грантов) — точного значения в enum нет, отмечен как «дедлайн или ограничение мест». Призыв в ролике: «padromne tukmasini basib Telegram kanalimizgi abunaboliyn» (00:45–00:48). Расхождение: ролик и текст зовут подписаться на Telegram-канал ради онлайн-презентации 25 сентября, а ссылка ведёт на лендинг bir-group-webinar.vercel.app. risk: обещание работы с доходом 500–1000 $ в месяц после бесплатного обучения. Перевод хука: «Окончили школу и теперь собираетесь уехать на заработки за 500–700 долларов в месяц?»"
+}

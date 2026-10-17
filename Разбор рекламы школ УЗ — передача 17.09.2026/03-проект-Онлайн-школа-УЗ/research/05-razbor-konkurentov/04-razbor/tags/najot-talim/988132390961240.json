@@ -1,0 +1,72 @@
+{
+ "creative_id": "988132390961240",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": ">120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "To'g'ri aytyapti. 100% qarsak chalib gapga...",
+  "types": [
+   "соцдоказательство",
+   "история"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.5s: субтитры «To'g'ri aytyapti» → «100% qarsak chalib» → «gapga» поверх молодого человека в чёрной водолазке; в нижней половине — тот же ведущий в бежевом, что и в других роликах серии",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Qorayta yatu, yus faiz.\n[00:00] Asishakoyla, shu yebtiya.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "быстрый старт",
+   "статус"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Kursni bitirmasdan Najot ta'limga ishga taklif qilingan yigit 🚀"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~1:13–1:42: подписи «Grafik Dizayn» и «bilan birga ishlab» — герой уже работает, совмещая с учёбой на курсе"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Visit Instagram profile",
+  "in_creative": "слово в комментарии",
+  "destination": "Instagram",
+  "funnel_stage": "директ"
+ },
+ "speaker": {
+  "role": "ученик"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "Отзыв ученика Muhammaddiyor (Farg'ona filial, Grafik dizayn), имя не выношу в speaker. Хук — фраза одобрения/аплодисментов от ведущего в адрес собеседника, тот же повторяющийся приём «qarsak chalib qo'yinglar» и тот же ведущий в бежевом, что и в 1617350793344143, 1087002090576562, 28276330625311410, 1934112251308153, 1392236889016218 — похоже на фирменный монтажный шаблон канала «najottalim_talabalari». Главный факт объявления — герой получил приглашение работать в Najot Ta'lim, не окончив курс, что подано как результат «быстрого старта»/статуса. Расшифровка на всём протяжении сильно искажена, поэтому confidence низкая; часть фраз в overview («opam o'qishga», «oxiri jonga tegdida») не расшифрована уверенно и не включена в evidence."
+}

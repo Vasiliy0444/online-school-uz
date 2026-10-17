@@ -1,0 +1,45 @@
+{
+ "library_id": "1366425478509152",
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language_arg": "uz",
+ "detected_language": "uz",
+ "seconds": 13.6,
+ "duration_s": 30.0,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.82,
+   "text": "Uzumarketda daramat kılmaksiz, lekin xatalardan korkayabsizm?"
+  },
+  {
+   "start": 3.82,
+   "end": 8.18,
+   "text": "Biz aynan siz uchun uzumarketda saada qilishbo uche Beeple video darsigda tayorlap chiktik."
+  },
+  {
+   "start": 8.26,
+   "end": 13.26,
+   "text": "Bu darsigda da siz uzumarketda kanda isboshlash, yangi sotuchila qladigan asosii xatalar,"
+  },
+  {
+   "start": 13.38,
+   "end": 16.1,
+   "text": "sotularini portlatadigan en samarili usullar,"
+  },
+  {
+   "start": 16.42,
+   "end": 21.12,
+   "text": "valbati saada onu tezraq boshlap, katta daramatka chixiz yullarini organib olasiz."
+  },
+  {
+   "start": 21.32,
+   "end": 25.56,
+   "text": "Bu darsila daramadizi oshirishdagi brinci va en muhum qadamlak soblanadi."
+  },
+  {
+   "start": 25.56,
+   "end": 29.82,
+   "text": "Uch bu darsiglarda oluchchun, hazro qidagi xavala orqali ruhatda otik."
+  }
+ ]
+}

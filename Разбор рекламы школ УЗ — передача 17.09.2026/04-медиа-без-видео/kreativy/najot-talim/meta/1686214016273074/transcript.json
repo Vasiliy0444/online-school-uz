@@ -1,0 +1,181 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.52,
+   "text": "O'qilizi guruh ye kirgan edib."
+  },
+  {
+   "start": 1.52,
+   "end": 3.52,
+   "text": "Sınıftegi en ala ucho uchi iken,"
+  },
+  {
+   "start": 3.52,
+   "end": 5.52,
+   "text": "shun yukchon siye chin dildan rahmat etish,"
+  },
+  {
+   "start": 5.52,
+   "end": 6.52,
+   "text": "shun telefon ki yin jayim edib."
+  },
+  {
+   "start": 6.52,
+   "end": 7.92,
+   "text": "Ismim Fustamov, Fustamca."
+  },
+  {
+   "start": 7.92,
+   "end": 8.42,
+   "text": "Nityors?"
+  },
+  {
+   "start": 8.42,
+   "end": 8.92,
+   "text": "Onaldi yash."
+  },
+  {
+   "start": 8.92,
+   "end": 10.44,
+   "text": "Qani ekip qalid, Najat Talimgi?"
+  },
+  {
+   "start": 10.44,
+   "end": 11.84,
+   "text": "Yudela, tagilif qilish kin."
+  },
+  {
+   "start": 11.84,
+   "end": 13.08,
+   "text": "Otorizmiz qilish adi ozi?"
+  },
+  {
+   "start": 13.08,
+   "end": 14.0,
+   "text": "Anam, tadbir qerli."
+  },
+  {
+   "start": 14.0,
+   "end": 14.76,
+   "text": "Dedi zilar chi?"
+  },
+  {
+   "start": 14.76,
+   "end": 15.4,
+   "text": "Oturpa qerli."
+  },
+  {
+   "start": 15.4,
+   "end": 17.04,
+   "text": "Nige ena nasibilash ki berdi sizi?"
+  },
+  {
+   "start": 17.04,
+   "end": 19.04,
+   "text": "Ozman, baash edi, chi cha qizdi qishin bugin."
+  },
+  {
+   "start": 19.04,
+   "end": 19.72,
+   "text": "Bugun chunm azi?"
+  },
+  {
+   "start": 19.72,
+   "end": 49.72,
+   "text": "Qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim, qalim qalim"
+  },
+  {
+   "start": 49.72,
+   "end": 52.98,
+   "text": "Onalar uchi ingilte sharal farzantilari hakqa da yaxchi gabilari yeshtish"
+  },
+  {
+   "start": 52.98,
+   "end": 54.36,
+   "text": "Ba bu boxlan ishi bulsun"
+  },
+  {
+   "start": 54.36,
+   "end": 57.16,
+   "text": "Enshu Allah, daqmalat salamat"
+  },
+  {
+   "start": 57.16,
+   "end": 58.16,
+   "text": "Ho bo lalat, salamat boli"
+  },
+  {
+   "start": 58.16,
+   "end": 58.96,
+   "text": "Maksatlar izdimi?"
+  },
+  {
+   "start": 58.96,
+   "end": 61.16,
+   "text": "Talor gana, Europa, yoki, Shetl, Shkash"
+  },
+  {
+   "start": 61.16,
+   "end": 64.06,
+   "text": "Unun sinapak yana, duniyoli in yaxchi nusnitlari ya xarkat ksiz bomidi mi?"
+  },
+  {
+   "start": 64.06,
+   "end": 65.66,
+   "text": "Unge xarkat isayami boladi"
+  },
+  {
+   "start": 65.66,
+   "end": 67.18,
+   "text": "Yo, maksat shuna qoyli shkiri, hazar"
+  },
+  {
+   "start": 67.18,
+   "end": 69.82,
+   "text": "Sozlari dan geplashi qiri, yoki, oizli blan maksat qoli shkiri"
+  },
+  {
+   "start": 69.82,
+   "end": 71.98,
+   "text": "Hazar, Dilar Shubza digan qizimiz yakinda gradiun"
+  },
+  {
+   "start": 71.98,
+   "end": 74.22,
+   "text": "Yana bir qizimiz, quali qizaygan qarar qiyuk."
+  },
+  {
+   "start": 74.22,
+   "end": 75.54,
+   "text": "Qelijaygiz bar, ingil sir qana qa?"
+  },
+  {
+   "start": 75.54,
+   "end": 77.9,
+   "text": "Ingil sir xala uqiganim ed, nem sir uqinim."
+  },
+  {
+   "start": 77.9,
+   "end": 78.78,
+   "text": "Ingil sir nem uqinim."
+  },
+  {
+   "start": 78.78,
+   "end": 80.22,
+   "text": "Oizar yaxmas, qati qib gulay."
+  },
+  {
+   "start": 80.22,
+   "end": 81.34,
+   "text": "Salam."
+  }
+ ],
+ "chars": 1485,
+ "chars_per_s": 17.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

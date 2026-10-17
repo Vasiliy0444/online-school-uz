@@ -1,0 +1,72 @@
+{
+ "creative_id": "1065826556147707",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": ">120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Nega ota-onangizdan pul so'ramayapsiz? — Yigirma yoshman bo'ladi, shu...",
+  "types": [
+   "вопрос",
+   "боль"
+  ],
+  "visual": [
+   "крупный текст",
+   "лицо в первом кадре",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.0s: субтитры «Nega ota-onangizda» → «pul so'ramayapsiz» поверх молодого человека в белой рубашке на тёмном фоне; на 1.5–2.5s смена на другого юношу в кабинете с субтитрами «20 yoshman bo'ladi» → «shu shu vaqtgacha»"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Negi otan izden bu sorumay hapsiz?\n[00:01] 20 yashman boladi, shu agadon bakkallarina rakhmayib.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для регионов",
+   "доверие и окупаемость"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Choyxonada ishlab, kurs pulini to'layman 🔥 Xorazm filialimiz o'quvchisi Ibratbek hozirda dasturlash kursida o'qib, kurs pulini ham o'zi to'laydi."
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:13: плашка «NAJOT TA'LIM markazi — Xorazm filiali — 78-888-9-888»"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Visit Instagram profile",
+  "in_creative": "слово в комментарии",
+  "destination": "Instagram",
+  "funnel_stage": "директ"
+ },
+ "speaker": {
+  "role": "ученик"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "Отзыв ученика Ibratbek (Xorazm filiali), имя не выношу в speaker. В хуке неясно, кто именно задаёт вопрос про родителей — интервьюер за кадром или сам герой цитирует чужой вопрос перед ответом; кадром подтверждён только текст, не роли говорящих. На 1.5s происходит смена кадра на другого молодого человека (предположительно тоже Ibratbek, в другой сцене — аудитория с одноклассниками) — расхождение по внешности между двумя частями хука отмечаю как неоднозначность монтажа. Расшифровка на 102 с крайне искажена, детали про работу в чайхане (choyxona) не встретились в разборчивом виде — использован только текст объявления. Оффера нет."
+}

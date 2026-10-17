@@ -1,0 +1,56 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.96,
+   "text": "Oqoochimiz uzun marketi uyroz horbiblarini sotib 15 milion aylanmagi chikdi."
+  },
+  {
+   "start": 4.08,
+   "end": 7.7,
+   "text": "Agar siz xam uzun marketi daromadda moqchi bolsanyiz, bu vizyonu ohrigechi korin."
+  },
+  {
+   "start": 8.0,
+   "end": 10.64,
+   "text": "Bu tasalifi youtube qimas, bu buzni metodikamis naticasyadad."
+  },
+  {
+   "start": 10.8,
+   "end": 14.28,
+   "text": "Bu metodika orqali biz 2 mina ortoq oqoochilargi talim berib gelmaktamiz."
+  },
+  {
+   "start": 14.56,
+   "end": 17.14,
+   "text": "Buzni kursimizdi siz daromatli maksilatlarini talilashini,"
+  },
+  {
+   "start": 17.26,
+   "end": 20.34,
+   "text": "Xtoydan olip gelishini, dukonigisini togri royhatna otkazishini,"
+  },
+  {
+   "start": 20.42,
+   "end": 22.24,
+   "text": "noldan bozkishima bozkish organasiz."
+  },
+  {
+   "start": 22.24,
+   "end": 25.26,
+   "text": "Yangi guruklargi qabul ochiq, amma orillar sona cheklengan."
+  },
+  {
+   "start": 25.26,
+   "end": 28.14,
+   "text": "Xozurog Ariza Coldering ba uzun marketa daromat qilashni boshlayn."
+  }
+ ],
+ "chars": 582,
+ "chars_per_s": 20.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

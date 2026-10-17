@@ -1,0 +1,81 @@
+{
+  "creative_id": "1684409222990072",
+  "platform": "meta",
+  "school_id": "qadam",
+  "format": {
+    "type": "видео",
+    "duration_bucket": "16–30 с",
+    "aspect": "9:16"
+  },
+  "style": ["говорящая голова", "анимация", "запись экрана"],
+  "hook": {
+    "verbatim": "Uzum Marketda savdo qilishni xohlaysiz, lekin mahsulot olishga pulingiz yo'qmi?",
+    "types": ["вопрос", "боль", "обращение к сегменту"],
+    "visual": ["лицо в первом кадре", "логотип площадки (Uzum и т.п.)", "таймер или обратный отсчёт"],
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_hook.jpg 0.0s: логотип Uzum (фиолетовый круг с U), таймер 00:35, пометка 21+; 1.0s–1.5s: SAVDO QILISHNI XOHLAYSIZ; 2.0s–2.5s: MAHSULOT OLISHGA; таймер 00:34→00:32",
+        "timecode": "00:00"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Uzunmarketi sodiqilish xaxlihsis, lekin naqsilat alishke puliziyomu?",
+        "timecode": "00:00"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["без стартового капитала", "доход", "без опыта", "свой бизнес"],
+    "income_claim": "$1 000 OYLIK DAROMAD; oyiga stabil $1000 daromad",
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:11: 0 DAN DAROMADGA CHIQ",
+        "timecode": "00:11"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:18: $1 000 OYLIK DAROMAD",
+        "timecode": "00:18"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "i undan tashkara aygi stabili nin min doldi daromad tapishi yoli orgetilinadi.",
+        "timecode": "00:14"
+      },
+      {
+        "source": "текст объявления",
+        "quote": "oyiga stabil $1000 daromad topishni o'rganib olasiz"
+      }
+    ]
+  },
+  "offer": {
+    "items": ["лид-магнит (PDF, гайд)"],
+    "evidence": [
+      {
+        "source": "расшифровка",
+        "quote": "Biz aynin siz uchun Beeple PDF kollemme tayyarladiyi.",
+        "timecode": "00:04"
+      },
+      {
+        "source": "текст объявления",
+        "quote": "📥 Uzum Market’da 0 dan savdo boshlash bo‘yicha bepul PDF qo‘llanma"
+      }
+    ]
+  },
+  "cta": {
+    "button": "Learn more",
+    "in_creative": "бот или канал Telegram",
+    "destination": "лендинг",
+    "funnel_stage": "лид-магнит"
+  },
+  "speaker": {
+    "role": "актёр или ведущий"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": true,
+  "risk": true,
+  "confidence": "высокая",
+  "notes": "Хук по субтитрам на кадрах + речь (по расшифровке, написание исправлено). Таймер в углу отсчитывает секунды (00:35→00:10 к ~0:25), пометка 21+; анимации — горящая купюра, логотип Uzum. Ведущий говорит от лица школы («biz… tayyarladik»), как основатель или эксперт не представлен, имя не звучит. Лид-магнит — бесплатный PDF-гайд: как с нуля выйти на доход на Uzum Market, избежать ошибок новичков и получать стабильные $1000 в месяц. На скриншоте Telegram-канала «Qadam | Uzum Market» (~0:25) видна запись про эфир «Bugun soat 20:00 da» — это содержимое канала, в офферы не включено. Расхождение: ролик зовёт перейти в Telegram-канал за PDF («xaziroq kanalimizgi otiin», 00:22), а ссылка ведёт на лендинг qadam.education/uzum-pdf (в тексте объявления — «havola orqali ariza qoldiring va kanalimizga o‘ting»). risk: «нет денег на товар — а доход стабильные $1000 в месяц с нуля». Перевод хука: «Хотите торговать на Uzum Market, но нет денег на закупку товара?»"
+}

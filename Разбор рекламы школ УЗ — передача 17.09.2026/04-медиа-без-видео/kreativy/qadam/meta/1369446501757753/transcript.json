@@ -1,0 +1,56 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.7,
+   "text": "Oqoochimiz uzun marketta ayolar uchun gozalik maksulatlarini satib 38 milyon aylami qildi."
+  },
+  {
+   "start": 4.9,
+   "end": 8.32,
+   "text": "Agar siz khan uzun marketta daromadda obmokchi bolisanyiz, videonu okhirgechi korin."
+  },
+  {
+   "start": 8.6,
+   "end": 11.22,
+   "text": "Bu tasolifi YouTube qimas, bu buzin gitozikamiz natijasidir."
+  },
+  {
+   "start": 11.42,
+   "end": 14.88,
+   "text": "Bu mitozika orqali biz 2.000-a ortoq oqoochilargi talim berib gelmoktamiz."
+  },
+  {
+   "start": 15.14,
+   "end": 17.74,
+   "text": "Buzin kursimizdi siz daromatli maksulatlarini talilashini,"
+  },
+  {
+   "start": 17.86,
+   "end": 20.94,
+   "text": "Xitaydan olip gelishini, dokonigisini togri royhatna otkazishini,"
+  },
+  {
+   "start": 21.02,
+   "end": 22.84,
+   "text": "noldan boskishima boskish organasiz."
+  },
+  {
+   "start": 22.84,
+   "end": 25.88,
+   "text": "Yangi guruklargi kabul ocik, amma orillar sana cheklengan."
+  },
+  {
+   "start": 25.98,
+   "end": 28.76,
+   "text": "Khazirov ariza qoldirin ba uzun marketa daromat qilashini boshlayin."
+  }
+ ],
+ "chars": 601,
+ "chars_per_s": 20.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

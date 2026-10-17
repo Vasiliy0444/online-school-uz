@@ -1,0 +1,41 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.5,
+   "text": "International School and John Filiali ge oz ishene ustasi bolgen professional ingilis tıl ustazlarini taklif qiladi."
+  },
+  {
+   "start": 6.9,
+   "end": 11.52,
+   "text": "Agar da siz darslarini drive blan ota olsangiz, yagana talabini bacargan bolasiz."
+  },
+  {
+   "start": 12.16,
+   "end": 17.38,
+   "text": "Ish saati 6 saat, aylik mağashlari esay 23 milyon somdan 43 yarim milyon som gechi."
+  },
+  {
+   "start": 17.9,
+   "end": 23.72,
+   "text": "Siz talabalarimizi natijigi alip chika olsangiz, demayk xaziroq havalar kali oz izmengizni yubarin."
+  },
+  {
+   "start": 23.72,
+   "end": 29.22,
+   "text": "International School and John Filiali ge oz ish haqida gaplashamiz."
+  },
+  {
+   "start": 30.0,
+   "end": 34.42,
+   "text": "Thank you for watching!"
+  }
+ ],
+ "chars": 474,
+ "chars_per_s": 13.7,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

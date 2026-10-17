@@ -1,0 +1,92 @@
+{
+ "creative_id": "1091767420178834",
+ "platform": "meta",
+ "school_id": "englify",
+ "ad_goal": "найм сотрудников",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "Toshkent viloyati, Yangi Bozor va Parkent tumanida yashaydiganlar uchun...",
+  "types": [
+   "обращение к сегменту",
+   "новость"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.0s: «TOSHKENT» / «VILOYATI» / «YANGI BOZOR VA»; мужчина в учебном классе (карта мира, постер Pulp Fiction, азбука)",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.5s–2.5s: «PARKENT» / «YASHAYDIGANLAR»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Toshkin vilayati, yangi bozar va parken tumani da yashi digali ujun acaib ingiligimizda bor.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "стабильность",
+   "без опыта"
+  ],
+  "income_claim": "o'rtacha 5-6 million so'm oylik (fix + bonus), top 100gacha o'sish imkoniyati (по расшифровке, черновое качество, суммы кадром не подтверждены)",
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Bu siz uchun yangi kasb, yangi ko'nikma va barqaror daromad bo'lishi mumkin."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:24] Oylik bose fix va bonus isabidi boladi.",
+    "timecode": "00:24"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:27] ortache 5-6 milion, yukimdan yukaryan top 100 mokun bunu parhchasi ozizge balog.",
+    "timecode": "00:27"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:32] Tolg manim otamakchi boziz, ushbu xawal orqari otin, biz gyaloqaga chqin, agar da toguri kesiz.",
+    "timecode": "00:32"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Вакансия менеджера по продажам в новый офис Englify (Паркентский район), а не продажа обучения — проставлен ad_goal «найм сотрудников», в долю по курсам не входит. Ссылка ведёт на forms.gle (гугл-форма) — трактую как «заполнить форму»/«лендинг» (в схеме нет отдельной категории «форма Google», только «форма Meta» для fb.me — это неоднозначное место схемы). Зарплата (5-6 млн сум + бонусы, возможность войти в топ-100) — только по черновой расшифровке, цифры не подтверждены кадром, поэтому в income_claim с пометкой источника. Формулировка про «топ-100» похожа на рейтинг/бонусную сетку менеджеров по продажам — это обычная практика для отдела продаж, а не обещание гарантированного дохода, поэтому risk=false, но стоит иметь в виду при агрегации. funnel_stage не проставлен — ни один из вариантов схемы (лид-магнит/вебинар/трипвайер/продукт/оферта/Telegram/директ) не описывает вакансию."
+}

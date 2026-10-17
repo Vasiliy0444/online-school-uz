@@ -1,0 +1,75 @@
+{
+ "url": "https://apply.englify.uz/listeningwithmike",
+ "school_id": "englify",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "лид-магнит",
+ "builder": "Astro (шаблон AstroWind от onWidget)",
+ "pixels": [
+  "Google Analytics (GA4)",
+  "Meta Pixel",
+  "Яндекс.Метрика"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Скачать книгу «Listening practice through dictation» (аудирование через диктанты) за имя и телефон",
+  "quote": "Kitobni yuklab olish\n\"Listening practice through dictation\" kitobini yuklab olish uchun ismingiz va raqamingizni yozib qoldiring!",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "program": {
+  "found": false
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [
+   "нет"
+  ]
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "лид-магнит: книгу выдают за имя и телефон; цены нет, слово «bepul» — только у консультации в бонусах"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": true,
+  "value": "К книге — бесплатная консультация и демо-урок",
+  "quote": "Bonus:\n- Bepul konsultatsiya\n- Demo darslik",
+  "where": "первый экран"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "имя",
+   "телефон"
+  ]
+ },
+ "next_step": "неизвестно",
+ "closed": true,
+ "notes": "Лид-магнит на поддомене apply.englify.uz (title «Englify Online Maktabi», каноническая ссылка — register.englify.uz/listeningwithmike); в Wayback — с 23.10.2025, в снимке 16.09.2026 страница жива. Весь экран: логотип, слайдер (на скриншоте — фото преподавателя в очках с книгами и подпись «Toza amerikancha darslar»), заголовок «Kitobni yuklab olish», текст про книгу, «Bonus: - Bepul konsultatsiya - Demo darslik», поля «Ismingiz va Familiyangiz» и телефон (плейсхолдер +998…), кнопка «Ro‘yxatdan o‘tish», согласие с офертой englify.uz/public-offer. Имя автора книги или ведущего на странице не указано — «Mike» только в адресе (среди наставников на главной есть «Mr.Mike», на web.englify.uz — «Mr Mike, Teacher»), поэтому speaker не заполнен. Цены, программы, отзывов и дедлайна нет. Как выдают книгу (SMS, Telegram, звонок), не сказано — next_step «неизвестно»; обещанная «Bepul konsultatsiya» означает контакт с менеджером; closed = true (дальше заявка). Объявлений Meta на эту страницу в ads_meta.csv нет — трафик, видимо, из других каналов. Корень apply.englify.uz (title и заголовок «Englify ro'yxatdan o'tish sistemasi») — пустая заставка с логотипом, без формы и ссылок (104 символа текста), отдельно не разбирался; вебинаров и других заявок на apply.englify.uz в снимках нет — вебинарная воронка сейчас на mini-web.englify.uz (разборы mini-web-*). Техника: Astro — в HTML комментарий шаблона AstroWind «Comment the line below to disable View Transitions», twitter @onwidget; в intel.json GA4 и Meta Pixel, Яндекс.Метрика — по HTML-комментарию."
+}

@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.02,
+   "text": "Tiziyan plus, olik techi yetmiyabti ma?"
+  },
+  {
+   "start": 2.02,
+   "end": 8.02,
+   "text": "Xam maras xotlarizi qopilidigan, bit de kasi borsi zor bolar diye, bar bit tashina qasdan."
+  },
+  {
+   "start": 8.02,
+   "end": 11.02,
+   "text": "Xazir sizke zor narsi korsitaman Headhunter vacansalar saytidan,"
+  },
+  {
+   "start": 11.02,
+   "end": 16.02,
+   "text": "interior designerlar uchun kampanyalar 400 dolordan 1200 dolorgache tolashke tayyar."
+  },
+  {
+   "start": 16.02,
+   "end": 18.02,
+   "text": "Bu kaskin nisi, siz 6 aychili oriyan sanygiz boladi,"
+  },
+  {
+   "start": 18.02,
+   "end": 23.02,
+   "text": "va 3 ay web polamalyot va 100 fois ishki jolashizike folatini biz beremiz."
+  },
+  {
+   "start": 23.02,
+   "end": 27.02,
+   "text": "Shuu xafta, interior design bochiya mutsoqo web pola uchki darsi boli botadi."
+  },
+  {
+   "start": 27.02,
+   "end": 30.1,
+   "text": "Roj khatdaqdushchun, xozroq basayga xabarilani basayin."
+  }
+ ],
+ "chars": 542,
+ "chars_per_s": 17.9,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

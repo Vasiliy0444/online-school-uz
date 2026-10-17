@@ -1,0 +1,36 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.0,
+   "text": "Gechiraz, sizdini kompyturnin bulmayazi uchini ishalib bulunis."
+  },
+  {
+   "start": 5.0,
+   "end": 8.0,
+   "text": "Sizam suxalatati uchini xaqlamasaz, tezra kompyturnin urganishini baslan."
+  },
+  {
+   "start": 8.0,
+   "end": 12.0,
+   "text": "Bunda ista, Nazot Taliminin 3 aylik kompytur savathanlik kursi yardan baradi."
+  },
+  {
+   "start": 12.0,
+   "end": 15.0,
+   "text": "Bu kursumuzdan kiynisiz, kompyturnin uyanamdan girib, banondan iskik itayiz."
+  },
+  {
+   "start": 15.0,
+   "end": 18.0,
+   "text": "Toluk raqim alimati alish uchini, quydarki linkini basin."
+  }
+ ],
+ "chars": 350,
+ "chars_per_s": 19.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,80 @@
+{
+ "creative_id": "1609467944038254",
+ "platform": "meta",
+ "school_id": "logist-academy",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "ENDI OYIGA $2000 - $3000 DIPLOMSIZ VA 18-30 YOSHDA INGLIZ TILINI BILSANGIZ",
+  "types": [
+   "цифра",
+   "результат или доход"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: неизменный бейдж «ENDI OYIGA $2000 - $3000 DIPLOMSIZ VA 18-30 YOSHDA INGLIZ TILINI BILSANGIZ»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:02] Ular aygi 2000-3000-5000$ liyadchi.",
+    "timecode": "00:02"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта",
+   "быстрый старт"
+  ],
+  "income_claim": "$2000-3000 oyiga, diplomsiz (кадр); 2000-3000-5000$ (по черновой расшифровке, об учениках)",
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:20] En qizigi ular universiteti oqidi. [00:22] Diplomun ariyam yok. [00:24] Hich kanaka. [00:26] Hich kanaka IELTS sertifikat ham keremaz.",
+    "timecode": "00:20"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Joylar: Atigi 10 ta! Bugun ro'yxatdan o'tmasangiz, ertaga joy qolmasligi mumkin."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Joylar: Atigi 10 ta! Bugun ro'yxatdan o'tmasangiz, ertaga joy qolmasligi mumkin."
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "средняя",
+ "notes": "Хук — точная сумма + возрастная вилка + явное «без диплома», расшифровка усиливает («ни диплома, ни сертификата IELTS не нужно») — классический для этой школы набор признаков избыточно уверенного обещания дохода, risk=true. Текст объявления — общий шаблон «Amerika logistikasida…», совпадает ещё с 11 креативами порции."
+}

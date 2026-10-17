@@ -1,0 +1,87 @@
+{
+ "creative_id": "1965422631083667",
+ "platform": "meta",
+ "school_id": "hbs-academy",
+ "format": {
+  "type": "динамическое (DCO)",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "слайды или текст на экране",
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Pul yig'ndingiz. Saqlash emas — investitsiya.",
+  "types": [
+   "запрет или ошибка",
+   "результат или доход"
+  ],
+  "visual": [
+   "деньги или результат на экране",
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.5s: «Pul yig'ndingiz» поверх кадра с чемоданом, полным пачек долларов, рука тянется за деньгами; 2.0s–2.5s: «saqlash emas» → «saqlash emas investitsiya»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Buliyyih dis, enduni, shun chaki saklaxamiz, inisisi qilish haqda oyla asmiz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "доверие и окупаемость"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 1 из 4 (~0:06): «aksiya sotib olishni o'zi»; кадр 2 (~0:17): «mashhur, yoki hamma olayabdi»",
+    "timecode": "00:06"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:14] Mag bu kampanyan mashvor, yoki xamma o ati digan sababla, pul tikish, dor randash uyemaz.",
+    "timecode": "00:14"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:24] HBS Express kursidi siz aksilani tahlil kiliş, caiz aktiflani saralab aliş, savda kriş noktasini anıqliş və kapitalizdi toğru başkajşı orginasiz.",
+    "timecode": "00:24"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:38] Aval kayirgi və nimo uçu politiki atkenizini bilib tushinib alin, HBS kursigi hazurab ariza xaldirin.",
+    "timecode": "00:38"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "основатель или эксперт"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "средняя",
+ "notes": "risk = true по правилу инструкции для трейдинга и инвестиций (приведено к одному виду 17.09). ad_text у этого креатива пустой — разметка только по кадрам и расшифровке. Хук читается по кадрам почти дословно (жёлтые/белые титры), сильный визуал: чемодан с пачками долларов, рука тянется за деньгами. Тело ролика (расшифровка, черновая) — предостережение не покупать акции только потому что компания «на слуху», а сначала анализировать компанию и рынок; упоминаются «joiz/caiz aktivlar» (дозволенные/халяльные активы) — та же религиозно-этическая рамка, что и в 1066810239141010. Курс назван «HBS Express kurs», Ташкент, офлайн, «bir yarim oy» (полтора месяца) — длительность отличается от 1414192133914470, где длительность курса не названа. Конкретных цифр дохода нет, поэтому risk=false, хотя тема — торговля акциями. Спикер не представляется по имени."
+}

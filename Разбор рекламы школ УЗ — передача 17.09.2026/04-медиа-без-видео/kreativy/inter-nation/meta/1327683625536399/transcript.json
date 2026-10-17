@@ -1,0 +1,106 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.32,
+   "text": "Man Samakkan Daulat Unirsuti'nin bugunchi kurs talabasyma."
+  },
+  {
+   "start": 3.32,
+   "end": 5.92,
+   "text": "O'qishimiz o'qir, kob darslar amanotlar."
+  },
+  {
+   "start": 5.92,
+   "end": 8.32,
+   "text": "Lekin shunge qarimasan, atigi 5 oy oqib,"
+  },
+  {
+   "start": 8.32,
+   "end": 10.44,
+   "text": "ayiltsi yetti bal natijani qolgi hirttim."
+  },
+  {
+   "start": 10.44,
+   "end": 12.6,
+   "text": "Manin ismim Rozuk Canof Daulatbey."
+  },
+  {
+   "start": 12.6,
+   "end": 14.96,
+   "text": "Iyul 17 yaqin dosininin nasla hatibilan"
+  },
+  {
+   "start": 14.96,
+   "end": 16.76,
+   "text": "International Ukul Markazyga keldim."
+  },
+  {
+   "start": 16.76,
+   "end": 19.36,
+   "text": "Mani darxol ayiltski roxige qabul qilishti."
+  },
+  {
+   "start": 19.36,
+   "end": 22.84,
+   "text": "Man Mr. Aziz va Miss Khadija darslaridan talim oldim."
+  },
+  {
+   "start": 22.84,
+   "end": 25.28,
+   "text": "Ularinin interaktiv va tushunagli darslari"
+  },
+  {
+   "start": 25.28,
+   "end": 27.48,
+   "text": "mangi tez rojnanshimgi yordan verdi."
+  },
+  {
+   "start": 27.48,
+   "end": 31.94,
+   "text": "Mangi bi pul utkaziladigan IELTS mock imtukonlari ham jude katta yordam verdi."
+  },
+  {
+   "start": 31.94,
+   "end": 36.04,
+   "text": "Yetta olganimdan song, International mangi sakkyuz mingsum cashback verdi."
+  },
+  {
+   "start": 36.34,
+   "end": 38.76,
+   "text": "Bu esan atijam uchun yakumli bonus buldi."
+  },
+  {
+   "start": 39.04,
+   "end": 42.62,
+   "text": "Hazırda man, Tıbyat Üniversiteti da okushmina davam ettirmoktaman."
+  },
+  {
+   "start": 42.96,
+   "end": 47.18,
+   "text": "Maksadım, kelecaqda uz mutahassizligin boyiqe yetokshi fokor bulish."
+  },
+  {
+   "start": 47.64,
+   "end": 51.9,
+   "text": "IELTS 7-tü tufayli indiman, nomdok stipenziyalargi ham davagarlik kula olana."
+  },
+  {
+   "start": 52.16,
+   "end": 55.56,
+   "text": "Partiya imkönetler uchun, International jamuasiga kattar ahmad."
+  },
+  {
+   "start": 55.56,
+   "end": 59.08,
+   "text": "Ayak ingilisdilini ugen moqchi bolsanigiz, faqad International."
+  }
+ ],
+ "chars": 1010,
+ "chars_per_s": 15.8,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,36 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.34,
+   "text": "Agar sizni xam farzantingiz makitabtan keli PUBG va shungi oqshash oyillar bilan kunini yarimi notkezi otkan bolsa,"
+  },
+  {
+   "start": 6.6,
+   "end": 11.2,
+   "text": "kelin sizgi yaxshi berta gilifderiman IT House Foundation Kids kurslar ge start berdi."
+  },
+  {
+   "start": 11.54,
+   "end": 16.14,
+   "text": "Kursda wamadi farzantingiz ofis tasturlara, kanva va figma, telegram bot yaratish,"
+  },
+  {
+   "start": 16.42,
+   "end": 18.3,
+   "text": "sunintiliktan tograf oydalanisna orgenishadi."
+  },
+  {
+   "start": 18.3,
+   "end": 22.9,
+   "text": "Kurs haqda batafsil mal notkerik bolsa, xozroq bastigi xava ola orqali rohatan otin."
+  }
+ ],
+ "chars": 416,
+ "chars_per_s": 18.0,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,300 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Разбор одного лендинга",
+  "description": "Агент заполняет по page.md (текст страницы), скриншоту и intel.json (landing-page-intel). У каждого поля — значение, дословная цитата и место на странице. Если поля на странице нет — found=false, а не догадка. Цифры школы о себе (ученики, доходы) — самоотчёт.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "url",
+    "school_id",
+    "stage",
+    "promise",
+    "audience",
+    "program",
+    "speaker",
+    "social_proof",
+    "price",
+    "installments",
+    "guarantee",
+    "bonuses",
+    "deadline",
+    "form",
+    "next_step",
+    "closed"
+  ],
+  "$defs": {
+    "field": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "found"
+      ],
+      "properties": {
+        "found": {
+          "type": "boolean"
+        },
+        "value": {
+          "type": "string"
+        },
+        "quote": {
+          "type": "string",
+          "description": "дословно со страницы"
+        },
+        "where": {
+          "enum": [
+            "первый экран",
+            "середина",
+            "низ страницы",
+            "всплывающее окно",
+            "оферта",
+            "не найдено"
+          ]
+        }
+      }
+    }
+  },
+  "properties": {
+    "url": {
+      "type": "string"
+    },
+    "school_id": {
+      "type": "string"
+    },
+    "snapshot_date": {
+      "type": "string",
+      "description": "дата живого снимка или архивного (Wayback)"
+    },
+    "is_archive": {
+      "type": "boolean"
+    },
+    "stage": {
+      "enum": [
+        "лид-магнит",
+        "вебинар или мастер-класс",
+        "мини-курс или трипвайер",
+        "основной продукт",
+        "заявка или консультация",
+        "оферта или оплата",
+        "страница спасибо",
+        "квиз",
+        "главная или каталог",
+        "прочее"
+      ]
+    },
+    "builder": {
+      "type": "string",
+      "description": "Tilda, Next.js на vercel, lovable.dev, своя сборка — из intel.json"
+    },
+    "pixels": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "promise": {
+      "$ref": "#/$defs/field"
+    },
+    "income_claim": {
+      "$ref": "#/$defs/field"
+    },
+    "audience": {
+      "$ref": "#/$defs/field"
+    },
+    "program": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "found"
+      ],
+      "properties": {
+        "found": {
+          "type": "boolean"
+        },
+        "modules": {
+          "type": "integer"
+        },
+        "lessons": {
+          "type": "integer"
+        },
+        "duration": {
+          "type": "string"
+        },
+        "format": {
+          "enum": [
+            "онлайн",
+            "офлайн",
+            "гибрид",
+            "неизвестно"
+          ]
+        },
+        "quote": {
+          "type": "string"
+        }
+      }
+    },
+    "speaker": {
+      "$ref": "#/$defs/field"
+    },
+    "social_proof": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "types"
+      ],
+      "properties": {
+        "types": {
+          "type": "array",
+          "items": {
+            "enum": [
+              "число учеников",
+              "текстовые отзывы",
+              "видеоотзывы",
+              "скриншоты доходов",
+              "рейтинг площадки",
+              "логотипы работодателей",
+              "СМИ",
+              "нет"
+            ]
+          }
+        },
+        "count_claim": {
+          "type": "string",
+          "description": "например «25 340 учеников» — самоотчёт"
+        },
+        "reviews_count": {
+          "type": "integer",
+          "description": "сколько отзывов на странице — без имён и фото учеников"
+        }
+      }
+    },
+    "price": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "found"
+      ],
+      "properties": {
+        "found": {
+          "type": "boolean"
+        },
+        "tariffs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "name",
+              "price_uzs"
+            ],
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "price_uzs": {
+                "type": "integer"
+              },
+              "old_price_uzs": {
+                "type": "integer"
+              },
+              "period": {
+                "type": "string"
+              },
+              "quote": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "hidden_reason": {
+          "type": "string",
+          "description": "почему цены нет: «после вебинара», «в личном кабинете», «в директ»"
+        }
+      }
+    },
+    "installments": {
+      "$ref": "#/$defs/field"
+    },
+    "guarantee": {
+      "$ref": "#/$defs/field"
+    },
+    "discounts": {
+      "$ref": "#/$defs/field",
+      "description": "скидки, акции, гранты и субсидии на оплату — дословно"
+    },
+    "bonuses": {
+      "$ref": "#/$defs/field"
+    },
+    "deadline": {
+      "$ref": "#/$defs/field"
+    },
+    "form": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "present"
+      ],
+      "properties": {
+        "present": {
+          "type": "boolean"
+        },
+        "fields": {
+          "type": "array",
+          "items": {
+            "enum": [
+              "имя",
+              "телефон",
+              "email",
+              "Telegram",
+              "город",
+              "возраст",
+              "квиз-вопросы",
+              "другое"
+            ]
+          }
+        }
+      }
+    },
+    "next_step": {
+      "enum": [
+        "Telegram-бот",
+        "Telegram-канал",
+        "звонок менеджера",
+        "страница оплаты",
+        "вебинарная комната",
+        "личный кабинет",
+        "директ Instagram",
+        "неизвестно"
+      ]
+    },
+    "closed": {
+      "type": "boolean",
+      "description": "дальше — регистрация, бот или оплата: не проходим"
+    },
+    "message_match": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "library_id": {
+          "type": "string"
+        },
+        "scores": {
+          "type": "object",
+          "description": "6 измерений ad-to-landing-page-auditor, по 10 баллов",
+          "additionalProperties": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 10
+          }
+        },
+        "total_of_60": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 60
+        }
+      }
+    },
+    "notes": {
+      "type": "string"
+    }
+  }
+}

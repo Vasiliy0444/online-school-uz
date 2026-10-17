@@ -1,0 +1,66 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.52,
+   "text": "Engilis talini birinik ishmatda borslap, zirikita shab qoygansiz."
+  },
+  {
+   "start": 2.52,
+   "end": 4.52,
+   "text": "Legin, gapisidamaz, migi ozu shuna qishidi."
+  },
+  {
+   "start": 4.52,
+   "end": 7.52,
+   "text": "Grammatiki soziotlashlarina ozu zirikihli."
+  },
+  {
+   "start": 7.52,
+   "end": 12.52,
+   "text": "Eni siz olarki koshin chagilip, kimni o podcastlar va sevgin sohqoyizdigi videolarini koshiz kiri."
+  },
+  {
+   "start": 12.52,
+   "end": 13.52,
+   "text": "Ana shunda nateji boladi."
+  },
+  {
+   "start": 13.52,
+   "end": 16.52,
+   "text": "Man tijirazam, onunchilik tajiribagi egi Engilis tali otutsiman"
+  },
+  {
+   "start": 16.52,
+   "end": 19.52,
+   "text": "fay yirmikinch, yirmuchinch, yirmadortinch Sintiabur kullari"
+  },
+  {
+   "start": 19.52,
+   "end": 21.52,
+   "text": "Beepool online masterclass taashkilashdiri yapman."
+  },
+  {
+   "start": 21.52,
+   "end": 26.24,
+   "text": "bu masebkrasta ingilislarini, ziyarikishilarsiz, samarali urgan shoylarini ur getirmat."
+  },
+  {
+   "start": 26.38,
+   "end": 29.86,
+   "text": "Masebkrasta qatnazish mutlaka bepul, faqat xavala usluge basib roy qatna uting"
+  },
+  {
+   "start": 29.86,
+   "end": 31.9,
+   "text": "vay yapig telgram kanalimgi koshilib alay."
+  }
+ ],
+ "chars": 663,
+ "chars_per_s": 20.6,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

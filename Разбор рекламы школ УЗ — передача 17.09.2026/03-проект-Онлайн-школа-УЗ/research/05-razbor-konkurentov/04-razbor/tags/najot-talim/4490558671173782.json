@@ -1,0 +1,65 @@
+{
+ "creative_id": "4490558671173782",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "картинка",
+  "duration_bucket": "не видео",
+  "aspect": "9:16"
+ },
+ "style": [
+  "статичный дизайн"
+ ],
+ "hook": {
+  "verbatim": "Toshkentda SMM kursi narxi qancha?",
+  "types": [
+   "вопрос"
+  ],
+  "visual": [
+   "крупный текст",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: заголовок «Toshkentda SMM kursi narxi qancha?», ниже «Batafsil ma'lumot olish» со стрелкой вниз, вверху лого NAJOT TA'LIM — тот же шаблон, что у 956928187004755 и 1269552338463876"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Ijtimoiy tarmoqlarda faqat scroll qilib vaqt o'tkazasizmi? Endi ularni daromad manbaiga aylantirish vaqti keldi!"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Najot Ta'limda SMM kurslari bo'yicha ochiq darslar boshlandi... Ustozlardan bepul maslahat olasiz... Joylar soni cheklangan!"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "никого"
+ },
+ "language": "узбекский латиница",
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Третий вариант того же статичного шаблона «Toshkentda [курс] narxi qancha?» (после Kiberxavfsizlik и Mobilografiya). В отличие от них текст объявления зовёт на бесплатный открытый урок («ochiq darsda ishtirok eting», «Ustozlardan bepul maslahat olasiz») с ограничением мест («Joylar soni cheklangan!») — тегирую бесплатный вебинар и дедлайн/ограничение мест, funnel_stage соответственно «вебинар или мастер-класс», а не «основной продукт», как в двух других карточках этого шаблона."
+}

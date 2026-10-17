@@ -1,0 +1,31 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 6.06,
+   "text": "Bugun khususi universitki kirgan va endi bitti daromadli kastotashim gerekte guringan talebalar uchun acaib gangiliyimiz bad."
+  },
+  {
+   "start": 6.3,
+   "end": 11.34,
+   "text": "Tor yulday maz, artigi tor ayda SMM taxasina organib, biznis egalar uchun en kerekli kadir gaylanig."
+  },
+  {
+   "start": 11.44,
+   "end": 17.72,
+   "text": "Bitti kursda siz, mabilografiya, targeti, kanten, va jamaa bashgar ol kabi konikmalarini ipidan ignasi gech organa siz."
+  },
+  {
+   "start": 17.72,
+   "end": 24.3,
+   "text": "Agar bu sakhan mingi toglu keladim, ya ki yoktib ikilin atgan bol, sengiz kuydayi havalar qali roy khatan otin, va bas sizgi togluq malmat veremaz."
+  }
+ ],
+ "chars": 494,
+ "chars_per_s": 20.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

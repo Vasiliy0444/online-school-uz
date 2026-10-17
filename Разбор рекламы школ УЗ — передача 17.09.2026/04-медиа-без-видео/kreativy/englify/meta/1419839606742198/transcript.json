@@ -1,0 +1,51 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.38,
+   "text": "Ixtan charchab gelasiz, va ingilisdan organishki na kuch qoladi, na vaqt."
+  },
+  {
+   "start": 3.48,
+   "end": 6.12,
+   "text": "Har kuni ertagi-ertagi disiz, qachamim boshlisis."
+  },
+  {
+   "start": 6.2,
+   "end": 8.96,
+   "text": "Ma natechir azam 13-lik tenjiribagi egi ingilisra oqtututsiman,"
+  },
+  {
+   "start": 9.08,
+   "end": 13.74,
+   "text": "va 22-nchi, 23-nchi, 24-nchi sentyabr kunlari beipun online masterclass taqshikilashdiripman."
+  },
+  {
+   "start": 14.14,
+   "end": 20.02,
+   "text": "Ushun masterclass-da 0-dan 30-kuni chidi, ingilisdaldi kundalik manzularda gaparishini boshlashini orga temad."
+  },
+  {
+   "start": 20.28,
+   "end": 23.76,
+   "text": "Masterclass-da katnash mutlakao beipul, fakat xawalan usdugi basib royukhatdan otin,"
+  },
+  {
+   "start": 23.76,
+   "end": 25.28,
+   "text": "vay yopog telegram kanalamizgi."
+  },
+  {
+   "start": 25.36,
+   "end": 25.94,
+   "text": "Koshir boling!"
+  }
+ ],
+ "chars": 524,
+ "chars_per_s": 20.1,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

@@ -1,0 +1,101 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.0,
+   "text": "Bazar da duqanda so'da qiladiyan o'qilarimiz, siladiyan so'da pasm,"
+  },
+  {
+   "start": 4.0,
+   "end": 9.0,
+   "text": "qob qili online otpiyatda uzun Yandex market zor ishli o'qita."
+  },
+  {
+   "start": 9.0,
+   "end": 13.0,
+   "text": "Indi qalin, o'yuzan bir matdi bo'syan zakas xikor gansi, diyo shatdan narsi."
+  },
+  {
+   "start": 13.0,
+   "end": 18.0,
+   "text": "Indi faras qilayin, siz uzun da satochi bolib daromad qilishizm o'qil."
+  },
+  {
+   "start": 18.0,
+   "end": 20.0,
+   "text": "Qana qilib dismi? Khazishm o'qil."
+  },
+  {
+   "start": 20.0,
+   "end": 24.0,
+   "text": "Daraqmat qizi o'chilm aqishi bo'sis, o'qil, zaman bilan xamnafas yurishishiz kiri,"
+  },
+  {
+   "start": 24.0,
+   "end": 28.0,
+   "text": "budi gani online platformaligi tavarizh zhoyla satochishiz kiri boladi."
+  },
+  {
+   "start": 28.0,
+   "end": 32.2,
+   "text": "Unu chun nima qili shkiri? Unu chun birinchi bolub qana qilib jaylazshi urayan shkiri."
+  },
+  {
+   "start": 32.2,
+   "end": 33.7,
+   "text": "Yani, unu ilmini alishkiri."
+  },
+  {
+   "start": 33.7,
+   "end": 36.5,
+   "text": "Kobchili biladi, lekin toghri jaylazshi bilmidi."
+  },
+  {
+   "start": 36.5,
+   "end": 40.0,
+   "text": "Bunar sada sizgi qadam edukation yardan beradi."
+  },
+  {
+   "start": 40.0,
+   "end": 43.1,
+   "text": "Yani, qana qilib jaylazshi, qana qilib otdu soda qilish,"
+  },
+  {
+   "start": 43.1,
+   "end": 46.2,
+   "text": "qana qilib topke chikadigan tavarlanayan baki,"
+  },
+  {
+   "start": 46.2,
+   "end": 48.2,
+   "text": "xanasini xotdu oriyat qoyshadi."
+  },
+  {
+   "start": 48.2,
+   "end": 53.2,
+   "text": "Khazirgi kum gechi, iki mintadan asho oku uchini chikarib uzi natijiga ochikishdi,"
+  },
+  {
+   "start": 53.2,
+   "end": 56.8,
+   "text": "maqidi, kursiyali boladi, uzi natijali zor."
+  },
+  {
+   "start": 56.8,
+   "end": 62.56,
+   "text": "Unatashqara, god judeyan qulu ilakatsi da Tashkin shakrdi aybi metro-nu janidi joylashgan."
+  },
+  {
+   "start": 62.6,
+   "end": 69.28,
+   "text": "Tolog malumatdi, pasi silki qaldiraman, shud silki arkali otub, regisiratsadan otili, kogan malumatlan asili boli."
+  }
+ ],
+ "chars": 1148,
+ "chars_per_s": 16.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

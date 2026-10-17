@@ -1,0 +1,96 @@
+{
+ "creative_id": "1919477998704604",
+ "platform": "meta",
+ "school_id": "englify",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "Bu yoshlar kuchli chiqti, ingliz tilini ham biladi.",
+  "types": [
+   "результат или доход",
+   "история"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.0s: «Bu» / «Bu yoshlar kuchli chiqti»; мужчина в машине (белый пиджак, галстук) обращается в камеру",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.5s–2.5s: «ingliz tilini» / «ingliz tilini ham biladi»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Bu yashli kushliy chixdi di, ingilis sil niyam biladi, kankadar programmal ish chitadi...",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "профессия будущего",
+   "страх отстать",
+   "экономия времени"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:13] Ingilis silni oriyani disiz, aili, bala chakki, hayat tashvishlari, bol deyindi keyikdibi olotgani bolishiz munkun, lekin bu mo mo imas.",
+    "timecode": "00:13"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:00: «Ish imkoniyatlari ham ko'proq.»",
+    "timecode": "00:20"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:23: «Englify platformasi aynan ishlaydigan odamlar uchun kurs chiqargan.»",
+    "timecode": "00:23"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:54: «10 daqiqa 10 daqiqadan o'zingizga» / «sezilarli o'zgarishlar bo'lishni boshlaydi, ingliz tilida ma'lumot olishni boshlaysiz»",
+    "timecode": "00:54"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "HAVOLA USTIGA BOSING"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Кадры sheet_overview почти дословно совпадают с расшифровкой («Englify platformasi aynan ishlaydigan odamlar uchun kurs chiqargan» — то же самое, что и на слух в [00:20]), поэтому доверие к смыслу ролика высокое, несмотря на «черновое» качество расшифровки. Сюжет: сравнение с успешными сверстниками, которые знают английский и растут по карьере (говорящая голова в машине, мужчина в белом пиджаке с галстуком) → снятие тревоги «не успею из-за семьи/быта» → позиционирование Englify как курса для занятых работающих людей (50 минут в день, гибко, результат за 1–2 месяца). Отдельного оффера нет, только регистрация («HAVOLA USTIGA BOSING» в тексте объявления). Конец ролика (после ~0:55) в расшифровке — нечитаемый шум/музыка («m m m»), в кадрах обзора не отражён."
+}

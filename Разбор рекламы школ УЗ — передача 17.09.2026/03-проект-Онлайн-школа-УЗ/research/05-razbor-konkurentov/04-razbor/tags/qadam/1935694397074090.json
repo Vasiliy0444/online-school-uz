@@ -1,0 +1,103 @@
+{
+ "creative_id": "1935694397074090",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Viloyatdan turib Uzum Marketda savdo qilishni 0 dan o'rgansam bo'ladimi?",
+  "types": [
+   "вопрос",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.5s–2.5s: плашка-комментарий Instagram «Viloyatdan turib Uzum Marketda savdo qilishni 0 dan o'rgansam bo'ladimi?»; девушка крупно, читает с телефона",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Mulawayatan durup uzun marketta savda qilishni noldan orgen san boladi ma?",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:03] Ha, albatta boladi. Videonu okhriye chi korayim.",
+    "timecode": "00:03"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для регионов",
+   "без опыта",
+   "доход"
+  ],
+  "income_claim": "Uzum Marketda oyiga 2000 dollar daromadga chiqish yo'l xaritasi",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.0s: «Viloyatdan turib … 0 dan o'rgansam bo'ladimi?»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:18] Ular xam aynansiz ki, abaxamasini noldan boshlaygan.",
+    "timecode": "00:18"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:25] Uzun marketda oge 2000 dolar daramatke chikash yol haritasini bugun telegram kanalimizda John Lee masterclassda korsatamiz.",
+    "timecode": "00:25"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈00:13): «30 000 000 AYLANMA» поверх выпускницы с сертификатом",
+    "timecode": "00:13"
+   }
+  ],
+  "revenue_claim": "30 000 000 AYLANMA"
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈00:31): значок Telegram и «JONLI MASTERKLASS»",
+    "timecode": "00:31"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:25] Uzun marketda oge 2000 dolar daramatke chikash yol haritasini bugun telegram kanalimizda John Lee masterclassda korsatamiz.",
+    "timecode": "00:25"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "высокая",
+ "notes": "Формат «ответ на комментарий»: ведущая читает с телефона комментарий-плашку и отвечает «Ha, albatta bo'ladi. Videoni oxirigacha ko'ring». Хук — текст на кадре, речь совпадает. income_claim по расшифровке, написание исправлено («oge 2000 dolar daramatke chikash yol haritasini» → «oyiga 2000 dollar daromadga chiqish yo'l xaritasi»); «John Lee masterclassda» = «jonli masterklassda» (на кадре «JONLI MASTERKLASS»). Вставки выпускников с цифрами (кадр «30 000 000 AYLANMA», в речи 137 млн и 30 млн «aylanma») — это оборот, не доход, в income_claim не внесены. Призыв: «Qatnashish uchun havola orqali o'ting va Telegram kanalimizga obuna bo'ling» (написание исправлено). Бесплатность мастер-класса прямо не названа (участие через подписку на канал). Ссылка ведёт на /uzum-pdf, а в ролике обещан мастер-класс — расхождение. Таймер обратного отсчёта и «21+» появляются позже 3 с. risk: обещание дорожной карты к $2000 в месяц для начинающих с нуля."
+}

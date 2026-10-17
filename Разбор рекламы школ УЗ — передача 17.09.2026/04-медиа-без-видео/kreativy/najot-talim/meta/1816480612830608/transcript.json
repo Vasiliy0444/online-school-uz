@@ -1,0 +1,56 @@
+{
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language": "uz",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.3,
+   "text": "Farzan Diz maktabtan kin xarkuni kemadi kyochsoqa dush naka xolatda otiradi."
+  },
+  {
+   "start": 4.46,
+   "end": 9.32,
+   "text": "En qizgim naka xolatdi tselfonla mukkastan kitish, o'dona gapir ganda gapke kirmaslik,"
+  },
+  {
+   "start": 9.7,
+   "end": 15.78,
+   "text": "va juda diz jahil chukib ishtmaslik xolatlari, ondur onyityoshli bolalar orasidi juda xamko buchiridi."
+  },
+  {
+   "start": 15.78,
+   "end": 20.34,
+   "text": "Anan shiyorsdagi bolalarin maktabtan kin ge vaqtlarini unumli otqizish uchun,"
+  },
+  {
+   "start": 20.7,
+   "end": 26.54,
+   "text": "Ozbekistandagi en kotta IT margaz Najat Talim Star Junior kursigi kotta qabul elakaldi."
+  },
+  {
+   "start": 26.54,
+   "end": 37.38,
+   "text": "Aynan shukursda Farzandiz dasturilash, tanqidi, takhili fikrilash vax ozerge kundagi eynmukum konikmalardan bora sonientilik vax kompitturli ipidan iknasiga chamorgenadi."
+  },
+  {
+   "start": 37.82,
+   "end": 41.78,
+   "text": "Natijada ozu yokturgan soxhida qogerlagi qaragende tezira okibajinadi."
+  },
+  {
+   "start": 41.96,
+   "end": 46.38,
+   "text": "Agar tisisan Farzandiz maiktabdayin ki infodari bilimla ogan xoalatda otkizishnisa sangiz,"
+  },
+  {
+   "start": 46.7,
+   "end": 48.8,
+   "text": "hozorok People Masterclass-ki royhatan otin."
+  }
+ ],
+ "chars": 810,
+ "chars_per_s": 16.5,
+ "cyrillic_share": 0.0,
+ "repeated_segments": 0,
+ "quality": "черновое"
+}

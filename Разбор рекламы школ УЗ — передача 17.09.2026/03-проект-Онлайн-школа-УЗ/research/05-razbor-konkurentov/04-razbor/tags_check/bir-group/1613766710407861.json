@@ -1,0 +1,99 @@
+{
+  "creative_id": "1613766710407861",
+  "platform": "meta",
+  "school_id": "bir-group",
+  "format": {
+    "type": "видео",
+    "duration_bucket": "61–120 с",
+    "aspect": "9:16"
+  },
+  "style": ["нарезка эфира или подкаста"],
+  "hook": {
+    "verbatim": "Aka rostdan shunaqa qilmoqchimisizlar",
+    "types": ["вопрос"],
+    "visual": ["лицо в первом кадре"],
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_hook.jpg 0.5s–2.5s: Aka / Aka rostdan / shunaqa / qilmoqchimisizlar (двое мужчин в креслах в лобби, формат интервью)",
+        "timecode": "00:00"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Oki rostamashnaqna yasakim aqshumis va o'zim?",
+        "timecode": "00:00"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["профессия будущего", "для регионов", "без опыта", "доверие и окупаемость"],
+    "evidence": [
+      {
+        "source": "расшифровка",
+        "quote": "Hazirgi aynan yitdi yunarish bo'ycha, zamana ve kashfila.",
+        "timecode": "00:14"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Trend dayi, mabilografiya disizmi, mantaj disizmi,",
+        "timecode": "00:19"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "uledan Respublikan qatida yashajdan,\n[00:57] qatiy nazar,",
+        "timecode": "00:54"
+      },
+      {
+        "source": "текст объявления",
+        "quote": "Zamonaviy kasbni 0 dan o‘rganing — BEPUL!"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:37: Albatta",
+        "timecode": "00:37"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Bizi atilin rezultat boladi.",
+        "timecode": "00:29"
+      }
+    ]
+  },
+  "offer": {
+    "items": ["бесплатный вебинар", "дедлайн или ограничение мест"],
+    "evidence": [
+      {
+        "source": "текст объявления",
+        "quote": "25-sentabr kuni onlayn taqdimot bo‘lib o‘tadi."
+      },
+      {
+        "source": "расшифровка",
+        "quote": "25-ci sentyabr kunu onlayn taqdimat bolibotadi",
+        "timecode": "01:19"
+      },
+      {
+        "source": "текст объявления",
+        "quote": "Buning uchun 500 ta grant ajratilgan."
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~1:02: tekinga o'qitmoqchisizlar.",
+        "timecode": "01:02"
+      }
+    ]
+  },
+  "cta": {
+    "button": "Learn more",
+    "in_creative": "бот или канал Telegram",
+    "destination": "лендинг",
+    "funnel_stage": "вебинар или мастер-класс"
+  },
+  "speaker": {
+    "role": "основатель или эксперт"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": true,
+  "risk": false,
+  "confidence": "средняя",
+  "notes": "Формат интервью: ведущий задаёт вопросы, мужчина в чёрной рубашке отвечает от лица Bir Group как руководитель (объясняет, зачем компания учит бесплатно — готовит кадры для себя); имя и должность не звучат. Хук по субтитрам на кадрах; хвост первой фразы в расшифровке неразборчив. Сцена мероприятия ~0:12 (BIR GROUP / USTOZ MEDIA, «BIR TA'LIM - ta'limdan natijaga yo'l»). Трудоустройство обещано с условием («layoqati bose, xoxshi bose … ozini salakharikini korsatkandan ki, biz ishbilanam tamirliyimiz», 00:58), поэтому «гарантия» не отмечена. «для регионов» — «Respublikaning qayerida yashashidan qat'i nazar» (по расшифровке, написание исправлено). Призыв: «padrobni tibmasini basib, telegram kanalamizgi xochili bayib» (01:32). Расхождение: ролик зовёт в Telegram-канал на онлайн-презентацию 25 сентября, ссылка ведёт на лендинг bir-group-webinar.vercel.app/b/. Перевод хука: «Ака, вы правда хотите так сделать?» (далее: учить 500 человек бесплатно)."
+}
