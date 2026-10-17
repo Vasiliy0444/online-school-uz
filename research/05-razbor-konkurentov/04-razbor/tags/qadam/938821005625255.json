@@ -1,0 +1,107 @@
+{
+ "creative_id": "938821005625255",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "…o'zingizning savdoingiz bor bozorlarda, … onlayn savdoingizni kuchaytirmoqchi bo'lsangiz, bu sizga zo'r biznes bo'ladi shunaqa.",
+  "types": [
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s: мужчина у фиолетового спорткара говорит в камеру",
+    "timecode": "00:00"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.5s–2.5s: разделённый экран: сверху сменяются кадры магазина с товаром на полках, снизу мужчина у машины",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Ki ozi izi, savdaiz bar bazarili di,",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:02] kujum chiayni onlayi savdaini kuchetirmakchi buz siiz.",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:05] Buz izgi zor biznis boladi shani.",
+    "timecode": "00:05"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "свой бизнес",
+   "статус",
+   "доход"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:10] uzu marketdi savda qilishi orgini wali,",
+    "timecode": "00:10"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:12] di shani, katta biznismen bub getas.",
+    "timecode": "00:12"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈00:27): «237 MLN UMUMIY AYLANMA» у ученика, таймер «00:19»",
+    "timecode": "00:27"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:27] Abarotamizi 40 minun naqshu atti.",
+    "timecode": "00:27"
+   }
+  ],
+  "revenue_claim": "237 MLN UMUMIY AYLANMA (ученик, кадр); oborotimiz 40 million…, bir oy ichida 30 million… oborot (ученики, по черновой расшифровке)"
+ },
+ "offer": {
+  "items": [
+   "рассрочка"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:50] Tol olayan, xalisis naqtidiz, xalisis bolib toleshgin, okhsiz bolidi.",
+    "timecode": "00:50"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "блогер"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук только в речи, по расшифровке, написание исправлено частично: «…o'zingizning savdoingiz bor bozorlarda, … onlayn savdoingizni kuchaytirmoqchi bo'lsangiz, bu sizga zo'r biznes bo'ladi shunaqa»; неразборчивые «Ki» и «kujum chiayni» заменены на «…». Перевод: «если у вас своя торговля на базарах и хотите усилить онлайн-продажи — это отличный бизнес для вас». Текста на кадрах хука нет. Мужчина у спорткара говорит о школе со стороны («o'rgatisharkan»), имя не звучит; utm UZUM_BLOGER_INOMARKA → роль «блогер». В речи (написание исправлено): научитесь торговать на Uzum Market — «katta biznesmen bo'lib ketasiz»; учат сами продавцы с большими оборотами (частично неразборчиво); вставки учеников — кадр «237 MLN UMUMIY AYLANMA» (в расшифровке «247» — ошибка распознавания), «40 mln», «30 mln за месяц» — это оборот, не доход; «Kurs qimmat emasmi?» — курс онлайн на своей платформе или офлайн в Ташкенте у метро (в расшифровке «AYB-Metrogi»); «xohlasangiz naqd, xohlasangiz bo'lib to'lash» → «рассрочка». Призыв [01:04–01:09]: «Hozir ma'lumotlaringizni qoldirsangiz, o'zlari aloqaga chiqib, yana batafsil ma'lumot berishadi» (написание исправлено) → форма и звонок, этап «основной продукт». Та же речь, что у 980746867704144, но там финал — бесплатные уроки при том же адресе uzum-inomarka-v4. Текста объявления нет."
+}

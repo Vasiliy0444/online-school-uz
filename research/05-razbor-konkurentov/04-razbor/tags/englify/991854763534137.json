@@ -1,0 +1,90 @@
+{
+ "creative_id": "991854763534137",
+ "platform": "meta",
+ "school_id": "englify",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "Ishingiz tufayli ingliz tilini o'rganishga vaqt yo'q. Buni bilamiz.",
+  "types": [
+   "боль",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.5s: «ishingiz tufayli» / «ingliz tilini o'rganishga» (оранжево-красная подпись — отличается от синей в 1135147335459749); мужчина в зелёном поло на той же аллее парка",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s–2.5s: «vaqt yo'q» / «buni bilamiz»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Ish ingiz tu fayli ingilis siri organishki waqt yox. [00:02] Buna bilemiz...",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта",
+   "экономия времени"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:12: «eng ko'p ishlatiladigan so'zlar»",
+    "timecode": "00:12"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:20: «bemalol ingliz tilini tushunib»",
+    "timecode": "00:20"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:09] Fakat speaking, in kireli zamanlar, in kobishizirigan sozlar boldi.",
+    "timecode": "00:09"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:28: «ma'lumotlaringizni qoldiring»"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Тот же хук-шаблон и тот же ведущий/локация, что и в 1135147335459749, но другой цвет подложки субтитров (оранжево-красный вместо синего) и другой акцент в теле ролика — тут упор на «самые частые слова» и грамматику, а не на геймификацию. «ma'lumotlaringizni qoldiring» на кадре может означать как переход по ссылке, так и заполнение формы на лендинге — трактую как «перейти по ссылке», так как явной формы в самом ролике не показано."
+}

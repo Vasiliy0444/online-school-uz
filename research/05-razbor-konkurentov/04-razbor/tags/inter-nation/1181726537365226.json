@@ -1,0 +1,59 @@
+{
+ "creative_id": "1181726537365226",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "картинка",
+  "duration_bucket": "не видео",
+  "aspect": "4:5"
+ },
+ "style": [
+  "статичный дизайн"
+ ],
+ "hook": {
+  "verbatim": "ERTALABKI INGLIZ TILI KURSLARIGA qabul ochiq",
+  "types": [
+   "новость"
+  ],
+  "visual": [
+   "крупный текст",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: рука с жёлтой папкой Inter Nation тянется к окну из постели, заголовок «ERTALABKI INGLIZ TILI KURSLARIGA qabul ochiq», внизу «Quyidagi havola orqali o'ting va Ingliz tili kurslarimizga yoziling»"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "экономия времени"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Darslar 7:30, 9:00, 10:30 va 12:00 dagi vaqtlarda bo'lib o'tadi — o'zingizga mos vaqtni tanlang"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "никого"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Статичный дизайн без человека в кадре — только рука с папкой у окна. Пара с 2107407560022442 (та же концепция и текст, другой филиал/ссылка)."
+}

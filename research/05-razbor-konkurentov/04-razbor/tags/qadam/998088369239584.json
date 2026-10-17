@@ -1,0 +1,94 @@
+{
+ "creative_id": "998088369239584",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Oylikdan oylikkacha pul yetkaza olmayotgan bo'lsangiz, bu sizga zo'r biznes bo'ladi shunaqa.",
+  "types": [
+   "боль",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: мужчина у фиолетового спорткара говорит в камеру, камера отъезжает; текста нет",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Ayli dan ayli geche ful yet qizami yapkan bu seza buzge zor biznis boladi shani.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "свой бизнес",
+   "статус"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Ayli dan ayli geche ful yet qizami yapkan bu seza buzge zor biznis boladi shani.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:08] uzo market di savda qilish orgin alay di shani katta biznismen bob getas.",
+    "timecode": "00:08"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈00:28): «40 000 000 AYLANMA» у ученика в офисе",
+    "timecode": "00:28"
+   }
+  ],
+  "revenue_claim": "40 000 000 AYLANMA (ученик, кадр); 1 oy ichida 30 million… oborot (по черновой расшифровке)"
+ },
+ "offer": {
+  "items": [
+   "мини-курс",
+   "рассрочка"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[01:01] Pastda balim apsizu qaldir sez, be pul darsli ta shad erladi.",
+    "timecode": "01:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:48] Tol olayan, xalisiz lakti diz, xalisiz bolib toleshgan,",
+    "timecode": "00:48"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "мини-курс или трипвайер"
+ },
+ "speaker": {
+  "role": "блогер"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук только в речи, по расшифровке, написание исправлено («Ayli dan ayli geche ful yet qizami yapkan bu seza buzge zor biznis boladi shani» → «Oylikdan oylikkacha pul yetkaza olmayotgan bo'lsangiz, bu sizga zo'r biznes bo'ladi shunaqa»). Перевод: «если денег не хватает от зарплаты до зарплаты — вот вам отличный бизнес». Текста на кадрах хука нет; субтитры — только цифра во вставке ученика. Дальше сценарий серии: «katta biznesmen bo'lib ketasiz»; вставка ученика «40 000 000 AYLANMA» (оборот, не доход); курс онлайн или офлайн у метро; «bo'lib to'lash» → «рассрочка»; рукопожатие с сотрудником в учебном центре. Финал [01:01–01:10]: «Pastda ma'lumotlaringizni qoldirsangiz, bepul darslik(lar) … beriladi … Pastda ssilka bor…» (написание исправлено) → бесплатные уроки, «мини-курс». Несовпадение: ролик зовёт за бесплатными уроками, а ссылка — лендинг qadam.education/uzum-inomarka-v3. Текста объявления нет. Подача от третьего лица, utm UZUM_BLOGER_INOMARKA_BM → «блогер»."
+}

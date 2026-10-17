@@ -1,0 +1,228 @@
+{
+ "url": "https://hbstrading.net",
+ "domain": "hbstrading.net",
+ "pages_scanned": [
+  "https://hbstrading.net/ru/hbs-asset-info"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)"
+  ]
+ },
+ "seo_metadata": {
+  "title": "HBS Asset Management — управление активами",
+  "description": "Инвестиционные стратегии, команда и фонд HBS Asset Management.",
+  "open_graph": {
+   "title": "HBS Asset Management — управление активами",
+   "description": "Инвестиционные стратегии, команда и фонд HBS Asset Management.",
+   "url": "https://hbstrading.net/ru/hbs-asset-info",
+   "type": "website",
+   "image": "https://hbstrading.net/logo/hbs-holding-main-logo.webp",
+   "locale": "ru_RU"
+  },
+  "twitter_card": {
+   "card": "summary_large_image"
+  },
+  "canonical": "https://hbstrading.net/ru/hbs-asset-info",
+  "hreflang": [
+   {
+    "lang": "ru-RU",
+    "url": "https://hbstrading.net/ru/hbs-asset-info"
+   },
+   {
+    "lang": "uz-UZ",
+    "url": "https://hbstrading.net/hbs-asset-info"
+   },
+   {
+    "lang": "x-default",
+    "url": "https://hbstrading.net/hbs-asset-info"
+   }
+  ],
+  "structured_data": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://hbstrading.net/#organization",
+    "name": "HBS Group",
+    "url": "https://hbstrading.net",
+    "logo": "https://hbstrading.net/logo/hbs-holding-main-logo.webp",
+    "email": "info@hbstrading.net",
+    "sameAs": [
+     "https://t.me/hbs_akademiya",
+     "https://www.instagram.com/hbsakademiyasi?igsh=MTFiYnVocHpuYzFpaA==",
+     "https://www.linkedin.com/company/hbstrading/posts/?feedView=all",
+     "https://www.facebook.com/hbsacademyuz"
+    ],
+    "subOrganization": [
+     {
+      "@type": "Organization",
+      "name": "HBS Academy",
+      "url": "https://hbstrading.net/hbs-academy"
+     },
+     {
+      "@type": "Organization",
+      "name": "Saraf Screening",
+      "url": "https://hbstrading.net/saraf"
+     },
+     {
+      "@type": "Organization",
+      "name": "Saraf Robot",
+      "url": "https://hbstrading.net/saraf-robot"
+     },
+     {
+      "@type": "Organization",
+      "name": "HBS Asset Management",
+      "url": "https://hbstrading.net/hbs-asset-info"
+     },
+     {
+      "@type": "Organization",
+      "name": "HBS Prop",
+      "url": "https://hbstrading.net/hbs-prop"
+     },
+     {
+      "@type": "Organization",
+      "name": "HBS AI",
+      "url": "https://hbstrading.net/hbs-ai"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "https://hbstrading.net/#website",
+    "name": "HBS Group",
+    "url": "https://hbstrading.net",
+    "inLanguage": [
+     "uz-UZ",
+     "ru-RU"
+    ],
+    "publisher": {
+     "@id": "https://hbstrading.net/#organization"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 1,
+    "name": "HBS Academy",
+    "url": "https://hbstrading.net/hbs-academy"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 2,
+    "name": "Saraf Screening",
+    "url": "https://hbstrading.net/saraf"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 3,
+    "name": "Saraf Robot",
+    "url": "https://hbstrading.net/saraf-robot"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 4,
+    "name": "HBS Asset Management",
+    "url": "https://hbstrading.net/hbs-asset-info"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 5,
+    "name": "HBS Prop",
+    "url": "https://hbstrading.net/hbs-prop"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 6,
+    "name": "HBS AI",
+    "url": "https://hbstrading.net/hbs-ai"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "HBS Asset Management — управление активами",
+    "description": "Инвестиционные стратегии, команда и фонд HBS Asset Management.",
+    "url": "https://hbstrading.net/ru/hbs-asset-info",
+    "inLanguage": "ru-RU",
+    "isPartOf": {
+     "@id": "https://hbstrading.net/#website"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://hbstrading.net/hbs-asset-info#service",
+    "name": "HBS Asset Management",
+    "url": "https://hbstrading.net/hbs-asset-info",
+    "description": "Инвестиционные стратегии, команда и фонд HBS Asset Management.",
+    "image": "https://hbstrading.net/logo/holdings/hbs-asset-logo.svg",
+    "inLanguage": "ru-RU",
+    "provider": {
+     "@id": "https://hbstrading.net/#organization"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "HBS Group",
+      "item": "https://hbstrading.net/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "HBS Asset Management",
+      "item": "https://hbstrading.net/hbs-asset-info"
+     }
+    ]
+   }
+  ],
+  "headings": {
+   "h2": [
+    "Почему стоит инвестировать с HBS",
+    "Некоторые из наших успешных инвестиций",
+    "Распределение капитала фонда HBS",
+    "Инвестиционная философия",
+    "Наша команда",
+    "Контакты",
+    "Наши филиалы"
+   ],
+   "h3": [
+    "Дубай",
+    "Ташкент"
+   ]
+  }
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [
+   "https://hbstrading.net/logo/hbs-academy-partner.png",
+   "https://hbstrading.net/logo/hbs-holding-main-logo.webp",
+   "https://hbstrading.net/logo/holdings/hbs-academy-logo.svg",
+   "https://hbstrading.net/logo/holdings/hbs-group-main-logo.svg"
+  ],
+  "total_images_found": 18
+ },
+ "integration_links": [
+  "https://hbstrading.net/_nuxt/Partner.EDiAHnuN.css"
+ ],
+ "hidden_elements": {},
+ "google_ids": {
+  "gtm": [
+   "GTM-5XW7TCSH"
+  ]
+ }
+}

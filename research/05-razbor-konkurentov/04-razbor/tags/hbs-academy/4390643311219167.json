@@ -1,0 +1,79 @@
+{
+ "creative_id": "4390643311219167",
+ "platform": "meta",
+ "school_id": "hbs-academy",
+ "format": {
+  "type": "динамическое (DCO)",
+  "duration_bucket": "не видео",
+  "aspect": "9:16"
+ },
+ "style": [
+  "статичный дизайн"
+ ],
+ "hook": {
+  "verbatim": "Ayollar uchun maxsus taklif",
+  "types": [
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "крупный текст",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: заголовок «Ayollar uchun maxsus taklif» над фото сиренево-голубых цветов, лого «HBS» сверху по центру"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для мам",
+   "доход",
+   "без опыта"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: «Uyda qo'shimcha daromad olish uchun moliya bozori va investitsiyalarini imtiyozli narxda kunduzgi guruhlarda o'rganing»"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "🌸 Ayollar uchun yangi imkoniyat! Uy yumushlari yoki asosiy ishingizni tark etmasdan ham qo'shimcha daromad qilish mumkin."
+   },
+   {
+    "source": "текст объявления",
+    "quote": "📈 Investitsiya va treydingni noldan o'rganing, tajribali mentorlar bilan amaliy darslarda qatnashing."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "скидка"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: «...imtiyozli narxda kunduzgi guruhlarda o'rganing»; бейдж «format: Offline»"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "✨ Kunduzgi offline guruhlar uchun maxsus narx sizni kutmoqda."
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "нет призыва",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "никого"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": true,
+ "confidence": "высокая",
+ "notes": "risk = true по правилу инструкции для трейдинга и инвестиций (приведено к одному виду 17.09). Тот же сиренево-голубой шаблон, что у 1405738174744160, кроп 9:16 вместо 4:5, лого сверху по центру вместо низа слева; текст и ad_text идентичны. Ещё одна DCO-комбинация того же образа с тем же текстом объявления."
+}

@@ -1,0 +1,68 @@
+{
+  "creative_id": "1072218188749141",
+  "platform": "meta",
+  "school_id": "it-house",
+  "format": {
+    "type": "видео",
+    "duration_bucket": "16–30 с",
+    "aspect": "9:16"
+  },
+  "style": ["постановка или скетч"],
+  "hook": {
+    "verbatim": "Uf, buni qanaqa qilib o'zgartirar edi?",
+    "types": ["боль", "история"],
+    "visual": ["лицо в первом кадре"],
+    "evidence": [
+      {
+        "source": "кадр без текста",
+        "quote": "sheet_hook.jpg 0.0s–2.5s: девушка за ноутбуком крупным планом, растерянно жестикулирует; текста нет",
+        "timecode": "00:00"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Uf, bu Cain'a tanan qilib ozgertir ardi.",
+        "timecode": "00:00"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["страх отстать", "быстрый старт"],
+    "evidence": [
+      {
+        "source": "текст объявления",
+        "quote": "Bugungi kunda kompyuterni bilmasak bo‘lmaydi 🙂"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Kampyotirdan faydan ashri organi indidim.",
+        "timecode": "00:12"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Kampyotir ishlaqini bulmaganiz uchu, ati ishlayam,",
+        "timecode": "00:15"
+      },
+      {
+        "source": "текст объявления",
+        "quote": "IT HOUSE akademiyasi tezlashtirilgan kurs tashkil etdi 🤩 Bu kursdan siz office dasturlarini mukammal o‘rganib chiqasiz"
+      }
+    ]
+  },
+  "offer": {
+    "items": ["без оффера"]
+  },
+  "cta": {
+    "button": "Learn more",
+    "in_creative": "нет призыва",
+    "destination": "неизвестно",
+    "funnel_stage": "основной продукт"
+  },
+  "speaker": {
+    "role": "актёр или ведущий"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": false,
+  "risk": false,
+  "confidence": "средняя",
+  "notes": "Скетч: сотрудница часами не может поправить документ на компьютере, руководитель отчитывает её («Yuzmerti ettim shu uchun sizgi. Kampyotirdan faydan ashri organi indidim.» ≈ «Yuz marta aytdim… kompyuterdan foydalanishni o'rganing dedim»). Хук только в речи — по расшифровке, написание исправлено; реплика разобрана неуверенно («Cain'a tanan» → «buni qanaqa»). Субтитров и текста на кадрах нет. Про курс офисных программ говорится только в тексте объявления («tezlashtirilgan kurs», office dasturlari); ролик заканчивается репликой скетча (00:18), призыва нет. link_url пустой при кнопке «Learn more» → destination «неизвестно»; в тексте объявления телефоны и «Ro'yxatdan o'ting!». funnel_stage «основной продукт» — по тексту объявления. «быстрый старт» — «tezlashtirilgan kurs» (ускоренный курс). Перевод хука: «Уф, как же это поменять?»"
+}

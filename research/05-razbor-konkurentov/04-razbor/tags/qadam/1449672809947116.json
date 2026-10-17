@@ -1,0 +1,111 @@
+{
+ "creative_id": "1449672809947116",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "UZUMDA QAYSI MAHSULOT YAXSHI SOTILISHINI BILMAYAPSIZMI?",
+  "types": [
+   "вопрос",
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.5s: «UZUMDA QAYSI MAHSULOT»; ведущая за столом, лицо крупно",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s: «YAXSHI SOTILISHINI BILMAYAPSIZMI?»; на 2.5s — смена плана",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Qaysimak slot uzunda yakhshi slotilishini bilmayabsizma?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта",
+   "доход",
+   "стабильность"
+  ],
+  "income_claim": "$1000 / oyiga stabil $1000 daromad topishni o'rganib olasiz",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈00:08): «0 DAN … BOSHLASHNI» (буквы в анимации)",
+    "timecode": "00:08"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (≈00:14): «$1000» на фоне «денежного дождя»",
+    "timecode": "00:14"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:05] Inda siz, kanday qalib uzun markette 0-dan sablonu boshlashni,",
+    "timecode": "00:05"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:12] ba o'yige stabil 1000 dollarda romantikilishini organasiz.",
+    "timecode": "00:12"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "oyiga stabil $1000 daromad topishni o'rganib olasiz"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "лид-магнит (PDF, гайд)"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Uzum Market’da 0 dan savdo boshlash bo‘yicha bepul PDF qo‘llanma"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:02] Biz aynasizichun Bepul PDF kollanma tayorladik.",
+    "timecode": "00:02"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈00:19): макет Telegram-канала «Qadam | Uzum Market» с файлом «0 dan ish boshlab $1000 ga yetish bo'yicha guide.pdf»",
+    "timecode": "00:19"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "лид-магнит"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "высокая",
+ "notes": "Хук — крупный анимированный текст на кадрах, речь совпадает («Qaysi mahsulot Uzumda yaxshi sotilishini bilmayapsizmi?»). Перевод: «не знаете, какой товар хорошо продаётся на Uzum?». «1000 dollarda romantikilishini» в расшифровке = «1000 dollar daromad topishni». Призыв (запись [00:15]): «Faylni yuklab olish uchun hoziroq Telegram kanalimizga o'ting» (написание исправлено). На кадре 4 — макет Telegram-канала (12 789 подписчиков): 3 PDF-файла и приглашение в ежедневный «JONLI VIDEOCHAT» — фон, не оффер ролика. Ссылка — /uzum-masterklass, а в ролике и тексте объявления PDF — расхождение адреса и оффера. risk: «стабильные $1000 в месяц» с нуля."
+}

@@ -1,0 +1,79 @@
+{
+ "url": "https://englify.uz",
+ "domain": "englify.uz",
+ "pages_scanned": [
+  "https://englify.uz/public-offer"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)"
+  ],
+  "ad_pixel": [
+   "Meta Pixel"
+  ]
+ },
+ "seo_metadata": {
+  "title": "Englify â Englify",
+  "description": "Ingliz tilini zamonaviy metodlar yordamida tez va samarali o&#39;rganing. Englify â bu ingliz tilini oson va qiziqarli o&#39;rganish uchun ajoyib joy!",
+  "open_graph": {
+   "title": "Englify",
+   "description": "Ingliz tilini zamonaviy metodlar yordamida tez va samarali o&#39;rganing. Englify â bu ingliz tilini oson va qiziqarli o&#39;rganish uchun ajoyib joy!",
+   "url": "https://englify.uz/public-offer",
+   "type": "website",
+   "image": "https://englify.uz/logo.jpg?dpl=dpl_DewPv5TWzwGz7t7zQHjWYeNxuWjT",
+   "locale": "uz_Latn",
+   "site_name": "Englify Online School"
+  },
+  "twitter_card": {
+   "card": "summary",
+   "site": "@onwidget",
+   "creator": "@onwidget"
+  },
+  "canonical": "https://englify.uz/public-offer",
+  "headings": {
+   "h1": [
+    "OMMAVIY OFERTA SHARTNOMASI"
+   ],
+   "h2": [
+    "ATAMALAR VA TAâRIFLAR",
+    "1.1 UMUMIY QOIDALAR",
+    "2. OFERTÐ PREDMETI",
+    "3. MOBIL ILOVÐDÐ ROÊ¼YXÐTDÐN OÊ¼TISH TÐRTIBI",
+    "4. TARIFLAR VA XIZMAT KOâRSATISH PAKETLARI",
+    "5. TARIFNI SOTIB OLISH VA UNDAN FOYDALANISH TARTIBI",
+    "6. TOMONLARNING HUQUQ VA MAJBURIYATLARI",
+    "7. TOMONLÐRNING MÐâSULIYATI",
+    "8. MUZLATISH TARTIBI",
+    "9. QAYTARISH VA SHARTNOMANI BEKOR QILISH TARTIBI",
+    "10. SANKSIYALAR VA TARIFNI BEKOR QILISH",
+    "11. FORS-MAJOR HOLATLARI",
+    "12. JAVOBGARLIK",
+    "13. NIZOLARNI BARTARAF ETISH TARTIBI",
+    "14. AXBOROT XABARLARI",
+    "15. SHARTNOMANING AMAL QILISH MUDDATI",
+    "16. YAKUNIY QOIDALAR"
+   ]
+  }
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [
+   "https://englify.uz/logo.jpg?dpl=dpl_DewPv5TWzwGz7t7zQHjWYeNxuWjT"
+  ],
+  "total_images_found": 3
+ },
+ "integration_links": [],
+ "hidden_elements": {
+  "html_comments": [
+   "Meta Pixel Code",
+   "Yandex.Metrika counter",
+   "/Yandex.Metrika counter",
+   "End Meta Pixel Code"
+  ]
+ }
+}

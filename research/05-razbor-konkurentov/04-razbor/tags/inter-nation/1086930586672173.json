@@ -1,0 +1,80 @@
+{
+ "creative_id": "1086930586672173",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Andijonlik ota-onalar, bu qat'iy gap. Biz farzandingizni olti oyda o'qitib beramiz, deb va'da bermaymiz.",
+  "types": [
+   "запрет или ошибка",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "логотип бренда",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: мужчина стоит у входа в здание с вывеской «INTER NATION ENGLISH SCHOOL»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Anıcanlık oto anılar bu qatiqa. Biz parzanlin nizni nöyldan moçlap ayalt san yedi gece, o'qishda oqtib biramizdi vada bermaymiz.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:07: «6 OY ICHIDA O'QITIB BERAMIZ DEB VA'DA BERMAYMIZ» — подтверждает расшифровку",
+    "timecode": "00:07"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость",
+   "для регионов"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:12: «OCHIQ / KATTA QABUL»",
+    "timecode": "00:12"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:09] International School'un yanıcan filialda kertte qabul ocik.",
+    "timecode": "00:09"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук по расшифровке, написание исправлено и подтверждено кадром: «Anıcanlık oto anılar bu qatiqa. Biz parzanlin nizni nöyldan moçlap ayalt san yedi gece, o'qishda oqtib biramizdi vada bermaymiz» → «Andijonlik ota-onalar, bu qat'iy gap. Biz farzandingizni olti oyda o'qitib beramiz, deb va'da bermaymiz» (текст на кадре ~0:07 «6 OY ICHIDA O'QITIB BERAMIZ DEB VA'DA BERMAYMIZ» подтверждает «olti oy»). Явного произнесённого призыва «havola orqali» в расшифровке нет (обрывается на [00:13]), CTA восстановлен по стандартной кнопке Sign up и стрелке-шеврону в конце ролика."
+}

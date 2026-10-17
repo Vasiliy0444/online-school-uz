@@ -1,0 +1,53 @@
+{
+ "url": "https://shahlo.aicreator.academy",
+ "domain": "shahlo.aicreator.academy",
+ "pages_scanned": [
+  "https://shahlo.aicreator.academy/"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)"
+  ],
+  "ad_pixel": [
+   "Meta Pixel"
+  ]
+ },
+ "seo_metadata": {
+  "title": "AI BILAN DAROMAD",
+  "description": "Sun&#39;iy intellekt yordamida pul ishlashning sinalgan yo&#39;llari. To&#39;liq bepul darslik Telegram botda.",
+  "open_graph": {
+   "type": "website",
+   "image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/aaf7eb3d-4cd3-404b-bc1f-8d71c9201f03/id-preview-b1581091--1cc1b9a3-ff88-4c06-90ff-b05bc1955a81.lovable.app-1783291675806.png",
+   "title": "AI BILAN DAROMAD",
+   "description": "Sun&#39;iy intellekt yordamida pul ishlashning sinalgan yo&#39;llari. To&#39;liq bepul darslik Telegram botda."
+  },
+  "twitter_card": {
+   "card": "summary_large_image",
+   "image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/aaf7eb3d-4cd3-404b-bc1f-8d71c9201f03/id-preview-b1581091--1cc1b9a3-ff88-4c06-90ff-b05bc1955a81.lovable.app-1783291675806.png",
+   "title": "AI BILAN DAROMAD",
+   "description": "Sun&#39;iy intellekt yordamida pul ishlashning sinalgan yo&#39;llari. To&#39;liq bepul darslik Telegram botda."
+  }
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [],
+  "total_images_found": 2
+ },
+ "integration_links": [
+  "https://connect.facebook.net"
+ ],
+ "hidden_elements": {
+  "html_comments": [
+   "Preconnect / preload LCP hero (YouTube thumbnail)",
+   "Preconnect to Meta Pixel host (deferred load below)",
+   "First-party funnel tracker (deferred)",
+   "Meta Pixel Code (deferred to idle)",
+   "End Meta Pixel Code"
+  ]
+ }
+}

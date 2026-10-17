@@ -1,0 +1,91 @@
+{
+ "creative_id": "1074890061809195",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Kursni o'rganish vaqti? 4 oy",
+  "types": [
+   "вопрос",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: «KURSNI O'RGANISH VAQTI?» → «4 OY» → «O'RTACHA» — мужчина в клетчатом пиджаке на оранжевом фоне с растением",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Kursuna organish vaqdi. Toray. Orta chi daromad.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "быстрый старт"
+  ],
+  "income_claim": "o'rtacha daromad 800 dollardan 1500 dollargacha (только в ролике, в тексте объявления сумма не названа)",
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] 8 dolardan 1,500 dolar gechi.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈0:06): «ISHGA JOYLASHISH?»",
+    "timecode": "00:06"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "IT House’da 4 oy ichida sizdan zamonaviy SMM mutaxassisi tayyorlaymiz."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "гарантия",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Kurs yakunida ish bilan ta’minlaymiz. 📲 Ro‘yxatdan o‘ting – joylar juda kam!"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈0:15): «O'QUV MARKAZ?»",
+    "timecode": "00:15"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Формат FAQ-карточек: короткие вопросы крупным текстом («Kursni o'rganish vaqti?», «Ishga joylashish?», «[Talab] yuqori yosh», «O'quv markaz?») с краткими ответами речью — расшифровка представляет собой почти телеграфный список фактов о курсе SMM (срок 4 мес., доход, трудоустройство, 18+, IT House), что хорошо соответствует кадрам."
+}

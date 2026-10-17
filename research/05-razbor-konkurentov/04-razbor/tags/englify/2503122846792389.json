@@ -1,0 +1,84 @@
+{
+ "creative_id": "2503122846792389",
+ "platform": "meta",
+ "school_id": "englify",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон",
+  "запись экрана"
+ ],
+ "hook": {
+  "verbatim": "Ingliz tilini bilmaganingiz uchun lavozimingiz oshmayapti.",
+  "types": [
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре"
+  ],
+  "evidence": [
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: крупный план мужчины на фоне цветущих деревьев (весенний парк), без субтитров на кадрах, эмоциональная мимика",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Engilis tili ni bilmageniz chun lawazimiz ashmayabdi.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "профессия будущего",
+   "экономия времени"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:16] Sunchunam, Engilify online platformasi, aina ishli adamli uchun chkarilgan.",
+    "timecode": "00:16"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:21] Kunigi, 40 dakiqi yetadi.",
+    "timecode": "00:21"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:20: скриншот приложения — трекер слов «O'rganilayotgan so'zlar» (Fish, chat, early), «Yangi so'zlar +5», «Barcha so'zlar 3», график по дням/неделям/годам",
+    "timecode": "00:20"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "HAVOLA USTIGA BOSING"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Единственный в пачке ролик с этим ведущим (тот же типаж — очки, усы, что и в остальных роликах), где на предоставленных кадрах нет вшитых субтитров — хук взят только из расшифровки, написание исправлено по смыслу («Ingliz tilini bilmaganingiz uchun lavozimingiz oshmayapti» — досл. «из-за незнания английского не растёт ваша должность»). Расшифровка после ~00:24 обрывается в нечитаемый повтор «500- 500 m m m…» — вероятно, там называлась какая-то цифра (цена или количество), но разобрать её нельзя, поэтому в offer/price_quote она не указана. В обзорных кадрах — скриншот приложения с трекером изучаемых слов (геймификация прогресса)."
+}

@@ -1,0 +1,77 @@
+{
+  "creative_id": "1435474551826514",
+  "platform": "meta",
+  "school_id": "shahlo-alikhanova",
+  "format": {
+    "type": "видео",
+    "duration_bucket": "16–30 с",
+    "aspect": "9:16"
+  },
+  "style": ["говорящая голова", "съёмка на телефон", "запись экрана"],
+  "hook": {
+    "verbatim": "2026-yil biz Shvetsiyada xalqaro konferensiyada AI bo'yicha spiker bo'lib master-klass berdik",
+    "types": ["авторитет спикера", "тренд ИИ"],
+    "visual": ["лицо в первом кадре", "движение или смена кадра"],
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_hook.jpg 0.0s–2.0s: 2026 / 2026 yil / 2026 yil biz Shvetsiyada / xalqaro / konferensiyada (селфи мужчины и женщины в хиджабе на европейской площади → смена кадра на сцену конференции); 2.5s: AI (женщина с микрофоном на сцене)",
+        "timecode": "00:00"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "2026-nchi il biz Shvetsa da Halperok Konferensya da AI boyche speaker bolib master class-ot verdi",
+        "timecode": "00:00"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["доход", "профессия будущего", "доверие и окупаемость"],
+    "income_claim": "400-500$ (на кадре рядом со скриншотами переписок с клиентами, период не назван)",
+    "evidence": [
+      {
+        "source": "расшифровка",
+        "quote": "va xazirgi faytki chi Uzbekistanlayan Shvetsadan turli loqad islab AI boyche daroma topib kiriabiz.",
+        "timecode": "00:04"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:13: 400-500$; MIJOZLAR (скриншоты переписок); Veo 3.1; субтитр orqali",
+        "timecode": "00:13"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Bizi uzun zantajibamizdan kilib chikib, suni intelektu alqali daroma topish boyche video dersi terligamiz.",
+        "timecode": "00:09"
+      }
+    ]
+  },
+  "offer": {
+    "items": ["бесплатный урок"],
+    "evidence": [
+      {
+        "source": "текст объявления",
+        "quote": "[BEPUL VIDEODARS] - Qanday Qilib Sun'iy Intellekt Orqali Daromad Qilish Mumkin?"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:18: ko'rishinglar mumkin, (стрелки вниз)",
+        "timecode": "00:18"
+      }
+    ]
+  },
+  "cta": {
+    "button": "See details",
+    "in_creative": "перейти по ссылке",
+    "destination": "лендинг",
+    "funnel_stage": "вебинар или мастер-класс"
+  },
+  "speaker": {
+    "role": "основатель или эксперт"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": true,
+  "risk": false,
+  "confidence": "средняя",
+  "notes": "Пара экспертов (мужчина и женщина в хиджабе) снимает селфи в Швеции: выступали спикерами по ИИ на международной конференции, работают над проектами в Узбекистане и Швеции и зарабатывают на ИИ, по своему опыту сделали видеоурок. Имена в ролике не звучат и не написаны (фамилия есть только в домене ссылки) — public_name не заполнен. Хук: субтитры на кадрах + конец фразы по расшифровке, написание исправлено («master class-ot verdi» → «master-klass berdik», неуверенно). «400-500$» на кадре без пояснения периода и того, чей это доход. «бесплатный урок» — «[BEPUL VIDEODARS]» в тексте объявления; в самом ролике слово «bepul» не звучит. Призыв: «Pastigi xovalani bolsun, shu dersi inu kurshili unkun» (00:15) ≈ «pastdagi havolani bosib, shu darslikni ko'rishingiz mumkin». Перевод хука: «В 2026 году мы выступили спикерами по ИИ на международной конференции в Швеции»."
+}

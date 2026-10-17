@@ -1,0 +1,74 @@
+{
+  "creative_id": "1812076963541812",
+  "platform": "meta",
+  "school_id": "it-house",
+  "format": {
+    "type": "видео",
+    "duration_bucket": "16–30 с",
+    "aspect": "9:16"
+  },
+  "style": ["говорящая голова"],
+  "hook": {
+    "verbatim": "Bitta yo'nalishda o'qib 5 ta kasb egasi bo'ling.",
+    "types": ["цифра", "результат или доход"],
+    "visual": ["лицо в первом кадре"],
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_hook.jpg 0.5s: Bitta yo'nalishda; 1.0s–1.5s: o'qib 5 ta kasb; 2.0s: egasi bo'ling. (мужчина в чёрном костюме с микрофоном в студии)",
+        "timecode": "00:00"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Bitti yonaylişd okup, 5 tekas pege si bolim.",
+        "timecode": "00:00"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["профессия будущего", "доход"],
+    "income_claim": "Boshlang'ich 1000$ dan oylik maosh",
+    "evidence": [
+      {
+        "source": "текст объявления",
+        "quote": "Boshlang'ich 1000$ dan oylik maosh!"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Hatta ki, Uzbekistan daxan borsanaj 1000 dolar maqist o'lashadi.",
+        "timecode": "00:07"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Dunya boyla 5,5 milyon yakın ish ordu maucub.",
+        "timecode": "00:04"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:07: mavjud, 5 500 000",
+        "timecode": "00:07"
+      },
+      {
+        "source": "текст объявления",
+        "quote": "Talab yuqori zamonaviy kasblardan biri \"KIBERXAVFSIZLIK\" sohasini chuqur o'rganishni istaysizmi?"
+      }
+    ]
+  },
+  "offer": {
+    "items": ["без оффера"]
+  },
+  "cta": {
+    "button": "Sign up",
+    "in_creative": "нет призыва",
+    "destination": "форма Meta",
+    "funnel_stage": "основной продукт"
+  },
+  "speaker": {
+    "role": "актёр или ведущий"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": true,
+  "risk": false,
+  "confidence": "высокая",
+  "notes": "Хук по субтитрам на кадрах. Ведущий в студии с микрофоном, как основатель или эксперт не представлен, имя не звучит. Смысл: кибербезопасность — востребованная профессия (около 5,5 млн рабочих мест в мире, на кадре крупно 5 500 000), стартовая зарплата 1000 $ даже в Узбекистане (по расшифровке, написание исправлено; в тексте объявления — «Boshlang'ich 1000$ dan oylik maosh!»). В конце ролика призыв без механики: «Ayti khas oqumarkazinin kiber khasizik kurslarida oqin» (00:14) ≈ «IT House o'quv markazining kiberxavfsizlik kurslarida o'qing» → «нет призыва»; в тексте объявления — «Ro'yxatdan o'ting! Bepul ma'lumot oling!» и телефоны («бесплатная информация» — не оффер). Перевод хука: «Учитесь по одному направлению — получите 5 профессий»."
+}

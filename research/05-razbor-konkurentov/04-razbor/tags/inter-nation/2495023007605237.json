@@ -1,0 +1,74 @@
+{
+ "creative_id": "2495023007605237",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "IELTS 7.5 — aynan shunday natijani bizning talabamiz qo'lga kiritdi.",
+  "types": [
+   "соцдоказательство",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "деньги или результат на экране",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "🔥 IELTS 7.5 🔥 Aynan shunday natijani bizning talabamiz ... qo'lga kiritdi va INTER NATION unga bu yo'lda qanday yordam bergani bilan bo'lishdi."
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 1.0s–2.5s: групповая сцена в зале, на кадре поочерёдно проявляются подписи с баллами по секциям экзамена (имя и цифры не переношу по правилам разметки)",
+    "timecode": "00:01"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость",
+   "статус"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Uning natijalari hayratlanarli... Bunday yutuq uchun munosib cashback"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бонус"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Bunday yutuq uchun ... munosib cashback — 1 000 000 so'm!"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "слово в комментарии",
+  "destination": "лендинг",
+  "funnel_stage": "директ"
+ },
+ "speaker": {
+  "role": "ученик"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "Имя ученика и его точные баллы по секциям (из текста объявления) намеренно не переношу — правило разметки; хук процитирован с пропуском имени. На кадрах видно последовательное появление подписей с баллами по секциям (соответствует практике школы «раскрывать» результат по частям) и финал с праздничным тортом — постановочное празднование результата. Сумма кэшбека (1 000 000 сум) — денежный бонус школы, привожу как есть. Явного произнесённого призыва «havola orqali» в расшифровке не нашёл, зато текст объявления прямо просит «Izohlarda \"➕\" qoldiring» — in_creative/funnel_stage поставлены по этому явному призыву, расхождение с кнопкой Sign up/лендингом отмечаю здесь. Расшифровка сильно искажена, не цитирую дословно, кроме уже приведённого текста объявления."
+}

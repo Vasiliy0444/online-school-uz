@@ -1,0 +1,90 @@
+{
+ "url": "https://qadam.education/uzum-tg",
+ "school_id": "qadam",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "вебинар или мастер-класс",
+ "builder": "Tilda",
+ "pixels": [
+  "Meta Pixel",
+  "Google Analytics (GA4)",
+  "Google Tag Manager",
+  "Яндекс.Метрика"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Бесплатный прямой эфир в закрытом Telegram-канале: с нуля на Uzum Market к $2000 за 3 месяца",
+  "quote": "Uzum Marketda 0 dan savdo qilib 3 oyda $2000 daromad\n…\nBEPUL JONLI EFIR\n…\nQatnashish uchun ma’lumotlaringizni to’ldiring va yopiq telegram\nkanalimizga o’ting",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": true,
+  "value": "$2000 дохода за 3 месяца / в месяц — без источника",
+  "quote": "Uzum Marketda 0 dan savdo qilib 3 oyda $2000 daromad\n…\nOyiga $2000 daromad",
+  "where": "первый экран"
+ },
+ "audience": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "program": {
+  "found": true,
+  "format": "онлайн",
+  "quote": "Boshlang'ich harakatlar\nDaromadli tovarlar\nBozor va Xitoy\nOyiga $2000 daromad"
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [
+   "нет"
+  ]
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "бесплатный прямой эфир («BEPUL JONLI EFIR») в закрытом Telegram-канале — цены нет"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "имя",
+   "телефон"
+  ]
+ },
+ "next_step": "Telegram-канал",
+ "closed": true,
+ "message_match": {
+  "library_id": "2665525253841952",
+  "scores": {
+   "promise_continuity": 4,
+   "language_match": 4,
+   "visual_continuity": 2,
+   "cta_alignment": 4,
+   "specificity_match": 3,
+   "emotional_match": 3
+  },
+  "total_of_60": 20
+ },
+ "notes": "Вход в закрытый Telegram-канал под «бесплатный прямой эфир»: заголовок, 4 пункта («Boshlang'ich harakatlar», «Daromadli tovarlar», «Bozor va Xitoy», «Oyiga $2000 daromad»), плашка «BEPUL JONLI EFIR», форма «Qatnashish uchun ma’lumotlaringizni to’ldiring va yopiq telegram kanalimizga o’ting» (имя, телефон), кнопка «Kanalga o’tish» → telegram.dog/+DieQ90ypRwI3ZDYy — та же ссылка, что у uzum-pdf, uzum-masterklass, sirli-xazina-tg и tg-uzum (не переходили). Даты, времени и спикера эфира нет, поэтому deadline не заполнен. Этап «вебинар или мастер-класс»; title «UZUM Tg канал»; stage_auto «оферта или оплата» — из-за ссылки на оферту в подвале. Цены курса, рассрочки, гарантии нет; $2000 ≈ 23 530 000 сум — обещание дохода. Вариант без отдельного файла — tg-uzum: тот же заголовок и пункты, но без формы (сразу кнопка «Kanalga o’tish») и без подвала, плашка «BEPUL JONLI EFIR» над пунктами; 6 объявлений формата DCO без utm с 06.07 (73 дня, ранги 11 и 13); в картинке объявления 1819103045916610 — «новость» на узбекской кириллице: «#ДИҚҚАТ #ТАРҚАТИНГ ⚡ КЎПЧИЛИК КУТГАН ЯНГИЛИК! … сизни БЕПУЛ ЖОНЛИ ДАРСГА таклиф қиламиз» — по офферу (бесплатный живой урок) совпадает с tg-uzum, но страница на латинице. Тест: форма перед каналом (uzum-tg) против перехода без формы (tg-uzum). Реклама uzum-tg: 10 объявлений — UzVi_Iroda v2, v3, v4, v6 (с 03.06, 106 дней, ранг 6) и UzVi_iwash V1–V6 (с 22.08, ранг 29). message_match: объявление 2665525253841952 (ранг 6, ролик 77 с без текста, CTA «Learn more»). По черновой расшифровке женщина рассказывает, что 7 лет зарабатывает дома в декрете: женщине нужны свои деньги, чтобы жить спокойно и не зависеть от домашних, но бросить дом, хозяйство и воспитание детей готова не каждая; Uzum Market позволяет торговать онлайн из дома («mahsulot tanlaysiz, Uzumga joylaysiz, qolganini platformaning o'zi qiladi»), Qadam Education научит с нуля — онлайн из регионов или офлайн в Ташкенте у метро «Kosmonavtlar»; на экране «Hotirjam», «Ertalabdan Kechgacha», карта до офиса. Призыва к эфиру или в Telegram в расшифровке нет (последние ≈8 с не расшифрованы). Страница не говорит ни о женщинах и доме, ни о курсе и офисе — только эфир и $2000: разрыв аудитории, эмоции и оффера. Тот же ролик «Iroda» идёт и на uzum-inomarka-v5 (UZUM_IRODA_BM), на бесплатные уроки Exode (Uzum_Exode_IRODA) и в квиз uzum/quiz/3."
+}

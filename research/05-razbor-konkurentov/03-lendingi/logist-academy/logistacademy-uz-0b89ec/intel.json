@@ -1,0 +1,50 @@
+{
+ "url": "https://logistacademy.uz",
+ "domain": "logistacademy.uz",
+ "pages_scanned": [
+  "https://www.logistacademy.uz/"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)",
+   "Google Tag Manager"
+  ]
+ },
+ "seo_metadata": {
+  "title": "Logist Academy",
+  "description": "Без громких обещаний — только навыки, с которыми вы уверенно\n      выйдете на стабильный доход от 500 долларов и сможете грамотно\n      управлять потоками и маршрутами.",
+  "open_graph": {
+   "type": "website",
+   "title": "Logist Academy",
+   "description": "Без громких обещаний — только навыки, с которыми вы уверенно\n      выйдете на стабильный доход от 500 долларов и сможете грамотно\n      управлять потоками и маршрутами.",
+   "image": "/meta.png",
+   "url": "https://logistacademy.vercel.app/",
+   "site_name": "Logist Academy"
+  },
+  "twitter_card": {
+   "card": "summary_large_image",
+   "title": "Курсы Логистики С нуля до профессионала",
+   "description": "Без громких обещаний — только навыки, с которыми вы уверенно\n      выйдете на стабильный доход от 500 долларов и сможете грамотно\n      управлять потоками и маршрутами.",
+   "image": "/meta.png",
+   "url": "https://logistacademy.vercel.app/",
+   "creator": "@yourtwitterhandle"
+  }
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [],
+  "total_images_found": 3
+ },
+ "integration_links": [],
+ "hidden_elements": {},
+ "google_ids": {
+  "gtm": [
+   "GTM-5P4VS2CN"
+  ]
+ }
+}

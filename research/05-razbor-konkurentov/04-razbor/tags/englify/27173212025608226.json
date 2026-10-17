@@ -1,0 +1,91 @@
+{
+ "creative_id": "27173212025608226",
+ "platform": "meta",
+ "school_id": "englify",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "постановка или скетч"
+ ],
+ "hook": {
+  "verbatim": "Endi ingliz tilini o'rganolmayman, deb siz to'xtang.",
+  "types": [
+   "боль",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.5s: покадровая озвучка постановочного/сериального фрагмента (мужчина в клетчатой рубашке, синие полосы сверху/снизу как под субтитры) — слова «endi» / «tilini» / «olmayman» / «olmayman» появляются по одному",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s–2.5s: переход на нового ведущего (кудрявые волосы, полосатая рубашка, комната с картой мира и лампой), подпись «ishi bor»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Endi ingilislinin orga namiyyimayin, siz toqtayin. [00:02] Biz ishi bar, yashi 25 tanka otgalaygi ingilisli orga etamiz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта",
+   "экономия времени"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:05] Xatasigi 3 marti, kuniga 80 dakika danjirasyiz yetad.",
+    "timecode": "00:05"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:11] Daftar ruchga xam shartmaz, xammasi iloqamiz itchi.",
+    "timecode": "00:11"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:14] 3 ayda, ingilisli da beymal olgay apirib, chunaladi on darajaga chqas.",
+    "timecode": "00:14"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:17] Fastagi havala orqaliy roxatda otin, menajerlarimiz tolok malimat verishad.",
+    "timecode": "00:17"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук использует приём «озвучка постановочного/сериального фрагмента»: под чужой видеоряд (мужчина в клетчатой рубашке, похоже на кадр из фильма/сериала — конкретное название не идентифицирую) наложена узбекская реплика хука слово за словом, затем монтаж переходит на нового ведущего (кудрявые волосы, комната с картой мира) — тот же приём «найденной плёнки» встречается ещё в 1652973512619882. Хук — тот же шаблон, что в 2941363729367351/920120907740417/1135147335459749/991854763534137 («Endi... o'rganolmayman... to'xtang»), но с другой визуальной подачей. Слово «to'xtang» на предоставленных кадрах хука не видно (обрывается на повторе «olmayman»), достроено по расшифровке."
+}

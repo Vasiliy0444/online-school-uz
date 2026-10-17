@@ -1,0 +1,17 @@
+{
+ "school_id": "qadam",
+ "url": "https://qadam.education/ai/quiz",
+ "sources": "ads:meta | site:sitemap",
+ "first_seen": "2026-09-07",
+ "last_seen": "2026-09-16",
+ "stage_auto_url": "квиз",
+ "is_archive": false,
+ "snapshot_at": "2026-09-16T19:55:03+00:00",
+ "live_status": 200,
+ "final_url": "https://qadam.education/ai/quiz",
+ "title": "Copy of Blank page",
+ "screenshot": "/Users/Bel-a/Data/online-shkola-uz/05-razbor-konkurentov/lendingi/qadam/qadam-education-ai-quiz-e83717/screenshot-mobile.jpg",
+ "stage_auto": "страница спасибо",
+ "stage_reason": "текст (страница спасибо) против адреса (квиз) — проверить по скриншоту",
+ "text_chars": 462
+}

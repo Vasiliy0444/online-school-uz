@@ -1,0 +1,89 @@
+{
+ "creative_id": "1025337580332454",
+ "platform": "meta",
+ "school_id": "hbs-academy",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Hozir asosiy ishingiz bor, lekin erkin grafikli va stabil ko'tarilib boruvchi daromad egasi bo'lish — kelajagingiz uchun yaxshi niyat emasmi?",
+  "types": [
+   "результат или доход",
+   "вопрос"
+  ],
+  "visual": [
+   "крупный текст",
+   "деньги или результат на экране",
+   "логотип бренда",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s: «Hozir»; 0.5s: «ishingiz»; 2.0s–2.5s: «erkin grafikli» — мужчина идёт по офису, садится в кресло у монитора с графиком и лого HBS; sheet_overview.jpg кадр 1 (~0:05): «egasi» на фоне графика котировок",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Hazir asosi ishiz bar, lekin erkin grafikli, [00:02] va stabil kotarili bar uchi daromad egesi bolash, [00:05] keli jiz uchu yaxshi nivsi sakilish niyat edes.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "удалёнка и свобода",
+   "доверие и окупаемость"
+  ],
+  "income_claim": "yiliga 25–30% gacha daromad oshirish sirlarini bilib olasiz (расшифровка, имло тузатилган, аниқлик ўртача)",
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:24] 2 mayda amidasiz, 3Z-inva inivisitetsi soxalarini oriyanib, [00:27] yiligi 25-30%-gechi daramitgechikish sirlarini bilibaliz.",
+    "timecode": "00:24"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (~0:23): маркированный список «· Aksiya va kripto · Bozor tahlili · Risk-menejment»",
+    "timecode": "00:23"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Qo'shimcha daromad egasi bo'lish imkoniyati! 💰 📌 Asosiy ishingizni o'zgartirmagan holda, kuniga kam vaqt sarflab, qo'shimcha daromad qilishingiz mumkin."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "скидка"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:07] Echmez akademisiz uz uchu maksuz taklif bar.",
+    "timecode": "00:07"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "основатель или эксперт"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "средняя",
+ "notes": "Хук — по расшифровке, написание исправлено; часть слов подтверждена кадром («Hozir», «ishingiz», «erkin grafikli», «egasi»), связки («lekin», «va stabil ko'tarilib boruvchi daromad») — только по черновой расшифровке. risk=true: хук прямо обещает «stabil ko'tarilib boruvchi daromad» (стабильный, постоянно растущий доход), а далее звучит конкретная цифра «yiliga 25–30% gacha daromad» (до 25–30% дохода в год) — самое конкретное числовое обещание доходности во всей порции наравне с 1678596329886775. Курс назван «Express Trading kurs», программа — по списку на кадре: акции и крипто, анализ рынка, риск-менеджмент. Фрагмент [00:24] «2 mayda amidasiz, 3Z-inva inivisitetsi soxalarini oriyanib» расшифрован очень неуверенно (возможно «2 oyda amaliyot qilasiz, 3ta investitsiya sohasini o'rganib» — 2 месяца практики, 3 направления инвестиций) — в поля не вынесено, только в notes. «Maxsus taklif» упомянут словом, но конкретика (скидка/цена) не прозвучала в расшифрованной части."
+}

@@ -1,0 +1,72 @@
+{
+ "url": "https://inter-nation.uz/success-alumni",
+ "school_id": "inter-nation",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "страница спасибо",
+ "builder": "Next.js",
+ "pixels": [
+  "Google Analytics (GA4)",
+  "Google Tag Manager"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Подтверждение заявки выпускника на IELTS-кэшбэк: результат принят, «вы имеете право на кэшбэк», школа проверяет подлинность сертификата и дату экзамена и свяжется",
+  "quote": "Muvaffaqiyatli yuborildi\nIELTS natijangiz muvaffaqiyatli qabul qilindi. Biz bilan bo‘lishganingiz uchun rahmat.\nTabriklaymiz, siz IELTS cashback olishga loyiqsiz.",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": true,
+  "value": "Выпускники курса IELTS в Inter Nation: не меньше 24 занятий IELTS без пропусков и 7.5+ на официальном IELTS в течение 180 дней после курса",
+  "quote": "IELTS Cashback bonusi INTER NATION SCHOOL’da IELTS kursining yakunigacha o‘qib tugatgan, eng kamida 24 ta IELTS darsiga (tanaffuslarsiz) qatnashgan va kurs tugaganidan keyin 180 kun ichida IELTS imtihonida 7.5 yoki undan yuqori ball olgan talabalarga beriladi.",
+  "where": "низ страницы"
+ },
+ "program": {
+  "found": false
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [
+   "нет"
+  ]
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "служебная страница после отправки результата IELTS на кэшбэк — цен обучения нет"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": true,
+  "value": "IELTS Cashback: 7.5 — 1 000 000 сум, 8.0 — 2 000 000 сум, 8.5 — 10 000 000 сум, 9.0 — 100 000 000 сум. Условия: участие в промо-видео для соцсетей школы обязательно (при отказе школа вправе не платить), разрешить публикацию фото сертификата, не показывать результат у других учебных центров (иначе бонус аннулируется), выплата в течение 90 дней после сертификата, наличными или переводом, только один раз",
+  "quote": "IELTS 7.5 - 1 000 000 UZS IELTS 8.0 - 2 000 000 UZS IELTS 8.5 - 10 000 000 UZS IELTS 9.0 - 100 000 000 UZS - Cashback olish uchun talaba o‘quv markazi ijtimoiy tarmoqlari uchun tayyorlanadigan video rolikda ishtirok etishga rozilik bildirishi kerak. Agar talaba promo-video suratga olishda qatnashishni rad etsa, INTER NATION bonusni bermaslik huquqiga ega.",
+  "where": "низ страницы"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": false
+ },
+ "next_step": "звонок менеджера",
+ "closed": false,
+ "notes": "Страница «спасибо» не после заявки на обучение, а для выпускников: появляется после отправки результата IELTS на кэшбэк (stage_auto «страница спасибо» по сути верен). Сама форма отправки результата в снимках не найдена — видимо, она в приложении или на отдельной странице. Первый экран (скриншот): галочка, «Muvaffaqiyatli yuborildi», зелёная плашка «Tabriklaymiz, siz IELTS cashback olishga loyiqsiz.», подсказка позвонить на +998 78 777-77-07 и нажать 4. Порядок «Qanday ishlaydi?»: «So‘rov yuborish» → «Qayta qo‘ng‘iroq qilamiz» (в течение 7 дней после заявки) → «Promo video suratga olish» (через 7–14 дней) → «Keshbek olish» («Videomuloqot kuni», в русской версии — «В день видеосъемки»). Условия совпадают с офертой (пп. 1.1, 4.14). Противоречие: в шагах кэшбэк выдают в день съёмки, в условиях — «90 kun ichida» после предъявления сертификата. Механика превращает кэшбэк в поток видеоотзывов: съёмка в промо-ролике обязательна, а показывать результат у других центров запрещено. Суммы кэшбэка — бонус за результат, а не цена и не доход, поэтому в price и income_claim не записаны. Персональных данных учеников на странице нет. /ru/success-alumni и /en/success-alumni — тот же текст на русском и английском. Техника (intel.json): Next.js, GA4 и Google Tag Manager; Meta Pixel не обнаружен."
+}

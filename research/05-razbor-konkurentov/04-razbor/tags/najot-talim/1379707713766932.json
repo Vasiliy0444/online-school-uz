@@ -1,0 +1,75 @@
+{
+ "creative_id": "1379707713766932",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Bolajonim, onamning bitta gapi bor edi: aravaning oldingi g'ildiragi qay tomonga qarab yursa, keyingi g'ildiragi ham shu tomonga yuradi, derdilar.",
+  "types": [
+   "история"
+  ],
+  "visual": [
+   "лицо в первом кадре"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Bola canim, onamu bitta geplari baridi. Aravanin burinci qildarigi qas tarafgi qarab yursa, qogel lariyam shu tamangi qarab yuradi dirdili.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для мам",
+   "профессия будущего"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:22] xazir kunda farzaniniz qasi kasp egesi bolusdan qatdi nazar, [00:26] qususi boladimi, davlat xadimi boladimi, [00:28] kompüterini zor bolus kerek bolgan zamanda yashayabmiz.",
+    "timecode": "00:22"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[01:04] Nacad Talim Ukum Markyazi farzandi gelecegi bi-farq bolmagan otta analar uchun,",
+    "timecode": "01:04"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бонус",
+   "гарантия",
+   "дедлайн или ограничение мест",
+   "скидка"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "3 650 000 so'mlik bonuslar - Faqatgina sentyabr oyi uchun! — Kursni tugatib, natijadan qoniqmasangiz — 2 yil ichida bepul qayta o'qish huquqi — Robbit va Edfix kurslariga 500 ming so'mlik chegirma — ... Onlayn AI kurslariga 20% chegirma"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Visit Instagram profile",
+  "in_creative": "позвонить",
+  "destination": "Instagram",
+  "funnel_stage": "оферта или оплата"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "Говорит мать ученика (Абдуллаха) — хвалит компьютерную грамотность/программирование/ИИ курсы Najot Ta'lim для детей, интервью в квартире, затем врезка с детьми за ноутбуком. Ни одна из категорий speaker.role не описывает «родитель ученика» — отмечаю как неоднозначное поле, выбрано ближайшее «актёр или ведущий». Хук — расшифровка сильно искажённой пословицы про арбу («aravaning oldingi g'ildiragi...» — куда едет переднее колесо арбы, туда же катится и заднее, о примере родителей для детей); написание исправлено, оригинал слишком испорчен для дословной цитаты. Текст объявления содержит развёрнутую сентябрьскую акцию (бонусы на 3 650 000 сум, право на бесплатное повторное обучение = гарантия, скидки на Robbit/Edfix/AI-курсы/MacPlus, «faqatgina sentyabr oyi uchun» = дедлайн) — по инструкции тегирую бонус/гарантию/дедлайн/скидку. Последняя фраза расшифровки — призыв звонить по номеру («pastiki rakamlargi kongirak qilin»), поэтому cta.in_creative = «позвонить», хотя кнопка объявления ведёт в Instagram. Явных субтитров на кадрах overview не видно."
+}

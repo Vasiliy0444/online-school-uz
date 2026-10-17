@@ -1,0 +1,65 @@
+{
+  "creative_id": "1965422631083667",
+  "platform": "meta",
+  "school_id": "hbs-academy",
+  "format": {
+    "type": "динамическое (DCO)",
+    "duration_bucket": "31–60 с",
+    "aspect": "9:16"
+  },
+  "style": ["говорящая голова", "сток"],
+  "hook": {
+    "verbatim": "Pul yig'dingiz, endi uni shunchaki saqlash emas, investitsiya qilish haqida o'ylayapsiz",
+    "types": ["обращение к сегменту"],
+    "visual": ["деньги или результат на экране", "движение или смена кадра"],
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_hook.jpg 0.0s: Pul; 0.5s–1.5s: Pul yig'ndingiz; 2.0s: saqlash emas; 2.5s: saqlash emas investitsiya (поверх кадра с кейсом, полным пачек долларов, рука берёт деньги)",
+        "timecode": "00:00"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Buliyyih dis, enduni, shun chaki saklaxamiz, inisisi qilish haqda oyla asmiz.",
+        "timecode": "00:00"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["доход"],
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_hook.jpg 2.5s: saqlash emas investitsiya",
+        "timecode": "00:02"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "HBS Express kursidi siz aksilani tahlil kiliş, caiz aktiflani saralab aliş, savda kriş noktasini anıqliş və kapitalizdi toğru başkajşı orginasiz.",
+        "timecode": "00:24"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:28: tahlil qilish, joiz aktivlarni",
+        "timecode": "00:28"
+      }
+    ]
+  },
+  "offer": {
+    "items": ["без оффера"]
+  },
+  "cta": {
+    "button": "Sign up",
+    "in_creative": "заполнить форму",
+    "destination": "форма Meta",
+    "funnel_stage": "основной продукт"
+  },
+  "speaker": {
+    "role": "основатель или эксперт"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": true,
+  "risk": true,
+  "confidence": "средняя",
+  "notes": "DCO: в выборке один видеовариант, текста объявления нет. Хук по субтитрам на кадрах (на кадре опечатка «yig'ndingiz»), полная фраза по расшифровке, написание исправлено. Первые ~2,5 с — стоковый/киношный план с кейсом долларов, дальше говорящая голова. Спикер объясняет инвестирование как эксперт (как выбрать компанию, халяльность акций, точка входа, управление капиталом), имя не звучит. «доход» — по смыслу (вложить накопления с прибылью), сумм нет. Курс HBS Express — офлайн в Ташкенте, 1,5 месяца (00:33, по расшифровке). Призыв: «HBS kursigi hazurab ariza xaldirin» (00:38) → заявка через мгновенную форму. risk: торговля акциями, «savda kirish nuqtasi» (трейдинг). Перевод хука: «Накопили деньги и теперь думаете не просто хранить их, а инвестировать»."
+}

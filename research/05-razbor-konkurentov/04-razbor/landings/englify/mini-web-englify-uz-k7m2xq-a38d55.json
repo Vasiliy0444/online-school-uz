@@ -1,0 +1,86 @@
+{
+ "url": "https://mini-web.englify.uz/k7m2xq",
+ "school_id": "englify",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "вебинар или мастер-класс",
+ "builder": "своя сборка (фреймворк не определён)",
+ "pixels": [
+  "Google Analytics (GA4)"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Бесплатный мастер-класс: запоминать 50 слов в день и использовать их в реальной жизни; запомнить навсегда",
+  "quote": "BEPUL MASTER-KLASS\n22-23-24 Sentyabr·Soat 20:00\nKuniga 50 ta soʻz yodlab uni real hayotda ishlatish",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "program": {
+  "found": true,
+  "duration": "22, 23 и 24 сентября в 20:00 — одна встреча на выбор или серия из трёх, на странице не сказано",
+  "format": "неизвестно",
+  "quote": "Masterklassda siz:\nKuniga 50 tagacha soʻz yodlashning sirli metodikasini\nYodlagan soʻzlaringizni bir umr eslab qolishni\nBilgan soʻzlaringizning hammasini amalda ishlatishni oʻrganasiz"
+ },
+ "speaker": {
+  "found": true,
+  "value": "Teacher Azam — подпись (alt) фото ведущего на первом экране; в видимом тексте имени нет, в описании страницы — «Teacher Azam bilan bepul master-klass…»",
+  "quote": "Teacher Azam",
+  "where": "первый экран"
+ },
+ "social_proof": {
+  "types": [
+   "нет"
+  ]
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "бесплатный мастер-класс («BEPUL MASTER-KLASS») — цены нет, цена курса не упоминается"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": true,
+  "value": "Даты мастер-класса: 22, 23 и 24 сентября в 20:00 (год не указан; снимок от 16.09.2026)",
+  "quote": "22-23-24 Sentyabr·Soat 20:00",
+  "where": "первый экран"
+ },
+ "form": {
+  "present": true
+ },
+ "next_step": "Telegram-канал",
+ "closed": true,
+ "message_match": {
+  "library_id": "1403971944477676",
+  "scores": {
+   "promise_continuity": 7,
+   "language_match": 8,
+   "visual_continuity": 5,
+   "cta_alignment": 8,
+   "specificity_match": 7,
+   "emotional_match": 6
+  },
+  "total_of_60": 41
+ },
+ "notes": "Вариант страницы бесплатного мастер-класса (общее описание серии — в разборе mini-web-englify-uz-p4v9tz-3d58b4) из серии про слова: красно-чёрная тема, фото ведущего, указывающего вверх; меню «Masterklass», «Dastur» (ведёт на #royxat); пункты про 50 слов в день. Формы в тексте снимка и на скриншоте нет — только кнопки «ROʻYXATDAN OʻTISH»; по вставкам «englify-modal-fix» и «englify-phone-intl» форма, видимо, во всплывающем окне: form.present = true, поля не указаны. Слова «efir» нет — format «неизвестно» (в роликах — «bepul online masterclass»). Цены, отзывов, оферты нет. Куда ведёт регистрация, на странице не сказано; next_step «Telegram-канал» — по роликам (регистрация и закрытый Telegram-канал). Техника: в intel.json только GA4; вставки englify-*. Реклама: 2 объявления — 1403971944477676 с 11.09 (6 дней) и 1475997654352134 с 14.09 (3 дня), текст общий для серии («… ✅ 30 kunda ingliz tilida gapirishni boshlash ✅ Til o'rganishni yarimida tashlab ketmay, oxirigacha borish siri … IELTS yoki milliy sertifikatidan yuqori ball …»), кнопка-подпись «MASTER-KLASSDA QATNASHISH». message_match: объявление 1403971944477676 (6 дней). Ролик (черновая расшифровка, 38 с): ведущий идёт по офису, первые кадры с цветовым эффектом, титры по словам «INGLIZ O‘RGANISHGA VAQTIM DEGANLARNI DIQQATIGA HALIYAM» — тем, у кого «нет времени на английский»: не нужно заниматься по 2–3 часа, хватит получаса в день, но каждый день и зная, какие упражнения делать; «Teacher Azam», 13 лет опыта; всего три дня — 22, 23, 24 сентября — бесплатный онлайн-мастер-класс: заговорить с нуля за 30 дней, запоминать до 50 слов в день «за 10 секунд» и применять в жизни, получить сертификат B2; регистрация по ссылке и закрытый Telegram-канал. Заголовок страницы почти дословно повторяет одно из обещаний ролика («kuniga 50 tagacha so‘zni … yodlab real hayotda ishlatish»), но не его хук: «полчаса в день» — это заголовок другой страницы (w7b3jt), а сюда ведёт ролик именно с этим хуком. Нет 30 дней, B2 и 13 лет опыта. С текстом рекламы (разговор за 30 дней, «oxirigacha», IELTS) страница почти не совпадает."
+}

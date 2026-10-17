@@ -1,0 +1,79 @@
+{
+ "creative_id": "1812076963541812",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Bitta yo'nalishda o'qib, 5 ta kasb egasi bo'ling.",
+  "types": [
+   "результат или доход",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.5s–2.0s: тот же ведущий с микрофоном, тёмно-зелёный фон — «Bitta yo'nalishda» → «o'qib 5 ta kasb» → «egasi bo'ling.»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Bitti yonaylişd okup, 5 tekas pege si bolim.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "профессия будущего",
+   "доход"
+  ],
+  "income_claim": "Boshlang'ich 1000$ dan oylik maosh (текст объявления)",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈0:07): счётчик «5 500 000» рядом со словом «mavjud,»",
+    "timecode": "00:07"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:07] Hatta ki, Uzbekistan daxan borsanaj 1000 dolar maqist o'lashadi.",
+    "timecode": "00:07"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Boshlang'ich 1000$ dan oylik maosh!"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Тот же ведущий и фон (тёмно-зелёная стена, ручной микрофон), что и в 1682504512828427, но другой хук: «одно направление — 5 профессий» вместо вопроса про зарплату. Счётчик «5 500 000» иллюстрирует число вакансий в мире."
+}

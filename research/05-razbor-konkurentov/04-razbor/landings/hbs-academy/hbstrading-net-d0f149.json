@@ -1,0 +1,83 @@
+{
+ "url": "https://hbstrading.net/",
+ "school_id": "hbs-academy",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "главная или каталог",
+ "builder": "Nuxt",
+ "pixels": [
+  "Google Analytics (GA4)",
+  "Google Tag Manager"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Общий посыл холдинга без конкретного результата: возможности для роста, «imkoniyatlarni foydaga aylantiramiz» (превращаем возможности в прибыль), вместе открыть будущее трейдинга",
+  "quote": "O'sish uchun imkoniyat, Yangi eshiklar ochiladi\nAmbitsiya va innovatsiya birlashgan dunyoga qadam qo'ying. HBS Group’da biz imkoniyatlarni foydaga aylantiramiz, orzularni esa haqiqatga aylantiramiz. Keling, birga savdo olamining kelajagini kashf qilaylik.",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": true,
+  "value": "Цифр дохода на главной нет, обещания словами: «barqaror foyda olish» (стабильная прибыль) в темах академии; в блоке HBS Prop — ежедневный заработок биткоина и выплаты BTC на кошелёк",
+  "quote": "Risk boshqaruvi va strategiyalar - xavflarni kamaytirib, barqaror foyda olish\n…\nHar kuni bitkoin ishlab toping - biz Miningni boshqaramiz, siz daromadni ushlab turasiz\nHar kuni BTC to'lovlarini to'g'ridan-to'g'ri hamyoningizga oling — shaffof boshqaruv paneli, arzon elektr energiyasi va AI asosidagi foydani optimallashtirish.",
+  "where": "середина"
+ },
+ "audience": {
+  "found": true,
+  "value": "Прямо не названа; блок академии обращён к тем, кто начинает путь к финансовой грамотности и выбирает между курсом по крипто- и фондовой торговле",
+  "quote": "Yo'lingizni boshlash uchun kurslardan birini tanlang\nMoliyaviy savodxonlik sayohatingizni boshlash uchun kripto yoki fond savdosi kurslaridan birini tanlang. Har ikkala kurs ham moliyaviy muvaffaqiyat uchun zarur bo'lgan bilim va ko'nikmalarni beradi.",
+  "where": "середина"
+ },
+ "program": {
+  "found": true,
+  "format": "неизвестно",
+  "quote": "HBS Akademiyada siz o'rganasiz:\nKripto spot bozor savdosi - real vaqtda kripto savdosini o'rganish\nFond bozor savdosi - aksiyalar va indekslar bilan ishlash\nFundamental tahlil - kompaniya va loyihalarni chuqur o'rganish\nTexnik tahlil - grafik va indikatorlar orqali bozorni tushunish\nRisk boshqaruvi va strategiyalar - xavflarni kamaytirib, barqaror foyda olish"
+ },
+ "speaker": {
+  "found": true,
+  "value": "Имена не названы: преподают трейдеры с опытом 5+ лет, их знания названы «eng katta kafolat» успеха; 3 фото команды без подписей",
+  "quote": "O'z sohasining mutaxassislari\nAkademiyamizda 5+ yillik tajribaga ega treyderlar dars beradi. Ularning bilimlari sizning muvaffaqiyatingiz uchun eng katta kafolatdir.",
+  "where": "середина"
+ },
+ "social_proof": {
+  "types": [
+   "число учеников"
+  ],
+  "count_claim": "«3000 + O'quvchilar», «10 + Loyihalar», «40 + Jamoa a’zolari» — самоотчёт"
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "на главной цен нет: кнопки ведут на /hbs-academy и в Telegram t.me/hbs_support, внизу — форма заявки на звонок"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "имя",
+   "телефон",
+   "Telegram",
+   "другое"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "notes": "Главная сайта холдинга HBS Group (title «HBS Group — treyding, akademiya va investitsiya»), а не отдельный лендинг академии: академия — один из шести блоков. RU-версия — hbstrading.net/ru (снимок hbstrading-net-ru-f6c219), состав блоков тот же. Этап «главная или каталог» (stage_auto «прочее»).\nПорядок блоков: меню («Kurslar» → /hbs-academy, «Biz haqimizda», «Filiallar», «Kontaktlar») → первый экран: «O'sish uchun imkoniyat, Yangi eshiklar ochiladi», абзац и кнопка «Ma’lumot olish» → t.me/hbs_support → бегущая строка котировок криптовалют (цены в $) → картинка приложения Saraf → «Biz haqimizda»: «3000 + O'quvchilar», «10 + Loyihalar», «40 + Jamoa a’zolari» и 3 фото команды без подписей → «HBS Akademiyasi»: выбор курса «kripto yoki fond savdosi», 5 тем, кнопка «Ma’lumot olish» → /hbs-academy (в тексте блок повторён дважды, абзац про преподавателей внутри повтора тоже задвоен) → «Saraf Screening»: «Shariat qonunlariga mos kripto loyihalarni saralash uchun birinchi innovatsion islomiy moliya ilovasi», кнопка «Hozir kirish» → /saraf → «Saraf Robot» (боты для спот-торговли) → /saraf-robot → «HBS Aktivlarni boshqarish»: «Oldingi muvaffaqiyatli investitsiyalarimizdan ayrimlari» (логотипы монет), кнопка «Investorlar uchun kirish» → /hbs-asset → «HBS Prop»: в блоке — майнинг биткоина с ежедневными выплатами (на самой /hbs-prop — проп-трейдинг с экзаменом, вопрос FAQ «Pul faqat 12,000$ beriladimi?», $12 000 ≈ 141 180 000 сум) → форма «Kontaktlar» → филиалы: Дубай «Park Regis mehmonxonasining xuddi shu minoraga kirish joyi, 32-qavat, 3203-ofis», Ташкент «20A, Yunusobod 12-dahasi, Toshkent» → подвал: «Biz bilan Haqiqiy Boylik Sirini kashf eting», «Biz bilan halol daromad topish yo'lini oching savdoni o'rganish orqali» (первые буквы слов «Haqiqiy Boylik Sirini» — H, B, S), ссылки на приложение Saraf Screening в App Store и Google Play, телефон +998-78-113-62 00, info@hbstrading.net, «ООО \"ACADEMY HBS\"», Telegram t.me/hbs_akademiya, Instagram hbsakademiyasi, Facebook hbsacademyuz, LinkedIn, «Xizmat shartlari», «Maxfiylik siyosati».\nФорма «Kontaktlar» (одинаковая на всех страницах академии): «Ism», «Telefon raqami», «Telegram foydalanuvchi nomi», «Sizga qachon qo'ng'iroq qilish ma’qul?» (4 интервала с 10:00 до 21:00), «Qaysi kursni tanlaysiz?» (Finversity, Express Trading, «Umumiy ma'lumot»), кнопка «Xabar yuborish» — не отправляли. Форма спрашивает время звонка, поэтому next_step = звонок менеджера; кнопка первого экрана ведёт в Telegram t.me/hbs_support (бот это или аккаунт поддержки — по снимку не определить, ссылки не открывали). Цен, рассрочки, гарантии, скидок, бонусов и сроков на главной нет. Слово «kafolat» — только во фразе «Ularning bilimlari sizning muvaffaqiyatingiz uchun eng katta kafolatdir»; условий гарантии к ней нет, поэтому guarantee = не найдено.\nДОХОДНОСТИ НА ГЛАВНОЙ: цифр нет, только слова — «Risk boshqaruvi va strategiyalar - xavflarni kamaytirib, barqaror foyda olish»; «HBS Group’da biz imkoniyatlarni foydaga aylantiramiz»; «Aqlli botlar sizni yo'qotishlardan himoya qiladi» (Saraf Robot); «Har kuni bitkoin ishlab toping - biz Miningni boshqaramiz, siz daromadni ushlab turasiz» и «Har kuni BTC to'lovlarini to'g'ridan-to'g'ri hamyoningizga oling» (HBS Prop). Страницы других бизнесов группы (не разбирались): /hbs-prop — «Agar oy davomida olingan foyda umumiy hisobda 25% dan oshsa, kapital miqdori oshirib beriladi», «Umumiy risk atigi 12%»; /hbs-asset-info — «3.3 trillion AQSH dollari miqdorida boshqaruv ostidagi aktivlar» (RU «Активы под управлением на сумму 3,3 трлн долларов США»; ≈ 38 824 500 000 000 000 сум), а на /hbs-academy — «$3M+ Boshqaruv kapitali»; /saraf-robot — «82% Aniq prognozlar», «850+ Faol mijozlar». Архивная /contacts (Wayback 10.02.2025, старый сайт «2022 - HBS technologies», на английском): «The cryptocurrency market has been known to have high returns, particularly in the short term. This means that it is possible to make significant profits if you are able to make successful trades.»\nЗАЯВЛЕННЫЕ ДОХОДНОСТИ ПО САЙТУ (цифры — самоотчёт, источники не указаны): Express Trading — «Aylanma: 300 ming$ Natija: 7 oy ichida aksiya bozorida: $3000 ni $18,000 gacha olib chiqgan» ($3 000 ≈ 35 295 000 сум, $18 000 ≈ 211 770 000 сум) и «Aylanma: 500 ming $ Natija: 6 oy davomida 20% dan 42% gacha stavil daromad»; «Jamoamiz bilan katta kapitallarni (3mln$+) bo’shqarishda ishlatadigan strategiyalarni o’rganasiz» ($3 млн ≈ 35 295 000 000 сум); Finversity и Crypto Investor — анонимные карточки учеников «10-30% gacha daromad», «40% real shotda daromad», «Hozir 20% foydada», «20-25% daromad» (период и база не указаны); заголовок видеоотзыва «MEN HAM, AYOLIM HAM 25-30% FOYDA QILAMIZ!» (Express, Finversity); Crypto Investor — «2 oy ichida kripto bozorida boshqalar yo'qotayotgan joyda siz daromad qilishni o'rganing»; главная — «Risk boshqaruvi va strategiyalar - xavflarni kamaytirib, barqaror foyda olish»; /hbs-academy — «$3M+ Boshqaruv kapitali»; подвал всех страниц — «Biz bilan halol daromad topish yo'lini oching savdoni o'rganish orqali».\nЛИЦЕНЗИИ И РЕГУЛЯТОРЫ: не найдено — ни на одной из 28 снятых страниц нет лицензий, регуляторов (ни узбекских, ни ОАЭ), регистрационных номеров, ИНН и адреса юрлица; юрлицо — только строка «ООО \"ACADEMY HBS\"» в подвале. Единственное упоминание лицензий — в условиях, и оно про права на контент: «HBS Group yoki litsenziatlarning mulki bo‘lishi mumkin». Рядом по смыслу: «Rasmiy sertifikat» (Finversity) и «Sertifikat» (Crypto Investor) — кем выдаётся, не сказано; «J.P. Morgan xalqaro bankida amaliyot» у преподавателя Crypto Investor; на /saraf — шариатский советник Saraf Screening Doktor Farrukh Habib (шариатская экспертиза, не финансовый надзор).\nДИСКЛЕЙМЕРЫ О РИСКАХ: на страницах академии — не найдено. На всём сайте одна оговорка, в «Xizmat shartlari»: «Saytda joylashtirilgan ma’lumotlar umumiy tanishtirish xarakterida bo‘lib, investitsiya yoki boshqa professional maslahat hisoblanmaydi.» (RU: «Материалы на сайте носят общий информационный характер и не являются персональной инвестиционной или иной профессиональной рекомендацией.»). Предупреждений о возможной потере денег и о том, что прошлые результаты не гарантируют будущих, нет; риск упоминается как тема обучения или в обещаниях контроля: «Treydingda pullaringizni yoqotishdan qo'rqmaysiz, chunki kuchli nazorat va strategiyalar bilan ishlaysiz» (Express), «Aqlli botlar sizni yo'qotishlardan himoya qiladi» (главная, Saraf Robot).\nПро Дубай и шариат на главной: «Saraf — bu Dubayda joylashgan, Shariatga muvofiq kripto va aksiyalar savdosi, o'qitish va investitsiyalar bilan shug'ullanuvchi kompaniya»; на /saraf — «HBS Trading — Dubaydagi Shariatga mos kripto/fond savdosi, o'qitish va investitsiya kompaniyasi».\nRU-версия — отличия: первый экран «Возможности для роста. Открываются новые горизонты», «В HBS Group мы превращаем возможности в результат» (в UZ — «foydaga», в прибыль); вместо «Ularning bilimlari sizning muvaffaqiyatingiz uchun eng katta kafolatdir» — «Их знания — ваш главный актив на пути к успеху» (без слова о гарантии и без повтора); «Управление рисками и стратегии — снижение рисков и получение стабильной прибыли»; «Умные боты защитят вас от убытков»; подвал «Настоящее Богатство Секрет раскройте», «Откройте путь к честному доходу вместе с нами через обучение торговле» («halol» переведено как «честному»). Цифры, форма и контакты те же.\nТехника: по intel.json — GA4 и Google Tag Manager (GTM-5XW7TCSH); Meta Pixel на главной не найден (есть на /hbs-academy и страницах курсов). Сборка — Nuxt (заголовки 404-страниц сайта «| Nuxt», пути /_nuxt/ в intel.json).\nРеклама: в ads_meta.csv 30 объявлений страницы «HBS academy Uzbekistan» (все активны, старт 24.07–11.09.2026), все ведут на мгновенные формы Meta (link_url http://fb.me/, CTA «Sign up»), на сайт — ни одного, поэтому message_match не заполнялся. Предложения из объявлений на сайте не упоминаются: «Kunduzgi offline guruhlar uchun maxsus narx sizni kutmoqda», «Ayollar uchun maxsus kunduzgi offline guruhlar», «Imtiyozli narx faqat cheklangan muddatga», «Savollaringizga offline konsultatsiya orqali javob oling», «Gentra olishning siz bilmagan usuli!».\nНе разбирались: /hbs-ai — не обучение, а заготовка страницы («Biz taklif qilamiz» и трижды «Kontent», 8 одинаковых карточек одного сотрудника с фото-заглушками picsum.photos, 40 одинаковых логотипов в «Partners»); /academy-courses, /about, /careers — живые адреса отдают 404 («Page not found»), архивных снимков нет (/academy-courses была в Wayback с 26.05.2024 по 08.12.2024); /contacts — только архив старого сайта (меню «About us», «Academy Courses», «Careers», «Blogs», «Contacts», адрес «3905/3906, Single business tower, Business Bay, Dubai, UAE»); /saraf, /saraf-robot, /hbs-asset-info, /hbs-prop — другие бизнесы группы; /privacy-policy — политика данных. Скриншот 390×844: первый экран — заголовок, абзац, зелёная кнопка, строка котировок (Tether), начало зелёного блока Saraf с телефонами; текст совпадает с page.md."
+}

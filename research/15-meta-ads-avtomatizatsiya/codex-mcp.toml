@@ -1,0 +1,40 @@
+# Official Meta Ads MCP. Local preparation policy; authentication is pending.
+# Tool names below are from Meta's public documentation. Upload tools will be
+# added only after authenticated tools/list and inspection of their schemas.
+[mcp_servers.meta-ads-drafts]
+url = "https://mcp.facebook.com/ads"
+enabled = true
+http_headers_helper = "/Library/Frameworks/Python.framework/Versions/3.13/bin/python3.13 '/Users/Bel-a/Desktop/CURSOR/БИЗНЕС/Онлайн школа УЗ/infra/meta-ads/credentials.py' headers"
+required = false
+scopes = ["ads_mcp_management", "ads_management", "ads_read", "pages_show_list", "instagram_basic"]
+enabled_tools = [
+  "ads_get_ad_accounts",
+  "ads_get_ad_account_pages",
+  "ads_get_user_pages",
+  "ads_get_field_context",
+  "ads_get_ad_entities",
+  "ads_get_creatives",
+  "ads_get_creative_ads",
+  "ads_get_ad_images",
+  "ads_get_ad_videos",
+  "ads_get_ad_preview",
+  "ads_get_ig_accounts",
+  "ads_get_ig_media",
+  "ads_get_ad_account_custom_audiences",
+  "ads_get_custom_audience",
+  "ads_get_custom_audience_adsets",
+  "ads_create_campaign",
+  "ads_create_ad_set",
+  "ads_create_ad",
+  "ads_create_creative",
+  "ads_create_custom_audience",
+]
+# Defense in depth. Update/boost can alter delivery or affect existing objects.
+disabled_tools = [
+  "ads_activate_entity",
+  "ads_update_entity",
+  "ads_boost_ig_post",
+  "ads_delete_custom_audience",
+  "ads_update_custom_audience",
+  "ads_update_custom_audience_users",
+]

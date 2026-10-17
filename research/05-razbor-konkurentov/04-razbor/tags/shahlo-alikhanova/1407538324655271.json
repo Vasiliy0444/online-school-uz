@@ -1,0 +1,85 @@
+{
+ "creative_id": "1407538324655271",
+ "platform": "meta",
+ "school_id": "shahlo-alikhanova",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "≤15 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "постановка или скетч"
+ ],
+ "hook": {
+  "verbatim": "Sun'iy intellekt bilan daromad topish video darsligi",
+  "types": [
+   "страх упустить",
+   "событие с датой"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: «SUN'IY INTELLEKT BILAN DAROMAD TOPISH VIDEO DARSLIGI» — статичный заголовок все 6 кадров; женщина в образе восточной «царицы» (расшитое платье, корона/тиара, виноградная лоза и ковры на фоне) наливает чай из кувшина",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] 2026. yir suni intelekt bilan daromad, o'qish videosini kursh chun,",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:03] fastegi tugmani basip, videonu akhur geci kurshni unutmeyin, [00:06] chunki yakinda uchir varishadi.",
+    "timecode": "00:03"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "страх отстать",
+   "доход"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:06] chunki yakinda uchir varishadi.",
+    "timecode": "00:06"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный урок",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "[BEPUL VIDEODARS] - Qanday Qilib Sun'iy Intellekt Orqali Daromad Qilish Mumkin?"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:06] chunki yakinda uchir varishadi.",
+    "timecode": "00:06"
+   }
+  ]
+ },
+ "cta": {
+  "button": "See details",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "голос за кадром"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Самый короткий ролик порции (8.1 с) — по сути только хук и CTA, без раскрытия оффера. Визуал — стилизованная сцена «восточной царицы», разливающей чай (виноградная лоза, ковры, ажурная корона); лицо не говорит синхронно с текстом (рот не открывается в такт), поэтому это скорее закадровый голос поверх постановочной/возможно AI-сгенерированной картинки, чем говорящая голова — отсюда speaker.role «голос за кадром» и низкая уверенность в стиле (не исключаю, что видео сгенерировано нейросетью, но подтверждения в кадре нет, поэтому style ограничен «постановка или скетч»). Расшифровка (написание исправлено): «2026-yil sun'iy intellekt bilan daromad [olish] o'quv videosini ko'rish uchun, pastdagi tugmani bosib, videoni oxirigacha ko'rishni unutmang, chunki yaqinda o'chirib yuboriladi» — явный дедлайн/срочность («скоро удалят»), это единственный креатив порции с прямой угрозой ограниченной доступности видео, поэтому дополнительно к «бесплатный урок» помечен оффер «дедлайн или ограничение мест». burned_subtitles = false: заголовок на кадре статичен и не содержит фразы про срочность — она есть только в речи, поэтому текст на экране не дублирует речь целиком."
+}

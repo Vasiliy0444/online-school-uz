@@ -1,0 +1,87 @@
+{
+ "creative_id": "4680242528865939",
+ "platform": "meta",
+ "school_id": "shahlo-alikhanova",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Bugun yarim soat vaqtingiz bo'lsa, albatta shu video darslikni ko'ring.",
+  "types": [
+   "бесплатно",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.0s: расфокусированный кадр (силуэт человека); 1.5s–2.5s: «Bugun yarim soa[t]» → «vaqtingiz» → «vaqtingiz bo'lsa» → «albatta» → «shu video darslikni ko'ring», рядом анимированная красная стрелка; мужчина и женщина в хиджабе на фоне современного здания",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Bugun yarim saat o'qish bussa, albatta shu video darsini korin.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "профессия будущего",
+   "доход",
+   "статус"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:03] Biz Shweetsaran e-expertla wa halkora speakerlar Uzbekistan dan Shweetsaran turli lo'ykhla da AI lo'ykhalar disilab, daromad tofkiliyabiz.",
+    "timecode": "00:03"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:08] Aynan shu mazudu, Uzbekistan da 2026-inchi il anaqil suni tshrikban daromad tofkiliyabiz.",
+    "timecode": "00:08"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный урок"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "[BEPUL VIDEODARS] - Qanday Qilib Sun'iy Intellekt Orqali Daromad Qilish Mumkin?"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:20] pastegi tugmanu basi video darsini korin.",
+    "timecode": "00:20"
+   }
+  ]
+ },
+ "cta": {
+  "button": "See details",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "основатель или эксперт",
+  "public_name": "Shahlo Alikhanova"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Ролик начинается с 1–1.5 с расфокусированной заставки (эффект «наведения на резкость»/тизер), затем переходит к дуэту: мужчина (тот же соведущий, что в 3490918217757569, 1435474551826514, 1574056041169618, 1661650509022254; футболка с лого «AI CREATORS STUDIO») и Shahlo Alikhanova на фоне современного здания. Кто именно произносит реплику — по стоп-кадрам не различить (субтитры идут от лица «biz», то есть от двоих), поэтому public_name указан по общему правилу (Shahlo — лицо бренда), но в кадре говорит, вероятно, дуэт. Расшифровка целиком (написание исправлено): «Biz Shvetsiyadan AI ekspertlar va xalqaro spikerlar, O'zbekistondan Shvetsiyaga turli loyihalarda AI loyihalar ishlab, daromad topkazyapmiz. Aynan shu mavzuda, O'zbekistonda 2026-yil qanaqa qilib sun'iy intellekt bilan daromad topkazish [mumkinligi haqida]. Shu haqida biz darsni tayyorladik. Agar sizam 2026-yil AI bilan hayotingizda qandaydir ma'noda o'zgartirmoqchi bo'lsangiz, pastagi tugmani bosib video darsini ko'ring. Ma'lum bo'ladiki, bu sizga yangi yo'nalish bo'ladi» — повторяет заявление про «AI-эксперты и международные спикеры из Швеции», как и в других роликах пары."
+}

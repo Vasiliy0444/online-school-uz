@@ -1,0 +1,68 @@
+{
+ "url": "https://najottalim.uz",
+ "domain": "najottalim.uz",
+ "pages_scanned": [
+  "https://najottalim.uz/kurslar"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)"
+  ],
+  "platform": [
+   "Next.js"
+  ]
+ },
+ "seo_metadata": {
+  "title": "Kurslar | Najot Taʼlim",
+  "description": "Najot Taʼlimning barcha kurslari — Dasturlash, Dizayn va Marketing yoʻnalishida intensiv va odatiy kurslar.",
+  "open_graph": {
+   "title": "Najot Taʼlim — Zamonaviy AyTi taʼlim markazi",
+   "description": "12 000+ muvaffaqiyatli bitiruvchi. Dasturlash, dizayn va marketing kurslari.",
+   "url": "https://najottalim.uz",
+   "site_name": "Najot Taʼlim",
+   "locale": "uz_UZ",
+   "image": "https://najottalim.uz/opengraph-image?6cc60f180aba9aa6",
+   "type": "website"
+  },
+  "twitter_card": {
+   "card": "summary_large_image",
+   "title": "Najot Taʼlim — Zamonaviy AyTi taʼlim markazi",
+   "description": "12 000+ muvaffaqiyatli bitiruvchi. Dasturlash, dizayn va marketing kurslari.",
+   "image": "https://najottalim.uz/opengraph-image?6cc60f180aba9aa6"
+  },
+  "headings": {
+   "h1": [
+    "Oʻzingizga mos yoʻnalishni tanlang"
+   ],
+   "h3": [
+    "Dasturlash Foundation",
+    "Start Junior",
+    "Sunʼiy Intellekt Asoslari",
+    "Full-stack Dasturlash",
+    "Kiberxavfsizlik",
+    "Machine Learning",
+    "Data Analitika",
+    "SMM Pro",
+    "Videografiya",
+    "Mobilografiya",
+    "AI Dizayn",
+    "AI Coding"
+   ]
+  }
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [
+   "https://najottalim.uz/brand/logo-central-white.svg",
+   "https://najottalim.uz/brand/symbol-green.svg"
+  ],
+  "total_images_found": 121
+ },
+ "integration_links": [],
+ "hidden_elements": {}
+}

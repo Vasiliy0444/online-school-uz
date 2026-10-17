@@ -1,0 +1,105 @@
+{
+ "creative_id": "1673440567194954",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Agar siz kuniga 2-3 soat vaqt ajratib, bir yaxshigina daromad qilmoqchi bo'lsangiz…",
+  "types": [
+   "результат или доход",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–1.0s: мужчина у фиолетового спорткара, камера отъезжает от крупного плана",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.5s: «2-3 soat»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s–2.5s: «2-3 soat vaqt ajratib»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Agarsiz kunige 2 u su atuat aciratda bi yaxsh gini daralat kumaxchubasiz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "удалёнка и свобода",
+   "свой бизнес",
+   "статус"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Agarsiz kunige 2 u su atuat aciratda bi yaxsh gini daralat kumaxchubasiz.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:10] ishani qatda biznismen bubketas.",
+    "timecode": "00:10"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈00:26): субтитр «oborotimiz» у ученика в офисе",
+    "timecode": "00:26"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:25] Abaratomiz 40 milion naqshu atdi.",
+    "timecode": "00:25"
+   }
+  ],
+  "revenue_claim": "umumiy oborotimiz 277 millionga chiqdi; oborotimiz 40 million…; bir oy ichida 30 million… oborot (ученики, по черновой расшифровке, суммы кадрами не подтверждены)"
+ },
+ "offer": {
+  "items": [
+   "рассрочка"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:48] Tol olayan, xalisisiz naxti diz, xalisisiz bolib toleshgan,",
+    "timecode": "00:48"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "блогер"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук — подписи на кадрах («2-3 soat», «vaqt ajratib»), полная фраза по расшифровке, написание исправлено («Agarsiz kunige 2 u su atuat aciratda bi yaxsh gini daralat kumaxchubasiz» → «Agar siz kuniga 2-3 soat vaqt ajratib, bir yaxshigina daromad qilmoqchi bo'lsangiz»). Перевод: «если хотите хорошо зарабатывать, уделяя 2–3 часа в день…» — «удалёнка и свобода» отмечена как гибкая занятость. Дальше сценарий серии, как у 938821005625255: на кадре 1 из 4 мужчина держит логотип Uzum; «katta biznesmen bo'lib ketasiz»; вставки учеников (в расшифровке «277 mln» — в 938821005625255 на кадре «237 MLN», вероятно ошибка распознавания; «40 mln», «30 mln за месяц» — оборот, не доход); курс онлайн или офлайн; «bo'lib to'lash» → «рассрочка». Призыв [01:02–01:07]: «Hozir ma'lumotlaringizni qoldirsangiz, o'zlari aloqaga chiqib, yana batafsil ma'lumot berishadi» → форма, этап «основной продукт». Подача от третьего лица, utm UZUM_BLOGER_INOMARKA → «блогер». Тот же адрес uzum-inomarka-v2 у 1671351047231510, где финал — бесплатные уроки. Текста объявления нет."
+}

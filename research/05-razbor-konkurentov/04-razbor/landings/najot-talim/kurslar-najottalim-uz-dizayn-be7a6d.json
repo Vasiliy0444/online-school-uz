@@ -1,0 +1,84 @@
+{
+ "url": "https://kurslar.najottalim.uz/dizayn",
+ "school_id": "najot-talim",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "основной продукт",
+ "builder": "Tilda",
+ "pixels": [
+  "Meta Pixel",
+  "Google Ads",
+  "Google Analytics (GA4) G-PSDL8JT25N",
+  "Яндекс.Метрика (по HTML-комментариям)"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Изучите графический дизайн вместе с искусственным интеллектом",
+  "quote": "Grafik Dizaynni Sun'iy intellekt bilan\no‘rganing!",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": true,
+  "value": "Средний месячный доход выпускников: самый низкий $133, средний $371, самый высокий $1300 (самоотчёт)",
+  "quote": "Bitiruvchilarning o‘rtacha oylik daromadlari\n133$\neng past maosh\n371$\no‘rtacha maosh\n1300$\neng yuqori maosh",
+  "where": "середина"
+ },
+ "audience": {
+  "found": true,
+  "value": "Блока «для кого» нет; в FAQ возрастные рамки: 16–35 лет, 12–16 лет и старше 35 — по собеседованию; английский не обязателен",
+  "quote": "Yosh chegarasi qanday?\nMarkazimizda 16 yoshdan 35 yoshgacha yosh chegarasi mavjud.\n12 yoshdan 16 yoshgacha bo'lgan yoki 35 yoshdan yuqori bo'lgan o'quvchilar suhbat asosida o'qishlari mumkin bo'ladi.",
+  "where": "низ страницы"
+ },
+ "program": {
+  "found": false
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [
+   "логотипы работодателей"
+  ],
+  "reviews_count": 0
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "цены нет — подробности после заявки: «Batafsil ma'lumot olish uchun ro'yxatdan o'ting»"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": true,
+  "value": "Грант Агентства по делам молодёжи «Kelajak kasblari»: если заявку одобрят, оплату курса покрывают — до 6 месяцев, до 1 млн 300 тыс. сум",
+  "quote": "Hozirda Yoshlar ishlar agentligi tomonidan \"Kelajak kasblari\" granti e'lon qilingan, shu grant asosida o'qishingiz mumkin. Bunda Yoshlar ishlar agentligi tomonidan arizangiz tasdiqlansa, 6 oygacha 1 mln 300 minggacha bo'lgan kurs to'lovlari agentlik tomonidan qoplab beriladi.",
+  "where": "низ страницы"
+ },
+ "bonuses": {
+  "found": true,
+  "value": "«Maxsus bonuslar»: предложение работы успешно окончившим (со звёздочкой, условия не раскрыты); минимум раз в год бесплатная поездка за рубеж на конкурсы по дизайну; денежная премия до 5 000 000 сум за 6 месяцев работы в компании-экспортёре — резиденте IT Park",
+  "quote": "AI Grafik dizayn kursi uchun\nmaxsus bonuslar\nIsh taklif qilamiz\nKursni muvaffaqiyatli tamomlagan o'quvchilarimizga ish taklif qilamiz*",
+  "where": "середина"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "имя",
+   "телефон",
+   "город"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "notes": "Старый лендинг на поддомене kurslar (в именах картинок работ учеников — даты 2023 года), но живой; ссылка на него встречалась в Telegram-канале 28.06.2026. Курс назван «AI + Grafik dizayn»; программы, длительности и цены нет. Доход выпускников — самоотчёт: $133 ≈ 1 564 745 сум, $371 ≈ 4 364 815 сум, $1300 ≈ 15 294 500 сум (по 11 765 сум за $1). Гарантии нет. «ish taklif qilamiz*» подано как бонус со звёздочкой, в FAQ — «ma'lum shartlar asosida ish taklifini beradi» (на определённых условиях, условия не раскрыты). В публичной оферте условий возврата и оплаты частями тоже нет (разбор — oferta-najottalim-uz-documents-oferta-nt-pdf-2d28fc.json). Соцдоказательства: 8 логотипов «Bitiruvchilarimiz ishlayotgan kompaniyalar» и галерея из 9 работ учеников; отзывов нет. Формы: «Batafsil ma'lumot olish uchun ro'yxatdan o'ting» (телефон + филиал), финальная (имя + телефон + филиал) и всплывающие по кнопкам «Ro'yxatdan o'tish». Филиалы: Toshkent, Farg`ona, Xorazm, Samarqand (в схеме «город»). Звонок менеджера — вывод: форма собирает телефон ради «batafsil ma'lumot», в FAQ дан номер call-центра. Противоречия на странице: возрастные правила в FAQ заданы дважды по-разному (14–16 лет — «imtihon bilan», и 12–16 или 35+ — «suhbat asosida»; 40+ — после собеседования); у ссылки на карту филиала в Фергане те же координаты, что у Chimboy в Ташкенте. Меню ведёт на kurslar.najottalim.uz/dasturlash и /smm (не снимались); связь с администрацией — t.me/najoteduadmin. В коде есть скрипт Marquiz, квиза на странице нет. Конструктор — Tilda: в intel.json платформа не указана, но есть признаки (og:image на static.tildacdn, служебные комментарии allrecords и t-title t-text t-btn). Скриншот — первый экран: заголовок на фото и кнопка «Ro'yxatdan o'tish»."
+}

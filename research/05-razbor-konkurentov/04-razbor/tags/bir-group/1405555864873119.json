@@ -1,0 +1,82 @@
+{
+ "creative_id": "1405555864873119",
+ "platform": "meta",
+ "school_id": "bir-group",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "сток"
+ ],
+ "hook": {
+  "verbatim": "Bu yilgi davlat imtihonlaridan o'tolmagan bo'lsangiz, aslo xavotirlanmang,",
+  "types": [
+   "боль",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.0s: общий план экзаменационного зала сверху (ряды парт, сдающие тест в белых рубашках), похоже на архивную/стоковую съёмку; субтитры «Bu yilgi davlat» → «imtihonlaridan» → «o'tolmagan bo'lsangiz.»; на 2.5s смена кадра на мужчину в чёрной рубашке в помещении с текстом «aslo xavotirlanmang,»",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для студентов",
+   "доход"
+  ],
+  "income_claim": "600 million so'mdan [продолжение фразы обрезано кадром, не подтверждено расшифровкой]",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:21: мужчина на фоне уличного билборда фотографирует на телефон, крупный текст «600 MILLION SO'MDAN» (продолжение фразы не попало в кадр)",
+    "timecode": "00:21"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:13: зал, полный сидящих слушателей, на экране баннер «BIR» / «BIR TA'LIM B...» (обрезано), подпись «500 NAFAR YOSHNI»",
+    "timecode": "00:13"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Buning uchun 500 ta grant ajratilgan. 25-sentabr kuni onlayn taqdimot bo'lib o'tadi."
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:29: спикер в чёрной рубашке в помещении, подпись «Taqdimotda qatnash»",
+    "timecode": "00:29"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "ВАЖНО: хук на кадре НЕ совпадает со строкой расшифровки [00:00] «Bugun daromad, kurs, o'qish va ish haqida gaplashamiz» — на самих кадрах 0.0–2.5s другой текст: «Bu yilgi davlat imtihonlaridan o'tolmagan bo'lsangiz, aslo xavotirlanmang,» (общий план экзаменационного зала, похоже на стоковую/архивную съёмку сверху). По правилу «кадр надёжнее расшифровки» hook.verbatim взят с кадра; вероятно, тайм-код расшифровки сбит или это фрагмент из другого места ролика — хук по кадру, расхождение с расшифровкой. Расшифровка покрывает только начало (00:00) и самый конец (00:30–00:31) из 33.6 с — середина (~27 с) не расшифрована, поэтому связка «почему не переживать / что предлагаем» реконструирована только по 4 обзорным кадрам. Кадр на ~0:21 показывает крупный текст «600 MILLION SO'MDAN» — фраза обрезана (что дальше — не видно и не подтверждено расшифровкой), поэтому income_claim зафиксирован с оговоркой и пониженной уверенностью. Это единственный ролик в подборке с цифрой «600 million» вместо «650 million», которая встречается в большинстве других роликов пачки — возможно, более ранняя/другая нарезка или другая волна выпускников. Концовка чёткая: [00:30–00:31] «Pasta ki, padra obni tukmasini basib, Telegram kanalimizga abunabolim» = «pastdagi tugmani bosib, Telegram kanalimizga obuna bo'ling» — Telegram назван явно голосом, это самая ясная telegram-CTA во всей подборке. Link_url всё равно ведёт на лендинг bir-group-webinar.vercel.app, а не в t.me — ролик зовёт в Telegram-канал по расшифровке, но link_url ведёт на лендинг. Confidence снижена до «низкая» из-за несовпадения хука с расшифровкой и большого непокрытого расшифровкой участка."
+}

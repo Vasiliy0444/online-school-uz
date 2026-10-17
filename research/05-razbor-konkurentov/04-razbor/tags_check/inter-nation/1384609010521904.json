@@ -1,0 +1,70 @@
+{
+  "creative_id": "1384609010521904",
+  "platform": "meta",
+  "school_id": "inter-nation",
+  "format": {
+    "type": "видео",
+    "duration_bucket": "16–30 с",
+    "aspect": "9:16"
+  },
+  "style": ["говорящая голова"],
+  "hook": {
+    "verbatim": "Ingliz tilini nafaqat tushunib, balki o'zingizga ishonch bilan gaplashmoqchi bo'lsangiz",
+    "types": ["обращение к сегменту", "результат или доход"],
+    "visual": ["лицо в первом кадре"],
+    "evidence": [
+      {
+        "source": "расшифровка",
+        "quote": "Engilis tili na faqat chunib, balkim uzizgi ishanch bilan gaplashmokchi bolsanyiz,",
+        "timecode": "00:00"
+      },
+      {
+        "source": "кадр без текста",
+        "quote": "sheet_hook.jpg 0.0s–2.5s: мужчина в белом поло на чёрном фоне говорит в камеру, текста нет",
+        "timecode": "00:00"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["доверие и окупаемость", "для регионов"],
+    "evidence": [
+      {
+        "source": "текст объявления",
+        "quote": "🔸 IELTS 9.0 va CELTA sertifikatiga ega kuchli o‘qituvchilar 🔸 Oxford University Press xalqaro dasturi va mualliflik IELTS-X kursi"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Sintyabir ayige, Samarkand filagimizge, Engilis tili kurslargi qabul ochik,",
+        "timecode": "00:05"
+      },
+      {
+        "source": "кадр без текста",
+        "quote": "sheet_overview.jpg ~0:06: здание школы INTER NATION снаружи",
+        "timecode": "00:06"
+      }
+    ]
+  },
+  "offer": {
+    "items": ["бонус"],
+    "evidence": [
+      {
+        "source": "текст объявления",
+        "quote": "🔸 Bepul CD Mock imtihonlari"
+      }
+    ]
+  },
+  "cta": {
+    "button": "Sign up",
+    "in_creative": "перейти по ссылке",
+    "destination": "лендинг",
+    "funnel_stage": "основной продукт"
+  },
+  "speaker": {
+    "role": "актёр или ведущий"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": false,
+  "risk": false,
+  "confidence": "средняя",
+  "notes": "Хук только в речи — по расшифровке, написание исправлено. Субтитров нет; в конце стрелка вниз (~0:11) и заставка с логотипом Inter nation English school (~0:15). Спикер говорит от лица школы («filialimizga»), имя и должность не показаны. «доверие и окупаемость» — по тексту объявления (преподаватели с IELTS 9.0 и CELTA, программа Oxford); в самом ролике — уверенно говорить и набор в Самаркандский филиал на сентябрь («для регионов»). «бонус» — бесплатные CD Mock экзамены из текста объявления (неоднозначно: это скорее свойство курса). Призыв: «pastage havalana otin» (00:10). Ссылка inter-nation.uz/l/instagram_samarqand — свой домен. Перевод хука: «Если хотите не только понимать английский, но и уверенно на нём говорить»."
+}

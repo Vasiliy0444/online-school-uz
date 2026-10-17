@@ -1,0 +1,74 @@
+{
+ "creative_id": "1153944906719332",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "ANDIJON. MUHIM YANGILIK. Andijon, bizda muhim yangilik: Inter Nation English School shaharning eng markaziy nuqtasida ishlamoqda.",
+  "types": [
+   "новость",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.0s–2.5s: белый текст «ANDIJON», затем «MUHIM YANGILIK» на чёрном фоне поверх кадра с мужчиной в костюме",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Andijan, bizda muhum yangilik.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:02] International English School, [00:04] shakharinin en markezi nuktasi da ishlamakta.",
+    "timecode": "00:02"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для регионов",
+   "доверие и окупаемость"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:28] IELTS, TOPS-X, SELTA sertifikatiga ega ustazlar, Toshkent va Samarkanddagi talebalarimiz natijalari bunga yakqal dalil.",
+    "timecode": "00:28"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук хорошо подтверждён кадром (текст «ANDIJON» / «MUHIM YANGILIK» совпадает с началом расшифровки). Ролик об открытии нового филиала в центре Андижана (здание «Mumtoz», ~20 аудиторий, амфитеатр, co-working, вместимость до ~3000 учащихся — по расшифровке, точные цифры не гарантирую из-за «черновое» качества, поэтому не включаю их в структурированные поля). Солидный мужчина в костюме подаёт новость лично и уверенно — не исключаю, что это директор/руководитель школы, но явного заявления об этом в расшифровке нет, поэтому роль оставлена «актёр или ведущий», а не «основатель или эксперт»."
+}

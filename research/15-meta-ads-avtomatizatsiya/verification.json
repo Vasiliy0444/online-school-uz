@@ -1,0 +1,90 @@
+{
+  "checked_at_utc": "2026-10-10T15:51:35.384743+00:00",
+  "scope": "Own business; research and local preparation; no campaign brief or credentials provided",
+  "overall_status": "LOCAL_PREPARATION_READY_AUTHORIZATION_PENDING",
+  "python_version": "3.13.5",
+  "cli_version": "meta, version 1.2.0",
+  "cli_path": "/Users/Bel-a/.venvs/meta-ads-codex/bin/meta",
+  "cli_package": "meta-ads==1.2.0",
+  "official_package_source": "https://developers.facebook.com/documentation/ads-commerce/ads-ai-connectors/ads-cli/setup/get-started",
+  "mcp_url": "https://mcp.facebook.com/ads",
+  "project_config_parsed": true,
+  "existing_superdesign_preserved": true,
+  "mcp_config_mirror_equal": true,
+  "enabled_tools_count": 20,
+  "disabled_tools": [
+    "ads_activate_entity",
+    "ads_update_entity",
+    "ads_boost_ig_post",
+    "ads_delete_custom_audience",
+    "ads_update_custom_audience",
+    "ads_update_custom_audience_users"
+  ],
+  "authentication_method_prepared": "Employee System User Bearer token through local http_headers_helper",
+  "token_file": "/Users/Bel-a/.config/meta-ads-codex/access-token",
+  "token_saved_by_this_task": false,
+  "authenticated_connection_verified": false,
+  "authenticated_tools_list_verified": false,
+  "media_upload_verified": false,
+  "create_and_readback_verified": false,
+  "server_rules_installed": false,
+  "external_ad_objects_created": false,
+  "campaigns_activated": false,
+  "cli_help_flags_verified": [
+    "--image",
+    "--video",
+    "--status",
+    "--instagram-user-id"
+  ],
+  "unittest": {
+    "passed": true,
+    "tests_run": 9,
+    "command": "/Library/Frameworks/Python.framework/Versions/3.13/bin/python3.13 -B -m unittest discover -s infra/meta-ads -p test_*.py -v",
+    "includes": [
+      "private token permissions and symlink rejection",
+      "header injection rejection",
+      "fixed PAUSED and no shell/flag injection",
+      "malformed URL, CTA and control character rejection",
+      "mocked main success/error/timeout",
+      "token redaction and no automatic retry"
+    ]
+  },
+  "independent_reviews": {
+    "code_reviewer": "APPROVE; no actionable final findings",
+    "python_reviewer": "APPROVE; validation and main-test findings fixed"
+  },
+  "earlier_protocol_checks_same_task": [
+    {
+      "operation": "unauthenticated MCP initialize",
+      "url": "https://mcp.facebook.com/ads",
+      "http_status": 401,
+      "result": "Authentication Required; OAuth protected-resource metadata advertised"
+    },
+    {
+      "operation": "OAuth protected-resource metadata",
+      "url": "https://mcp.facebook.com/.well-known/oauth-protected-resource/ads",
+      "result": "Read successfully; ads_mcp_management and marketing scopes advertised"
+    },
+    {
+      "operation": "OAuth authorization-server metadata",
+      "url": "https://www.facebook.com/.well-known/oauth-authorization-server/ads",
+      "result": "Read successfully; PKCE S256 and registration endpoint advertised"
+    },
+    {
+      "operation": "codex mcp login meta-ads-drafts --no-browser",
+      "exit_code": 1,
+      "http_status": 400,
+      "error": "invalid_client_metadata",
+      "detail": "Dynamic registration is not available for this client.",
+      "authorization_granted": false
+    }
+  ],
+  "unverified_requirements": [
+    "User app availability and permission/access tier",
+    "MCP feature availability for actual business",
+    "Asset assignment and supported campaign settings",
+    "Exact authenticated upload/audience schemas",
+    "Image and video create/readback",
+    "Meta-side rule availability and readback"
+  ]
+}

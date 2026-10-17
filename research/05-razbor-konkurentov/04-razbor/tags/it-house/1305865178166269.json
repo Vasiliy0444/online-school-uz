@@ -1,0 +1,94 @@
+{
+ "creative_id": "1305865178166269",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "постановка или скетч",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Berib yuboraman o'sha qarzingizni",
+  "types": [
+   "боль",
+   "история"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.5s–2.0s: девушка со смартфоном (зелёный чехол) у уха, «BERIB YUBORAMAN O'SHA QARZINGIZNI»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Uff, beri borama usha qarzizi.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта"
+  ],
+  "income_claim": "web dasturchilar uchun 2000 dollardan 3000 dollargacha (вакансии HeadHunter.uz, по расшифровке)",
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:12] IT House-da web dasturlash kaspini olgan sangiz,",
+    "timecode": "00:12"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈0:16): парень с ноутбуком на фоне иконок Vue.js/HTML5/CSS, «3-OY BEPUL AMALIYOT»",
+    "timecode": "00:16"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:26] Adkenche kampanyalar web dasturchilar uchun 2.000 dolordan 3.000 dolar gecet olashka tayyor.",
+    "timecode": "00:26"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бонус",
+   "гарантия"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:15] uch oy bi pulam aliyotva, [00:16] yus va ish ishke jolash iziki falatini biz beramiz.",
+    "timecode": "00:15"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (≈0:26): «PORTFOLIO BILAN CHIQASIZ»",
+    "timecode": "00:26"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Длинный вариант ролика про web full stack (ср. короткий 1555109995724876/1372606148420516 с иной завязкой «erkin grafik»). Хук — девушка на телефоне про возврат долга, дальше монтаж: парень на фоне иконок фреймворков («3 oy bepul amaliyot»), девушка «portfolio bilan chiqasiz», упоминание вакансий web-разработчиков на HeadHunter.uz (2000–3000$) как «доказательство дохода» — тот же приём, что в роликах AutoCAD-группы (400–1200$ для интерьер-дизайнеров), только с другой профессией/цифрой. Идентичный шаблон и текст объявления также у 1388961993343806 (длинная версия, копия)."
+}

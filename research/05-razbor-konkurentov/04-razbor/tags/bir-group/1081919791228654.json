@@ -1,0 +1,97 @@
+{
+ "creative_id": "1081919791228654",
+ "platform": "meta",
+ "school_id": "bir-group",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "18-25 yoshdasiz, lekin hali qaysi kasb menga mos degan savolga javob topmagansiz.",
+  "types": [
+   "вопрос",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: мужчина в тёмном пиджаке на фоне медресе (бирюзовый купол, резной портал); крупный белый текст «18-25 YOSHDASIZ» (0.0–1.5s) → «LEKIN HALI QAYSI» (2.0–2.5s); продолжение «JAVOB TOPMAGANSIZ» видно на sheet_overview.jpg ~0:05",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] 18-25 yaqshda siz leket hali tais kask minge mas degan sawalga jawab tapmagan siz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта",
+   "доход",
+   "профессия будущего"
+  ],
+  "income_claim": "650 million so'mdan ko'proq (по расшифровке, сильно искажённой; сумма коллективная — прошлый поток выпускников, не на человека; ни на одном доступном кадре цифра не подтверждена)",
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:20] Bundan alin gurukumuzda okugan okuchilar, hazar gechi 650 kimligin somdan koptul satib boldi.",
+    "timecode": "00:20"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:26] Endi nabiz, sizniki, zamana vikastarini organin [00:29] və tarama tapip rozgarinizi yardan verin.",
+    "timecode": "00:26"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Zamonaviy kasblarni bepul o'rganish imkoniyatini sizga \"Bir Group\" beradi."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:16: текст «500 GRAND LOYIHAMIZNI»",
+    "timecode": "00:16"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:14] Yani 500 grand laykhamizi tabolunakchi. [00:17] Yetkili onaylish boychi 500 kishini beyfulgi okutmakchimiz.",
+    "timecode": "00:14"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "25-sentabr kuni onlayn taqdimot bo'lib o'tadi."
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук хорошо подтверждён кадром: «18-25 YOSHDASIZ» → «LEKIN HALI QAYSI» → (на overview) «JAVOB TOPMAGANSIZ» — прямой вопрос к конкретному возрастному сегменту про нерешённость с профессией; середина фразы между 2.5с и ~0:05 (ожидаемо «kasb menga mos degan savolga») не попала в семплированные кадры, восстановлена по расшифровке. Доход прошлого потока — «650 [million so'mdan ko'proq]» — очень искажённая строка расшифровки [00:20] «hazar gechi 650 kimligin somdan koptul satib boldi», при этом ни на одном из 4 обзорных кадров (~0:05, ~0:16, ~0:26, ~0:36) крупная цифра не показана (в отличие от роликов 2102027537351296 и 1085611750603492, где такая же цифра подтверждена на экране) — поэтому доверие к точной сумме ниже, но общий факт «доход выпускников» подтверждается более понятной фразой [00:29] «tarama tapip rozgarinizi yardan verin» (поможем вам найти заработок). Оффер (500 грантов) подтверждён и текстом в кадре «500 GRAND LOYIHAMIZNI» (~0:16), и расшифровкой, и текстом объявления. CTA: [00:35]-[00:37] «basayt imana basansiz və Telegram kanaliye koshilu olasiz» — «нажимаете на кнопку и присоединяетесь к Telegram-каналу» — слово Telegram звучит явно. Ролик зовёт в Telegram-канал, а link_url ведёт на лендинг bir-group-webinar.vercel.app/ (корень) — расхождение. Спикер не назван по имени — роль «актёр или ведущий» без public_name."
+}

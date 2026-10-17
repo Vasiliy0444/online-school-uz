@@ -1,0 +1,95 @@
+{
+ "url": "https://qadam.online/courses/1/309",
+ "school_id": "qadam",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "мини-курс или трипвайер",
+ "builder": "Exode (qadam.exode.biz)",
+ "pixels": [
+  "Meta Pixel",
+  "Google Analytics (GA4)",
+  "Google Tag Manager",
+  "Яндекс.Метрика"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Бесплатные уроки по Uzum: подходит ли вам Uzum, как правильно начать, как избежать частых ошибок; старт к доходу $500–2000 в месяц",
+  "quote": "Uzum Marketda savdoni 0 dan o‘rganing va oyiga $500 dan $2000 gacha daromad qilishni boshlang 💸\n🎁 Bepul darslarda siz:\n✔️ Uzum sizga mos yoki yo‘qligini\n✔️ Qanday qilib to‘g‘ri boshlash kerakligini\n✔️ Eng ko‘p xatolardan qochishni bilib olasiz\nUshbu darsliklar sizning yangi daromad manbaingiz sari birinchi qadam 🔥",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": true,
+  "value": "Доход от $500 до $2000 в месяц — обещание в описании курса, без источника",
+  "quote": "Uzum Marketda savdoni 0 dan o‘rganing va oyiga $500 dan $2000 gacha daromad qilishni boshlang 💸",
+  "where": "первый экран"
+ },
+ "audience": {
+  "found": true,
+  "value": "Новички без опыта на Uzum (ответ FAQ)",
+  "quote": "Uzum bozori bilan hech qachon ishlamaganman. Kurs menga mos keladimi?\nHa, albatta, bu sohada tajribangiz bo'lmasa ham Uzum bozorida kurs o'tashingiz mumkin. Kurslar ma'lum bir sohada o'z bilim va ko'nikmalarini oshirishni istagan har bir kishi uchun mo'ljallangan.",
+  "where": "середина"
+ },
+ "program": {
+  "found": true,
+  "modules": 3,
+  "lessons": 3,
+  "duration": "3 видеоурока, всего ≈56 минут (14:33 + 19:53 + 21:33)",
+  "format": "онлайн",
+  "quote": "Tarkib\n3\n1-dars | Uzum Market qanday ishlaydi?\nModul 1\n14:33\n2-dars | Sotuvni oshirish uchun zarur usullar\nModul 2\n19:53\n3-dars | Uzum Marketda daromad qilish yo'llari\nModul 3\n21:33"
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [
+   "число учеников",
+   "текстовые отзывы",
+   "рейтинг площадки"
+  ],
+  "count_claim": "25 388 (счётчик учеников на карточке курса) и оценка 5.0 — по скриншоту; в тексте страницы слиплись в «253885.0»; счётчики платформы — самоотчёт",
+  "reviews_count": 3
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "мини-курс бесплатный («Bepul darslarda siz», кнопка «Bepul boshlash»); цены платного курса на странице нет"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": false
+ },
+ "next_step": "личный кабинет",
+ "closed": true,
+ "message_match": {
+  "library_id": "1366425478509152",
+  "scores": {
+   "promise_continuity": 8,
+   "language_match": 9,
+   "visual_continuity": 5,
+   "cta_alignment": 9,
+   "specificity_match": 6,
+   "emotional_match": 8
+  },
+  "total_of_60": 45
+ },
+ "notes": "Бесплатный мини-курс «Uzum Start» на платформе Exode (og:site_name qadam.exode.biz, canonical qadam.exode.biz/courses/1/309; qadam.online — домен школы на этой платформе; свой GTM-TSDTR92H). Этап «мини-курс или трипвайер»: 3 модуля по одному видеоуроку — «1-dars | Uzum Market qanday ishlaydi?» (14:33), «2-dars | Sotuvni oshirish uchun zarur usullar» (19:53), «3-dars | Uzum Marketda daromad qilish yo'llari» (21:33); кнопка «Bepul boshlash» ведёт в регистрацию/личный кабинет платформы (не проходили), формы на самой странице нет. stage_auto «страница спасибо» ошибочен. Счётчики «25 388» учеников и «5.0» — данные платформы (самоотчёт); они больше всех других цифр школы (3000+ на naym-quiz, 4000+/7000+ в квизе). Преподаватель в блоке «O'qituvchilar» — аккаунт «Qadam Education» без имени, поэтому speaker не заполнен. FAQ — типовой текст платформы (про доступ «to'lovdan so'ng», опечатка «Plarforma»), к бесплатному курсу не относится. Отзывы: показано 3 (март–апрель 2025) и кнопка «Ko'proq ko'rsatish»; имён не записываем. По содержанию отзывов: один ученик сначала сомневался, стоит ли «qimmat» курс, и хвалит еженедельный онлайн-чат с ответами кураторов и офлайн-встречу раз в две недели; другая учится онлайн с марта и пишет, что результата пока нет. Цены платного курса, рассрочки, гарантии, скидок нет. $500 ≈ 5 882 500 сум, $2000 ≈ 23 530 000 сум — обещание дохода. Реклама: 6 объявлений — Uzum_2 v1 (2 шт. с 24.11.2025, 297 дней — самые долгие у Qadam, ранг 3), Uzum_Exode_Inomarka v1/v2/v4 (с 04.05, ранг 12) и Uzum_Exode_IRODA v4 (с 24.05): те же ролики блогера и «Iroda», что ведут на лендинги курса и в Telegram, — тест точки входа. message_match: объявление 1366425478509152 (ранг 3; текст «Uzum’da savdo qilishni xohlaysiz, lekin qayerdan boshlashni bilmayapsizmi? 🎓 UZUM bo‘yicha bepul darslar: ✅ Mijozlarni jalb qilish uchun tovar kartalarini to‘g‘ri rasmiylashtirish ✅ Kartani bosqichma-bosqich yaratish va xatolarsiz to‘ldirish ✅ Nega tovar kartalari bloklanadi… 📌 Ro‘yxatdan o‘ting!», CTA «Learn more»). Ролик (черновая расшифровка): спикер в пиджаке — боитесь ошибок на Uzum? мы подготовили бесплатные видеоуроки: как начать, ошибки новичков, методы роста продаж, пути к доходу; «birinchi va eng muhim qadam», зарегистрируйтесь по ссылке. Страница почти дословно продолжает ролик (бесплатные уроки, ошибки, «birinchi qadam», кнопка регистрации); расходятся темы из текста объявления (оформление и блокировка карточек товара — в названиях уроков их нет) и визуал (спикер в ролике не назван на странице). Скриншот совпадает с первым экраном: название, счётчики, описание, обложка, кнопка «Bepul boshlash»."
+}

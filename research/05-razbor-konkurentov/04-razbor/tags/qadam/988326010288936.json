@@ -1,0 +1,111 @@
+{
+ "creative_id": "988326010288936",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Uzum Marketda savdo qilishingiz uchun tovarni o'zimizning bozorlardan olganingiz yaxshimi, yoki Xitoydanmi?",
+  "types": [
+   "вопрос"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "таймер или обратный отсчёт",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Uzun markette savda qilishizikyun tavarri uzumizani bazarladan ageniz yaxshi mi, yaqidi Xitaydan mi?",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s: таймер «00:36», «21+», значок Uzum поверх ведущего крупным планом; на 0.5s — смена плана",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.0s: «SAVDO QILISHIN… UCHUN» (слово дописывается анимацией)",
+    "timecode": "00:01"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s–2.5s: субтитры «tovarni o'zimizni», затем иконка флага Узбекистана",
+    "timecode": "00:02"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта",
+   "доход",
+   "стабильность"
+  ],
+  "income_claim": "$1000 OYLIK DAROMAD / oyiga stabil $1000 daromad topishni o'rganib olasiz",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (≈00:19): «$1000 OYLIK DAROMAD»",
+    "timecode": "00:19"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:09] Bugun kollemme disiz, kanak qilib uzun markette noldan daromadke chikishi,",
+    "timecode": "00:09"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:16] iundan tashkara aige stabilni min dolar daromad tapishi olu orgetilinadi.",
+    "timecode": "00:16"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "oyiga stabil $1000 daromad topishni o'rganib olasiz"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "лид-магнит (PDF, гайд)"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Uzum Market’da 0 dan savdo boshlash bo‘yicha bepul PDF qo‘llanma"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:06] Biz ayni sizikyun Beeple PDF kollemme tayyarladiyi.",
+    "timecode": "00:06"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈00:26): «hoziroq kanalimizga» и макет телефона с Telegram",
+    "timecode": "00:26"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "лид-магнит"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "высокая",
+ "notes": "Хук по расшифровке, написание исправлено («tavarri uzumizani bazarladan ageniz yaxshi mi, yaqidi Xitaydan mi» → «tovarni o'zimizning bozorlardan olganingiz yaxshimi, yoki Xitoydanmi»); подтверждается ключевыми словами и флагом Узбекистана на кадрах. Перевод: «товар для Uzum Market лучше брать на наших рынках или в Китае?». Ответа на вопрос в ролике нет — дальше тот же текст про бесплатный PDF, что в 2314615639050259 и 1684409222990072. Призыв: «Qo'llanmani yuklab olish uchun hoziroq kanalimizga o'ting» (написание исправлено). Значок Uzum — логотип маркетплейса, не школы. risk: «стабильные $1000 в месяц» с нуля."
+}

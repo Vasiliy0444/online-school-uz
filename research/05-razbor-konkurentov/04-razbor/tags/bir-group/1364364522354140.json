@@ -1,0 +1,100 @@
+{
+ "creative_id": "1364364522354140",
+ "platform": "meta",
+ "school_id": "bir-group",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Yo'q, man tushunmadim. Davlatbek, rostanam shuncha...",
+  "types": [
+   "история",
+   "авторитет спикера"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "деньги или результат на экране"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: двое мужчин в офисе с мраморными стенами у макета жилого/городского комплекса на круглом столе (подсвеченная миниатюра с дорогами и озеленением), диалог по титрам собирается как «Yo'q man» → «tushunmadim» → «Davlatbek» → «ro'stanam» → «Davlatbek ro'stanam» → «shuncha»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Yaman, chunmadim davlad, mi qrostanam, chunki adami tikin qoqitin aqishmiz ila?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "доверие и окупаемость",
+   "статус"
+  ],
+  "income_claim": "o'rtacha 300$ dan 500$ gacha (oyiga, avvalgi bitiruvchilar); ba'zilarida 1000$gacha; jami taxminan 54 000$ dan ortiq (raqam juda noaniq)",
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:23] Ularida 60-70%-i ishliy borishti. [00:26] urtaci 300$ dan 500$ gaci khadrdi daraam urtabcadi [00:30] undanam 1000$ gaci tapetgani onkocili bar",
+    "timecode": "00:23"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:34] Shubbayt gaci unimi ulari tapgani puli 54000$ dan ku tasorgil apsizda",
+    "timecode": "00:34"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (~0:26): слайд «2-BOSQICH NATIJALARI» — «umumiy qiymati 1,023,000,000», «5,500 Arizalar», «341 Tanlangan»",
+    "timecode": "00:26"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:20] Toruzgiye yaqin qoqichini oqittik.",
+    "timecode": "00:20"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Buning uchun 500 ta grant ajratilgan. 25-sentabr kuni onlayn taqdimot bo‘lib o‘tadi."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:59] royxatdan utshiyadi [01:01] olayin tadamatda qatnakshi [01:03] bundan son sarilay olayamiz olayamiz",
+    "timecode": "00:59"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "основатель или эксперт"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "Это самый нетипичный ролик подборки: 70.3с, формат диалога/интервью двух мужчин в офисе с макетом жилого комплекса (а не одиночная говорящая голова). Хук — реплика на титрах: «Yo'q man tushunmadim Davlatbek ro'stanam shuncha» (написание «ro'stanam» исправлено на разговорное «rostanam» — «действительно/правда ли»; собеседника явно зовут Davlatbek); в исходном виде на кадре слово пишется «ro'stanam», в поле verbatim дано исправленное «rostanam», сырой вид — в evidence. По расшифровке это же место совпадает по смыслу («Yaman, chunmadim davlad, mi qrostanam...» ≈ «Yo'q, tushunmadim, Davlatbek(mi), rostanam...»). Кто из двух говорящих — представитель Bir Group (в чёрной футболке, ведёт рассказ от «biz»/«bizning kompaniyamiz») и кто «Davlatbek» (в белой рубашке, вероятно гость/партнёр) — на кадрах имя-подпись не показано; ни один из них явно не назван Yo'ldosh Yusupov, поэтому public_name не проставляю, а role даю по подаче спикера в чёрном (говорит от лица компании о результатах обучения) — «основатель или эксперт». ВАЖНО про цифры: как и предупреждено по этому креативу, часть сумм в черновой расшифровке читается очень нечётко — «54000$ dan ku tasorgil apsizda» (~01:36) не поддаётся уверенной расшифровке (возможно «54 000 dollardan ko'proq topishgan» — «заработали больше 54 000 долларов», но разряды и само число под вопросом); «300$–500$» и «1000$» читаются увереннее и укладываются в контекст (60-70% трудоустройства выпускников). Слайд «2-BOSQICH NATIJALARI» (umumiy qiymati 1,023,000,000; 5,500 arizalar; 341 tanlangan) — неясно, относится ли это к образовательной грантовой программе (может быть — 2-й этап отбора грантов) или к отдельному проекту (макет жилого комплекса на столе намекает на девелопмент/недвижимость); не привожу как revenue_claim, так как слов «aylanma»/«savdo» нет, это скорее «umumiy qiymat» (общая стоимость проекта) — поле revenue_claim не заполняю и фиксирую как открытый вопрос. Также по расшифровке дата презентации в этом ролике звучит как «21 Sintiamburgini» (21 сентября) — расходится с «25-sentabr», указанным в тексте объявления и во всех остальных 6 роликах подборки; из-за низкого качества распознавания цифр не утверждаю это как факт, но фиксирую как возможное расхождение, требующее проверки по оригинальному видео. «John Leifer» в расшифровке ([00:51], [00:53]) выглядит как галлюцинация ASR на месте «efirda» (в эфире) — не реальное имя, в спикеры не включаю. Из-за совокупности этих неопределённостей (нечёткие цифры, спорная дата, непонятная связь слайда о недвижимости с офером) уверенность — низкая. Ролик по расшифровке зовёт нажать кнопку «Batafsil» и перейти в telegram («pastagi padrobni tigmasini basib telgiramga otoy olayamiz»), а link_url ведёт на лендинг bir-group-webinar.vercel.app/a/ — стандартное расхождение Telegram/лендинг."
+}

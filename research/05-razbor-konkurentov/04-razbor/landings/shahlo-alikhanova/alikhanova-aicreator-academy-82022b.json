@@ -1,0 +1,89 @@
+{
+ "url": "https://alikhanova.aicreator.academy/",
+ "school_id": "shahlo-alikhanova",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "вебинар или мастер-класс",
+ "builder": "lovable.dev",
+ "pixels": [
+  "Meta Pixel",
+  "Google Analytics (GA4)"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Видеоурок «AI-эксперта из Швеции»: 5 проверенных способов заработать с ИИ в 2026 году — посмотрите видео и узнайте, какой способ подходит вам",
+  "quote": "Shvetsiyadan AI Eksperti Video Darsligi\n…\n2026-yil AI bilan daromad topishning sinalgan 5 xil yo'llari\nQaysi daromad yo'li sizga mos? Videoni ko'rib bilib oling",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "program": {
+  "found": true,
+  "format": "онлайн",
+  "quote": "Videoda nimalarni o'rganasiz?\n…\n2026- yil AI bilan pul ishlashning 5 ta sinalgan yo'llarini bilib olasiz\n…\nSizga qaysi yo'li mos tushishini tanlaysiz\n…\nSiz ham boshlashingiz uchun birinchi qadamlarni o'rganasiz"
+ },
+ "speaker": {
+  "found": true,
+  "value": "Shahlo Alikhanova — «AI-эксперт из Швеции»: 3 года работает с проектами по искусственному интеллекту в Швеции и Узбекистане, международный спикер и маркетолог (самоотчёт); на первом экране — плашка с фото «3 yil tajriba · xalqaro spiker»",
+  "quote": "Sizga kim o'rgatadi\n…\nShahlo Alikhanova\nShvetsiyadan AI eksperti\n3 yildan beri sun'iy intellekt bo'yicha Shvetsiyadagi va O'zbekistondagi loyihalar bilan ishlab keladi. Xalqaro spiker va Marketolog",
+  "where": "середина"
+ },
+ "social_proof": {
+  "types": [
+   "число учеников",
+   "рейтинг площадки"
+  ],
+  "count_claim": "«⭐⭐⭐⭐⭐ 4.9 · 1,500 odam sinab ko'rdi» под видео — самоотчёт: чья это оценка 4.9 и что значит «sinab ko'rdi», не сказано (не рейтинг внешней площадки)",
+  "reviews_count": 0
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "бесплатный видеоурок («Bepul · karta kerak emas · istalgan vaqtda chiqasiz»), цены на странице нет; цена челленджа 3 990 000 сум с подписью «Videoni oxirigacha ko'rganlar uchun narx» — на aicreator.academy"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": true,
+  "value": "Подарок в конце видео — забрать в Telegram-боте; что за подарок, не сказано",
+  "quote": "sovg'ani video oxirida telegram botdan olishingiz mumkin 🎁",
+  "where": "первый экран"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": false
+ },
+ "next_step": "Telegram-бот",
+ "closed": true,
+ "message_match": {
+  "library_id": "2266546904194108",
+  "scores": {
+   "promise_continuity": 9,
+   "language_match": 8,
+   "visual_continuity": 6,
+   "cta_alignment": 9,
+   "specificity_match": 8,
+   "emotional_match": 7
+  },
+  "total_of_60": 47
+ },
+ "notes": "Этап — записанный бесплатный видеоурок (по сути автовебинар без даты), а не материал за контакт: видео смотрят прямо на странице без формы (в коде превью YouTube — комментарий «Preconnect / preload LCP hero (YouTube thumbnail)»), подарок — в Telegram-боте в конце видео, а цена челленджа на aicreator.academy подписана «Videoni oxirigacha ko'rganlar uchun narx» — урок продаёт в конце; stage_auto «лид-магнит». Meta description: «Sun'iy intellekt yordamida pul ishlashning sinalgan yo'llari. To'liq bepul darslik Telegram botda.» Ссылки на бота и формы в снимке нет, поэтому next_step = Telegram-бот по подписи у видео, closed = true (в бота не переходили). Порядок блоков: логотип «AI Creators Studio» → плашка с фото «Shvetsiyadan AI Eksperti Video Darsligi» / «3 yil tajriba · xalqaro spiker» → заголовок → бегущая строка «Qaysi daromad yo'li sizga mos? Videoni ko'rib bilib oling» → видео с кнопкой «Videoni ko'rish uchun bosing» → рукописная подпись про подарок → «4.9 · 1,500 odam sinab ko'rdi» → «Videoda nimalarni o'rganasiz?» (3 пункта) → «Sizga kim o'rgatadi» → «Bepul · karta kerak emas · istalgan vaqtda chiqasiz» → «© 2026 AI Creators Studio». Обложка видео (скриншот): женщина-спикер за ноутбуком рядом с кадрами двух AI-роликов, надпись «2 TA VIDEO AIDA QILINGAN VA BUNGA BIZNES PUL TO'LAGAN», субтитр «emas. Bu video AI yordamida qilingan va bu video uchun biznes egasi». Сумм дохода, цены, рассрочки, гарантии и дедлайна на странице нет. Аудитория прямо не названа; по пунктам видео — те, кто ещё не начал («Siz ham boshlashingiz uchun birinchi qadamlarni o'rganasiz»). «4.9» и «1,500» — самоотчёт без источника; в варианте shahlo — «7,268+ Qo'shilganlar Soni», на aicreator.academy — «1 500+ o'quvchi daromadga chiqdi»: цифры школы о себе расходятся. Техника: lovable.dev (значок «Made with», ссылка lovable.dev/projects/…, og:image на lovable.app с меткой времени ≈ 18.06.2026), GA4 и Meta Pixel с отложенной загрузкой; в коде комментарии «First-party funnel tracker (deferred)» (свой трекер воронки) и «Caveat handwriting font for the locked-form notice» — рукописная подпись названа уведомлением о «заблокированной форме», но формы в снимке нет (возможно, появляется по ходу видео — не проверяли). alikhanova.aicreator.academy/oferta — 404 «Oops! Page not found»; /ommaviy-oferta, /offer, /public-offer, /shartnoma, /dogovor, /tolov, /payment, /narxlar, /tariflar, /kurslar, /courses на поддомене — та же 404 (дубли).\nРЕКЛАМА: все 15 объявлений школы в ads_meta.csv (страница «Shahlo.alikhanova», 5 943 лайка) ведут сюда; запущены 04–05.09.2026 (12–13 дней на момент сбора), текст и кнопка «See details» у всех одинаковые, ролики разные (15 видео, 7,8–48,1 с), площадки Facebook, Instagram, Messenger, WhatsApp, Threads; ранги 1–10 — у 10 из 15. Сборщик получил 15 объявлений из ~120 по счётчику Meta (shahlo_full.out), остальные не видны.\nmessage_match: объявление 2266546904194108 — ранг 1, 12 дней, ролик 48,1 с. Расшифровки нет (в transcripts_index.csv нет строк школы) — оценка по тексту объявления и превью-кадру ролика (2266546904194108_0_video_preview.jpg): женщина-спикер в хиджабе и очках за столиком уличного кафе в европейском городе, надпись «SUN’IY INTELLEKT BILAN 5 MLN DAROMAD TOPSA BO’LADIMI?». Текст объявления: «[BEPUL VIDEODARS] - Qanday Qilib Sun'iy Intellekt Orqali Daromad Qilish Mumkin?» … «Biz O'zbekiston bozorini chuqur o'rganib chiqib, AI orqali daromad qilish mumkin bo'lgan 5 ta real yo'lni aniqladik.» … вопросы «Qanday daromad qilinadi?», «Qaysi yo'l menga mos?», «Nimadan boshlash kerak?» … «Pastdagi tugmani bosing va hoziroq tomosha qiling.» … «BEPUL KO'RISH». Совпадает: «5 ta real yo'l» → «sinalgan 5 xil yo'llari», 2026 год, три вопроса объявления = три пункта «Videoda nimalarni o'rganasiz?», обещанное видео — сразу на первом экране без формы, в ролике и на странице одна и та же женщина-спикер в хиджабе и очках. Расходится: «O'zbekiston bozori» в заголовке этой версии нет (есть в варианте shahlo), «5 MLN» с превью на странице не повторяется, слово «bepul» — только внизу страницы, подарок в боте в объявлении не упомянут, «Siz ham birinchilardan bo'lishingiz mumkin» против «1,500 odam sinab ko'rdi»; визуально совпадает только спикер (уличная съёмка против светлого шаблона Lovable).\nВАРИАНТ shahlo.aicreator.academy (без отдельного файла; найден по сертификату crt.sh, объявлений на него в выборке нет; отдельный проект Lovable, og:image ≈ 05.07.2026): те же блоки «Videoda nimalarni o'rganasiz?» (3 пункта слово в слово), «Sizga kim o'rgatadi», строка «Bepul · karta kerak emas · istalgan vaqtda chiqasiz», те же GA4, Meta Pixel и трекер воронки. Отличия: 1) заголовок «2026-yilda AI bilan 5 xil daromad — O'zbekistonda sinalgan yo'llari» (добавлен Узбекистан, как в тексте объявлений); 2) плашка «Shvetsiyadan AI Eksperti» без «Video Darsligi»; 3) вместо «Qaysi daromad yo'li sizga mos? Videoni ko'rib bilib oling» — срочность «Darslik o'chib ketmasidanvideoni oxirgacha ko'rib oling 👇» (в тексте слиплось, на скриншоте две строки); 4) кнопка «Ovozni yoqish uchun bosing» и другая обложка (крупное «YO'Q», субтитр «beradigan bo'lsam, katta ehtimol bilan yo'q degan javobni olaman.»); 5) вместо подписи про подарок в боте — «Ma'lumotlaringizni qoldiring 👇» и форма «AI Creators 5.0»: «Ismingiz», «Telefon raqamingiz» (+998), «Telegram (ixtiyoriy)», кнопка «Ariza yuborish», «✓ 100% bepul» (что после заявки, не сказано; не отправляли); 6) «4.9 · 7,268+ Qo'shilganlar Soni» вместо «1,500 odam sinab ko'rdi». Что тестируют: контакт (имя, телефон, Telegram) до видео против подарка через бота в конце; срочность «o'chib ketmasidan»; «O'zbekistonda sinalgan»; «AI Creators 5.0» похоже на номер потока. Скриншот 390×844 главной версии — первый экран целиком: логотип, плашка, заголовок с выделенными «AI», «daromad», «5 xil», бегущая строка, видео, подпись про подарок, рейтинг, начало блока «Videoda nimalarni o'rganasiz?»."
+}

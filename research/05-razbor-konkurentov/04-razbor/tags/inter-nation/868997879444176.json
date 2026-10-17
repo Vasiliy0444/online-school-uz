@@ -1,0 +1,63 @@
+{
+ "creative_id": "868997879444176",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "карусель",
+  "duration_bucket": "не видео",
+  "aspect": "4:5"
+ },
+ "style": [
+  "статичный дизайн"
+ ],
+ "hook": {
+  "verbatim": "O'quvchilarimizning so'nggi natijalari",
+  "types": [
+   "соцдоказательство"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "деньги или результат на экране"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "O'quvchilarimizning so'nggi natijalari 🥰 Bizning talabalarimiz natija to'g'ri ta'limni tanlaganlarga kelishini isbotlashdi. Yigit-qizlarimizning yutuqlarini lentada ko'ring va motivatsiya oling 🚀"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "image_512.jpg: макет бланка IELTS Test Report Form с фото ученицы и разбивкой баллов по секциям и итоговым баллом крупным шрифтом (имя и цифры не переношу по правилам разметки)"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Bizning talabalarimiz natija to'g'ri ta'limni tanlaganlarga kelishini isbotlashdi... Keyingisi bo'lishga tayyormisiz?"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "слово в комментарии",
+  "destination": "лендинг",
+  "funnel_stage": "директ"
+ },
+ "speaker": {
+  "role": "никого"
+ },
+ "language": "смешанный",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Карусель сертификатов IELTS учеников (представительская карточка — image_512); имя и точные баллы ученицы намеренно не переношу (правило разметки). Текст объявления прямо просит «Izohlarda \"➕\" qoldiring!» — это ближе к «слово в комментарии», чем к кнопке «Sign up»/лендингу; funnel_stage поставлен по этому призыву («директ»), расхождение с кнопкой/лендингом отмечаю здесь. Язык «смешанный»: бланк IELTS на английском, подпись объявления на узбекском и русском."
+}

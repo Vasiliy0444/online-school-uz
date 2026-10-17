@@ -1,0 +1,64 @@
+{
+ "creative_id": "992250323832039",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "карусель",
+  "duration_bucket": "не видео",
+  "aspect": "4:5"
+ },
+ "style": [
+  "статичный дизайн"
+ ],
+ "hook": {
+  "verbatim": "BONUS bepul* Back to school",
+  "types": [
+   "бесплатно"
+  ],
+  "visual": [
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: карточка «BONUS bepul* Back to school» со списком: doimiy ingliz tili amaliyoti / IELTS mock imtihonlari / 3ta ustoz bilan mashg'ulotlar / mashhurlar bilan uchrashuv / haftalik «speaking & debates» / sayohatlar va ekskursiyalar; сноска «*«Back to school» oylik kurs narxini ichiga kiradi»"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "быстрый старт"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Bizning sertifikat bilan bir nechta universitetlarga imtihonsiz kirish imkoniyati"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бонус"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: «BONUS bepul* Back to school» — список из 6 пунктов, включён в стоимость месячного курса (сноска)"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "никого"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Карточка карусели «Katta qabul boshlandi!» — представительский слайд именно про бонус-пакет «Back to school» (сноской указано, что входит в стоимость месячного курса, то есть это маркетинговая подача включённых опций, а не скидка). Ссылка в порции — просто https://inter-nation.uz/ (без /l/instagram_*), отношу как «свой домен» → лендинг/основной продукт. Явного словесного призыва (комментарий/директ) в тексте объявления нет, в отличие от карточек-каруселей с результатами учеников."
+}

@@ -1,0 +1,68 @@
+{
+ "url": "https://qadam.education",
+ "domain": "qadam.education",
+ "pages_scanned": [
+  "https://qadam.education/excel-sheets-course"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)",
+   "Google Tag Manager"
+  ],
+  "ad_pixel": [
+   "Meta Pixel"
+  ]
+ },
+ "seo_metadata": {
+  "title": "Excel va Google Sheets - Yangi",
+  "description": "Excel va Google Sheets’ni 0 dan o‘rganib, daromadingizni oshiring!",
+  "open_graph": {
+   "url": "https://qadam.education/excel-sheets-course",
+   "title": "Excel va Google Sheets - Yangi",
+   "description": "Excel va Google Sheets’ni 0 dan o‘rganib, daromadingizni oshiring!",
+   "type": "website",
+   "image": "https://static.tildacdn.net/tild3664-6639-4637-b332-383734356237/logo.svg"
+  },
+  "canonical": "https://qadam.education/excel-sheets-course"
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [
+   "https://static.tildacdn.net/tild3664-6639-4637-b332-383734356237/logo.svg",
+   "https://static.tildacdn.net/tild6164-6235-4166-b334-323362643064/BG.svg"
+  ],
+  "total_images_found": 11
+ },
+ "integration_links": [],
+ "hidden_elements": {
+  "html_comments": [
+   "metatextblock",
+   "/metatextblock",
+   "Meta Pixel Code",
+   "End Meta Pixel Code",
+   "Yandex.Metrika counter",
+   "/Yandex.Metrika counter",
+   "nominify end",
+   "Global Site Tag (gtag.js) - Google Analytics",
+   "new soclinks",
+   "/new soclinks",
+   "nominify end",
+   "/allrecords",
+   "Yandex.Metrika counter 102020541",
+   "/Yandex.Metrika counter"
+  ]
+ },
+ "google_ids": {
+  "ga4": [
+   "G-PTHDY45413"
+  ],
+  "gtm": [
+   "GTM-T5VCRHRZ"
+  ]
+ }
+}

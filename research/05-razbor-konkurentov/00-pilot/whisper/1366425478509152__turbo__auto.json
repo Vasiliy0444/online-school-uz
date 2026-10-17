@@ -1,0 +1,70 @@
+{
+ "library_id": "1366425478509152",
+ "model": "mlx-community/whisper-large-v3-turbo",
+ "language_arg": null,
+ "detected_language": "az",
+ "seconds": 6.8,
+ "duration_s": 30.0,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.84,
+   "text": "Uzunmarkedda daramat ilmaksız, ləkən xatarlardan qorkayabısızmı?"
+  },
+  {
+   "start": 3.88,
+   "end": 6.48,
+   "text": "Biz aynansız üçün, uzunmarkedda sağdaq ilişk boyuca,"
+  },
+  {
+   "start": 6.56,
+   "end": 8.18,
+   "text": "Bepul video darstiklə təyirləb çıxdik."
+  },
+  {
+   "start": 8.26,
+   "end": 10.86,
+   "text": "Bu darstiklədə siz, uzunmarkedda qanda işboslaş,"
+  },
+  {
+   "start": 10.98,
+   "end": 13.22,
+   "text": "yəngi sotuq ilə qaladigən asosiyy xatalar,"
+  },
+  {
+   "start": 13.38,
+   "end": 16.08,
+   "text": "sotularını portlata digən en samarali üsullər"
+  },
+  {
+   "start": 16.08,
+   "end": 18.52,
+   "text": "və albəttə, sağdaqını təzraq boşləb,"
+  },
+  {
+   "start": 18.76,
+   "end": 21.12,
+   "text": "kətta daramatka çıxış yollərini örgənib olasız."
+  },
+  {
+   "start": 21.12,
+   "end": 23.24,
+   "text": "Bu darstda daramat izi aşırştəgi,"
+  },
+  {
+   "start": 23.58,
+   "end": 25.62,
+   "text": "brinçi və eyni mxum qadamlaq sablanadır."
+  },
+  {
+   "start": 25.9,
+   "end": 27.32,
+   "text": "Uşbub darstiklərdə aluş üçün,"
+  },
+  {
+   "start": 27.6,
+   "end": 29.82,
+   "text": "hazra qüydək xovalarqali ruhat dağutin."
+  }
+ ]
+}

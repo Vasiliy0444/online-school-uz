@@ -1,0 +1,95 @@
+{
+ "creative_id": "1461720902353705",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "съёмка на телефон",
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "1 KUN SAVDO QILIB NECHA PUL TOPSA BO'LADI?",
+  "types": [
+   "вопрос",
+   "результат или доход"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–0.5s: ведущий идёт к камере на фоне склада с вывеской UZUM; субтитры «Uzum Market'da»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.0s: «1 KUN SAVDO QILIB»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.5s–2.5s: «NECHA PUL TOPSA BO'LADI?»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Uzun marketta bir kun sovda qittur, nech vulge chishlap tavsi boladi.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "свой бизнес"
+  ],
+  "income_claim": "1 275 000 KUNLIK SOF FOYDA",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈00:37): «1 275 000 KUNLIK SOF FOYDA» на фоне склада и фуры Uzum market",
+    "timecode": "00:37"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:32] Ishqib uzum seyallar bolib, bir kundin nec bil tapishun kulligini",
+    "timecode": "00:32"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:06] Uzun marketta xazi biznis qilish en aktual mavzuq soplanadi.",
+    "timecode": "00:06"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Uzumda o'z biznesingizni xavf-xatarsiz yo'lga qo'ying!"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Apply now",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "высокая",
+ "notes": "Влог-формат у склада Uzum. Хук и сумма — текст на кадрах. Речь: «Uzum Marketda bir kun savdo qilib, necha pul … topsa bo'ladi. Bugun shuni ko'rib chiqamiz. Qani, bo'lmasa, ketdik!» (написание исправлено, середина первой фразы неразборчива). Дальше: торговать на Uzum сейчас актуально, крупный бизнес тоже там продаёт; призыв в креативе (запись [00:18]) — «Buni chuqurroq o'rganish uchun Qadam Education'ning Uzum seller kursiga yozilsangiz bo'ladi» (написание исправлено), отмечено «заполнить форму» (ссылка /uzum-form); оффера нет. Вставка-графика (кадр 3): «NOYOB MAHSULOT QIDIRISHGA SARIFLAMASDAN YAXSHI SOTILAYOTKAN TOVARLARNI». Расшифровка заканчивается на 00:35 из 42.6 с. Вывеска UZUM — логотип маркетплейса, не школы. risk: «1 275 000 чистой прибыли в день» подано как то, сколько можно заработать в день."
+}

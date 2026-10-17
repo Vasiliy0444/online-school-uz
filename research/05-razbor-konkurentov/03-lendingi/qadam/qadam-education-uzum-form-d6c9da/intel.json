@@ -1,0 +1,67 @@
+{
+ "url": "https://qadam.education",
+ "domain": "qadam.education",
+ "pages_scanned": [
+  "https://qadam.education/uzum-form"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)",
+   "Google Tag Manager"
+  ],
+  "ad_pixel": [
+   "Meta Pixel"
+  ]
+ },
+ "seo_metadata": {
+  "title": "Uzum Market",
+  "open_graph": {
+   "url": "https://qadam.education/uzum-form",
+   "title": "Uzum Market",
+   "type": "website",
+   "image": "https://static.tildacdn.net/tild3664-6639-4637-b332-383734356237/logo.svg"
+  },
+  "canonical": "https://qadam.education/uzum-form"
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [
+   "https://static.tildacdn.net/tild3664-6639-4637-b332-383734356237/logo.svg"
+  ],
+  "total_images_found": 32
+ },
+ "integration_links": [],
+ "hidden_elements": {
+  "html_comments": [
+   "metatextblock",
+   "/metatextblock",
+   "Meta Pixel Code",
+   "End Meta Pixel Code",
+   "Yandex.Metrika counter",
+   "/Yandex.Metrika counter",
+   "nominify end",
+   "Global Site Tag (gtag.js) - Google Analytics",
+   "new soclinks",
+   "/new soclinks",
+   "nominify end",
+   "@classes t-title t-text t-btn",
+   "@classes t-title t-text t-btn",
+   "/allrecords",
+   "Yandex.Metrika counter 102020541",
+   "/Yandex.Metrika counter"
+  ]
+ },
+ "google_ids": {
+  "ga4": [
+   "G-PTHDY45413"
+  ],
+  "gtm": [
+   "GTM-T5VCRHRZ"
+  ]
+ }
+}

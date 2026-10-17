@@ -1,0 +1,211 @@
+{
+ "url": "https://hbstrading.net",
+ "domain": "hbstrading.net",
+ "pages_scanned": [
+  "https://hbstrading.net/terms-of-service"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)"
+  ]
+ },
+ "seo_metadata": {
+  "title": "Xizmat shartlari — HBS Group",
+  "description": "Sayt va xizmatlardan foydalanish shartlari.",
+  "open_graph": {
+   "title": "Xizmat shartlari — HBS Group",
+   "description": "Sayt va xizmatlardan foydalanish shartlari.",
+   "url": "https://hbstrading.net/terms-of-service",
+   "type": "website",
+   "image": "https://hbstrading.net/logo/hbs-holding-main-logo.webp",
+   "locale": "uz_UZ"
+  },
+  "twitter_card": {
+   "card": "summary_large_image"
+  },
+  "canonical": "https://hbstrading.net/terms-of-service",
+  "hreflang": [
+   {
+    "lang": "ru-RU",
+    "url": "https://hbstrading.net/ru/terms-of-service"
+   },
+   {
+    "lang": "uz-UZ",
+    "url": "https://hbstrading.net/terms-of-service"
+   },
+   {
+    "lang": "x-default",
+    "url": "https://hbstrading.net/terms-of-service"
+   }
+  ],
+  "structured_data": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://hbstrading.net/#organization",
+    "name": "HBS Group",
+    "url": "https://hbstrading.net",
+    "logo": "https://hbstrading.net/logo/hbs-holding-main-logo.webp",
+    "email": "info@hbstrading.net",
+    "sameAs": [
+     "https://t.me/hbs_akademiya",
+     "https://www.instagram.com/hbsakademiyasi?igsh=MTFiYnVocHpuYzFpaA==",
+     "https://www.linkedin.com/company/hbstrading/posts/?feedView=all",
+     "https://www.facebook.com/hbsacademyuz"
+    ],
+    "subOrganization": [
+     {
+      "@type": "Organization",
+      "name": "HBS Academy",
+      "url": "https://hbstrading.net/hbs-academy"
+     },
+     {
+      "@type": "Organization",
+      "name": "Saraf Screening",
+      "url": "https://hbstrading.net/saraf"
+     },
+     {
+      "@type": "Organization",
+      "name": "Saraf Robot",
+      "url": "https://hbstrading.net/saraf-robot"
+     },
+     {
+      "@type": "Organization",
+      "name": "HBS Asset Management",
+      "url": "https://hbstrading.net/hbs-asset-info"
+     },
+     {
+      "@type": "Organization",
+      "name": "HBS Prop",
+      "url": "https://hbstrading.net/hbs-prop"
+     },
+     {
+      "@type": "Organization",
+      "name": "HBS AI",
+      "url": "https://hbstrading.net/hbs-ai"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "https://hbstrading.net/#website",
+    "name": "HBS Group",
+    "url": "https://hbstrading.net",
+    "inLanguage": [
+     "uz-UZ",
+     "ru-RU"
+    ],
+    "publisher": {
+     "@id": "https://hbstrading.net/#organization"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 1,
+    "name": "HBS Academy",
+    "url": "https://hbstrading.net/hbs-academy"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 2,
+    "name": "Saraf Screening",
+    "url": "https://hbstrading.net/saraf"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 3,
+    "name": "Saraf Robot",
+    "url": "https://hbstrading.net/saraf-robot"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 4,
+    "name": "HBS Asset Management",
+    "url": "https://hbstrading.net/hbs-asset-info"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 5,
+    "name": "HBS Prop",
+    "url": "https://hbstrading.net/hbs-prop"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "position": 6,
+    "name": "HBS AI",
+    "url": "https://hbstrading.net/hbs-ai"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Xizmat shartlari — HBS Group",
+    "description": "Sayt va xizmatlardan foydalanish shartlari.",
+    "url": "https://hbstrading.net/terms-of-service",
+    "inLanguage": "uz-UZ",
+    "isPartOf": {
+     "@id": "https://hbstrading.net/#website"
+    }
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "HBS Group",
+      "item": "https://hbstrading.net/"
+     },
+     {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Xizmat shartlari",
+      "item": "https://hbstrading.net/terms-of-service"
+     }
+    ]
+   }
+  ],
+  "headings": {
+   "h1": [
+    "Xizmat shartlari — HBS Group"
+   ],
+   "h2": [
+    "Kirish",
+    "Shartlarning qabul qilinishi",
+    "Xizmatlar",
+    "Javobgarlik cheklovi",
+    "Intellectual mulk",
+    "O‘zgarishlar",
+    "Aloqa"
+   ]
+  }
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [
+   "https://hbstrading.net/logo/hbs-holding-main-logo.webp",
+   "https://hbstrading.net/logo/holdings/hbs-academy-logo.svg",
+   "https://hbstrading.net/logo/holdings/hbs-group-main-logo.svg"
+  ],
+  "total_images_found": 9
+ },
+ "integration_links": [],
+ "hidden_elements": {},
+ "google_ids": {
+  "gtm": [
+   "GTM-5XW7TCSH"
+  ]
+ }
+}

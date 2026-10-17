@@ -1,0 +1,74 @@
+{
+ "creative_id": "914093187958769",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "≤15 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "IELTSda maksimal yuqori natija beradigan dastur orqali o'qishni xohlaysizmi?",
+  "types": [
+   "вопрос",
+   "результат или доход"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.5s: «IELTS» → «IELTS dan maxsimal YUQORI NATIJA» на фоне круглого логотипа Inter Nation",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:04: «O'QISHNI ISTAYSIZMI?»",
+    "timecode": "00:04"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] IELTS-ta maksimal yukari natija beredigen dastur orqali o'qishni xoqlayisizmi?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:07: «Unda O'zbekistonda yagona innovation IELTS X»",
+    "timecode": "00:07"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Текст на кадрах почти дословно совпадает с расшифровкой на всём протяжении ролика — высокая уверенность в хуке и смысле. Тот же реквизит (папка «IELTS-X»), что и в 1499909571833116/661092653718227, но другая площадка (круглый подсвеченный логотип) и другой человек; явной подписи роли (бейджа) в этих кадрах не видно, поэтому спикер — «актёр или ведущий»."
+}

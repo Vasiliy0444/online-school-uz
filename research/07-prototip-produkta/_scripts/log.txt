@@ -1,0 +1,363 @@
+[17:03:00] === старт, python 3.11.9 (/Library/Frameworks/Python.framework/Versions/3.11/bin/python3)
+[17:03:03] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:03:03] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:03:03] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:03:05]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:03:05] Telegram файл [dymshakov]: Идеальный_продукт_Всё_о_запусках_за_один_день_compressed.pdf
+[17:04:17] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:04:17] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:04:17] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:04:19]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:05:20] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:05:20] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:05:20] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:05:22]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:06:23] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:06:23] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:06:23] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:06:25]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:07:26] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:07:26] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:07:26] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:07:28]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:08:29] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:08:29] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:08:29] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:08:31]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:09:32] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:09:32] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:09:32] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:09:35]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:10:35] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:10:35] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:10:35] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:10:38]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:11:40] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:11:40] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:11:40] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:11:42]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:12:42] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:12:42] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:12:42] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:12:45]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:13:47] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:13:47] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:13:47] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:13:49]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:14:50] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:14:50] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:14:50] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:14:52]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:15:53] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:15:53] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:15:53] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:15:55]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:16:55] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:16:55] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:16:55] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:16:57]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:17:58] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:17:58] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:17:58] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:18:00]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:19:01] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:19:01] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:19:01] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:19:03]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:20:04] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:20:04] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:20:04] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:20:06]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:21:07] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:21:07] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:21:07] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:21:09]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:22:09] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:22:09] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:22:09] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:22:11]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:23:12] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:23:12] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:23:12] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:23:14]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:24:15] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:24:15] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:24:15] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:24:17]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:25:18] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:25:18] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:25:18] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:25:20]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:26:20] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:26:20] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:26:20] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:26:22]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:27:23] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:27:23] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:27:23] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:27:25]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:28:27] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:28:27] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:28:27] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:28:29]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:29:31] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:29:31] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:29:31] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:29:34]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:29:35] Telegram видео [dymshakov]: «Блок 2. Идеальный продукт и продуктовая линейка» <- /Users/Bel-a/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/account-1456978378011241128/postbox/media/telegram-cloud-document-2-5292134551806545497
+[17:29:35] Расшифровка [dymshakov]: telegram — Блок 2. Идеальный продукт и продуктовая линейка (101 мин)
+[17:49:56]    готово за 20.4 мин -> dymshakov/transkripty/telegram — Блок 2. Идеальный продукт и продуктовая линейка.txt
+[17:50:56] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:50:56] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:50:56] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:50:59]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:51:59] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:51:59] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:51:59] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:52:03]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:53:03] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:53:03] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:53:03] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:53:06]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:54:06] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:54:06] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:54:06] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:54:09]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:55:09] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:55:09] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:55:09] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:55:14]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:56:14] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:56:14] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:56:14] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:56:17]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:57:17] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:57:17] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:57:17] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:57:20]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:58:20] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:58:20] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:58:20] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:58:23]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[17:59:23] Яндекс Диск [dymshakov]: /04. Протипирование
+[17:59:23] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[17:59:23] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[17:59:26]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:00:26] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:00:26] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:00:26] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:00:29]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:01:29] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:01:29] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:01:29] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:01:31]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:02:31] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:02:31] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:02:31] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:02:33]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:03:33] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:03:33] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:03:33] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:03:35]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:04:35] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:04:36] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:04:36] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:04:39]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:05:39] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:05:39] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:05:39] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:05:41]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:06:41] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:06:41] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:06:41] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:06:43]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:07:43] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:07:44] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:07:44] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:07:46]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:08:46] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:08:46] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:08:46] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:08:48]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:09:48] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:09:48] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:09:48] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:09:50]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:10:50] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:10:50] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:10:50] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:10:53]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:11:53] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:11:53] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:11:53] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:11:55]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:12:55] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:12:55] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:12:55] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:12:57]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:13:57] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:13:57] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:13:57] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:13:59]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:14:59] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:14:59] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:14:59] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:15:01]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:16:01] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:16:01] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:16:01] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:16:03]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:17:04] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:17:04] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:17:04] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:17:06]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:18:06] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:18:06] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:18:06] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:18:08]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:19:08] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:19:08] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:19:08] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:19:10]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:20:10] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:20:10] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:20:10] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:20:12]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:21:12] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:21:12] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:21:12] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:21:14]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:22:14] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:22:14] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:22:14] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:22:17]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:23:17] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:23:17] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:23:17] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:23:19]    yt-dlp ошибка: ] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+[18:24:19] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:24:19] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:24:19] YouTube [timochko]: https://www.youtube.com/watch?v=fA9yVLT3ZSE
+[18:24:34] Расшифровка [timochko]: youtube — Серия №4. Концепт продукта [fA9yVLT3ZSE] (31 мин)
+[18:30:27]    готово за 5.9 мин -> timochko/transkripty/youtube — Серия №4. Концепт продукта [fA9yVLT3ZSE].txt
+[18:31:27] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:31:27] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:32:27] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:32:27] Яндекс Диск ошибка: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>
+[18:32:29] Telegram видео [timochko]: «Урок 02 — Пишем большое обещание курса» <- /Users/Bel-a/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/account-1456978378011241128/postbox/media/telegram-cloud-document-2-5314765361554403014
+[18:32:29] Telegram видео [timochko]: «Урок 09 — Продуктовая линейка» <- /Users/Bel-a/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/account-1456978378011241128/postbox/media/telegram-cloud-document-2-5314765361554403031
+[18:32:29] Telegram видео [timochko]: «Урок 10 — Кради как художник у конкурентов» <- /Users/Bel-a/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/account-1456978378011241128/postbox/media/telegram-cloud-document-2-5314765361554403034
+[18:32:29] Telegram видео [timochko]: «Урок 11 — Продающий сайт, финал упаковки продукта» <- /Users/Bel-a/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/account-1456978378011241128/postbox/media/telegram-cloud-document-2-5314765361554403042
+[18:32:30] Telegram видео [timochko]: «Урок 13 — Продающая часть вебинара» <- /Users/Bel-a/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/account-1456978378011241128/postbox/media/telegram-cloud-document-2-5314765361554403066
+[18:32:30] Расшифровка [timochko]: telegram — Урок 02 — Пишем большое обещание курса (2 мин)
+[18:32:42]    готово за 0.2 мин -> timochko/transkripty/telegram — Урок 02 — Пишем большое обещание курса.txt
+[18:32:42] Расшифровка [timochko]: telegram — Урок 09 — Продуктовая линейка (13 мин)
+[18:34:40]    готово за 2.0 мин -> timochko/transkripty/telegram — Урок 09 — Продуктовая линейка.txt
+[18:34:40] Расшифровка [timochko]: telegram — Урок 10 — Кради как художник у конкурентов (6 мин)
+[18:35:29]    готово за 0.8 мин -> timochko/transkripty/telegram — Урок 10 — Кради как художник у конкурентов.txt
+[18:35:29] Расшифровка [timochko]: telegram — Урок 11 — Продающий сайт, финал упаковки продукта (21 мин)
+[18:37:29]    готово за 2.0 мин -> timochko/transkripty/telegram — Урок 11 — Продающий сайт, финал упаковки продукта.txt
+[18:37:29] Расшифровка [timochko]: telegram — Урок 13 — Продающая часть вебинара (20 мин)
+[18:39:42]    готово за 2.2 мин -> timochko/transkripty/telegram — Урок 13 — Продающая часть вебинара.txt
+[18:40:12] === старт, python 3.11.9 (/Library/Frameworks/Python.framework/Versions/3.11/bin/python3)
+[18:40:14] Яндекс Диск [dymshakov]: /04. Протипирование
+[18:40:14]  ↓ 1. Идея и прототип продукта/4.1._Идея_и_прототип_продукта.mp4 (294.4 МБ)
+[18:40:39]    … 100 / 294 МБ
+[18:41:01]    … 200 / 294 МБ
+[18:41:18]  ↓ 1. Идея и прототип продукта/Материалы и дз.docx (0.0 МБ)
+[18:41:20]  ↓ 2. Ценообразование - какую цену ставить на продукт/Материалы и дз.docx (0.0 МБ)
+[18:41:20]  ↓ 2. Ценообразование - какую цену ставить на продукт/Ценообразование - какую цену ставить на продукт.mp4 (753.0 МБ)
+[18:41:47]    … 100 / 753 МБ
+[18:42:04]    … 200 / 753 МБ
+[18:42:22]    … 300 / 753 МБ
+[18:42:36]    … 400 / 753 МБ
+[18:42:48]    … 500 / 753 МБ
+[18:43:03]    … 600 / 753 МБ
+[18:43:18]    … 700 / 753 МБ
+[18:43:25]  ↓ 3. Проектирование воронки и продуктовой линейки/4.3._Продуктовая_линейка.mp4 (86.4 МБ)
+[18:43:41]  ↓ 3. Проектирование воронки и продуктовой линейки/Материалы и дз.docx (0.0 МБ)
+[18:43:42]  ↓ 4.  Создание прототипа продающего сайта основной программы/Создание прототипа продающего сайта основной программы.mp4 (156.7 МБ)
+[18:43:58]    … 100 / 157 МБ
+[18:44:08]  ↓ 4.  Создание прототипа продающего сайта основной программы/Материалы и дз.docx (0.0 МБ)
+[18:44:09]  ↓ 5. Задания по модулю/Материалы и дз.docx (0.0 МБ)
+[18:44:10]  ↓ 5. Задания по модулю/урок.mp4 (55.2 МБ)
+[18:44:19]  ↓ 0.jpeg (0.1 МБ)
+[18:44:19]  ↓ Введение.mp4 (25.0 МБ)
+[18:44:25] Telegram файл [dymshakov]: Идеальный_продукт_Всё_о_запусках_за_один_день_compressed.pdf
+[18:44:26] Telegram видео [dymshakov]: «Блок 2. Идеальный продукт и продуктовая линейка» <- /Users/Bel-a/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/account-1456978378011241128/postbox/media/telegram-cloud-document-2-5292134551806545497
+[18:44:26] Telegram видео [timochko]: «Урок 02 — Пишем большое обещание курса» <- /Users/Bel-a/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/account-1456978378011241128/postbox/media/telegram-cloud-document-2-5314765361554403014
+[18:44:26] Telegram видео [timochko]: «Урок 09 — Продуктовая линейка» <- /Users/Bel-a/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/account-1456978378011241128/postbox/media/telegram-cloud-document-2-5314765361554403031
+[18:44:26] Telegram видео [timochko]: «Урок 10 — Кради как художник у конкурентов» <- /Users/Bel-a/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/account-1456978378011241128/postbox/media/telegram-cloud-document-2-5314765361554403034
+[18:44:26] Telegram видео [timochko]: «Урок 11 — Продающий сайт, финал упаковки продукта» <- /Users/Bel-a/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/account-1456978378011241128/postbox/media/telegram-cloud-document-2-5314765361554403042
+[18:44:26] Telegram видео [timochko]: «Урок 13 — Продающая часть вебинара» <- /Users/Bel-a/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/account-1456978378011241128/postbox/media/telegram-cloud-document-2-5314765361554403066
+[18:44:26] Расшифровка [dymshakov]: yadisk — 1. Идея и прототип продукта — 4.1._Идея_и_прототип_продукта (33 мин)
+[18:50:09]    готово за 5.7 мин -> dymshakov/transkripty/yadisk — 1. Идея и прототип продукта — 4.1._Идея_и_прототип_продукта.txt
+[18:50:09] Расшифровка [dymshakov]: yadisk — 2. Ценообразование - какую цену ставить на продукт — Ценообразование - какую цену ставить на продукт (41 мин)
+[18:54:35]    готово за 4.4 мин -> dymshakov/transkripty/yadisk — 2. Ценообразование - какую цену ставить на продукт — Ценообразование - какую цену ставить на продукт.txt
+[18:54:35] Расшифровка [dymshakov]: yadisk — 3. Проектирование воронки и продуктовой линейки — 4.3._Продуктовая_линейка (10 мин)
+[18:56:57]    готово за 2.4 мин -> dymshakov/transkripty/yadisk — 3. Проектирование воронки и продуктовой линейки — 4.3._Продуктовая_линейка.txt
+[18:56:57] Расшифровка [dymshakov]: yadisk — 4.  Создание прототипа продающего сайта основной программы — Создание прототипа продающего сайта основной программы (9 мин)
+[18:57:48]    готово за 0.9 мин -> dymshakov/transkripty/yadisk — 4.  Создание прототипа продающего сайта основной программы — Создание прототипа продающего сайта основной программы.txt
+[18:57:49] Расшифровка [dymshakov]: yadisk — 5. Задания по модулю — урок (3 мин)
+[18:58:07]    готово за 0.3 мин -> dymshakov/transkripty/yadisk — 5. Задания по модулю — урок.txt
+[18:58:07] Расшифровка [dymshakov]: yadisk — Введение (1 мин)
+[18:58:16]    готово за 0.2 мин -> dymshakov/transkripty/yadisk — Введение.txt
+[18:59:17] === всё готово

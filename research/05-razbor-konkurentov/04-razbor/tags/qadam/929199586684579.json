@@ -1,0 +1,109 @@
+{
+ "creative_id": "929199586684579",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Uzum Marketda rostdan ham oyiga $2000 daromad topsa bo'ladimi?",
+  "types": [
+   "вопрос",
+   "результат или доход",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "таймер или обратный отсчёт"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.5s–2.5s: плашка-комментарий Instagram «Uzum Marketda rostdan ham oyiga $2000 daromad topsa bo'ladimi?»; за ней таймер «00:33» и «21+»; девушка крупно, читает с телефона",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Uzun marketta rostan xam o'gi 2000$ daroma topsa boladi mu?",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:03] Xa, albatta boladi. Videonu o'khir gechi korin.",
+    "timecode": "00:03"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта"
+  ],
+  "income_claim": "oyiga $2000 daromad topsa bo'ladimi? — Ha, albatta bo'ladi; oyiga 2000$ daromadga chiqish yo'l xaritasi",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.0s: «Uzum Marketda rostdan ham oyiga $2000 daromad topsa bo'ladimi?»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:03] Xa, albatta boladi. Videonu o'khir gechi korin.",
+    "timecode": "00:03"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:18] Ular xam aynan siz ki, abu xamasini noldan boshlaygan.",
+    "timecode": "00:18"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:25] Uzun marketda oge 2000$ daramatke chikash yol xaritasini bugun telegram kanalimizda John Lee masterclassda korsatamiz.",
+    "timecode": "00:25"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈00:13): «30 000 000 AYLANMA BO…» поверх выпускницы с сертификатом",
+    "timecode": "00:13"
+   }
+  ],
+  "revenue_claim": "30 000 000 AYLANMA"
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈00:31): значок Telegram и «JONLI MASTERKLASS»",
+    "timecode": "00:31"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:25] Uzun marketda oge 2000$ daramatke chikash yol xaritasini bugun telegram kanalimizda John Lee masterclassda korsatamiz.",
+    "timecode": "00:25"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "высокая",
+ "notes": "Версия 1935694397074090 с другим комментарием-хуком, тот же монтаж и финал. Хук — текст на кадре; ответ ведущей в речи: «Ha, albatta bo'ladi. Videoni oxirigacha ko'ring» (написание исправлено). income_claim: вопрос с кадра + ответ и обещание из речи по расшифровке, написание исправлено («oge 2000$ daramatke chikash yol xaritasini» → «oyiga 2000$ daromadga chiqish yo'l xaritasi»). Вставки выпускников с цифрами («30 000 000 AYLANMA», в речи «aylanma») — оборот, не доход. Мастер-класс: «…bugun Telegram kanalimizda jonli masterklassda ko'rsatamiz» (на кадре «JONLI MASTERKLASS»); бесплатность прямо не названа. Призыв: «havola orqali o'ting va Telegram kanalimizga obuna bo'ling» (написание исправлено). Ссылка — /uzum-pdf, а в ролике мастер-класс — расхождение. risk: на вопрос о $2000 в месяц отвечают «да, конечно» и обещают дорожную карту."
+}

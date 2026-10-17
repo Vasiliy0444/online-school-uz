@@ -1,0 +1,84 @@
+{
+ "creative_id": "1770019914134512",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "постановка или скетч",
+  "запись экрана"
+ ],
+ "hook": {
+  "verbatim": "Bu gapim sal og'ir eshitilishi mumkin, lekin tushuning, ota-onangiz sizni…",
+  "types": [
+   "боль",
+   "история"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: девушка за столом, «Bu gapim sal og'ir eshitilishi mumkin» → «lekin tushuning ota-onangiz…»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Bugi apam sal oqhri ishtil shumun kun, lekin chuni otoney sizi umrunu oqhri geche bakishke macburmaz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта"
+  ],
+  "income_claim": "AutoCAD o'rganing – $700–800 oylik daromad (текст объявления); в ролике — вакансии «interyer dizaynerlar» на hh.uz «$200 dan $1200 gacha»",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (≈0:19): «6 oy ichida o'rgansangiz bo'ladi»",
+    "timecode": "00:19"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:12] $200 dan $1200 geche toleshke tayyar.",
+    "timecode": "00:12"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈0:27): «mutlaqo bepul ochiq dars bo'lib»",
+    "timecode": "00:27"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Эмоционально жёсткий хук «родители не обязаны кормить вас всю жизнь» — самый резкий вариант завязки во всём семействе AutoCAD/hh.uz-роликов (см. также 1091042456797892, 1388249096753064, 1537180601812232, 1499105538918220, 1053285614229296, 1817481843031892). Середина и концовка — типовые для семейства (вакансия hh.uz, 3 oy bepul amaliyot, mutlaqo bepul ochiq dars)."
+}

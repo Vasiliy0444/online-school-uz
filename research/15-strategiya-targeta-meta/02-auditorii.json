@@ -1,0 +1,319 @@
+{
+  "audiences": [
+    {
+      "title": "1. Широкая",
+      "nodes": [
+        "Advantage+ аудитория: Узбекистан, от 18 лет",
+        "Подсказки: мужчины 18–35, интересы не добавлять",
+        "Язык пусто: таргет по языку = язык интерфейса",
+        "Исключить купивших и стартовавших бота",
+        "Размер ≈ 6,6–7,7 млн мужчин 18–34",
+        "Основная группа с первого дня",
+        "Риск: уходит к женщинам и 36+ — смотреть разбивку"
+      ]
+    },
+    {
+      "title": "2. По интересам",
+      "nodes": [
+        "Ручные настройки: мужчины 18–35 жёстко",
+        "ИИ, ChatGPT, Freelancer, Upwork, Fiverr",
+        "Web design, Graphic design, Small business, Entrepreneurship",
+        "Названия и размер проверить в Ads Manager",
+        "A/B-тест против широкой, бюджет поровну",
+        "Риск: интересы узкие, Meta их удаляет"
+      ]
+    },
+    {
+      "title": "3. LaL на вашу ЦА",
+      "nodes": [
+        "Источник: покупки, эфир, урок 3, старт бота",
+        "Не брать клики по кнопке — найдёт «кликеров»",
+        "Минимум 100 человек, лучше 1 000–5 000",
+        "1–5% ≈ 0,15–0,73 млн человек",
+        "Со 2–3 недели, когда 100+ стартов",
+        "В Advantage+ это подсказка — проверять A/B-тестом"
+      ]
+    },
+    {
+      "title": "4. Аудитории узбекских блогеров про деньги и IT",
+      "nodes": [
+        "Парсить подписчиков нельзя: правила Meta и ЗРУ-547",
+        "Интерес по имени блогера — проверить в кабинете",
+        "Партнёрская реклама: −19% CPA* по данным Meta",
+        "Купить сторис или рилс, потом ретаргет зрителей",
+        "Кандидаты: Asror Iskandarov, Alima Oybekovna, seva_ravshanovna_",
+        "Не брать: Uranus, Uznetix, Myfxbro, Premium Pro"
+      ]
+    }
+  ],
+  "recommended": [
+    {
+      "title": "Были на лендинге, не стартовали бота",
+      "nodes": [
+        "Сайт 14 дней минус старт бота",
+        "Креатив: ответ «это не лохотрон?»",
+        "Со 2-й недели, кампания «Охват»"
+      ]
+    },
+    {
+      "title": "Стартовали бота, не дошли до эфира",
+      "nodes": [
+        "Старт бота 14 дней минус эфир",
+        "Креатив: секретный урок вт и пт 20:00",
+        "Без фраз о личном положении человека"
+      ]
+    },
+    {
+      "title": "Были на эфире, не купили",
+      "nodes": [
+        "Эфир 7 дней минус покупка",
+        "Окно дедлайна 48 часов",
+        "Креатив: договор, программа, куратор, «где подвох»"
+      ]
+    },
+    {
+      "title": "Вовлечённые в Instagram и зрители видео",
+      "nodes": [
+        "Instagram 365 дней, видео 50%+ за 90 дней",
+        "Подсказка в широкой и источник LAL",
+        "Создать до запуска — задним числом не собираются"
+      ]
+    },
+    {
+      "title": "Исключения в холодных группах",
+      "nodes": [
+        "Купившие 180 дней, старт бота 30 дней",
+        "Исключать по интересам Meta больше не даёт"
+      ]
+    },
+    {
+      "title": "Список телефонов с согласием",
+      "nodes": [
+        "Кнопка «Поделиться контактом» и текст согласия",
+        "Для исключений и LAL после первого потока"
+      ]
+    }
+  ],
+  "campaigns": {
+    "title": "Структура кампаний и бюджет",
+    "groups": [
+      {
+        "title": "Цель и событие",
+        "nodes": [
+          "Лиды → сайт → максимум конверсий",
+          "Неделя 1: событие Lead — клик по кнопке",
+          "Потом: старт бота через Conversions API",
+          "fbclid в короткий ID ссылки бота",
+          "Атрибуция: 7 дней клик, 1 день просмотр"
+        ]
+      },
+      {
+        "title": "Кампании и группы",
+        "nodes": [
+          "UZ_LEADS_COLD: широкая и интересы, A/B-тест",
+          "UZ_REACH_WARM: ретаргет со 2-й недели",
+          "LAL и партнёрская реклама — с 2–4 недели",
+          "5 концептов в гибком формате на группу",
+          "Имя объявления = хук: math, zero, compare, now"
+        ]
+      },
+      {
+        "title": "Бюджет первой недели",
+        "nodes": [
+          "Формула: 50 событий × цена события ÷ 7",
+          "$20 в день на группу, $40 всего",
+          "Неделя: $280 ≈ 3,29 млн сум",
+          "Минимум: только широкая, $30 в день",
+          "Ждём 36–140 стартов бота (расчёт)"
+        ]
+      },
+      {
+        "title": "Правила выключения",
+        "nodes": [
+          "CTR по ссылке ниже 0,8% после 1000 показов",
+          "Клик дороже $0,63 после 50 кликов",
+          "Старт бота дороже $4 после $60",
+          "Доходимость до эфира ниже 20%",
+          "Частота выше 3 за неделю — новый концепт"
+        ]
+      },
+      {
+        "title": "Масштабирование и ротация",
+        "nodes": [
+          "+20–30% бюджета раз в 3–4 дня",
+          "Победитель A/B → бюджет на уровне кампании",
+          "Каждую неделю 2–3 новых концепта, тест креативов",
+          "Концепт живёт 2–4 недели, менять смысл, не цвет"
+        ]
+      },
+      {
+        "title": "Чек $70: предельная цена старта бота",
+        "nodes": [
+          "$0,31 / $0,88 / $1,98 по трём сценариям",
+          "В финмодели сейчас $7,81 / $4 / $2",
+          "Постоянные $4 540 не окупаются ни в одном",
+          "Ориентир УЗ: лид $2,3–3,6, сезон $10–12",
+          "Miro 06.10: тарифы $59,5, $140 и $1 190",
+          "Чек $140 → предел ≈ $2,09 (оптимум)",
+          "Решение «идти / не идти» — за Васей"
+        ]
+      },
+      {
+        "title": "До запуска",
+        "nodes": [
+          "Пиксель и событие Lead на кнопке",
+          "Аудитории создать до первого показа",
+          "Проверить переход Instagram → бот на телефонах",
+          "Выключить AI-улучшения: метка «AI info» пугает",
+          "Реклама на узбекском, русский — дублем"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "label": "Meta: Advantage+ аудитория",
+      "url": "https://www.facebook.com/business/help/273363992030035"
+    },
+    {
+      "label": "Meta: ограничения и подсказки аудитории",
+      "url": "https://www.facebook.com/business/help/938372127764391"
+    },
+    {
+      "label": "Meta: что включает и выключает Advantage+",
+      "url": "https://www.facebook.com/business/help/906206294602874"
+    },
+    {
+      "label": "Meta: Advantage+ лид-кампании",
+      "url": "https://www.facebook.com/business/help/992035952809423"
+    },
+    {
+      "label": "Meta API: Advantage+ аудитория, возраст",
+      "url": "https://developers.facebook.com/docs/marketing-api/audiences/reference/targeting-expansion/advantage-audience/"
+    },
+    {
+      "label": "Meta: создание похожей аудитории",
+      "url": "https://www.facebook.com/business/help/465262276878947"
+    },
+    {
+      "label": "Meta: фаза обучения",
+      "url": "https://www.facebook.com/business/help/112167992830700"
+    },
+    {
+      "label": "Meta: существенные изменения",
+      "url": "https://www.facebook.com/business/help/316478108955072"
+    },
+    {
+      "label": "Meta: объём объявлений",
+      "url": "https://www.facebook.com/business/help/2720085414702598"
+    },
+    {
+      "label": "Meta: A/B-тест",
+      "url": "https://www.facebook.com/business/help/1738164643098669"
+    },
+    {
+      "label": "Meta: выгорание креатива",
+      "url": "https://www.facebook.com/business/help/1346816142327858"
+    },
+    {
+      "label": "Meta: Advantage+ creative",
+      "url": "https://www.facebook.com/business/help/297506218282224"
+    },
+    {
+      "label": "Meta: особые категории",
+      "url": "https://www.facebook.com/business/help/298000447747885"
+    },
+    {
+      "label": "Meta CAPI: параметры события",
+      "url": "https://developers.facebook.com/docs/marketing-api/conversions-api/parameters/server-event"
+    },
+    {
+      "label": "Meta CAPI: fbp и fbc",
+      "url": "https://developers.facebook.com/docs/marketing-api/conversions-api/parameters/fbp-and-fbc"
+    },
+    {
+      "label": "Telegram: ссылки на бота",
+      "url": "https://core.telegram.org/bots/features"
+    },
+    {
+      "label": "Meta: личные признаки в рекламе",
+      "url": "https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/"
+    },
+    {
+      "label": "Meta: запрещённые коммерческие практики",
+      "url": "https://transparency.meta.com/policies/community-standards/fraud-scams/"
+    },
+    {
+      "label": "Meta: условия списков клиентов",
+      "url": "https://www.facebook.com/legal/terms/customaudience"
+    },
+    {
+      "label": "Meta: условия автоматического сбора данных",
+      "url": "https://www.facebook.com/legal/automated_data_collection_terms"
+    },
+    {
+      "label": "Meta: метки AI info",
+      "url": "https://about.fb.com/news/2025/02/gen-ai-transparency-metas-ads-products/"
+    },
+    {
+      "label": "Meta: партнёрская реклама, 25.03.2025",
+      "url": "https://developers.facebook.com/blog/post/2025/03/25/instagram-partnership-ads/"
+    },
+    {
+      "label": "Social Media Today: партнёрская реклама, −19% CPA",
+      "url": "https://www.socialmediatoday.com/news/meta-expands-creator-partnership-opportunities-for-brands/807691/"
+    },
+    {
+      "label": "Social Media Today: удаление интересов",
+      "url": "https://www.socialmediatoday.com/news/meta-removes-more-detailed-ad-targeting-options-facebook-instagram/757856/"
+    },
+    {
+      "label": "Jon Loomer: Advantage+ аудитория",
+      "url": "https://www.jonloomer.com/how-advantage-plus-audience-works/"
+    },
+    {
+      "label": "Jon Loomer: тест креативов",
+      "url": "https://www.jonloomer.com/meta-creative-testing/"
+    },
+    {
+      "label": "Jon Loomer: атрибуция 2026",
+      "url": "https://www.jonloomer.com/meta-ads-attribution-2026/"
+    },
+    {
+      "label": "Admixer: аудитория Meta в Узбекистане",
+      "url": "https://www.spot.uz/ru/2025/06/02/admixer-advertising/"
+    },
+    {
+      "label": "NapoleonCat: Instagram в Узбекистане",
+      "url": "https://napoleoncat.com/stats/instagram-users-in-uzbekistan/"
+    },
+    {
+      "label": "affectgroup: аудитория по API Meta",
+      "url": "https://affectgroup.com/blog/uzbekistan-facebook-instagram-audience-in-meta-ads-2026/"
+    },
+    {
+      "label": "aksanov.digital: цены Meta в Узбекистане",
+      "url": "https://aksanov.digital/blog/meta-ads/skolko-stoit-reklama"
+    },
+    {
+      "label": "Практик таргета в Узбекистане",
+      "url": "https://t.me/s/targetologi_uz"
+    },
+    {
+      "label": "Закон «О персональных данных» ЗРУ-547",
+      "url": "https://lex.uz/ru/docs/4396419"
+    },
+    {
+      "label": "Закон «О рекламе» ЗРУ-776",
+      "url": "https://lex.uz/ru/docs/6052633"
+    },
+    {
+      "label": "НДС на рекламу в Instagram",
+      "url": "https://buxgalter.uz/publish/doc/text204820_kakie_nalogovye_posledstviya_vlechet_razmeshchenie_reklamy_v_instagrame"
+    },
+    {
+      "label": "Miro: юзер-флоу 06.10, тарифы",
+      "url": "https://miro.com/app/board/uXjVHjwddk0=/?moveToWidget=3458764686192476959"
+    }
+  ]
+}

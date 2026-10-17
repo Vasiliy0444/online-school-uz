@@ -1,0 +1,94 @@
+{
+ "creative_id": "1435474551826514",
+ "platform": "meta",
+ "school_id": "shahlo-alikhanova",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "нарезка эфира или подкаста",
+  "запись экрана"
+ ],
+ "hook": {
+  "verbatim": "2026-yil biz Shvetsiyada xalqaro konferensiyada...",
+  "types": [
+   "авторитет спикера",
+   "событие с датой"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: «2026» → «2026 yil» → «2026 yil biz Shvetsiyada» → (прозрачное наложение) → «2026 yil biz Shvetsiyada xalqaro» — мужчина-соведущий и Shahlo Alikhanova делают селфи на фоне пасмурной европейской площади; далее наложение кадра с выступлением на сцене с проектором",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] 2026-nchi il biz Shvetsa da Halperok Konferensya da AI boyche speaker bolib master class-ot verdi va xazirgi faytki chi Uzbekistanlayan Shvetsadan turli loqad islab AI boyche daroma topib kiriabiz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость",
+   "статус",
+   "доход"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg (~0:13): слайд презентации с цифрой «400-500 $» на экране, женщина (похоже на Shahlo) с микрофоном у трибуны — контекст цифры на кадре не читается (пример дохода/стоимости услуги/что-то ещё), дословно не интерпретирую",
+    "timecode": "00:13"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg (~0:13, второй кадр): интерфейс с панелью «MIJOZLAR» (клиенты) и миниатюрами инструмента генерации видео «Veo 3.1»",
+    "timecode": "00:13"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:09] Bizi uzun zantajibamizdan kilib chikib, suni intelektu alqali daroma topish boyche video dersi terligamiz.",
+    "timecode": "00:09"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный урок"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "[BEPUL VIDEODARS] - Qanday Qilib Sun'iy Intellekt Orqali Daromad Qilish Mumkin?"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:15] Pastigi xovalani bolsun, shu dersi inu kurshili unkun,",
+    "timecode": "00:15"
+   }
+  ]
+ },
+ "cta": {
+  "button": "See details",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "основатель или эксперт",
+  "public_name": "Shahlo Alikhanova"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Отобран как «случайная выборка», не топ-30 по показам. Дуэт Shahlo + мужчина-соведущий (тот же, что в 3490918217757569, 4680242528865939, 1574056041169618, 1661650509022254) — заявляют совместное выступление на международной конференции в Швеции («Halperok Konferensya» — название не разобрано, возможен искажённый топоним). На обзорных кадрах впервые видны конкретные инструменты курса: интерфейс с клиентами («MIJOZLAR») и генератор видео «Veo 3.1» (Google) — полезно для отчёта о том, какие именно AI-инструменты фигурируют в рекламе. Цифра «400-500 $» на слайде презентации — не привожу как income_claim/price_quote, так как из статичного кадра не ясно, к чему она относится (пример заработка ученика, стоимость услуги фрилансера или что-то иное); фиксирую как факт присутствия на кадре. Расшифровка целиком (написание исправлено): «2026-yil biz Shvetsiyada xalqaro konferensiyada AI bo'yicha spiker bo'lib master-klass o'tkazdik va hozirgi paytda O'zbekistondan va Shvetsiyadan turli loyihalarda ishlab, AI orqali daromad topib kelyapmiz. Bizning uzoq tajribamizdan kelib chiqib, sun'iy intellekt orqali daromad topish bo'yicha video dars tayyorladik. Pastdagi tugmani bosib, shu darsni ko'rishni unutmang, chunki bu video darsi sizga foydali bo'ladi»."
+}

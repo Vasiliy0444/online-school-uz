@@ -1,0 +1,96 @@
+/* «ИИ на заказ» — мокапы интерфейсов (13.10.2026). Отдельные компоненты: блок 9 сайта, позже — kit слайдов.
+   Всё масштабируется от ширины мокапа: .mock — контейнер, базовый кегль 4cqi (на 300 px = 12 px), внутри только em.
+   Самый мелкий текст — .92em, то есть ≥ 11 px при ширине мокапа от 300 px. Разметка — src/mock/*.html, текст — через strings.json. */
+
+.mock{position:relative;width:100%;aspect-ratio:10/8.6;container-type:inline-size;perspective:1400px;font-family:var(--f-text,'Inter',system-ui,sans-serif);color:#fff;text-align:left}
+.mock *{box-sizing:border-box}
+.mock p{margin:0}
+.mock ul{margin:0;padding:0;list-style:none}
+
+/* ---------- окно приложения ---------- */
+.mwin{position:absolute;inset:4% 3% 5% 3%;font-size:4cqi;line-height:1.3;border-radius:.9em;overflow:hidden;display:flex;flex-direction:column;gap:.55em;padding:.7em .85em .8em;
+  border:1px solid rgba(255,255,255,.14);box-shadow:0 1.6em 3em rgba(0,0,0,.55),0 .2em .6em rgba(0,0,0,.4);
+  transform:rotateY(-7deg) rotateX(3deg);transform-origin:50% 60%}
+.mw-bar{display:flex;align-items:center;gap:.5em;min-height:1.8em;padding-bottom:.45em;border-bottom:1px solid rgba(255,255,255,.08)}
+.mw-bar b{font-weight:700;font-size:1.02em}
+.mw-ava{margin-left:auto;width:1.5em;height:1.5em;border-radius:50%;background:linear-gradient(135deg,#7D6BFF,#FF5A9C)}
+
+/* нейтральная искра (не логотип) */
+.spark{flex:none;width:1.2em;height:1.2em;background:linear-gradient(135deg,#FFFFFF 0%,#C9B8FF 55%,#8E7BFF 100%);
+  clip-path:polygon(50% 0,61% 39%,100% 50%,61% 61%,50% 100%,39% 61%,0 50%,39% 39%)}
+.spark--a{width:1.4em;height:1.4em;margin-top:.05em}
+
+/* Gemini */
+.mw-gem{background:#131314}
+.gm-q{align-self:flex-end;max-width:88%;padding:.55em .8em;border-radius:1.1em 1.1em .3em 1.1em;background:#2A2B2F;color:#E8E8EA;font-size:.95em}
+.gm-a{display:flex;gap:.6em;font-size:.95em;color:#E3E3E6}
+.gm-list{margin-top:.3em}
+.gm-list li{position:relative;padding-left:1.15em;margin-top:.15em}
+.gm-list li::before{content:"";position:absolute;left:.1em;top:.42em;width:.55em;height:.3em;border-left:2px solid #A7F0BA;border-bottom:2px solid #A7F0BA;transform:rotate(-45deg)}
+.gm-in{margin-top:auto !important;padding:.5em .9em;border-radius:2em;background:#1E1F20;border:1px solid rgba(255,255,255,.1);color:#9A9AA0;font-size:.95em}
+
+/* база промптов */
+.mw-pr{background:#16131B;gap:.38em;padding-bottom:.6em}
+.pr-search{margin-left:auto;padding:.25em .8em;border-radius:2em;background:rgba(255,255,255,.07);color:#9C96A6;font-size:.92em}
+.pr-card{border-radius:.65em;background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.08);padding:.32em .6em}
+.pr-card--open{background:rgba(255,255,255,.08);border-color:rgba(255,255,255,.18)}
+.pr-row{display:flex;align-items:center;gap:.5em}
+.pr-row b{font-weight:700;font-size:.95em;flex:1;min-width:0}
+.pr-copy{flex:none;padding:.12em .55em;border-radius:.45em;border:1px solid rgba(255,255,255,.22);font-size:.92em;color:#D8D3E0}
+.pr-copy--main{background:#fff;color:#16131B;border-color:#fff;font-weight:700}
+.pr-text{margin-top:.4em !important;font-size:.92em;line-height:1.35;color:#CFC9D8}
+.pr-text i{font-style:normal;color:#fff;background:rgba(255,42,127,.32);border-radius:.25em;padding:0 .2em}
+
+/* видеоплеер урока */
+.mw-pl{background:#0E0C12;padding:.55em;gap:.5em}
+.pl-video{position:relative;border-radius:.55em;overflow:hidden;aspect-ratio:16/9;flex:none}
+.pl-video img{width:100%;height:100%;object-fit:cover;display:block}
+.pl-video .pl-host{position:absolute;right:3.5%;bottom:6%;width:21%;height:auto;aspect-ratio:1;border-radius:50%;border:2px solid rgba(255,255,255,.85);box-shadow:0 .4em 1em rgba(0,0,0,.5)}
+.pl-bar{display:flex;align-items:center;gap:.6em;padding:0 .2em}
+.pl-play{flex:none;width:0;height:0;border-left:.75em solid #fff;border-top:.45em solid transparent;border-bottom:.45em solid transparent;margin-left:.15em}
+.pl-track{flex:1;height:.3em;border-radius:1em;background:rgba(255,255,255,.18);position:relative}
+.pl-track i{position:absolute;left:0;top:0;bottom:0;width:33%;border-radius:1em;background:#fff}
+.pl-track i::after{content:"";position:absolute;right:-.35em;top:50%;width:.75em;height:.75em;border-radius:50%;background:#fff;transform:translateY(-50%)}
+.pl-time{flex:none;font-size:.92em;color:#BDB7C6;font-variant-numeric:tabular-nums}
+.pl-title{font-weight:700;font-size:.95em;padding:0 .2em;color:#F1EEF4}
+
+/* ---------- телефон с Telegram (тёмная тема) ---------- */
+.mock--tg{overflow:hidden;border-radius:1em}
+.mphone{position:absolute;left:11%;right:11%;top:5%;bottom:-14%;font-size:4cqi;line-height:1.28;border-radius:1.7em;background:#0E1621;
+  border:.42em solid #1A1A1E;box-shadow:0 0 0 1px rgba(255,255,255,.12),0 1.6em 3em rgba(0,0,0,.6);overflow:hidden;display:flex;flex-direction:column;
+  transform:rotate(-3deg);transform-origin:50% 40%}
+.tg-status{display:flex;justify-content:space-between;align-items:center;padding:.35em 1em .1em;font-size:.92em;font-weight:700;color:#fff;background:#17212B}
+.tg-moon{color:#C9C4FF}
+.tg-head{display:flex;align-items:center;gap:.55em;padding:.45em .7em;background:#17212B;border-bottom:1px solid rgba(0,0,0,.35)}
+.tg-head b{display:block;font-size:.95em;font-weight:700;line-height:1.15}
+.tg-head span[data-i18n]{display:block;font-size:.92em;color:#7E8C9B;line-height:1.15}
+.tg-back{flex:none;width:.6em;height:.6em;border-left:2px solid #6AB2F2;border-bottom:2px solid #6AB2F2;transform:rotate(45deg);margin-left:.15em}
+.tg-ava{flex:none;width:2em;height:2em;border-radius:50%;display:grid;place-items:center;font-weight:800;font-size:.92em}
+.tg-ava--barber{background:linear-gradient(135deg,#F7B267,#E05A47);color:#fff;font-size:1em}
+.tg-ava--agent{background:linear-gradient(135deg,#FF5A9C,#7D6BFF);color:#fff}
+.tg-chat{flex:1;display:flex;flex-direction:column;gap:.3em;padding:.5em .55em 1em;
+  background:radial-gradient(120% 60% at 80% 0%,rgba(80,110,150,.18),transparent 70%),#0E1621}
+.tg-msg{position:relative;max-width:90%;padding:.4em .6em;border-radius:.85em;font-size:.95em;color:#F2F5F8}
+.tg-msg.in{align-self:flex-start;background:#182533;border-bottom-left-radius:.25em}
+.tg-msg.out{align-self:flex-end;background:#2B5278;border-bottom-right-radius:.25em}
+.tg-msg time{display:block;text-align:right;font-size:.92em;color:rgba(220,232,245,.6);line-height:1;margin-top:.2em}
+.tg-kb{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.25em;max-width:94%}
+.tg-kb span{display:block;text-align:center;padding:.35em .2em;border-radius:.45em;background:rgba(56,78,102,.75);font-size:.92em;font-weight:600;color:#fff;white-space:nowrap}
+.tg-kb span.on{background:#3D6E9E;box-shadow:inset 0 0 0 1px rgba(255,255,255,.35)}
+
+/* ---------- готовые сайты: ноутбук + телефон со скринами ---------- */
+.m-laptop{position:absolute;left:2%;top:8%;width:80%;transform:rotateY(-10deg) rotateX(4deg);transform-origin:40% 60%}
+.m-lid{border-radius:.9cqi .9cqi .3cqi .3cqi;background:#111014;padding:1.6cqi 1.6cqi 2.2cqi;border:1px solid rgba(255,255,255,.14);box-shadow:0 5cqi 9cqi rgba(0,0,0,.55)}
+.m-lid img{display:block;width:100%;height:auto;aspect-ratio:16/10;object-fit:cover;object-position:top;border-radius:.4cqi}
+.m-deck{height:3cqi;margin:0 -6%;border-radius:0 0 2.4cqi 2.4cqi;background:linear-gradient(180deg,#2A272E,#151317);box-shadow:0 2cqi 4cqi rgba(0,0,0,.5)}
+.m-phone{position:absolute;right:3%;bottom:4%;width:27%;border-radius:4cqi;background:#111014;padding:1.2cqi;border:1px solid rgba(255,255,255,.18);
+  box-shadow:0 4cqi 8cqi rgba(0,0,0,.6);transform:rotate(4deg)}
+.m-phone img{display:block;width:100%;height:auto;aspect-ratio:360/779;object-fit:cover;object-position:top;border-radius:3cqi}
+
+/* узкие телефоны (< 380 px): мокап уже 300 px — кегль не меньше 12 px, мокап выше, чтобы всё влезло */
+@media (max-width:379px){
+  .mock{aspect-ratio:10/11.6}
+  .mwin,.mphone{font-size:max(12px, 4cqi)}
+  .mphone{left:7%;right:7%}
+}
+

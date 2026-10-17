@@ -1,0 +1,88 @@
+{
+ "creative_id": "1524755899458482",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "постановка или скетч",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Xo'jayin, esingizda bo'lsa, o'tgan safar keyingi oydan oyligingni…",
+  "types": [
+   "история",
+   "вопрос"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: девушка в офисе, субтитр «xo'jayin esingizda bo'lsa o'tgan safar keyingi oydan oyligingni»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Xojiyin, e sizda boz otka sefar gengi o'dan aligikotar beramandudiy, shumasilin roqoldi?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 1 из 4 (≈0:06): мужчина-«хозяин», «siz kompyuter o'rganaman degandingiz»",
+    "timecode": "00:06"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:15] Ozizan bunu gulaxu boz eskiri.",
+    "timecode": "00:15"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈0:44): девушка на фоне лого ITHOUSE — «FOUNDATION BEPUL OCHIQ DARS»",
+    "timecode": "00:44"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:40] 13-ci akciabirdan 18-ci akciabir gechi foundation boychi biplotchum daslarimiz bolibotadi.",
+    "timecode": "00:40"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Третий вариант «Foundation»-шаблона (см. 1221784123469346, 1556609115939952): завязка — сотрудница напоминает «хозяину» про обещанную прибавку к зарплате, тот отвечает, что обещал её при условии изучения компьютера («siz kompyuter o'rganaman degandingiz» / «kompyurterni tushunmasligingiz»); концовка идентична 1556609115939952 — та же ведущая на фоне лого ITHOUSE, «Foundation bepul ochiq dars», даты 13–18 октября."
+}

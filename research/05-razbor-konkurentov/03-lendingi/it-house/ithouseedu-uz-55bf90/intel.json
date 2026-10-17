@@ -1,0 +1,76 @@
+{
+ "url": "https://ithouseedu.uz",
+ "domain": "ithouseedu.uz",
+ "pages_scanned": [
+  "https://ithouseedu.uz/"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)"
+  ],
+  "platform": [
+   "Next.js"
+  ]
+ },
+ "seo_metadata": {
+  "title": "IT House — kelajakni biz bilan quring",
+  "description": "IT HOUSE — zamonaviy IT kurslari, real loyihalar va kuchli mentorlar bilan yangi IT karera boshlang. Frontend, Backend, Mobile va AI yo‘nalishlari.",
+  "open_graph": {
+   "title": "IT House — kelajakni biz bilan quring",
+   "description": "Zamonaviy IT kurslari, real loyihalar va kuchli mentorlar bilan IT karyerangizni bugun boshlang.",
+   "url": "https://www.ithouseedu.uz",
+   "site_name": "IT House",
+   "image": "https://www.ithouseedu.uz/images/og-image.png",
+   "type": "website"
+  },
+  "twitter_card": {
+   "card": "summary_large_image",
+   "title": "IT House — kelajakni biz bilan quring",
+   "description": "Frontend, Backend va AI kurslari bilan IT karyerani IT House’da boshlang.",
+   "image": "https://www.ithouseedu.uz/images/og-image.png"
+  },
+  "headings": {
+   "h1": [
+    "Zamonaviy ko‘nikmalarni boshlang‘ichdan o‘rgatamiz"
+   ],
+   "h2": [
+    "Savol-Javoblar",
+    "IT HOUSE - Kelajak shu yerda"
+   ],
+   "h3": [
+    "Meni hech qanday IT sohasida bilimim yo&#x27;q, 0 boshlasam bo&#x27;ladimi?",
+    "Kurslar qancha davom etadi?",
+    "Bo&#x27;lib-bo&#x27;lib to&#x27;lash imkoniyati mavjudmi?",
+    "Ish topishga yordam berasizlarmi?",
+    "Online yoki offline?",
+    "Sertifikat beriladimi?",
+    "Ijtimoiy tarmoqlar"
+   ]
+  }
+ },
+ "ctas": [
+  {
+   "text": "Contact",
+   "href": "#support"
+  }
+ ],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [
+   "https://ithouseedu.uz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-white.fce634ce.png&amp;w=128&amp;q=75",
+   "https://ithouseedu.uz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-white.fce634ce.png&amp;w=64&amp;q=75"
+  ],
+  "total_images_found": 6
+ },
+ "integration_links": [],
+ "hidden_elements": {
+  "experiments_or_flags": [
+   "default",
+   "outline"
+  ]
+ }
+}

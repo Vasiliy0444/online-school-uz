@@ -1,0 +1,453 @@
+{
+ "query": "reels",
+ "group": "montazh",
+ "script": "lat",
+ "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=UZ&is_targeted_country=false&media_type=all&q=reels&search_type=keyword_unordered",
+ "country": "UZ",
+ "scroll_rounds": 6,
+ "wait_seconds": 10,
+ "fetched_at": "2026-09-15T20:16:27+00:00",
+ "status_code": 403,
+ "seconds": 36.3,
+ "cards": 29,
+ "blocked_suspected": false,
+ "ads": [
+  {
+   "library_id": "27359096337083443",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=27359096337083443",
+   "started_running": "Jun 30, 2026",
+   "ads_using_creative": 1,
+   "advertiser": "Instagram",
+   "advertiser_handle": "instagram",
+   "landing_url": "http://play.google.com/store/apps/details?id=com.instagram.android",
+   "landing_domain": "play.google.com",
+   "cta": "Download",
+   "creative_image": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/597396576_2014739489316624_2912775078243521069_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=v0Fef-aptykQ7kNvwFhRM5E&_nc_oc=AdrKU0yZI02WIj5Tt5uN1uWWD7Jy-K7L78SjW_w5Kq24GjnIPGwwux76wj25dwg67hE&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQKLFsWNOFWB1c_8rQzU7GjkH1vjRlPyzCyyakC82-AMDg&oe=6AAF8991",
+   "link_text": "Bina Edit ke",
+   "body": "Har din ke palon ke liye Storiz bani thin. Instagram apni jingi ke hisson ko share karein.",
+   "platforms": [
+    "Instagram"
+   ]
+  },
+  {
+   "library_id": "1974942553080398",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=1974942553080398",
+   "started_running": "Nov 29, 2025",
+   "ads_using_creative": 1,
+   "advertiser": "Muse App",
+   "advertiser_handle": "100088641745631",
+   "landing_url": "http://itunes.apple.com/app/id1638320348",
+   "landing_domain": "itunes.apple.com",
+   "cta": "Install now",
+   "creative_image": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/590850182_743295992118051_8609435225295468165_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N4jC2fUO5jMQ7kNvwE7s4de&_nc_oc=AdpDVgiSFLtUBXk_u46uq6rPMipeAMLKSOK8fAqyvPPd-mVKD7-6Mm8US2DxxbAS9IU&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQJlk53_KyDqSnKOVmEmrlXb_aVefDb_5NZTEcoiLUgGIA&oe=6AAF883F",
+   "body": "Easy Reels Maker! ✨ Try it now!\n0:00 / 0:15\n ITUNES.APPLE.COM Muse: Best Reels Maker Install now \n​\nActive",
+   "platforms": []
+  },
+  {
+   "library_id": "3742125949319067",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=3742125949319067",
+   "started_running": "May 9, 2026",
+   "ads_using_creative": 1,
+   "advertiser": "VideoExpress.ai",
+   "advertiser_handle": "61557571680684",
+   "landing_url": "https://videoexpress.ai/fbdeal/",
+   "landing_domain": "videoexpress.ai",
+   "cta": "Learn more",
+   "creative_image": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/696618244_1748569676515270_3541811625701894082_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ujCrk2FublEQ7kNvwF-vpDo&_nc_oc=AdqjBMk0qJWWsUr_85KvtjXRDZxdgLRO9uxGrPUP11NrV1jnls-IzNxOG_YEDUzrtZo&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQJ-211ye6koNoTWWKYWakIm-fIfWk0eGDQIXCQRkUMBCg&oe=6AAF7178",
+   "body": "Create short films, music videos, and educational clips in minutes.\nNo editing skills needed.\nHere's what VideoExpress 3.0 can do:\nText-to-Video Generator: Type a prompt, get a cinematic AI video instantly.\nImage-to-Video Converter: Turn any static image into a smooth, dynamic clip.\nMulti-Character Consistency: Keep your characters looking the same across every scene. Perfect for storytelling and branding.\n800+ AI Voices in 36+ Languages: Natural, emotional voiceovers for any project.\nAI Video Outpainting: Expand vertical clips to landscape automatically.\nVideo Length Increaser: Extend any clip seamlessly with AI-generated frames.\nTalking Photos: Animate any photo with realistic lip-sync and dialogue.\nCamera Zoom & Pan from Prompt: Just describe the camera move you want.\nTimeline Video Editor: Merge clips into polished long-form videos (up to 10 min).\nSubtitles & Captions: Stylish text overlays in 70+ languages.\nScreen & Voice Recording: Add your own footage and narration.\nText Effects & Animations: Smooth transitions and animated text in seconds.\nSee All Features + Watch the Demo: https://videoexpress.ai/fbdeal/\nNo monthly fees. No subscriptions. Ever.\nOne-time payment. Full HD. No watermarks. Commercial rights included.\nPerfect for YouTube, TikTok, Instagram Reels, presentations, client work, and more.\n0:00 / 0:15\n VIDEOEXPRESS.AI Create Unlimited AI Videos No Monthly Fees or Credits. Make Unlimited AI Videos. Learn more \n​\nActive",
+   "platforms": [
+    "Instagram"
+   ]
+  },
+  {
+   "library_id": "1378832823323883",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=1378832823323883",
+   "started_running": "May 5, 2025",
+   "ads_using_creative": 1,
+   "advertiser": "Oshlar Amiri",
+   "advertiser_handle": "61574220818192",
+   "landing_url": "http://instagram.com/oshiamiri",
+   "landing_domain": "instagram.com",
+   "cta": null,
+   "creative_image": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/495075175_1399311328074132_2186131900079501933_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nKikNtU9kWAQ7kNvwHwvfsZ&_nc_oc=Adpf5tZxvuTrEOHHDcHzq7LVsmzhXnTx8e3PGxz5gIQ-AmdtlfPDxHOrkBDVraj4J9Y&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQLKDVnGLMlJUpGy3w5bXW_iGvS5LpN4Ej1ISGNH6sxygQ&oe=6AAF8EEC",
+   "body": "Oshi Amiri ( Uzingizni Amir His Eting )\nжуда тез хазм болади ва узгача ош\n😋 Биз ташрифингиздан мамнун буламиз\n📍 Маниз : Яккасарой башлык 8\n.\n.\n.\n☎️ 90 999 59 35 Оши Амири\n#love #reels #узбекистан #instagram #ташкент #tashkentcity #reelsinstagram #reelsinstagram #instagood #tiktok #uzbekistan\n0:00 / 0:26\n INSTAGRAM.COM Oshlar Amiri Visit Instagram profile \n​\nActive",
+   "platforms": [
+    "Instagram"
+   ]
+  },
+  {
+   "library_id": "27086586400970202",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=27086586400970202",
+   "started_running": "Jun 13, 2026",
+   "ads_using_creative": 1,
+   "advertiser": "Muse App",
+   "advertiser_handle": "100088641745631",
+   "landing_url": "http://itunes.apple.com/app/id1638320348",
+   "landing_domain": "itunes.apple.com",
+   "cta": "Install now",
+   "creative_image": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/720736363_1018929863889850_5801135840208439969_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rhjxEk-vgB0Q7kNvwHtCquV&_nc_oc=AdpPiM0DSCY-Nnx4wn9V4ClFA7XO6zRkh9k91pZRYN3qrHkXjjjkvik6wK_pHUIyEzY&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQJI5UK8GUOSDsPXhMZ4PScGrIDXNU5FskyXkuxWK4z0Pg&oe=6AAF82B8",
+   "body": "Easy Reels Maker! ✨ Try it now!\n0:00 / 0:32\n ITUNES.APPLE.COM Muse: Best Reels Maker Install now \n​\nActive",
+   "platforms": []
+  },
+  {
+   "library_id": "26168671099432478",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=26168671099432478",
+   "started_running": "Mar 3, 2026",
+   "ads_using_creative": 1,
+   "advertiser": "Muse App",
+   "advertiser_handle": "100088641745631",
+   "landing_url": "http://itunes.apple.com/app/id1638320348",
+   "landing_domain": "itunes.apple.com",
+   "cta": "Install now",
+   "creative_image": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/646790722_1482279156857413_6466373712023052166_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eGAJItTum3MQ7kNvwGHwfhT&_nc_oc=Adp1vgPu6WTeiP9ELWoaDDeKgvQcAp7IjrHCDUDbuKOGHONxc5-avPGcFILUOdTC0F4&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQJ9EbGLtGfU_z-uT63XUcdvvM-9APc3fG7TNyG6gDhSpg&oe=6AAF7547",
+   "body": "Easy Reels Maker! ✨ Try it now!\n0:00 / 0:15\n ITUNES.APPLE.COM Muse: Best Reels Maker Install now \n​\nActive",
+   "platforms": []
+  },
+  {
+   "library_id": "1420634922565242",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=1420634922565242",
+   "started_running": "Mar 21, 2026",
+   "ads_using_creative": 1,
+   "advertiser": "Foton Uzbekistan ",
+   "advertiser_handle": "61565786417010",
+   "landing_url": "https://www.instagram.com/_u/foton_shaxzod",
+   "landing_domain": "www.instagram.com",
+   "cta": null,
+   "creative_image": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/655708978_819587627825703_7834949495520728021_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pqfRpiwIgO4Q7kNvwFhp3PB&_nc_oc=AdrMmT1qlw_b0Re7HP2GcJKPm2GtYMGMaTq-gZMiesTXwOpVDc8fIa_be-hyA6JwsVU&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQJWcQe2k_NUmMuV6ZF6LgVGtpdbfwtQ9oolT6rikXP-qg&oe=6AAF6F15",
+   "body": "Katta yuk muammo emas!\nKuchli motor, mustahkam kuzov - hammasi mustahkam.\nFoton Aumark S chiqindi tashuvchisi - ishni o‘zi qiladi.\nBa’tafsil ma’lumot uchun:\n+998 55 520 33 33\n#reels #top #trend\n0:00 / 1:02\nFoton Uzbekistan\nMotor vehicle company\nSend message\n​\nActive",
+   "platforms": []
+  },
+  {
+   "library_id": "1453326396329926",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=1453326396329926",
+   "started_running": "Mar 28, 2026",
+   "ads_using_creative": 1,
+   "advertiser": "FacelessReels",
+   "advertiser_handle": "61574687064944",
+   "landing_url": "https://www.facelessreels.com/",
+   "landing_domain": "www.facelessreels.com",
+   "cta": "Learn more",
+   "creative_image": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/653882604_1787258579345477_7150436357580787662_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RmumLFWEt-AQ7kNvwGiFmGv&_nc_oc=AdoPYzji2OBc1PtE7NhxhSMgJqa7Heunzo88zffprBelWjYcTK8ErXe42Avs9fmARM0&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQIGJHPzoJHiHHGFxWZ_WRsl0MQJTvHVR4NtUUs1jIg91Q&oe=6AAF71DB",
+   "body": "How to create faceless videos automatically with AI 🚀\n1. Type in your niche\n2. Choose your style\n3. Connect TikTok, Instagram, and YouTube channel\nAnd FacelessReels generates and auto-posts videos EVERY SINGLE DAY to every platform!\nStarting your faceless page has never been this easy.\nClick the button on your screen and get start today.\n0:00 / 0:37\n WWW.FACELESSREELS.COM Generate AI Faceless Videos Publishes to your Instagram, TikTok and Youtube even while you sleep. Learn more \n​\nActive",
+   "platforms": [
+    "Instagram"
+   ]
+  },
+  {
+   "library_id": "1243754364052383",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=1243754364052383",
+   "started_running": "Mar 20, 2026",
+   "ads_using_creative": 1,
+   "advertiser": "Muse App",
+   "advertiser_handle": "100088641745631",
+   "landing_url": "http://itunes.apple.com/app/id1638320348",
+   "landing_domain": "itunes.apple.com",
+   "cta": "Install now",
+   "creative_image": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/624553231_1408793674298836_6343580915467020430_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TULn92W2LhIQ7kNvwEYMrft&_nc_oc=AdptajgMOciQt-gjGj-bB6ypNkPKYv12h9S5vahvFvyZIN-k5pnoMJtwl7daG9K96bQ&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQKvG15naIi_axjkBXzbP9nVVxEUSXNCKmu3yz4L-cfEXQ&oe=6AAF68B1",
+   "body": "Easy Reels Maker! ✨ Jetzt ausprobieren!\n0:00 / 0:15\n ITUNES.APPLE.COM Muse: Der beste Reels-Ersteller Install now \n​\nActive",
+   "platforms": []
+  },
+  {
+   "library_id": "2382567355500155",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=2382567355500155",
+   "started_running": "Apr 6, 2026",
+   "ads_using_creative": 1,
+   "advertiser": "FacelessReels",
+   "advertiser_handle": "61574687064944",
+   "landing_url": "https://www.facelessreels.com/",
+   "landing_domain": "www.facelessreels.com",
+   "cta": "Learn more",
+   "creative_image": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/662071322_1483682823282479_624583990606985189_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lOsPfZSgkR0Q7kNvwEaVTzK&_nc_oc=AdpE4Z4Pki3HQ9njEqddsl3zV3h5chk60ljXDH_HPBdxDJM15wNQ30FEK3haULDVgys&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQJv0dDe0uue17KSyRNFn5fKzhIE6iDvkaGMGMKEgZ8QJQ&oe=6AAF6066",
+   "body": "How to create faceless videos automatically with AI 🚀\n1. Type in your niche\n2. Choose your style\n3. Connect TikTok, Instagram, and YouTube channel\nAnd FacelessReels generates and auto-posts videos EVERY SINGLE DAY to every platform!\nStarting your faceless page has never been this easy.\nClick the button on your screen and get start today.\n0:00 / 0:28\n WWW.FACELESSREELS.COM Generate AI Faceless Videos Publishes to your Instagram, TikTok and Youtube even while you sleep. Learn more \n​\nActive",
+   "platforms": [
+    "Instagram"
+   ]
+  },
+  {
+   "library_id": "1960232238219095",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=1960232238219095",
+   "started_running": "Apr 6, 2026",
+   "ads_using_creative": 1,
+   "advertiser": "FacelessReels",
+   "advertiser_handle": "61574687064944",
+   "landing_url": "https://www.facelessreels.com/",
+   "landing_domain": "www.facelessreels.com",
+   "cta": "Learn more",
+   "creative_image": "https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/666880821_1291781355816232_6043108595028543470_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PZIXgKGv5WAQ7kNvwGOrGm6&_nc_oc=AdpLdRwa0cC3ZSZJL--_XgJn7CnXo3xe0HeaHhfVtVMrnlpX_oO-A9DwxNgy9r9mMo8&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQLPYDRF9Bml35QOyMMGHV81d3dJjRZ7A4Jh9-NGeUY__w&oe=6AAF8614",
+   "body": "How to create faceless videos automatically with AI 🚀\n1. Type in your niche\n2. Choose your style\n3. Connect TikTok, Instagram, and YouTube channel\nAnd FacelessReels generates and auto-posts videos EVERY SINGLE DAY to every platform!\nStarting your faceless page has never been this easy.\nClick the button on your screen and get start today.\n0:00 / 0:29\n WWW.FACELESSREELS.COM Generate AI Faceless Videos Publishes to your Instagram, TikTok and Youtube even while you sleep. Learn more \n​\nActive",
+   "platforms": [
+    "Instagram"
+   ]
+  },
+  {
+   "library_id": "1668832457420030",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=1668832457420030",
+   "started_running": "Jan 30, 2026",
+   "ads_using_creative": 1,
+   "advertiser": "Muse App",
+   "advertiser_handle": "100088641745631",
+   "landing_url": "http://itunes.apple.com/app/id1638320348",
+   "landing_domain": "itunes.apple.com",
+   "cta": "Install now",
+   "creative_image": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/624519693_1596744471351627_7673433232770459841_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=shqbGcFsKWEQ7kNvwHGRFah&_nc_oc=Adqqd0NoSwa730GgV3H4QR7S7KMGgxqufACH1x4nuuSpJCfZvatQf3qmV0ZB85b7yg4&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQJciT3aU1u4_wy2CDnuTdylCMJWjwF4AemqYoPmjvv8wQ&oe=6AAF8024",
+   "body": "Easy Reels Maker! ✨ Try it now!\n0:00 / 0:15\n ITUNES.APPLE.COM Muse: Best Reels Maker Install now \n​\nActive",
+   "platforms": []
+  },
+  {
+   "library_id": "2224214441673358",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=2224214441673358",
+   "started_running": "May 5, 2026",
+   "ads_using_creative": 1,
+   "advertiser": "FacelessReels",
+   "advertiser_handle": "61574687064944",
+   "landing_url": "https://www.facelessreels.com/",
+   "landing_domain": "www.facelessreels.com",
+   "cta": "Learn more",
+   "creative_image": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/690684496_1005517961912172_441341611683188722_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ImcT-mxo5WkQ7kNvwEu76_K&_nc_oc=AdpU0rBScjLI74BTS3nOsTIkhqwbS7RTnO_cK5eshrEpmnngOMPjyQUXHyAQm6a8sGY&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQIwx2dOs8ch0eKkYw8M7jNQKR893ipGQwaCGBjouOvxhw&oe=6AAF68A6",
+   "body": "How to create faceless videos automatically with AI\n1. Type in your niche\n2. Choose your style\n3. Connect TikTok, Instagram, and YouTube channel\nAnd FacelessReels generates and auto-posts videos EVERY SINGLE DAY to every platform!\nStarting your faceless page has never been this easy.\nClick the button on your screen and get start today.\n0:00 / 0:35\n WWW.FACELESSREELS.COM Generate AI Faceless Videos Publishes to your Instagram, TikTok and Youtube even while you sleep. Learn more \n​\nActive",
+   "platforms": [
+    "Instagram"
+   ]
+  },
+  {
+   "library_id": "1505797734457482",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=1505797734457482",
+   "started_running": "Mar 28, 2026",
+   "ads_using_creative": 2,
+   "advertiser": "Jay Navarro",
+   "advertiser_handle": "61586141021487",
+   "landing_url": "https://www.facelessreels.com/",
+   "landing_domain": "www.facelessreels.com",
+   "cta": null,
+   "creative_image": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/615543788_2135093727298900_6383130861508184307_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aLe2Lbt20IUQ7kNvwHon7uo&_nc_oc=AdoJl5-nszARm9cVxysAd464GPaUYA7nGC6u1vWUDxC4KnKtgwHowemx8k4OlQeKKp0&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQK1ihhCB09pFiZOpO9CBP4wgx-eR-tABhcQgVHOM994aw&oe=6AAF75B4",
+   "body": "I finally launched my first faceless page.\nIt took me like 5 minutes because there's a tool that creates AND posts the videos for you automatically.\nNo editing. No uploading. Just pure automation.\nI had to test it myself.\n0:00 / 0:40\n[](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facelessreels.com%2F&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive",
+   "platforms": []
+  },
+  {
+   "library_id": "1521481956137179",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=1521481956137179",
+   "started_running": "Jun 1, 2026",
+   "ads_using_creative": 1,
+   "advertiser": "Muse App",
+   "advertiser_handle": "100088641745631",
+   "landing_url": "http://itunes.apple.com/app/id1638320348",
+   "landing_domain": "itunes.apple.com",
+   "cta": "Install now",
+   "creative_image": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/713524299_1723626485329462_850939835963360491_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=K2NDO1h_i2MQ7kNvwFQCg81&_nc_oc=AdoILy85ICTeNCP53cfCl4xdt_nWuYvKcPgwItc0Ck-KWcbyvAT2ikVcWov7r91HN9w&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQIMSjdV0NBenyvSkP1A5U8hRENhOKOq8HyFRgDG5KoS-w&oe=6AAF8F4A",
+   "body": "Easy Reels Maker! ✨ Try it now!\n0:00 / 0:15\n ITUNES.APPLE.COM Muse: Best Reels Maker Install now \n​\nActive",
+   "platforms": []
+  },
+  {
+   "library_id": "679206198040738",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=679206198040738",
+   "started_running": "May 9, 2025",
+   "ads_using_creative": 1,
+   "advertiser": "Oshlar Amiri",
+   "advertiser_handle": "61574220818192",
+   "landing_url": "http://instagram.com/oshiamiri",
+   "landing_domain": "instagram.com",
+   "cta": null,
+   "creative_image": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/495021570_2736958649834227_6910306986883889505_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1DpSoln2JJAQ7kNvwFla2LE&_nc_oc=Adpmuk_81VdtGKg_-I5KgkjGSzerNjAMy9lkrKfUp3rpbYRxcOJPkBi2KJ7n6NwGUks&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQLq4svIUwjKy5755FTGqELM0Sd3-emAvvjmjncVB3k27A&oe=6AAF660F",
+   "body": "Сифатли гушт бн\nБарча барчаси янада мазали\n☎️ 90 999 59 35\n☎️ 90 009 59 35\n.\n.\n.\n.\n.\n.\n#love #reels #узбекистан #instagram #ташкент #tashkentcity #reelsinstagram #instagood #tiktok #uzbekistan\n0:00 / 0:22\n INSTAGRAM.COM Oshlar Amiri Visit Instagram profile \n​\nActive",
+   "platforms": [
+    "Instagram"
+   ]
+  },
+  {
+   "library_id": "950403010677823",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=950403010677823",
+   "started_running": "Feb 10, 2026",
+   "ads_using_creative": 1,
+   "advertiser": "Muse App",
+   "advertiser_handle": "100088641745631",
+   "landing_url": "http://itunes.apple.com/app/id1638320348",
+   "landing_domain": "itunes.apple.com",
+   "cta": "Install now",
+   "creative_image": "https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/631655781_875207092143443_4470505132154027142_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ATm5uyuxPn4Q7kNvwFM3Hs2&_nc_oc=AdojIPik5mM2YBUOM9Z9ylisPvKuVs6JmkdYXjau4BT7ooHqP_eTw5cWGvCd1jPDkVU&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQIuOqkK76WEVnIKWnuUMa04VebTt-HxRaTO3XBQYxdq9Q&oe=6AAF954A",
+   "body": "Easy Reels Maker! ✨ Try it now!\n0:00 / 0:15\n ITUNES.APPLE.COM Muse: Best Reels Maker Install now \n​\nActive",
+   "platforms": []
+  },
+  {
+   "library_id": "2210051093119900",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=2210051093119900",
+   "started_running": "Jul 14, 2026",
+   "ads_using_creative": 1,
+   "advertiser": "Marcus Dalton",
+   "advertiser_handle": "61579427793244",
+   "landing_url": "https://www.facelessreels.com/",
+   "landing_domain": "www.facelessreels.com",
+   "cta": "Learn more",
+   "creative_image": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/745144463_1281165253900034_3193524554505195092_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MI2fLoG_8QIQ7kNvwEGYIzP&_nc_oc=Adr3ZKHGlFYtFeOhzYVxDGqoZ0kDV4CLzWNUbpHyO0rUVifoKio46R7e5NRrMG4awc0&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQK-lVQaI68OD_PxpXEiLSxLRoOEEjW5z7hn3gi5mSYfFw&oe=6AAF6718",
+   "body": "How to create faceless videos automatically with AI 🚀\n1. Type in your niche\n2. Choose your style\n3. Connect TikTok, Instagram, and YouTube channel\nAnd FacelessReels generates and auto-posts videos EVERY SINGLE DAY to every platform!\nStarting your faceless page has never been this easy.\nClick the button on your screen and get start today.\n0:00 / 0:38\n WWW.FACELESSREELS.COM Generate AI Faceless Videos Publishes to your Instagram, TikTok and Youtube even while you sleep. Learn more \n​\nActive",
+   "platforms": [
+    "Instagram"
+   ]
+  },
+  {
+   "library_id": "1010365188262800",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=1010365188262800",
+   "started_running": "Jun 2, 2026",
+   "ads_using_creative": 1,
+   "advertiser": "Stem Split - Voice Isolation",
+   "advertiser_handle": "61582155058851",
+   "landing_url": "http://itunes.apple.com/app/id6742150522",
+   "landing_domain": "itunes.apple.com",
+   "cta": "Install now",
+   "creative_image": "https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/713754004_2943880625805407_3257879863544797926_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zNNMFM9X3F4Q7kNvwFDlwqI&_nc_oc=AdovPRX2CM-tqxPhT5LNT2lQxPUOQtuOLO-LLemctjNuBoATJqVxzDB82N1a7DcoH1o&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQLthV7YwQtnHSE9WCRaPQM7U9wUg4Sqw8uwwqyIlybrgw&oe=6AAF9161",
+   "body": "Ever wanted to see how your favorite songs are built?\nWhat if you could peel a song open, layer by layer, and hear exactly how pros do it? 👀\nWith Stem Split, you can literally separate every part of a track:\n🎤 Vocals\n🥁 Drums\n🎸 Guitar\n🎹 Piano\n🎶 Bass\nAll in a few seconds.\nNo studio. No plugins. No sound engineering degree.\nJust you + your curiosity + your favorite song.\n🔥 What you can do with it:\n🎛️ Remix and create your own versions.\n🎓 Learn how professional tracks are mixed and arranged.\n🎵 Train your ear and improve your timing.\n🎤 Make clean karaoke or acapella versions.\n🎬 Create content for TikTok, Reels, or YouTube with studio-quality stems.\nAnd here’s the best part. It works with any song you love. Import from iTunes, Spotify, or your own files, and watch it split before your eyes.\nWhat used to take hours in a studio now takes one tap. Because learning music should feel fun, not frustrating.\n👉 Download Stem Split today and start hearing music differently.\nYour next remix might just be hiding inside your playlist. 🎶🔥\n0:00 / 0:26\n ITUNES.APPLE.COM Split songs. Study the instruments. Install now \n​\nActive",
+   "platforms": []
+  },
+  {
+   "library_id": "1856608391666250",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=1856608391666250",
+   "started_running": "Mar 20, 2026",
+   "ads_using_creative": 1,
+   "advertiser": "Muse App",
+   "advertiser_handle": "100088641745631",
+   "landing_url": "http://itunes.apple.com/app/id1638320348",
+   "landing_domain": "itunes.apple.com",
+   "cta": "Install now",
+   "creative_image": "https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/615466272_1196956495861014_558846523630914676_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZLI1Oq3F72wQ7kNvwGI7kkl&_nc_oc=AdqJ2_v70tudEu_PCnyM1Ye-_TZksIYl-Ghf2_B2uBw94Ldvjkc4r3FbOla8srEfJ4U&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQIGB9PHokippvVjHyNGpafEeX9rDYM-_gVn-IYS9rduLA&oe=6AAF644C",
+   "body": "Easy Reels Maker! ✨ Jetzt ausprobieren!\n0:00 / 0:15\n ITUNES.APPLE.COM Muse: Der beste Reels-Ersteller Install now \n​\nActive",
+   "platforms": []
+  },
+  {
+   "library_id": "1619018499258220",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=1619018499258220",
+   "started_running": "Dec 18, 2025",
+   "ads_using_creative": 1,
+   "advertiser": "Muse App",
+   "advertiser_handle": "100088641745631",
+   "landing_url": "http://itunes.apple.com/app/id1638320348",
+   "landing_domain": "itunes.apple.com",
+   "cta": "Install now",
+   "creative_image": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/598814189_4250020578567294_8781645630362714790_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zf2sJYJNHCEQ7kNvwG3vPBg&_nc_oc=AdonI3yUIssZsyk3RbWCbBbL4xylmOsQKoQUog-pkWoYNtLlZXC_6nDErKirUpiviJk&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQKikDlnc0KHiJ9OoJ8ox5kaeWXsECekAF2_G8aGPr-imw&oe=6AAF8974",
+   "body": "Easy Reels Maker! ✨ Try it now!\n0:00 / 0:15\n ITUNES.APPLE.COM Muse: Best Reels Maker Install now \n​\nActive",
+   "platforms": []
+  },
+  {
+   "library_id": "964931893059618",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=964931893059618",
+   "started_running": "May 12, 2026",
+   "ads_using_creative": 1,
+   "advertiser": "FacelessReels",
+   "advertiser_handle": "61574687064944",
+   "landing_url": "https://www.facelessreels.com/",
+   "landing_domain": "www.facelessreels.com",
+   "cta": "Learn more",
+   "creative_image": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/697792846_1184941467004653_3864533543647127321_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7mKAGylOJRYQ7kNvwEI_SjR&_nc_oc=AdparBj0RvoOVpowWshr4KN7df3t375qrh2LdwyZxEPD-2N8a4Y3ITSgd_Wi8wvacMs&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQLfFeNOWfxBMO1yBSuXY7hzlZEW0xsigTTAuWA5OVej3g&oe=6AAF832A",
+   "body": "How to create faceless videos automatically with AI\n1. Type in your niche\n2. Choose your style\n3. Connect TikTok, Instagram, and YouTube channel\nAnd FacelessReels generates and auto-posts videos EVERY SINGLE DAY to every platform!\nStarting your faceless page has never been this easy.\nClick the button on your screen and get start today.\n0:00 / 0:40\n WWW.FACELESSREELS.COM Generate AI Faceless Videos Publishes to your Instagram, TikTok and Youtube even while you sleep. Learn more \n​\nActive",
+   "platforms": [
+    "Instagram"
+   ]
+  },
+  {
+   "library_id": "659999656793893",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=659999656793893",
+   "started_running": "May 9, 2025",
+   "ads_using_creative": 1,
+   "advertiser": "Oshlar Amiri",
+   "advertiser_handle": "61574220818192",
+   "landing_url": "http://instagram.com/oshiamiri",
+   "landing_domain": "instagram.com",
+   "cta": null,
+   "creative_image": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/485163556_1658123948915048_2532322370434159551_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=s5FXuqW_0scQ7kNvwH-hE18&_nc_oc=AdrTc5SuI9Rm8vPL1e3r9Nxic401nq-nrSzYx5hPpnnmYCCbBdWjpXDdhaZFGsSidMU&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQIQamERR_5jP-VM7cXvRO5SnEC-IKgvccTFUKNtcBSLCw&oe=6AAF9413",
+   "body": "Шунчаки жуда мазали\nСазан балиги жуда фойдали\nОши Амирига мархамат !\n.\n.\n.\n☎️ 90 999 59 35 Оши Амири\n☎️ 90 009 59 35 Дангал Бобо\n_________________________________\n#love #reels #instagram #instagood\n0:00 / 0:48\n INSTAGRAM.COM Oshlar Amiri Visit Instagram profile \n​\nActive",
+   "platforms": [
+    "Instagram"
+   ]
+  },
+  {
+   "library_id": "26155529077405656",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=26155529077405656",
+   "started_running": "Feb 10, 2026",
+   "ads_using_creative": 1,
+   "advertiser": "Muse App",
+   "advertiser_handle": "100088641745631",
+   "landing_url": "http://itunes.apple.com/app/id1638320348",
+   "landing_domain": "itunes.apple.com",
+   "cta": "Install now",
+   "creative_image": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/633265809_1433511118437838_8048357151357123056_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wDBYnAu63d0Q7kNvwGrv4x8&_nc_oc=AdokxHLqm8Jl_aUWYhtAvsBTz5x05_YjQ_hKtO47u2YCwI5FZq9ThMufH0WI9EROyH8&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQJkcWwj9z7DlbWFH6viiEK7xqHG2KpNAFqGQPm59xIcFQ&oe=6AAF631D",
+   "body": "Easy Reels Maker! ✨ Try it now!\n0:00 / 0:18\n ITUNES.APPLE.COM Muse: Best Reels Maker Install now \n​\nActive",
+   "platforms": []
+  },
+  {
+   "library_id": "877639958280481",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=877639958280481",
+   "started_running": "Dec 23, 2025",
+   "ads_using_creative": 1,
+   "advertiser": "Stem Split - Voice Isolation",
+   "advertiser_handle": "61582155058851",
+   "landing_url": "http://itunes.apple.com/app/id6742150522",
+   "landing_domain": "itunes.apple.com",
+   "cta": "Install now",
+   "creative_image": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/602899458_1399119185200301_4974997487292386691_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Tf2SmzmIP0oQ7kNvwFJFzCO&_nc_oc=AdpF8CKyZylrM9b25i55uq58iP2V-HOi4-BkfCKhPzmRlQ4wIkBYl4jPGG9w1CpaxCw&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQKl3Sio77AZcWS6qDZvp-7MG2Sp33XnSVh6dLZNU-cKQA&oe=6AAF8EA5",
+   "body": "Ever wanted to see how your favorite songs are built?\nWhat if you could peel a song open, layer by layer, and hear exactly how pros do it? 👀\nWith Stem Split, you can literally separate every part of a track:\n🎤 Vocals\n🥁 Drums\n🎸 Guitar\n🎹 Piano\n🎶 Bass\nAll in a few seconds.\nNo studio. No plugins. No sound engineering degree.\nJust you + your curiosity + your favorite song.\n🔥 What you can do with it:\n🎛️ Remix and create your own versions.\n🎓 Learn how professional tracks are mixed and arranged.\n🎵 Train your ear and improve your timing.\n🎤 Make clean karaoke or acapella versions.\n🎬 Create content for TikTok, Reels, or YouTube with studio-quality stems.\nAnd here’s the best part. It works with any song you love. Import from iTunes, Spotify, or your own files, and watch it split before your eyes.\nWhat used to take hours in a studio now takes one tap. Because learning music should feel fun, not frustrating.\n👉 Download Stem Split today and start hearing music differently.\nYour next remix might just be hiding inside your playlist. 🎶🔥\n0:00 / 0:24\n ITUNES.APPLE.COM Split songs. Study the instruments. Install now \n​\nActive",
+   "platforms": []
+  },
+  {
+   "library_id": "864846926693094",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=864846926693094",
+   "started_running": "Jun 23, 2026",
+   "ads_using_creative": 1,
+   "advertiser": "Instagram for Business",
+   "advertiser_handle": "instagramforbusiness",
+   "landing_url": "https://www.fb.com/business/instagram/instagram-reels?content_id=95NknLxKIhHoDUw#tools-and-partners",
+   "landing_domain": "www.fb.com",
+   "cta": "Learn More",
+   "creative_image": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/514105020_1950922988779106_7280927637018649127_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vLyaaFwh4xEQ7kNvwER_YNy&_nc_oc=Adrir8QxeeLvDVTWNT8VecsySvMJx6JNZTmiB1gTwV6vwpOFWZI2LUNyof6AT-CIjro&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQKDq39DPu9D9fB0XMUiPHVU83ibz8OWUDretCDyEOxVww&oe=6AAF6C5C",
+   "link_text": "META.COM/BUSINESS placeholder",
+   "body": "placeholder",
+   "platforms": [
+    "Instagram"
+   ]
+  },
+  {
+   "library_id": "1745993156847123",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=1745993156847123",
+   "started_running": "Jul 14, 2026",
+   "ads_using_creative": 1,
+   "advertiser": "Jay Navarro",
+   "advertiser_handle": "61586141021487",
+   "landing_url": "https://www.facelessreels.com/",
+   "landing_domain": "www.facelessreels.com",
+   "cta": "Learn more",
+   "creative_image": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/747217403_1017446324474477_27696536538753544_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vyEZxNzquIEQ7kNvwG6Y3wy&_nc_oc=AdpM5-vhpycsvxDLIwMHAZub5wwBPS2whDtOkEkHL-gxzLhBePfNVLWn-HpzrNDDpXo&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQLcW7lTnyO4h9dbAOnEP1i8N3r1oD_adTJ6IyzbXF0Tpw&oe=6AAF7DAA",
+   "body": "How to create faceless videos automatically with AI 🚀\n1. Type in your niche\n2. Choose your style\n3. Connect TikTok, Instagram, and YouTube channel\nAnd FacelessReels generates and auto-posts videos EVERY SINGLE DAY to every platform!\nStarting your faceless page has never been this easy.\nClick the button on your screen and get start today.\n0:00 / 0:37\n WWW.FACELESSREELS.COM Generate AI Faceless Videos Publishes to your Instagram, TikTok and Youtube even while you sleep. Learn more \n​\nActive",
+   "platforms": [
+    "Instagram"
+   ]
+  },
+  {
+   "library_id": "2540648086351039",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=2540648086351039",
+   "started_running": "Mar 30, 2026",
+   "ads_using_creative": 1,
+   "advertiser": "Muse App",
+   "advertiser_handle": "100088641745631",
+   "landing_url": "http://itunes.apple.com/app/id1638320348",
+   "landing_domain": "itunes.apple.com",
+   "cta": "Install now",
+   "creative_image": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/660229466_1863828227652616_6218739040094627399_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DThrwxPPgKcQ7kNvwHiOVRE&_nc_oc=AdooPqtJNeTVaVkxqY3qj7L_h0QXfKoFKGUoHmxxSp1rpxWiEI6qKS-ePDRdutIGR2o&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQLJUSOa49rMBsLP-4dN_OG2kCe6NDSAFe9qJvp5Uahjfg&oe=6AAF9423",
+   "body": "Easy Reels Maker! ✨ Try it now!\n0:00 / 0:15\n ITUNES.APPLE.COM Muse: Best Reels Maker Install now \n​\nActive",
+   "platforms": []
+  },
+  {
+   "library_id": "1264746305746670",
+   "ad_details_url": "https://www.facebook.com/ads/library/?id=1264746305746670",
+   "started_running": "Apr 6, 2026",
+   "ads_using_creative": 1,
+   "advertiser": "FacelessReels",
+   "advertiser_handle": "61574687064944",
+   "landing_url": "https://www.facelessreels.com/",
+   "landing_domain": "www.facelessreels.com",
+   "cta": "Learn more",
+   "creative_image": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/666863176_1276407633938106_151450998325457453_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4cDrO1fu-AMQ7kNvwESHIAR&_nc_oc=AdpQaiyb1aAidsq7bXvJbrF9QWpijbqHw-04gu3gfiR2h32sNdN8EMpiMmOdySp-IpQ&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQI8Ik-AK-vOW6HrJBX_TkI-oLN3EN6GOtq6-8iYYk_H0A&oe=6AAF65AB",
+   "body": "How to create faceless videos automatically with AI 🚀\n1. Type in your niche\n2. Choose your style\n3. Connect TikTok, Instagram, and YouTube channel\nAnd FacelessReels generates and auto-posts videos EVERY SINGLE DAY to every platform!\nStarting your faceless page has never been this easy.\nClick the button on your screen and get start today.\n0:00 / 0:44\n WWW.FACELESSREELS.COM Generate AI Faceless Videos Publishes to your Instagram, TikTok and Youtube even while you sleep. Learn more \nSee more\nSystem status\n  * [Ad Library API](https://www.facebook.com/ads/library/api/?source=archive-landing-page)\n  * [About ads and data use](https://www.facebook.com/ads/about/?entry_product=ad_library)\n  * [Privacy](https://www.facebook.com/privacy/center/?entry_point=privacy_basics_redirect)\n  * [Terms](https://www.facebook.com/policies/)\n  * [Cookies](https://www.facebook.com/policies/cookies/)\n[English (US)](https://www.facebook.com/language/)",
+   "platforms": [
+    "Instagram"
+   ]
+  }
+ ],
+ "markdown": "[__Meta Ad Library__](https://www.facebook.com/ads/library/?source=fb-logo)\nAd Library\n[Ad Library Report](https://www.facebook.com/ads/library/report/?source=nav-header)\n[Ad Library API](https://www.facebook.com/ads/library/api/?source=nav-header)\n[Branded Content](https://www.facebook.com/ads/library/branded_content/?source=fb-logo)\n[​](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=UZ&is_targeted_country=false&media_type=all&q=reels&search_type=keyword_unordered&sort_data\\[mode\\]=total_impressions&sort_data\\[direction\\]=desc)\nUzbekistan\n​\nSelect country\nCurrent location\nRussia\nAll\nAfghanistan\nAland Islands\nAlbania\nAlgeria\nAmerican Samoa\nAndorra\nAngola\nAnguilla\nAntarctica\nAntigua\nArgentina\nArmenia\nAruba\nAustralia\nAustria\nAzerbaijan\nBahrain\nBangladesh\nBarbados\nBelarus\nBelgium\nBelize\nBenin\nBermuda\nBhutan\nBolivia\nBonaire, Sint Eustatius and Saba\nBosnia and Herzegovina\nBotswana\nBouvet Island\nBrazil\nBritish Indian Ocean Territory\nBritish Virgin Islands\nBrunei\nBulgaria\nBurkina Faso\nBurundi\nCambodia\nCameroon\nCanada\nCape Verde\nCayman Islands\nCentral African Republic\nChad\nChile\nChina\nChristmas Island\nCocos (Keeling) Islands\nColombia\nComoros\nCook Islands\nCosta Rica\nCôte d'Ivoire\nCroatia\nCuraçao\nCyprus\nCzech Republic\nDemocratic Republic of the Congo\nDenmark\nDjibouti\nDominica\nDominican Republic\nEcuador\nEgypt\nEl Salvador\nEquatorial Guinea\nEritrea\nEstonia\nEswatini\nEthiopia\nFalkland Islands\nFaroe Islands\nFederated States of Micronesia\nFiji\nFinland\nFrance\nFrench Guiana\nFrench Polynesia\nFrench Southern Territories\nGabon\nGeorgia\nGermany\nGhana\nGibraltar\nGreece\nGreenland\nGrenada\nGuadeloupe\nGuam\nGuatemala\nGuernsey\nGuinea\nGuinea-Bissau\nGuyana\nHaiti\nHeard Island and McDonald Islands\nHonduras\nHong Kong\nHungary\nIceland\nIndia\nIndonesia\nIraq\nIreland\nIsle Of Man\nIsrael\nItaly\nJamaica\nJapan\nJersey\nJordan\nKazakhstan\nKenya\nKiribati\nKosovo\nKuwait\nKyrgyzstan\nLaos\nLatvia\nLebanon\nLesotho\nLiberia\nLibya\nLiechtenstein\nLithuania\nLuxembourg\nMacau\nMadagascar\nMalawi\nMalaysia\nMaldives\nMali\nMalta\nMarshall Islands\nMartinique\nMauritania\nMauritius\nMayotte\nMexico\nMoldova\nMonaco\nMongolia\nMontenegro\nMontserrat\nMorocco\nMozambique\nMyanmar\nNamibia\nNauru\nNepal\nNetherlands\nNetherlands Antilles\nNew Caledonia\nNew Zealand\nNicaragua\nNiger\nNigeria\nNiue\nNorfolk Island\nNorth Macedonia\nNorthern Mariana Islands\nNorway\nOman\nPakistan\nPalau\nPalestine\nPanama\nPapua New Guinea\nParaguay\nPeru\nPhilippines\nPitcairn\nPoland\nPortugal\nPuerto Rico\nQatar\nRepublic of the Congo\nRéunion\nRomania\nRussia\nRwanda\nSaint Barthélemy\nSaint Helena\nSaint Kitts and Nevis\nSaint Martin\nSaint Pierre and Miquelon\nSaint Vincent and the Grenadines\nSamoa\nSan Marino\nSao Tome and Principe\nSaudi Arabia\nSenegal\nSerbia\nSeychelles\nSierra Leone\nSingapore\nSint Maarten\nSlovakia\nSlovenia\nSolomon Islands\nSomalia\nSouth Africa\nSouth Georgia and the South Sandwich Islands\nSouth Korea\nSouth Sudan\nSpain\nSri Lanka\nSt. Lucia\nSuriname\nSvalbard and Jan Mayen\nSweden\nSwitzerland\nSyria\nTaiwan\nTajikistan\nTanzania\nThailand\nThe Bahamas\nThe Gambia\nTimor-Leste\nTogo\nTokelau\nTonga\nTrinidad and Tobago\nTunisia\nTurkey\nTurkmenistan\nTurks and Caicos Islands\nTuvalu\nUganda\nUkraine\nUnited Arab Emirates\nUnited Kingdom\nUnited States\nUnited States Minor Outlying Islands\nUruguay\nUS Virgin Islands\nUzbekistan\nVanuatu\nVatican City\nVenezuela\nVietnam\nWallis and Futuna\nWestern Sahara\nYemen\nZambia\nZimbabwe\n​\n​\nAll ads\n​\nSelect ad category\nAll ads\nIssues, elections or politics\nSearch by keyword or advertiser\n​\n​\n[Log in](https://www.facebook.com/)[](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=UZ&is_targeted_country=false&media_type=all&q=reels&search_type=keyword_unordered&sort_data\\[mode\\]=total_impressions&sort_data\\[direction\\]=desc)\nAd Library\n[Ad Library Report](https://www.facebook.com/ads/library/report/?source=nav-panel)\n[Ad Library API](https://www.facebook.com/ads/library/api/?source=nav-panel)\n[Branded Content](https://www.facebook.com/ads/library/branded_content/?source=fb-logo)\n* * *\n[System status](https://metastatus.com/ads-transparency)\nSubscribe to email updates\n[FAQ](https://www.facebook.com/ads/library/?show_faq=true)\n[About ads and data use](https://www.facebook.com/ads/about/?entry_product=ad_library)\n[Privacy](https://www.facebook.com/privacy/center/?entry_point=privacy_basics_redirect)\n[Terms](https://www.facebook.com/policies/)\n[Cookies](https://www.facebook.com/policies/cookies/)\n~8,400 results\nThese results include ads that match your **keyword search.**\nFilters\nSort\n​\nSort by\n**Active status** : Active ads\nRemove\n​\n​\nActive\nLibrary ID: 27359096337083443\nStarted running on Jun 30, 2026\nPlatforms\n​\nThis ad has multiple versions\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![Instagram](https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/597396576_2014739489316624_2912775078243521069_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=v0Fef-aptykQ7kNvwFhRM5E&_nc_oc=AdrKU0yZI02WIj5Tt5uN1uWWD7Jy-K7L78SjW_w5Kq24GjnIPGwwux76wj25dwg67hE&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQKLFsWNOFWB1c_8rQzU7GjkH1vjRlPyzCyyakC82-AMDg&oe=6AAF8991)\n[Instagram](https://www.facebook.com/instagram/)\n**Sponsored**\nHar din ke palon ke liye Storiz bani thin. Instagram apni jingi ke hisson ko share karein.\n[![](https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/597031178_1372027797795594_350827148903010145_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wCMSZtsNK4QQ7kNvwHK3jbj&_nc_oc=Adq5P19MIMO8myZF5Tz7doczCp_ZuuqjMvuj6cmG5mkUuOf8RE6XCPP1I9rzR38Tvo0&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQJCSShDpvynctQRzuKn8EcHargVqHWcRp21kSRmMAbw3Q&oe=6AAF6B30) Bina Edit ke Download ](https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.instagram.android&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 1974942553080398\nStarted running on Nov 29, 2025\nPlatforms\n​\n​\n​\n​\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![Muse App](https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/590850182_743295992118051_8609435225295468165_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N4jC2fUO5jMQ7kNvwE7s4de&_nc_oc=AdpDVgiSFLtUBXk_u46uq6rPMipeAMLKSOK8fAqyvPPd-mVKD7-6Mm8US2DxxbAS9IU&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQJlk53_KyDqSnKOVmEmrlXb_aVefDb_5NZTEcoiLUgGIA&oe=6AAF883F)\n[Muse App](https://www.facebook.com/100088641745631/)\n**Sponsored**\nEasy Reels Maker! ✨ Try it now!\n0:00 / 0:15\n[ ITUNES.APPLE.COM Muse: Best Reels Maker Install now ](https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid1638320348&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 3742125949319067\nStarted running on May 9, 2026\nPlatforms\n​\n​\n​\n​\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![VideoExpress.ai](https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/696618244_1748569676515270_3541811625701894082_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ujCrk2FublEQ7kNvwF-vpDo&_nc_oc=AdqjBMk0qJWWsUr_85KvtjXRDZxdgLRO9uxGrPUP11NrV1jnls-IzNxOG_YEDUzrtZo&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQJ-211ye6koNoTWWKYWakIm-fIfWk0eGDQIXCQRkUMBCg&oe=6AAF7178)\n[VideoExpress.ai](https://www.facebook.com/61557571680684/)\n**Sponsored**\nCreate short films, music videos, and educational clips in minutes.   \n  \nNo editing skills needed.  \n  \nHere's what VideoExpress 3.0 can do:  \n  \nText-to-Video Generator: Type a prompt, get a cinematic AI video instantly.  \n  \nImage-to-Video Converter: Turn any static image into a smooth, dynamic clip.  \n  \nMulti-Character Consistency: Keep your characters looking the same across every scene. Perfect for storytelling and branding.  \n  \n800+ AI Voices in 36+ Languages: Natural, emotional voiceovers for any project.  \n  \nAI Video Outpainting: Expand vertical clips to landscape automatically.  \n  \nVideo Length Increaser: Extend any clip seamlessly with AI-generated frames.  \n  \nTalking Photos: Animate any photo with realistic lip-sync and dialogue.  \n  \nCamera Zoom & Pan from Prompt: Just describe the camera move you want.  \n  \nTimeline Video Editor: Merge clips into polished long-form videos (up to 10 min).  \n  \nSubtitles & Captions: Stylish text overlays in 70+ languages.  \n  \nScreen & Voice Recording: Add your own footage and narration.  \n  \nText Effects & Animations: Smooth transitions and animated text in seconds.  \n  \nSee All Features + Watch the Demo: [https://videoexpress.ai/fbdeal/](https://l.facebook.com/l.php?u=https%3A%2F%2Fvideoexpress.ai%2Ffbdeal%2F&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)  \n  \nNo monthly fees. No subscriptions. Ever.  \n  \nOne-time payment. Full HD. No watermarks. Commercial rights included.  \n  \nPerfect for YouTube, TikTok, Instagram Reels, presentations, client work, and more.\n0:00 / 0:15\n[ VIDEOEXPRESS.AI Create Unlimited AI Videos No Monthly Fees or Credits. Make Unlimited AI Videos. Learn more ](https://l.facebook.com/l.php?u=https%3A%2F%2Fvideoexpress.ai%2Ffbdeal%2F&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 1378832823323883\nStarted running on May 5, 2025\nPlatforms\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![Oshlar Amiri](https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/495075175_1399311328074132_2186131900079501933_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nKikNtU9kWAQ7kNvwHwvfsZ&_nc_oc=Adpf5tZxvuTrEOHHDcHzq7LVsmzhXnTx8e3PGxz5gIQ-AmdtlfPDxHOrkBDVraj4J9Y&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQLKDVnGLMlJUpGy3w5bXW_iGvS5LpN4Ej1ISGNH6sxygQ&oe=6AAF8EEC)\n[Oshlar Amiri](https://www.facebook.com/61574220818192/)\n**Sponsored**\nOshi Amiri ( Uzingizni Amir His Eting )   \nжуда тез хазм болади ва узгача ош   \n😋 Биз ташрифингиздан мамнун буламиз   \n📍 Маниз : Яккасарой башлык 8   \n.  \n.  \n.  \n☎️ 90 999 59 35 Оши Амири   \n#love #reels #узбекистан #instagram #ташкент #tashkentcity #reelsinstagram #reelsinstagram #instagood #tiktok #uzbekistan\n0:00 / 0:26\n[ INSTAGRAM.COM Oshlar Amiri Visit Instagram profile ](https://l.facebook.com/l.php?u=http%3A%2F%2Finstagram.com%2Foshiamiri&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 27086586400970202\nStarted running on Jun 13, 2026\nPlatforms\n​\n​\n​\n​\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![Muse App](https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/720736363_1018929863889850_5801135840208439969_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rhjxEk-vgB0Q7kNvwHtCquV&_nc_oc=AdpPiM0DSCY-Nnx4wn9V4ClFA7XO6zRkh9k91pZRYN3qrHkXjjjkvik6wK_pHUIyEzY&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQJI5UK8GUOSDsPXhMZ4PScGrIDXNU5FskyXkuxWK4z0Pg&oe=6AAF82B8)\n[Muse App](https://www.facebook.com/100088641745631/)\n**Sponsored**\nEasy Reels Maker! ✨ Try it now!\n0:00 / 0:32\n[ ITUNES.APPLE.COM Muse: Best Reels Maker Install now ](https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid1638320348&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 26168671099432478\nStarted running on Mar 3, 2026\nPlatforms\n​\n​\n​\n​\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![Muse App](https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/646790722_1482279156857413_6466373712023052166_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eGAJItTum3MQ7kNvwGHwfhT&_nc_oc=Adp1vgPu6WTeiP9ELWoaDDeKgvQcAp7IjrHCDUDbuKOGHONxc5-avPGcFILUOdTC0F4&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQJ9EbGLtGfU_z-uT63XUcdvvM-9APc3fG7TNyG6gDhSpg&oe=6AAF7547)\n[Muse App](https://www.facebook.com/100088641745631/)\n**Sponsored**\nEasy Reels Maker! ✨ Try it now!\n0:00 / 0:15\n[ ITUNES.APPLE.COM Muse: Best Reels Maker Install now ](https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid1638320348&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 1420634922565242\nStarted running on Mar 21, 2026\nPlatforms\n​\n​\n​\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![Foton Uzbekistan ](https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/655708978_819587627825703_7834949495520728021_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pqfRpiwIgO4Q7kNvwFhp3PB&_nc_oc=AdrMmT1qlw_b0Re7HP2GcJKPm2GtYMGMaTq-gZMiesTXwOpVDc8fIa_be-hyA6JwsVU&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQJWcQe2k_NUmMuV6ZF6LgVGtpdbfwtQ9oolT6rikXP-qg&oe=6AAF6F15)\n[Foton Uzbekistan ](https://www.facebook.com/61565786417010/) with [foton_shaxzod](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F_u%2Ffoton_shaxzod&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n**Sponsored**\nKatta yuk muammo emas!  \n  \nKuchli motor, mustahkam kuzov - hammasi mustahkam.  \nFoton Aumark S chiqindi tashuvchisi - ishni o‘zi qiladi.  \n  \nBa’tafsil ma’lumot uchun:  \n+998 55 520 33 33  \n  \n#reels #top #trend\n0:00 / 1:02\nFoton Uzbekistan \nMotor vehicle company\nSend message\n​\nActive\nLibrary ID: 1453326396329926\nStarted running on Mar 28, 2026\nPlatforms\n​\n​\n​\n​\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![FacelessReels](https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/653882604_1787258579345477_7150436357580787662_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RmumLFWEt-AQ7kNvwGiFmGv&_nc_oc=AdoPYzji2OBc1PtE7NhxhSMgJqa7Heunzo88zffprBelWjYcTK8ErXe42Avs9fmARM0&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQIGJHPzoJHiHHGFxWZ_WRsl0MQJTvHVR4NtUUs1jIg91Q&oe=6AAF71DB)\n[FacelessReels](https://www.facebook.com/61574687064944/)\n**Sponsored**\nHow to create faceless videos automatically with AI 🚀  \n  \n1. Type in your niche  \n2. Choose your style  \n3. Connect TikTok, Instagram, and YouTube channel  \n  \nAnd FacelessReels generates and auto-posts videos EVERY SINGLE DAY to every platform!  \n  \nStarting your faceless page has never been this easy.  \n  \nClick the button on your screen and get start today.\n0:00 / 0:37\n[ WWW.FACELESSREELS.COM Generate AI Faceless Videos Publishes to your Instagram, TikTok and Youtube even while you sleep. Learn more ](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facelessreels.com%2F&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 1243754364052383\nStarted running on Mar 20, 2026\nPlatforms\n​\n​\n​\n​\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![Muse App](https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/624553231_1408793674298836_6343580915467020430_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TULn92W2LhIQ7kNvwEYMrft&_nc_oc=AdptajgMOciQt-gjGj-bB6ypNkPKYv12h9S5vahvFvyZIN-k5pnoMJtwl7daG9K96bQ&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQKvG15naIi_axjkBXzbP9nVVxEUSXNCKmu3yz4L-cfEXQ&oe=6AAF68B1)\n[Muse App](https://www.facebook.com/100088641745631/)\n**Sponsored**\nEasy Reels Maker! ✨ Jetzt ausprobieren!\n0:00 / 0:15\n[ ITUNES.APPLE.COM Muse: Der beste Reels-Ersteller Install now ](https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid1638320348&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 2382567355500155\nStarted running on Apr 6, 2026\nPlatforms\n​\n​\n​\n​\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![FacelessReels](https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/662071322_1483682823282479_624583990606985189_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lOsPfZSgkR0Q7kNvwEaVTzK&_nc_oc=AdpE4Z4Pki3HQ9njEqddsl3zV3h5chk60ljXDH_HPBdxDJM15wNQ30FEK3haULDVgys&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQJv0dDe0uue17KSyRNFn5fKzhIE6iDvkaGMGMKEgZ8QJQ&oe=6AAF6066)\n[FacelessReels](https://www.facebook.com/61574687064944/)\n**Sponsored**\nHow to create faceless videos automatically with AI 🚀  \n  \n1. Type in your niche  \n2. Choose your style  \n3. Connect TikTok, Instagram, and YouTube channel  \n  \nAnd FacelessReels generates and auto-posts videos EVERY SINGLE DAY to every platform!  \n  \nStarting your faceless page has never been this easy.  \n  \nClick the button on your screen and get start today.\n0:00 / 0:28\n[ WWW.FACELESSREELS.COM Generate AI Faceless Videos Publishes to your Instagram, TikTok and Youtube even while you sleep. Learn more ](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facelessreels.com%2F&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 1960232238219095\nStarted running on Apr 6, 2026\nPlatforms\n​\n​\n​\n​\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![FacelessReels](https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/666880821_1291781355816232_6043108595028543470_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PZIXgKGv5WAQ7kNvwGOrGm6&_nc_oc=AdpLdRwa0cC3ZSZJL--_XgJn7CnXo3xe0HeaHhfVtVMrnlpX_oO-A9DwxNgy9r9mMo8&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQLPYDRF9Bml35QOyMMGHV81d3dJjRZ7A4Jh9-NGeUY__w&oe=6AAF8614)\n[FacelessReels](https://www.facebook.com/61574687064944/)\n**Sponsored**\nHow to create faceless videos automatically with AI 🚀  \n  \n1. Type in your niche  \n2. Choose your style  \n3. Connect TikTok, Instagram, and YouTube channel  \n  \nAnd FacelessReels generates and auto-posts videos EVERY SINGLE DAY to every platform!  \n  \nStarting your faceless page has never been this easy.  \n  \nClick the button on your screen and get start today.\n0:00 / 0:29\n[ WWW.FACELESSREELS.COM Generate AI Faceless Videos Publishes to your Instagram, TikTok and Youtube even while you sleep. Learn more ](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facelessreels.com%2F&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 1668832457420030\nStarted running on Jan 30, 2026\nPlatforms\n​\n​\n​\n​\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![Muse App](https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/624519693_1596744471351627_7673433232770459841_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=shqbGcFsKWEQ7kNvwHGRFah&_nc_oc=Adqqd0NoSwa730GgV3H4QR7S7KMGgxqufACH1x4nuuSpJCfZvatQf3qmV0ZB85b7yg4&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQJciT3aU1u4_wy2CDnuTdylCMJWjwF4AemqYoPmjvv8wQ&oe=6AAF8024)\n[Muse App](https://www.facebook.com/100088641745631/)\n**Sponsored**\nEasy Reels Maker! ✨ Try it now!\n0:00 / 0:15\n[ ITUNES.APPLE.COM Muse: Best Reels Maker Install now ](https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid1638320348&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 2224214441673358\nStarted running on May 5, 2026\nPlatforms\n​\n​\n​\n​\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![FacelessReels](https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/690684496_1005517961912172_441341611683188722_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ImcT-mxo5WkQ7kNvwEu76_K&_nc_oc=AdpU0rBScjLI74BTS3nOsTIkhqwbS7RTnO_cK5eshrEpmnngOMPjyQUXHyAQm6a8sGY&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQIwx2dOs8ch0eKkYw8M7jNQKR893ipGQwaCGBjouOvxhw&oe=6AAF68A6)\n[FacelessReels](https://www.facebook.com/61574687064944/)\n**Sponsored**\nHow to create faceless videos automatically with AI  \n  \n1. Type in your niche  \n2. Choose your style  \n3. Connect TikTok, Instagram, and YouTube channel  \n  \nAnd FacelessReels generates and auto-posts videos EVERY SINGLE DAY to every platform!  \n  \nStarting your faceless page has never been this easy.  \n  \nClick the button on your screen and get start today.\n0:00 / 0:35\n[ WWW.FACELESSREELS.COM Generate AI Faceless Videos Publishes to your Instagram, TikTok and Youtube even while you sleep. Learn more ](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facelessreels.com%2F&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 1505797734457482\nStarted running on Mar 28, 2026\nPlatforms\n​\n​\n​\n​\n​\n**2 ads** use this creative and text\nOpen Dropdown\n​\nSee summary details\n* * *\n![Jay Navarro](https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/615543788_2135093727298900_6383130861508184307_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aLe2Lbt20IUQ7kNvwHon7uo&_nc_oc=AdoJl5-nszARm9cVxysAd464GPaUYA7nGC6u1vWUDxC4KnKtgwHowemx8k4OlQeKKp0&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQK1ihhCB09pFiZOpO9CBP4wgx-eR-tABhcQgVHOM994aw&oe=6AAF75B4)\n[Jay Navarro](https://www.facebook.com/61586141021487/)\n**Sponsored**\nI finally launched my first faceless page.  \n  \nIt took me like 5 minutes because there's a tool that creates AND posts the videos for you automatically.  \n  \nNo editing. No uploading. Just pure automation.  \n  \nI had to test it myself.\n0:00 / 0:40\n[](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facelessreels.com%2F&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 1521481956137179\nStarted running on Jun 1, 2026\nPlatforms\n​\n​\n​\n​\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![Muse App](https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/713524299_1723626485329462_850939835963360491_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=K2NDO1h_i2MQ7kNvwFQCg81&_nc_oc=AdoILy85ICTeNCP53cfCl4xdt_nWuYvKcPgwItc0Ck-KWcbyvAT2ikVcWov7r91HN9w&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQIMSjdV0NBenyvSkP1A5U8hRENhOKOq8HyFRgDG5KoS-w&oe=6AAF8F4A)\n[Muse App](https://www.facebook.com/100088641745631/)\n**Sponsored**\nEasy Reels Maker! ✨ Try it now!\n0:00 / 0:15\n[ ITUNES.APPLE.COM Muse: Best Reels Maker Install now ](https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid1638320348&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 679206198040738\nStarted running on May 9, 2025\nPlatforms\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![Oshlar Amiri](https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/495021570_2736958649834227_6910306986883889505_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1DpSoln2JJAQ7kNvwFla2LE&_nc_oc=Adpmuk_81VdtGKg_-I5KgkjGSzerNjAMy9lkrKfUp3rpbYRxcOJPkBi2KJ7n6NwGUks&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQLq4svIUwjKy5755FTGqELM0Sd3-emAvvjmjncVB3k27A&oe=6AAF660F)\n[Oshlar Amiri](https://www.facebook.com/61574220818192/)\n**Sponsored**\nСифатли гушт бн   \nБарча барчаси янада мазали   \n  \n☎️ 90 999 59 35   \n☎️ 90 009 59 35   \n.  \n.  \n.  \n.  \n.  \n.  \n#love #reels #узбекистан #instagram #ташкент #tashkentcity #reelsinstagram #instagood #tiktok #uzbekistan\n0:00 / 0:22\n[ INSTAGRAM.COM Oshlar Amiri Visit Instagram profile ](https://l.facebook.com/l.php?u=http%3A%2F%2Finstagram.com%2Foshiamiri&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 950403010677823\nStarted running on Feb 10, 2026\nPlatforms\n​\n​\n​\n​\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![Muse App](https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/631655781_875207092143443_4470505132154027142_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ATm5uyuxPn4Q7kNvwFM3Hs2&_nc_oc=AdojIPik5mM2YBUOM9Z9ylisPvKuVs6JmkdYXjau4BT7ooHqP_eTw5cWGvCd1jPDkVU&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQIuOqkK76WEVnIKWnuUMa04VebTt-HxRaTO3XBQYxdq9Q&oe=6AAF954A)\n[Muse App](https://www.facebook.com/100088641745631/)\n**Sponsored**\nEasy Reels Maker! ✨ Try it now!\n0:00 / 0:15\n[ ITUNES.APPLE.COM Muse: Best Reels Maker Install now ](https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid1638320348&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 2210051093119900\nStarted running on Jul 14, 2026\nPlatforms\n​\n​\n​\n​\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![Marcus Dalton](https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/745144463_1281165253900034_3193524554505195092_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MI2fLoG_8QIQ7kNvwEGYIzP&_nc_oc=Adr3ZKHGlFYtFeOhzYVxDGqoZ0kDV4CLzWNUbpHyO0rUVifoKio46R7e5NRrMG4awc0&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQK-lVQaI68OD_PxpXEiLSxLRoOEEjW5z7hn3gi5mSYfFw&oe=6AAF6718)\n[Marcus Dalton](https://www.facebook.com/61579427793244/)\n**Sponsored**\nHow to create faceless videos automatically with AI 🚀  \n  \n1. Type in your niche  \n2. Choose your style  \n3. Connect TikTok, Instagram, and YouTube channel  \n  \nAnd FacelessReels generates and auto-posts videos EVERY SINGLE DAY to every platform!  \n  \nStarting your faceless page has never been this easy.  \n  \nClick the button on your screen and get start today.\n0:00 / 0:38\n[ WWW.FACELESSREELS.COM Generate AI Faceless Videos Publishes to your Instagram, TikTok and Youtube even while you sleep. Learn more ](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facelessreels.com%2F&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 1010365188262800\nStarted running on Jun 2, 2026\nPlatforms\n​\n​\n​\n​\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![Stem Split - Voice Isolation](https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/713754004_2943880625805407_3257879863544797926_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zNNMFM9X3F4Q7kNvwFDlwqI&_nc_oc=AdovPRX2CM-tqxPhT5LNT2lQxPUOQtuOLO-LLemctjNuBoATJqVxzDB82N1a7DcoH1o&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQLthV7YwQtnHSE9WCRaPQM7U9wUg4Sqw8uwwqyIlybrgw&oe=6AAF9161)\n[Stem Split - Voice Isolation](https://www.facebook.com/61582155058851/)\n**Sponsored**\nEver wanted to see how your favorite songs are built?  \n  \nWhat if you could peel a song open, layer by layer, and hear exactly how pros do it? 👀  \n  \nWith Stem Split, you can literally separate every part of a track:  \n🎤 Vocals  \n🥁 Drums  \n🎸 Guitar  \n🎹 Piano  \n🎶 Bass  \n  \nAll in a few seconds.  \nNo studio. No plugins. No sound engineering degree.  \n  \nJust you + your curiosity + your favorite song.  \n  \n🔥 What you can do with it:  \n🎛️ Remix and create your own versions.  \n🎓 Learn how professional tracks are mixed and arranged.  \n🎵 Train your ear and improve your timing.  \n🎤 Make clean karaoke or acapella versions.  \n🎬 Create content for TikTok, Reels, or YouTube with studio-quality stems.  \n  \nAnd here’s the best part. It works with any song you love. Import from iTunes, Spotify, or your own files, and watch it split before your eyes.  \n  \nWhat used to take hours in a studio now takes one tap. Because learning music should feel fun, not frustrating.  \n  \n👉 Download Stem Split today and start hearing music differently.  \n  \nYour next remix might just be hiding inside your playlist. 🎶🔥\n0:00 / 0:26\n[ ITUNES.APPLE.COM Split songs. Study the instruments. Install now ](https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid6742150522&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 1856608391666250\nStarted running on Mar 20, 2026\nPlatforms\n​\n​\n​\n​\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![Muse App](https://scontent-cdg6-1.xx.fbcdn.net/v/t39.35426-6/615466272_1196956495861014_558846523630914676_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZLI1Oq3F72wQ7kNvwGI7kkl&_nc_oc=AdqJ2_v70tudEu_PCnyM1Ye-_TZksIYl-Ghf2_B2uBw94Ldvjkc4r3FbOla8srEfJ4U&_nc_zt=14&_nc_ht=scontent-cdg6-1.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQIGB9PHokippvVjHyNGpafEeX9rDYM-_gVn-IYS9rduLA&oe=6AAF644C)\n[Muse App](https://www.facebook.com/100088641745631/)\n**Sponsored**\nEasy Reels Maker! ✨ Jetzt ausprobieren!\n0:00 / 0:15\n[ ITUNES.APPLE.COM Muse: Der beste Reels-Ersteller Install now ](https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid1638320348&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 1619018499258220\nStarted running on Dec 18, 2025\nPlatforms\n​\n​\n​\n​\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![Muse App](https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/598814189_4250020578567294_8781645630362714790_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zf2sJYJNHCEQ7kNvwG3vPBg&_nc_oc=AdonI3yUIssZsyk3RbWCbBbL4xylmOsQKoQUog-pkWoYNtLlZXC_6nDErKirUpiviJk&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQKikDlnc0KHiJ9OoJ8ox5kaeWXsECekAF2_G8aGPr-imw&oe=6AAF8974)\n[Muse App](https://www.facebook.com/100088641745631/)\n**Sponsored**\nEasy Reels Maker! ✨ Try it now!\n0:00 / 0:15\n[ ITUNES.APPLE.COM Muse: Best Reels Maker Install now ](https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid1638320348&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 964931893059618\nStarted running on May 12, 2026\nPlatforms\n​\n​\n​\n​\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![FacelessReels](https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/697792846_1184941467004653_3864533543647127321_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7mKAGylOJRYQ7kNvwEI_SjR&_nc_oc=AdparBj0RvoOVpowWshr4KN7df3t375qrh2LdwyZxEPD-2N8a4Y3ITSgd_Wi8wvacMs&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQLfFeNOWfxBMO1yBSuXY7hzlZEW0xsigTTAuWA5OVej3g&oe=6AAF832A)\n[FacelessReels](https://www.facebook.com/61574687064944/)\n**Sponsored**\nHow to create faceless videos automatically with AI  \n  \n1. Type in your niche  \n2. Choose your style  \n3. Connect TikTok, Instagram, and YouTube channel  \n  \nAnd FacelessReels generates and auto-posts videos EVERY SINGLE DAY to every platform!  \n  \nStarting your faceless page has never been this easy.  \n  \nClick the button on your screen and get start today.\n0:00 / 0:40\n[ WWW.FACELESSREELS.COM Generate AI Faceless Videos Publishes to your Instagram, TikTok and Youtube even while you sleep. Learn more ](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facelessreels.com%2F&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 659999656793893\nStarted running on May 9, 2025\nPlatforms\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![Oshlar Amiri](https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/485163556_1658123948915048_2532322370434159551_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=s5FXuqW_0scQ7kNvwH-hE18&_nc_oc=AdrTc5SuI9Rm8vPL1e3r9Nxic401nq-nrSzYx5hPpnnmYCCbBdWjpXDdhaZFGsSidMU&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQIQamERR_5jP-VM7cXvRO5SnEC-IKgvccTFUKNtcBSLCw&oe=6AAF9413)\n[Oshlar Amiri](https://www.facebook.com/61574220818192/)\n**Sponsored**\nШунчаки жуда мазали   \nСазан балиги жуда фойдали   \nОши Амирига мархамат !   \n.  \n.  \n.  \n☎️ 90 999 59 35 Оши Амири   \n☎️ 90 009 59 35 Дангал Бобо   \n_________________________________  \n#love #reels #instagram #instagood\n0:00 / 0:48\n[ INSTAGRAM.COM Oshlar Amiri Visit Instagram profile ](https://l.facebook.com/l.php?u=http%3A%2F%2Finstagram.com%2Foshiamiri&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 26155529077405656\nStarted running on Feb 10, 2026\nPlatforms\n​\n​\n​\n​\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![Muse App](https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/633265809_1433511118437838_8048357151357123056_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wDBYnAu63d0Q7kNvwGrv4x8&_nc_oc=AdokxHLqm8Jl_aUWYhtAvsBTz5x05_YjQ_hKtO47u2YCwI5FZq9ThMufH0WI9EROyH8&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQJkcWwj9z7DlbWFH6viiEK7xqHG2KpNAFqGQPm59xIcFQ&oe=6AAF631D)\n[Muse App](https://www.facebook.com/100088641745631/)\n**Sponsored**\nEasy Reels Maker! ✨ Try it now!\n0:00 / 0:18\n[ ITUNES.APPLE.COM Muse: Best Reels Maker Install now ](https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid1638320348&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 877639958280481\nStarted running on Dec 23, 2025\nPlatforms\n​\n​\n​\n​\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![Stem Split - Voice Isolation](https://scontent-cdg4-3.xx.fbcdn.net/v/t39.35426-6/602899458_1399119185200301_4974997487292386691_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Tf2SmzmIP0oQ7kNvwFJFzCO&_nc_oc=AdpF8CKyZylrM9b25i55uq58iP2V-HOi4-BkfCKhPzmRlQ4wIkBYl4jPGG9w1CpaxCw&_nc_zt=14&_nc_ht=scontent-cdg4-3.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQKl3Sio77AZcWS6qDZvp-7MG2Sp33XnSVh6dLZNU-cKQA&oe=6AAF8EA5)\n[Stem Split - Voice Isolation](https://www.facebook.com/61582155058851/)\n**Sponsored**\nEver wanted to see how your favorite songs are built?  \n  \nWhat if you could peel a song open, layer by layer, and hear exactly how pros do it? 👀  \n  \nWith Stem Split, you can literally separate every part of a track:  \n🎤 Vocals  \n🥁 Drums  \n🎸 Guitar  \n🎹 Piano  \n🎶 Bass  \n  \nAll in a few seconds.  \nNo studio. No plugins. No sound engineering degree.  \n  \nJust you + your curiosity + your favorite song.  \n  \n🔥 What you can do with it:  \n🎛️ Remix and create your own versions.  \n🎓 Learn how professional tracks are mixed and arranged.  \n🎵 Train your ear and improve your timing.  \n🎤 Make clean karaoke or acapella versions.  \n🎬 Create content for TikTok, Reels, or YouTube with studio-quality stems.  \n  \nAnd here’s the best part. It works with any song you love. Import from iTunes, Spotify, or your own files, and watch it split before your eyes.  \n  \nWhat used to take hours in a studio now takes one tap. Because learning music should feel fun, not frustrating.  \n  \n👉 Download Stem Split today and start hearing music differently.  \n  \nYour next remix might just be hiding inside your playlist. 🎶🔥\n0:00 / 0:24\n[ ITUNES.APPLE.COM Split songs. Study the instruments. Install now ](https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid6742150522&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 864846926693094\nStarted running on Jun 23, 2026\nPlatforms\n​\n​\n​\n​\nThis ad has multiple versions\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![Instagram for Business](https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/514105020_1950922988779106_7280927637018649127_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vLyaaFwh4xEQ7kNvwER_YNy&_nc_oc=Adrir8QxeeLvDVTWNT8VecsySvMJx6JNZTmiB1gTwV6vwpOFWZI2LUNyof6AT-CIjro&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQKDq39DPu9D9fB0XMUiPHVU83ibz8OWUDretCDyEOxVww&oe=6AAF6C5C)\n[Instagram for Business](https://www.facebook.com/instagramforbusiness/)\n**Sponsored**\nplaceholder\n[![](https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/514810619_1439319460403995_6484165695798866855_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=b9SCr3aN3JwQ7kNvwEaKBhZ&_nc_oc=Adr7a1HKyfELgk5bPUKznTJvqaW475EdUCL5VEqbyRi0YawYwZgt5EDh_ncxSK0vjs8&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQIfGMrEts0-AYr1XibWzcOgkNvvbr7K9oKwygIjzowzDw&oe=6AAF845D) META.COM/BUSINESS placeholder Learn More ](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.fb.com%2Fbusiness%2Finstagram%2Finstagram-reels%3Fcontent_id%3D95NknLxKIhHoDUw%23tools-and-partners&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 1745993156847123\nStarted running on Jul 14, 2026\nPlatforms\n​\n​\n​\n​\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![Jay Navarro](https://scontent-cdg4-1.xx.fbcdn.net/v/t39.35426-6/747217403_1017446324474477_27696536538753544_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vyEZxNzquIEQ7kNvwG6Y3wy&_nc_oc=AdpM5-vhpycsvxDLIwMHAZub5wwBPS2whDtOkEkHL-gxzLhBePfNVLWn-HpzrNDDpXo&_nc_zt=14&_nc_ht=scontent-cdg4-1.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQLcW7lTnyO4h9dbAOnEP1i8N3r1oD_adTJ6IyzbXF0Tpw&oe=6AAF7DAA)\n[Jay Navarro](https://www.facebook.com/61586141021487/)\n**Sponsored**\nHow to create faceless videos automatically with AI 🚀  \n  \n1. Type in your niche  \n2. Choose your style  \n3. Connect TikTok, Instagram, and YouTube channel  \n  \nAnd FacelessReels generates and auto-posts videos EVERY SINGLE DAY to every platform!  \n  \nStarting your faceless page has never been this easy.  \n  \nClick the button on your screen and get start today.\n0:00 / 0:37\n[ WWW.FACELESSREELS.COM Generate AI Faceless Videos Publishes to your Instagram, TikTok and Youtube even while you sleep. Learn more ](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facelessreels.com%2F&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 2540648086351039\nStarted running on Mar 30, 2026\nPlatforms\n​\n​\n​\n​\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![Muse App](https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/660229466_1863828227652616_6218739040094627399_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DThrwxPPgKcQ7kNvwHiOVRE&_nc_oc=AdooPqtJNeTVaVkxqY3qj7L_h0QXfKoFKGUoHmxxSp1rpxWiEI6qKS-ePDRdutIGR2o&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQLJUSOa49rMBsLP-4dN_OG2kCe6NDSAFe9qJvp5Uahjfg&oe=6AAF9423)\n[Muse App](https://www.facebook.com/100088641745631/)\n**Sponsored**\nEasy Reels Maker! ✨ Try it now!\n0:00 / 0:15\n[ ITUNES.APPLE.COM Muse: Best Reels Maker Install now ](https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid1638320348&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\n​\nActive\nLibrary ID: 1264746305746670\nStarted running on Apr 6, 2026\nPlatforms\n​\n​\n​\n​\n​\nEU transparency\n​\nOpen Dropdown\n​\nSee ad details\n* * *\n![FacelessReels](https://scontent-cdg4-2.xx.fbcdn.net/v/t39.35426-6/666863176_1276407633938106_151450998325457453_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4cDrO1fu-AMQ7kNvwESHIAR&_nc_oc=AdpQaiyb1aAidsq7bXvJbrF9QWpijbqHw-04gu3gfiR2h32sNdN8EMpiMmOdySp-IpQ&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=T8safoXqN_TSVwJT71m9hw&_nc_ss=7b289&oh=00_AQI8Ik-AK-vOW6HrJBX_TkI-oLN3EN6GOtq6-8iYYk_H0A&oe=6AAF65AB)\n[FacelessReels](https://www.facebook.com/61574687064944/)\n**Sponsored**\nHow to create faceless videos automatically with AI 🚀  \n  \n1. Type in your niche  \n2. Choose your style  \n3. Connect TikTok, Instagram, and YouTube channel  \n  \nAnd FacelessReels generates and auto-posts videos EVERY SINGLE DAY to every platform!  \n  \nStarting your faceless page has never been this easy.  \n  \nClick the button on your screen and get start today.\n0:00 / 0:44\n[ WWW.FACELESSREELS.COM Generate AI Faceless Videos Publishes to your Instagram, TikTok and Youtube even while you sleep. Learn more ](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facelessreels.com%2F&h=AUCDi-ADmB1DlPrptOeJSYdxrX81GmvQadimzTwL_t42KL-HL_8ccagwpaXwykpDqQejlMxYb0twrb3W4voldldTjPgMidrO-E_iIrnA-bJw2P36rOSF4Alp0zspHO_uQnLrzEvJjPsttA)\nSee more \nSystem status\n  * [Ad Library API](https://www.facebook.com/ads/library/api/?source=archive-landing-page)\n  * [About ads and data use](https://www.facebook.com/ads/about/?entry_product=ad_library)\n  * [Privacy](https://www.facebook.com/privacy/center/?entry_point=privacy_basics_redirect)\n  * [Terms](https://www.facebook.com/policies/)\n  * [Cookies](https://www.facebook.com/policies/cookies/)\n\n\n[English (US)](https://www.facebook.com/language/)\n"
+}

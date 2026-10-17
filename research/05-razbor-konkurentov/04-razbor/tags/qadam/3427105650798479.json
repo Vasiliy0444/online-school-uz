@@ -1,0 +1,118 @@
+{
+ "creative_id": "3427105650798479",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "O'tirgan joyingizda, uyingizda yoki ofisingizda normalniy saqqa topasiz…",
+  "types": [
+   "результат или доход"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s: «O'tirgan joyingizda» с иконкой кресла; мужчина у фиолетового спорткара",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.0s–1.5s: «Uyingizda» с иконкой дома",
+    "timecode": "00:01"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s–2.5s: «Ofisingizda» с иконкой офиса",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Ottargan jayizda, u izda, yoki ofisizda narmalis haqqa taqsiz golan.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "удалёнка и свобода",
+   "доход",
+   "свой бизнес",
+   "статус"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Ottargan jayizda, u izda, yoki ofisizda narmalis haqqa taqsiz golan.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:09] ishani qatda biznesmen bob getas.",
+    "timecode": "00:09"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈00:27): ученица с сертификатом Qadam, субтитр «1oy ichida»",
+    "timecode": "00:27"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:26] 1 ay 2-de 30 minun che, nabar, nabar, od bol da.",
+    "timecode": "00:26"
+   }
+  ],
+  "revenue_claim": "1 oy ichida 30 million… oborot (ученица; «1oy ichida» на кадре, сумма по черновой расшифровке); oborotimiz 40 million… (по расшифровке)"
+ },
+ "offer": {
+  "items": [
+   "мини-курс",
+   "рассрочка"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:59] Pasta balimabcizu qaldirsiz,",
+    "timecode": "00:59"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[01:01] be pul darsli taxadariladi.",
+    "timecode": "01:01"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "UZUM bo‘yicha bepul darslar"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:47] Tol olayan, xalisis lakti diz, xalisis bolib toleshgen,",
+    "timecode": "00:47"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "мини-курс или трипвайер"
+ },
+ "speaker": {
+  "role": "блогер"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук — подписи на кадрах («O'tirgan joyingizda», «Uyingizda», «Ofisingizda»), фраза по расшифровке, написание исправлено («Ottargan jayizda, u izda, yoki ofisizda narmalis haqqa taqsiz golan» → «O'tirgan joyingizda, uyingizda yoki ofisingizda normalniy saqqa topasiz…»); «saqqa» — разговорное «деньги», окончание неразборчиво. Кадры хука те же, что у 813344071398761. Дальше: «katta biznesmen bo'lib ketasiz»; вставка ученицы с сертификатом («1oy ichida», по расшифровке «bir oy ichida 30 million… oborot» — оборот, не доход; имя на сертификате не указываю); курс онлайн или офлайн; «bo'lib to'lash» → «рассрочка»; рукопожатие с сотрудником в учебном центре (кадр 3). Финал [00:59–01:11]: «Pastda ma'lumotlaringizni qoldirsangiz, bepul darslik(lar) … beriladi. Bittasini ko'rib chiqasiz, ma'qul bo'lsa o'qiysiz… Pastda ssilka bor…» (написание исправлено), на кадре 4 — стрелка вниз → бесплатные уроки на платформе (qadam.online/courses/1/309; текст объявления «UZUM bo‘yicha bepul darslar») → «мини-курс». Подача от третьего лица, utm Uzum_Exode_Inomarka → «блогер»."
+}

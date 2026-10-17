@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "superdesign": {
+      "command": "node",
+      "args": ["/Users/Bel-a/claude-mcps/superdesign-mcp-claude-code/dist/index.js"],
+      "env": {}
+    }
+  }
+}

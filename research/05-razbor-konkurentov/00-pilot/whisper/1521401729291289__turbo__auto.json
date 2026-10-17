@@ -1,0 +1,45 @@
+{
+ "library_id": "1521401729291289",
+ "model": "mlx-community/whisper-large-v3-turbo",
+ "language_arg": null,
+ "detected_language": "az",
+ "seconds": 6.0,
+ "duration_s": 26.6,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.16,
+   "text": "Bədlər yəki hüql kurslar sətkən siz, əndə biz aynən siz qıdırvamız."
+  },
+  {
+   "start": 4.38,
+   "end": 7.8,
+   "text": "Qadəm edikəşinin satı bölümü qə təcribəli mənədərər kərək."
+  },
+  {
+   "start": 7.96,
+   "end": 10.3,
+   "text": "Taləblə adli, 19 yaş tən qatda bolişiz,"
+  },
+  {
+   "start": 10.38,
+   "end": 14.24,
+   "text": "təşkən şəhri yəki bilo yətləyəşəşi zəkəmədə 6 ay təcribəyiz boliş kəri."
+  },
+  {
+   "start": 14.48,
+   "end": 18.56,
+   "text": "İş grafiqə ərtaləbki saat 10-dan keçki saat 7 gecə və haftasə qəndəm."
+  },
+  {
+   "start": 18.56,
+   "end": 23.82,
+   "text": "Bizdə menedjərlərimiz ortakı 3 aydı 6-7 milyon və 6 aydı 10-12 milyon top yapdı."
+  },
+  {
+   "start": 24.04,
+   "end": 26.46,
+   "text": "Təklifimiz qızılbısı, hazırq ərizi qaldırayın."
+  }
+ ]
+}

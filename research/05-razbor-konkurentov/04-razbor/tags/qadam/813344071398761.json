@@ -1,0 +1,108 @@
+{
+ "creative_id": "813344071398761",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "O'tirgan joyingizda, uyingizda yoki ofisingizda normalniy saqqa topasiz…",
+  "types": [
+   "результат или доход"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s: «O'tirgan joyingizda» с иконкой кресла; мужчина у фиолетового спорткара",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.0s–1.5s: «Uyingizda» с иконкой дома",
+    "timecode": "00:01"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s–2.5s: «Ofisingizda» с иконкой офиса",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Ottargan caizda, u izda, yoki ofisda nermali sakta tafsiz golan.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "удалёнка и свобода",
+   "доход",
+   "свой бизнес",
+   "статус"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Ottargan caizda, u izda, yoki ofisda nermali sakta tafsiz golan.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 1 из 4 (≈00:09): «savdo qilishni o'rganib oling» и логотип Uzum",
+    "timecode": "00:09"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:09] di shani, katta biznesmen bob ketas.",
+    "timecode": "00:09"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈00:26): «30… AYLANMA» у ученика (цифры в анимации, полностью не читаются)",
+    "timecode": "00:26"
+   }
+  ],
+  "revenue_claim": "30… AYLANMA (ученик, кадр, цифры в анимации); oborotimiz 40 million…, bir oy ichida 30 million… oborot (ученики, по черновой расшифровке)"
+ },
+ "offer": {
+  "items": [
+   "рассрочка"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:47] Tol oleyan, halisiz nakti diz,",
+    "timecode": "00:47"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:49] halisiz bolib toleshgan,",
+    "timecode": "00:49"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "блогер"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук — подписи на кадрах («O'tirgan joyingizda», «Uyingizda», «Ofisingizda»), фраза по расшифровке, написание исправлено («Ottargan caizda, u izda, yoki ofisda nermali sakta tafsiz golan» → «O'tirgan joyingizda, uyingizda yoki ofisingizda normalniy saqqa topasiz…»); «saqqa» — разговорное «деньги», окончание фразы неразборчиво. Перевод: «прямо там, где сидите, — дома или в офисе — нормально зарабатываете». Дальше сценарий серии, как у 938821005625255: «savdo qilishni o'rganib oling» (кадр), «katta biznesmen bo'lib ketasiz»; вставка ученика «30… AYLANMA» (оборот, не доход); курс онлайн или офлайн; «xohlasangiz naqd, xohlasangiz bo'lib to'lash» → «рассрочка». Призыв [01:01–01:06]: «Hozir ma'lumotlaringizni qoldirsangiz, o'zlari aloqaga chiqib, yana batafsil ma'lumot berishadi» → форма, «основной продукт». Подача от третьего лица, utm UZUM_BLOGER_INOMARKA → «блогер». Тот же хук и кадры, что у 3427105650798479 (там финал — бесплатные уроки). Текста объявления нет."
+}

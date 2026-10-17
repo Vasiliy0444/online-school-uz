@@ -1,0 +1,94 @@
+{
+ "creative_id": "3571934022973224",
+ "platform": "meta",
+ "school_id": "bir-group",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "Bundan 5 yil avvel noldan zamonaviy kasbni o'rganib, Ustoz Media'da videomontajyor bo'lib ishlaganman.",
+  "types": [
+   "история",
+   "результат или доход"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "деньги или результат на экране"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: мужчина на фоне двух припаркованных премиальных внедорожников (Cadillac Escalade) в сумерках; субтитры «Bundan 5 yil avvel» → «no'ldan zamonaviy» → «kasbni o'rganib»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Bundan 5 yil avvel nöldan zamanavi kaspini organib.\n[00:03] Ustaz mediyada video montajyor bolub ishleganmam.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта",
+   "статус",
+   "профессия будущего"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:07] Khuda qe shukurman ishnaqa maqshinalar alish nasib kildi.",
+    "timecode": "00:07"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:09: спикер на фоне тех же премиальных внедорожников, подпись «mashinalar olish»",
+    "timecode": "00:09"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:09] Endi sisqam en zamanavi kaspilardan birini Bepolga organishiniz mumkun.",
+    "timecode": "00:09"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Buning uchun 500 ta grant ajratilgan. 25-sentabr kuni onlayn taqdimot bo'lib o'tadi."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:13] Bunun uchun isa 25. senti aburkunu bolub etedigin online taadima tikatini ashiniz kerek.",
+    "timecode": "00:13"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "блогер"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук и начало речи — личная история спикера («5 лет назад с нуля освоил современную профессию, работал видеомонтажёром в Ustoz Media») на фоне двух премиальных внедорожников — визуальный намёк на результат подан уже с 0-го кадра, до того как об этом сказано вслух ([00:07]). Спикер говорит о своём опыте в другой компании (Ustoz Media), а не как выпускник Bir Group — это не отзыв ученика школы, а личная история в духе блогера/инфлюенсера, использованная для продажи оффера Bir Group; поэтому role = «блогер», а не «ученик» (граница здесь размыта, при другом прочтении можно было бы счесть «ученик»). Конкретной суммы дохода не названо — только качественный маркер успеха (машины), поэтому income_claim не заполняю. В районе ~0:14–0:20 есть врезка кадра с сидящими в хиджабах женщинами и мужчиной за партой, подпись «esa 25-sentabr» — подтверждает дату презентации. Ролик зовёт в Telegram-канал по тексту объявления и общему паттерну пачки, а link_url ведёт на лендинг bir-group-webinar.vercel.app — ролик зовёт в Telegram-канал, но link_url ведёт на лендинг."
+}

@@ -1,0 +1,17 @@
+{
+ "school_id": "qadam",
+ "url": "https://qadam.education/uzum-inomarka-v1",
+ "sources": "ads:meta | site:sitemap | wayback",
+ "first_seen": "2026-04-22",
+ "last_seen": "2026-09-16",
+ "stage_auto_url": "",
+ "is_archive": false,
+ "snapshot_at": "2026-09-16T19:53:50+00:00",
+ "live_status": 200,
+ "final_url": "https://qadam.education/uzum-inomarka-v1",
+ "title": "Uzum Market",
+ "screenshot": "/Users/Bel-a/Data/online-shkola-uz/05-razbor-konkurentov/lendingi/qadam/qadam-education-uzum-inomarka-v1-a7118b/screenshot-mobile.jpg",
+ "stage_auto": "оферта или оплата",
+ "stage_reason": "текст страницы",
+ "text_chars": 9131
+}

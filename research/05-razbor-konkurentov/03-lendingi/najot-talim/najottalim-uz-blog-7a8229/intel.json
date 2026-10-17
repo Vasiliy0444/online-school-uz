@@ -1,0 +1,83 @@
+{
+ "url": "https://najottalim.uz",
+ "domain": "najottalim.uz",
+ "pages_scanned": [
+  "https://najottalim.uz/blog"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)"
+  ],
+  "platform": [
+   "Next.js"
+  ]
+ },
+ "seo_metadata": {
+  "title": "Blog | Najot Taʼlim",
+  "description": "Najot Taʼlim blogi — AyTi, dasturlash, dizayn va marketing boʻyicha foydali maqolalar va maslahatlar.",
+  "open_graph": {
+   "title": "Najot Taʼlim — Zamonaviy AyTi taʼlim markazi",
+   "description": "12 000+ muvaffaqiyatli bitiruvchi. Dasturlash, dizayn va marketing kurslari.",
+   "url": "https://najottalim.uz",
+   "site_name": "Najot Taʼlim",
+   "locale": "uz_UZ",
+   "image": "https://najottalim.uz/opengraph-image?6cc60f180aba9aa6",
+   "type": "website"
+  },
+  "twitter_card": {
+   "card": "summary_large_image",
+   "title": "Najot Taʼlim — Zamonaviy AyTi taʼlim markazi",
+   "description": "12 000+ muvaffaqiyatli bitiruvchi. Dasturlash, dizayn va marketing kurslari.",
+   "image": "https://najottalim.uz/opengraph-image?6cc60f180aba9aa6"
+  },
+  "headings": {
+   "h1": [
+    "Najot Ta&#x27;limda sentyabr uchun maxsus takliflar"
+   ],
+   "h3": [
+    "Grafik Dizayner va UX/UI Dizayner: Orasidagi 5 ta Asosiy Farq Nimada?",
+    "CV dagi TOP 5 ta xato: ish beruvchilar nima uchun sizni rad etadi?",
+    "Data analitika kichik bizneslarga ham kerakmi?",
+    "To&#x27;g&#x27;ri prompt yozish: SI&#x27;dan samarali foydalanish qo&#x27;llanmasi",
+    "Sun’iy intellekt davrida grafik dizayn holati qanday?",
+    "Sun’iy intellekt xatosi: SI gallyutsinatsiyasi nima va undan qanday himoyalanish mumkin?",
+    "Data analitika: juniorlar qiladigan xatolar",
+    "IQ va EQ ni rivojlantiruvchi usullar",
+    "IQ va EQ: Qaysi biri muvaffaqiyatga erishishda muhimroq?",
+    "Kiberxavfsizlikda eng kerakli sertifikatlar: Red Team yoʻnalishi (2026)",
+    "2026-yil: sun’iy intellekt (AI) va robotlar davri",
+    "Muvaffaqiyatga erishishda soft ko&#x27;nikmalar ahamiyati",
+    "2026-yildagi eng katta texnologik trendlar",
+    "Inson temperamentlari kasb tanlashda qanchalik muhim?",
+    "Montaj uchun TOP 3 ta sun&#x27;iy intellekt",
+    "Data analitika orqali marketing qanday rivojlanadi?",
+    "Najot Ta&#x27;limda Start Junior kursi: 15–17 yoshlilar uchun dasturlash va raqamli savodxonlik",
+    "Najot Ta&#x27;limda Anvar Nazrulloh bilan \\&quot;Nega hamma sun&#x27;iy intellektni o&#x27;rganishi kerak?\\&quot; mavzusida master-klass",
+    "Sun&#x27;iy Intellekt qanday Ishlaydi? Machine Learning orqali AI o&#x27;qitish jarayoni",
+    "Dilafruza Jo‘raboyeva - Najot Ta’lim bitiruvchisi Zulfiya nomidagi Davlat mukofoti sovrindori bo‘ldi",
+    "DevOps muhandisi bo&#x27;lish uchun nimalarni bilish kerak?"
+   ]
+  }
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {
+  "customer_counts": [
+   "20companies",
+   "20businesses"
+  ]
+ },
+ "images": {
+  "likely_logos": [
+   "https://najottalim.uz/brand/logo-central-white.svg",
+   "https://najottalim.uz/brand/logo-central.svg",
+   "https://najottalim.uz/brand/symbol-green.svg"
+  ],
+  "total_images_found": 231
+ },
+ "integration_links": [],
+ "hidden_elements": {}
+}

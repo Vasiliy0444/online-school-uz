@@ -1,0 +1,708 @@
+[22:34:47] старт: 136 запросов, wait=10, pause=12.0-25.0s
+[22:34:47] 1/136 пропуск (уже есть): bepul vebinar
+[22:34:47] 2/136 пропуск (уже есть): vebinar
+[22:34:47] 3/136 пропуск (уже есть): onlayn vebinar
+[22:34:47] 4/136 пропуск (уже есть): bepul master-klass
+[22:34:47] 5/136 пропуск (уже есть): master klass
+[22:34:47] 6/136 пропуск (уже есть): marafon
+[22:34:47] 7/136 пропуск (уже есть): bepul marafon
+[22:34:47] 8/136 пропуск (уже есть): intensiv
+[22:34:47] 9/136 пропуск (уже есть): bepul dars
+[22:34:47] 10/136 пропуск (уже есть): bepul darslar
+[22:34:47] 11/136 пропуск (уже есть): ochiq dars
+[22:34:47] 12/136 пропуск (уже есть): jonli efir
+[22:34:47] 13/136 пропуск (уже есть): mini kurs
+[22:34:47] 14/136 пропуск (уже есть): kurs
+[22:34:47] 15/136 пропуск (уже есть): onlayn kurs
+[22:34:47] 16/136 пропуск (уже есть): onlayn maktab
+[22:34:47] 17/136 пропуск (уже есть): ro'yxatdan o'ting
+[22:34:47] 18/136 пропуск (уже есть): joylar soni cheklangan
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...ype=all&q=chegirma&search_type=keyword_unordered  | ✓ | ⏱: 35.73s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...ype=all&q=chegirma&search_type=keyword_unordered  | ✓ | ⏱: 0.31s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1951923 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...ype=all&q=chegirma&search_type=keyword_unordered  | ✗ | ⏱: 36.09s 
+[22:35:24] 19/136 «chegirma»: карточек 27, рекламодателей 17, код 403, 36.8 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...ia_type=all&q=oqim&search_type=keyword_unordered  | ✓ | ⏱: 35.58s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...ia_type=all&q=oqim&search_type=keyword_unordered  | ✓ | ⏱: 0.20s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1566780 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...ia_type=all&q=oqim&search_type=keyword_unordered  | ✗ | ⏱: 35.83s 
+[22:36:19] 20/136 «oqim»: карточек 9, рекламодателей 8, код 403, 36.3 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...epul konsultatsiya&search_type=keyword_unordered  | ✓ | ⏱: 35.76s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...epul konsultatsiya&search_type=keyword_unordered  | ✓ | ⏱: 0.37s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1977087 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...epul konsultatsiya&search_type=keyword_unordered  | ✗ | ⏱: 36.17s 
+[22:37:19] 21/136 «bepul konsultatsiya»: карточек 27, рекламодателей 18, код 403, 36.9 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...&q=bepul qo'llanma&search_type=keyword_unordered  | ✓ | ⏱: 35.70s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...&q=bepul qo'llanma&search_type=keyword_unordered  | ✓ | ⏱: 0.28s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1739848 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...&q=bepul qo'llanma&search_type=keyword_unordered  | ✗ | ⏱: 36.02s 
+[22:38:09] 22/136 «bepul qo'llanma»: карточек 25, рекламодателей 7, код 403, 36.7 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...pe=all&q=qo'llanma&search_type=keyword_unordered  | ✓ | ⏱: 35.80s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...pe=all&q=qo'llanma&search_type=keyword_unordered  | ✓ | ⏱: 0.31s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2005320 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...pe=all&q=qo'llanma&search_type=keyword_unordered  | ✗ | ⏱: 36.16s 
+[22:39:09] 23/136 «qo'llanma»: карточек 25, рекламодателей 12, код 403, 36.9 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...type=all&q=darslik&search_type=keyword_unordered  | ✓ | ⏱: 35.74s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...type=all&q=darslik&search_type=keyword_unordered  | ✓ | ⏱: 0.33s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2059341 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...type=all&q=darslik&search_type=keyword_unordered  | ✗ | ⏱: 36.12s 
+[22:40:04] 24/136 «darslik»: карточек 26, рекламодателей 11, код 403, 36.6 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...pe=all&q=mentorlik&search_type=keyword_unordered  | ✓ | ⏱: 35.70s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...pe=all&q=mentorlik&search_type=keyword_unordered  | ✓ | ⏱: 0.26s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1551886 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...pe=all&q=mentorlik&search_type=keyword_unordered  | ✗ | ⏱: 36.01s 
+[22:41:02] 25/136 «mentorlik»: карточек 8, рекламодателей 7, код 403, 36.7 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...type=all&q=kurator&search_type=keyword_unordered  | ✓ | ⏱: 35.90s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...type=all&q=kurator&search_type=keyword_unordered  | ✓ | ⏱: 0.31s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1983909 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...type=all&q=kurator&search_type=keyword_unordered  | ✗ | ⏱: 36.25s 
+[22:42:03] 26/136 «kurator»: карточек 26, рекламодателей 7, код 403, 36.9 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...ll&q=бепул вебинар&search_type=keyword_unordered  | ✓ | ⏱: 35.53s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...ll&q=бепул вебинар&search_type=keyword_unordered  | ✓ | ⏱: 0.14s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1321246 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...ll&q=бепул вебинар&search_type=keyword_unordered  | ✗ | ⏱: 35.72s 
+[22:42:58] 27/136 «бепул вебинар»: карточек 0, рекламодателей 0, код 403, 36.1 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...type=all&q=вебинар&search_type=keyword_unordered  | ✓ | ⏱: 35.62s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...type=all&q=вебинар&search_type=keyword_unordered  | ✓ | ⏱: 0.34s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2137764 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...type=all&q=вебинар&search_type=keyword_unordered  | ✗ | ⏱: 36.00s 
+[22:43:50] 28/136 «вебинар»: карточек 29, рекламодателей 17, код 403, 36.4 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...type=all&q=марафон&search_type=keyword_unordered  | ✓ | ⏱: 35.64s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...type=all&q=марафон&search_type=keyword_unordered  | ✓ | ⏱: 0.43s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2191048 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...type=all&q=марафон&search_type=keyword_unordered  | ✗ | ⏱: 36.13s 
+[22:44:44] 29/136 «марафон»: карточек 30, рекламодателей 14, код 403, 36.7 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...e=all&q=бепул дарс&search_type=keyword_unordered  | ✓ | ⏱: 35.52s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...e=all&q=бепул дарс&search_type=keyword_unordered  | ✓ | ⏱: 0.22s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1699192 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...e=all&q=бепул дарс&search_type=keyword_unordered  | ✗ | ⏱: 35.78s 
+[22:45:43] 30/136 «бепул дарс»: карточек 12, рекламодателей 5, код 403, 36.2 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...=all&q=онлайн курс&search_type=keyword_unordered  | ✓ | ⏱: 35.65s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...=all&q=онлайн курс&search_type=keyword_unordered  | ✓ | ⏱: 0.39s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2335857 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...=all&q=онлайн курс&search_type=keyword_unordered  | ✗ | ⏱: 36.09s 
+[22:46:38] 31/136 «онлайн курс»: карточек 30, рекламодателей 15, код 403, 36.5 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...ia_type=all&q=курс&search_type=keyword_unordered  | ✓ | ⏱: 35.68s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...ia_type=all&q=курс&search_type=keyword_unordered  | ✓ | ⏱: 0.35s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2198620 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...ia_type=all&q=курс&search_type=keyword_unordered  | ✗ | ⏱: 36.08s 
+[22:47:27] 32/136 «курс»: карточек 29, рекламодателей 23, код 403, 36.8 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...&q=рўйхатдан ўтинг&search_type=keyword_unordered  | ✓ | ⏱: 35.76s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...&q=рўйхатдан ўтинг&search_type=keyword_unordered  | ✓ | ⏱: 0.44s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2157181 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...&q=рўйхатдан ўтинг&search_type=keyword_unordered  | ✗ | ⏱: 36.27s 
+[22:48:18] 33/136 «рўйхатдан ўтинг»: карточек 30, рекламодателей 9, код 403, 36.8 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...all&q=мастер-класс&search_type=keyword_unordered  | ✓ | ⏱: 35.81s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...all&q=мастер-класс&search_type=keyword_unordered  | ✓ | ⏱: 0.33s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2179733 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...all&q=мастер-класс&search_type=keyword_unordered  | ✗ | ⏱: 36.19s 
+[22:49:13] 34/136 «мастер-класс»: карточек 28, рекламодателей 24, код 403, 36.9 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...e=all&q=жонли эфир&search_type=keyword_unordered  | ✓ | ⏱: 35.58s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...e=all&q=жонли эфир&search_type=keyword_unordered  | ✓ | ⏱: 0.15s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1319235 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...e=all&q=жонли эфир&search_type=keyword_unordered  | ✗ | ⏱: 35.78s 
+[22:50:08] 35/136 «жонли эфир»: карточек 0, рекламодателей 0, код 403, 36.2 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...type=all&q=чегирма&search_type=keyword_unordered  | ✓ | ⏱: 35.64s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...type=all&q=чегирма&search_type=keyword_unordered  | ✓ | ⏱: 0.25s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1814088 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...type=all&q=чегирма&search_type=keyword_unordered  | ✗ | ⏱: 35.94s 
+[22:51:04] 36/136 «чегирма»: карточек 18, рекламодателей 13, код 403, 36.4 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...type=all&q=daromad&search_type=keyword_unordered  | ✓ | ⏱: 35.61s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...type=all&q=daromad&search_type=keyword_unordered  | ✓ | ⏱: 0.31s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1980837 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...type=all&q=daromad&search_type=keyword_unordered  | ✗ | ⏱: 35.97s 
+[22:52:05] 37/136 «daromad»: карточек 25, рекламодателей 12, код 403, 36.4 c
+[22:52:27] 38/136 пропуск (уже есть): onlayn daromad
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...rnetda pul ishlash&search_type=keyword_unordered  | ✓ | ⏱: 35.54s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...rnetda pul ishlash&search_type=keyword_unordered  | ✓ | ⏱: 0.25s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1361067 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...rnetda pul ishlash&search_type=keyword_unordered  | ✗ | ⏱: 35.83s 
+[22:53:03] 39/136 «internetda pul ishlash»: карточек 1, рекламодателей 1, код 403, 36.2 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...=all&q=pul ishlash&search_type=keyword_unordered  | ✓ | ⏱: 35.59s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...=all&q=pul ishlash&search_type=keyword_unordered  | ✓ | ⏱: 0.31s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2039309 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...=all&q=pul ishlash&search_type=keyword_unordered  | ✗ | ⏱: 35.95s 
+[22:54:03] 40/136 «pul ishlash»: карточек 26, рекламодателей 15, код 403, 36.4 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...qo'shimcha daromad&search_type=keyword_unordered  | ✓ | ⏱: 35.59s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...qo'shimcha daromad&search_type=keyword_unordered  | ✓ | ⏱: 0.33s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2186702 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...qo'shimcha daromad&search_type=keyword_unordered  | ✗ | ⏱: 35.96s 
+[22:55:01] 41/136 «qo'shimcha daromad»: карточек 28, рекламодателей 16, код 403, 36.4 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...ydan turib ishlash&search_type=keyword_unordered  | ✓ | ⏱: 35.61s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...ydan turib ishlash&search_type=keyword_unordered  | ✓ | ⏱: 0.26s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1878477 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...ydan turib ishlash&search_type=keyword_unordered  | ✗ | ⏱: 35.92s 
+[22:55:52] 42/136 «uydan turib ishlash»: карточек 21, рекламодателей 7, код 403, 36.3 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...ll&q=masofaviy ish&search_type=keyword_unordered  | ✓ | ⏱: 35.56s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...ll&q=masofaviy ish&search_type=keyword_unordered  | ✓ | ⏱: 0.34s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1942115 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...ll&q=masofaviy ish&search_type=keyword_unordered  | ✗ | ⏱: 35.95s 
+[22:56:41] 43/136 «masofaviy ish»: карточек 25, рекламодателей 8, код 403, 36.4 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...=all&q=oyiga 1000$&search_type=keyword_unordered  | ✓ | ⏱: 35.54s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...=all&q=oyiga 1000$&search_type=keyword_unordered  | ✓ | ⏱: 0.17s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1367780 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...=all&q=oyiga 1000$&search_type=keyword_unordered  | ✗ | ⏱: 35.75s 
+[22:57:33] 44/136 «oyiga 1000$»: карточек 2, рекламодателей 2, код 403, 36.1 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...l&q=kasb o'rganing&search_type=keyword_unordered  | ✓ | ⏱: 35.56s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...l&q=kasb o'rganing&search_type=keyword_unordered  | ✓ | ⏱: 0.27s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1922303 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...l&q=kasb o'rganing&search_type=keyword_unordered  | ✗ | ⏱: 35.87s 
+[22:58:23] 45/136 «kasb o'rganing»: карточек 23, рекламодателей 10, код 403, 36.3 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...e=all&q=yangi kasb&search_type=keyword_unordered  | ✓ | ⏱: 35.59s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...e=all&q=yangi kasb&search_type=keyword_unordered  | ✓ | ⏱: 0.28s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1939851 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...e=all&q=yangi kasb&search_type=keyword_unordered  | ✗ | ⏱: 35.91s 
+[22:59:12] 46/136 «yangi kasb»: карточек 24, рекламодателей 13, код 403, 36.3 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...type=all&q=даромад&search_type=keyword_unordered  | ✓ | ⏱: 35.50s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...type=all&q=даромад&search_type=keyword_unordered  | ✓ | ⏱: 0.35s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2066301 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...type=all&q=даромад&search_type=keyword_unordered  | ✗ | ⏱: 35.90s 
+[23:00:06] 47/136 «даромад»: карточек 25, рекламодателей 13, код 403, 36.3 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...pe=all&q=пул ишлаш&search_type=keyword_unordered  | ✓ | ⏱: 35.53s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...pe=all&q=пул ишлаш&search_type=keyword_unordered  | ✓ | ⏱: 0.14s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1321048 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...pe=all&q=пул ишлаш&search_type=keyword_unordered  | ✗ | ⏱: 35.72s 
+[23:01:03] 48/136 «пул ишлаш»: карточек 0, рекламодателей 0, код 403, 36.1 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...ia_type=all&q=касб&search_type=keyword_unordered  | ✓ | ⏱: 35.56s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...ia_type=all&q=касб&search_type=keyword_unordered  | ✓ | ⏱: 0.20s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1465239 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...ia_type=all&q=касб&search_type=keyword_unordered  | ✗ | ⏱: 35.80s 
+[23:01:58] 49/136 «касб»: карточек 8, рекламодателей 8, код 403, 36.2 c
+[23:02:15] 50/136 пропуск (уже есть): Uzum Market
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...ia_type=all&q=Uzum&search_type=keyword_unordered  | ✓ | ⏱: 35.75s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...ia_type=all&q=Uzum&search_type=keyword_unordered  | ✓ | ⏱: 0.29s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1993014 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...ia_type=all&q=Uzum&search_type=keyword_unordered  | ✗ | ⏱: 36.08s 
+[23:02:51] 51/136 «Uzum»: карточек 29, рекламодателей 6, код 403, 36.7 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...=all&q=Wildberries&search_type=keyword_unordered  | ✓ | ⏱: 35.61s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...=all&q=Wildberries&search_type=keyword_unordered  | ✓ | ⏱: 0.40s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2171886 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...=all&q=Wildberries&search_type=keyword_unordered  | ✗ | ⏱: 36.05s 
+[23:03:44] 52/136 «Wildberries»: карточек 32, рекламодателей 15, код 403, 36.5 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...ia_type=all&q=Ozon&search_type=keyword_unordered  | ✓ | ⏱: 35.54s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...ia_type=all&q=Ozon&search_type=keyword_unordered  | ✓ | ⏱: 0.31s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1803831 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...ia_type=all&q=Ozon&search_type=keyword_unordered  | ✗ | ⏱: 35.90s 
+[23:04:37] 53/136 «Ozon»: карточек 28, рекламодателей 14, код 403, 36.3 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...ll&q=Yandex Market&search_type=keyword_unordered  | ✓ | ⏱: 35.56s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...ll&q=Yandex Market&search_type=keyword_unordered  | ✓ | ⏱: 0.33s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2114521 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...ll&q=Yandex Market&search_type=keyword_unordered  | ✗ | ⏱: 35.94s 
+[23:05:35] 54/136 «Yandex Market»: карточек 28, рекламодателей 10, код 403, 36.4 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...=all&q=marketpleys&search_type=keyword_unordered  | ✓ | ⏱: 35.59s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...=all&q=marketpleys&search_type=keyword_unordered  | ✓ | ⏱: 0.20s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1608698 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...=all&q=marketpleys&search_type=keyword_unordered  | ✗ | ⏱: 35.83s 
+[23:06:25] 55/136 «marketpleys»: карточек 10, рекламодателей 6, код 403, 36.2 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...=all&q=marketplace&search_type=keyword_unordered  | ✓ | ⏱: 35.58s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...=all&q=marketplace&search_type=keyword_unordered  | ✓ | ⏱: 0.33s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2147739 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...=all&q=marketplace&search_type=keyword_unordered  | ✗ | ⏱: 35.95s 
+[23:07:15] 56/136 «marketplace»: карточек 30, рекламодателей 3, код 403, 36.4 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...l&q=Xitoydan tovar&search_type=keyword_unordered  | ✓ | ⏱: 35.53s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...l&q=Xitoydan tovar&search_type=keyword_unordered  | ✓ | ⏱: 0.18s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1458168 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...l&q=Xitoydan tovar&search_type=keyword_unordered  | ✗ | ⏱: 35.75s 
+[23:08:10] 57/136 «Xitoydan tovar»: карточек 5, рекламодателей 4, код 403, 36.2 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...all&q=tovar biznes&search_type=keyword_unordered  | ✓ | ⏱: 35.59s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...all&q=tovar biznes&search_type=keyword_unordered  | ✓ | ⏱: 0.25s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1727627 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...all&q=tovar biznes&search_type=keyword_unordered  | ✗ | ⏱: 35.88s 
+[23:09:02] 58/136 «tovar biznes»: карточек 16, рекламодателей 8, код 403, 36.3 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...q=sotuvchi bo'lish&search_type=keyword_unordered  | ✓ | ⏱: 35.53s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...q=sotuvchi bo'lish&search_type=keyword_unordered  | ✓ | ⏱: 0.26s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1704648 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...q=sotuvchi bo'lish&search_type=keyword_unordered  | ✗ | ⏱: 35.84s 
+[23:09:55] 59/136 «sotuvchi bo'lish»: карточек 17, рекламодателей 3, код 403, 36.3 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...ll&q=Uzum sotuvchi&search_type=keyword_unordered  | ✓ | ⏱: 35.53s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...ll&q=Uzum sotuvchi&search_type=keyword_unordered  | ✓ | ⏱: 0.25s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1759764 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...ll&q=Uzum sotuvchi&search_type=keyword_unordered  | ✗ | ⏱: 35.83s 
+[23:10:54] 60/136 «Uzum sotuvchi»: карточек 16, рекламодателей 5, код 403, 36.2 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...ia_type=all&q=Узум&search_type=keyword_unordered  | ✓ | ⏱: 35.60s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...ia_type=all&q=Узум&search_type=keyword_unordered  | ✓ | ⏱: 0.21s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1552119 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...ia_type=all&q=Узум&search_type=keyword_unordered  | ✗ | ⏱: 35.86s 
+[23:11:49] 61/136 «Узум»: карточек 11, рекламодателей 6, код 403, 36.3 c
+[23:12:08] 62/136 пропуск (уже есть): mobilografiya
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...e=all&q=mobilograf&search_type=keyword_unordered  | ✓ | ⏱: 35.55s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...e=all&q=mobilograf&search_type=keyword_unordered  | ✓ | ⏱: 0.21s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1595851 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...e=all&q=mobilograf&search_type=keyword_unordered  | ✗ | ⏱: 35.79s 
+[23:12:45] 63/136 «mobilograf»: карточек 12, рекламодателей 12, код 403, 36.2 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta..._type=all&q=montaj&search_type=keyword_unordered  | ✓ | ⏱: 35.55s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta..._type=all&q=montaj&search_type=keyword_unordered  | ✓ | ⏱: 0.35s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2077953 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta..._type=all&q=montaj&search_type=keyword_unordered  | ✗ | ⏱: 35.96s 
+[23:13:34] 64/136 «montaj»: карточек 27, рекламодателей 23, код 403, 36.4 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...all&q=video montaj&search_type=keyword_unordered  | ✓ | ⏱: 35.56s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...all&q=video montaj&search_type=keyword_unordered  | ✓ | ⏱: 0.25s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1691901 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...all&q=video montaj&search_type=keyword_unordered  | ✗ | ⏱: 35.86s 
+[23:14:31] 65/136 «video montaj»: карточек 19, рекламодателей 16, код 403, 36.3 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta..._type=all&q=CapCut&search_type=keyword_unordered  | ✓ | ⏱: 35.61s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta..._type=all&q=CapCut&search_type=keyword_unordered  | ✓ | ⏱: 0.33s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2114994 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta..._type=all&q=CapCut&search_type=keyword_unordered  | ✗ | ⏱: 35.99s 
+[23:15:28] 66/136 «CapCut»: карточек 26, рекламодателей 18, код 403, 36.4 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...a_type=all&q=reels&search_type=keyword_unordered  | ✓ | ⏱: 35.51s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...a_type=all&q=reels&search_type=keyword_unordered  | ✓ | ⏱: 0.33s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2089208 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...a_type=all&q=reels&search_type=keyword_unordered  | ✗ | ⏱: 35.88s 
+[23:16:27] 67/136 «reels»: карточек 29, рекламодателей 10, код 403, 36.3 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...pe=all&q=videograf&search_type=keyword_unordered  | ✓ | ⏱: 35.60s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...pe=all&q=videograf&search_type=keyword_unordered  | ✓ | ⏱: 0.23s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1468179 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...pe=all&q=videograf&search_type=keyword_unordered  | ✗ | ⏱: 35.87s 
+[23:17:16] 68/136 «videograf»: карточек 6, рекламодателей 6, код 403, 36.3 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...all&q=kontent kurs&search_type=keyword_unordered  | ✓ | ⏱: 35.52s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...all&q=kontent kurs&search_type=keyword_unordered  | ✓ | ⏱: 0.26s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1687111 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...all&q=kontent kurs&search_type=keyword_unordered  | ✗ | ⏱: 35.82s 
+[23:18:13] 69/136 «kontent kurs»: карточек 20, рекламодателей 11, код 403, 36.2 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...all&q=Premiere Pro&search_type=keyword_unordered  | ✓ | ⏱: 35.47s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...all&q=Premiere Pro&search_type=keyword_unordered  | ✓ | ⏱: 0.31s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1814814 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...all&q=Premiere Pro&search_type=keyword_unordered  | ✗ | ⏱: 35.83s 
+[23:19:08] 70/136 «Premiere Pro»: карточек 28, рекламодателей 18, код 403, 36.2 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...all&q=мобилография&search_type=keyword_unordered  | ✓ | ⏱: 35.57s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...all&q=мобилография&search_type=keyword_unordered  | ✓ | ⏱: 0.21s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1622835 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...all&q=мобилография&search_type=keyword_unordered  | ✗ | ⏱: 35.82s 
+[23:19:57] 71/136 «мобилография»: карточек 12, рекламодателей 7, код 403, 36.2 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta..._type=all&q=монтаж&search_type=keyword_unordered  | ✓ | ⏱: 35.54s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta..._type=all&q=монтаж&search_type=keyword_unordered  | ✓ | ⏱: 0.33s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2143386 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta..._type=all&q=монтаж&search_type=keyword_unordered  | ✗ | ⏱: 35.92s 
+[23:20:51] 72/136 «монтаж»: карточек 28, рекламодателей 23, код 403, 36.3 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...dia_type=all&q=SMM&search_type=keyword_unordered  | ✓ | ⏱: 35.64s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...dia_type=all&q=SMM&search_type=keyword_unordered  | ✓ | ⏱: 0.35s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1966462 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...dia_type=all&q=SMM&search_type=keyword_unordered  | ✗ | ⏱: 36.04s 
+[23:21:48] 73/136 «SMM»: карточек 26, рекламодателей 18, код 403, 36.4 c
+[23:22:02] 74/136 пропуск (уже есть): SMM kurs
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta..._type=all&q=target&search_type=keyword_unordered  | ✓ | ⏱: 35.59s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta..._type=all&q=target&search_type=keyword_unordered  | ✓ | ⏱: 0.43s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2385164 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta..._type=all&q=target&search_type=keyword_unordered  | ✗ | ⏱: 36.07s 
+[23:22:38] 75/136 «target»: карточек 27, рекламодателей 16, код 403, 36.5 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...e=all&q=targetolog&search_type=keyword_unordered  | ✓ | ⏱: 35.56s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...e=all&q=targetolog&search_type=keyword_unordered  | ✓ | ⏱: 0.27s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1931604 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...e=all&q=targetolog&search_type=keyword_unordered  | ✗ | ⏱: 35.88s 
+[23:23:37] 76/136 «targetolog»: карточек 24, рекламодателей 18, код 403, 36.3 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...=all&q=target kurs&search_type=keyword_unordered  | ✓ | ⏱: 35.57s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...=all&q=target kurs&search_type=keyword_unordered  | ✓ | ⏱: 0.29s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1875202 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...=all&q=target kurs&search_type=keyword_unordered  | ✗ | ⏱: 35.90s 
+[23:24:37] 77/136 «target kurs»: карточек 20, рекламодателей 14, код 403, 36.3 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...l&q=marketing kurs&search_type=keyword_unordered  | ✓ | ⏱: 35.53s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...l&q=marketing kurs&search_type=keyword_unordered  | ✓ | ⏱: 0.24s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1820937 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...l&q=marketing kurs&search_type=keyword_unordered  | ✗ | ⏱: 35.82s 
+[23:25:34] 78/136 «marketing kurs»: карточек 16, рекламодателей 7, код 403, 36.2 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...e=all&q=marketolog&search_type=keyword_unordered  | ✓ | ⏱: 35.70s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...e=all&q=marketolog&search_type=keyword_unordered  | ✓ | ⏱: 0.25s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1798635 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...e=all&q=marketolog&search_type=keyword_unordered  | ✗ | ⏱: 36.00s 
+[23:26:25] 79/136 «marketolog»: карточек 18, рекламодателей 10, код 403, 36.7 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...=all&q=kopirayting&search_type=keyword_unordered  | ✓ | ⏱: 35.56s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...=all&q=kopirayting&search_type=keyword_unordered  | ✓ | ⏱: 0.14s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1321005 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...=all&q=kopirayting&search_type=keyword_unordered  | ✗ | ⏱: 35.75s 
+[23:27:20] 80/136 «kopirayting»: карточек 0, рекламодателей 0, код 403, 36.2 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...ll&q=shaxsiy brend&search_type=keyword_unordered  | ✓ | ⏱: 35.60s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...ll&q=shaxsiy brend&search_type=keyword_unordered  | ✓ | ⏱: 0.32s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2075618 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...ll&q=shaxsiy brend&search_type=keyword_unordered  | ✗ | ⏱: 35.97s 
+[23:28:14] 81/136 «shaxsiy brend»: карточек 28, рекламодателей 16, код 403, 36.4 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta..._type=all&q=bloger&search_type=keyword_unordered  | ✓ | ⏱: 35.49s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta..._type=all&q=bloger&search_type=keyword_unordered  | ✓ | ⏱: 0.30s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1727135 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta..._type=all&q=bloger&search_type=keyword_unordered  | ✗ | ⏱: 35.84s 
+[23:29:07] 82/136 «bloger»: карточек 21, рекламодателей 16, код 403, 36.2 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...l&q=bloger bo'lish&search_type=keyword_unordered  | ✓ | ⏱: 35.51s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...l&q=bloger bo'lish&search_type=keyword_unordered  | ✓ | ⏱: 0.16s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1346077 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...l&q=bloger bo'lish&search_type=keyword_unordered  | ✗ | ⏱: 35.71s 
+[23:29:57] 83/136 «bloger bo'lish»: карточек 1, рекламодателей 1, код 403, 36.1 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...a_type=all&q=sotuv&search_type=keyword_unordered  | ✓ | ⏱: 35.60s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...a_type=all&q=sotuv&search_type=keyword_unordered  | ✓ | ⏱: 0.29s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1995960 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...a_type=all&q=sotuv&search_type=keyword_unordered  | ✗ | ⏱: 35.94s 
+[23:30:58] 84/136 «sotuv»: карточек 24, рекламодателей 11, код 403, 36.4 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...l&q=sotuv menejeri&search_type=keyword_unordered  | ✓ | ⏱: 35.49s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...l&q=sotuv menejeri&search_type=keyword_unordered  | ✓ | ⏱: 0.25s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1752559 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...l&q=sotuv menejeri&search_type=keyword_unordered  | ✗ | ⏱: 35.78s 
+[23:31:49] 85/136 «sotuv menejeri»: карточек 23, рекламодателей 12, код 403, 36.2 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta..._type=all&q=zapusk&search_type=keyword_unordered  | ✓ | ⏱: 35.59s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta..._type=all&q=zapusk&search_type=keyword_unordered  | ✓ | ⏱: 0.27s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1929235 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta..._type=all&q=zapusk&search_type=keyword_unordered  | ✗ | ⏱: 35.91s 
+[23:32:41] 86/136 «zapusk»: карточек 22, рекламодателей 7, код 403, 36.3 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...pe=all&q=prodyuser&search_type=keyword_unordered  | ✓ | ⏱: 35.54s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...pe=all&q=prodyuser&search_type=keyword_unordered  | ✓ | ⏱: 0.21s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1378620 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...pe=all&q=prodyuser&search_type=keyword_unordered  | ✗ | ⏱: 35.79s 
+[23:33:33] 87/136 «prodyuser»: карточек 2, рекламодателей 1, код 403, 36.2 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...l&q=Instagram kurs&search_type=keyword_unordered  | ✓ | ⏱: 35.51s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...l&q=Instagram kurs&search_type=keyword_unordered  | ✓ | ⏱: 0.32s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2186803 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...l&q=Instagram kurs&search_type=keyword_unordered  | ✗ | ⏱: 35.87s 
+[23:34:28] 88/136 «Instagram kurs»: карточек 30, рекламодателей 22, код 403, 36.3 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...l&q=Telegram kanal&search_type=keyword_unordered  | ✓ | ⏱: 35.59s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...l&q=Telegram kanal&search_type=keyword_unordered  | ✓ | ⏱: 0.30s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2019386 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...l&q=Telegram kanal&search_type=keyword_unordered  | ✗ | ⏱: 35.94s 
+[23:35:27] 89/136 «Telegram kanal»: карточек 26, рекламодателей 18, код 403, 36.3 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...dia_type=all&q=СММ&search_type=keyword_unordered  | ✓ | ⏱: 35.65s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...dia_type=all&q=СММ&search_type=keyword_unordered  | ✓ | ⏱: 0.25s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1818006 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...dia_type=all&q=СММ&search_type=keyword_unordered  | ✗ | ⏱: 35.94s 
+[23:36:17] 90/136 «СММ»: карточек 18, рекламодателей 12, код 403, 36.3 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta..._type=all&q=таргет&search_type=keyword_unordered  | ✓ | ⏱: 35.66s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta..._type=all&q=таргет&search_type=keyword_unordered  | ✓ | ⏱: 0.35s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2089312 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta..._type=all&q=таргет&search_type=keyword_unordered  | ✗ | ⏱: 36.06s 
+[23:37:13] 91/136 «таргет»: карточек 29, рекламодателей 21, код 403, 36.5 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...q=sun'iy intellekt&search_type=keyword_unordered  | ✓ | ⏱: 35.58s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...q=sun'iy intellekt&search_type=keyword_unordered  | ✓ | ⏱: 0.28s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1953019 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...q=sun'iy intellekt&search_type=keyword_unordered  | ✗ | ⏱: 35.91s 
+[23:38:03] 92/136 «sun'iy intellekt»: карточек 24, рекламодателей 15, код 403, 36.3 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...type=all&q=AI kurs&search_type=keyword_unordered  | ✓ | ⏱: 35.57s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...type=all&q=AI kurs&search_type=keyword_unordered  | ✓ | ⏱: 0.29s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2002290 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...type=all&q=AI kurs&search_type=keyword_unordered  | ✗ | ⏱: 35.90s 
+[23:39:03] 93/136 «AI kurs»: карточек 25, рекламодателей 11, код 403, 36.3 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...type=all&q=ChatGPT&search_type=keyword_unordered  | ✓ | ⏱: 35.60s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...type=all&q=ChatGPT&search_type=keyword_unordered  | ✓ | ⏱: 0.32s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2043773 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...type=all&q=ChatGPT&search_type=keyword_unordered  | ✗ | ⏱: 35.97s 
+[23:40:01] 94/136 «ChatGPT»: карточек 30, рекламодателей 20, код 403, 36.4 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta..._type=all&q=Claude&search_type=keyword_unordered  | ✓ | ⏱: 35.68s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta..._type=all&q=Claude&search_type=keyword_unordered  | ✓ | ⏱: 0.30s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1937257 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta..._type=all&q=Claude&search_type=keyword_unordered  | ✗ | ⏱: 36.02s 
+[23:40:54] 95/136 «Claude»: карточек 30, рекламодателей 20, код 403, 36.4 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...ype=all&q=neyroset&search_type=keyword_unordered  | ✓ | ⏱: 35.45s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...ype=all&q=neyroset&search_type=keyword_unordered  | ✓ | ⏱: 0.19s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1320881 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...ype=all&q=neyroset&search_type=keyword_unordered  | ✗ | ⏱: 35.69s 
+[23:41:54] 96/136 «neyroset»: карточек 0, рекламодателей 0, код 403, 36.1 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...q=AI bilan daromad&search_type=keyword_unordered  | ✓ | ⏱: 35.64s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...q=AI bilan daromad&search_type=keyword_unordered  | ✓ | ⏱: 0.30s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1908334 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...q=AI bilan daromad&search_type=keyword_unordered  | ✗ | ⏱: 35.98s 
+[23:42:46] 97/136 «AI bilan daromad»: карточек 22, рекламодателей 8, код 403, 36.4 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...=all&q=vibe coding&search_type=keyword_unordered  | ✓ | ⏱: 35.63s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...=all&q=vibe coding&search_type=keyword_unordered  | ✓ | ⏱: 0.32s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1934646 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...=all&q=vibe coding&search_type=keyword_unordered  | ✗ | ⏱: 36.00s 
+[23:43:40] 98/136 «vibe coding»: карточек 29, рекламодателей 11, код 403, 36.4 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta..._type=all&q=prompt&search_type=keyword_unordered  | ✓ | ⏱: 35.69s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta..._type=all&q=prompt&search_type=keyword_unordered  | ✓ | ⏱: 0.32s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2208218 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta..._type=all&q=prompt&search_type=keyword_unordered  | ✗ | ⏱: 36.06s 
+[23:44:34] 99/136 «prompt»: карточек 29, рекламодателей 14, код 403, 36.5 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...q=сунъий интеллект&search_type=keyword_unordered  | ✓ | ⏱: 35.55s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...q=сунъий интеллект&search_type=keyword_unordered  | ✓ | ⏱: 0.15s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1369798 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...q=сунъий интеллект&search_type=keyword_unordered  | ✗ | ⏱: 35.75s 
+[23:45:30] 100/136 «сунъий интеллект»: карточек 3, рекламодателей 1, код 403, 36.1 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...type=all&q=frilans&search_type=keyword_unordered  | ✓ | ⏱: 28.06s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...type=all&q=frilans&search_type=keyword_unordered  | ✓ | ⏱: 0.21s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1416384 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...type=all&q=frilans&search_type=keyword_unordered  | ✗ | ⏱: 28.32s 
+[23:46:17] 101/136 «frilans»: карточек 2, рекламодателей 2, код 403, 28.7 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...pe=all&q=frilanser&search_type=keyword_unordered  | ✓ | ⏱: 28.06s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...pe=all&q=frilanser&search_type=keyword_unordered  | ✓ | ⏱: 0.16s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1341104 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...pe=all&q=frilanser&search_type=keyword_unordered  | ✗ | ⏱: 28.27s 
+[23:47:08] 102/136 «frilanser»: карточек 1, рекламодателей 1, код 403, 28.7 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta..._type=all&q=Upwork&search_type=keyword_unordered  | ✓ | ⏱: 28.16s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta..._type=all&q=Upwork&search_type=keyword_unordered  | ✓ | ⏱: 0.33s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2021536 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta..._type=all&q=Upwork&search_type=keyword_unordered  | ✗ | ⏱: 28.53s 
+[23:48:01] 103/136 «Upwork»: карточек 26, рекламодателей 8, код 403, 28.9 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta..._type=all&q=Fiverr&search_type=keyword_unordered  | ✓ | ⏱: 28.09s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta..._type=all&q=Fiverr&search_type=keyword_unordered  | ✓ | ⏱: 0.20s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1530573 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta..._type=all&q=Fiverr&search_type=keyword_unordered  | ✗ | ⏱: 28.33s 
+[23:48:46] 104/136 «Fiverr»: карточек 7, рекламодателей 4, код 403, 28.7 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...e=all&q=dasturlash&search_type=keyword_unordered  | ✓ | ⏱: 28.03s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...e=all&q=dasturlash&search_type=keyword_unordered  | ✓ | ⏱: 0.31s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2073087 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...e=all&q=dasturlash&search_type=keyword_unordered  | ✗ | ⏱: 28.39s 
+[23:49:35] 105/136 «dasturlash»: карточек 28, рекламодателей 7, код 403, 28.8 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...type=all&q=IT kurs&search_type=keyword_unordered  | ✓ | ⏱: 28.20s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...type=all&q=IT kurs&search_type=keyword_unordered  | ✓ | ⏱: 0.37s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2212187 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...type=all&q=IT kurs&search_type=keyword_unordered  | ✗ | ⏱: 28.62s 
+[23:50:22] 106/136 «IT kurs»: карточек 30, рекламодателей 22, код 403, 29.0 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...pe=all&q=dasturchi&search_type=keyword_unordered  | ✓ | ⏱: 27.96s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...pe=all&q=dasturchi&search_type=keyword_unordered  | ✓ | ⏱: 0.25s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1807533 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...pe=all&q=dasturchi&search_type=keyword_unordered  | ✗ | ⏱: 28.26s 
+[23:51:08] 107/136 «dasturchi»: карточек 19, рекламодателей 9, код 403, 28.7 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...e=all&q=web dizayn&search_type=keyword_unordered  | ✓ | ⏱: 28.15s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...e=all&q=web dizayn&search_type=keyword_unordered  | ✓ | ⏱: 0.17s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1421709 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...e=all&q=web dizayn&search_type=keyword_unordered  | ✗ | ⏱: 28.36s 
+[23:51:49] 108/136 «web dizayn»: карточек 4, рекламодателей 4, код 403, 28.8 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...ll&q=grafik dizayn&search_type=keyword_unordered  | ✓ | ⏱: 28.10s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...ll&q=grafik dizayn&search_type=keyword_unordered  | ✓ | ⏱: 0.24s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1840270 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...ll&q=grafik dizayn&search_type=keyword_unordered  | ✗ | ⏱: 28.39s 
+[23:52:39] 109/136 «grafik dizayn»: карточек 18, рекламодателей 9, код 403, 28.8 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...a_type=all&q=Figma&search_type=keyword_unordered  | ✓ | ⏱: 28.07s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...a_type=all&q=Figma&search_type=keyword_unordered  | ✓ | ⏱: 0.32s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2019960 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...a_type=all&q=Figma&search_type=keyword_unordered  | ✗ | ⏱: 28.43s 
+[23:53:22] 110/136 «Figma»: карточек 29, рекламодателей 14, код 403, 28.8 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...a_type=all&q=Canva&search_type=keyword_unordered  | ✓ | ⏱: 28.02s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...a_type=all&q=Canva&search_type=keyword_unordered  | ✓ | ⏱: 0.34s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2131973 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...a_type=all&q=Canva&search_type=keyword_unordered  | ✗ | ⏱: 28.41s 
+[23:54:10] 111/136 «Canva»: карточек 29, рекламодателей 13, код 403, 28.8 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...a_type=all&q=UX UI&search_type=keyword_unordered  | ✓ | ⏱: 28.10s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...a_type=all&q=UX UI&search_type=keyword_unordered  | ✓ | ⏱: 0.37s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2001614 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...a_type=all&q=UX UI&search_type=keyword_unordered  | ✗ | ⏱: 28.52s 
+[23:55:02] 112/136 «UX UI»: карточек 30, рекламодателей 14, код 403, 28.9 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...type=all&q=3D kurs&search_type=keyword_unordered  | ✓ | ⏱: 28.09s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...type=all&q=3D kurs&search_type=keyword_unordered  | ✓ | ⏱: 0.31s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2043183 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...type=all&q=3D kurs&search_type=keyword_unordered  | ✗ | ⏱: 28.45s 
+[23:55:56] 113/136 «3D kurs»: карточек 26, рекламодателей 17, код 403, 28.9 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta..._type=all&q=logist&search_type=keyword_unordered  | ✓ | ⏱: 28.04s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta..._type=all&q=logist&search_type=keyword_unordered  | ✓ | ⏱: 0.29s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2023506 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta..._type=all&q=logist&search_type=keyword_unordered  | ✗ | ⏱: 28.38s 
+[23:56:42] 114/136 «logist»: карточек 26, рекламодателей 7, код 403, 28.8 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...e=all&q=dispetcher&search_type=keyword_unordered  | ✓ | ⏱: 28.10s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...e=all&q=dispetcher&search_type=keyword_unordered  | ✓ | ⏱: 0.16s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1395642 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...e=all&q=dispetcher&search_type=keyword_unordered  | ✗ | ⏱: 28.31s 
+[23:57:35] 115/136 «dispetcher»: карточек 3, рекламодателей 2, код 403, 28.7 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...ll&q=manikyur kurs&search_type=keyword_unordered  | ✓ | ⏱: 28.08s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...ll&q=manikyur kurs&search_type=keyword_unordered  | ✓ | ⏱: 0.16s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1375260 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...ll&q=manikyur kurs&search_type=keyword_unordered  | ✗ | ⏱: 28.29s 
+[23:58:26] 116/136 «manikyur kurs»: карточек 2, рекламодателей 2, код 403, 28.7 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...&q=kosmetolog kurs&search_type=keyword_unordered  | ✓ | ⏱: 27.98s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...&q=kosmetolog kurs&search_type=keyword_unordered  | ✓ | ⏱: 0.18s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1443481 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...&q=kosmetolog kurs&search_type=keyword_unordered  | ✗ | ⏱: 28.20s 
+[23:59:08] 117/136 «kosmetolog kurs»: карточек 5, рекламодателей 4, код 403, 28.6 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...ll&q=konditer kurs&search_type=keyword_unordered  | ✓ | ⏱: 28.01s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...ll&q=konditer kurs&search_type=keyword_unordered  | ✓ | ⏱: 0.14s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1320913 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...ll&q=konditer kurs&search_type=keyword_unordered  | ✗ | ⏱: 28.19s 
+[23:59:58] 118/136 «konditer kurs»: карточек 0, рекламодателей 0, код 403, 28.6 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...q=tikuvchilik kurs&search_type=keyword_unordered  | ✓ | ⏱: 28.08s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...q=tikuvchilik kurs&search_type=keyword_unordered  | ✓ | ⏱: 0.20s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1528805 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...q=tikuvchilik kurs&search_type=keyword_unordered  | ✗ | ⏱: 28.32s 
+[00:00:40] 119/136 «tikuvchilik kurs»: карточек 10, рекламодателей 4, код 403, 28.7 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...l&q=sartarosh kurs&search_type=keyword_unordered  | ✓ | ⏱: 28.00s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...l&q=sartarosh kurs&search_type=keyword_unordered  | ✓ | ⏱: 0.14s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1309833 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...l&q=sartarosh kurs&search_type=keyword_unordered  | ✗ | ⏱: 28.19s 
+[00:01:26] 120/136 «sartarosh kurs»: карточек 0, рекламодателей 0, код 403, 28.6 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...ll&q=vizajist kurs&search_type=keyword_unordered  | ✓ | ⏱: 28.03s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...ll&q=vizajist kurs&search_type=keyword_unordered  | ✓ | ⏱: 0.20s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1328871 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...ll&q=vizajist kurs&search_type=keyword_unordered  | ✗ | ⏱: 28.27s 
+[00:02:16] 121/136 «vizajist kurs»: карточек 1, рекламодателей 1, код 403, 28.7 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...=all&q=kiprik kurs&search_type=keyword_unordered  | ✓ | ⏱: 28.02s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...=all&q=kiprik kurs&search_type=keyword_unordered  | ✓ | ⏱: 0.17s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1394019 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...=all&q=kiprik kurs&search_type=keyword_unordered  | ✗ | ⏱: 28.23s 
+[00:03:09] 122/136 «kiprik kurs»: карточек 3, рекламодателей 3, код 403, 28.6 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...=all&q=oshpaz kurs&search_type=keyword_unordered  | ✓ | ⏱: 28.06s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...=all&q=oshpaz kurs&search_type=keyword_unordered  | ✓ | ⏱: 0.14s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1321574 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...=all&q=oshpaz kurs&search_type=keyword_unordered  | ✗ | ⏱: 28.24s 
+[00:03:53] 123/136 «oshpaz kurs»: карточек 0, рекламодателей 0, код 403, 28.6 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...=all&q=biznes kurs&search_type=keyword_unordered  | ✓ | ⏱: 28.10s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...=all&q=biznes kurs&search_type=keyword_unordered  | ✓ | ⏱: 0.28s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1934721 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...=all&q=biznes kurs&search_type=keyword_unordered  | ✗ | ⏱: 28.43s 
+[00:04:34] 124/136 «biznes kurs»: карточек 23, рекламодателей 10, код 403, 28.8 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...pe=all&q=tadbirkor&search_type=keyword_unordered  | ✓ | ⏱: 28.06s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...pe=all&q=tadbirkor&search_type=keyword_unordered  | ✓ | ⏱: 0.30s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1828732 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...pe=all&q=tadbirkor&search_type=keyword_unordered  | ✗ | ⏱: 28.40s 
+[00:05:23] 125/136 «tadbirkor»: карточек 27, рекламодателей 22, код 403, 28.8 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...ll&q=biznes mentor&search_type=keyword_unordered  | ✓ | ⏱: 28.01s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...ll&q=biznes mentor&search_type=keyword_unordered  | ✓ | ⏱: 0.16s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1390996 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...ll&q=biznes mentor&search_type=keyword_unordered  | ✗ | ⏱: 28.22s 
+[00:06:09] 126/136 «biznes mentor»: карточек 3, рекламодателей 2, код 403, 28.6 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...all&q=investitsiya&search_type=keyword_unordered  | ✓ | ⏱: 28.05s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...all&q=investitsiya&search_type=keyword_unordered  | ✓ | ⏱: 0.26s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1889928 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...all&q=investitsiya&search_type=keyword_unordered  | ✗ | ⏱: 28.35s 
+[00:06:51] 127/136 «investitsiya»: карточек 20, рекламодателей 14, код 403, 28.8 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...ype=all&q=treyding&search_type=keyword_unordered  | ✓ | ⏱: 28.11s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...ype=all&q=treyding&search_type=keyword_unordered  | ✓ | ⏱: 0.26s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1995450 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...ype=all&q=treyding&search_type=keyword_unordered  | ✗ | ⏱: 28.42s 
+[00:07:41] 128/136 «treyding»: карточек 20, рекламодателей 14, код 403, 28.8 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta..._type=all&q=kripto&search_type=keyword_unordered  | ✓ | ⏱: 28.09s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta..._type=all&q=kripto&search_type=keyword_unordered  | ✓ | ⏱: 0.24s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1727805 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta..._type=all&q=kripto&search_type=keyword_unordered  | ✗ | ⏱: 28.38s 
+[00:08:33] 129/136 «kripto»: карточек 20, рекламодателей 11, код 403, 28.8 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...a_type=all&q=forex&search_type=keyword_unordered  | ✓ | ⏱: 28.05s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...a_type=all&q=forex&search_type=keyword_unordered  | ✓ | ⏱: 0.33s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1931003 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...a_type=all&q=forex&search_type=keyword_unordered  | ✗ | ⏱: 28.43s 
+[00:09:16] 130/136 «forex»: карточек 24, рекламодателей 7, код 403, 28.8 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...iyaviy savodxonlik&search_type=keyword_unordered  | ✓ | ⏱: 28.01s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...iyaviy savodxonlik&search_type=keyword_unordered  | ✓ | ⏱: 0.22s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1642314 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...iyaviy savodxonlik&search_type=keyword_unordered  | ✗ | ⏱: 28.27s 
+[00:10:03] 131/136 «moliyaviy savodxonlik»: карточек 12, рекламодателей 3, код 403, 28.7 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...l&q=passiv daromad&search_type=keyword_unordered  | ✓ | ⏱: 28.03s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...l&q=passiv daromad&search_type=keyword_unordered  | ✓ | ⏱: 0.17s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1466038 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...l&q=passiv daromad&search_type=keyword_unordered  | ✗ | ⏱: 28.25s 
+[00:10:54] 132/136 «passiv daromad»: карточек 4, рекламодателей 3, код 403, 28.6 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...=all&q=ingliz tili&search_type=keyword_unordered  | ✓ | ⏱: 27.96s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...=all&q=ingliz tili&search_type=keyword_unordered  | ✓ | ⏱: 0.31s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2047881 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...=all&q=ingliz tili&search_type=keyword_unordered  | ✗ | ⏱: 28.32s 
+[00:11:40] 133/136 «ingliz tili»: карточек 29, рекламодателей 12, код 403, 28.7 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...a_type=all&q=IELTS&search_type=keyword_unordered  | ✓ | ⏱: 28.15s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...a_type=all&q=IELTS&search_type=keyword_unordered  | ✓ | ⏱: 0.32s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2095678 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...a_type=all&q=IELTS&search_type=keyword_unordered  | ✗ | ⏱: 28.51s 
+[00:12:33] 134/136 «IELTS»: карточек 27, рекламодателей 12, код 403, 28.9 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...q=psixologiya kurs&search_type=keyword_unordered  | ✓ | ⏱: 28.04s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...q=psixologiya kurs&search_type=keyword_unordered  | ✓ | ⏱: 0.42s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (2218741 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...q=psixologiya kurs&search_type=keyword_unordered  | ✗ | ⏱: 28.51s 
+[00:13:14] 135/136 «psixologiya kurs»: карточек 30, рекламодателей 3, код 403, 28.9 c
+[INIT].... → Crawl4AI 0.9.3 
+[FETCH]... ↓ https://www.facebook.com/ads/library/?active_sta...ayollar uchun kurs&search_type=keyword_unordered  | ✓ | ⏱: 28.07s 
+[SCRAPE].. ◆ https://www.facebook.com/ads/library/?active_sta...ayollar uchun kurs&search_type=keyword_unordered  | ✓ | ⏱: 0.28s 
+[ERROR]... × https://www.facebook.co..._type=keyword_unordered  | Error: Blocked by anti-bot protection: HTTP 403 with HTML content (1907766 bytes) 
+[COMPLETE] ● https://www.facebook.com/ads/library/?active_sta...ayollar uchun kurs&search_type=keyword_unordered  | ✗ | ⏱: 28.39s 
+[00:14:04] 136/136 «ayollar uchun kurs»: карточек 22, рекламодателей 11, код 403, 28.8 c
+[00:14:04] готово: скачано 114 из 136

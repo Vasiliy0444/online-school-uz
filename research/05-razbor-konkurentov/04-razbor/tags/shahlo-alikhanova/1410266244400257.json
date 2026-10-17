@@ -1,0 +1,92 @@
+{
+ "creative_id": "1410266244400257",
+ "platform": "meta",
+ "school_id": "shahlo-alikhanova",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "анимация"
+ ],
+ "hook": {
+  "verbatim": "Men bir oyda 8 million ishladim. Lekin men haqiqiy odam emasman.",
+  "types": [
+   "результат или доход",
+   "цифра",
+   "тренд ИИ"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: «LEKIN MAN» → «LEKIN MAN HAQIQIY ODAM» → «LEKIN MAN HAQIQIY ODAM emasman» — крупный цветной текст; девушка в тёмных очках и худи на фоне голубого неба, статичный кадр",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Man bir ayda 8 milyon ishladim. Leki man haqiqi adam masman.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "удалёнка и свобода",
+   "без опыта"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:09] En qizigi mani tayyarilagan adam ozini yuzini Instagramda korsatmidi.",
+    "timecode": "00:09"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:15] Agar sizam yuzizi korsatmastan avatar bilan daromad tapishni organ maqchi bolsis, [00:19] pastagi tügmani basib, Shvetiyadan suni intelekt ekspert va xalkaro spikerlarini bepul vidyo darsligini korin.",
+    "timecode": "00:15"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (~0:16): та же девушка в стилизованном образе с национальным головным убором/короной — демонстрация, что AI-аватар может выглядеть по-разному",
+    "timecode": "00:16"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный урок"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "[BEPUL VIDEODARS] - Qanday Qilib Sun'iy Intellekt Orqali Daromad Qilish Mumkin?"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:19] pastagi tügmani basib, Shvetiyadan suni intelekt ekspert va xalkaro spikerlarini bepul vidyo darsligini korin.",
+    "timecode": "00:19"
+   }
+  ]
+ },
+ "cta": {
+  "button": "See details",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Ключевая особенность: героиня прямо заявляет о себе «men haqiqiy odam emasman» (я не настоящий человек) — это демонстрационный AI-аватар, а не сама Shahlo Alikhanova и не блогер/ученица, поэтому speaker.role не «основатель или эксперт»; ближайшее по смыслу значение схемы — «актёр или ведущий» (аватар выполняет функцию ведущего кейса), но это условность — в notes фиксирую, что формально это синтетический персонаж, не человек. sheet_overview кадр 4 из 4 (~0:23) показывает мужчину на сцене конференции с экраном, где транслируется видеозвонок — вероятно демонстрация инструмента/выступления, связь с основным сюжетом не ясна из кадра, не интерпретирую. Расшифровка после хука (написание исправлено): «Qanaqa qilib deb qiziqasizmi? Meni brend uchun tayyorlangan reklama videolarida ishlatishadi. Eng qizig'i, meni tayyorlagan odam o'zining yuzini Instagram'da ko'rsatmaydi» (интересный сюжетный поворот: создатель аватара сам лица не показывает). Это единственный креатив порции, где заявленный доход (8 million/oy) относится не к «ученику», а к самому демонстрационному AI-аватару как кейсу; сумма приводится без указания периода подтверждения, дословно по расшифровке, не проверяема."
+}

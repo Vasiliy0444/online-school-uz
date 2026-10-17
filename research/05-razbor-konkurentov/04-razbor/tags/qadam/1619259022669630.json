@@ -1,0 +1,125 @@
+{
+ "creative_id": "1619259022669630",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "hamma ish qidiryapti lekin hech kim o'ziga ish yaratishni o'ylamaydi",
+  "types": [
+   "боль",
+   "запрет или ошибка"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.5s: субтитр-плашка «hamma ish qidiryapti»; ведущая в полный рост, камера наезжает",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.5s: «lekin hech kim»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.5s: «o'ziga ish yaratishni»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 1 из 4 (≈00:03): «o'ylamaydi»",
+    "timecode": "00:03"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Hamma ish qidir yapdi, lekin, hechkim uzgi ish yaratishi oylamidi.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:03] Rezime yazvasiz, interyuge borvasiz, jawab kutvasiz vayani,",
+    "timecode": "00:03"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "свой бизнес",
+   "доход",
+   "без опыта"
+  ],
+  "income_claim": "odamlar ikki-uch soat ishlab, kuniga Uzumda 5, 10, 20 millionlab pul topishyapti / oyiga stabil $2000 daromad topishni o'rganib olasiz",
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Hamma ish qidir yapdi, lekin, hechkim uzgi ish yaratishi oylamidi.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈00:10): «shu orada odamlar»",
+    "timecode": "00:10"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:08] Shuu oradi, adamla iki-uch saat ishlab, kunige uzumda 5, 10, 20 milio le pul topishvatdi.",
+    "timecode": "00:08"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "oyiga stabil $2000 daromad topishni o'rganib olasiz"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Uzum Market’da 0 dan savdo boshlash bo‘yicha bepul PDF qo‘llanma"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "лид-магнит (PDF, гайд)"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Uzum Market’da 0 dan savdo boshlash bo‘yicha bepul PDF qo‘llanma"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈00:23): «bepul»",
+    "timecode": "00:23"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:21] Biz o shi bilimi, bi pul kolomi yigib koydiy,",
+    "timecode": "00:21"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "лид-магнит"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "высокая",
+ "notes": "Хук — субтитры-плашки на кадрах 0.5–2.5 с и «o'ylamaydi» на ~3 с; речь совпадает. Перевод: «все ищут работу, но никто не думает создать работу себе». Дальше в речи: резюме, собеседования, ожидание ответа; «а в это время люди, работая 2–3 часа, зарабатывают на Uzum 5, 10, 20 млн в день»; «они не умнее и не удачливее вас — просто знают систему»; «мы собрали эти знания в бесплатное руководство». income_claim: первая часть — речь по расшифровке, написание исправлено («adamla iki-uch saat ishlab, kunige uzumda 5, 10, 20 milio le pul topishvatdi» → «odamlar ikki-uch soat ishlab, kuniga Uzumda 5, 10, 20 millionlab pul topishyapti»; «millionlab» — вероятное чтение «milio le»), вторая — дословно из текста объявления. «bi pul kolomi» = «bepul qo'llanma». Призыв: «Telegramga o'ting, va hammasi o'sha yerda» (написание исправлено). risk: 5–20 млн в день при 2–3 часах работы и «стабильные $2000 в месяц»."
+}

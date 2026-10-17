@@ -1,0 +1,93 @@
+{
+ "creative_id": "920006017429811",
+ "platform": "meta",
+ "school_id": "bir-group",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "нарезка эфира или подкаста"
+ ],
+ "hook": {
+  "verbatim": "Biz Bir Group kompaniyasi Bir Ta'lim loyihasini ishlab chiqqanmiz.",
+  "types": [
+   "авторитет спикера"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "логотип бренда",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.0s: субтитры «BIZ BIR GROUP» → «KOMPANIYASI» на спикере в пиджаке (логотип «BIR TA'LIM» на ТВ за спиной); 1.5s–2.5s: монтажная склейка на кадры мероприятия (выступление у трибуны с экраном, групповая сцена на сцене с логотипами «BIR»+«USTOZ MEDIA»+«YUKSALISH MAKTABI») с субтитрами «BIR TA'LIM LOYIHASINI» → «ISHLAB CHIQQANMIZ,»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Biz bir gurub kampanyasi, bir talim loyxasini ishlab chitqanimiz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта"
+  ],
+  "income_claim": "500 dollardan 1000 dollargacha daromadga chiqish mumkin (shartli — «mumkin», kafolat emas; davri — oylikmi yoki yo'qmi — aniq aytilmagan)",
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:09] Bu zamanavi kastlar orqali, ayige 500 dollarda, 1000 dollarga za daramatka chikishimiz mugun.",
+    "timecode": "00:09"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:06] biy pulga, zamanavi kastlarini yoshlarimizgi urga tukili yapmiz.",
+    "timecode": "00:06"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Zamonaviy kasbni 0 dan o'rganing — BEPUL!"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:14] Bu safargi talim grantimiz, yani 500 dolari tashkil qiladi.",
+    "timecode": "00:14"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:20] 25. sentyeye birgunu buladigin online tatimatimizgi ishtiro gitsiniz shar.",
+    "timecode": "00:20"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "основатель или эксперт"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук необычно хорошо подтверждён и кадром, и расшифровкой одновременно (совпадают почти дословно) — редкий случай в этой подборке, где обычно надёжен только один источник. В первые же 2.5с — монтажная склейка со студийной говорящей головы на кадры реального мероприятия (трибуна с презентационным экраном, групповая сцена с логотипами «BIR»+«USTOZ MEDIA»+«YUKSALISH MAKTABI», подпись «2-BOSQICH NATIJALARI» — «результаты 2 этапа»), что и даёт тег «нарезка эфира или подкаста» в дополнение к говорящей голове. Спикер прямо заявляет «biz... ishlab chiqqanimiz» («мы разработали [проект]») — это единственный из трёх роликов с тем же спикером и кабинетом (см. также 1091595333325222 и 4299106007046611), где авторство сформулировано настолько прямо, поэтому role «основатель или эксперт» ставлю для всех троих; личное имя нигде не звучит и не подписано, public_name не указываю. Доход «500-1000$» дан со словом «mumkin» (можно, а не гарантия) — мягче формулировки «ishga joylaymiz» (трудоустроим) в 4299106007046611, поэтому risk=false. «500 dolari» при описании гранта, вероятно, ошибка распознавания вместо «500 tasi» (500 штук/мест) — трактую как 500 мест гранта, а не 500 долларов, по контексту и по остальным роликам порции (везде фигурирует «500 ta grant»). Ролик зовёт в Telegram-канал (подтверждено расшифровкой ~00:27–00:28: «Padronun tibmasini basib, bilgiram kanalga abunobolib»), но link_url ведёт на лендинг bir-group-webinar.vercel.app/a/."
+}

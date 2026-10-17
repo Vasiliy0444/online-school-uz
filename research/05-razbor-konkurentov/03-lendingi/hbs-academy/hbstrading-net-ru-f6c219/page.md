@@ -1,0 +1,350 @@
+[![logo](https://hbstrading.net/logo/holdings/hbs-group-main-logo.svg)](https://hbstrading.net/ru)
+  * [Курсы](https://hbstrading.net/ru/hbs-academy)
+  * [О нас](https://hbstrading.net/ru#about_us)
+  * [Филиалы](https://hbstrading.net/ru#contact_us)
+  * [Контакты](https://hbstrading.net/ru#contact_us)
+
+
+Ru
+![](https://hbstrading.net/images/background/frame.webp)
+# Возможности для роста. Открываются новые горизонты
+Сделайте шаг в мир, где амбиции сочетаются с инновациями. В HBS Group мы превращаем возможности в результат, а мечты — в реальность. Давайте вместе открыть будущее трейдинга.
+[Получить информацию](https://t.me/hbs_support)
+![HBS Holding Main Logo](https://hbstrading.net/logo/hbs-holding-main-logo.webp)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/1.png)
+Bitcoin$75,480.02-0.38(-290.4)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png)
+Ethereum$2,385.24-0.6(-14.39)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/825.png)
+Tether USDt$1.00-0.02(-0)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png)
+BNB$706.63-0.78(-5.54)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/52.png)
+XRP$1.28-0.85(-0.01)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png)
+USDC$1.00-0.01(-0)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png)
+Solana$96.51-0.6(-0.58)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png)
+TRON$0.33+0.08(0)
+![](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0013-zcash-zec-64x64.png)
+Zcash$1,173.38-1.08(-12.73)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/32196.png)
+Hyperliquid$77.35-0.21(-0.17)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/74.png)
+Dogecoin$0.08-0.82(-0)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/328.png)
+Monero$508.52+0.04(0.22)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/3957.png)
+UNUS SED LEO$8.88-0(-0)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png)
+Chainlink$10.71-0.73(-0.08)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png)
+Cardano$0.19-0.87(-0)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/512.png)
+Stellar$0.17-1.09(-0)
+![](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0027-ethena-usde-usde-64x64.png)
+Ethena USDe$1.00-0.02(-0)
+![](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0020-multi-collateral-dai-dai-64x64.png)
+Dai$1.00+0.01(0)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png)
+Bitcoin Cash$218.12-0.97(-2.12)
+![](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0024-usd1-wlfi-usd1-64x64.png)
+World Liberty Financial USD$1.00-0.01(-0)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/2.png)
+Litecoin$50.87-0.54(-0.28)
+![](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0034-uniswap-uni-64x64.png)
+Uniswap$6.24-0.78(-0.05)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png)
+Toncoin$1.31-0.35(-0)
+![](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0032-global-dollar-usdg-usdg-64x64.png)
+Global Dollar$1.00+0(0)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png)
+Hedera$0.07-0.64(-0)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/9462.png)
+Avalanche$7.20-1.23(-0.09)
+![](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0040-near-protocol-near-64x64.png)
+NEAR Protocol$2.32-1.37(-0.03)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png)
+SHIBA INU$0.00-1.07(-0)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/1.png)
+Bitcoin$75,480.02-0.38(-290.4)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png)
+Ethereum$2,385.24-0.6(-14.39)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/825.png)
+Tether USDt$1.00-0.02(-0)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png)
+BNB$706.63-0.78(-5.54)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/52.png)
+XRP$1.28-0.85(-0.01)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png)
+USDC$1.00-0.01(-0)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png)
+Solana$96.51-0.6(-0.58)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png)
+TRON$0.33+0.08(0)
+![](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0013-zcash-zec-64x64.png)
+Zcash$1,173.38-1.08(-12.73)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/32196.png)
+Hyperliquid$77.35-0.21(-0.17)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/74.png)
+Dogecoin$0.08-0.82(-0)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/328.png)
+Monero$508.52+0.04(0.22)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/3957.png)
+UNUS SED LEO$8.88-0(-0)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png)
+Chainlink$10.71-0.73(-0.08)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png)
+Cardano$0.19-0.87(-0)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/512.png)
+Stellar$0.17-1.09(-0)
+![](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0027-ethena-usde-usde-64x64.png)
+Ethena USDe$1.00-0.02(-0)
+![](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0020-multi-collateral-dai-dai-64x64.png)
+Dai$1.00+0.01(0)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png)
+Bitcoin Cash$218.12-0.97(-2.12)
+![](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0024-usd1-wlfi-usd1-64x64.png)
+World Liberty Financial USD$1.00-0.01(-0)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/2.png)
+Litecoin$50.87-0.54(-0.28)
+![](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0034-uniswap-uni-64x64.png)
+Uniswap$6.24-0.78(-0.05)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png)
+Toncoin$1.31-0.35(-0)
+![](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0032-global-dollar-usdg-usdg-64x64.png)
+Global Dollar$1.00+0(0)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png)
+Hedera$0.07-0.64(-0)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/9462.png)
+Avalanche$7.20-1.23(-0.09)
+![](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0040-near-protocol-near-64x64.png)
+NEAR Protocol$2.32-1.37(-0.03)
+![](https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png)
+SHIBA INU$0.00-1.07(-0)
+![Saraf Logo](https://hbstrading.net/logo/saraf-white-logo.svg)
+![](https://hbstrading.net/images/saraf-phones.webp)
+![](https://hbstrading.net/images/background/3.webp)
+![hbs-academy-main-logo](https://hbstrading.net/logo/hbs-academy-main-logo.svg)
+## О нас 
+![Icon](https://hbstrading.net/images/statistics/users.svg)
+### 3000 +
+Студенты
+![Icon](https://hbstrading.net/images/statistics/slider.svg)
+### 10 +
+Проекты
+![Icon](https://hbstrading.net/images/statistics/users.svg)
+### 40 +
+Члены команды
+![About Us](https://hbstrading.net/logo/holdings/hbs-group-main-logo.svg)
+![Team Image](https://hbstrading.net/team/1.webp)
+![Team Image](https://hbstrading.net/team/2.webp)
+![Team Image](https://hbstrading.net/team/3.webp)
+## Академия HBS 
+![Academy Info](https://hbstrading.net/images/background/1.webp)
+![HBS Group](https://hbstrading.net/logo/holdings/hbs-academy-logo.svg)
+Выберите один из курсов, чтобы начать свой путь
+Начните путь к финансовой грамотности, выбрав курс по криптовалютной или фондовой торговле. Оба курса дают знания и навыки, необходимые для финансового успеха.
+[Получить информацию  ](https://hbstrading.net/ru/hbs-academy)
+### В Академии HBS вы изучите:
+Спотовую торговлю криптовалютами — обучение реальной торговле в режиме реального времени
+Торговлю на фондовом рынке — работа с акциями и индексами
+Фундаментальный анализ — глубокое изучение компаний и проектов
+Технический анализ — понимание рынка через графики и индикаторы
+Управление рисками и стратегии — снижение рисков и получение стабильной прибыли
+Обучение у профессионалов
+В нашей академии преподают трейдеры с опытом более 5 лет. Их знания — ваш главный актив на пути к успеху.
+![Candle](https://hbstrading.net/hbs-pro.webp)
+![Candle](https://hbstrading.net/images/candle.webp)
+![Academy Info](https://hbstrading.net/images/background/1.webp)
+![HBS Group](https://hbstrading.net/logo/holdings/hbs-academy-logo.svg)
+Выберите один из курсов, чтобы начать свой путь
+Начните путь к финансовой грамотности, выбрав курс по криптовалютной или фондовой торговле. Оба курса дают знания и навыки, необходимые для финансового успеха.
+[Получить информацию  ](https://hbstrading.net/ru/hbs-academy)
+### В Академии HBS вы изучите:
+Спотовую торговлю криптовалютами — обучение реальной торговле в режиме реального времени
+Торговлю на фондовом рынке — работа с акциями и индексами
+Фундаментальный анализ — глубокое изучение компаний и проектов
+Технический анализ — понимание рынка через графики и индикаторы
+Управление рисками и стратегии — снижение рисков и получение стабильной прибыли
+Обучение у профессионалов
+В нашей академии преподают трейдеры с опытом более 5 лет. Их знания — ваш главный актив на пути к успеху.
+![Candle](https://hbstrading.net/hbs-pro.webp)
+![Candle](https://hbstrading.net/images/candle.webp)
+## Saraf Screening 
+![HBS Group](https://hbstrading.net/logo/holdings/saraf-logo-dark.svg)
+«Первое инновационное исламское финансовое приложение для отбора криптопроектов, соответствующих шариату»
+Saraf — компания, базирующаяся в Дубае, занимающаяся торговлей, обучением и инвестициями в криптовалюты и акции в соответствии с принципами шариата.
+![Candle](https://hbstrading.net/images/crypto-coins.webp)
+![Candle](https://hbstrading.net/images/crypto-coins.webp)
+![Phones](https://hbstrading.net/images/phones/1.webp)![Phones](https://hbstrading.net/images/phones/2.webp)![Phones](https://hbstrading.net/images/phones/3.webp)
+[Получить доступ  ](https://hbstrading.net/ru/saraf)
+## Saraf Robot 
+![HBS Group](https://hbstrading.net/logo/holdings/saraf-logo-dark.svg)
+Будущее торговли — в автоматизации
+Доверьте управление инвестициями Saraf Robot — автоматизированное, безопасное и эффективное решение для вашего спокойствия.
+![Candle](https://hbstrading.net/images/robot-dashboard.webp)
+![HBS Group](https://hbstrading.net/logo/holdings/saraf-logo-dark.svg)
+Бот для спотовой торговли
+Создавайте ботов для спотовых рынков без сложностей. Используйте рыночные движения по максимуму. Умные боты защитят вас от убытков.
+![Candle](https://hbstrading.net/images/exchanges.webp)
+[Получить информацию  ](https://hbstrading.net/ru/saraf-robot)
+## Управление активами HBS 
+![Frame](https://hbstrading.net/images/background/frame2.webp)![Frame](https://hbstrading.net/images/background/frame2.webp)![HBS Group](https://hbstrading.net/logo/holdings/hbs-asset-logo.svg)
+Управление активами HBS
+Добро пожаловать в мир, где амбиции встречаются с инновациями. В HBS Group мы превращаем возможности в прибыль, а идеи — в реальность. Вместе мы формируем будущее торговли.
+![Candle](https://hbstrading.net/images/portfolio.webp)
+Некоторые из наших успешных инвестиций
+![Bitcoin](https://s2.coinmarketcap.com/static/img/coins/64x64/1.png)
+![Ethereum](https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png)
+![Tether USDt](https://s2.coinmarketcap.com/static/img/coins/64x64/825.png)
+![BNB](https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png)
+![XRP](https://s2.coinmarketcap.com/static/img/coins/64x64/52.png)
+![USDC](https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png)
+![Solana](https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png)
+![TRON](https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png)
+![Zcash](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0013-zcash-zec-64x64.png)
+![Hyperliquid](https://s2.coinmarketcap.com/static/img/coins/64x64/32196.png)
+![Dogecoin](https://s2.coinmarketcap.com/static/img/coins/64x64/74.png)
+![Monero](https://s2.coinmarketcap.com/static/img/coins/64x64/328.png)
+![UNUS SED LEO](https://s2.coinmarketcap.com/static/img/coins/64x64/3957.png)
+![Chainlink](https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png)
+![Cardano](https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png)
+![Stellar](https://s2.coinmarketcap.com/static/img/coins/64x64/512.png)
+![Ethena USDe](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0027-ethena-usde-usde-64x64.png)
+![Dai](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0020-multi-collateral-dai-dai-64x64.png)
+![Bitcoin Cash](https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png)
+![World Liberty Financial USD](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0024-usd1-wlfi-usd1-64x64.png)
+![Litecoin](https://s2.coinmarketcap.com/static/img/coins/64x64/2.png)
+![Uniswap](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0034-uniswap-uni-64x64.png)
+![Toncoin](https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png)
+![Global Dollar](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0032-global-dollar-usdg-usdg-64x64.png)
+![Hedera](https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png)
+![Avalanche](https://s2.coinmarketcap.com/static/img/coins/64x64/9462.png)
+![NEAR Protocol](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0040-near-protocol-near-64x64.png)
+![SHIBA INU](https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png)
+![Bitcoin](https://s2.coinmarketcap.com/static/img/coins/64x64/1.png)
+![Ethereum](https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png)
+![Tether USDt](https://s2.coinmarketcap.com/static/img/coins/64x64/825.png)
+![BNB](https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png)
+![XRP](https://s2.coinmarketcap.com/static/img/coins/64x64/52.png)
+![USDC](https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png)
+![Solana](https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png)
+![TRON](https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png)
+![Zcash](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0013-zcash-zec-64x64.png)
+![Hyperliquid](https://s2.coinmarketcap.com/static/img/coins/64x64/32196.png)
+![Dogecoin](https://s2.coinmarketcap.com/static/img/coins/64x64/74.png)
+![Monero](https://s2.coinmarketcap.com/static/img/coins/64x64/328.png)
+![UNUS SED LEO](https://s2.coinmarketcap.com/static/img/coins/64x64/3957.png)
+![Chainlink](https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png)
+![Cardano](https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png)
+![Stellar](https://s2.coinmarketcap.com/static/img/coins/64x64/512.png)
+![Ethena USDe](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0027-ethena-usde-usde-64x64.png)
+![Dai](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0020-multi-collateral-dai-dai-64x64.png)
+![Bitcoin Cash](https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png)
+![World Liberty Financial USD](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0024-usd1-wlfi-usd1-64x64.png)
+![Litecoin](https://s2.coinmarketcap.com/static/img/coins/64x64/2.png)
+![Uniswap](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0034-uniswap-uni-64x64.png)
+![Toncoin](https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png)
+![Global Dollar](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0032-global-dollar-usdg-usdg-64x64.png)
+![Hedera](https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png)
+![Avalanche](https://s2.coinmarketcap.com/static/img/coins/64x64/9462.png)
+![NEAR Protocol](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0040-near-protocol-near-64x64.png)
+![SHIBA INU](https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png)
+![Bitcoin](https://s2.coinmarketcap.com/static/img/coins/64x64/1.png)
+![Ethereum](https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png)
+![Tether USDt](https://s2.coinmarketcap.com/static/img/coins/64x64/825.png)
+![BNB](https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png)
+![XRP](https://s2.coinmarketcap.com/static/img/coins/64x64/52.png)
+![USDC](https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png)
+![Solana](https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png)
+![TRON](https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png)
+![Zcash](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0013-zcash-zec-64x64.png)
+![Hyperliquid](https://s2.coinmarketcap.com/static/img/coins/64x64/32196.png)
+![Dogecoin](https://s2.coinmarketcap.com/static/img/coins/64x64/74.png)
+![Monero](https://s2.coinmarketcap.com/static/img/coins/64x64/328.png)
+![UNUS SED LEO](https://s2.coinmarketcap.com/static/img/coins/64x64/3957.png)
+![Chainlink](https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png)
+![Cardano](https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png)
+![Stellar](https://s2.coinmarketcap.com/static/img/coins/64x64/512.png)
+![Ethena USDe](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0027-ethena-usde-usde-64x64.png)
+![Dai](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0020-multi-collateral-dai-dai-64x64.png)
+![Bitcoin Cash](https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png)
+![World Liberty Financial USD](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0024-usd1-wlfi-usd1-64x64.png)
+![Litecoin](https://s2.coinmarketcap.com/static/img/coins/64x64/2.png)
+![Uniswap](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0034-uniswap-uni-64x64.png)
+![Toncoin](https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png)
+![Global Dollar](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0032-global-dollar-usdg-usdg-64x64.png)
+![Hedera](https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png)
+![Avalanche](https://s2.coinmarketcap.com/static/img/coins/64x64/9462.png)
+![NEAR Protocol](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0040-near-protocol-near-64x64.png)
+![SHIBA INU](https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png)
+![Bitcoin](https://s2.coinmarketcap.com/static/img/coins/64x64/1.png)
+![Ethereum](https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png)
+![Tether USDt](https://s2.coinmarketcap.com/static/img/coins/64x64/825.png)
+![BNB](https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png)
+![XRP](https://s2.coinmarketcap.com/static/img/coins/64x64/52.png)
+![USDC](https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png)
+![Solana](https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png)
+![TRON](https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png)
+![Zcash](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0013-zcash-zec-64x64.png)
+![Hyperliquid](https://s2.coinmarketcap.com/static/img/coins/64x64/32196.png)
+![Dogecoin](https://s2.coinmarketcap.com/static/img/coins/64x64/74.png)
+![Monero](https://s2.coinmarketcap.com/static/img/coins/64x64/328.png)
+![UNUS SED LEO](https://s2.coinmarketcap.com/static/img/coins/64x64/3957.png)
+![Chainlink](https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png)
+![Cardano](https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png)
+![Stellar](https://s2.coinmarketcap.com/static/img/coins/64x64/512.png)
+![Ethena USDe](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0027-ethena-usde-usde-64x64.png)
+![Dai](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0020-multi-collateral-dai-dai-64x64.png)
+![Bitcoin Cash](https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png)
+![World Liberty Financial USD](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0024-usd1-wlfi-usd1-64x64.png)
+![Litecoin](https://s2.coinmarketcap.com/static/img/coins/64x64/2.png)
+![Uniswap](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0034-uniswap-uni-64x64.png)
+![Toncoin](https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png)
+![Global Dollar](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0032-global-dollar-usdg-usdg-64x64.png)
+![Hedera](https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png)
+![Avalanche](https://s2.coinmarketcap.com/static/img/coins/64x64/9462.png)
+![NEAR Protocol](https://media.sarafscreening.com/media/media/CoinmarketcapCoinsLogos8000_64x64/0040-near-protocol-near-64x64.png)
+![SHIBA INU](https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png)
+[Вход для инвесторов  ](https://hbstrading.net/ru/hbs-asset)
+## HBS Prop 
+![Frame](https://hbstrading.net/mining.webp)![Frame](https://hbstrading.net/images/background/frame2.webp)
+Зарабатывайте биткоин каждый день — мы управляем майнингом, вы получаете доход
+Получайте ежедневные выплаты BTC напрямую на ваш кошелёк — прозрачная панель управления, дешёвая электроэнергия и оптимизация доходности на основе AI.
+## Контакты
+Имя
+Номер телефона
+Имя пользователя TelegramКогда вам удобно принять звонок?Выберите время 10:00 - 12:00 12:00 - 15:00 15:00 - 18:00 18:00 - 21:00Какой курс вы выбираете?Выберите курс Finversity Express Trading Общая информацияОтправить сообщение
+## Наши филиалы
+![Branch](https://hbstrading.net/images/background/dubai.png)
+### Дубай
+Найдите нас здесь:
+[Вход в ту же башню отеля Park Regis, 32 этаж, офис 3203](https://maps.app.goo.gl/ZYX4oBDndjQGGGaE9)
+![Branch](https://hbstrading.net/images/background/tashkent.png)
+### Ташкент
+Найдите нас здесь:
+[г. Ташкент, Юнусабад, 12-й квартал, 20A](https://maps.app.goo.gl/zbyeeQNXDKwnFXXZ6)
+![left-phone](https://hbstrading.net/images/left_phone.webp)![right-phone](https://hbstrading.net/images/right_phone.webp)
+[![logo](https://hbstrading.net/logo/holdings/hbs-academy-logo.svg)](https://hbstrading.net/)
+С нами  
+Настоящее Богатство Секрет раскройте
+Откройте путь к честному доходу вместе с нами **через обучение торговле**
+[![logo](https://hbstrading.net/images/applications/appstore.webp)](https://apps.apple.com/ph/app/saraf-screening/id6466640075)[![logo](https://hbstrading.net/images/applications/google-play.webp)](https://play.google.com/store/apps/details?id=com.sarafscreening.sarafscreeningapp)[![logo](https://hbstrading.net/images/applications/app-gallery.webp)](https://hbstrading.net/ru)
+Номер телефона
+[+998-78-113-62 00](tel:+998781136200)
+E-mail
+info@hbstrading.net
+©HBS Group 2026. Все права защищены.
+ООО "ACADEMY HBS" 
+  * [](https://t.me/hbs_akademiya)
+  * [](https://www.instagram.com/hbsakademiyasi?igsh=MTFiYnVocHpuYzFpaA==)
+  * [](https://www.linkedin.com/company/hbstrading/posts/?feedView=all)
+  * [](https://www.facebook.com/hbsacademyuz)
+
+
+  * [Условия использования](https://hbstrading.net/ru/terms-of-service)
+  * [Политика конфиденциальности](https://hbstrading.net/ru/privacy-policy)
+
+

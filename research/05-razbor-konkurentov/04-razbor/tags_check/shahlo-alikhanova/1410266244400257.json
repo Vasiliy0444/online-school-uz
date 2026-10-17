@@ -1,0 +1,82 @@
+{
+  "creative_id": "1410266244400257",
+  "platform": "meta",
+  "school_id": "shahlo-alikhanova",
+  "format": {
+    "type": "видео",
+    "duration_bucket": "16–30 с",
+    "aspect": "9:16"
+  },
+  "style": ["говорящая голова", "съёмка на телефон"],
+  "hook": {
+    "verbatim": "Man bir oyda 8 million ishladim. Lekin man haqiqiy odam emasman.",
+    "types": ["результат или доход", "цифра", "тренд ИИ"],
+    "visual": ["лицо в первом кадре", "крупный текст"],
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_hook.jpg 0.0s–2.5s: LEKIN MAN HAQIQIY ODAM emasman (крупная надпись; девушка в тёмных очках, селфи на улице)",
+        "timecode": "00:00"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Man bir ayda 8 milyon ishladim. Leki man haqiqi adam masman.",
+        "timecode": "00:00"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["доход", "профессия будущего", "доверие и окупаемость"],
+    "income_claim": "bir oyda 8 million",
+    "evidence": [
+      {
+        "source": "расшифровка",
+        "quote": "Man bir ayda 8 milyon ishladim.",
+        "timecode": "00:00"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Agar sizam yuzizi korsatmastan avatar bilan daromad tapishni organ maqchi bolsis,",
+        "timecode": "00:15"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "pastagi tügmani basib, Shvetiyadan suni intelekt ekspert va xalkaro spikerlarini bepul vidyo darsligini korin.",
+        "timecode": "00:19"
+      },
+      {
+        "source": "кадр без текста",
+        "quote": "sheet_overview.jpg ~0:16: ИИ-аватар девушки в национальном головном уборе; ~0:23: спикер на сцене конференции",
+        "timecode": "00:16"
+      }
+    ]
+  },
+  "offer": {
+    "items": ["бесплатный урок"],
+    "evidence": [
+      {
+        "source": "расшифровка",
+        "quote": "pastagi tügmani basib, Shvetiyadan suni intelekt ekspert va xalkaro spikerlarini bepul vidyo darsligini korin.",
+        "timecode": "00:19"
+      },
+      {
+        "source": "текст объявления",
+        "quote": "[BEPUL VIDEODARS] - Qanday Qilib Sun'iy Intellekt Orqali Daromad Qilish Mumkin?"
+      }
+    ]
+  },
+  "cta": {
+    "button": "See details",
+    "in_creative": "перейти по ссылке",
+    "destination": "лендинг",
+    "funnel_stage": "вебинар или мастер-класс"
+  },
+  "speaker": {
+    "role": "блогер"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": true,
+  "risk": true,
+  "confidence": "средняя",
+  "notes": "ИИ-аватар в селфи-формате рассказывает о себе как блогер: заработала 8 млн за месяц (валюта не названа), снимаясь в рекламе одежды брендов, «но я не настоящий человек»; её создатель не показывает своё лицо в Instagram. Хук: первая фраза по расшифровке, написание исправлено (разговорное «man» оставлено), вторая подтверждена надписью на кадре. Надпись дублирует фразу речи → burned_subtitles true (неоднозначно, сплошных субтитров нет). «доверие и окупаемость» — «эксперт по ИИ и международный спикер из Швеции» (по расшифровке). Призыв: нажать кнопку и смотреть бесплатный видеоурок (00:19). risk: доход 8 млн в месяц на ИИ-аватаре «без показа лица». Перевод хука: «Я заработала 8 миллионов за месяц. Но я не настоящий человек»."
+}

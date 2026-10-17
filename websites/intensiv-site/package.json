@@ -1,0 +1,26 @@
+{
+  "name": "ai-na-zakaz-intensiv",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Лендинг бесплатного интенсива «ИИ на заказ» в дизайн-системе edgroup (mk_telegram), GitHub Pages",
+  "type": "module",
+  "scripts": {
+    "pages": "node scripts/build-pages.mjs",
+    "dev": "node scripts/build-pages.mjs && vite",
+    "build": "node scripts/build-pages.mjs && vite build && node scripts/postbuild.mjs",
+    "preview": "vite preview --port 4174 --strictPort",
+    "check:texts": "node scripts/check-texts.mjs",
+    "qa": "node scripts/qa.mjs",
+    "test": "node --test tests/attribution.test.mjs",
+    "og": "node scripts/make-og.mjs"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.0",
+    "puppeteer-core": "^24.0.0",
+    "tailwindcss": "^4.1.0",
+    "vite": "^7.0.0"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.2.0"
+  }
+}

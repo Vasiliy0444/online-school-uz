@@ -1,0 +1,93 @@
+{
+ "creative_id": "930838702781685",
+ "platform": "meta",
+ "school_id": "logist-academy",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "Nimaga logistikani bizda o'rganishingiz kerak?",
+  "types": [
+   "вопрос"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.5s–2.5s: «Nimaga logistikani bizda o'rganishingiz kerak?»; парень в коричневом свитере в компьютерном клубе",
+    "timecode": "00:01"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта",
+   "стабильность"
+  ],
+  "income_claim": "2-3 ming dollar (по черновой расшифровке); Oylik daromad: 10.000.000 dan 30.000.000 so'mgacha (текст объявления)",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:05: «ish bera olamiz» (дадим работу)",
+    "timecode": "00:05"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:06] Biz sizge noldan dispatcherlikni, updaterlikni orgat alimiz.",
+    "timecode": "00:06"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:21] Agar ingilis tiliz orta darajada bosay, [00:27] Amerikala iskas norganir 2-3 min dolar daramat qilallisiz.",
+    "timecode": "00:21"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "рассрочка",
+   "гарантия",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:12] Kursni malumir qismin tolis, kaganyini, pulini, ishki kirganizden kegin bolub-bolub aymay tola varas.",
+    "timecode": "00:12"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:05: «ish bera olamiz»",
+    "timecode": "00:05"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Joylar: Atigi 10 ta! Bugun ro'yxatdan o'tmasangiz, ertaga joy qolmasligi mumkin."
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "средняя",
+ "notes": "Явное обещание трудоустройства («ish bera olamiz» — дадим работу) в сочетании с конкретной суммой дохода 2-3 тыс.$ — двойной признак риска (гарантия результата + доход), поэтому risk=true и offer дополнил «гарантия». Оплата по факту трудоустройства («malumir qismin to'lab, qolganini ishga kirgach to'laysiz») — тот же паттерн отложенной оплаты, что и в 1756158795421697 и 4423137234606878 этой школы; здесь трактовал как «рассрочка». Текст объявления — общий шаблон «Amerika logistikasida…»."
+}

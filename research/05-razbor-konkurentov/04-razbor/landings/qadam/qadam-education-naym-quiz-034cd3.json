@@ -1,0 +1,97 @@
+{
+ "url": "https://qadam.education/naym-quiz",
+ "school_id": "qadam",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "прочее",
+ "builder": "Tilda",
+ "pixels": [
+  "Meta Pixel",
+  "Google Analytics (GA4)",
+  "Google Tag Manager",
+  "Яндекс.Метрика"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Вакансия: вырастим вас в продажах и обеспечим работой",
+  "quote": "Biz sizni sotuv sohasida o‘stiramiz va ish bilan ta’minlaymiz!",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": true,
+  "value": "Доход менеджера по продажам — до 13 000 000 сум; бонус при выполнении недельного плана более чем на 70%; выплаты каждую неделю по средам",
+  "quote": "Daromadingiz qanday bo‘ladi?\n13.000.000\nso'mgacha\nHaftalik planni 70% dan ortiq bajarsangiz\nBONUS qo'shiladi\nTo'lov HAR HAFTA chorshanba kuni",
+  "where": "середина"
+ },
+ "audience": {
+  "found": true,
+  "value": "Кандидаты в менеджеры продаж: отдельный вечерний график для студентов; в анкете — опыт в продаже курсов, банках и страховании, продаже БАД, офисных продажах, колл-центрах",
+  "quote": "Ish vaqti\nAsosiy ish vaqti: 10:00–19:00\nStudentlar uchun: 14:00-22:00\n…\n7. Qaysi sohada ishlagansiz?\na) Ta`lim (kurslar, master-klasslar) b) Bank, moliya, sug`urta c) B.A.D. mahsulotlari sotuvi d) Ofis savdosi (tovar va xizmatlar) e) Call markazlari\nf) Boshqa",
+  "where": "середина"
+ },
+ "program": {
+  "found": true,
+  "duration": "3 дня бесплатного обучения, затем итоговый экзамен",
+  "format": "неизвестно",
+  "quote": "3-qadam:\n3 kun mobaynida bizning bepul dasturimizda o'qib chiqasiz\n4-qadam:\nYakuniy imtihondan muvaffaqiyatli o'tib, ishlashni boshlaysiz"
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [
+   "число учеников"
+  ],
+  "count_claim": "«2023 yildan beri», «3000+ o'quvchilarga ta'lim berganmiz», «90% o'quvchilar natijaga chiqqan», «8 ta zamonaviy yo'nalish», «40+ kishilik jamoa» — самоотчёт"
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "страница вакансии — цен курсов нет"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "квиз-вопросы",
+   "возраст",
+   "город",
+   "имя",
+   "телефон"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "message_match": {
+  "library_id": "1521401729291289",
+  "scores": {
+   "promise_continuity": 8,
+   "language_match": 8,
+   "visual_continuity": 5,
+   "cta_alignment": 9,
+   "specificity_match": 8,
+   "emotional_match": 8
+  },
+  "total_of_60": 46
+ },
+ "notes": "Страница найма менеджеров отдела продаж (title «Copy of Qadam Education - Jamoamizga qo'shilish»), этап «прочее»; stage_auto «вебинар или мастер-класс» ошибочен. Текст содержательный и раскрывает, как продают курсы: обязанности менеджера — «Kurslarimizga qiziqish bildirgan nomzodlar bilan aloqaga chiqish», «Ularga konsultatsiya berish, kursning afzalliklarini tushuntirish», «Nomzodlar bilan shartnoma tuzish va o'quv bo'limiga biriktirish», «Ish jarayonida sistemaga ma'lumotlarni to'g'ri kiritib borish» — заявки с лендингов обзванивают менеджеры, продают на консультации и оформляют договор (CRM). Условия: офис «Toshkent sh, Afrosiyob, 2», «\"Kosmonavtlar\" metrosi»; график «6/1, dam olish kelishuv asosida»; время «10:00–19:00», для студентов «14:00-22:00»; наставник-тимлид; доход до 13 000 000 сум с еженедельными выплатами и бонусом за план выше 70% (это зарплатный бонус, а не бонус к курсу — поле bonuses не заполнено). Путь кандидата: анкета → короткий разговор с менеджером по телефону → 3 дня бесплатного обучения → итоговый экзамен. Анкета из 8 шагов: пол, возраст («15-18» … «26+»), где живёт (Ташкент, область, другое), учится ли, основная ли работа, опыт, сфера (образование, банки, БАД, офисные продажи, колл-центры), имя и телефон. Цифры о школе — самоотчёт и расходятся с другими страницами (4000+ и 7000+ в квизе, 25 388 на Uzum Start). Цен, рассрочки, гарантии нет. Реклама: 8 объявлений — MOP_VIDEO5 V1 (4 шт. с 08.08, 40 дней, ранги 15 и 25) и MOP_ISMOIL V1–V4 (с 14.09), кампания MOP_OFFLINE, у всех текст «Savdo bo‘yicha ish qidiryapsizmi? Bizga savdo menejeri kerak. Barqaror oylik, bonuslar va kuchli jamoa kutmoqda. 📍 Toshkent, ofisda ish 📩 Ariza yuboring hoziroq! ❗️TOSHKENT❗️», CTA «Apply now». В роликах MOP_ISMOIL (черновые расшифровки): фиксированная часть 2,5 млн сум плюс до 10,5 млн бонуса — всего до 13 млн; тимлид — около 16 млн; менеджер общается с клиентами «telefonda yoki Telegramda», объясняет программу курса и оформляет договоры. message_match: объявление 1521401729291289 (ранг 15, 40 дней). Ролик: ищем опытных менеджеров в отдел продаж Qadam Education; требования — от 19 лет, Ташкент или область, опыт от 6 месяцев; график с 10:00 до 19:00, 1 выходной; менеджеры в среднем зарабатывают 6–7 млн через 3 месяца и 10–12 млн через 6 месяцев; на экране «19+ YOSH», «10:00 DAN / 19:00 GACHA», «6 OYLIK NATIJA 10-12 MILLION». Страница совпадает по должности, графику, офису, деньгам и кнопке «Ariza qoldirish»; на ней нет требований «19+» и «6 oy tajriba» (в анкете возраст начинается с «15-18»), а доход дан как «до 13 млн», а не как средние цифры."
+}

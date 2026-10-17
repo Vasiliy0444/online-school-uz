@@ -1,0 +1,75 @@
+{
+ "creative_id": "2519053205243658",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "запись экрана",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "12 yoshli bola nimalar qila olishi kerak?",
+  "types": [
+   "вопрос",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.0s: «12» → «12 BOLA YOSHLI» → «NIMALAR Qila olishi kerak» — девушка за столом с ноутбуком на фоне красных книжных полок",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Unik yoshki bola, nimalar klo olish kerek.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для мам",
+   "профессия будущего"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:11] Kursda wamadi farzantingiz ofis tasturlara, kanva va figma, telegram bot yaratish,",
+    "timecode": "00:11"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.5s: запись экрана монтажа/игры (Fortnite) — «DASTURLASHNI»",
+    "timecode": "00:02"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "слово в комментарии",
+  "destination": "форма Meta",
+  "funnel_stage": "директ"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Формат «слово в комментарии»: ad_text «Izohga 'KIDS' so'zini qoldiring», ролик заканчивается «HOZIROQ» + «Kids so'zini yozib qoldiring!». При этом cta_button = Sign up и link_url = http://fb.me/ — то есть фактическая механика клика по кнопке ведёт на форму Meta, а не в комментарии; расхождение «ролик просит комментарий, кнопка/ссылка — форма» — funnel_stage дан по ролику (директ через комментарий), destination — по кнопке/ссылке (форма Meta). Экран с монтажом и геймплеем (Fortnite) на 2.5s иллюстрирует «дизайн/создание игр», перекликается с расшифровкой про создание игр, дизайн, сайты, ботов Telegram. Один и тот же формат «Izohga … so'zini qoldiring» использован для нескольких Kids-роликов в порции (2519053205243658, 1093451579688011, 1788566905499471)."
+}

@@ -1,0 +1,36 @@
+{
+ "url": "https://hr.englify.uz",
+ "domain": "hr.englify.uz",
+ "pages_scanned": [
+  "https://hr.englify.uz/apply/2"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)"
+  ],
+  "platform": [
+   "Next.js"
+  ]
+ },
+ "seo_metadata": {
+  "title": "Englify HR — Vakansiyalar",
+  "description": "Englify jamoasiga qo&#x27;shiling — ochiq vakansiyalarga ariza topshiring",
+  "headings": {
+   "h1": [
+    "Yuklanmoqda..."
+   ]
+  }
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [],
+  "total_images_found": 1
+ },
+ "integration_links": [],
+ "hidden_elements": {}
+}

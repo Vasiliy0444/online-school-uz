@@ -1,0 +1,172 @@
+/* Блок «Кто ведёт» = «Почему мне можно доверять» образца: круги с номерами и портрет с синей полосой.
+   Сначала телефон, с 960 px — десктоп (артборд Tilda 1200). Замеры — DESIGN.md. */
+
+.slot--vasiliy.slot--empty,
+  .slot--nikita.slot--empty {
+  justify-content: flex-start;
+  padding-top: 25%;
+  border: 0;
+  border-radius: 0;
+  background: #ececec;
+  color: var(--muted);
+}
+
+.hosts {
+  padding-block: 40px 80px;
+}
+
+/* ── Кто ведёт: круги с фактами + портрет с синей полосой ──────────────── */
+.host {
+  display: flex;
+  flex-direction: column;
+}
+
+.host + .host {
+  margin-top: 60px;
+}
+
+.host__name {
+  margin: 40px 0 0;
+  font-size: 30px;
+  line-height: 27px;
+  color: var(--ink);
+}
+
+.host + .host .host__name {
+  margin-top: 0;
+}
+
+.facts {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  margin: 24px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.fact {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  min-height: 65px;
+}
+
+.fact__num {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 65px;
+  height: 65px;
+  border-radius: 50%;
+  background: var(--blue);
+  color: var(--white);
+  font-size: 30px;
+  line-height: 27px;
+}
+
+.fact__text {
+  font-size: 14px;
+  line-height: 22px;
+}
+
+.portrait {
+  position: relative;
+  width: 100%;
+  max-width: 300px;
+  aspect-ratio: 400 / 680;
+  margin: 40px 0 0;
+  overflow: hidden;
+  border-radius: var(--radius-card);
+  background: #ececec;
+}
+
+.portrait .slot {
+  width: 100%;
+  height: 100%;
+  border-radius: 0;
+}
+
+.portrait img.slot {
+  filter: grayscale(1);
+}
+
+.portrait__band {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 57%;
+  height: 20.6%;
+  display: flex;
+  align-items: center;
+  padding: 0 30px;
+  background: var(--blue);
+}
+
+.portrait__name {
+  color: var(--white);
+  font-size: 34px;
+  line-height: 31px;
+}
+
+@media (min-width: 960px) {
+  .hosts .container {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 400px;
+    column-gap: 58px;
+    row-gap: 80px;
+  }
+
+  .host {
+    display: contents;
+  }
+
+  .host__info {
+    grid-column: 1;
+    align-self: start;
+  }
+
+  /* Строки задаём явно: кнопка делит ячейку со вторым ведущим и стоит вровень с низом портрета */
+  .host:nth-child(1) > * {
+    grid-row: 1;
+  }
+
+  .host:nth-child(2) > * {
+    grid-row: 2;
+  }
+
+  .hosts .cta {
+    grid-column: 1;
+    grid-row: 2;
+    align-self: end;
+    margin: 0;
+  }
+
+  .hosts .h2 {
+    max-width: 640px;
+  }
+
+  .host__name {
+    margin-top: 46px;
+  }
+
+  .fact__text {
+    font-size: 18px;
+    line-height: 28px;
+  }
+
+  .portrait {
+    grid-column: 2;
+    max-width: none;
+    margin: 7px 0 0;
+  }
+
+  .portrait__band {
+    padding: 0 40px;
+  }
+
+  .portrait__name {
+    font-size: 45px;
+    line-height: 41px;
+  }
+}

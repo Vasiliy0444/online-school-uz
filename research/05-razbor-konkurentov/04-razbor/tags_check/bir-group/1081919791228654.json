@@ -1,0 +1,91 @@
+{
+  "creative_id": "1081919791228654",
+  "platform": "meta",
+  "school_id": "bir-group",
+  "format": {
+    "type": "видео",
+    "duration_bucket": "31–60 с",
+    "aspect": "9:16"
+  },
+  "style": ["говорящая голова"],
+  "hook": {
+    "verbatim": "18-25 yoshdasiz, lekin hali qaysi kasb menga mos degan savolga javob topmagansiz",
+    "types": ["обращение к сегменту", "боль"],
+    "visual": ["лицо в первом кадре"],
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_hook.jpg 0.0s–1.5s: 18-25 YOSHDASIZ; 2.0s–2.5s: LEKIN HALI QAYSI (мужчина в пиджаке говорит в камеру на фоне архитектурного комплекса)",
+        "timecode": "00:00"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:05: JAVOB TOPMAGANSIZ",
+        "timecode": "00:05"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "18-25 yaqshda siz leket hali tais kask minge mas degan sawalga jawab tapmagan siz.",
+        "timecode": "00:00"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["профессия будущего", "доход", "доверие и окупаемость", "без опыта"],
+    "income_claim": "o'quvchilar hozirgacha 650 million so'mdan ko'p pul topib bo'ldi",
+    "evidence": [
+      {
+        "source": "расшифровка",
+        "quote": "Bundan alin gurukumuzda okugan okuchilar, hazar gechi 650 kimligin somdan koptul satib boldi.",
+        "timecode": "00:20"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Endi nabiz, sizniki, zamana vikastarini organin\n[00:29] və tarama tapip rozgarinizi yardan verin.",
+        "timecode": "00:26"
+      },
+      {
+        "source": "текст объявления",
+        "quote": "Zamonaviy kasbni 0 dan o‘rganing — BEPUL!"
+      }
+    ]
+  },
+  "offer": {
+    "items": ["бесплатный вебинар", "дедлайн или ограничение мест"],
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:16: 500 GRAND LOYIHAMIZNI",
+        "timecode": "00:16"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Yetkili onaylish boychi 500 kishini beyfulgi okutmakchimiz.",
+        "timecode": "00:17"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Kolug malumat almaqcibu siz, 25-in sentyabr tun gula liyi\n[00:34] online tagdimatini qatmashin.",
+        "timecode": "00:31"
+      },
+      {
+        "source": "текст объявления",
+        "quote": "25-sentabr kuni onlayn taqdimot bo‘lib o‘tadi."
+      }
+    ]
+  },
+  "cta": {
+    "button": "Learn more",
+    "in_creative": "бот или канал Telegram",
+    "destination": "лендинг",
+    "funnel_stage": "вебинар или мастер-класс"
+  },
+  "speaker": {
+    "role": "актёр или ведущий"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": true,
+  "risk": false,
+  "confidence": "средняя",
+  "notes": "Хук: субтитры на кадрах (18-25 YOSHDASIZ / LEKIN HALI QAYSI / JAVOB TOPMAGANSIZ), середина фразы по расшифровке, написание исправлено. Доход учеников по расшифровке, написание исправлено; «satib boldi» прочитано как «topib bo'ldi» (заработали) — неуверенно. Спикер объявляет программу от лица проекта («bizda», «loyihamiz»), как автор, основатель или эксперт не представлен, имя не звучит — поэтому «актёр или ведущий». Призыв: на кадре ~0:36 «QATNASHISH UCHUN» со стрелками вниз, в речи — нажать кнопку и «Telegram kanaliye koshilu olasiz» (00:37). Расхождение: ролик зовёт в Telegram-канал на онлайн-презентацию 25 сентября, ссылка ведёт на лендинг bir-group-webinar.vercel.app. Перевод хука: «Вам 18–25, но вы ещё не нашли ответ на вопрос, какая профессия вам подходит»."
+}

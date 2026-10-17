@@ -1,0 +1,93 @@
+{
+ "creative_id": "1463653088976060",
+ "platform": "meta",
+ "school_id": "bir-group",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Diplomingiz bor, lekin bozor pul to'laydigan kasbingiz bormi?",
+  "types": [
+   "вопрос",
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: мужчина в тёмном костюме в офисе на фоне объёмного лого-знака на стене (частично закрыт головой и обрезан кадром); прогрессивные субтитры «DIPLOMINGIZ» → «BOR, LEKIN» → «BOZOR PUL» → «KASBI[NGIZ] BORMI?»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Diplominiz var, lekin bazar pul töl ediyen kaskiginiz var mi?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "профессия будущего"
+  ],
+  "income_claim": "650 million so'mdan ko'p pul topib (avvalgi oquvchilar, jamoaviy summa)",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:28: крупный текст «650 MILLION SO'M» на фоне спикера, подпись «PUL TOPIB»",
+    "timecode": "00:28"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:22] Bundan aldin ikte goruk chikardik və bətərgan okucilar umumi 650 miliyon somdan kub pul tapib uyiga, rozga aragi yardan veriyabdi.",
+    "timecode": "00:22"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:17: врезка изображений зданий «UNIVERSITY» и «MAKTAB» с флагом Узбекистана между ними, подпись «BOZOR PUL TO'LAYDIGAN»",
+    "timecode": "00:17"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Buning uchun 500 ta grant ajratilgan. 25-sentabr kuni onlayn taqdimot bo'lib o'tadi."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:14] Biz 500 grant layihamiz basladik.",
+    "timecode": "00:14"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук — прогрессивные субтитры на кадре, дословно совпадает с расшифровкой ([00:00] «Diplominiz var, lekin bazar pul töl ediyen kaskiginiz var mi?» = «Diplomingiz bor, lekin bozor pul to'laydigan kasbingiz bormi?», написание исправлено). На кадре за спикером — объёмный лого-знак, частично закрыт головой и кадрированием; в контексте school_id это почти наверняка вывеска «BIR GROUP» в офисе, отмечаю как «логотип бренда» с оговоркой на плохую видимость. Заявление «650 MILLION SO'M» подтверждено крупным текстом на кадре (~0:28) и расшифровкой [00:22] — это доход (pul topib), совокупный по прошлым потокам, не на человека, поэтому income_claim, а не revenue_claim. Ролик зовёт «pastagi tugmani bosib... telegram kanalimizni [xohlab] olin» (расшифровка смазанная, но по смыслу и по тексту объявления — призыв присоединиться/подписаться на Telegram-канал), однако link_url ведёт на лендинг bir-group-webinar.vercel.app — ролик зовёт в Telegram-канал по расшифровке, но link_url ведёт на лендинг bir-group-webinar.vercel.app. Спикер не назван по имени и не подан явно как основатель — роль по умолчанию «актёр или ведущий»."
+}

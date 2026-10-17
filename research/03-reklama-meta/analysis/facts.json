@@ -1,0 +1,101 @@
+{
+ "queries_scanned": 136,
+ "cards_total": 2648,
+ "unique_ads": 2104,
+ "uzbek_info_ads": 832,
+ "uzbek_info_advertisers": 292,
+ "evergreen_advertisers": 108,
+ "risk_advertisers": 10,
+ "ads_without_advertiser_name": 19,
+ "ads_with_visible_price": 41,
+ "ads_with_income_claim": 44,
+ "lang_split": {
+  "uz-lat": 744,
+  "uz+ru": 55,
+  "uz-cyr": 33
+ },
+ "top_funnels": [
+  {
+   "funnel": "слово в директ или комментарий",
+   "advertisers": 219,
+   "share_pct": 75.0
+  },
+  {
+   "funnel": "заявка или звонок",
+   "advertisers": 98,
+   "share_pct": 33.6
+  },
+  {
+   "funnel": "вебинар или бесплатный урок",
+   "advertisers": 78,
+   "share_pct": 26.7
+  },
+  {
+   "funnel": "офлайн",
+   "advertisers": 71,
+   "share_pct": 24.3
+  },
+  {
+   "funnel": "Telegram-бот или канал",
+   "advertisers": 43,
+   "share_pct": 14.7
+  },
+  {
+   "funnel": "прямая продажа",
+   "advertisers": 43,
+   "share_pct": 14.7
+  }
+ ],
+ "landing_types": [
+  {
+   "landing": "Facebook / Messenger",
+   "advertisers": 110
+  },
+  {
+   "landing": "Instagram",
+   "advertisers": 108
+  },
+  {
+   "landing": "свой сайт или лендинг",
+   "advertisers": 65
+  },
+  {
+   "landing": "нет ссылки (сообщение или форма в Meta)",
+   "advertisers": 19
+  },
+  {
+   "landing": "Telegram",
+   "advertisers": 10
+  },
+  {
+   "landing": "приложение",
+   "advertisers": 2
+  }
+ ],
+ "landing_main_by_advertiser": [
+  {
+   "landing": "Facebook / Messenger",
+   "advertisers": 104
+  },
+  {
+   "landing": "Instagram",
+   "advertisers": 100
+  },
+  {
+   "landing": "свой сайт или лендинг",
+   "advertisers": 63
+  },
+  {
+   "landing": "нет ссылки (сообщение или форма в Meta)",
+   "advertisers": 16
+  },
+  {
+   "landing": "Telegram",
+   "advertisers": 7
+  },
+  {
+   "landing": "приложение",
+   "advertisers": 2
+  }
+ ]
+}

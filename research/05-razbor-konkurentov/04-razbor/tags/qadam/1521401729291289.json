@@ -1,0 +1,83 @@
+{
+ "creative_id": "1521401729291289",
+ "platform": "meta",
+ "school_id": "qadam",
+ "ad_goal": "найм сотрудников",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "BAD YOKI KURS SOTGANSIZ!",
+  "types": [
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.0s: «BAD YOKI KURS SOTGANSIZ!» с картинкой банок БАДов; ведущая крупно на фоне аптеки",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Bagadlari o'ki uqil kurslari satkensiz, unda biz aynan sizi qidirvamiz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "стабильность"
+  ],
+  "income_claim": "6 OYLIK NATIJA 10-12 MILLION",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈00:23): «6 OYLIK NATIJA 10-12 MILLION»",
+    "timecode": "00:23"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:17] va haftasigi 1 kundam, bizdi menajirlarimiz ortaki 3 ayda 6-7 milion,",
+    "timecode": "00:17"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:21] va 6 ayda yasi 10-12 milion top yapdi.",
+    "timecode": "00:21"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Barqaror oylik, bonuslar va kuchli jamoa kutmoqda."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Apply now",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "неизвестно"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "ВАКАНСИЯ, а не реклама курса: Qadam Education ищет менеджеров в отдел продаж (Ташкент) — для долей по курсам лучше исключить. Хук — текст на кадре; речь: «BADlar yoki o'quv kurslari sotgansiz(mi), unda biz aynan sizni qidiryapmiz» (написание исправлено). Требования по речи и кадрам: от 19 лет («19+ YOSH»), Ташкент или область, опыт от 6 месяцев; график 10:00–19:00 («KUN 10:00 DAN / TUN 19:00 GACHA»), выходной 1 день в неделю. income_claim — зарплата менеджеров школы (речь: «o'rtacha 3 oyda 6-7 million, 6 oyda esa 10-12 million topyapti», написание исправлено), не доход учеников. «стабильность» — по тексту объявления «Barqaror oylik». Призыв: «Taklifimiz qiziq bo'lsa, hoziroq ariza qoldiring». Этап «неизвестно»: ссылка на квиз найма (/naym-quiz), подходящего значения в схеме нет."
+}

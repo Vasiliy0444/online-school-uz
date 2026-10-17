@@ -1,0 +1,440 @@
+{
+ "library_id": "1421572016595244",
+ "model": "mlx-community/whisper-large-v3-turbo",
+ "language_arg": "uz",
+ "detected_language": "uz",
+ "seconds": 125.0,
+ "duration_s": 189.8,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 30.0,
+   "text": "Actually if this is a part of this paradigm that this paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm paradigm"
+  },
+  {
+   "start": 30.0,
+   "end": 34.2,
+   "text": "Sizi am agansız, Sizi am unikaneli tavar topup, Sotu Sotseyle goledi."
+  },
+  {
+   "start": 34.2,
+   "end": 36.8,
+   "text": "Meselan, Bazardan alıp, Optum goledi, Sotsez,"
+  },
+  {
+   "start": 36.8,
+   "end": 39.4,
+   "text": "Yokyoza, Hittayda tek boy, unikaneli tavar alip,"
+  },
+  {
+   "start": 39.4,
+   "end": 41.4,
+   "text": "Hiç kim doblaymasın, Şimda ansaragam sotsez."
+  },
+  {
+   "start": 41.4,
+   "end": 43.4,
+   "text": "Bula niyam sizi orga tip oyamiz,"
+  },
+  {
+   "start": 43.4,
+   "end": 47.6,
+   "text": "Hullas, Sizi, Bagocizi, Maksubatizi, Topseginizden ki, Sikilat ki,"
+  },
+  {
+   "start": 47.6,
+   "end": 51.2,
+   "text": "Sikilat, Tarqatış, Tolollari, Neshegeberiş,"
+  },
+  {
+   "start": 51.2,
+   "end": 54.6,
+   "text": "Hama hareketlani uzunlu uzaklar, Sizi fakat ki,"
+  },
+  {
+   "start": 54.6,
+   "end": 56.6,
+   "text": "Kampüter bile internet olsa bu oldu."
+  },
+  {
+   "start": 56.6,
+   "end": 58.6,
+   "text": "Lakin, Bileminyam organı po iş geri."
+  },
+  {
+   "start": 58.6,
+   "end": 59.6,
+   "text": "Selam aleykaz, Şekilat."
+  },
+  {
+   "start": 59.6,
+   "end": 60.6,
+   "text": "Selam, Selam, Selam."
+  },
+  {
+   "start": 60.6,
+   "end": 62.0,
+   "text": "Yaşın siz, Kada misiniz, Fişkep, Saat-ı Mekir?"
+  },
+  {
+   "start": 62.0,
+   "end": 64.6,
+   "text": "O kim arkaçlık oldu, Gap yok, Kıskaç gapırdı değil mi?"
+  },
+  {
+   "start": 64.6,
+   "end": 66.4,
+   "text": "Bizi, 2002-2003 yıldan beri,"
+  },
+  {
+   "start": 66.4,
+   "end": 68.4,
+   "text": "O damla rakamını kesip olup gelmemizi."
+  },
+  {
+   "start": 68.4,
+   "end": 71.4,
+   "text": "Şimdi, uzun yönelikçi, 3-5 milyarlar,"
+  },
+  {
+   "start": 71.4,
+   "end": 74.2,
+   "text": "O dağılıyor da, şünki adam,"
+  },
+  {
+   "start": 74.2,
+   "end": 75.2,
+   "text": "Kaptansız da iştik edici."
+  },
+  {
+   "start": 75.2,
+   "end": 77.6,
+   "text": "Bizi, yaşı, mutaçlı işe alıgalımızı,"
+  },
+  {
+   "start": 77.6,
+   "end": 78.4,
+   "text": "Uzların aborotlar,"
+  },
+  {
+   "start": 78.4,
+   "end": 81.2,
+   "text": "2-5 milyarlar, 5 milyarlar aborotlu uçuşlarımızı bo."
+  },
+  {
+   "start": 81.2,
+   "end": 82.8,
+   "text": "Her oy kermi de, şu 3-3'te,"
+  },
+  {
+   "start": 82.8,
+   "end": 84.0,
+   "text": "2-3'te uçuşlarını uçudup,"
+  },
+  {
+   "start": 84.0,
+   "end": 84.6,
+   "text": "Şu oyunu alışıda,"
+  },
+  {
+   "start": 84.6,
+   "end": 85.2,
+   "text": "Daramat uçuşlarımızı,"
+  },
+  {
+   "start": 85.2,
+   "end": 86.0,
+   "text": "Oradan beri alıgalımızı."
+  },
+  {
+   "start": 86.0,
+   "end": 87.6,
+   "text": "Karaka formatla da uçuşlarımız?"
+  },
+  {
+   "start": 87.6,
+   "end": 89.0,
+   "text": "Bizi, uzun ikil formatımızı bo."
+  },
+  {
+   "start": 89.0,
+   "end": 90.2,
+   "text": "Offline ile online."
+  },
+  {
+   "start": 90.2,
+   "end": 92.6,
+   "text": "Offline, ışıl markazımızda ikil organçısı boğladı,"
+  },
+  {
+   "start": 92.6,
+   "end": 94.2,
+   "text": "Şunluluğu, 11 metron aldıdı."
+  },
+  {
+   "start": 94.2,
+   "end": 96.0,
+   "text": "Bu, Kupra Tashkent'i yaşatıdır."
+  },
+  {
+   "start": 96.0,
+   "end": 97.4,
+   "text": "Başka, savla kalçı organına mıdır?"
+  },
+  {
+   "start": 97.4,
+   "end": 98.4,
+   "text": "Bu, bu olayken."
+  },
+  {
+   "start": 98.4,
+   "end": 100.0,
+   "text": "Eğer online organına mıdır,"
+  },
+  {
+   "start": 100.0,
+   "end": 101.2,
+   "text": "O zamanı mıdır,"
+  },
+  {
+   "start": 101.2,
+   "end": 101.4,
+   "text": "Velaetimde organına mıdır?"
+  },
+  {
+   "start": 101.4,
+   "end": 101.6,
+   "text": "Ya da,"
+  },
+  {
+   "start": 101.6,
+   "end": 101.6,
+   "text": ""
+  },
+  {
+   "start": 101.6,
+   "end": 101.6,
+   "text": ""
+  },
+  {
+   "start": 101.6,
+   "end": 102.4,
+   "text": "Ya da,"
+  },
+  {
+   "start": 102.4,
+   "end": 103.2,
+   "text": "Ya da,"
+  },
+  {
+   "start": 103.2,
+   "end": 103.4,
+   "text": "Ya da,"
+  },
+  {
+   "start": 103.4,
+   "end": 103.9,
+   "text": "Ya da,"
+  },
+  {
+   "start": 103.9,
+   "end": 104.4,
+   "text": "O zamanı,"
+  },
+  {
+   "start": 104.4,
+   "end": 105.2,
+   "text": "O platformamızı boğaz."
+  },
+  {
+   "start": 105.2,
+   "end": 105.4,
+   "text": "Bu,"
+  },
+  {
+   "start": 105.4,
+   "end": 106.6,
+   "text": "Hemen video dersiyle abonuyun."
+  },
+  {
+   "start": 106.6,
+   "end": 106.7,
+   "text": "O,"
+  },
+  {
+   "start": 106.7,
+   "end": 106.9,
+   "text": "İşte,"
+  },
+  {
+   "start": 106.9,
+   "end": 107.4,
+   "text": "Ya da,"
+  },
+  {
+   "start": 107.4,
+   "end": 107.9,
+   "text": "Kaptansız,"
+  },
+  {
+   "start": 107.9,
+   "end": 109.2,
+   "text": "Savla kalçı organçısı boğladı."
+  },
+  {
+   "start": 109.2,
+   "end": 110.1,
+   "text": "Topka çıkan,"
+  },
+  {
+   "start": 110.1,
+   "end": 111.0,
+   "text": "Şakırtlarız var mı?"
+  },
+  {
+   "start": 111.0,
+   "end": 111.5,
+   "text": "Albet,"
+  },
+  {
+   "start": 111.5,
+   "end": 112.0,
+   "text": "Biz,"
+  },
+  {
+   "start": 112.0,
+   "end": 113.0,
+   "text": "Oğulçularımızı,"
+  },
+  {
+   "start": 113.0,
+   "end": 113.5,
+   "text": "Dünyak pata,"
+  },
+  {
+   "start": 113.5,
+   "end": 114.5,
+   "text": "Kuşaatlarız var mı?"
+  },
+  {
+   "start": 114.5,
+   "end": 115.5,
+   "text": "Kuşaatlarız var mı?"
+  },
+  {
+   "start": 115.5,
+   "end": 116.5,
+   "text": "Kuşaatlarız var mı?"
+  },
+  {
+   "start": 116.5,
+   "end": 117.5,
+   "text": "Kuşaatlarız var mı?"
+  },
+  {
+   "start": 117.5,
+   "end": 118.5,
+   "text": "Kuşaatlarız var mı?"
+  },
+  {
+   "start": 118.5,
+   "end": 119.5,
+   "text": "Kuşaatlarız var mı?"
+  },
+  {
+   "start": 119.5,
+   "end": 120.5,
+   "text": "Kuşaatlarız var mı?"
+  },
+  {
+   "start": 120.5,
+   "end": 121.5,
+   "text": "Kuşaatlarız var mı?"
+  },
+  {
+   "start": 121.5,
+   "end": 122.5,
+   "text": "Kuşaatlarız var mı?"
+  },
+  {
+   "start": 122.5,
+   "end": 123.5,
+   "text": "Kuşaatlarız var mı?"
+  },
+  {
+   "start": 123.5,
+   "end": 124.5,
+   "text": "Kuşaatlarız var mı?"
+  },
+  {
+   "start": 124.5,
+   "end": 125.5,
+   "text": "Kuşaatlarız var mı?"
+  },
+  {
+   "start": 125.5,
+   "end": 126.5,
+   "text": "Kuşaatlarız var mı?"
+  },
+  {
+   "start": 126.5,
+   "end": 127.5,
+   "text": "Kuşaatlarız var mı?"
+  },
+  {
+   "start": 127.5,
+   "end": 128.84,
+   "text": "Kuşaatlarız var mı?"
+  },
+  {
+   "start": 128.84,
+   "end": 128.84,
+   "text": ""
+  },
+  {
+   "start": 128.84,
+   "end": 128.84,
+   "text": ""
+  },
+  {
+   "start": 128.84,
+   "end": 128.84,
+   "text": ""
+  },
+  {
+   "start": 128.84,
+   "end": 128.84,
+   "text": ""
+  },
+  {
+   "start": 128.84,
+   "end": 128.84,
+   "text": ""
+  },
+  {
+   "start": 128.84,
+   "end": 128.84,
+   "text": ""
+  },
+  {
+   "start": 128.84,
+   "end": 128.84,
+   "text": ""
+  },
+  {
+   "start": 128.84,
+   "end": 158.84,
+   "text": "Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si"
+  },
+  {
+   "start": 158.84,
+   "end": 188.84,
+   "text": "Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si"
+  },
+  {
+   "start": 188.84,
+   "end": 189.71,
+   "text": "Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si Si"
+  }
+ ]
+}

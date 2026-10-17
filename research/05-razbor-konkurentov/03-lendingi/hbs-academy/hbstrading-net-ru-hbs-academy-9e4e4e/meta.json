@@ -1,0 +1,17 @@
+{
+ "school_id": "hbs-academy",
+ "url": "https://hbstrading.net/ru/hbs-academy",
+ "sources": "site:sitemap",
+ "first_seen": "",
+ "last_seen": "",
+ "stage_auto_url": "основной продукт",
+ "is_archive": false,
+ "snapshot_at": "2026-09-16T21:27:25+00:00",
+ "live_status": 200,
+ "final_url": "https://hbstrading.net/ru/hbs-academy",
+ "title": "HBS Academy — профессиональные курсы трейдинга",
+ "screenshot": "/Users/Bel-a/Data/online-shkola-uz/05-razbor-konkurentov/lendingi/hbs-academy/hbstrading-net-ru-hbs-academy-9e4e4e/screenshot-mobile.jpg",
+ "stage_auto": "вебинар или мастер-класс",
+ "stage_reason": "текст (вебинар или мастер-класс) против адреса (основной продукт) — проверить по скриншоту",
+ "text_chars": 4355
+}

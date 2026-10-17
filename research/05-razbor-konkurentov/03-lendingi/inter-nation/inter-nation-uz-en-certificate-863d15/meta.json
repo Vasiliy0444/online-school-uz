@@ -1,0 +1,17 @@
+{
+ "school_id": "inter-nation",
+ "url": "https://inter-nation.uz/en/certificate",
+ "sources": "site:sitemap | wayback",
+ "first_seen": "2024-12-12",
+ "last_seen": "2026-06-09",
+ "stage_auto_url": "",
+ "is_archive": false,
+ "snapshot_at": "2026-09-16T21:19:23+00:00",
+ "live_status": 200,
+ "final_url": "https://inter-nation.uz/en/certificate",
+ "title": "Inter Nation English School",
+ "screenshot": "/Users/Bel-a/Data/online-shkola-uz/05-razbor-konkurentov/lendingi/inter-nation/inter-nation-uz-en-certificate-863d15/screenshot-mobile.jpg",
+ "stage_auto": "лид-магнит",
+ "stage_reason": "текст страницы",
+ "text_chars": 1441
+}

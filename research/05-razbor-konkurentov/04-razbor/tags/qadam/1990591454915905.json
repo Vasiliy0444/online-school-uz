@@ -1,0 +1,115 @@
+{
+ "creative_id": "1990591454915905",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Uzum sellerlar hozirda 1000 dollardan 3000 dollargacha daromad qiladi.",
+  "types": [
+   "результат или доход",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "деньги или результат на экране",
+   "таймер или обратный отсчёт",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.0s: таймер «00:2…», «21+»; ведущая с пачкой долларов, съёмка снизу; появляется надпись «UZUM seller»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.5s: «$1000»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.5s: «$1000 $3000 daromad»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Uzun saylerlar xazirda 1000 dolordan 3000 dolorgache daromat qiladi.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "удалёнка и свобода",
+   "свой бизнес"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈00:08): «qo'shimcha daromad qilishingiz», летящие купюры",
+    "timecode": "00:08"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:08] Uydan turub ishni boshlayo alasiz.",
+    "timecode": "00:08"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:10] Ozengizgen mas maksilatini tanlayo alasiz.",
+    "timecode": "00:10"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (≈00:14): слайд «3-Afzallik Sotuvni yo'lga qo'ya olasiz»",
+    "timecode": "00:14"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Qo'shimcha daromad: asosiy ishingiz yoki biznesingizdan chalg'imasdan ko'proq daromad olishni boshlang."
+   }
+  ],
+  "income_claim": "$1000 $3000 daromad (кадр) / Uzum sellerlar hozirda 1000 dollardan 3000 dollargacha daromad qiladi (речь, написание исправлено); период не назван"
+ },
+ "offer": {
+  "items": [
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:17] Jalar sanli chekilengan, xaziroq ariza qaldirin,",
+    "timecode": "00:17"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈00:19): «hoziroq ariza qoldiring» со стрелкой вниз",
+    "timecode": "00:19"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Apply now",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "высокая",
+ "notes": "Хук — текст на кадрах («UZUM seller», «$1000 $3000 daromad»), полная фраза по расшифровке, написание исправлено («Uzun saylerlar xazirda 1000 dolordan 3000 dolorgache daromat qiladi» → «Uzum sellerlar hozirda 1000 dollardan 3000 dollargacha daromad qiladi»); в кадре — деньги в руках. Дальше [00:03] «Siz ham ular qatorida bo'lishingiz mumkin» — обещание такого же дохода → risk. Смысл: дополнительный доход через Uzum, начать из дома («Uydan turib ishni boshlay olasiz»), выбрать свой товар и наладить продажи (слайды «Afzallik»); «shu kungacha 2000 dan ortiq o'quvchilarimiz natija qilib kelmoqda». Надпись «UZUM seller» — стилизованный текст, не логотип площадки. Призыв [00:17]: «Joylar soni cheklangan, hoziroq ariza qoldiring» (написание исправлено) → форма, этап «основной продукт». Ведущая говорит от имени школы («o'quvchilarimiz», «biz sizga o'rgatamiz»)."
+}

@@ -1,0 +1,92 @@
+{
+ "creative_id": "1585286413377416",
+ "platform": "meta",
+ "school_id": "bir-group",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "500 ta iqtidori bor, oldinga intiluvchan yoshlarni qidiryapmiz.",
+  "types": [
+   "обращение к сегменту",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: чёрно-белая стилизация «под запись» (иконка REC, рамка видоискателя, индикатор батареи вверху), мужчина за столом с флажком «...GROUP» говорит в камеру; титры собираются в «500 TA IQTIDORI» → «BOR,» → «OLDINGA INTILAYOTGAN»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] 500-ta iqtidari var, aldingi intili etkin yashlari qidiriyatimiz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "профессия будущего",
+   "статус"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:11] Graphic design, targeting, video montage, mablografiya, suni intellect, rabat tekniki, va baski yoraylishilar.",
+    "timecode": "00:11"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] 500-ta iqtidari var, aldingi intili etkin yashlari qidiriyatimiz.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Siz grafik dizayn, targeting, videomontaj, SMM va boshqa 7 ta zamonaviy yo‘nalishdan birini tanlab, grant asosida bepul ta’lim olishingiz mumkin."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Buning uchun 500 ta grant ajratilgan. 25-sentabr kuni onlayn taqdimot bo‘lib o‘tadi."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:28] Batafsil 25 sentiya burkuni 20-30-da bolatiyan onlayn taqdimat 3-n turamiz.",
+    "timecode": "00:28"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "основатель или эксперт"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук — сначала стилизация «под скрытую съёмку» (значок REC, рамка автофокуса, индикатор батареи поверх обычного говорящей-головы кадра за столом с флажком бренда), примерно к ~0:16 (sheet_overview) фильтр пропадает и остаётся обычное цветное видео — считаю это визуальным приёмом (имитация «съёмки с телефона/скрытой камеры»), а не реальной сменой камеры. Текст на кадре обрывается на «OLDINGA INTILAYOTGAN» (продолжение за кадром 2.5с), поэтому verbatim достроен по расшифровке с исправлением явных ошибок распознавания («500-ta iqtidari var, aldingi intili etkin yashlari qidiriyatimiz» → «500 ta iqtidori bor, oldinga intiluvchan yoshlarni qidiryapmiz»); написание слов исправлено, порядок и смысл — нет. Спикер говорит от лица компании («biz... 500 grant loyihasi elon qilamiz») → «основатель или эксперт», имя не названо. Флажок с логотипом (видны буквы «...GROUP» и круглая эмблема) — это лого бренда Bir Group, не площадки. Ролик зовёт нажать кнопку и присоединиться к каналу, где будет taqdimot («fastagik tugmana basib, taqdimat bolatiyan kanaliga koshil balin»), а link_url ведёт на лендинг bir-group-webinar.vercel.app — стандартное расхождение Telegram/лендинг. Курсы (grafik dizayn/targeting/video montage/mablografiya/sun'iy intellekt/robototexnika) перечислены и в самой расшифровке, и в тексте объявления — совпадают."
+}

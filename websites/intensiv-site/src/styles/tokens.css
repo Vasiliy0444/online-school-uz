@@ -1,0 +1,37 @@
+/* Токены дизайн-системы EDGROUP, тема mk_telegram. Откуда цифры — DESIGN.md. */
+:root {
+  /* Цвета образца */
+  --blue: #4ba1ff;
+  --cyan: #05acf1;
+  --ink: #292929;
+  --black: #000;
+  --muted: #6e6e6e;
+  --legal: #969696;
+  --band: #f9f9f9;
+  --white: #fff;
+
+  /* Фон первого экрана: снят с фоновой картинки образца */
+  --hero-gradient: linear-gradient(115deg, #279bf1 0%, #4ea4ee 18%, #75beff 38%, #62bcff 50%, #2caefc 68%, #05a8ff 100%);
+  --hero-shape: rgba(255, 255, 255, 0.14);
+  --card-blue-gradient: linear-gradient(160deg, #5fadff 0%, #6bb6ff 55%, #73beff 100%);
+
+  /* Шрифты: display — близнец Druk Cyr Medium (см. main.css), текст — Inter */
+  --font-display: 'EDG Display', 'Arial Narrow', 'Roboto Condensed', sans-serif;
+  --font-text: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --display-weight: 530;
+  --display-tracking: 0.5px;
+
+  /* Сетка: контент 1160 px, поля телефона ≈ 28 px при ширине 375 */
+  --container: 1160px;
+  --gutter: clamp(20px, 7.5vw, 40px);
+  --gap: 40px;
+
+  /* Форма: скругление карточек, кнопка со срезанным углом */
+  --radius-card: 20px;
+  --radius-btn: 4px;
+  --cut-btn: 21px;
+  --cut-tab: 20px;
+  --cut-tag: 6px;
+
+  --focus: var(--ink);
+}

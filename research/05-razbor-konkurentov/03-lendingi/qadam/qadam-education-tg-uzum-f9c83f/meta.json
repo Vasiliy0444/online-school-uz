@@ -1,0 +1,17 @@
+{
+ "school_id": "qadam",
+ "url": "https://qadam.education/tg-uzum",
+ "sources": "ads:meta | site:sitemap",
+ "first_seen": "2026-07-06",
+ "last_seen": "2026-09-16",
+ "stage_auto_url": "",
+ "is_archive": false,
+ "snapshot_at": "2026-09-16T19:50:09+00:00",
+ "live_status": 200,
+ "final_url": "https://qadam.education/tg-uzum",
+ "title": "UZUM Tg канал",
+ "screenshot": "/Users/Bel-a/Data/online-shkola-uz/05-razbor-konkurentov/lendingi/qadam/qadam-education-tg-uzum-f9c83f/screenshot-mobile.jpg",
+ "stage_auto": "вебинар или мастер-класс",
+ "stage_reason": "текст страницы",
+ "text_chars": 207
+}

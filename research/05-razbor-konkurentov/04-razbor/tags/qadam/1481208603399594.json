@@ -1,0 +1,80 @@
+{
+ "creative_id": "1481208603399594",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Oylikdan oylikkacha pul yetkaza olmayotgan bo'lsangiz, sizga zo'r biznes bo'ladi shu.",
+  "types": [
+   "боль",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Ayli dan ayli geche ful yet qizami yapkan bu seza buzge zor biznis boladi shani.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: блогер говорит в камеру на фоне фиолетового спорткара, текста на кадре нет",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "свой бизнес"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Ayli dan ayli geche ful yet qizami yapkan bu seza buzge zor biznis boladi shani.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:08] Uzo market di sawda qilish orgin alay di shani katta biznismen bob getas.",
+    "timecode": "00:08"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "рассрочка"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:49] Tol olayan, halisiz lakti diz, halisiz bolib toleshgan,",
+    "timecode": "00:49"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "блогер"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Та же первая сцена и сценарий, что у 1461416515313410 (хук по расшифровке, написание исправлено; текста на кадрах хука нет), другой финал: «…pastda ssilka qoldiraman, hozir ma'lumotlaringizni qoldirasiz, o'zlari aloqaga chiqib, yana batafsil ma'lumot berishadi» (написание исправлено) — форма и обещание связаться; «консультация» не отмечена, т.к. бесплатная консультация прямо не названа. Фрагмент 00:54–00:59 («be pulqa veradigan bu asistirla») неразборчив — оффер из него не выводится. Кадр 2 обзора — человек в офисе под цветным фильтром, в речи оборот «147 million» (в других версиях «137» — вероятно, ошибка распознавания; это оборот, не доход). Оплата наличными или частями → «рассрочка». Роль «блогер» — по utm (UZUM_BLOGER_INOMARKA) и подаче."
+}

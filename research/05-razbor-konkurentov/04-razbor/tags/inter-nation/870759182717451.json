@@ -1,0 +1,74 @@
+{
+ "creative_id": "870759182717451",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "ad_goal": "найм сотрудников",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "ACADEMIC SUPPORT. Nima ish qiladi?",
+  "types": [
+   "вопрос",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: жёлтый текст «ACADEMIC SUPPORT» / «NIMA ISH QILADI?» на фоне холла филиала со студентами на оранжевых пуфах",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Academic Support ozun endini ishqiladi.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:14] Ayig maasha 7.000.000-9.000.000.000.",
+    "timecode": "00:14"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "✅ 7 000 000 - 9 000 000 so'm maosh"
+   }
+  ],
+  "income_claim": "Oylik maosh 7 000 000 – 9 000 000 so'm (Academic Support, Andijon filiali)"
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Apply now",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "неизвестно"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Вакансия Academic Support, филиал Андижан (ad_goal = найм сотрудников, cta_button «Apply now», ссылка /hr/academic-support). Зарплата и график (14:00–20:00, графика на кадре ~0:18) подтверждены и текстом объявления, и расшифровкой, и кадром — высокая уверенность. У героя на бейдже читается «REGIONAL MANAGER» (та же должность, что в 1655768062172430 — возможно, один и тот же сотрудник снимается в нескольких роликах школы). Финал расшифровки [00:26] «xavalakali ariza xalbidi» → «Havola orqali ariza qoldiring» → заявка/форма, а не общая лендинг-воронка курса, поэтому funnel_stage не про продажу курса — оставлен «неизвестно»."
+}

@@ -1,0 +1,18 @@
+{
+ "school_id": "qadam",
+ "url": "https://qadam.education/ai-hunarmand",
+ "sources": "ads:meta | site:sitemap",
+ "first_seen": "2026-08-26",
+ "last_seen": "2026-09-16",
+ "stage_auto_url": "",
+ "is_archive": false,
+ "snapshot_at": "2026-09-16T19:54:25+00:00",
+ "live_status": 200,
+ "final_url": "https://qadam.education/ai-hunarmand",
+ "title": "Kelajak Sun'iy Intellektni biladigan insonlar qo'lida!",
+ "screenshot": "/Users/Bel-a/Data/online-shkola-uz/05-razbor-konkurentov/lendingi/qadam/qadam-education-ai-hunarmand-560959/screenshot-mobile.jpg",
+ "stage_auto": "оферта или оплата",
+ "stage_reason": "текст страницы",
+ "text_chars": 8788,
+ "reshot_at": "2026-09-17T00:28:27+00:00"
+}

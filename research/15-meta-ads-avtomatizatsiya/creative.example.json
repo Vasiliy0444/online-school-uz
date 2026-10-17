@@ -1,0 +1,10 @@
+{
+  "ad_account_id": "REPLACE_WITH_act_ACCOUNT_ID",
+  "page_id": "REPLACE_WITH_PAGE_ID",
+  "name": "REPLACE_WITH_CREATIVE_NAME",
+  "body": "REPLACE_WITH_PRIMARY_TEXT",
+  "title": "REPLACE_WITH_HEADLINE",
+  "link_url": "https://example.com/replace-with-real-destination",
+  "image": "REPLACE_WITH_LOCAL_IMAGE_PATH.png",
+  "call_to_action": "LEARN_MORE"
+}

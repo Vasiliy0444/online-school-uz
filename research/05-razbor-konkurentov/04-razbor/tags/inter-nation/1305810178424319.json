@@ -1,0 +1,74 @@
+{
+ "creative_id": "1305810178424319",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "≤15 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Siz ingliz tilini o'rganmoqchisiz, lekin kunduzi o'qiysiz va ishlaysiz?",
+  "types": [
+   "боль",
+   "вопрос",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: мужчина в рубашке с бейджем «ADMINISTRATION» на фоне освещённого здания ночью",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Siz ingilis sil o'rgan maqchisiz, lekin kum bo'i o'qishta va ishtasiz.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:09: жёлтая цифра «18:30» на груди говорящего",
+    "timecode": "00:09"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "экономия времени",
+   "для регионов"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Bu kunduz kuni o'qiydigan yoki ishlaydigan, lekin rivojlanishni keyinga qoldirmoqchi bo'lmaganlar uchun ideal variant"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук по расшифровке, написание исправлено («Siz ingilis sil o'rgan maqchisiz, lekin kum bo'i o'qishta va ishtasiz» → «Siz ingliz tilini o'rganmoqchisiz, lekin kunduzi o'qiysiz va ishlaysiz?»). Спикер — мужчина с бейджем «ADMINISTRATION» (администратор филиала), не назван по имени. Про филиал Андижан (link_url instagram_andijan)."
+}

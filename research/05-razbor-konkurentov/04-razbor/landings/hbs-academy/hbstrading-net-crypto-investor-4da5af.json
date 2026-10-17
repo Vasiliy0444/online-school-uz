@@ -1,0 +1,91 @@
+{
+ "url": "https://hbstrading.net/crypto-investor",
+ "school_id": "hbs-academy",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "основной продукт",
+ "builder": "Nuxt",
+ "pixels": [
+  "Meta Pixel",
+  "Google Analytics (GA4)",
+  "Google Tag Manager"
+ ],
+ "promise": {
+  "found": true,
+  "value": "За 2 месяца научиться зарабатывать на крипторынке там, где другие теряют",
+  "quote": "Kripto investor kursi\n2 oy ichida kripto bozorida boshqalar yo'qotayotgan joyda siz daromad qilishni o'rganing",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": true,
+  "value": "Заработок «boshqalar yo'qotayotgan joyda» (там, где другие теряют) в заголовке; те же анонимные карточки учеников, что на Finversity: 10–30%, 40% «real shotda», 20% прибыли, 20–25% дохода — без периода и базы (самоотчёт)",
+  "quote": "2 oy ichida kripto bozorida boshqalar yo'qotayotgan joyda siz daromad qilishni o'rganing\n…\nHar kuni bozorga ishonch bilan kira oladi, 10-30% gacha daromad.\nHBS jamoasi a'zosi, 40% real shotda daromad.\nHBS Akademiyasida o'qib, treydingni o'zi uchun yangitdan kashf qilgan. Hozir 20% foydada.\nHozirda treyding orqali 20-25% daromad qilmoqdalar",
+  "where": "первый экран"
+ },
+ "audience": {
+  "found": true,
+  "value": "8 карточек «Ushbu Dastur Siz Uchun Agarda siz...» (как на Finversity): преподаватель вуза, трейдер, дизайнер, студент, безработный, домохозяйка, предприниматель, программист; видеоотзыв «Bu soha ayollar uchun uydan turib pul topishga eng yaxshisi»",
+  "quote": "Ushbu Dastur Siz Uchun Agarda siz...\nBu dastur sizga to'g'ri keladimi-yo'qmi degan savol tug'ilgan bo'lsa, avval talabalarimiz qanday natijalarga erishganini ko'ring\nO'qituvchiInstitutda o'qituvchi\nBoshqa joylardan ishonchli va joiz kurslar topa olmagan.\nHar kuni bozorga ishonch bilan kira oladi, 10-30% gacha daromad.\nTreyderAsosiy kasbi\nTo'g'ri o'rganilmagan bilim orqali pullari sliv bo'lib ketgan.\nHBS Akademiyasi darslari va nazorati ostida, joiz yo'llar bilan daromadga chiqdi.\nDizaynerAsosiy kasbi\nDizaynerlik bilan shug'ullangan. Lekin daromadi kimdadir bog'liq bo'lishini xohlamagan.\nHBS jamoasi a'zosi, 40% real shotda daromad.\nTalabaO'quvchi\nInstitutdagi treyding darslari juda sodda bo'lgani uchun bu soha haqida boshqacha fikrda bo'lgan.\nHBS Akademiyasida o'qib, treydingni o'zi uchun yangitdan kashf qilgan. Hozir 20% foydada.\nIshsizAniq kasbi yo'q\nBoshqa kursda o'qigan, lekin natija bo'lmagan.\nHozir real shotda mustaqil ishlay oladi.\nUy bekasiUyda\nO'ziga qulay bo'lgan ish bo'lishini orzu qilgan.\nHBS Akademiyasida o'zi izlagan barcha qulayliklarni topgan.\nTadbirkorBiznesmen\nTijorat sohasida faoliyat yuritib savdo-sotiq qilar edilar\nHozirda treyding orqali 20-25% daromad qilmoqdalar\nDasturchiProgramist\nAsosiy ishdan tashqari passiv daromad qilish istagi\nHBS Akademiyasida o'qib hozirda mustaqil investitsiya qila oladi",
+  "where": "середина"
+ },
+ "program": {
+  "found": true,
+  "modules": 16,
+  "duration": "2 oy (2 месяца); 60 часов практики; еженедельные Zoom-встречи",
+  "format": "гибрид",
+  "quote": "16\nModul darslar\n60 soat\namaliyot\n…\nOnlinepraktika\n2 OY\nDastur davomiyligi\n16\nUmumiy modullar soni\nZOOM\nHaftalik meetinglar\nMoliya bozoriga kirish\nBlokcheyn\nDefi va Web3\nBitcoin\nAltcoinlar\nKriptobirjalar\nFear and Greed\nTradingview ilovasi\nTexnik tahlil\nRisk boshqarish\nFundamental tahlil\nAirdrop, Arbitraj\nNFT\nBitcoin ETF’lari\nUmumiy xulosalar\nMakroiqtisodiyot"
+ },
+ "speaker": {
+  "found": true,
+  "value": "Madina Kamilovna — «6 yildan beri xalqaro moliya sohasida kriptoinvestor», «J.P. Morgan xalqaro bankida amaliyot» (самоотчёт: где, когда и в какой роли — не сказано); в тарифах — «Madina K.»; на первом экране — фото женщины в белом без подписи",
+  "quote": "Kim tomonidan o'tiladi:\nMadina Kamilovna\n6 yildan beri xalqaro moliya sohasida kriptoinvestor\nJ.P. Morgan xalqaro bankida amaliyot.",
+  "where": "середина"
+ },
+ "social_proof": {
+  "types": [
+   "текстовые отзывы",
+   "видеоотзывы",
+   "число учеников"
+  ],
+  "count_claim": "«4 yil ichida HBS, 2 500 dan ortiq insonlarning hayotini o'zgartirishga hissa qo'shdi» и на той же странице «4 yil ichida HBS, 3 000 dan ortiq insonlarni hayotini o'zgartirishga hissa qo'shdi» — самоотчёт",
+  "reviews_count": 12
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "два тарифа («Premium», «VIP») без сумм — в текстовом снимке цен нет, списки пунктов у тарифов одинаковые; кнопка «Ro'yxatdan o'tish»"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": true,
+  "value": "В тарифах сверх онлайн-уроков: контроль кураторов, закрытая Telegram-группа, 6 месяцев доступа к курсу, «Jamoaga qo'shilish imkoniyati», 10 дней практики в Ташкенте и 5 дней в Дубае с «Madina K.», выпускная церемония, сертификат, Zoom раз в неделю и 3 личных Zoom за 2 месяца (списки Premium и VIP в тексте совпадают)",
+  "quote": "Premium\nOnline darsliklar\nKuratorlar nazorati\nYopiq Telegram guruhga qo'shilish\nKursga 6 oylik dostup\nJamoaga qo'shilish imkoniyati\nToshkentda 10 kunlik amaliyot Madina K. bilan\nBitiruv marosimi\nSertifikat\nMadina K. bilan haftada 1 marta ZOOM\n+ Toshkentda Madina K. bilan 10 kunlik amaliyot\nDubayda Madina K. bilan 5 kunlik amaliyot\n2 oy ichida Madina K. bilan 3 ta 1ga1 ZOOM",
+  "where": "низ страницы"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "имя",
+   "телефон",
+   "Telegram",
+   "другое"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "notes": "Страница курса Crypto Investor (title «Crypto Investor — kripto investor kursi»; RU — hbstrading.net/ru/crypto-investor, h1 Курс «Крипто-инвестор»). Курс есть в карте сайта, но не показан в «KURSLARIMIZ» на /hbs-academy и отсутствует в списке курсов формы заявки. stage_auto «основной продукт» — совпадает.\nПорядок блоков: первый экран («Kripto investor kursi», обещание, кнопка «Ma’lumot olish», фото женщины в белом без подписи) → те же 8 карточек учеников, что на Finversity → «Bizning akademiyamizga nima kiradi»: «Darslar tugaganidan so'ng 4 oylik dostup», «16 Modul darslar», «60 soat amaliyot», «Haftalik ZOOM meetinglar», преподаватель Madina Kamilovna, «Sertifikat», «Bitiruv marosimi», «Jamoaga qo'shilish imkoniyati» → программа: «2 OY», «16 Umumiy modullar soni» и 16 тем → «Siz bir o'zingiz emassiz» (флаги 7 стран) → 4 видеоотзыва (другие, чем на Express и Finversity) → 5 фото → тарифы → форма → филиалы → подвал.\nТарифы «Premium» и «VIP»: в текстовом снимке списки пунктов у обоих одинаковые (12 строк, от «Online darsliklar» до «2 oy ichida Madina K. bilan 3 ta 1ga1 ZOOM»; практика в Ташкенте в каждом списке названа дважды — «Toshkentda 10 kunlik amaliyot Madina K. bilan» и «+ Toshkentda Madina K. bilan 10 kunlik amaliyot»); чем тарифы различаются, по тексту не видно, а скриншот — только первый экран. Сумм нет; кнопка «Ro'yxatdan o'tish» (куда ведёт — не видно). Кнопки рассрочки, как на Finversity, здесь нет. Гарантии, скидок и сроков набора нет. Формат смешанный: онлайн-уроки и Zoom плюс практика «Toshkentda 10 kunlik» и «Dubayda Madina K. bilan 5 kunlik amaliyot» (кто оплачивает поездку в Дубай — не сказано). Доступ: «4 oylik dostup» после окончания в блоке состава и «Kursga 6 oylik dostup» в тарифах. Самоотчёт на одной странице расходится, как на Finversity: «2 500 dan ortiq» и «3 000 dan ortiq».\nОбещание и доходности: заголовок «2 oy ichida kripto bozorida boshqalar yo'qotayotgan joyda siz daromad qilishni o'rganing»; в карточках — «10-30% gacha daromad», «40% real shotda daromad», «Hozir 20% foydada», «20-25% daromad» (без периода); видеоотзывы (имён нет): «Treydingni o’rganish juda oson bo’ld», «Universitetlarda bunday bilimlarni berishmaydi», «Bilganlarim aslida boshqacha ekan», «Bu soha ayollar uchun uydan turib pul topishga eng yaxshisi». Регалии преподавателя — самоотчёт без деталей (где, когда, в какой роли): «6 yildan beri xalqaro moliya sohasida kriptoinvestor», «J.P. Morgan xalqaro bankida amaliyot.». В программе есть «Risk boshqarish» и «Fear and Greed»; предупреждений о рисках криптовалют, лицензий и регуляторов на странице нет. reviews_count 12 = 8 карточек + 4 видео.\nRU-версия — отличия: «За 2 месяца вы научитесь зарабатывать на крипторынке там, где другие теряют деньги»; «Jamoaga qo'shilish imkoniyati» переведено как «Возможность присоединиться к сообществу», в тарифах — «Возможность вступить в сообщество»; описание преподавателя и заголовки видео оставлены на узбекском; «3 персональных ZOOM-сессии с Мадиной К. за 2 месяца».\nТехника: GA4, Meta Pixel, GTM-5XW7TCSH (intel.json); Nuxt. Реклама: в ads_meta.csv 30 объявлений страницы «HBS academy Uzbekistan» (все активны, старт 24.07–11.09.2026), все ведут на мгновенные формы Meta (link_url http://fb.me/, CTA «Sign up»), на сайт — ни одного, поэтому message_match не заполнялся. Скриншот 390×844: первый экран — фото, название курса, подзаголовок, зелёная кнопка, начало блока «Ushbu Dastur Siz Uchun Agarda siz...»; текст совпадает с page.md."
+}

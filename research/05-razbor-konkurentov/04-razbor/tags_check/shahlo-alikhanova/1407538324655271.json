@@ -1,0 +1,70 @@
+{
+  "creative_id": "1407538324655271",
+  "platform": "meta",
+  "school_id": "shahlo-alikhanova",
+  "format": {
+    "type": "видео",
+    "duration_bucket": "≤15 с",
+    "aspect": "9:16"
+  },
+  "style": ["говорящая голова", "постановка или скетч"],
+  "hook": {
+    "verbatim": "SUN'IY INTELLEKT BILAN DAROMAD TOPISH VIDEO DARSLIGI",
+    "types": ["тренд ИИ", "результат или доход"],
+    "visual": ["лицо в первом кадре"],
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_hook.jpg 0.0s–2.5s: SUN'IY INTELLEKT BILAN DAROMAD TOPISH VIDEO DARSLIGI (женщина в узбекском национальном костюме наливает чай)",
+        "timecode": "00:00"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "2026. yir suni intelekt bilan daromad, o'qish videosini kursh chun,",
+        "timecode": "00:00"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["доход", "профессия будущего"],
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:01–0:07: SUN'IY INTELLEKT BILAN DAROMAD TOPISH VIDEO DARSLIGI",
+        "timecode": "00:01"
+      },
+      {
+        "source": "текст объявления",
+        "quote": "Biz O'zbekiston bozorini chuqur o'rganib chiqib, AI orqali daromad qilish mumkin bo'lgan 5 ta real yo'lni aniqladik."
+      }
+    ]
+  },
+  "offer": {
+    "items": ["бесплатный урок", "дедлайн или ограничение мест"],
+    "evidence": [
+      {
+        "source": "текст объявления",
+        "quote": "[BEPUL VIDEODARS] - Qanday Qilib Sun'iy Intellekt Orqali Daromad Qilish Mumkin?"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "chunki yakinda uchir varishadi.",
+        "timecode": "00:06"
+      }
+    ]
+  },
+  "cta": {
+    "button": "See details",
+    "in_creative": "перейти по ссылке",
+    "destination": "лендинг",
+    "funnel_stage": "вебинар или мастер-класс"
+  },
+  "speaker": {
+    "role": "актёр или ведущий"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": true,
+  "risk": false,
+  "confidence": "средняя",
+  "notes": "Ролик 8 с: женщина в национальном костюме наливает чай и зовёт смотреть видеоурок; по виду похоже на ИИ-генерацию (школа учит ИИ-аватарам), но в ролике это не сказано. Хук — постоянная плашка на кадрах; речь по расшифровке, написание исправлено: «2026-yil sun'iy intellekt bilan daromad topish videosini ko'rish uchun pastdagi tugmani bosib, videoni oxirigacha ko'rishni unutmang, chunki yaqinda o'chirib yuborishadi». «дедлайн» — «видео скоро удалят» (по расшифровке). Плашка дублирует ключевые слова речи → burned_subtitles true (неоднозначно: это заголовок, а не субтитры). Имя не звучит. «бесплатный урок» — записанный видеоурок; этап «вебинар или мастер-класс» — ближайший для видеоурока. Перевод хука: «Видеоурок: как зарабатывать с искусственным интеллектом»."
+}

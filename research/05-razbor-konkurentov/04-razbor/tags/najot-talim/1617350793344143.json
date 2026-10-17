@@ -1,0 +1,83 @@
+{
+ "creative_id": "1617350793344143",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": ">120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Avtobusda qatnaysizmi eng kamida? — Yo'q, haydovchim bor. Meni ismim Nosirxon,",
+  "types": [
+   "вопрос",
+   "история"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: субтитры собираются по словам поверх лица подростка: «Avtobusda» → «qatnaysizmi eng kamida?» → «Yo'q, haydovchim bor. Meni ismim Nosirxon,»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Aktovizakat nesim inqanmida?\n[00:01] Yo, shopurimda.\n[00:05] Man nasimim Nasir Khan, yashim 14-di,",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "статус",
+   "свой бизнес"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:16] Otonizmich qirishad?\n[00:17] Biznismeli adam,",
+    "timecode": "00:16"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:36] Yandix kampanyasi ishla shniyatmim ba?",
+    "timecode": "00:36"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[01:06] Balkin start-up qolarsiz?",
+    "timecode": "01:06"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "to'g'ri muhit va oiladagi tarbiya har qanday farzandni to'g'ri yo'naltirib, uning yutuqlariga sababchi bo'la olishini kuzatyapmiz"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Visit Instagram profile",
+  "in_creative": "слово в комментарии",
+  "destination": "Instagram",
+  "funnel_stage": "директ"
+ },
+ "speaker": {
+  "role": "ученик"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Видео с канала-отзывов «najottalim_talabalari»: интервью 14-летнего ученика (в кадре имя написано как «Nosirxon», по инструкции имя ученика не выношу в public_name). Хук — по субтитрам на кадре (надёжнее расшифровки): интервьюер спрашивает, ездит ли герой хотя бы на автобусе, тот отвечает, что у него есть личный водитель, и представляется. Расшифровка «Aktovizakat nesim inqanmida? Yo, shopurimda» — явные ошибки распознавания того же диалога, написание в hook.verbatim исправлено по кадру. Далее интервью о начале обучения в 14 лет, отце-бизнесмене, интересе к IT (упоминаются кампания Yandex, платформы «QOOP»), стартапам, дисциплине и чтению книг — общий посыл про статус семьи и предпринимательские амбиции ученика. Текст объявления шаблонный про «правильную среду воспитания» и приглашает в группы «yanvar oyida» (январь) со «специальными предложениями» без конкретики — расхождение по времени (объявление показов сентября 2026, а текст зовёт в январские группы) и оффер не расшифрован, поэтому offer.items = «без оффера». В расшифровке большой пропуск [...] в середине; итоговая часть — благодарность родителям, явного отдельного CTA в речи не слышно, весь призыв идёт через подпись объявления («➕» в комментариях) и кнопку Instagram."
+}

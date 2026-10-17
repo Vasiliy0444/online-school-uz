@@ -1,0 +1,74 @@
+{
+ "creative_id": "1372606148420516",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Bu sohani kimlarga tavsiya qilaman?",
+  "types": [
+   "вопрос"
+  ],
+  "visual": [
+   "лицо в первом кадре"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.5s: девушка снята через оверлей «видоискателя камеры» (ISO, батарея, REC) на фоне ч/б обоев с логотипами HTML/CSS/SQL",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Bu soxani kimlarga tavsiya qilaman?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "удалёнка и свобода",
+   "доход"
+  ],
+  "income_claim": "oylik maosh, o'rganish darajasiga qarab 500 dollardan 1000 dollargacha",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈0:08): коридор офиса ITHOUSE, на полу цифры «500$» и «1000$»",
+    "timecode": "00:08"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:05] Oylik maoxt, organish darijangizga qara 500 dollardan 1000 dollar gecam.",
+    "timecode": "00:05"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Короткий вариант ролика про web full stack (иная подача, чем у 1555109995724876/1305865178166269): формат «влог от первого лица» с эффектом видоискателя камеры, ходьба по коридору ITHOUSE с наложенными цифрами зарплаты на полу, смена фонов (ч/б обои с иконками технологий → красный занавес → зелёная стена с наклейкой «STACK»)."
+}

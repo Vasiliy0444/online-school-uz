@@ -1,0 +1,103 @@
+{
+ "url": "https://najottalim.uz/kurslar/sun-iy-intellekt-asoslari",
+ "school_id": "najot-talim",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "основной продукт",
+ "builder": "Next.js",
+ "pixels": [
+  "Google Analytics (GA4)"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Изучите искусственный интеллект у специалистов: за 16 уроков освойте AI-инструменты и повысьте продуктивность",
+  "quote": "Sunʼiy intellektni mutaxassislardan oʻrganing\n16 ta darsda AI vositalarini oʻzlashtirib, samaradorlikni oshiring.",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": true,
+  "value": "5 сегментов: у кого уже есть профессия и нужна продуктивность; чья работа — KPI, отчёты и презентации; кто хочет продуктивности в быту; кто создаёт контент и визуалы; предприниматели, SMM и маркетологи",
+  "quote": "Bu kurs kimlar uchun?\nOʻz kasbi bor, samaradorlikni oshirmoqchi boʻlganlar",
+  "where": "середина"
+ },
+ "program": {
+  "found": true,
+  "modules": 6,
+  "lessons": 16,
+  "duration": "2 месяца, 2 дня в неделю по 2 часа",
+  "format": "офлайн",
+  "quote": "2 oy · haftada 2 kun · 2 soat"
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [
+   "видеоотзывы",
+   "логотипы работодателей"
+  ],
+  "reviews_count": 11
+ },
+ "price": {
+  "found": true,
+  "tariffs": [
+   {
+    "name": "Toshkent shahri — помесячно",
+    "price_uzs": 1500000,
+    "period": "в месяц (курс 2 мес.)",
+    "quote": "Toshkent shahri\nMashhur\n1 500 000 soʻm/ oyiga"
+   },
+   {
+    "name": "Toshkent shahri — «Bittada toʻliq»",
+    "price_uzs": 3000000,
+    "period": "разово за весь курс",
+    "quote": "Bittada toʻliq3 000 000 soʻm"
+   },
+   {
+    "name": "Viloyatlar uchun — помесячно",
+    "price_uzs": 1250000,
+    "period": "в месяц (курс 2 мес.)",
+    "quote": "Viloyatlar uchun\n1 250 000 soʻm/ oyiga"
+   },
+   {
+    "name": "Viloyatlar uchun — «Bittada toʻliq»",
+    "price_uzs": 2500000,
+    "period": "разово за весь курс",
+    "quote": "Bittada toʻliq2 500 000 soʻm"
+   }
+  ]
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": true,
+  "value": "Грант Агентства по делам молодёжи «Kelajak kasblari»: если заявку одобрят, оплату курса покрывают — до 6 месяцев, до 1 млн 300 тыс. сум. Скидки за разовую оплату нет (3 000 000 = 2 × 1 500 000)",
+  "quote": "Yoshlar ishlari agentligining \"Kelajak kasblari\" granti asosida oʻqishingiz mumkin. Ariza tasdiqlansa, 6 oygacha 1 mln 300 minggacha kurs toʻlovi qoplab beriladi.",
+  "where": "низ страницы"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "notes": "По арифметике страницы: Toshkent shahri: 2 × 1 500 000 = 3 000 000; разово 3 000 000 (экономия 0) | Viloyatlar uchun: 2 × 1 250 000 = 2 500 000; разово 2 500 000 (экономия 0). Оплата: помесячно или «Bittada toʻliq» без скидки; явного деления платежа («Ikkiga boʻlib») нет, поэтому installments = не найдено. Рассрочки через банк или сервис (Uzum Nasiya, Alif) нет. В объявлениях Meta и в форме на поддомене этот курс называется «Prompt Injinering» (в форме — «Prompt injinering (Suniy intellekt asoslari)»); в каталоге помечен категорией «Dizayn». Блока дохода выпускников нет — курс продаётся как рост продуктивности, а не как новая профессия. Программа: 6 блоков — SI asoslari (3 темы), Generativ SI (4: ChatGPT, Midjourney, DALL·E, Jasper), Prompt Injinering (1), No-code avtomatlashtirish (3: Zapier, Make, Notion AI), Kontent, vizual, audio va tahlil (3), Real loyiha (1); lessons = 16 из подзаголовка «16 ta darsda». Две ценовые зоны: «Toshkent shahri» (метка «Mashhur») и «Viloyatlar uchun». Помесячная оплата («soʻm/ oyiga») — базовая цена обучения, по правилу не рассрочка. Видео «Bitiruvchi video-hikoyasi» (11) и 63 логотипа «Bitiruvchilarimiz ish joylari» одинаковые на всех страницах курсов — не про конкретный курс. Гарантии нет; в общем FAQ: «maʼlum shartlar asosida ish taklifi beriladi» (условия не раскрыты). Публичная оферта сайта (najottalim.uz/documents/oferta-nt.pdf, разбор — oferta-najottalim-uz-documents-oferta-nt-pdf-2d28fc.json) условий оплаты частями и возврата денег не содержит: она про бесплатные материалы онлайн-платформы, для платного обучения — отдельный договор (п. 2.2). Формат «офлайн» — вывод по странице: цены разные по филиалам/регионам и в FAQ перечислены филиалы; слова «oflayn» на странице нет. Кнопки «Roʻyxatdan oʻtish» в тексте без ссылки — видимо, открывают всплывающую форму; её полей в снимке нет, форму не открывали, поэтому fields не заполнены. Следующий шаг «звонок менеджера» — по форме на главной («biz siz bilan bogʻlanamiz»), на самой странице курса прямо не сказано. Скриншот (один кадр 390×844) показывает финальный призыв и подвал, а не первый экран — «первый экран» определён по порядку текста в page.md."
+}

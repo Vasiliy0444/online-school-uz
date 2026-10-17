@@ -1,0 +1,92 @@
+{
+ "creative_id": "1652973512619882",
+ "platform": "meta",
+ "school_id": "englify",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "постановка или скетч",
+  "статичный дизайн"
+ ],
+ "hook": {
+  "verbatim": "Ishingiz tufayli ingliz tilini o'rganishga vaqtingiz yo'q. Biz ishi bor, 25 yoshdan katta bo'lganlarga ingliz tilini o'rgatamiz.",
+  "types": [
+   "боль",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.0s: озвучка постановочного/сериального фрагмента (мужчина в сером костюме, похоже на зал суда, синие полосы сверху/снизу как под субтитры)",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.5s–2.5s: переход на ведущего (кудрявые волосы, полосатая рубашка, та же комната с картой и лампой, что и в 27173212025608226)",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Ishingi stufayliyi ingilisi lorgenishke vaqt izhiz. Bizi ise ishi bar yashi 25 ten kapitalage ingilisi lorgedim.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта",
+   "доверие и окупаемость"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:08: карточка «MS.MAFTUNA — English Instructor — Teaching Experience: 4+ years — Certifications: IELTS 8.5»",
+    "timecode": "00:08"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:14: «gapirsa tushunadigan»",
+    "timecode": "00:14"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:08] Darslarini 58 yarim va tori illik tajibage ege stuzlar olgim.",
+    "timecode": "00:08"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:18] Pastagi havala arkali roxatda otim, menajerlarim sizgi tolub malumat verishadim.",
+    "timecode": "00:18"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "ВАЖНАЯ НАХОДКА: в обзорном кадре — именная карточка преподавателя «MS.MAFTUNA, English Instructor, Teaching Experience 4+ years, Certifications IELTS 8.5» — это второе (помимо Teacher Azam) публично названное лицо бренда, судя по всему та самая учительница, на которую ссылается текст объявления creative_id 4713777208946963 («IELTS 8.5 va 4 yillik tajribaga ega ustozlardan ta'lim olasiz»). Однако говорит на камеру не она, а безымянный ведущий (кудрявые волосы) — карточка вставлена как доказательство квалификации преподавателей, поэтому public_name на неё не переношу (спикер ролика — не она), но упоминаю здесь для сведения при анализе бренд-персон. Хук — тот же приём «озвучки постановочного/сериального фрагмента», что и в 27173212025608226 (другой фрагмент, похож на зал суда), тот же шаблон текста «Ishingiz tufayli... vaqt yo'q»."
+}

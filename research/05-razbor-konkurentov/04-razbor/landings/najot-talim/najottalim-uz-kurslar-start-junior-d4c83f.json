@@ -1,0 +1,116 @@
+{
+ "url": "https://najottalim.uz/kurslar/start-junior",
+ "school_id": "najot-talim",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "основной продукт",
+ "builder": "Next.js",
+ "pixels": [
+  "Google Analytics (GA4)"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Будущее вашего ребёнка начинается здесь: IT-курс для подростков 15–17 лет (обращение к родителям)",
+  "quote": "Farzandingiz kelajagi shu yerdan boshlanadi\nStart Junior: 15–17 yoshlilar uchun AyTi kurs.",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": true,
+  "value": "Родители подростков 15–17 лет: хотят видеть ребёнка специалистом, поддержать интерес к IT, чтобы компьютер был не только для игр, развить логическое и креативное мышление, заложить фундамент профессии, занять время с пользой",
+  "quote": "Bu kurs kimlar uchun?\nFarzandini kelajakda mutaxassis sifatida koʻrmoqchi ota-onalar",
+  "where": "середина"
+ },
+ "program": {
+  "found": true,
+  "modules": 6,
+  "duration": "12 месяцев, 3 дня в неделю по 1,5 часа",
+  "format": "офлайн",
+  "quote": "12 oy · haftada 3 kun · 1,5 soat"
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [
+   "видеоотзывы",
+   "логотипы работодателей"
+  ],
+  "reviews_count": 11
+ },
+ "price": {
+  "found": true,
+  "tariffs": [
+   {
+    "name": "Toshkent shahri — помесячно",
+    "price_uzs": 1200000,
+    "period": "в месяц (курс 12 мес.)",
+    "quote": "Toshkent shahri\nMashhur\n1 200 000 soʻm/ oyiga"
+   },
+   {
+    "name": "Toshkent shahri — «Ikkiga boʻlib»",
+    "price_uzs": 6840000,
+    "period": "за каждый из 2 платежей (по арифметике страницы)",
+    "quote": "Ikkiga boʻlib6 840 000 soʻm (720 ming tejaysiz)"
+   },
+   {
+    "name": "Toshkent shahri — «Bittada toʻliq»",
+    "price_uzs": 12960000,
+    "period": "разово за весь курс",
+    "quote": "Bittada toʻliq12 960 000 soʻm (1 440 000 tejaysiz)"
+   },
+   {
+    "name": "Viloyatlar uchun — помесячно",
+    "price_uzs": 800000,
+    "period": "в месяц (курс 12 мес.)",
+    "quote": "Viloyatlar uchun\n800 000 soʻm/ oyiga"
+   },
+   {
+    "name": "Viloyatlar uchun — «Ikkiga boʻlib»",
+    "price_uzs": 4560000,
+    "period": "за каждый из 2 платежей (по арифметике страницы)",
+    "quote": "Ikkiga boʻlib4 560 000 soʻm (480 ming tejaysiz)"
+   },
+   {
+    "name": "Viloyatlar uchun — «Bittada toʻliq»",
+    "price_uzs": 8640000,
+    "period": "разово за весь курс",
+    "quote": "Bittada toʻliq8 640 000 soʻm (960 ming tejaysiz)"
+   }
+  ]
+ },
+ "installments": {
+  "found": true,
+  "value": "Явное деление платежа: «Ikkiga boʻlib» — курс двумя платежами (в Ташкенте по 6 840 000 сум за платёж — по арифметике страницы). Рассрочки через банк или сервис (Uzum Nasiya, Alif) нет.",
+  "quote": "Ikkiga boʻlib6 840 000 soʻm (720 ming tejaysiz)",
+  "where": "низ страницы"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": true,
+  "value": "Скидки за способ оплаты во всех ценовых зонах (Toshkent shahri, Viloyatlar uchun): двумя платежами («Ikkiga boʻlib») — экономия 720 000 сум, целиком («Bittada toʻliq») — 1 440 000 сум (цифры Ташкента); также грант Агентства по делам молодёжи «Kelajak kasblari»: если заявку одобрят, оплату курса покрывают — до 6 месяцев, до 1 млн 300 тыс. сум",
+  "quote": "Ikkiga boʻlib6 840 000 soʻm (720 ming tejaysiz)\nBittada toʻliq12 960 000 soʻm (1 440 000 tejaysiz) … Yoshlar ishlari agentligining \"Kelajak kasblari\" granti asosida oʻqishingiz mumkin. Ariza tasdiqlansa, 6 oygacha 1 mln 300 minggacha kurs toʻlovi qoplab beriladi.",
+  "where": "низ страницы"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "notes": "По арифметике страницы: Toshkent shahri: 12 × 1 200 000 = 14 400 000; 2 × 6 840 000 = 13 680 000 (экономия 720 000); разово 12 960 000 (экономия 1 440 000) | Viloyatlar uchun: 12 × 800 000 = 9 600 000; 2 × 4 560 000 = 9 120 000 (экономия 480 000); разово 8 640 000 (экономия 960 000). Программа: 6 блоков, 12 тем — компьютерная грамотность (Google Docs, Sheets, Canva), логика и алгоритмы, HTML/CSS, JavaScript (мини-проекты), Python (Telegram-бот), работа в команде; lessons не заполнено. Соцдоказательства взрослые: те же видео выпускников и логотипы работодателей, что у взрослых курсов. Блока требований к ноутбуку нет. Общий FAQ про возраст «16 yoshdan 35 yoshgacha» не стыкуется с курсом для 15–17. Объявления Meta для родителей говорят о подростках 14–17 лет и «4 mlnga yaqin bonuslar» в сентябре; на странице курса возраст 15–17 и бонусов нет. Две ценовые зоны: «Toshkent shahri» (метка «Mashhur») и «Viloyatlar uchun». Помесячная оплата («soʻm/ oyiga») — базовая цена обучения, по правилу не рассрочка. Видео «Bitiruvchi video-hikoyasi» (11) и 63 логотипа «Bitiruvchilarimiz ish joylari» одинаковые на всех страницах курсов — не про конкретный курс. Гарантии нет; в общем FAQ: «maʼlum shartlar asosida ish taklifi beriladi» (условия не раскрыты). Публичная оферта сайта (najottalim.uz/documents/oferta-nt.pdf, разбор — oferta-najottalim-uz-documents-oferta-nt-pdf-2d28fc.json) условий оплаты частями и возврата денег не содержит: она про бесплатные материалы онлайн-платформы, для платного обучения — отдельный договор (п. 2.2). Формат «офлайн» — вывод по странице: цены разные по филиалам/регионам и в FAQ перечислены филиалы; слова «oflayn» на странице нет. Кнопки «Roʻyxatdan oʻtish» в тексте без ссылки — видимо, открывают всплывающую форму; её полей в снимке нет, форму не открывали, поэтому fields не заполнены. Следующий шаг «звонок менеджера» — по форме на главной («biz siz bilan bogʻlanamiz»), на самой странице курса прямо не сказано. Скриншот (один кадр 390×844) показывает финальный призыв и подвал, а не первый экран — «первый экран» определён по порядку текста в page.md."
+}

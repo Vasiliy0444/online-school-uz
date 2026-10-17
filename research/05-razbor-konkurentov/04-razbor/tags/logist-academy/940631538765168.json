@@ -1,0 +1,81 @@
+{
+ "creative_id": "940631538765168",
+ "platform": "meta",
+ "school_id": "logist-academy",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Deklaratsiya: ha, yangi kasb, yangi imkoniyatlar,",
+  "types": [
+   "новость"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.5s–1.0s: «DEKLARATSIYA: HA,»; 1.5s–2.0s: «YANGI KASB,»; 2.5s: «YANGI KASB, YANGI IMKONIYATLAR,»; мужчина в чёрном костюме на жёлтом фоне LOGIST ACADEMY, иконка документа с лупой",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Deklaratsiya. Xa, yangi kasp, yangi imkonyatlar.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "быстрый старт"
+  ],
+  "income_claim": "ming dollar daromadga chiqish (bir yarim oy ichida) — по черновой расшифровке, написание исправлено",
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] ...bir yarim ayi ichida deklaratsiya kurslarimizda organingi va min dolar daromad kechqin.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:13: «TAJRIBAGA EGA»; ~0:31: «BILAN ISHLASHINGIZ»",
+    "timecode": "00:13"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный урок"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Batafsil ma'lumot uchun bizga murojaat qilib ochiq darsimizga yoziling💭"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Apply now",
+  "in_creative": "написать в директ",
+  "destination": "форма Meta",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Формат и подача хука похожи на креатив 952114621017880 той же школы (тот же жёлтый фон LOGIST ACADEMY, тема «Deklaratsiya», иконки поверх кадра), но другой спикер (мужчина). «min dolar» в расшифровке почти наверняка опечатка распознавания «ming dollar» (тысяча долларов) — исправил в income_claim, сырую цитату оставил в evidence. cta.in_creative «написать в директ» — по расшифровке [00:32] «Batapsali malamat uchun, direct gem rojat klink» (обратитесь в директ), при этом ссылка объявления — форма Meta (fb.me), а не Instagram/директ; расхождение между призывом в ролике и фактическим адресом ссылки. Обзорные кадры показывают ещё темы «EXPORT VA IMPORT», «TAJRIBAGA EGA», «SOATLAB KIM», «BILAN ISHLASHINGIZ» — вероятно про опыт экспорта-импорта у преподавателей курса."
+}

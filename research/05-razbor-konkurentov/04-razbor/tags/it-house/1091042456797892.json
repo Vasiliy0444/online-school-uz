@@ -1,0 +1,94 @@
+{
+ "creative_id": "1091042456797892",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "постановка или скетч",
+  "запись экрана"
+ ],
+ "hook": {
+  "verbatim": "Tajribangiz yo'q ekan deb hech qayerga ishga olishmayaptimi?",
+  "types": [
+   "боль",
+   "вопрос"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s: девушка «Tajribangiz yo'q ekan deb hech qayerga» → 1.0–2.5s: мужчина в костюме на скамейке с ноутбуком, огорчённая мимика, «ishga olishmayaptimi?»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Taj bez yog iken, dip hich qatki ishki olishmi yaptimi?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта"
+  ],
+  "income_claim": "AutoCAD o'rganing – $700–800 oylik daromad (текст объявления); в самом ролике фигурирует другая цифра — вакансии «interyer dizaynerlar» на hh.uz «400 dolardan 1200 dolargacha» (это зарплата по вакансии с сайта по поиску работы, не выпускника курса IT House)",
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "📐 AutoCAD o‘rganing – $700–800 oylik daromad sari yo‘l oching! … ✅ 0 dan AutoCAD o‘rganasiz"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈0:10): значок «hh» (HeadHunter), «interyer dizaynerlar uchun kompaniyalar»",
+    "timecode": "00:10"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:11] 400 dolardan 1200 dolar gechi tolashke tayyar.",
+    "timecode": "00:11"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (≈0:17): запись экрана AutoCAD (план комнаты) — «3 oy bepul amaliyot»",
+    "timecode": "00:17"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈0:24): «mutlaqo bepul ochiq dars bo'lib o'tadi»",
+    "timecode": "00:24"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук и «доказательство дохода» ролика — это ЗАРПЛАТА ПО ВАКАНСИИ ИНТЕРЬЕР-ДИЗАЙНЕРА со скриншота hh.uz (400–1200$), а не заработок выпускника AutoCAD-курса IT House; связь с курсом появляется только с ≈0:17 (запись экрана AutoCAD, «3 oy bepul amaliyot», «mutlaqo bepul ochiq dars»). Похоже на переиспользуемый шаблон-хук «зарплата по вакансии с hh.uz», который встречается и в других роликах этой подборки под разными темами курса (тот же приём — у 1388249096753064, 1537180601812232, 1499105538918220, 1427913545904151, 1770019914134512, 1053285614229296, 1817481843031892 — везде текст объявления про AutoCAD, но в видео озвучены вакансии интерьер-дизайнеров с HeadHunter; и отдельно — вариант с вакансиями веб-разработчиков у роликов про web full stack). confidence «средняя» из-за смешения двух разных зарплатных цифр в одном креативе."
+}

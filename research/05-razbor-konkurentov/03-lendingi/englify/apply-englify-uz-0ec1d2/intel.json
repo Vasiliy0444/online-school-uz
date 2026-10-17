@@ -1,0 +1,58 @@
+{
+ "url": "https://apply.englify.uz",
+ "domain": "apply.englify.uz",
+ "pages_scanned": [
+  "https://apply.englify.uz/"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)"
+  ],
+  "ad_pixel": [
+   "Meta Pixel"
+  ]
+ },
+ "seo_metadata": {
+  "title": "Englify ro&#39;yxatdan o&#39;tish sistemasi",
+  "description": "Englify ro&#39;yxatdan o&#39;tish sistemasi",
+  "open_graph": {
+   "title": "Englify ro&#39;yxatdan o&#39;tish sistemasi",
+   "description": "Englify ro&#39;yxatdan o&#39;tish sistemasi",
+   "url": "https://register.englify.uz",
+   "type": "website",
+   "locale": "en",
+   "site_name": "Englify"
+  },
+  "twitter_card": {
+   "card": "summary_large_image",
+   "site": "@onwidget",
+   "creator": "@onwidget"
+  },
+  "canonical": "https://register.englify.uz",
+  "headings": {
+   "h1": [
+    "Englify ro'yxatdan o'tish sistemasi."
+   ]
+  }
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [
+   "https://apply.englify.uz/headerLogo.svg"
+  ],
+  "total_images_found": 1
+ },
+ "integration_links": [],
+ "hidden_elements": {
+  "html_comments": [
+   "Yandex.Metrika counter",
+   "/Yandex.Metrika counter",
+   "Comment the line below to disable View Transitions"
+  ]
+ }
+}

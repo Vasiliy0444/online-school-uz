@@ -1,0 +1,84 @@
+{
+ "creative_id": "2161398011383654",
+ "platform": "meta",
+ "school_id": "englify",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "слайды или текст на экране",
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "Onlayn ingliz tili o'rgatamiz, degan e'lonlarni ko'p ko'rasiz. Lekin Englify nimasi bilan ajralib turadi va nima natija beradi?",
+  "types": [
+   "вопрос"
+  ],
+  "visual": [
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: эффект «увеличительное стекло» поверх скриншотов рекламных объявлений; крупно красным «Onlayn ingliz tili o'rgatamiz.» → «degan e'lonlarni ko'p ko'rasiz.»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:02] Lekin, Inglify nimasi baran ajiralib turadi, va nima natici beri aladi.",
+    "timecode": "00:02"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:11: «bu Garvard Universitetining» / «HARVARD UNIVERSITY» / «1-3-7»",
+    "timecode": "00:11"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:09] Bu, Gavard Univsitetinin 1, 3, 7 metri digi asaslanigyan bolib, u yirda siz sozlanig zirikmastan, hatta ki, yotlovatka iziyan bilmastan turuk orga nasilisi, va eni mukhumi, bir umurgi esizdi qaladi.",
+    "timecode": "00:09"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:25: «va eng muhimi» / ~0:32: «va ishonch hosil qiling.»",
+    "timecode": "00:32"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Ilovani yuklab olish uchun video ostidagi havolani bosing 👇 ILOVANI YUKLAB OLISH"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Install now",
+  "in_creative": "перейти по ссылке",
+  "destination": "приложение",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук в кадре — не говорящая голова, а эффект «лупы» поверх скриншотов чужих объявлений («Onlayn ingliz tili / Onlayn ingliz tili o'rgatamiz» и т.п.), затем крупный текст «Onlayn ingliz tili o'rgatamiz, degan e'lonlarni ko'p ko'rasiz» — вопрос-дифференциация («лекин Englify nimasi bilan ajralib turadi») достроен по расшифровке, во время хука лица в кадре нет. Далее в ролике — мужчина с замазанными (заблюренными) глазами на фоне города, рассказывает про метод Гарвардского университета «1-3-7» (интервалы повторения). Из-за анонимизации лица не берусь утверждать, что это тот же ведущий, что и в других роликах пачки — идентификация невозможна, public_name не проставляю. Отдельного оффера нет, только призыв скачать приложение (текст объявления)."
+}

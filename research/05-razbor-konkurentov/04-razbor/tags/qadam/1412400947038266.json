@@ -1,0 +1,109 @@
+{
+ "creative_id": "1412400947038266",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Uzum Marketdagi o'quvchimiz uy-ro'zg'or buyumlari sotib, bir oyda 1507000 so'm savdo aylanmasini qildi.",
+  "types": [
+   "соцдоказательство",
+   "результат или доход",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "таймер или обратный отсчёт"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Uzun markettagi oqochimiz uyur-uzur buyumlari sotub, bir oyda 1507000 som sa'adu aylamasini qildi.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s: таймер «00:36», «21+», значок Uzum; мужчина в костюме в машине ночью говорит в камеру",
+    "timecode": "00:00"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 1.5s: две иконки бытовых приборов поверх кадра",
+    "timecode": "00:01"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.5s: «1 OY DAVOMIDA»",
+    "timecode": "00:02"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "свой бизнес",
+   "доход",
+   "без опыта"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Uzumda o'z biznesingizni xavf-xatarsiz yo'lga qo'ying!"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:19] Shokursda biz sizgi dokan achishtan bashlab, daramatli maqsilatlarin tanlab, ularin sato gachikarish,",
+    "timecode": "00:19"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:25] wa saada jarayanlarin aftamatilashdirishke chebolgan jarayanin noldan orgatib baramiz.",
+    "timecode": "00:25"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:33] Khazrak ariza qaldirin, wa uzun marketta daramat qilishni biz bilan baslayin.",
+    "timecode": "00:33"
+   }
+  ],
+  "revenue_claim": "bir oyda 1507000 so'm savdo aylanmasi (по черновой расшифровке, разряды не подтверждены кадром)"
+ },
+ "offer": {
+  "items": [
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈00:33): «JOYLAR SONI CHEKLANGAN»",
+    "timecode": "00:33"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:30] Yangi guruklarimizgi qabul achib, lekin jalar sona chekilangi.",
+    "timecode": "00:30"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "основатель или эксперт",
+  "public_name": "Sarvar Xayrullayev"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук по расшифровке, написание исправлено («oqochimiz uyur-uzur buyumlari sotub … sa'adu aylamasini» → «o'quvchimiz uy-ro'zg'or buyumlari sotib … savdo aylanmasini»); кадрами подтверждены только «1 OY DAVOMIDA» и иконки бытовых товаров. Сумма «1507000 so'm» взята из расшифровки как есть — разрядность по кадрам не проверена. Это оборот ученика, не доход — income_claim не заполнен. Спикер представляется (запись [00:09]): «Men Xayrullayev Sarvar, marketpleyslarda 5 milliarddan ortiq savdo aylanmasiga ega bo'lgan sotuvchi hisoblanaman», «3 yillik tajribamni … bitta amaliy kursga yig'dim» → роль «основатель или эксперт». Имя восстановлено по двум черновым расшифровкам (здесь «khayrlayi sarvab», в 1361488052487340 «xarulayef sarvar»), на кадрах не написано — написание проверить. Курс: от открытия магазина и выбора прибыльных товаров до автоматизации продаж, с нуля. Призыв: «Hoziroq ariza qoldiring» (написание исправлено). Текст объявления обещает старт «xavf-xatarsiz» — risk не ставлю: сумм дохода нет."
+}

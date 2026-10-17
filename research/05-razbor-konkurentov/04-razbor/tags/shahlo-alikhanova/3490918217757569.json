@@ -1,0 +1,97 @@
+{
+ "creative_id": "3490918217757569",
+ "platform": "meta",
+ "school_id": "shahlo-alikhanova",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "нарезка эфира или подкаста"
+ ],
+ "hook": {
+  "verbatim": "Bu o'quvchilarimiz — AI orqali daromad topishyapti.",
+  "types": [
+   "соцдоказательство",
+   "результат или доход"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s: «Bu o'quvchilarimiz» — мужчина в очках, кудрявые волосы, говорит на камеру",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.0s–1.5s: «Bu o'quvchilarimiz AI orqali daromad» — женщина в хиджабе у баннера «AI CREATOR[S] ...AN AI EKSPERT[LAR]» с цифровым билбордом «TURKIYA SAFARIGA YO'LLANMA!»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s–2.5s: «oldim 18-19 atrofidagi» / «Assalomu Alaykum topib kelishyapti,» — двое (мужчина и женщина в хиджабе) сидят за столом",
+    "timecode": "00:02"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость",
+   "статус",
+   "доход"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:13] Chupayat kechi, bir yarimgi yakunan kursi lan okutikyan bozik, [00:15] kursi lanimiz 90% diyaliziz maqsatlargi erishib, yorlan top geldi.",
+    "timecode": "00:13"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg (~0:24): «AIni vohliroq bilishgani» — ребёнок с бутылочкой, кадр повторяет формулировку из другого креатива порции («CHUNKI ULARNI bitta farqi AI kerakligini vaqtida bilishgani»)",
+    "timecode": "00:24"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg (~0:17): «o'quvchilarimiz 90% deyarli o'zlari» — мужчина выступает на сцене с презентацией",
+    "timecode": "00:17"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный урок"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "[BEPUL VIDEODARS] - Qanday Qilib Sun'iy Intellekt Orqali Daromad Qilish Mumkin?"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:23] pastegi tugmani basib videonu kori,",
+    "timecode": "00:23"
+   }
+  ]
+ },
+ "cta": {
+  "button": "See details",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "основатель или эксперт"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Впервые в порции появляется мужчина-соведущий (очки, кудрявые волосы, футболка с логотипом «AI CREATORS STUDIO» — виден в других креативах этой же пары, напр. 4680242528865939, 1435474551826514, 1574056041169618, 1661650509022254). Он говорит «bu o'quvchilarimiz» (наши ученики) от первого лица множественного числа вместе с Shahlo — похоже на совместный проект/бренд «AI Creators Studio». Кто именно из двоих говорит в кадре 18-19 (пара за столом) — не разобрать по стоп-кадрам, поэтому public_name не указываю (не уверен, что это голос Shahlo, а не соведущего или самих учеников). Цифра «18-19 atrofidagi» (около 18-19) на кадре — не полное предложение, единица измерения и валюта не видны, дословно привожу как есть, в income_claim не переношу из-за неполноты. Билборд «TURKIYA SAFARIGA YO'LLANMA!» (путёвка в Турцию) похож на приз/розыгрыш внутри программы — в offer.items не включаю «бонус», так как из кадра не ясно, это условие текущего оффера или фон мероприятия. Расшифровка финала (написание исправлено): «Chunki kechagi bir yarim yillik kursimizni o'qitgan bo'lsak, kurslarimizning 90 foizi deyarli maqsadlariga erishib, yaxshi natija topgan. Endi sizam ulardan bo'lib, 2026-yil O'zbekistonda daromad topishni o'rganmoqchi bo'lsangiz, pastagi tugmani bosib videoni ko'ring» — заявление про 90% успешных учеников за полтора года — количественная доля, для отчёта не считаю сама (это делает aggregate.py), просто фиксирую формулировку."
+}

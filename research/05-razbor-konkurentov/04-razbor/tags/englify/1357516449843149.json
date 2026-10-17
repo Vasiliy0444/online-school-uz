@@ -1,0 +1,89 @@
+{
+ "creative_id": "1357516449843149",
+ "platform": "meta",
+ "school_id": "englify",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Sizga umuman farqi yo'q, bo'lishi kerak bo'lgan narsalar bor.",
+  "types": [
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.5s: «sizga umuman farqi yo'q»; девушка с вьющимися волосами в комнате, держит маленькую пушистую игрушку",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s–2.5s: «bo'lishi kerak bo'lgan narsalar»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Sizgi umu manfarqa yog bolish kerey bagay narsala.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:13] Adi qvalitni narmali urvingi egi bolgan insan, hich qachan sizin ostizdan kulmidi.",
+    "timecode": "00:13"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:51] sun in intelektin ozy, sizni dara jezgi moslashib, siz bilan suhbat kurarkam.",
+    "timecode": "00:51"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:55] Eyn muxumam, xataq qil samam xichkim ustumdan kulmida, va xotir jam mashqil alima.",
+    "timecode": "00:55"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Ilovani yuklab olish uchun video ostidagi havolani bosing 👇 ILOVANI YUKLAB OLISH"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Install now",
+  "in_creative": "перейти по ссылке",
+  "destination": "приложение",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "ученик"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Личный отзыв от первого лица (девушка с игрушкой в руках, домашняя обстановка): «сколько бы ни было разницы/стеснения — важно, чтобы никто не смеялся над ошибками». По расшифровке (написание исправлено, смысл сохранён): нормальный человек никогда не будет смеяться над тобой; важен результат окружающих; и произношение — три довода, почему не нужно стесняться; дальше — рассказ о разговорном ИИ-партнёре Englify, который подстраивается под уровень говорящего и не смеётся над ошибками. Текст объявления в этой версии — стандартный «[ILOVANI YUKLAB OLING!]» без упоминания «teacherazam», поэтому public_name не проставляю. Расшифровка вне хука сильно искажена, поэтому уверенность средняя."
+}

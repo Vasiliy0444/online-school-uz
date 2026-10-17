@@ -1,0 +1,86 @@
+{
+ "url": "https://mini-web.englify.uz/r6d1ks",
+ "school_id": "englify",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "вебинар или мастер-класс",
+ "builder": "своя сборка (фреймворк не определён)",
+ "pixels": [
+  "Google Analytics (GA4)"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Бесплатный мастер-класс: учить английский в 2 раза быстрее с искусственным интеллектом; методика — заговорить за 30 дней (про ИИ — только заголовок, дальше на странице ни слова)",
+  "quote": "BEPUL MASTER-KLASS\n22-23-24 Sentyabr·Soat 20:00\nSunʼiy intellekt bilan ingliz tilini 2x tezroq oʻrganish",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "program": {
+  "found": true,
+  "duration": "22, 23 и 24 сентября в 20:00 — одна встреча на выбор или серия из трёх, на странице не сказано",
+  "format": "неизвестно",
+  "quote": "Master-klassda siz:\n30 kunda ingliz tilida gapirishni boshlash metodikasini\nYodlagan soʻzlaringizni amalda ishlatishni\nTushunib, gapirolmaslikdan → Tez va ravon gaplashishga oʻtishni oʻrganasiz"
+ },
+ "speaker": {
+  "found": true,
+  "value": "Teacher Azam — подпись (alt) фото ведущего на первом экране; в видимом тексте имени нет, в описании страницы — «Teacher Azam bilan bepul master-klass…»",
+  "quote": "Teacher Azam",
+  "where": "первый экран"
+ },
+ "social_proof": {
+  "types": [
+   "нет"
+  ]
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "бесплатный мастер-класс («BEPUL MASTER-KLASS») — цены нет, цена курса не упоминается"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": true,
+  "value": "Даты мастер-класса: 22, 23 и 24 сентября в 20:00 (год не указан; снимок от 16.09.2026)",
+  "quote": "22-23-24 Sentyabr·Soat 20:00",
+  "where": "первый экран"
+ },
+ "form": {
+  "present": true
+ },
+ "next_step": "Telegram-канал",
+ "closed": true,
+ "message_match": {
+  "library_id": "3176172552568431",
+  "scores": {
+   "promise_continuity": 4,
+   "language_match": 5,
+   "visual_continuity": 6,
+   "cta_alignment": 8,
+   "specificity_match": 4,
+   "emotional_match": 5
+  },
+  "total_of_60": 32
+ },
+ "notes": "Вариант страницы бесплатного мастер-класса (общее описание серии — в разборе mini-web-englify-uz-p4v9tz-3d58b4) с самой большой рекламной поддержкой: зелёная тема, фото ведущего, указывающего вверх; меню «Master-klass», «Dastur»; пункты — набор «30 kunda … / Yodlagan … / Tushunib, gapirolmaslikdan → …». Формы в тексте снимка и на скриншоте нет — только кнопки «ROʻYXATDAN OʻTISH»; по вставкам «englify-modal-fix» и «englify-phone-intl» форма, видимо, во всплывающем окне: form.present = true, поля не указаны. Слова «efir» нет — format «неизвестно» (в роликах — «bepul online masterclass»). Цены, отзывов, оферты нет. Куда ведёт регистрация, на странице не сказано; next_step «Telegram-канал» — по роликам (регистрация и закрытый Telegram-канал). Техника: в intel.json только GA4; вставки englify-*. Реклама: 14 объявлений, все с 14.09.2026 (3 дня), без рангов, один текст с вставкой «(CEFER)»: «… IELTS yoki milliy sertifikatidan (CEFER) yuqori ball olish uchun nimalar qilish kerakligi haqida batafsil gaplashamiz. MASTER-KLASSDA QATNASHISH». Роликов — много разных: 11 из 14 расшифрованы (черновые), хуки: «после работы нет ни сил, ни времени, всё откладываете на завтра» (3 ролика), учителям школ — сертификат B2 освобождает от аттестации раз в 5 лет и даёт первую категорию, «+20% к зарплате», B2 становится обязательным (3), карьера и рост зарплаты благодаря английскому (2), «с нуля заговорите за 30 дней» (2), «знаете, что с ИИ английский можно учить в 2 раза быстрее?» (1 — 1094054749788000, заголовок страницы повторяет именно его). То есть одна страница с заголовком про ИИ принимает трафик 14 роликов с разными хуками. message_match: объявление 3176172552568431 — все 14 равны по дням и без рангов, взято первое по списку ads_meta.csv из расшифрованных. Ролик (черновая расшифровка, 26 с): ведущий идёт к камере в парке, титры по словам «ISHDAN KELASIZ VA INGLIZ TILNII O‘RGANISHGA NA KUCH NA VAQT» — приходите с работы уставшим, на английский нет ни сил, ни времени, откладываете «на завтра»; «Teacher Azam», 13 лет опыта; 22–24 сентября бесплатный онлайн-мастер-класс — как легко запоминать до 50 слов в день и применять их; регистрация по ссылке и закрытый Telegram-канал. С этим роликом страница совпадает слабо: ни усталости и нехватки времени, ни 50 слов, ни B2 на странице нет; общие — «bepul», даты и пункт «Yodlagan soʻzlaringizni amalda ishlatishni»; с текстом рекламы — «30 kunda … gapirishni boshlash» и «Tushunib, gapirolmaslikdan». Обещания роликов для учителей («+20% к зарплате» за B2) — доходные, но на странице их нет."
+}

@@ -1,0 +1,70 @@
+{
+ "url": "https://qadam.education",
+ "domain": "qadam.education",
+ "pages_scanned": [
+  "https://qadam.education/naym-quiz"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)",
+   "Google Tag Manager"
+  ],
+  "ad_pixel": [
+   "Meta Pixel"
+  ]
+ },
+ "seo_metadata": {
+  "title": "Copy of Qadam Education - Jamoamizga qo'shilish",
+  "description": "Jamoamizga qo&#039;shilish uchun quyidagi qisqa so&#039;rovnomani to&#039;ldiring",
+  "open_graph": {
+   "url": "https://qadam.education/naym-quiz",
+   "title": "Copy of Qadam Education - Jamoamizga qo&#039;shilish",
+   "description": "Jamoamizga qo&#039;shilish uchun quyidagi qisqa so&#039;rovnomani to&#039;ldiring",
+   "type": "website",
+   "image": "https://static.tildacdn.net/tild3162-3234-4237-a662-356237333232/Frame_181.png"
+  },
+  "canonical": "https://qadam.education/naym-quiz"
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [
+   "https://static.tildacdn.net/tild3066-3162-4031-b666-393330666562/Frame_1948759361.svg",
+   "https://static.tildacdn.net/tild3439-6664-4662-a663-363666336233/Frame_1948759364.svg",
+   "https://static.tildacdn.net/tild3534-3762-4061-a364-626665646536/Frame_1948759366.svg",
+   "https://static.tildacdn.net/tild3538-3066-4366-b062-643535663738/Frame_1948759365.svg",
+   "https://static.tildacdn.net/tild6234-6466-4338-a134-633764613735/Frame_1948759362.svg",
+   "https://static.tildacdn.net/tild6637-3163-4433-b363-366333383363/Frame_1948759363.svg"
+  ],
+  "total_images_found": 27
+ },
+ "integration_links": [],
+ "hidden_elements": {
+  "html_comments": [
+   "metatextblock",
+   "/metatextblock",
+   "Meta Pixel Code",
+   "End Meta Pixel Code",
+   "Yandex.Metrika counter",
+   "/Yandex.Metrika counter",
+   "nominify end",
+   "Global Site Tag (gtag.js) - Google Analytics",
+   "nominify end",
+   "/allrecords",
+   "Yandex.Metrika counter 102020541",
+   "/Yandex.Metrika counter"
+  ]
+ },
+ "google_ids": {
+  "ga4": [
+   "G-PTHDY45413"
+  ],
+  "gtm": [
+   "GTM-T5VCRHRZ"
+  ]
+ }
+}

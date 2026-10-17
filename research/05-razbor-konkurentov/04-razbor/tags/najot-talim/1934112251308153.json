@@ -1,0 +1,71 @@
+{
+ "creative_id": "1934112251308153",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Mening ismim Dilafruz, o'n sakkiz yoshdaman.",
+  "types": [
+   "история",
+   "соцдоказательство"
+  ],
+  "visual": [
+   "лицо в первом кадре"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:03] Bani, sinimim Dila Frust, onsakiz yosh dama.",
+    "timecode": "00:03"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: девушка в клетчатом жилете со слезами держит микрофон (видоискатель REC/ISO/F1.8), в нижней половине кадра — тот же ведущий в бежевом поло/пиджаке, что и в других роликах серии",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость",
+   "для регионов"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Yaxshilik albatta qaytadi... Unga berilgan kichik ishonchni katta yutuqlar bilan oqlashiga tilakdoshmiz."
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:10: плашка «NAJOT TA'LIM markazi — Farg'ona filial — 78-888-9-888»"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Visit Instagram profile",
+  "in_creative": "слово в комментарии",
+  "destination": "Instagram",
+  "funnel_stage": "директ"
+ },
+ "speaker": {
+  "role": "ученик"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "Отзыв ученицы (канал «najottalim_talabalari», Фаргона филиал), имя в тексте объявления и расшифровке — «Dilafruz», по инструкции не выношу в speaker. Первые 1–2 секунды речи [00:00]–[00:01] («Chini vireydi... ma chini vireydi, ingalash katmas?») слишком искажены, чтобы уверенно восстановить смысл — девушка на кадре уже плачет/эмоциональна, вероятно, это эмоциональное восклицание перед представлением; за верифицируемый хук взята следующая разборчивая фраза-самопредставление [00:03], написание исправлено. Тот же ведущий в бежевом пиджаке (хекс-паттерн стены), что и в роликах 1617350793344143, 1087002090576562, 28276330625311410, 1392236889016218, 988132390961240 — похоже на постоянного интервьюера серии отзывов. Тема ролика («Yaxshilik albatta qaytadi», «kichik ishonchni katta yutuqlar bilan oqlash») хорошо ложится на тег «доверие и окупаемость». Оффера нет, призыв — «➕» в комментариях."
+}

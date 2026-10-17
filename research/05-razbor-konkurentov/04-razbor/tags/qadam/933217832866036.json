@@ -1,0 +1,101 @@
+{
+ "creative_id": "933217832866036",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Uzumda savdo qilmoqchi edingiz, ammo noto'g'ri mahsulot tanlashdan qo'rqyapsizmi?",
+  "types": [
+   "вопрос",
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "таймер или обратный отсчёт",
+   "логотип площадки (Uzum и т.п.)"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s: таймер «00:58», «21+»; ведущая наливает напиток из термоса и говорит в камеру",
+    "timecode": "00:00"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.5s: логотип Uzum Market поверх кадра",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.5s: «NOTO'G'RI MAHSULOT»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Uzumda savda qilmok chaydengiz, amma no togri maksulot tanilashdan korqayapsizmim?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость",
+   "доход"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 1 из 4 (≈00:08): «savdoni boshlamaydi»",
+    "timecode": "00:08"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:06] Kopchilik uzum marketa savdanu boshlamaydi. Asosiy sabab, korqu borligi.",
+    "timecode": "00:06"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:10] Shunin chun bizning kursda aloqida maksulot tanilashki modul bagishlangyan.",
+    "timecode": "00:10"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:43] Bizni uqutizmimiz boyi qa, alli qo 2-3 mina ortog qadam yudigishin bitiruxilari daromat topishmokta.",
+    "timecode": "00:43"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Biz “tez va oson” demaymiz. Biz tizim va qo‘llab-quvvatlash beramiz."
+   }
+  ],
+  "revenue_claim": "5 mlrd so‘mdan ortiq aylanma (автор курса, текст объявления; в речи — «5 milyard somda artik aylanmagi egi mutaqasis»)"
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Apply now",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Ретаргетинг (/uzum-retarget). Хук — текст на кадре «NOTO'G'RI MAHSULOT», полная фраза по расшифровке, написание исправлено («savda qilmok chaydengiz, amma no togri maksulot tanilashdan korqayapsizmim» → «savdo qilmoqchi edingiz, ammo noto'g'ri mahsulot tanlashdan qo'rqyapsizmi»). Перевод: «хотели торговать на Uzum, но боитесь выбрать не тот товар?». Дальше: большинство не начинает из-за страха; в курсе отдельный модуль по выбору товара; спикер курса — Xayrullayev Sarvar ([00:14], в речи «Khayrulayev Sarvar»), 3 года опыта и оборот 5+ млрд сумов; отзывы учеников (кадр 3 из 4 — ученик с сертификатом Qadam, субтитр «hozir kuniga»; сумма не видна, в расшифровке пропуск 00:34–00:43); сертификат; выпускники зарабатывают; офис в центре Ташкента (кадр 4 — карта «Toshkent Shaharining markazida»). Говорит ведущая, автор в кадрах не виден → «актёр или ведущий». Призыв [00:58]: «Ariza qoldiring va biz siz bilan bog'lanamiz» → форма; оффера нет."
+}

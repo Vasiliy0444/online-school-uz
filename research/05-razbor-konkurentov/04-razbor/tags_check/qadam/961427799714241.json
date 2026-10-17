@@ -1,0 +1,83 @@
+{
+  "creative_id": "961427799714241",
+  "platform": "meta",
+  "school_id": "qadam",
+  "format": {
+    "type": "видео",
+    "duration_bucket": "61–120 с",
+    "aspect": "9:16"
+  },
+  "style": ["постановка или скетч", "говорящая голова", "отзыв ученика"],
+  "hook": {
+    "verbatim": "Bratan, zdrasti. O'zbekchani bilasizmi?",
+    "types": ["вопрос", "история"],
+    "visual": ["движение или смена кадра"],
+    "evidence": [
+      {
+        "source": "кадр без текста",
+        "quote": "sheet_hook.jpg 0.0s–2.5s: чёрно-белая съёмка «как на камеру» (рамка REC, батарея): на улице у машин мужчина в чёрной футболке и белых брюках подходит к другому и уходит; текста нет",
+        "timecode": "00:00"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Buratan, zrasti. Ozbek sinifani va ithid?",
+        "timecode": "00:00"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["свой бизнес", "статус", "удалёнка и свобода", "доверие и окупаемость"],
+    "revenue_claim": "40 000 000 AYLANMA; umumiy aylanmamiz 137 millionga chiqdi; bir oy ichida 30 millionga yaqin aylanma",
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:58: 40 000 000 AYLANMA (ученик в пиджаке)",
+        "timecode": "00:58"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Umumi abarotimiz 137 mili angi chikdiz u marketdi.\n[00:48] Abarotimizi 40 mili naqshu atdi.\n[00:50] Bar ay ichidi 30 mili nchi navirni abarot boldi.",
+        "timecode": "00:46"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Imdan tashqara otargan cayizda, u izda yoki ofisizdi,",
+        "timecode": "00:23"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Mitte, bat afsil chunturimu, uzu marketdi saadaqilish orginlani,\n[00:33] shishani qaddi biznismen bubketiz.",
+        "timecode": "00:29"
+      },
+      {
+        "source": "кадр без текста",
+        "quote": "sheet_overview.jpg ~0:12 и ~0:35: мужчина у фиолетового спорткара",
+        "timecode": "00:12"
+      }
+    ]
+  },
+  "offer": {
+    "items": ["рассрочка"],
+    "evidence": [
+      {
+        "source": "расшифровка",
+        "quote": "Tolu olayan, xalasiz lakti diz, xalasiz bolib toleshgan,",
+        "timecode": "01:11"
+      }
+    ]
+  },
+  "cta": {
+    "button": "Learn more",
+    "in_creative": "заполнить форму",
+    "destination": "лендинг",
+    "funnel_stage": "основной продукт"
+  },
+  "speaker": {
+    "role": "блогер"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": false,
+  "risk": false,
+  "confidence": "низкая",
+  "notes": "Та же серия, что 938821005625255 (блогер со спорткаром, UTM UZUM_BLOGER_INOMARKA), другое начало: чёрно-белая «уличная» сценка — блогер подходит к прохожему («Bratan, zdrasti…»), шутит про знание узбекского и способы заработка, предлагает научить продавать на Uzum Market. Хук по расшифровке, написание исправлено, но первая фраза (частично по-русски) разобрана неуверенно, текста на кадрах нет → confidence «низкая». Дальше: торговать можно из дома или офиса, без аренды точки («удалёнка и свобода»); обороты учеников — на кадре «40 000 000 AYLANMA», в речи «137 mili», «30 mili» (неуверенно); учиться онлайн или офлайн; оплата наличными или частями («рассрочка»); призыв оставить данные — перезвонят («Hazi malamatizu qaldirsiz, uzligi alaqa içqib, yenə batafsil malamat birisadi», 01:25) → «заполнить форму». Имя блогера не звучит. risk не отмечен: «станете крупным бизнесменом» без сумм дохода и гарантий. Перевод хука (приблизительно): «Братан, здрасьте. Узбекский знаешь?»"
+}

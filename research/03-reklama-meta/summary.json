@@ -1,0 +1,972 @@
+{
+ "queries": 136,
+ "queries_blocked_suspected": 0,
+ "cards_total": 2648,
+ "unique_ads": 2104,
+ "lang": {
+  "uz-lat": 1115,
+  "uz+ru": 132,
+  "unknown": 265,
+  "en": 299,
+  "uz-cyr": 97,
+  "ru": 196
+ },
+ "uzbek_info_ads": 832,
+ "uzbek_info_advertisers": 292,
+ "risk_ads": 46,
+ "evergreen_ads": 311,
+ "per_query": [
+  {
+   "query": "bepul vebinar",
+   "group": "voronki",
+   "cards": 21,
+   "advertisers": 4,
+   "blocked_suspected": false
+  },
+  {
+   "query": "vebinar",
+   "group": "voronki",
+   "cards": 21,
+   "advertisers": 6,
+   "blocked_suspected": false
+  },
+  {
+   "query": "onlayn vebinar",
+   "group": "voronki",
+   "cards": 19,
+   "advertisers": 4,
+   "blocked_suspected": false
+  },
+  {
+   "query": "bepul master-klass",
+   "group": "voronki",
+   "cards": 27,
+   "advertisers": 6,
+   "blocked_suspected": false
+  },
+  {
+   "query": "master klass",
+   "group": "voronki",
+   "cards": 23,
+   "advertisers": 17,
+   "blocked_suspected": false
+  },
+  {
+   "query": "marafon",
+   "group": "voronki",
+   "cards": 14,
+   "advertisers": 11,
+   "blocked_suspected": false
+  },
+  {
+   "query": "bepul marafon",
+   "group": "voronki",
+   "cards": 18,
+   "advertisers": 3,
+   "blocked_suspected": false
+  },
+  {
+   "query": "intensiv",
+   "group": "voronki",
+   "cards": 30,
+   "advertisers": 15,
+   "blocked_suspected": false
+  },
+  {
+   "query": "bepul dars",
+   "group": "voronki",
+   "cards": 29,
+   "advertisers": 18,
+   "blocked_suspected": false
+  },
+  {
+   "query": "bepul darslar",
+   "group": "voronki",
+   "cards": 30,
+   "advertisers": 17,
+   "blocked_suspected": false
+  },
+  {
+   "query": "ochiq dars",
+   "group": "voronki",
+   "cards": 29,
+   "advertisers": 11,
+   "blocked_suspected": false
+  },
+  {
+   "query": "jonli efir",
+   "group": "voronki",
+   "cards": 25,
+   "advertisers": 9,
+   "blocked_suspected": false
+  },
+  {
+   "query": "mini kurs",
+   "group": "voronki",
+   "cards": 12,
+   "advertisers": 9,
+   "blocked_suspected": false
+  },
+  {
+   "query": "kurs",
+   "group": "voronki",
+   "cards": 30,
+   "advertisers": 22,
+   "blocked_suspected": false
+  },
+  {
+   "query": "onlayn kurs",
+   "group": "voronki",
+   "cards": 29,
+   "advertisers": 14,
+   "blocked_suspected": false
+  },
+  {
+   "query": "onlayn maktab",
+   "group": "voronki",
+   "cards": 12,
+   "advertisers": 3,
+   "blocked_suspected": false
+  },
+  {
+   "query": "ro'yxatdan o'ting",
+   "group": "voronki",
+   "cards": 25,
+   "advertisers": 22,
+   "blocked_suspected": false
+  },
+  {
+   "query": "joylar soni cheklangan",
+   "group": "voronki",
+   "cards": 29,
+   "advertisers": 19,
+   "blocked_suspected": false
+  },
+  {
+   "query": "chegirma",
+   "group": "voronki",
+   "cards": 27,
+   "advertisers": 17,
+   "blocked_suspected": false
+  },
+  {
+   "query": "oqim",
+   "group": "voronki",
+   "cards": 9,
+   "advertisers": 8,
+   "blocked_suspected": false
+  },
+  {
+   "query": "bepul konsultatsiya",
+   "group": "voronki",
+   "cards": 27,
+   "advertisers": 18,
+   "blocked_suspected": false
+  },
+  {
+   "query": "bepul qo'llanma",
+   "group": "voronki",
+   "cards": 25,
+   "advertisers": 7,
+   "blocked_suspected": false
+  },
+  {
+   "query": "qo'llanma",
+   "group": "voronki",
+   "cards": 25,
+   "advertisers": 12,
+   "blocked_suspected": false
+  },
+  {
+   "query": "darslik",
+   "group": "voronki",
+   "cards": 26,
+   "advertisers": 11,
+   "blocked_suspected": false
+  },
+  {
+   "query": "mentorlik",
+   "group": "voronki",
+   "cards": 8,
+   "advertisers": 7,
+   "blocked_suspected": false
+  },
+  {
+   "query": "kurator",
+   "group": "voronki",
+   "cards": 26,
+   "advertisers": 7,
+   "blocked_suspected": false
+  },
+  {
+   "query": "бепул вебинар",
+   "group": "voronki",
+   "cards": 0,
+   "advertisers": 0,
+   "blocked_suspected": false
+  },
+  {
+   "query": "вебинар",
+   "group": "voronki",
+   "cards": 29,
+   "advertisers": 17,
+   "blocked_suspected": false
+  },
+  {
+   "query": "марафон",
+   "group": "voronki",
+   "cards": 30,
+   "advertisers": 14,
+   "blocked_suspected": false
+  },
+  {
+   "query": "бепул дарс",
+   "group": "voronki",
+   "cards": 12,
+   "advertisers": 5,
+   "blocked_suspected": false
+  },
+  {
+   "query": "онлайн курс",
+   "group": "voronki",
+   "cards": 30,
+   "advertisers": 15,
+   "blocked_suspected": false
+  },
+  {
+   "query": "курс",
+   "group": "voronki",
+   "cards": 29,
+   "advertisers": 23,
+   "blocked_suspected": false
+  },
+  {
+   "query": "рўйхатдан ўтинг",
+   "group": "voronki",
+   "cards": 30,
+   "advertisers": 9,
+   "blocked_suspected": false
+  },
+  {
+   "query": "мастер-класс",
+   "group": "voronki",
+   "cards": 28,
+   "advertisers": 24,
+   "blocked_suspected": false
+  },
+  {
+   "query": "жонли эфир",
+   "group": "voronki",
+   "cards": 0,
+   "advertisers": 0,
+   "blocked_suspected": false
+  },
+  {
+   "query": "чегирма",
+   "group": "voronki",
+   "cards": 18,
+   "advertisers": 13,
+   "blocked_suspected": false
+  },
+  {
+   "query": "daromad",
+   "group": "zarabotok",
+   "cards": 25,
+   "advertisers": 12,
+   "blocked_suspected": false
+  },
+  {
+   "query": "onlayn daromad",
+   "group": "zarabotok",
+   "cards": 18,
+   "advertisers": 12,
+   "blocked_suspected": false
+  },
+  {
+   "query": "internetda pul ishlash",
+   "group": "zarabotok",
+   "cards": 1,
+   "advertisers": 1,
+   "blocked_suspected": false
+  },
+  {
+   "query": "pul ishlash",
+   "group": "zarabotok",
+   "cards": 26,
+   "advertisers": 15,
+   "blocked_suspected": false
+  },
+  {
+   "query": "qo'shimcha daromad",
+   "group": "zarabotok",
+   "cards": 28,
+   "advertisers": 16,
+   "blocked_suspected": false
+  },
+  {
+   "query": "uydan turib ishlash",
+   "group": "zarabotok",
+   "cards": 21,
+   "advertisers": 7,
+   "blocked_suspected": false
+  },
+  {
+   "query": "masofaviy ish",
+   "group": "zarabotok",
+   "cards": 25,
+   "advertisers": 8,
+   "blocked_suspected": false
+  },
+  {
+   "query": "oyiga 1000$",
+   "group": "zarabotok",
+   "cards": 2,
+   "advertisers": 2,
+   "blocked_suspected": false
+  },
+  {
+   "query": "kasb o'rganing",
+   "group": "zarabotok",
+   "cards": 23,
+   "advertisers": 10,
+   "blocked_suspected": false
+  },
+  {
+   "query": "yangi kasb",
+   "group": "zarabotok",
+   "cards": 24,
+   "advertisers": 13,
+   "blocked_suspected": false
+  },
+  {
+   "query": "даромад",
+   "group": "zarabotok",
+   "cards": 25,
+   "advertisers": 13,
+   "blocked_suspected": false
+  },
+  {
+   "query": "пул ишлаш",
+   "group": "zarabotok",
+   "cards": 0,
+   "advertisers": 0,
+   "blocked_suspected": false
+  },
+  {
+   "query": "касб",
+   "group": "zarabotok",
+   "cards": 8,
+   "advertisers": 8,
+   "blocked_suspected": false
+  },
+  {
+   "query": "Uzum Market",
+   "group": "marketpleysy",
+   "cards": 28,
+   "advertisers": 2,
+   "blocked_suspected": false
+  },
+  {
+   "query": "Uzum",
+   "group": "marketpleysy",
+   "cards": 29,
+   "advertisers": 6,
+   "blocked_suspected": false
+  },
+  {
+   "query": "Wildberries",
+   "group": "marketpleysy",
+   "cards": 32,
+   "advertisers": 15,
+   "blocked_suspected": false
+  },
+  {
+   "query": "Ozon",
+   "group": "marketpleysy",
+   "cards": 28,
+   "advertisers": 14,
+   "blocked_suspected": false
+  },
+  {
+   "query": "Yandex Market",
+   "group": "marketpleysy",
+   "cards": 28,
+   "advertisers": 10,
+   "blocked_suspected": false
+  },
+  {
+   "query": "marketpleys",
+   "group": "marketpleysy",
+   "cards": 10,
+   "advertisers": 6,
+   "blocked_suspected": false
+  },
+  {
+   "query": "marketplace",
+   "group": "marketpleysy",
+   "cards": 30,
+   "advertisers": 3,
+   "blocked_suspected": false
+  },
+  {
+   "query": "Xitoydan tovar",
+   "group": "marketpleysy",
+   "cards": 5,
+   "advertisers": 4,
+   "blocked_suspected": false
+  },
+  {
+   "query": "tovar biznes",
+   "group": "marketpleysy",
+   "cards": 16,
+   "advertisers": 8,
+   "blocked_suspected": false
+  },
+  {
+   "query": "sotuvchi bo'lish",
+   "group": "marketpleysy",
+   "cards": 17,
+   "advertisers": 3,
+   "blocked_suspected": false
+  },
+  {
+   "query": "Uzum sotuvchi",
+   "group": "marketpleysy",
+   "cards": 16,
+   "advertisers": 5,
+   "blocked_suspected": false
+  },
+  {
+   "query": "Узум",
+   "group": "marketpleysy",
+   "cards": 11,
+   "advertisers": 6,
+   "blocked_suspected": false
+  },
+  {
+   "query": "mobilografiya",
+   "group": "montazh",
+   "cards": 32,
+   "advertisers": 18,
+   "blocked_suspected": false
+  },
+  {
+   "query": "mobilograf",
+   "group": "montazh",
+   "cards": 12,
+   "advertisers": 12,
+   "blocked_suspected": false
+  },
+  {
+   "query": "montaj",
+   "group": "montazh",
+   "cards": 27,
+   "advertisers": 23,
+   "blocked_suspected": false
+  },
+  {
+   "query": "video montaj",
+   "group": "montazh",
+   "cards": 19,
+   "advertisers": 16,
+   "blocked_suspected": false
+  },
+  {
+   "query": "CapCut",
+   "group": "montazh",
+   "cards": 26,
+   "advertisers": 18,
+   "blocked_suspected": false
+  },
+  {
+   "query": "reels",
+   "group": "montazh",
+   "cards": 29,
+   "advertisers": 10,
+   "blocked_suspected": false
+  },
+  {
+   "query": "videograf",
+   "group": "montazh",
+   "cards": 6,
+   "advertisers": 6,
+   "blocked_suspected": false
+  },
+  {
+   "query": "kontent kurs",
+   "group": "montazh",
+   "cards": 20,
+   "advertisers": 11,
+   "blocked_suspected": false
+  },
+  {
+   "query": "Premiere Pro",
+   "group": "montazh",
+   "cards": 28,
+   "advertisers": 18,
+   "blocked_suspected": false
+  },
+  {
+   "query": "мобилография",
+   "group": "montazh",
+   "cards": 12,
+   "advertisers": 7,
+   "blocked_suspected": false
+  },
+  {
+   "query": "монтаж",
+   "group": "montazh",
+   "cards": 28,
+   "advertisers": 23,
+   "blocked_suspected": false
+  },
+  {
+   "query": "SMM",
+   "group": "marketing",
+   "cards": 26,
+   "advertisers": 18,
+   "blocked_suspected": false
+  },
+  {
+   "query": "SMM kurs",
+   "group": "marketing",
+   "cards": 24,
+   "advertisers": 15,
+   "blocked_suspected": false
+  },
+  {
+   "query": "target",
+   "group": "marketing",
+   "cards": 27,
+   "advertisers": 16,
+   "blocked_suspected": false
+  },
+  {
+   "query": "targetolog",
+   "group": "marketing",
+   "cards": 24,
+   "advertisers": 18,
+   "blocked_suspected": false
+  },
+  {
+   "query": "target kurs",
+   "group": "marketing",
+   "cards": 20,
+   "advertisers": 14,
+   "blocked_suspected": false
+  },
+  {
+   "query": "marketing kurs",
+   "group": "marketing",
+   "cards": 16,
+   "advertisers": 7,
+   "blocked_suspected": false
+  },
+  {
+   "query": "marketolog",
+   "group": "marketing",
+   "cards": 18,
+   "advertisers": 10,
+   "blocked_suspected": false
+  },
+  {
+   "query": "kopirayting",
+   "group": "marketing",
+   "cards": 0,
+   "advertisers": 0,
+   "blocked_suspected": false
+  },
+  {
+   "query": "shaxsiy brend",
+   "group": "marketing",
+   "cards": 28,
+   "advertisers": 16,
+   "blocked_suspected": false
+  },
+  {
+   "query": "bloger",
+   "group": "marketing",
+   "cards": 21,
+   "advertisers": 16,
+   "blocked_suspected": false
+  },
+  {
+   "query": "bloger bo'lish",
+   "group": "marketing",
+   "cards": 1,
+   "advertisers": 1,
+   "blocked_suspected": false
+  },
+  {
+   "query": "sotuv",
+   "group": "marketing",
+   "cards": 24,
+   "advertisers": 11,
+   "blocked_suspected": false
+  },
+  {
+   "query": "sotuv menejeri",
+   "group": "marketing",
+   "cards": 23,
+   "advertisers": 12,
+   "blocked_suspected": false
+  },
+  {
+   "query": "zapusk",
+   "group": "marketing",
+   "cards": 22,
+   "advertisers": 7,
+   "blocked_suspected": false
+  },
+  {
+   "query": "prodyuser",
+   "group": "marketing",
+   "cards": 2,
+   "advertisers": 1,
+   "blocked_suspected": false
+  },
+  {
+   "query": "Instagram kurs",
+   "group": "marketing",
+   "cards": 30,
+   "advertisers": 22,
+   "blocked_suspected": false
+  },
+  {
+   "query": "Telegram kanal",
+   "group": "marketing",
+   "cards": 26,
+   "advertisers": 18,
+   "blocked_suspected": false
+  },
+  {
+   "query": "СММ",
+   "group": "marketing",
+   "cards": 18,
+   "advertisers": 12,
+   "blocked_suspected": false
+  },
+  {
+   "query": "таргет",
+   "group": "marketing",
+   "cards": 29,
+   "advertisers": 21,
+   "blocked_suspected": false
+  },
+  {
+   "query": "sun'iy intellekt",
+   "group": "ii",
+   "cards": 24,
+   "advertisers": 15,
+   "blocked_suspected": false
+  },
+  {
+   "query": "AI kurs",
+   "group": "ii",
+   "cards": 25,
+   "advertisers": 11,
+   "blocked_suspected": false
+  },
+  {
+   "query": "ChatGPT",
+   "group": "ii",
+   "cards": 30,
+   "advertisers": 20,
+   "blocked_suspected": false
+  },
+  {
+   "query": "Claude",
+   "group": "ii",
+   "cards": 30,
+   "advertisers": 20,
+   "blocked_suspected": false
+  },
+  {
+   "query": "neyroset",
+   "group": "ii",
+   "cards": 0,
+   "advertisers": 0,
+   "blocked_suspected": false
+  },
+  {
+   "query": "AI bilan daromad",
+   "group": "ii",
+   "cards": 22,
+   "advertisers": 8,
+   "blocked_suspected": false
+  },
+  {
+   "query": "vibe coding",
+   "group": "ii",
+   "cards": 29,
+   "advertisers": 11,
+   "blocked_suspected": false
+  },
+  {
+   "query": "prompt",
+   "group": "ii",
+   "cards": 29,
+   "advertisers": 14,
+   "blocked_suspected": false
+  },
+  {
+   "query": "сунъий интеллект",
+   "group": "ii",
+   "cards": 3,
+   "advertisers": 1,
+   "blocked_suspected": false
+  },
+  {
+   "query": "frilans",
+   "group": "frilans-it-dizain",
+   "cards": 2,
+   "advertisers": 2,
+   "blocked_suspected": false
+  },
+  {
+   "query": "frilanser",
+   "group": "frilans-it-dizain",
+   "cards": 1,
+   "advertisers": 1,
+   "blocked_suspected": false
+  },
+  {
+   "query": "Upwork",
+   "group": "frilans-it-dizain",
+   "cards": 26,
+   "advertisers": 8,
+   "blocked_suspected": false
+  },
+  {
+   "query": "Fiverr",
+   "group": "frilans-it-dizain",
+   "cards": 7,
+   "advertisers": 4,
+   "blocked_suspected": false
+  },
+  {
+   "query": "dasturlash",
+   "group": "frilans-it-dizain",
+   "cards": 28,
+   "advertisers": 7,
+   "blocked_suspected": false
+  },
+  {
+   "query": "IT kurs",
+   "group": "frilans-it-dizain",
+   "cards": 30,
+   "advertisers": 22,
+   "blocked_suspected": false
+  },
+  {
+   "query": "dasturchi",
+   "group": "frilans-it-dizain",
+   "cards": 19,
+   "advertisers": 9,
+   "blocked_suspected": false
+  },
+  {
+   "query": "web dizayn",
+   "group": "frilans-it-dizain",
+   "cards": 4,
+   "advertisers": 4,
+   "blocked_suspected": false
+  },
+  {
+   "query": "grafik dizayn",
+   "group": "frilans-it-dizain",
+   "cards": 18,
+   "advertisers": 9,
+   "blocked_suspected": false
+  },
+  {
+   "query": "Figma",
+   "group": "frilans-it-dizain",
+   "cards": 29,
+   "advertisers": 14,
+   "blocked_suspected": false
+  },
+  {
+   "query": "Canva",
+   "group": "frilans-it-dizain",
+   "cards": 29,
+   "advertisers": 13,
+   "blocked_suspected": false
+  },
+  {
+   "query": "UX UI",
+   "group": "frilans-it-dizain",
+   "cards": 30,
+   "advertisers": 14,
+   "blocked_suspected": false
+  },
+  {
+   "query": "3D kurs",
+   "group": "frilans-it-dizain",
+   "cards": 26,
+   "advertisers": 17,
+   "blocked_suspected": false
+  },
+  {
+   "query": "logist",
+   "group": "frilans-it-dizain",
+   "cards": 26,
+   "advertisers": 7,
+   "blocked_suspected": false
+  },
+  {
+   "query": "dispetcher",
+   "group": "frilans-it-dizain",
+   "cards": 3,
+   "advertisers": 2,
+   "blocked_suspected": false
+  },
+  {
+   "query": "manikyur kurs",
+   "group": "remesla-byuti",
+   "cards": 2,
+   "advertisers": 2,
+   "blocked_suspected": false
+  },
+  {
+   "query": "kosmetolog kurs",
+   "group": "remesla-byuti",
+   "cards": 5,
+   "advertisers": 4,
+   "blocked_suspected": false
+  },
+  {
+   "query": "konditer kurs",
+   "group": "remesla-byuti",
+   "cards": 0,
+   "advertisers": 0,
+   "blocked_suspected": false
+  },
+  {
+   "query": "tikuvchilik kurs",
+   "group": "remesla-byuti",
+   "cards": 10,
+   "advertisers": 4,
+   "blocked_suspected": false
+  },
+  {
+   "query": "sartarosh kurs",
+   "group": "remesla-byuti",
+   "cards": 0,
+   "advertisers": 0,
+   "blocked_suspected": false
+  },
+  {
+   "query": "vizajist kurs",
+   "group": "remesla-byuti",
+   "cards": 1,
+   "advertisers": 1,
+   "blocked_suspected": false
+  },
+  {
+   "query": "kiprik kurs",
+   "group": "remesla-byuti",
+   "cards": 3,
+   "advertisers": 3,
+   "blocked_suspected": false
+  },
+  {
+   "query": "oshpaz kurs",
+   "group": "remesla-byuti",
+   "cards": 0,
+   "advertisers": 0,
+   "blocked_suspected": false
+  },
+  {
+   "query": "biznes kurs",
+   "group": "biznes-risk",
+   "cards": 23,
+   "advertisers": 10,
+   "blocked_suspected": false
+  },
+  {
+   "query": "tadbirkor",
+   "group": "biznes-risk",
+   "cards": 27,
+   "advertisers": 22,
+   "blocked_suspected": false
+  },
+  {
+   "query": "biznes mentor",
+   "group": "biznes-risk",
+   "cards": 3,
+   "advertisers": 2,
+   "blocked_suspected": false
+  },
+  {
+   "query": "investitsiya",
+   "group": "biznes-risk",
+   "cards": 20,
+   "advertisers": 14,
+   "blocked_suspected": false
+  },
+  {
+   "query": "treyding",
+   "group": "biznes-risk",
+   "cards": 20,
+   "advertisers": 14,
+   "blocked_suspected": false
+  },
+  {
+   "query": "kripto",
+   "group": "biznes-risk",
+   "cards": 20,
+   "advertisers": 11,
+   "blocked_suspected": false
+  },
+  {
+   "query": "forex",
+   "group": "biznes-risk",
+   "cards": 24,
+   "advertisers": 7,
+   "blocked_suspected": false
+  },
+  {
+   "query": "moliyaviy savodxonlik",
+   "group": "biznes-risk",
+   "cards": 12,
+   "advertisers": 3,
+   "blocked_suspected": false
+  },
+  {
+   "query": "passiv daromad",
+   "group": "biznes-risk",
+   "cards": 4,
+   "advertisers": 3,
+   "blocked_suspected": false
+  },
+  {
+   "query": "ingliz tili",
+   "group": "drugoe",
+   "cards": 29,
+   "advertisers": 12,
+   "blocked_suspected": false
+  },
+  {
+   "query": "IELTS",
+   "group": "drugoe",
+   "cards": 27,
+   "advertisers": 12,
+   "blocked_suspected": false
+  },
+  {
+   "query": "psixologiya kurs",
+   "group": "drugoe",
+   "cards": 30,
+   "advertisers": 3,
+   "blocked_suspected": false
+  },
+  {
+   "query": "ayollar uchun kurs",
+   "group": "drugoe",
+   "cards": 22,
+   "advertisers": 11,
+   "blocked_suspected": false
+  }
+ ]
+}

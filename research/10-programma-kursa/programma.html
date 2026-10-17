@@ -1,0 +1,443 @@
+<!doctype html>
+<html lang="ru"><head><meta charset="utf-8"><title>ИИ на заказ — программа курса</title><style>
+@page { size: 1280px 720px; margin: 0; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+:root {
+  --bg: #07101F; --turq: #2BC6D4; --turq-l: #72E4EC; --gold: #F2C14E; --gold-l: #F9DC92; --gold-d: #CF962F;
+  --text: #EAF2FF; --soft: #D5E0F2; --muted: #9DB0CE; --faint: #5F7597;
+}
+html, body { background: var(--bg); }
+body { font-family: 'Avenir Next', 'Helvetica Neue', Arial, sans-serif; color: var(--text);
+       -webkit-font-smoothing: antialiased; }
+.slide { position: relative; width: 1280px; height: 720px; overflow: hidden; break-after: page;
+  background:
+    radial-gradient(880px 520px at 6% -12%, rgba(43,198,212,.20), transparent 62%),
+    radial-gradient(760px 520px at 104% 112%, rgba(242,193,78,.11), transparent 60%),
+    var(--bg); }
+.slide:last-child { break-after: auto; }
+.pattern { position: absolute; inset: 0; background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='96' height='96' viewBox='0 0 96 96'><g fill='none' stroke='%232BC6D4' stroke-width='1'><rect x='31' y='31' width='34' height='34'/><rect x='31' y='31' width='34' height='34' transform='rotate(45 48 48)'/><circle cx='48' cy='48' r='7'/><path d='M0 48h17M79 48h17M48 0v17M48 79v17'/></g></svg>"); background-size: 96px 96px; opacity: .06; }
+.pattern.faint { opacity: .035; }
+b.num { font-weight: 700; color: #FFFFFF; }
+.caps { color: var(--gold); font-weight: 700; letter-spacing: .02em; }
+
+/* ---------- шапка слайда */
+.top { position: absolute; left: 64px; right: 64px; top: 30px; display: flex; align-items: center; justify-content: space-between; }
+.week { display: flex; align-items: center; gap: 14px; }
+.week-pill { font-family: 'Akrobat'; font-weight: 800; font-size: 15px; letter-spacing: .14em; text-transform: uppercase;
+             color: #06101D; background: var(--turq); padding: 6px 13px 5px; border-radius: 999px; }
+.week-name { font-family: 'Akrobat'; font-weight: 700; font-size: 17px; letter-spacing: .08em; text-transform: uppercase; color: var(--turq-l); }
+.brand { font-family: 'Akrobat'; font-weight: 700; font-size: 14px; letter-spacing: .16em; text-transform: uppercase; color: var(--faint); }
+.brand b { color: var(--muted); margin-left: 10px; }
+
+/* ---------- модуль: карточка-стопка как в «Программе» */
+.stack { position: absolute; left: 116px; top: 96px; width: 1076px; height: 560px; }
+.stack .back { position: absolute; inset: 0; transform: translate(16px, -15px); border: 1.5px solid rgba(43,198,212,.30); border-radius: 26px; }
+.card { position: absolute; inset: 0; border-radius: 26px; padding: 32px 40px 36px 60px;
+        background: linear-gradient(180deg, rgba(16,31,53,.97), rgba(9,20,36,.97));
+        border: 1.5px solid rgba(43,198,212,.70); box-shadow: 0 30px 80px rgba(0,0,0,.45); }
+.tab { position: absolute; left: -27px; top: 54px; width: 54px; height: 206px; border-radius: 14px;
+       background: linear-gradient(180deg, var(--gold-l), var(--gold-d)); display: flex; align-items: center; justify-content: center;
+       box-shadow: 0 12px 30px rgba(242,193,78,.22); }
+.tab span { writing-mode: vertical-rl; transform: rotate(180deg); font-family: 'Akrobat'; font-weight: 900; font-size: 21px;
+            letter-spacing: .16em; text-transform: uppercase; color: #1C1406; }
+.m-title { font-family: 'Akrobat'; font-weight: 800; font-size: 42px; line-height: 1.04; color: var(--turq-l);
+           margin-bottom: 20px; max-width: 930px; }
+.grid { display: grid; grid-template-columns: 1fr 336px; column-gap: 44px; }
+ul.topics { list-style: none; }
+ul.topics li { position: relative; padding-left: 26px; font-size: 16.6px; line-height: 1.34; color: var(--soft); margin-bottom: 8.5px; }
+ul.topics li::before { content: ""; position: absolute; left: 4px; top: 8px; width: 7.5px; height: 7.5px; transform: rotate(45deg);
+                       background: var(--turq); border-radius: 1.5px; }
+.aside-label { font-family: 'Akrobat'; font-weight: 800; font-size: 14px; letter-spacing: .18em; text-transform: uppercase;
+               color: var(--turq-l); margin-bottom: 12px; }
+.mat { display: flex; gap: 12px; align-items: center; margin-bottom: 10px; }
+.mat .ic, .frow .ic, .b-head .ic { flex: 0 0 34px; height: 34px; border-radius: 10px; display: flex; align-items: center; justify-content: center;
+                    background: rgba(43,198,212,.12); border: 1px solid rgba(43,198,212,.38); color: var(--turq-l); }
+.mat .t { font-size: 14.2px; line-height: 1.28; color: #C6D3EA; }
+.result { position: absolute; right: 36px; bottom: -32px; width: 368px; border-radius: 20px; padding: 16px 22px 18px;
+          background: linear-gradient(180deg, #14243D, #0E1B30); border: 1.5px solid var(--gold);
+          box-shadow: 0 18px 44px rgba(0,0,0,.55), 0 0 0 6px rgba(242,193,78,.07); }
+.result .h { display: flex; align-items: center; justify-content: space-between; margin-bottom: 7px;
+             font-family: 'Akrobat'; font-weight: 800; font-size: 22px; letter-spacing: .02em; color: var(--gold); }
+.result .h svg { color: var(--gold); }
+.result p { font-size: 15px; line-height: 1.38; color: #F3F6FF; }
+.result b.num { color: var(--gold-l); }
+.progress { position: absolute; left: 116px; bottom: 22px; display: flex; align-items: center; gap: 14px;
+            font-family: 'Akrobat'; font-weight: 700; font-size: 13px; letter-spacing: .14em; text-transform: uppercase; color: var(--faint); }
+.progress .bar { display: flex; gap: 6px; }
+.progress i { display: block; width: 26px; height: 5px; border-radius: 3px; background: rgba(157,176,206,.20); }
+.progress i.done { background: rgba(43,198,212,.45); }
+.progress i.on { background: var(--gold); }
+
+/* ---------- обложка */
+.cover-label { position: absolute; left: 72px; top: 64px; font-family: 'Akrobat'; font-weight: 800; font-size: 17px; letter-spacing: .3em;
+               color: var(--turq-l); display: flex; align-items: center; gap: 16px; }
+.cover-label::after { content: ""; width: 120px; height: 1.5px; background: rgba(114,228,236,.6); }
+.cover-name { position: absolute; left: 68px; top: 104px; font-family: 'RF Dewi Expanded'; font-weight: 900; font-size: 88px;
+              line-height: 1; letter-spacing: -.01em; color: #FFFFFF; }
+.cover-name .accent { color: var(--turq); }
+.cover-promise { position: absolute; left: 72px; top: 238px; width: 740px; font-family: 'Akrobat'; font-weight: 800; font-size: 46px;
+                 line-height: 1.02; color: #FFFFFF; }
+.cover-promise-tail { position: absolute; left: 72px; top: 292px; width: 720px; font-size: 25px; line-height: 1.3; color: var(--soft); }
+.chips { position: absolute; left: 72px; top: 382px; display: flex; gap: 12px; }
+.chip { font-size: 17px; font-weight: 600; color: var(--turq-l); padding: 9px 18px; border-radius: 999px;
+        border: 1.5px solid rgba(114,228,236,.55); background: rgba(43,198,212,.08); }
+.plan { position: absolute; left: 72px; top: 452px; display: flex; align-items: center; gap: 12px; padding: 12px 20px 12px 16px;
+        border-radius: 14px; border: 1.5px solid var(--gold); background: rgba(242,193,78,.07); font-size: 20px; font-weight: 600; color: #FFF6DE; }
+.plan svg { color: var(--gold); }
+.plan b.num { color: var(--gold-l); }
+.ring { position: absolute; right: 86px; top: 150px; width: 330px; height: 330px; border-radius: 50%;
+        border: 2px solid rgba(43,198,212,.55); box-shadow: inset 0 0 0 14px rgba(43,198,212,.06), 0 0 120px rgba(43,198,212,.18);
+        display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+.ring::before { content: ""; position: absolute; inset: -22px; border-radius: 50%; border: 1px dashed rgba(242,193,78,.45); }
+.ring-num { font-family: 'RF Dewi Expanded'; font-weight: 900; font-size: 150px; line-height: .9; color: var(--turq); }
+.ring-cap { margin-top: 14px; font-family: 'Akrobat'; font-weight: 700; font-size: 19px; letter-spacing: .1em; text-transform: uppercase;
+            line-height: 1.25; color: var(--soft); }
+.cover-bottom { position: absolute; left: 72px; right: 72px; bottom: 44px; display: flex; align-items: flex-end; justify-content: space-between;
+                border-top: 1px solid rgba(157,176,206,.22); padding-top: 22px; }
+.tagline { width: 520px; font-size: 19px; line-height: 1.35; color: var(--muted); }
+.stats { display: flex; gap: 34px; align-items: flex-end; }
+.stat { display: flex; align-items: baseline; gap: 10px; font-family: 'Akrobat'; font-weight: 700; font-size: 18px; letter-spacing: .06em;
+        text-transform: uppercase; color: var(--soft); }
+.stat .big { font-family: 'RF Dewi Expanded'; font-weight: 900; font-size: 40px; letter-spacing: 0; color: var(--gold); }
+.stat-text { max-width: 210px; font-size: 15px; line-height: 1.25; letter-spacing: .05em; }
+
+/* ---------- формат и бонусы */
+.s-title { position: absolute; left: 72px; top: 78px; font-family: 'Akrobat'; font-weight: 800; font-size: 52px; line-height: 1; color: #FFFFFF; }
+.format-grid { position: absolute; left: 72px; right: 72px; top: 158px; bottom: 44px; display: grid; grid-template-columns: 468px 1fr; gap: 28px; }
+.panel { display: flex; flex-direction: column; border: 1.5px solid rgba(43,198,212,.55); border-radius: 24px; padding: 24px 26px 18px;
+         background: linear-gradient(180deg, rgba(16,31,53,.9), rgba(9,20,36,.9)); }
+.panel-label { font-family: 'Akrobat'; font-weight: 800; font-size: 15px; letter-spacing: .18em; text-transform: uppercase; color: var(--turq-l); margin-bottom: 16px; }
+.panel-label.gold { color: var(--gold); }
+.frows { flex: 1; display: flex; flex-direction: column; justify-content: space-between; padding-bottom: 6px; }
+.frow { display: flex; gap: 14px; align-items: center; font-size: 17px; line-height: 1.3; color: var(--soft); }
+.bonuses { display: flex; flex-direction: column; }
+.bonus-grid { flex: 1; display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: repeat(3, 1fr); gap: 14px; }
+.bonus { border: 1.5px solid rgba(242,193,78,.45); border-radius: 18px; padding: 15px 18px 16px; background: rgba(242,193,78,.05); }
+.bonus.hero { border-color: var(--gold); background: rgba(242,193,78,.10); }
+.b-head { display: flex; align-items: center; gap: 12px; margin-bottom: 8px; }
+.b-head .ic { flex-basis: 32px; height: 32px; color: var(--gold); background: rgba(242,193,78,.12); border-color: rgba(242,193,78,.45); }
+.b-name { font-family: 'Akrobat'; font-weight: 800; font-size: 20px; line-height: 1.05; color: var(--gold-l); }
+.bonus p { font-size: 15px; line-height: 1.35; color: var(--soft); }
+
+/* ---------- итог */
+.final .s-title { font-size: 56px; top: 80px; }
+.res-grid { position: absolute; left: 72px; right: 72px; top: 170px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+.res-tile { border: 1.5px solid rgba(43,198,212,.55); border-radius: 20px; padding: 20px 22px 22px; min-height: 142px;
+            background: linear-gradient(180deg, rgba(16,31,53,.92), rgba(9,20,36,.92)); }
+.res-num { display: block; font-family: 'RF Dewi Expanded'; font-weight: 900; font-size: 30px; color: var(--turq); margin-bottom: 10px; }
+.res-tile p { font-size: 18px; line-height: 1.32; color: #F1F5FF; }
+.money { position: absolute; left: 72px; right: 72px; top: 520px; font-size: 22px; line-height: 1.4; color: var(--soft); }
+.money b { font-family: 'Akrobat'; font-weight: 800; font-size: 30px; color: var(--gold); margin-right: 6px; }
+.honest { position: absolute; left: 72px; right: 72px; bottom: 40px; padding-top: 16px; border-top: 1px solid rgba(157,176,206,.22);
+          font-size: 15px; line-height: 1.4; color: var(--muted); font-style: italic; }
+</style></head><body>
+<section class="slide cover">
+  <div class="pattern"></div>
+  <div class="cover-label">ПРОГРАММА КУРСА</div>
+  <h1 class="cover-name"><span class="accent">ИИ</span> на заказ</h1>
+  <div class="cover-promise">Первый оплаченный заказ за 30 дней</div>
+  <div class="cover-promise-tail">Сайты и Telegram-боты для бизнеса с помощью нейросетей</div>
+  <div class="chips"><span class="chip">по вечерам</span><span class="chip">без программирования</span><span class="chip">без вложений</span></div>
+  <div class="plan"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="4.5"/><circle cx="12" cy="12" r="1.2" fill="currentColor"/></svg><span>План до <b class="num">$1000</b> в месяц — это <b class="num">3–4</b> заказа по <b class="num">$300</b></span></div>
+  <div class="ring"><span class="ring-num">30</span><span class="ring-cap">дней до первого<br>оплаченного заказа</span></div>
+  <div class="cover-bottom">
+    <div class="tagline">Делать сайты учат все. Мы учим находить заказчиков, ставить цену и получать деньги.</div>
+    <div class="stats"><div class="stat"><span class="big">4</span><span>недели</span></div><div class="stat"><span class="big">9</span><span>модулей</span></div><div class="stat stat-text"><span>практика на реальных бизнесах твоего города</span></div></div>
+  </div>
+</section>
+<section class="slide module">
+  <div class="pattern faint"></div>
+  
+  <div class="top">
+    <div class="week"><span class="week-pill">Неделя 1</span><span class="week-name">Делаешь то, за что платят</span></div>
+    <div class="brand">ИИ на заказ · программа <b>02 / 12</b></div>
+  </div>
+  <div class="stack">
+    <div class="back"></div>
+    <div class="card">
+      <div class="tab"><span>Модуль 1</span></div>
+      <h2 class="m-title">Старт: твоя цифра и план на 30 дней</h2>
+      <div class="grid">
+        <ul class="topics"><li>Где на ИИ реально платят в <b class="num">2026</b> году — и почему новичку выгоднее начать с сайтов и ботов для бизнеса</li><li>Твоя цифра: сколько заказов закроют твою цель — контракт за учёбу, кредит за той, машину</li><li>Честная математика: заработки в России против заказов дома — патент, жильё, дорога и разлука с семьёй</li><li>Не нужно быть программистом: код пишет ИИ, а ты отвечаешь за задачу, вкус и клиента</li><li>Нейросети, которые работают из Узбекистана бесплатно, и что можно делать прямо с телефона</li><li><b class="num">2–3</b> вечера в неделю: как совмещать с парами, работой и семьёй</li><li>Почему бесплатные курсы бросают — и <b class="num">5</b> правил, по которым доходят до первого заказа</li><li>«Это не пирамида»: как объяснить родителям и жене, чем ты теперь занимаешься</li></ul>
+        <div class="aside">
+          <div class="aside-label">Материалы</div>
+          <div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="3" width="14" height="18" rx="2.5"/><rect x="8" y="6" width="8" height="3.5" rx="1"/><path d="M8.6 13.2h.01M12 13.2h.01M15.4 13.2h.01M8.6 16.8h.01M12 16.8h.01M15.4 16.8h.01" stroke-width="2.4"/></svg></span><span class="t">Калькулятор «Сколько заказов до моей цели»</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="5" width="17" height="15" rx="2.5"/><path d="M3.5 10h17M8 3v4M16 3v4M8 14h3M8 17h6"/></svg></span><span class="t">Карта 30 дней: что делать каждый день</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M11 3.5l1.9 5 5.1 1.9-5.1 1.9-1.9 5-1.9-5L4 10.4l5.1-1.9z"/><path d="M18.5 15l.8 2 2 .8-2 .8-.8 2-.8-2-2-.8 2-.8z"/></svg></span><span class="t">Список нейросетей, которые работают из Узбекистана, — обновляем к каждому потоку</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></svg></span><span class="t">Шаблон расписания на 2–3 вечера</span></div>
+        </div>
+      </div>
+      <div class="result">
+        <div class="h"><span>Результат</span><svg viewBox="0 0 24 24" width="30" height="30" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></div>
+        <p>Точно узнаешь, сколько заказов отделяет тебя от цели, и начнёшь работать в первый же вечер — план на <b class="num">30</b> дней, расписание и нейросети готовы.</p>
+      </div>
+    </div>
+  </div>
+  <div class="progress"><span>Модуль 1 из 9</span><div class="bar"><i class="on"></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i></div></div>
+</section>
+<section class="slide module">
+  <div class="pattern faint"></div>
+  
+  <div class="top">
+    <div class="week"><span class="week-pill">Неделя 1</span><span class="week-name">Делаешь то, за что платят</span></div>
+    <div class="brand">ИИ на заказ · программа <b>03 / 12</b></div>
+  </div>
+  <div class="stack">
+    <div class="back"></div>
+    <div class="card">
+      <div class="tab"><span>Модуль 2</span></div>
+      <h2 class="m-title">Сайт для бизнеса за один вечер</h2>
+      <div class="grid">
+        <ul class="topics"><li>За что бизнес в Ташкенте платит <b class="num">3–8</b> млн сум — и почему с ИИ ты собираешь такой сайт за вечер</li><li>Сайт без единой строчки кода: от пустого экрана до ссылки, которую не стыдно отправить владельцу</li><li>Готовые промпты: нейросеть пишет тексты и собирает структуру сайта за тебя</li><li>Сайт сразу на двух языках — узбекском и русском</li><li>Дёшево или дорого: <b class="num">7</b> деталей, по которым владелец видит, что сайт стоит своих денег</li><li>Домен и хостинг: почему их оплачивает заказчик, а не ты</li><li>Практика: сайт для реальной компании из твоего района — той, что ты нашёл на Яндекс Картах</li></ul>
+        <div class="aside">
+          <div class="aside-label">Материалы</div>
+          <div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="M10 9.3v5.4l4.6-2.7z" fill="currentColor" stroke="none"/></svg></span><span class="t">Видео «Сайт за вечер» — повторяешь за экраном шаг за шагом</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M11 3.5l1.9 5 5.1 1.9-5.1 1.9-1.9 5-1.9-5L4 10.4l5.1-1.9z"/><path d="M18.5 15l.8 2 2 .8-2 .8-.8 2-.8-2-2-.8 2-.8z"/></svg></span><span class="t">20 промптов для текстов и структуры сайта</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5l8.5 4.3-8.5 4.3-8.5-4.3z"/><path d="M3.5 12.2l8.5 4.3 8.5-4.3M3.5 16.4l8.5 4.3 8.5-4.3"/></svg></span><span class="t">5 готовых структур: учебный центр, магазин, кафе, салон, клиника</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3.5" width="16" height="17" rx="2.5"/><path d="M8 9.2l1.8 1.8 3.4-3.4M8 14.5h8M8 17.5h5"/></svg></span><span class="t">Чек-лист «Сайт готов к показу владельцу»</span></div>
+        </div>
+      </div>
+      <div class="result">
+        <div class="h"><span>Результат</span><svg viewBox="0 0 24 24" width="30" height="30" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></div>
+        <p>Соберёшь первый сайт для настоящей компании из своего района за <b class="num">1–2</b> вечера. Это первая работа в портфолио и готовый повод написать владельцу.</p>
+      </div>
+    </div>
+  </div>
+  <div class="progress"><span>Модуль 2 из 9</span><div class="bar"><i class="done"></i><i class="on"></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i></div></div>
+</section>
+<section class="slide module">
+  <div class="pattern faint"></div>
+  
+  <div class="top">
+    <div class="week"><span class="week-pill">Неделя 1</span><span class="week-name">Делаешь то, за что платят</span></div>
+    <div class="brand">ИИ на заказ · программа <b>04 / 12</b></div>
+  </div>
+  <div class="stack">
+    <div class="back"></div>
+    <div class="card">
+      <div class="tab"><span>Модуль 3</span></div>
+      <h2 class="m-title">Telegram-бот, который принимает заказы 24/7</h2>
+      <div class="grid">
+        <ul class="topics"><li>Какие боты покупают магазины, учебные центры, кафе и салоны: запись, заказы, каталог, заявки</li><li>Бот без программиста: собираем с нуля за один вечер</li><li>Оплата через Click и Payme прямо в боте: почему за такого бота на рынке берут около <b class="num">3</b> млн сум</li><li>ИИ отвечает клиентам вместо администратора: цены, адрес, запись — даже ночью</li><li>Как проверить бота, чтобы у владельца всё заработало с первого раза</li><li>Как показать бота владельцу за <b class="num">5</b> минут — так, чтобы он сам спросил цену</li></ul>
+        <div class="aside">
+          <div class="aside-label">Материалы</div>
+          <div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="M10 9.3v5.4l4.6-2.7z" fill="currentColor" stroke="none"/></svg></span><span class="t">Видео «Бот записи за вечер»</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5l8.5 4.3-8.5 4.3-8.5-4.3z"/><path d="M3.5 12.2l8.5 4.3 8.5-4.3M3.5 16.4l8.5 4.3 8.5-4.3"/></svg></span><span class="t">3 готовых сценария: запись, заказ, каталог с заявкой</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M11 3.5l1.9 5 5.1 1.9-5.1 1.9-1.9 5-1.9-5L4 10.4l5.1-1.9z"/><path d="M18.5 15l.8 2 2 .8-2 .8-.8 2-.8-2-2-.8 2-.8z"/></svg></span><span class="t">Промпты для ИИ-ответов на вопросы клиентов</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3.5" width="16" height="17" rx="2.5"/><path d="M8 9.2l1.8 1.8 3.4-3.4M8 14.5h8M8 17.5h5"/></svg></span><span class="t">Чек-лист проверки бота перед сдачей</span></div>
+        </div>
+      </div>
+      <div class="result">
+        <div class="h"><span>Результат</span><svg viewBox="0 0 24 24" width="30" height="30" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></div>
+        <p>Запустишь Telegram-бота, который принимает заявки и отвечает клиентам. Это вторая работа в портфолио и вторая услуга в прайсе — теперь тебе есть что предложить любому магазину и учебному центру.</p>
+      </div>
+    </div>
+  </div>
+  <div class="progress"><span>Модуль 3 из 9</span><div class="bar"><i class="done"></i><i class="done"></i><i class="on"></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i></div></div>
+</section>
+<section class="slide module">
+  <div class="pattern faint"></div>
+  
+  <div class="top">
+    <div class="week"><span class="week-pill">Неделя 2</span><span class="week-name">Упаковка и заказчики</span></div>
+    <div class="brand">ИИ на заказ · программа <b>05 / 12</b></div>
+  </div>
+  <div class="stack">
+    <div class="back"></div>
+    <div class="card">
+      <div class="tab"><span>Модуль 4</span></div>
+      <h2 class="m-title">Портфолио, прайс и КП, с которыми не стыдно к клиенту</h2>
+      <div class="grid">
+        <ul class="topics"><li>Портфолио, когда заказов ещё не было: как честно показать <b class="num">2–3</b> работы с курса</li><li>Сколько брать новичку в Ташкенте и в регионах — и почему демпинг бьёт по тебе, а не по конкурентам</li><li>Прайс из трёх пакетов: как сделать, чтобы клиент сам выбирал средний</li><li>КП на узбекском и русском, которое дочитывают до конца: одна страница, пять блоков</li><li>Профиль в Telegram и Instagram, который продаёт, пока ты на парах или на работе</li><li>«Мне <b class="num">20</b> — кто воспримет меня всерьёз?»: <b class="num">5</b> приёмов, чтобы выглядеть профи с первого сообщения</li></ul>
+        <div class="aside">
+          <div class="aside-label">Материалы</div>
+          <div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3.5 7.5a2 2 0 0 1 2-2h4l2 2.5h7a2 2 0 0 1 2 2V17a2 2 0 0 1-2 2h-13a2 2 0 0 1-2-2z"/></svg></span><span class="t">Шаблон портфолио: Telegram-канал или страница</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="3" width="14" height="18" rx="2.5"/><rect x="8" y="6" width="8" height="3.5" rx="1"/><path d="M8.6 13.2h.01M12 13.2h.01M15.4 13.2h.01M8.6 16.8h.01M12 16.8h.01M15.4 16.8h.01" stroke-width="2.4"/></svg></span><span class="t">Калькулятор цены проекта</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3.5H7.5a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2h9a2 2 0 0 0 2-2V8z"/><path d="M14 3.5V8h4.5M9 13h6M9 16.5h4"/></svg></span><span class="t">Шаблоны КП на узбекском и русском</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3.5" width="16" height="17" rx="2.5"/><path d="M8 9.2l1.8 1.8 3.4-3.4M8 14.5h8M8 17.5h5"/></svg></span><span class="t">Чек-лист упаковки профиля</span></div>
+        </div>
+      </div>
+      <div class="result">
+        <div class="h"><span>Результат</span><svg viewBox="0 0 24 24" width="30" height="30" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></div>
+        <p>У тебя будет портфолио из <b class="num">2–3</b> работ, прайс из трёх пакетов и КП на двух языках — не стыдно отправить ни владельцу кафе, ни директору учебного центра.</p>
+      </div>
+    </div>
+  </div>
+  <div class="progress"><span>Модуль 4 из 9</span><div class="bar"><i class="done"></i><i class="done"></i><i class="done"></i><i class="on"></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i></div></div>
+</section>
+<section class="slide module">
+  <div class="pattern faint"></div>
+  
+  <div class="top">
+    <div class="week"><span class="week-pill">Неделя 2</span><span class="week-name">Упаковка и заказчики</span></div>
+    <div class="brand">ИИ на заказ · программа <b>06 / 12</b></div>
+  </div>
+  <div class="stack">
+    <div class="back"></div>
+    <div class="card">
+      <div class="tab"><span>Модуль 5</span></div>
+      <h2 class="m-title">Карта заказчиков: 30 бизнесов рядом с тобой</h2>
+      <div class="grid">
+        <ul class="topics"><li>Почему первый заказчик приходит не с Upwork, а через соседа, однокурсника или родственника</li><li><b class="num">7</b> каналов без бирж и рекламы: знакомые, Яндекс и Google Карты, Instagram-магазины, Telegram-чаты предпринимателей, OLX, обход своего района, рекомендации</li><li>Правило двух каналов: почему новичку нельзя браться за всё сразу</li><li>Слабое место бизнеса за <b class="num">2</b> минуты: нет сайта, в Instagram нет цен, на заявку отвечают через сутки</li><li>Заказчики в своём городе: магазины, учебные центры и кафе есть в Самарканде, Фергане и Карши — ехать в Ташкент не нужно</li><li>Таблица заказчиков: кому и когда написать, чтобы никто не потерялся</li></ul>
+        <div class="aside">
+          <div class="aside-label">Материалы</div>
+          <div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-6.5-5.6-6.5-11a6.5 6.5 0 0 1 13 0c0 5.4-6.5 11-6.5 11z"/><circle cx="12" cy="10" r="2.4"/></svg></span><span class="t">Инструкция «30 заказчиков с Яндекс Карт за вечер»</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="4.5" width="17" height="15" rx="2"/><path d="M3.5 9.5h17M3.5 14.5h17M9.5 4.5v15"/></svg></span><span class="t">Таблица заказчиков — готовая CRM в Google Таблицах</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9.5 6.5h10M9.5 12h10M9.5 17.5h10M4.8 6.5h.01M4.8 12h.01M4.8 17.5h.01" /><path d="M4.8 6.5h.01M4.8 12h.01M4.8 17.5h.01" stroke-width="2.6"/></svg></span><span class="t">Список 50 видов бизнеса, которым нужен сайт или бот</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3.5" width="16" height="17" rx="2.5"/><path d="M8 9.2l1.8 1.8 3.4-3.4M8 14.5h8M8 17.5h5"/></svg></span><span class="t">Чек-лист «Слабое место бизнеса за 2 минуты»</span></div>
+        </div>
+      </div>
+      <div class="result">
+        <div class="h"><span>Результат</span><svg viewBox="0 0 24 24" width="30" height="30" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></div>
+        <p>Соберёшь таблицу из <b class="num">30+</b> бизнесов своего города, которым нужен сайт или бот, и отправишь первые <b class="num">10</b> сообщений — без бирж, рекламы и вложений.</p>
+      </div>
+    </div>
+  </div>
+  <div class="progress"><span>Модуль 5 из 9</span><div class="bar"><i class="done"></i><i class="done"></i><i class="done"></i><i class="done"></i><i class="on"></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i></div></div>
+</section>
+<section class="slide module">
+  <div class="pattern faint"></div>
+  
+  <div class="top">
+    <div class="week"><span class="week-pill">Неделя 3</span><span class="week-name">Продажа и деньги</span></div>
+    <div class="brand">ИИ на заказ · программа <b>07 / 12</b></div>
+  </div>
+  <div class="stack">
+    <div class="back"></div>
+    <div class="card">
+      <div class="tab"><span>Модуль 6</span></div>
+      <h2 class="m-title">Переписка, после которой платят</h2>
+      <div class="grid">
+        <ul class="topics"><li>Первое сообщение в <b class="num">3</b> строки: деталь про бизнес → одно предложение → лёгкий вопрос</li><li><b class="num">3</b> шаблона под ситуацию: у бизнеса явная дыра, всё вроде неплохо, пишешь знакомому</li><li>Секрет черновика: показываешь владельцу его будущий сайт <span class="caps">ДО</span> разговора о деньгах</li><li>Что ответить на «дорого», «а у вас есть опыт?», «я подумаю» и «у нас уже есть человек»</li><li>Встреча за <b class="num">15</b> минут: что спросить, что показать и как закончить договорённостью</li><li>Как назвать цену и не дрогнуть, даже если это твой первый заказ</li><li>Не отвечают? Одно напоминание, которое не раздражает</li></ul>
+        <div class="aside">
+          <div class="aside-label">Материалы</div>
+          <div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 12a7.5 7.5 0 0 1-11 6.6L4.2 20l1.2-4.4A7.5 7.5 0 1 1 20 12z"/><path d="M9 12h.01M12.5 12h.01M16 12h.01" stroke-width="2.4"/></svg></span><span class="t">Скрипты сообщений на узбекском и русском</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5l7 2.8v5.2c0 4.4-3 7.8-7 9-4-1.2-7-4.6-7-9V6.3z"/><path d="M9 12l2.1 2.1L15.2 10"/></svg></span><span class="t">Ответы на 10 частых возражений</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8.5" r="3"/><path d="M3.5 19c.6-3 2.9-5 5.5-5s4.9 2 5.5 5"/><circle cx="17" cy="9.5" r="2.4"/><path d="M16.6 14.2c2.1.3 3.6 2 3.9 4.3"/></svg></span><span class="t">Сценарий встречи на 15 минут</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 12a7.5 7.5 0 0 1-11 6.6L4.2 20l1.2-4.4A7.5 7.5 0 1 1 20 12z"/><path d="M9 12h.01M12.5 12h.01M16 12h.01" stroke-width="2.4"/></svg></span><span class="t">Пример переписки от первого сообщения до оплаты</span></div>
+        </div>
+      </div>
+      <div class="result">
+        <div class="h"><span>Результат</span><svg viewBox="0 0 24 24" width="30" height="30" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></div>
+        <p>Проведёшь первые переговоры и доведёшь заказчика до «да». Без уговоров и страха: будешь знать, что ответить на «дорого» и «а есть опыт?».</p>
+      </div>
+    </div>
+  </div>
+  <div class="progress"><span>Модуль 6 из 9</span><div class="bar"><i class="done"></i><i class="done"></i><i class="done"></i><i class="done"></i><i class="done"></i><i class="on"></i><i class=""></i><i class=""></i><i class=""></i></div></div>
+</section>
+<section class="slide module">
+  <div class="pattern faint"></div>
+  
+  <div class="top">
+    <div class="week"><span class="week-pill">Неделя 3</span><span class="week-name">Продажа и деньги</span></div>
+    <div class="brand">ИИ на заказ · программа <b>08 / 12</b></div>
+  </div>
+  <div class="stack">
+    <div class="back"></div>
+    <div class="card">
+      <div class="tab"><span>Модуль 7</span></div>
+      <h2 class="m-title">Деньги на карте: договор, предоплата, оплата</h2>
+      <div class="grid">
+        <ul class="topics"><li>Договор на одну страницу: что прописать, чтобы тебя не «кинули» и не заставили переделывать бесконечно</li><li>Предоплата <b class="num">50%</b>: как попросить, чтобы заказчик не насторожился</li><li>Правки по этапам: сколько кругов входит в цену, а за что доплачивают</li><li><b class="num">5</b> красных флагов: каких клиентов лучше не брать — «сначала сделай бесплатно», «торгуется до нуля»</li><li>Как принять оплату: Click, Payme, перевод на Humo и Uzcard</li><li>Заказчик из-за рубежа: как получить деньги, если PayPal и Stripe у нас не работают</li><li>Работать легально: самозанятость и налоги без бухгалтера</li><li>Если клиент тянет с оплатой: <b class="num">3</b> шага без ссор</li></ul>
+        <div class="aside">
+          <div class="aside-label">Материалы</div>
+          <div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 19.5l1-4.4L15.6 5a2.1 2.1 0 0 1 3 3L8.5 18.1z"/><path d="M13.6 7l3 3M13.5 20h6"/></svg></span><span class="t">Шаблон договора на узбекском и русском</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3.5H7.5a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2h9a2 2 0 0 0 2-2V8z"/><path d="M14 3.5V8h4.5M9 13h6M9 16.5h4"/></svg></span><span class="t">Шаблоны счёта и акта сдачи</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5.5" width="18" height="13" rx="2.5"/><path d="M3 10h18M7 15h3"/></svg></span><span class="t">Инструкция «Как принять оплату — в Узбекистане и из-за рубежа»</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5.5 21V4"/><path d="M5.5 4.5h11.5l-2 4 2 4H5.5"/></svg></span><span class="t">Чек-лист «Красные флаги клиента»</span></div>
+        </div>
+      </div>
+      <div class="result">
+        <div class="h"><span>Результат</span><svg viewBox="0 0 24 24" width="30" height="30" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></div>
+        <p>Оформишь первый заказ по договору и получишь предоплату на карту. Первый заказ окупит курс, а договор защитит от «сделай бесплатно» и бесконечных правок.</p>
+      </div>
+    </div>
+  </div>
+  <div class="progress"><span>Модуль 7 из 9</span><div class="bar"><i class="done"></i><i class="done"></i><i class="done"></i><i class="done"></i><i class="done"></i><i class="done"></i><i class="on"></i><i class=""></i><i class=""></i></div></div>
+</section>
+<section class="slide module">
+  <div class="pattern faint"></div>
+  
+  <div class="top">
+    <div class="week"><span class="week-pill">Неделя 4</span><span class="week-name">Стабильный доход</span></div>
+    <div class="brand">ИИ на заказ · программа <b>09 / 12</b></div>
+  </div>
+  <div class="stack">
+    <div class="back"></div>
+    <div class="card">
+      <div class="tab"><span>Модуль 8</span></div>
+      <h2 class="m-title">Клиент, который возвращается и приводит друзей</h2>
+      <div class="grid">
+        <ul class="topics"><li>Сдать раньше срока: главный секрет повторных заказов</li><li>Чек-лист сдачи: что проверить и что передать владельцу, чтобы после сдачи не было претензий</li><li>Как попросить отзыв и видео-отзыв, чтобы клиент согласился даже на первом проекте</li><li>Кейс для портфолио: «было → стало» в заявках и звонках</li><li>Ежемесячная поддержка: как превратить разовый заказ в оплату каждый месяц</li><li>Одна фраза, после которой клиент сам советует тебя знакомым</li></ul>
+        <div class="aside">
+          <div class="aside-label">Материалы</div>
+          <div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3.5" width="16" height="17" rx="2.5"/><path d="M8 9.2l1.8 1.8 3.4-3.4M8 14.5h8M8 17.5h5"/></svg></span><span class="t">Чек-лист сдачи проекта</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.8l2.5 5.1 5.6.8-4.1 4 1 5.6-5-2.6-5 2.6 1-5.6-4.1-4 5.6-.8z"/></svg></span><span class="t">Шаблон просьбы об отзыве</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="9" r="5.5"/><path d="M8.8 13.4L7.6 21l4.4-2.5 4.4 2.5-1.2-7.6"/></svg></span><span class="t">Шаблон кейса «было → стало»</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 19.5l1-4.4L15.6 5a2.1 2.1 0 0 1 3 3L8.5 18.1z"/><path d="M13.6 7l3 3M13.5 20h6"/></svg></span><span class="t">Договор на ежемесячную поддержку</span></div>
+        </div>
+      </div>
+      <div class="result">
+        <div class="h"><span>Результат</span><svg viewBox="0 0 24 24" width="30" height="30" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></div>
+        <p>Сдашь проект так, что заказчик оставит отзыв, возьмёт ежемесячную поддержку и посоветует тебя знакомым. Это твой первый доход, который не нужно искать заново каждый месяц.</p>
+      </div>
+    </div>
+  </div>
+  <div class="progress"><span>Модуль 8 из 9</span><div class="bar"><i class="done"></i><i class="done"></i><i class="done"></i><i class="done"></i><i class="done"></i><i class="done"></i><i class="done"></i><i class="on"></i><i class=""></i></div></div>
+</section>
+<section class="slide module">
+  <div class="pattern faint"></div>
+  
+  <div class="top">
+    <div class="week"><span class="week-pill">Неделя 4</span><span class="week-name">Стабильный доход</span></div>
+    <div class="brand">ИИ на заказ · программа <b>10 / 12</b></div>
+  </div>
+  <div class="stack">
+    <div class="back"></div>
+    <div class="card">
+      <div class="tab"><span>Модуль 9</span></div>
+      <h2 class="m-title">План на $1000 в месяц</h2>
+      <div class="grid">
+        <ul class="topics"><li>Математика <b class="num">$1000</b>: <b class="num">3–4</b> заказа по <b class="num">$300</b> или <b class="num">2</b> заказа плюс клиенты на поддержке</li><li>Как поднять чек со <b class="num">$100</b> до <b class="num">$300–500</b>: пакеты, ниши, которые платят больше, и доплаты</li><li>Ещё <b class="num">3</b> услуги на ИИ для тех же клиентов: контент для Instagram, дизайн, автоматизация ответов</li><li>Иностранные заказчики: английский с ИИ и когда идти на биржи</li><li>Почему ИИ не заменит тебя: бизнес платит тому, кто продаёт ИИ-решения, а не самой нейросети</li><li>Когда заказов больше, чем вечеров: как не выгореть и кому отдать часть работы</li><li>Защита кейса и план на <b class="num">90</b> дней после курса</li><li>Бонус-урок «ИИ для своего дела»: если у тебя или у семьи есть магазин, точка или мастерская</li></ul>
+        <div class="aside">
+          <div class="aside-label">Материалы</div>
+          <div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="5" width="17" height="15" rx="2.5"/><path d="M3.5 10h17M8 3v4M16 3v4M8 14h3M8 17h6"/></svg></span><span class="t">План на 90 дней — таблица с целями по неделям</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3.5 12.4V4.5a1 1 0 0 1 1-1h7.9l8.1 8.1a1.5 1.5 0 0 1 0 2.1l-7.4 7.4a1.5 1.5 0 0 1-2.1 0z"/><circle cx="8" cy="8" r="1.4"/></svg></span><span class="t">Прайс 2.0 с пакетами</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="M10 9.3v5.4l4.6-2.7z" fill="currentColor" stroke="none"/></svg></span><span class="t">3 мини-урока по новым услугам</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M3.5 12h17M12 3.5c2.3 2.4 3.4 5.2 3.4 8.5s-1.1 6.1-3.4 8.5c-2.3-2.4-3.4-5.2-3.4-8.5S9.7 5.9 12 3.5z"/></svg></span><span class="t">Шаблоны писем иностранным заказчикам на английском</span></div>
+        </div>
+      </div>
+      <div class="result">
+        <div class="h"><span>Результат</span><svg viewBox="0 0 24 24" width="30" height="30" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></div>
+        <p>Составишь личный план до <b class="num">$1000</b> в месяц — сколько заказов, по какой цене и откуда. Поднимешь чек, добавишь <b class="num">3</b> новые услуги и защитишь свой кейс с сертификатом.</p>
+      </div>
+    </div>
+  </div>
+  <div class="progress"><span>Модуль 9 из 9</span><div class="bar"><i class="done"></i><i class="done"></i><i class="done"></i><i class="done"></i><i class="done"></i><i class="done"></i><i class="done"></i><i class="done"></i><i class="on"></i></div></div>
+</section>
+<section class="slide format">
+  <div class="pattern faint"></div>
+  
+  <div class="top">
+    <div class="week"><span class="week-pill">Формат</span><span class="week-name">что входит в курс</span></div>
+    <div class="brand">ИИ на заказ · программа <b>11 / 12</b></div>
+  </div>
+  <h2 class="s-title">Формат и бонусы</h2>
+  <div class="format-grid">
+    <div class="panel">
+      <div class="panel-label">Как проходит обучение</div>
+      <div class="frows"><div class="frow"><span class="ic"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></svg></span><span><b class="num">4</b> недели, <b class="num">9</b> модулей, уроки по <b class="num">15–25</b> минут — смотришь вечером с телефона или ноутбука, записи остаются</span></div><div class="frow"><span class="ic"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-6.5-5.6-6.5-11a6.5 6.5 0 0 1 13 0c0 5.4-6.5 11-6.5 11z"/><circle cx="12" cy="10" r="2.4"/></svg></span><span>Практика на реальных бизнесах твоего города, а не на учебных примерах</span></div><div class="frow"><span class="ic"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 12S6 5.5 12 5.5 21.5 12 21.5 12 18 18.5 12 18.5 2.5 12 2.5 12z"/><circle cx="12" cy="12" r="2.8"/></svg></span><span>Куратор проверяет каждую работу и отвечает в чате</span></div><div class="frow"><span class="ic"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2.2"/><path d="M8.2 8.2a5.4 5.4 0 0 0 0 7.6M15.8 8.2a5.4 5.4 0 0 1 0 7.6M5.3 5.3a9.5 9.5 0 0 0 0 13.4M18.7 5.3a9.5 9.5 0 0 1 0 13.4"/></svg></span><span>Живые разборы <b class="num">2</b> раза в неделю в <b class="num">20:00</b> по Ташкенту</span></div><div class="frow"><span class="ic"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5.5h9M8.5 3.5v2M6 5.5c.6 3.3 2.6 5.9 5.5 7.4M11 5.5c-.6 3.3-2.6 5.9-5.5 7.4"/><path d="M13 20.5l3.5-8.5 3.5 8.5M14.3 17.6h4.4"/></svg></span><span>Уроки и шаблоны на узбекском и русском</span></div><div class="frow"><span class="ic"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8.5" r="3"/><path d="M3.5 19c.6-3 2.9-5 5.5-5s4.9 2 5.5 5"/><circle cx="17" cy="9.5" r="2.4"/><path d="M16.6 14.2c2.1.3 3.6 2 3.9 4.3"/></svg></span><span>Чат потока: рядом такие же, как ты, — студенты, работающие ребята, фрилансеры</span></div></div>
+    </div>
+    <div class="bonuses">
+      <div class="panel-label gold">Бонусы</div>
+      <div class="bonus-grid"><div class="bonus hero"><div class="b-head"><span class="ic"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4.5" y="8" width="15" height="11" rx="3"/><path d="M12 4.5V8M9.5 16h5"/><circle cx="12" cy="3.8" r="1"/><path d="M9 12.6h.01M15 12.6h.01" stroke-width="2.6"/></svg></span><span class="b-name">Ustoz AI</span></div><p>ИИ-наставник в Telegram 24/7: проверит сообщение заказчику, КП и сайт до отправки</p></div><div class="bonus"><div class="b-head"><span class="ic"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2.2"/><path d="M8.2 8.2a5.4 5.4 0 0 0 0 7.6M15.8 8.2a5.4 5.4 0 0 1 0 7.6M5.3 5.3a9.5 9.5 0 0 0 0 13.4M18.7 5.3a9.5 9.5 0 0 1 0 13.4"/></svg></span><span class="b-name">Эфир «Мне не отвечают»</span></div><p>Живой разбор на <b class="num">2</b>-й неделе для тех, у кого застопорилось</p></div><div class="bonus"><div class="b-head"><span class="ic"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3.5 7.5a2 2 0 0 1 2-2h4l2 2.5h7a2 2 0 0 1 2 2V17a2 2 0 0 1-2 2h-13a2 2 0 0 1-2-2z"/></svg></span><span class="b-name">Банк шаблонов</span></div><p>КП, договоры, скрипты и прайсы на двух языках в одной папке</p></div><div class="bonus"><div class="b-head"><span class="ic"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8.5" r="3"/><path d="M3.5 19c.6-3 2.9-5 5.5-5s4.9 2 5.5 5"/><circle cx="17" cy="9.5" r="2.4"/><path d="M16.6 14.2c2.1.3 3.6 2 3.9 4.3"/></svg></span><span class="b-name">Чат выпускников</span></div><p>Делимся заказами и передаём лишние</p></div><div class="bonus"><div class="b-head"><span class="ic"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="9" r="5.5"/><path d="M8.8 13.4L7.6 21l4.4-2.5 4.4 2.5-1.2-7.6"/></svg></span><span class="b-name">Сертификат</span></div><p>После защиты кейса</p></div><div class="bonus"><div class="b-head"><span class="ic"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="9.5" width="16" height="10.5" rx="1.5"/><path d="M3.2 9.5h17.6M12 9.5V20"/><path d="M12 9.5S10.6 5 8.3 5.6C6.6 6.1 7.4 9.5 12 9.5zM12 9.5S13.4 5 15.7 5.6c1.7.5.9 3.9-3.7 3.9z"/></svg></span><span class="b-name">За оплату в первые 48 часов</span></div><p>Личный разбор твоего первого сайта куратором</p></div></div>
+    </div>
+  </div>
+</section>
+<section class="slide final">
+  <div class="pattern"></div>
+  
+  <div class="top">
+    <div class="week"><span class="week-pill">Итог</span><span class="week-name">что будет после программы</span></div>
+    <div class="brand">ИИ на заказ · программа <b>12 / 12</b></div>
+  </div>
+  <h2 class="s-title">Через 30 дней у тебя будет</h2>
+  <div class="res-grid"><div class="res-tile"><span class="res-num">01</span><p>Сайт и Telegram-бот для реальных компаний — <b class="num">2–3</b> работы в портфолио</p></div><div class="res-tile"><span class="res-num">02</span><p>Прайс из трёх пакетов и КП на узбекском и русском</p></div><div class="res-tile"><span class="res-num">03</span><p>Таблица из <b class="num">30+</b> заказчиков своего города и скрипты переписки</p></div><div class="res-tile"><span class="res-num">04</span><p>Первый заказ по договору с предоплатой — деньги на карте</p></div><div class="res-tile"><span class="res-num">05</span><p>Отзыв, кейс и клиент на ежемесячной поддержке</p></div><div class="res-tile"><span class="res-num">06</span><p>Личный план до <b class="num">$1000</b> в месяц: <b class="num">3–4</b> заказа по <b class="num">$300</b></p></div></div>
+  <div class="money"><b>Свои деньги.</b> Не просишь у родителей, закрываешь платежи, помогаешь семье — работаешь головой, а не спиной, и никуда не уезжаешь.</div>
+  <div class="honest">Честно: первый заказ зависит от твоих действий. Мы даём систему, шаблоны и разбор каждого шага, а сообщения заказчикам пишешь ты — с куратором рядом.</div>
+</section>
+<script>
+// Один размер шрифта тем на всех модулях (18.6px), уменьшаем только если не влезает;
+// оставшееся место по высоте раздаём промежуткам между темами.
+document.fonts.ready.then(() => {
+  document.querySelectorAll('section.module').forEach(s => {
+    const card = s.querySelector('.card'), ul = s.querySelector('ul.topics');
+    const lis = [...ul.querySelectorAll('li')];
+    const limit = card.getBoundingClientRect().bottom - 40;
+    const bottom = () => lis[lis.length - 1].getBoundingClientRect().bottom;
+    let size = 18.6, gap = 10;
+    const apply = () => {
+      ul.style.fontSize = size.toFixed(1) + 'px';
+      lis.forEach(li => { li.style.marginBottom = gap.toFixed(1) + 'px'; });
+    };
+    apply();
+    while (bottom() > limit && size > 15.4) { size -= 0.2; apply(); }
+    while (gap < 30 && bottom() < limit - 6) { gap += 0.5; apply(); }
+    if (bottom() > limit) { gap -= 0.5; apply(); }
+  });
+  document.body.dataset.fitted = '1';
+});
+</script></body></html>

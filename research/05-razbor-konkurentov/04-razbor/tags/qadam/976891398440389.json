@@ -1,0 +1,109 @@
+{
+ "creative_id": "976891398440389",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Bizning o'quvchimiz Uzum Marketda ayollar kiyimini sotib, uch oyda 75 million aylanma qildi.",
+  "types": [
+   "соцдоказательство",
+   "результат или доход",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "деньги или результат на экране",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Bizin yuk uchumus uzun marketi ayollar kimini sotuk, uchaydi 75 milyon aylami qildi.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–0.5s: ведущая показывает упакованную женскую одежду; на 0.5s смена плана и значок Uzum",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.5s: «3 oyda 75…» (цифры в анимации)",
+    "timecode": "00:02"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 1 из 4 (≈00:04): «3 oyda 75 000 000»",
+    "timecode": "00:04"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта",
+   "свой бизнес"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:04] Agersiz xam uzun marketi daromadda baxchi boshsangiz, videonu oqirgechik orin.",
+    "timecode": "00:04"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:17] Xtaydan olib gelishini, dukanigisinin togri royhatna otkazishini,",
+    "timecode": "00:17"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:20] Noldan basqishima basqish organasiz.",
+    "timecode": "00:20"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Uzumda o'z biznesingizni xavf-xatarsiz yo'lga qo'ying!"
+   }
+  ],
+  "revenue_claim": "3 oyda 75 000 000"
+ },
+ "offer": {
+  "items": [
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈00:25): «o'rinlar cheklangan»",
+    "timecode": "00:25"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:22] Yangi guruklargi kabul ochik, amma orillar sona cheklengan.",
+    "timecode": "00:22"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Хук по расшифровке, написание исправлено («Bizin yuk uchumus … ayollar kimini sotuk, uchaydi 75 milyon aylami qildi» → «Bizning o'quvchimiz … ayollar kiyimini sotib, uch oyda 75 million aylanma qildi»); цифра подтверждена кадром «3 oyda 75 000 000». Это оборот ученика, не доход — income_claim не заполнен. Ведущая говорит от имени школы («bizning o'quvchimiz»), сама не ученица. В речи: «Bu tasodifiy yutuq emas, bu bizning metodikamiz natijasi» («YouTube» в расшифровке = «yutuq»); в курсе — выбор прибыльных товаров, привоз из Китая (кадр 3 — сток: контейнерный порт с флагом Китая), регистрация магазина, с нуля пошагово. Призыв: «Yangi guruhlarga qabul ochiq, ammo o'rinlar soni cheklangan. Hoziroq ariza qoldiring» (написание исправлено)."
+}

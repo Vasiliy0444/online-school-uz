@@ -1,0 +1,421 @@
+<!doctype html>
+<html lang="ru"><head><meta charset="utf-8"><title>Первый заказ на ИИ — программа курса</title><style>
+@page { size: 1280px 720px; margin: 0; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { background: var(--bg); }
+body { font-family: var(--f-body); color: var(--ink); -webkit-font-smoothing: antialiased; }
+.slide { position: relative; width: 1280px; height: 720px; overflow: hidden; break-after: page; background: var(--slide-bg); }
+.slide:last-child { break-after: auto; }
+.deco { position: absolute; inset: 0; background-image: var(--pattern); background-size: var(--pattern-size); opacity: var(--pattern-op); pointer-events: none; }
+.deco.faint { opacity: calc(var(--pattern-op) * .6); }
+[data-fit] { overflow: hidden; }
+b.num { font-weight: 700; color: var(--num); }
+sup.fn { font-size: .62em; font-weight: 700; color: var(--accent-text); margin-left: 1px; vertical-align: super; line-height: 0; }
+.lbl { display: block; font-family: var(--f-label); font-weight: 800; font-size: 13px; letter-spacing: .16em; text-transform: uppercase; color: var(--accent-text); margin-bottom: 8px; }
+
+/* шапка */
+.top { position: absolute; left: 64px; right: 64px; top: 28px; display: flex; align-items: center; justify-content: space-between; z-index: 3; }
+.week { display: flex; align-items: center; gap: 14px; }
+.pill { font-family: var(--f-label); font-weight: 800; font-size: 15px; letter-spacing: .14em; text-transform: uppercase;
+        color: var(--pill-ink); background: var(--accent); padding: 6px 13px 5px; border-radius: 999px; }
+.pill-note { font-family: var(--f-label); font-weight: 700; font-size: 16px; letter-spacing: .08em; text-transform: uppercase; color: var(--accent-text); }
+.brand { font-family: var(--f-label); font-weight: 700; font-size: 13.5px; letter-spacing: .16em; text-transform: uppercase; color: var(--faint); }
+.brand b { color: var(--muted); margin-left: 8px; }
+.s-title { position: absolute; left: 72px; top: 74px; right: 72px; font-family: var(--f-title); font-weight: var(--title-w); font-size: var(--s-title-size);
+           line-height: 1; letter-spacing: var(--title-ls); text-transform: var(--title-tt); color: var(--ink); }
+.s-intro { position: absolute; left: 72px; right: 72px; top: 136px; font-size: 17px; line-height: 1.35; color: var(--muted); }
+
+/* обложка */
+.cover-label { position: absolute; left: 72px; top: 62px; font-family: var(--f-label); font-weight: 800; font-size: 16px; letter-spacing: .26em;
+               text-transform: uppercase; color: var(--accent-text); display: flex; align-items: center; gap: 16px; }
+.cover-label::after { content: ""; width: 110px; height: 1.5px; background: var(--accent); opacity: .7; }
+.cover-name { position: absolute; left: 68px; top: 96px; width: 770px; height: 150px; line-height: 150px; white-space: nowrap;
+              font-family: var(--f-display); font-weight: 900; letter-spacing: var(--name-ls); text-transform: var(--title-tt); color: var(--name-color); }
+.cover-promise { position: absolute; left: 72px; top: 262px; width: 770px; height: 128px; font-family: var(--f-title); font-weight: var(--title-w);
+                 line-height: 1.06; letter-spacing: var(--title-ls); text-transform: var(--promise-tt); color: var(--ink); }
+.cover-sub { position: absolute; left: 72px; top: 400px; width: 740px; height: 84px; line-height: 1.35; color: var(--soft); }
+.chips { position: absolute; left: 72px; top: 500px; display: flex; gap: 12px; flex-wrap: wrap; width: 760px; }
+.chip { font-size: 16px; font-weight: 600; color: var(--chip-ink); padding: 8px 17px; border-radius: 999px; border: 1.5px solid var(--chip-line); background: var(--chip-bg); }
+.badge { position: absolute; right: 90px; top: 150px; width: 300px; height: 300px; border-radius: 50%; display: flex; flex-direction: column;
+         align-items: center; justify-content: center; background: var(--badge-bg); border: 2px solid var(--badge-line); box-shadow: var(--badge-shadow); }
+.badge::before { content: ""; position: absolute; inset: -20px; border-radius: 50%; border: 1.5px dashed var(--badge-line); opacity: .6; }
+.badge-num { font-family: var(--f-display); font-weight: 900; font-size: 128px; line-height: .9; color: var(--badge-ink); }
+.badge-cap { margin-top: 8px; font-family: var(--f-label); font-weight: 800; font-size: 20px; letter-spacing: .16em; text-transform: uppercase; color: var(--badge-cap); }
+.cover-bottom { position: absolute; left: 72px; right: 72px; bottom: 40px; display: flex; align-items: flex-end; justify-content: space-between; gap: 40px;
+                border-top: 1px solid var(--line); padding-top: 20px; }
+.tagline { flex: 1; font-size: 18px; line-height: 1.35; color: var(--muted); }
+.stats { display: flex; gap: 30px; align-items: flex-end; }
+.stat { display: flex; align-items: baseline; gap: 9px; font-family: var(--f-label); font-weight: 700; font-size: 17px; letter-spacing: .06em; text-transform: uppercase; color: var(--soft); }
+.stat .big { font-family: var(--f-display); font-weight: 900; font-size: 40px; letter-spacing: 0; color: var(--accent-text); }
+.stat-text { max-width: 230px; font-size: 14px; line-height: 1.25; }
+
+/* для кого */
+.seg-row { position: absolute; left: 72px; right: 72px; top: 150px; bottom: 44px; display: grid; grid-auto-rows: minmax(0, 1fr); gap: 16px; }
+.seg-row.n3 { grid-template-columns: repeat(3, 1fr); } .seg-row.n4 { grid-template-columns: repeat(4, 1fr); }
+.seg-row.n5 { grid-template-columns: repeat(5, 1fr); } .seg-row.n2 { grid-template-columns: repeat(2, 1fr); }
+.seg-row.n6 { grid-template-columns: repeat(3, 1fr); grid-template-rows: 1fr 1fr; }
+.seg { display: flex; flex-direction: column; border-radius: 20px; padding: 1.2em 1.1em 1.1em; background: var(--card-bg); border: 1.5px solid var(--card-line); box-shadow: var(--card-shadow); }
+.seg-num { font-family: var(--f-display); font-weight: 900; font-size: 1.7em; line-height: 1; color: var(--accent-text); margin-bottom: .45em; }
+.seg h3 { font-family: var(--f-title); font-weight: var(--title-w); font-size: 1.42em; line-height: 1.05; letter-spacing: var(--title-ls); text-transform: var(--h3-tt); color: var(--ink); margin-bottom: .55em; }
+.seg-text { font-size: .94em; line-height: 1.38; color: var(--soft); margin-bottom: .8em; }
+.seg-res { margin-top: auto; border-top: 1.5px solid var(--accent-soft); padding-top: .7em; }
+.seg-res .lbl { font-size: .78em; margin-bottom: .35em; }
+.seg-res p { font-size: .98em; line-height: 1.36; color: var(--ink); font-weight: 600; }
+
+/* бесплатный вход */
+.lm-row-wrap { position: absolute; left: 72px; right: 72px; top: 150px; bottom: 44px; display: grid; grid-auto-rows: minmax(0, 1fr); gap: 18px; }
+.lm-row-wrap.n1 { grid-template-columns: 1fr; } .lm-row-wrap.n2 { grid-template-columns: repeat(2, 1fr); }
+.lm-row-wrap.n3 { grid-template-columns: repeat(3, 1fr); } .lm-row-wrap.n4 { grid-template-columns: repeat(4, 1fr); }
+.lm { display: flex; flex-direction: column; gap: .9em; border-radius: 22px; padding: 1.3em 1.3em 1.2em; background: var(--card-bg); border: 1.5px solid var(--card-line); box-shadow: var(--card-shadow); }
+.lm-row-wrap.n1 .lm { display: grid; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: auto auto; align-content: center; column-gap: 1.6em; row-gap: 1.4em; }
+.lm-row-wrap.n1 .lm-head, .lm-row-wrap.n1 .lm-extra { grid-column: 1 / -1; }
+.lm-step { display: inline-block; font-family: var(--f-label); font-weight: 800; font-size: .78em; letter-spacing: .16em; text-transform: uppercase; color: var(--pill-ink); background: var(--accent); padding: .3em .7em .25em; border-radius: 999px; margin-bottom: .6em; }
+.lm h3 { font-family: var(--f-title); font-weight: var(--title-w); font-size: 1.45em; line-height: 1.06; letter-spacing: var(--title-ls); text-transform: var(--h3-tt); color: var(--ink); }
+.lm-row-wrap.n1 .lm h3 { font-size: 2em; }
+.lm-extra { font-size: .95em; line-height: 1.38; color: var(--soft); }
+.lm-row { display: flex; gap: .7em; align-items: flex-start; }
+.lm-row .ic, .mat .ic, .frow .ic, .p-head .ic { flex: 0 0 auto; width: 2.1em; height: 2.1em; min-width: 30px; min-height: 30px; border-radius: 10px; display: flex; align-items: center; justify-content: center;
+            background: var(--ic-bg); border: 1px solid var(--ic-line); color: var(--ic-ink); }
+.lm-row .lbl { font-size: .74em; margin-bottom: .25em; }
+.lm-row p { font-size: .95em; line-height: 1.38; color: var(--soft); }
+
+/* путь */
+.path-grid { position: absolute; left: 72px; right: 72px; top: 146px; bottom: 40px; display: grid; grid-template-columns: 1fr 1fr; gap: 36px; }
+.path-col { position: relative; display: flex; flex-direction: column; justify-content: space-between; }
+.path-col::before { content: ""; position: absolute; left: 1.03em; top: 1.2em; bottom: 1.6em; width: 2px; background: var(--accent-soft); }
+.step { position: relative; display: flex; gap: 1em; align-items: flex-start; padding-bottom: .3em; }
+.dot { flex: 0 0 2.15em; height: 2.15em; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-family: var(--f-label); font-weight: 800; font-size: 1em;
+       color: var(--pill-ink); background: var(--accent); position: relative; z-index: 1; }
+.step.last .dot { background: var(--ink); color: var(--bg); }
+.step-label { display: block; font-family: var(--f-label); font-weight: 800; font-size: .86em; letter-spacing: .12em; text-transform: uppercase; color: var(--accent-text); margin: .15em 0 .2em; }
+.step p { font-size: 1em; line-height: 1.34; color: var(--ink); }
+
+/* трансформация */
+.ab { position: absolute; left: 72px; right: 72px; top: 150px; height: 236px; display: grid; grid-template-columns: 1fr 70px 1fr; align-items: stretch; }
+.pt { border-radius: 22px; padding: 1.1em 1.2em; }
+.pt.a { background: var(--card-bg); border: 1.5px solid var(--card-line); }
+.pt.b { background: var(--accent); color: var(--pill-ink); }
+.pt-lbl { display: block; font-family: var(--f-label); font-weight: 800; font-size: .72em; letter-spacing: .16em; text-transform: uppercase; margin-bottom: .5em; opacity: .85; }
+.pt p { font-size: 1em; line-height: 1.34; }
+.pt.a p { color: var(--soft); }
+.ab-arrow { display: flex; align-items: center; justify-content: center; color: var(--accent-text); }
+.t-level { position: absolute; left: 72px; right: 72px; top: 402px; display: flex; gap: 12px; align-items: center; font-size: 16px; line-height: 1.35; color: var(--soft); }
+.t-level svg { flex: 0 0 auto; color: var(--accent-text); }
+.t-steps { position: absolute; left: 72px; right: 72px; top: 452px; height: 206px; display: grid; grid-auto-rows: minmax(0, 1fr); gap: 14px; }
+.t-steps.n3 { grid-template-columns: repeat(3, 1fr); } .t-steps.n4 { grid-template-columns: repeat(4, 1fr); }
+.t-steps.n5 { grid-template-columns: repeat(5, 1fr); } .t-steps.n6 { grid-template-columns: repeat(6, 1fr); }
+.t-steps.n2 { grid-template-columns: repeat(2, 1fr); } .t-steps.n1 { grid-template-columns: 1fr; }
+.t-step { display: flex; flex-direction: column; border-radius: 18px; padding: .9em 1em; background: var(--card-bg); border: 1.5px solid var(--card-line); }
+.t-step p { margin-top: auto; }
+.t-num { display: block; font-family: var(--f-display); font-weight: 900; font-size: 1.6em; line-height: 1; color: var(--accent-text); margin-bottom: .35em; }
+.t-step b { color: var(--ink); }
+.t-step p { font-size: .98em; line-height: 1.34; color: var(--soft); }
+
+/* модуль — общие части */
+ul.topics { list-style: none; }
+ul.topics li { position: relative; padding-left: 1.45em; line-height: 1.34; color: var(--soft); margin-bottom: .5em; }
+ul.topics li::before { content: ""; position: absolute; left: .25em; top: .5em; width: .42em; height: .42em; transform: rotate(45deg); background: var(--accent); border-radius: 1.5px; }
+ul.tasks { list-style: none; margin-bottom: 1em; }
+ul.tasks li { display: flex; gap: .55em; align-items: flex-start; line-height: 1.32; color: var(--soft); margin-bottom: .5em; }
+ul.tasks li .ic { flex: 0 0 auto; color: var(--accent-text); margin-top: .05em; }
+.mat { display: flex; gap: .7em; align-items: center; margin-bottom: .6em; }
+.mat .t { line-height: 1.28; color: var(--soft); }
+.m-lead { font-size: 16px; line-height: 1.35; color: var(--muted); margin: -6px 0 12px; }
+.progress { position: absolute; left: 116px; bottom: 20px; display: flex; align-items: center; gap: 14px; z-index: 3;
+            font-family: var(--f-label); font-weight: 700; font-size: 13px; letter-spacing: .14em; text-transform: uppercase; color: var(--faint); }
+.progress .bar { display: flex; gap: 6px; }
+.progress i { display: block; width: 26px; height: 5px; border-radius: 3px; background: var(--bar-off); }
+.progress i.done { background: var(--bar-done); } .progress i.on { background: var(--accent); }
+
+/* модуль — Тимочко: карточка-стопка как в «Программе» */
+.module.t .stack { position: absolute; left: 116px; top: 92px; width: 1076px; height: 566px; }
+.module.t .back { position: absolute; inset: 0; transform: translate(16px, -14px); border-radius: 26px; background: var(--back-bg); border: 1.5px solid var(--back-line); }
+.module.t .card { position: absolute; inset: 0; display: flex; flex-direction: column; border-radius: 26px; padding: 30px 40px 34px 62px;
+                  background: var(--card-bg); border: 1.5px solid var(--card-line-strong); box-shadow: var(--card-shadow); }
+.module.t .tab { position: absolute; left: -27px; top: 50px; width: 54px; height: 206px; border-radius: 14px; background: var(--accent);
+                 display: flex; align-items: center; justify-content: center; box-shadow: 0 12px 28px var(--tab-shadow); }
+.module.t .tab span { writing-mode: vertical-rl; transform: rotate(180deg); font-family: var(--f-label); font-weight: 900; font-size: 21px; letter-spacing: .16em; text-transform: uppercase; color: var(--pill-ink); }
+.module.t .m-title { flex: 0 0 auto; max-height: 104px; padding-bottom: .08em; font-family: var(--f-title); font-weight: var(--title-w); line-height: 1.06; letter-spacing: var(--title-ls);
+                     text-transform: var(--h3-tt); color: var(--ink); margin-bottom: 16px; max-width: 960px; }
+.module.t .grid { flex: 1; min-height: 0; display: grid; grid-template-columns: 1fr 330px; column-gap: 40px; }
+.module.t .topics-box { height: 100%; }
+.module.t .aside { align-self: start; }
+.aside-label { font-family: var(--f-label); font-weight: 800; font-size: 13px; letter-spacing: .18em; text-transform: uppercase; color: var(--accent-text); margin-bottom: 10px; }
+.module.t .result { position: absolute; right: 34px; bottom: -30px; width: 372px; border-radius: 20px; padding: 15px 22px 17px; max-height: 214px;
+                    background: var(--res-bg); border: 1.5px solid var(--res-line); box-shadow: var(--res-shadow); }
+.module.t .result .h { display: flex; align-items: center; justify-content: space-between; margin-bottom: 6px; font-family: var(--f-label); font-weight: 800; font-size: 1.4em; color: var(--res-head); }
+.module.t .result p { line-height: 1.38; color: var(--res-ink); }
+.module.t .result b.num { color: var(--res-num); }
+
+/* модуль — Дымшаков: результат полосой, задания отдельной колонкой */
+.module.d .dcard { position: absolute; left: 64px; right: 64px; top: 80px; bottom: 50px; display: flex; flex-direction: column; border-radius: 26px;
+                   padding: 26px 34px 24px; background: var(--card-bg); border: 1.5px solid var(--card-line); box-shadow: var(--card-shadow); }
+.d-head { display: flex; gap: 22px; align-items: center; margin-bottom: 16px; }
+.d-num { font-family: var(--f-display); font-weight: 900; font-size: 92px; line-height: .82; color: var(--accent-text); }
+.d-titles { flex: 1; min-width: 0; }
+.d-kicker { display: block; font-family: var(--f-label); font-weight: 800; font-size: 13px; letter-spacing: .2em; text-transform: uppercase; color: var(--muted); margin-bottom: 4px; }
+.module.d .m-title { max-height: 104px; padding-bottom: .06em; font-family: var(--f-title); font-weight: var(--title-w); line-height: 1; letter-spacing: var(--title-ls); text-transform: var(--h3-tt); color: var(--ink); }
+.module.d .m-lead { margin: 6px 0 0; }
+.d-grid { flex: 1; min-height: 0; display: grid; grid-template-columns: 1.35fr 1fr; gap: 32px; margin-bottom: 16px; }
+.d-col { height: 100%; }
+.d-col.side { border-left: 1.5px solid var(--line); padding-left: 28px; }
+.d-col .lbl { font-size: 12.5px; }
+.d-result { flex: 0 0 auto; max-height: 118px; display: grid; grid-template-columns: 250px 1fr; gap: 20px; align-items: center; border-radius: 18px; padding: 14px 22px;
+            background: var(--res-bg); border: 1.5px solid var(--res-line); }
+.d-res-lbl { display: flex; gap: 10px; align-items: center; font-family: var(--f-label); font-weight: 800; font-size: 15px; letter-spacing: .14em; text-transform: uppercase; color: var(--res-head); }
+.d-result p { line-height: 1.36; color: var(--res-ink); font-weight: 600; }
+.d-result b.num { color: var(--res-num); }
+
+/* формат */
+.format-grid { position: absolute; left: 72px; right: 72px; top: 148px; bottom: 42px; display: grid; grid-template-columns: 540px 1fr; grid-template-rows: minmax(0, 1fr); gap: 24px; }
+.panel { display: flex; flex-direction: column; border-radius: 22px; padding: 22px 24px 18px; background: var(--card-bg); border: 1.5px solid var(--card-line-strong); box-shadow: var(--card-shadow); }
+.panel-label { font-family: var(--f-label); font-weight: 800; font-size: 14px; letter-spacing: .18em; text-transform: uppercase; color: var(--accent-text); margin-bottom: 14px; }
+.frows { flex: 1; min-height: 0; display: flex; flex-direction: column; justify-content: space-between; gap: .45em; }
+.frow { display: flex; gap: .8em; align-items: center; line-height: 1.3; color: var(--soft); }
+.perks { display: flex; flex-direction: column; min-height: 0; }
+.perk-grid { flex: 1; min-height: 0; display: grid; grid-template-columns: 1fr 1fr; grid-auto-rows: minmax(0, 1fr); gap: 13px; }
+.perk-grid.n4 { grid-template-rows: repeat(2, minmax(0, 1fr)); } .perk-grid.n5, .perk-grid.n6 { grid-template-rows: repeat(3, minmax(0, 1fr)); }
+.perk-grid.n3 { grid-template-columns: 1fr; grid-template-rows: repeat(3, minmax(0, 1fr)); }
+.perk { border-radius: 18px; padding: .95em 1.1em 1em; background: var(--perk-bg); border: 1.5px solid var(--perk-line); }
+.perk.hero { background: var(--perk-hero-bg); border-color: var(--accent); }
+.p-head { display: flex; align-items: center; gap: .7em; margin-bottom: .5em; }
+.p-name { font-family: var(--f-title); font-weight: var(--title-w); font-size: 1.3em; line-height: 1.05; letter-spacing: var(--title-ls); text-transform: var(--h3-tt); color: var(--ink); }
+.perk p { font-size: .96em; line-height: 1.35; color: var(--soft); }
+
+/* итог */
+.res-body { position: absolute; left: 72px; right: 72px; top: 150px; bottom: 32px; display: flex; flex-direction: column; gap: 16px; }
+.res-labels { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.res-label { border-radius: 18px; padding: 14px 18px; background: var(--card-bg); border: 1.5px solid var(--card-line); }
+.res-label:first-child { background: var(--accent); border-color: var(--accent); }
+.res-label:first-child .lbl, .res-label:first-child p { color: var(--pill-ink); }
+.res-label p { font-size: 16.5px; line-height: 1.35; color: var(--ink); font-weight: 600; }
+.res-grid { flex: 1; min-height: 0; display: grid; grid-template-columns: repeat(3, 1fr); grid-auto-rows: minmax(0, 1fr); gap: 16px; }
+.res-grid.n4 { grid-template-columns: repeat(4, 1fr); } .res-grid.n2 { grid-template-columns: repeat(2, 1fr); }
+.res-grid.n5 { grid-template-columns: repeat(6, 1fr); } .res-grid.n5 .res-tile { grid-column: span 2; }
+.res-grid.n5 .res-tile:nth-child(n+4) { grid-column: span 3; }
+.res-tile { border-radius: 20px; padding: 18px 20px; background: var(--card-bg); border: 1.5px solid var(--card-line-strong); box-shadow: var(--card-shadow); }
+.res-num { display: block; font-family: var(--f-display); font-weight: 900; font-size: 1.6em; line-height: 1; color: var(--accent-text); margin-bottom: .45em; }
+.res-tile p { line-height: 1.32; color: var(--ink); }
+.money { font-size: 20px; line-height: 1.4; color: var(--soft); }
+.money b { font-family: var(--f-title); font-weight: var(--title-w); font-size: 28px; letter-spacing: var(--title-ls); text-transform: var(--h3-tt); color: var(--accent-text); margin-right: 6px; }
+.honest { flex: 0 0 auto; padding-top: 12px; border-top: 1px solid var(--line); font-size: 14.5px; line-height: 1.4; color: var(--muted); font-style: italic; }
+
+.has-intro .seg-row, .has-intro .lm-row-wrap, .has-intro .path-grid { top: 178px; }
+
+.pt.b sup.fn, .d-result sup.fn, .res-label:first-child sup.fn, .lm-step sup.fn { color: inherit; }
+
+/* источники */
+.src-list { position: absolute; left: 72px; right: 72px; top: 186px; bottom: 40px; list-style: none; columns: 2; column-gap: 40px; }
+.src-list li { break-inside: avoid; line-height: 1.38; color: var(--soft); margin-bottom: .7em; }
+.src-list sup.fn { font-size: .8em; margin-right: .4em; }
+
+:root {
+  --bg: #0C0E11; --slide-bg: radial-gradient(820px 520px at 108% -10%, rgba(200,241,53,.13), transparent 62%), radial-gradient(700px 520px at -8% 112%, rgba(200,241,53,.06), transparent 60%), #0C0E11;
+  --ink: #F4F6F8; --soft: #C9CFD8; --muted: #8C94A1; --faint: #5E6572; --line: #262B33;
+  --accent: #C8F135; --accent-text: #C8F135; --accent-soft: rgba(200,241,53,.30); --pill-ink: #0C0E11; --num: #FFFFFF;
+  --card-bg: #14171C; --card-line: #252A32; --card-line-strong: #2E343D; --card-shadow: 0 24px 60px rgba(0,0,0,.45);
+  --back-bg: #111418; --back-line: #252A32; --tab-shadow: rgba(200,241,53,.25);
+  --res-bg: #C8F135; --res-line: #C8F135; --res-head: #0C0E11; --res-ink: #0C0E11; --res-num: #0C0E11; --res-shadow: none;
+  --ic-bg: rgba(200,241,53,.10); --ic-line: rgba(200,241,53,.40); --ic-ink: #C8F135;
+  --chip-ink: #C8F135; --chip-line: rgba(200,241,53,.6); --chip-bg: rgba(200,241,53,.07);
+  --badge-bg: #14171C; --badge-line: #C8F135; --badge-ink: #C8F135; --badge-cap: #F4F6F8; --badge-shadow: 0 0 110px rgba(200,241,53,.18);
+  --perk-bg: #14171C; --perk-line: #252A32; --perk-hero-bg: rgba(200,241,53,.08);
+  --bar-off: #262B33; --bar-done: rgba(200,241,53,.45);
+  --name-color: #F4F6F8; --name-size: 118px; --name-ls: .01em; --s-title-size: 62px;
+  --pattern: linear-gradient(rgba(255,255,255,.05) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.05) 1px, transparent 1px); --pattern-size: 40px 40px; --pattern-op: .8;
+  --f-display: 'Bebas Neue Cyrillic', 'Bebas Neue', 'Akrobat', sans-serif; --f-title: 'Bebas Neue Cyrillic', 'Bebas Neue', 'Akrobat', sans-serif; --f-label: 'Akrobat', sans-serif;
+  --f-body: 'Avenir Next', 'Helvetica Neue', Arial, sans-serif; --title-w: 400; --title-ls: .01em; --title-tt: uppercase; --h3-tt: uppercase; --promise-tt: none;
+}
+.cover-promise { font-family: 'Akrobat', sans-serif; font-weight: 800; letter-spacing: 0; }
+.module.d .m-title { line-height: .98; }</style></head><body>
+<section class="slide cover">
+  <div class="deco"></div>
+  <div class="cover-label">Программа курса · по методике Олега Дымшакова</div>
+  <h1 class="cover-name" data-fit data-min="44" data-max="118">Первый заказ на ИИ</h1>
+  <div class="cover-promise" data-fit data-min="28" data-max="44">Первый оплаченный заказ от малого бизнеса за 4 недели: сайты и боты на нейросетях без программирования и вложений</div>
+  <div class="cover-sub" data-fit data-min="16" data-max="22">Для студентов, работающих ребят и фрилансеров, которым нужен свой доход вечерами — без отрыва от учёбы и работы. За 4 недели соберёшь сайт, бота и портфолио, найдёшь заказчиков в своём районе и договоришься о первой оплате.</div>
+  <div class="chips"><span class="chip">без программирования</span><span class="chip">без вложений на старте</span><span class="chip">без отрыва от учёбы и работы</span></div>
+  <div class="badge"><span class="badge-num">4</span><span class="badge-cap">недели</span></div>
+  <div class="cover-bottom">
+    <div class="tagline">Это курс не про нейросети, а про заказы: где найти бизнес, которому нужен сайт, как договориться о цене и получить оплату</div>
+    <div class="stats"><div class="stat"><span class="big">4</span><span>недели</span></div><div class="stat"><span class="big">7</span><span>модулей</span></div><div class="stat stat-text"><span>онлайн, по вечерам, с куратором</span></div></div>
+  </div>
+</section>
+<section class="slide segments">
+  <div class="deco faint"></div>
+  <div class="top"><div class="week"><span class="pill">Для кого</span><span class="pill-note">узнай себя</span></div><div class="brand">Первый заказ на ИИ · программа <b>02 / 14</b></div></div>
+  <h2 class="s-title">Для кого эта программа</h2>
+  <div class="seg-row n5"><div class="seg" data-fit data-min="11.5" data-max="19"><div class="seg-num">01</div><h3>Студент: свои деньги, не пропуская пары</h3><p class="seg-text">Пары каждый день, деньги — от родителей и случайных подработок. ИИ пользуешься постоянно, а заказчики приходили случайно или не приходили вовсе.</p><div class="seg-res"><span class="lbl">Твой результат</span><p>Соберёшь портфолио из реальных проектов, найдёшь первого заказчика через знакомых и свой район и начнёшь сам платить за свои расходы — вечерами.</p></div></div><div class="seg" data-fit data-min="11.5" data-max="19"><div class="seg-num">02</div><h3>Работаешь и тянешь семью: аренда, кредит, той</h3><p class="seg-text">Днём работа, но аренда съедает почти половину зарплаты, а кредит за той платишь годами<sup class="fn">7</sup>. Вечером сил мало, и ты думаешь о ночном такси или отъезде.</p><div class="seg-res"><span class="lbl">Твой результат</span><p>За 2–3 вечера в неделю выйдешь на первый заказ и посчитаешь, сколько заказов закрывают твой платёж, — прибавка к зарплате без новых долгов и без отъезда.</p></div></div><div class="seg" data-fit data-min="11.5" data-max="19"><div class="seg-num">03</div><h3>Джун или фрилансер, который упёрся в потолок чека</h3><p class="seg-text">Сайты делать умеешь, но заказы то есть, то нет, а за проект берёшь копейки из страха потерять клиента. На бирже без портфолио не пробиться.</p><div class="seg-res"><span class="lbl">Твой результат</span><p>Будешь собирать проект с ИИ за вечер, а не за неделю, поднимешь чек до $300 за сайт<sup class="fn">2</sup> и найдёшь заказчиков рядом, без бирж.</p></div></div><div class="seg" data-fit data-min="11.5" data-max="19"><div class="seg-num">04</div><h3>Из региона и не хочешь уезжать на заработки</h3><p class="seg-text">В регионе платят меньше, чем в Ташкенте<sup class="fn">5</sup>, друзья уехали в Россию или Корею, а посредники по визам обманывают. «Заработок онлайн» кажется разводом.</p><div class="seg-res"><span class="lbl">Твой результат</span><p>Найдёшь первых заказчиков в своём городе — магазин, учебный центр, кафе — и начнёшь зарабатывать дома, рядом с семьёй, без виз и посредников.</p></div></div><div class="seg" data-fit data-min="11.5" data-max="19"><div class="seg-num">05</div><h3>Вернулся с заработков и думаешь о своём деле</h3><p class="seg-text">Дома спокойнее, но платят меньше, чем в России. Есть накопления и мысль открыть точку, но непонятно, как привести клиентов, и страшно прогореть.</p><div class="seg-res"><span class="lbl">Твой результат</span><p>Соберёшь Telegram-бота для своего дела или для соседей по району и проверишь спрос до того, как вкладывать накопления.</p></div></div></div>
+</section>
+<section class="slide leads has-intro">
+  <div class="deco faint"></div>
+  <div class="top"><div class="week"><span class="pill">До покупки</span><span class="pill-note">бесплатный вход</span></div><div class="brand">Первый заказ на ИИ · программа <b>03 / 14</b></div></div>
+  <h2 class="s-title">Бесплатный вход — проверь нас до оплаты</h2><p class="s-intro">Первый шаг бесплатный: 4 вечера в Telegram-боте, чтобы проверить и нас, и себя. Зови друга — эфир удобно смотреть вдвоём.</p>
+  <div class="lm-row-wrap n1"><div class="lm" data-fit data-min="11.5" data-max="24"><div class="lm-head"><span class="lm-step">Бесплатно</span><h3>«Первый сайт на ИИ»: 3 урока в боте и живой эфир</h3></div><div class="lm-row"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5l7 2.8v5.2c0 4.4-3 7.8-7 9-4-1.2-7-4.6-7-9V6.3z"/><path d="M9 12l2.1 2.1L15.2 10"/></svg></span><div><span class="lbl">Закрывает сомнения</span><p>Что реально приносит деньги; сколько вложить и когда первые деньги; получится ли у меня; не лохотрон ли; не пропадут ли деньги; что внутри курса</p></div></div><div class="lm-row"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5l8.5 4.3-8.5 4.3-8.5-4.3z"/><path d="M3.5 12.2l8.5 4.3 8.5-4.3M3.5 16.4l8.5 4.3 8.5-4.3"/></svg></span><div><span class="lbl">Внутри</span><p>3 урока: честно сравниваем такси, смены, биржи, отъезд и ИИ-услуги и считаем твою цель. Живой эфир вместо отзывов: при тебе собирают сайт для компании зрителя.</p></div></div><div class="lm-row"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="9.5" width="16" height="10.5" rx="1.5"/><path d="M3.2 9.5h17.6M12 9.5V20"/><path d="M12 9.5S10.6 5 8.3 5.6C6.6 6.1 7.4 9.5 12 9.5zM12 9.5S13.4 5 15.7 5.6c1.7.5.9 3.9-3.7 3.9z"/></svg></span><div><span class="lbl">Уносишь</span><p>Список из 3 компаний своего района без сайта, расчёт, сколько заказов закрывают твою цель, и черновик сайта, собранный вместе с ведущим на эфире.</p></div></div></div></div>
+</section>
+<section class="slide transform">
+  <div class="deco faint"></div>
+  <div class="top"><div class="week"><span class="pill">Трансформация</span><span class="pill-note">точка А → точка Б</span></div><div class="brand">Первый заказ на ИИ · программа <b>04 / 14</b></div></div>
+  <h2 class="s-title">Из точки А в точку Б</h2>
+  <div class="ab">
+    <div class="pt a" data-fit data-min="13" data-max="22"><span class="pt-lbl">Точка А · сейчас</span><p>Деньги нужны к сроку — контракт, той, кредит, помощь семье, — а своего дохода нет или он скачет. ИИ пользуешься каждый день, но заказчиков нет, рекламе «заработка» не веришь и думаешь о такси, сменах или отъезде.</p></div>
+    <div class="ab-arrow"><svg viewBox="0 0 24 24" width="44" height="44" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12h15M13.5 6.5L19 12l-5.5 5.5"/></svg></div>
+    <div class="pt b" data-fit data-min="13" data-max="22"><span class="pt-lbl">Точка Б · после курса</span><p>Вечерами делаешь сайты и Telegram-ботов на нейросетях для малого бизнеса своего города. Знаешь, где взять заказчика, сколько брать и как получить оплату по договору: первый заказ оплачен, план на 3–4 заказа в месяц<sup class="fn">1</sup> готов.</p></div>
+  </div>
+  <div class="t-level"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5l8.5 4.3-8.5 4.3-8.5-4.3z"/><path d="M3.5 12.2l8.5 4.3 8.5-4.3M3.5 16.4l8.5 4.3 8.5-4.3"/></svg><span>3 — система: ты уносишь не просто навык собрать сайт (уровень 1), а повторяемый путь «заказчик → договор → оплата»; профессию и жизнь дома (уровень 4) даёт практика после курса.</span></div>
+  <div class="t-steps n6"><div class="t-step" data-fit data-min="11.5" data-max="19"><span class="t-num">01</span><p>Из «ИИ — для развлечения» в первый опубликованный сайт для реальной компании</p></div><div class="t-step" data-fit data-min="11.5" data-max="19"><span class="t-num">02</span><p>Из «не знаю, где искать» в список из 20 компаний района и 10 отправленных сообщений</p></div><div class="t-step" data-fit data-min="11.5" data-max="19"><span class="t-num">03</span><p>Из «нечего показать» в портфолио из 3 сайтов и Telegram-бота</p></div><div class="t-step" data-fit data-min="11.5" data-max="19"><span class="t-num">04</span><p>Из «боюсь назвать цену» в свой прайс, КП и первый разговор с владельцем</p></div><div class="t-step" data-fit data-min="11.5" data-max="19"><span class="t-num">05</span><p>Из «сделал другу бесплатно» в первый заказ по договору с оплатой на карту</p></div><div class="t-step" data-fit data-min="11.5" data-max="19"><span class="t-num">06</span><p>Из разового заказа в план на 3–4 заказа в месяц и постоянных клиентов</p></div></div>
+</section>
+<section class="slide module d">
+  <div class="deco faint"></div>
+  <div class="top"><div class="week"><span class="pill">Модуль 1</span><span class="pill-note">программа курса</span></div><div class="brand">Первый заказ на ИИ · программа <b>05 / 14</b></div></div>
+  <div class="dcard">
+    <div class="d-head"><span class="d-num">01</span><div class="d-titles"><span class="d-kicker">Модуль 1</span>
+      <h2 class="m-title" data-fit data-min="30" data-max="46">Первый сайт за вечер — даже если ты не программист</h2></div></div>
+    <div class="d-grid">
+      <div class="d-col" data-fit data-min="12.5" data-max="17.5" data-spread="li"><div class="lbl">Содержание модуля</div><ul class="topics"><li>Какие нейросети работают из Узбекистана бесплатно — и каких хватит на первый заказ?</li><li>Код пишет ИИ, а ты ведёшь задачу, вкус и клиента — поэтому ИИ тебя не заменит</li><li>Сайт за вечер: повторяешь за экраном — от пустой страницы до ссылки, которую не стыдно отправить</li><li><b class="num">5</b> способов исправить ошибку нейросети без знания кода</li><li>Как начать с телефона: что получится сразу, а для чего понадобится ноутбук?</li><li>Как учиться <b class="num">2–3</b> вечера в неделю, чтобы пары и работа не страдали?</li></ul></div>
+      <div class="d-col side" data-fit data-min="11.5" data-max="15"><div class="lbl">Задания</div><ul class="tasks"><li><span class="ic"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></span><span>Собери сайт для реальной компании своего района — например, из бесплатных уроков</span></li><li><span class="ic"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></span><span>Опубликуй сайт, проверь его с телефона и пришли ссылку куратору</span></li><li><span class="ic"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></span><span>Исправь сайт по замечаниям куратора — это первая работа в твоём портфолио</span></li></ul><div class="lbl">Материалы</div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M11 3.5l1.9 5 5.1 1.9-5.1 1.9-1.9 5-1.9-5L4 10.4l5.1-1.9z"/><path d="M18.5 15l.8 2 2 .8-2 .8-.8 2-.8-2-2-.8 2-.8z"/></svg></span><span class="t">Карта бесплатных нейросетей, доступных из Узбекистана</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3.5H7.5a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2h9a2 2 0 0 0 2-2V8z"/><path d="M14 3.5V8h4.5M9 13h6M9 16.5h4"/></svg></span><span class="t">10 готовых запросов: сайт от пустой страницы до публикации</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="M10 9.3v5.4l4.6-2.7z" fill="currentColor" stroke="none"/></svg></span><span class="t">Видео «Сайт за вечер» — повторяешь за экраном</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3.5" width="16" height="17" rx="2.5"/><path d="M8 9.2l1.8 1.8 3.4-3.4M8 14.5h8M8 17.5h5"/></svg></span><span class="t">Чек-лист: сайт готов к показу владельцу</span></div></div>
+    </div>
+    <div class="d-result" data-fit data-min="13" data-max="17"><div class="d-res-lbl"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="4.5"/><circle cx="12" cy="12" r="1.2" fill="currentColor"/></svg><span>Результат после модуля</span></div><p>За один вечер соберёшь и опубликуешь первый сайт для реальной компании своего района — на бесплатных нейросетях, без единой строки кода руками. Первая работа в портфолио будет готова уже в первую неделю.</p></div>
+  </div>
+  <div class="progress"><span>Модуль 1 из 7</span><div class="bar"><i class="on"></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i></div></div>
+</section>
+<section class="slide module d">
+  <div class="deco faint"></div>
+  <div class="top"><div class="week"><span class="pill">Модуль 2</span><span class="pill-note">программа курса</span></div><div class="brand">Первый заказ на ИИ · программа <b>06 / 14</b></div></div>
+  <div class="dcard">
+    <div class="d-head"><span class="d-num">02</span><div class="d-titles"><span class="d-kicker">Модуль 2</span>
+      <h2 class="m-title" data-fit data-min="30" data-max="46">Заказчики рядом: 20 компаний и первые 10 сообщений</h2></div></div>
+    <div class="d-grid">
+      <div class="d-col" data-fit data-min="12.5" data-max="17.5" data-spread="li"><div class="lbl">Содержание модуля</div><ul class="topics"><li>Почему первый заказ приходит не с биржи, а от знакомых и соседей — и как этим воспользоваться?</li><li>Как за час найти на картах <b class="num">20</b> компаний без сайта или с заказами «в личку»?</li><li>Кому нужен сайт, а кому бот: магазин, учебный центр, кафе, салон — по каким признакам видно заказ</li><li><b class="num">3</b> шаблона первого сообщения владельцу, на которые отвечают, а не блокируют</li><li>Как рассказать о своей услуге родственникам, однокурсникам и соседям без неловкости?</li><li>Молчат или отказали: что написать через <b class="num">3</b> дня и когда идти к следующему?</li></ul></div>
+      <div class="d-col side" data-fit data-min="11.5" data-max="15"><div class="lbl">Задания</div><ul class="tasks"><li><span class="ic"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></span><span>Составь таблицу из <b class="num">20</b> компаний района: кому нужен сайт, кому бот</span></li><li><span class="ic"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></span><span>Отправь <b class="num">10</b> сообщений владельцам по шаблону и отметь ответы в таблице</span></li><li><span class="ic"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></span><span>Расскажи о своей услуге <b class="num">5</b> знакомым и попроси порекомендовать тебя</span></li></ul><div class="lbl">Материалы</div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="4.5" width="17" height="15" rx="2"/><path d="M3.5 9.5h17M3.5 14.5h17M9.5 4.5v15"/></svg></span><span class="t">Таблица «20 заказчиков»: компания, контакт, что предложить, статус</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 12a7.5 7.5 0 0 1-11 6.6L4.2 20l1.2-4.4A7.5 7.5 0 1 1 20 12z"/><path d="M9 12h.01M12.5 12h.01M16 12h.01" stroke-width="2.4"/></svg></span><span class="t">3 шаблона первого сообщения — на узбекском и русском</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-6.5-5.6-6.5-11a6.5 6.5 0 0 1 13 0c0 5.4-6.5 11-6.5 11z"/><circle cx="12" cy="10" r="2.4"/></svg></span><span class="t">Карта ниш: кому продавать сайт, а кому бота</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 12a7.5 7.5 0 0 1-11 6.6L4.2 20l1.2-4.4A7.5 7.5 0 1 1 20 12z"/><path d="M9 12h.01M12.5 12h.01M16 12h.01" stroke-width="2.4"/></svg></span><span class="t">Скрипт разговора со знакомыми о твоей услуге</span></div></div>
+    </div>
+    <div class="d-result" data-fit data-min="13" data-max="17"><div class="d-res-lbl"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="4.5"/><circle cx="12" cy="12" r="1.2" fill="currentColor"/></svg><span>Результат после модуля</span></div><p>За неделю составишь список из <b class="num">20</b> компаний своего района и отправишь владельцам первые <b class="num">10</b> сообщений. Перестанешь гадать, где искать заказчиков: у тебя будут свой список и шаблоны, по которым пишешь дальше.</p></div>
+  </div>
+  <div class="progress"><span>Модуль 2 из 7</span><div class="bar"><i class="done"></i><i class="on"></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i></div></div>
+</section>
+<section class="slide module d">
+  <div class="deco faint"></div>
+  <div class="top"><div class="week"><span class="pill">Модуль 3</span><span class="pill-note">программа курса</span></div><div class="brand">Первый заказ на ИИ · программа <b>07 / 14</b></div></div>
+  <div class="dcard">
+    <div class="d-head"><span class="d-num">03</span><div class="d-titles"><span class="d-kicker">Модуль 3</span>
+      <h2 class="m-title" data-fit data-min="30" data-max="46">Портфолио из 3 сайтов, с которым не стыдно к клиенту</h2></div></div>
+    <div class="d-grid">
+      <div class="d-col" data-fit data-min="12.5" data-max="17.5" data-spread="li"><div class="lbl">Содержание модуля</div><ul class="topics"><li>Бизнес платит не за сайт, а за заявки: <b class="num">5</b> блоков, без которых сайт не продаёт</li><li><b class="num">20</b> промптов: нейросеть пишет тексты сайта под нишу за <b class="num">10</b> минут</li><li>Как сделать картинки без фотографа, чтобы сайт не выглядел шаблоном?</li><li>Кнопка «Заказать» ведёт в Telegram владельца: заявки без программиста</li><li>Сайт-образец до встречи: почему готовое продаёт сильнее обещаний</li><li>Портфолио без клиентов: как <b class="num">3</b> работы доказывают, что тебе можно доверить заказ</li></ul></div>
+      <div class="d-col side" data-fit data-min="11.5" data-max="15"><div class="lbl">Задания</div><ul class="tasks"><li><span class="ic"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></span><span>Собери сайты-образцы для <b class="num">2</b> компаний из своего списка — под их нишу</span></li><li><span class="ic"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></span><span>Оформи страницу-портфолио из <b class="num">3</b> работ: задача → что сделал → результат</span></li><li><span class="ic"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></span><span>Покажи сайт-образец хотя бы одному владельцу — лично или в переписке</span></li></ul><div class="lbl">Материалы</div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5l8.5 4.3-8.5 4.3-8.5-4.3z"/><path d="M3.5 12.2l8.5 4.3 8.5-4.3M3.5 16.4l8.5 4.3 8.5-4.3"/></svg></span><span class="t">5 структур сайта: магазин, учебный центр, кафе, салон, услуги</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M11 3.5l1.9 5 5.1 1.9-5.1 1.9-1.9 5-1.9-5L4 10.4l5.1-1.9z"/><path d="M18.5 15l.8 2 2 .8-2 .8-.8 2-.8-2-2-.8 2-.8z"/></svg></span><span class="t">20 промптов для текстов сайта под нишу</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3.5 7.5a2 2 0 0 1 2-2h4l2 2.5h7a2 2 0 0 1 2 2V17a2 2 0 0 1-2 2h-13a2 2 0 0 1-2-2z"/></svg></span><span class="t">Шаблон страницы-портфолио</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3.5" width="16" height="17" rx="2.5"/><path d="M8 9.2l1.8 1.8 3.4-3.4M8 14.5h8M8 17.5h5"/></svg></span><span class="t">Чек-лист проверки сайта перед показом</span></div></div>
+    </div>
+    <div class="d-result" data-fit data-min="13" data-max="17"><div class="d-res-lbl"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="4.5"/><circle cx="12" cy="12" r="1.2" fill="currentColor"/></svg><span>Результат после модуля</span></div><p>Соберёшь <b class="num">2</b> сайта-образца под реальные компании из своего списка и портфолио из <b class="num">3</b> работ. На встречу с владельцем придёшь не с обещаниями, а с готовым сайтом его компании.</p></div>
+  </div>
+  <div class="progress"><span>Модуль 3 из 7</span><div class="bar"><i class="done"></i><i class="done"></i><i class="on"></i><i class=""></i><i class=""></i><i class=""></i><i class=""></i></div></div>
+</section>
+<section class="slide module d">
+  <div class="deco faint"></div>
+  <div class="top"><div class="week"><span class="pill">Модуль 4</span><span class="pill-note">программа курса</span></div><div class="brand">Первый заказ на ИИ · программа <b>08 / 14</b></div></div>
+  <div class="dcard">
+    <div class="d-head"><span class="d-num">04</span><div class="d-titles"><span class="d-kicker">Модуль 4</span>
+      <h2 class="m-title" data-fit data-min="30" data-max="46">Бот, который принимает заказы, пока владелец спит</h2></div></div>
+    <div class="d-grid">
+      <div class="d-col" data-fit data-min="12.5" data-max="17.5" data-spread="li"><div class="lbl">Содержание модуля</div><ul class="topics"><li><b class="num">5</b> задач бизнеса, где бот нужнее сайта: запись, заказ, каталог, ответы, напоминания</li><li>Бот для записи и заказов за <b class="num">2</b> вечера: собираешь с нейросетью, повторяя за экраном</li><li>Как заявка из бота сразу приходит владельцу — и он перестаёт терять клиентов?</li><li>Оплата прямо в Telegram: как покупатель платит в боте и когда это нужно бизнесу</li><li>Бот для своей точки: запись и заказы для своего дела или дела родственников</li><li>Демо на <b class="num">60</b> секунд: видео бота, после которого владелец спрашивает цену</li></ul></div>
+      <div class="d-col side" data-fit data-min="11.5" data-max="15"><div class="lbl">Задания</div><ul class="tasks"><li><span class="ic"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></span><span>Собери Telegram-бота для компании из своего списка: запись, заказ или каталог</span></li><li><span class="ic"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></span><span>Проверь бота по чек-листу: <b class="num">10</b> тестовых заявок от друзей без сбоев</span></li><li><span class="ic"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></span><span>Сними видео-демо на <b class="num">60</b> секунд и отправь владельцу</span></li></ul><div class="lbl">Материалы</div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4.5" y="8" width="15" height="11" rx="3"/><path d="M12 4.5V8M9.5 16h5"/><circle cx="12" cy="3.8" r="1"/><path d="M9 12.6h.01M15 12.6h.01" stroke-width="2.6"/></svg></span><span class="t">3 шаблона ботов: запись, заказ, каталог</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M11 3.5l1.9 5 5.1 1.9-5.1 1.9-1.9 5-1.9-5L4 10.4l5.1-1.9z"/><path d="M18.5 15l.8 2 2 .8-2 .8-.8 2-.8-2-2-.8 2-.8z"/></svg></span><span class="t">Запросы к нейросети для сборки бота</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3.5" width="16" height="17" rx="2.5"/><path d="M8 9.2l1.8 1.8 3.4-3.4M8 14.5h8M8 17.5h5"/></svg></span><span class="t">Чек-лист теста бота перед сдачей</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="M10 9.3v5.4l4.6-2.7z" fill="currentColor" stroke="none"/></svg></span><span class="t">Сценарий демо-видео на 60 секунд</span></div></div>
+    </div>
+    <div class="d-result" data-fit data-min="13" data-max="17"><div class="d-res-lbl"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="4.5"/><circle cx="12" cy="12" r="1.2" fill="currentColor"/></svg><span>Результат после модуля</span></div><p>За <b class="num">2</b> вечера соберёшь рабочего Telegram-бота для компании из своего списка и снимешь демо на <b class="num">60</b> секунд. У тебя появится вторая услуга: тому же владельцу предложишь сайт и бота вместе.</p></div>
+  </div>
+  <div class="progress"><span>Модуль 4 из 7</span><div class="bar"><i class="done"></i><i class="done"></i><i class="done"></i><i class="on"></i><i class=""></i><i class=""></i><i class=""></i></div></div>
+</section>
+<section class="slide module d">
+  <div class="deco faint"></div>
+  <div class="top"><div class="week"><span class="pill">Модуль 5</span><span class="pill-note">программа курса</span></div><div class="brand">Первый заказ на ИИ · программа <b>09 / 14</b></div></div>
+  <div class="dcard">
+    <div class="d-head"><span class="d-num">05</span><div class="d-titles"><span class="d-kicker">Модуль 5</span>
+      <h2 class="m-title" data-fit data-min="30" data-max="46">Своя цена и разговор, после которого говорят «да»</h2></div></div>
+    <div class="d-grid">
+      <div class="d-col" data-fit data-min="12.5" data-max="17.5" data-spread="li"><div class="lbl">Содержание модуля</div><ul class="topics"><li>Сколько брать: сайт в Ташкенте стоит <b class="num">3–8</b> млн сум<sup class="fn">3</sup> — считаем свою цену без демпинга</li><li>Разговор за <b class="num">20</b> минут: <b class="num">5</b> вопросов владельцу, показ образца и следующий шаг</li><li>Как отвечать на «дорого», «подумаю» и «племянник сделает бесплатно»: <b class="num">7</b> готовых ответов</li><li>Тебе <b class="num">20</b>, а владельцу <b class="num">45</b>: как говорить, чтобы тебе доверили заказ?</li><li>КП на одну страницу: владелец видит выгоду для бизнеса, а не только цену</li></ul></div>
+      <div class="d-col side" data-fit data-min="11.5" data-max="15"><div class="lbl">Задания</div><ul class="tasks"><li><span class="ic"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></span><span>Посчитай свой прайс на сайт, бота и пакет по таблице</span></li><li><span class="ic"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></span><span>Отправь КП <b class="num">3</b> компаниям, которые ответили на твои сообщения</span></li><li><span class="ic"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></span><span>Проведи разговор хотя бы с <b class="num">1</b> владельцем и пришли куратору конспект</span></li></ul><div class="lbl">Материалы</div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="4.5" width="17" height="15" rx="2"/><path d="M3.5 9.5h17M3.5 14.5h17M9.5 4.5v15"/></svg></span><span class="t">Таблица расчёта цены: сайт, бот, пакет</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3.5H7.5a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2h9a2 2 0 0 0 2-2V8z"/><path d="M14 3.5V8h4.5M9 13h6M9 16.5h4"/></svg></span><span class="t">Шаблон КП на одну страницу</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 12a7.5 7.5 0 0 1-11 6.6L4.2 20l1.2-4.4A7.5 7.5 0 1 1 20 12z"/><path d="M9 12h.01M12.5 12h.01M16 12h.01" stroke-width="2.4"/></svg></span><span class="t">Скрипт разговора с владельцем</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5l7 2.8v5.2c0 4.4-3 7.8-7 9-4-1.2-7-4.6-7-9V6.3z"/><path d="M9 12l2.1 2.1L15.2 10"/></svg></span><span class="t">7 ответов на возражения владельца</span></div></div>
+    </div>
+    <div class="d-result" data-fit data-min="13" data-max="17"><div class="d-res-lbl"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="4.5"/><circle cx="12" cy="12" r="1.2" fill="currentColor"/></svg><span>Результат после модуля</span></div><p>Посчитаешь свой прайс, отправишь <b class="num">3</b> КП и проведёшь первый разговор с владельцем. Перестанешь брать дёшево из страха потерять заказ: будешь знать цену своей работы и ответ на «дорого».</p></div>
+  </div>
+  <div class="progress"><span>Модуль 5 из 7</span><div class="bar"><i class="done"></i><i class="done"></i><i class="done"></i><i class="done"></i><i class="on"></i><i class=""></i><i class=""></i></div></div>
+</section>
+<section class="slide module d">
+  <div class="deco faint"></div>
+  <div class="top"><div class="week"><span class="pill">Модуль 6</span><span class="pill-note">программа курса</span></div><div class="brand">Первый заказ на ИИ · программа <b>10 / 14</b></div></div>
+  <div class="dcard">
+    <div class="d-head"><span class="d-num">06</span><div class="d-titles"><span class="d-kicker">Модуль 6</span>
+      <h2 class="m-title" data-fit data-min="30" data-max="46">Первый заказ оплачен: договор, предоплата, сдача</h2></div></div>
+    <div class="d-grid">
+      <div class="d-col" data-fit data-min="12.5" data-max="17.5" data-spread="li"><div class="lbl">Содержание модуля</div><ul class="topics"><li>Договор на одну страницу: как защититься, если заказчик тянет с оплатой</li><li>Предоплата и правки: о чём договориться до старта, чтобы проект не тянулся месяц</li><li>Как принять оплату от заказчика в Узбекистане: что удобно ему и безопасно тебе?</li><li>Заказчик из-за рубежа: переписка на английском с ИИ и рабочие способы получить оплату</li><li>Как работать легально: самозанятость и налоги — порядок, проверенный на дату потока</li><li>Сдача и отзыв: как превратить первый заказ в кейс «было → стало»</li></ul></div>
+      <div class="d-col side" data-fit data-min="11.5" data-max="15"><div class="lbl">Задания</div><ul class="tasks"><li><span class="ic"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></span><span>Заполни договор и акт по шаблону под свой первый заказ</span></li><li><span class="ic"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></span><span>Возьми предоплату и сдай проект по чек-листу</span></li><li><span class="ic"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></span><span>Попроси отзыв и оформи кейс «было → стало» в портфолио</span></li></ul><div class="lbl">Материалы</div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 19.5l1-4.4L15.6 5a2.1 2.1 0 0 1 3 3L8.5 18.1z"/><path d="M13.6 7l3 3M13.5 20h6"/></svg></span><span class="t">Шаблон договора и акта на одну страницу</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3.5" width="16" height="17" rx="2.5"/><path d="M8 9.2l1.8 1.8 3.4-3.4M8 14.5h8M8 17.5h5"/></svg></span><span class="t">Чек-лист сдачи проекта заказчику</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 5.5A2 2 0 0 1 6.5 3.5H19v14H6.5a2 2 0 0 0-2 2z"/><path d="M4.5 19.5a2 2 0 0 0 2 2H19v-4"/></svg></span><span class="t">Инструкция: как получить оплату, в том числе из-за рубежа</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 5.5A2 2 0 0 1 6.5 3.5H19v14H6.5a2 2 0 0 0-2 2z"/><path d="M4.5 19.5a2 2 0 0 0 2 2H19v-4"/></svg></span><span class="t">Памятка: самозанятость и налоги</span></div></div>
+    </div>
+    <div class="d-result" data-fit data-min="13" data-max="17"><div class="d-res-lbl"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="4.5"/><circle cx="12" cy="12" r="1.2" fill="currentColor"/></svg><span>Результат после модуля</span></div><p>Оформишь первый заказ по договору, возьмёшь предоплату, сдашь работу по чек-листу и получишь оплату на карту. Отзыв заказчика станет первым кейсом — со следующим заказом будет проще.</p></div>
+  </div>
+  <div class="progress"><span>Модуль 6 из 7</span><div class="bar"><i class="done"></i><i class="done"></i><i class="done"></i><i class="done"></i><i class="done"></i><i class="on"></i><i class=""></i></div></div>
+</section>
+<section class="slide module d">
+  <div class="deco faint"></div>
+  <div class="top"><div class="week"><span class="pill">Модуль 7</span><span class="pill-note">программа курса</span></div><div class="brand">Первый заказ на ИИ · программа <b>11 / 14</b></div></div>
+  <div class="dcard">
+    <div class="d-head"><span class="d-num">07</span><div class="d-titles"><span class="d-kicker">Модуль 7</span>
+      <h2 class="m-title" data-fit data-min="30" data-max="46">План на 3–4 заказа в месяц: доход, который не скачет</h2></div></div>
+    <div class="d-grid">
+      <div class="d-col" data-fit data-min="12.5" data-max="17.5" data-spread="li"><div class="lbl">Содержание модуля</div><ul class="topics"><li>Калькулятор цели: сколько заказов закрывают контракт, кредит или <b class="num">$1000</b> в месяц<sup class="fn">1</sup></li><li>Постоянный клиент: поддержка, доработки и вторая услуга — доход, который не скачет</li><li>Как сделать, чтобы довольный владелец привёл соседа по бизнесу?</li><li>Когда и как поднимать цену: чек растёт с каждым кейсом</li><li>Система вместо хаоса: как делить вечера между поиском, работой и сдачей</li><li>Как рассказать семье о своей работе: договор, заказчики и деньги на карте</li></ul></div>
+      <div class="d-col side" data-fit data-min="11.5" data-max="15"><div class="lbl">Задания</div><ul class="tasks"><li><span class="ic"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></span><span>Посчитай в калькуляторе, сколько заказов в месяц нужно под твою цель</span></li><li><span class="ic"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></span><span>Предложи первому заказчику вторую услугу: бота к сайту или поддержку</span></li><li><span class="ic"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><path d="M8 12.3l3 3 5.4-6.3"/></svg></span><span>Составь план на <b class="num">3</b> месяца и покажи его на демо-дне</span></li></ul><div class="lbl">Материалы</div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="3" width="14" height="18" rx="2.5"/><rect x="8" y="6" width="8" height="3.5" rx="1"/><path d="M8.6 13.2h.01M12 13.2h.01M15.4 13.2h.01M8.6 16.8h.01M12 16.8h.01M15.4 16.8h.01" stroke-width="2.4"/></svg></span><span class="t">Калькулятор «сколько заказов нужно под мою цель»</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3.5H7.5a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2h9a2 2 0 0 0 2-2V8z"/><path d="M14 3.5V8h4.5M9 13h6M9 16.5h4"/></svg></span><span class="t">Шаблон плана на 3 месяца</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3.5 12.4V4.5a1 1 0 0 1 1-1h7.9l8.1 8.1a1.5 1.5 0 0 1 0 2.1l-7.4 7.4a1.5 1.5 0 0 1-2.1 0z"/><circle cx="8" cy="8" r="1.4"/></svg></span><span class="t">Прайс пакетов: сайт + бот + поддержка</span></div><div class="mat"><span class="ic"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 12a7.5 7.5 0 0 1-11 6.6L4.2 20l1.2-4.4A7.5 7.5 0 1 1 20 12z"/><path d="M9 12h.01M12.5 12h.01M16 12h.01" stroke-width="2.4"/></svg></span><span class="t">Скрипт просьбы о рекомендации</span></div></div>
+    </div>
+    <div class="d-result" data-fit data-min="13" data-max="17"><div class="d-res-lbl"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="4.5"/><circle cx="12" cy="12" r="1.2" fill="currentColor"/></svg><span>Результат после модуля</span></div><p>Посчитаешь, сколько заказов нужно под твою цель, предложишь первому заказчику вторую услугу и уйдёшь с планом на <b class="num">3</b> месяца: где брать <b class="num">3–4</b> заказа в месяц и как поднимать цену.</p></div>
+  </div>
+  <div class="progress"><span>Модуль 7 из 7</span><div class="bar"><i class="done"></i><i class="done"></i><i class="done"></i><i class="done"></i><i class="done"></i><i class="done"></i><i class="on"></i></div></div>
+</section>
+<section class="slide format">
+  <div class="deco faint"></div>
+  <div class="top"><div class="week"><span class="pill">Формат</span><span class="pill-note">что входит в курс</span></div><div class="brand">Первый заказ на ИИ · программа <b>12 / 14</b></div></div>
+  <h2 class="s-title">Как проходит обучение</h2>
+  <div class="format-grid">
+    <div class="panel"><div class="panel-label">Формат</div><div class="frows" data-fit data-min="11.5" data-max="16.5"><div class="frow"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3.5" width="16" height="17" rx="2.5"/><path d="M8 9.2l1.8 1.8 3.4-3.4M8 14.5h8M8 17.5h5"/></svg></span><span><b class="num">4</b> недели, <b class="num">7</b> модулей: по <b class="num">2</b> модуля в неделю, на 4-й неделе — финальный модуль и демо-день</span></div><div class="frow"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></svg></span><span>Уроки по <b class="num">15–25</b> минут в Telegram: смотришь вечером или в записи, с телефона или ноутбука</span></div><div class="frow"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3.5" width="16" height="17" rx="2.5"/><path d="M8 9.2l1.8 1.8 3.4-3.4M8 14.5h8M8 17.5h5"/></svg></span><span>Нагрузка — <b class="num">2–3</b> вечера в неделю по <b class="num">2</b> часа: пары и основная работа не страдают</span></div><div class="frow"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 12S6 5.5 12 5.5 21.5 12 21.5 12 18 18.5 12 18.5 2.5 12 2.5 12z"/><circle cx="12" cy="12" r="2.8"/></svg></span><span>Куратор проверяет каждое задание и отвечает лично; пропустил дедлайн — напишет сам</span></div><div class="frow"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2.2"/><path d="M8.2 8.2a5.4 5.4 0 0 0 0 7.6M15.8 8.2a5.4 5.4 0 0 1 0 7.6M5.3 5.3a9.5 9.5 0 0 0 0 13.4M18.7 5.3a9.5 9.5 0 0 1 0 13.4"/></svg></span><span>Живой разбор раз в неделю: сайты, боты и переписки с заказчиками. Запись остаётся</span></div><div class="frow"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8.5" r="3"/><path d="M3.5 19c.6-3 2.9-5 5.5-5s4.9 2 5.5 5"/><circle cx="17" cy="9.5" r="2.4"/><path d="M16.6 14.2c2.1.3 3.6 2 3.9 4.3"/></svg></span><span>Чат потока: такие же студенты и работающие ребята — начинать не страшно</span></div><div class="frow"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5.5h9M8.5 3.5v2M6 5.5c.6 3.3 2.6 5.9 5.5 7.4M11 5.5c-.6 3.3-2.6 5.9-5.5 7.4"/><path d="M13 20.5l3.5-8.5 3.5 8.5M14.3 17.6h4.4"/></svg></span><span>Уроки на узбекском (латиница) и русском — язык выбираешь при старте</span></div><div class="frow"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 12S6 5.5 12 5.5 21.5 12 21.5 12 18 18.5 12 18.5 2.5 12 2.5 12z"/><circle cx="12" cy="12" r="2.8"/></svg></span><span>До оплаты — открытые условия: договор-оферта, что входит, лица кураторов, без скрытых платежей</span></div><div class="frow"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></svg></span><span>Доступ к урокам и шаблонам остаётся после курса; на демо-дне — разбор проектов и сертификат</span></div></div></div>
+    <div class="perks"><div class="panel-label accent">Бонусы и усилители</div><div class="perk-grid n6"><div class="perk hero" data-fit data-min="11" data-max="15"><div class="p-head"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2.2"/><path d="M8.2 8.2a5.4 5.4 0 0 0 0 7.6M15.8 8.2a5.4 5.4 0 0 1 0 7.6M5.3 5.3a9.5 9.5 0 0 0 0 13.4M18.7 5.3a9.5 9.5 0 0 1 0 13.4"/></svg></span><span class="p-name">Разбор первого сайта</span></div><p>Куратор записывает видеоразбор твоего первого сайта: что поправить, чтобы показать его владельцу без стыда. Снимает страх «у меня не получится».</p></div><div class="perk" data-fit data-min="11" data-max="15"><div class="p-head"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2.2"/><path d="M8.2 8.2a5.4 5.4 0 0 0 0 7.6M15.8 8.2a5.4 5.4 0 0 1 0 7.6M5.3 5.3a9.5 9.5 0 0 0 0 13.4M18.7 5.3a9.5 9.5 0 0 1 0 13.4"/></svg></span><span class="p-name">Разбор переписки с заказчиком</span></div><p>Присылаешь скрин переписки — куратор подсказывает, что ответить. На YouTube такого нет: здесь разбирают твоего живого заказчика.</p></div><div class="perk" data-fit data-min="11" data-max="15"><div class="p-head"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2.2"/><path d="M8.2 8.2a5.4 5.4 0 0 0 0 7.6M15.8 8.2a5.4 5.4 0 0 1 0 7.6M5.3 5.3a9.5 9.5 0 0 0 0 13.4M18.7 5.3a9.5 9.5 0 0 1 0 13.4"/></svg></span><span class="p-name">Эфир на 3-й неделе: если заказчики молчат</span></div><p>Живой эфир в середине курса: разбираем, почему молчат владельцы и что писать дальше, — чтобы не бросить на полпути.</p></div><div class="perk" data-fit data-min="11" data-max="15"><div class="p-head"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="9.5" width="16" height="10.5" rx="1.5"/><path d="M3.2 9.5h17.6M12 9.5V20"/><path d="M12 9.5S10.6 5 8.3 5.6C6.6 6.1 7.4 9.5 12 9.5zM12 9.5S13.4 5 15.7 5.6c1.7.5.9 3.9-3.7 3.9z"/></svg></span><span class="p-name">Памятка для семьи</span></div><p>Одна страница на узбекском и русском: чем ты занимаешься, кто тебе платит и почему это работа, а не «заработок в интернете».</p></div><div class="perk" data-fit data-min="11" data-max="15"><div class="p-head"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3.5 7.5a2 2 0 0 1 2-2h4l2 2.5h7a2 2 0 0 1 2 2V17a2 2 0 0 1-2 2h-13a2 2 0 0 1-2-2z"/></svg></span><span class="p-name">Шаблоны на английском</span></div><p>Отклик, КП и договор на английском для заказчиков из-за рубежа. Слабый английский не мешает: подставляешь данные, ИИ помогает в переписке.</p></div><div class="perk" data-fit data-min="11" data-max="15"><div class="p-head"><span class="ic"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8.5" r="3"/><path d="M3.5 19c.6-3 2.9-5 5.5-5s4.9 2 5.5 5"/><circle cx="17" cy="9.5" r="2.4"/><path d="M16.6 14.2c2.1.3 3.6 2 3.9 4.3"/></svg></span><span class="p-name">Клуб выпускников</span></div><p>Чат после курса: выпускники передают друг другу заказы, которые не успевают взять, и помогают со сложными проектами.</p></div></div></div>
+  </div>
+</section>
+<section class="slide results">
+  <div class="deco"></div>
+  <div class="top"><div class="week"><span class="pill">Итог</span><span class="pill-note">что будет после программы</span></div><div class="brand">Первый заказ на ИИ · программа <b>13 / 14</b></div></div>
+  <h2 class="s-title">Результат результатов</h2>
+  <div class="res-body">
+    <div class="res-labels"><div class="res-label"><span class="lbl">Результат результатов</span><p>Свои деньги, заработанные головой, а не спиной: дома, рядом с семьёй, без новых долгов и просьб к родителям.</p></div><div class="res-label"><span class="lbl">Результат</span><p>Первый оплаченный заказ на сайт или Telegram-бота за 4 недели и повторяемый путь к следующим заказам.</p></div></div>
+    <div class="res-grid n6"><div class="res-tile" data-fit data-min="12.5" data-max="21"><span class="res-num">01</span><p>Опубликованный сайт для реальной компании — в первую неделю, на бесплатных нейросетях</p></div><div class="res-tile" data-fit data-min="12.5" data-max="21"><span class="res-num">02</span><p>Портфолио из <b class="num">4</b> работ: <b class="num">3</b> сайта и Telegram-бот под реальные компании своего района</p></div><div class="res-tile" data-fit data-min="12.5" data-max="21"><span class="res-num">03</span><p>Список из <b class="num">20</b> компаний района и <b class="num">10</b> отправленных сообщений владельцам</p></div><div class="res-tile" data-fit data-min="12.5" data-max="21"><span class="res-num">04</span><p>Свой прайс и КП по рынку: сайт в Ташкенте — <b class="num">3–8</b> млн сум<sup class="fn">3</sup>, бот с оплатой — около <b class="num">3</b> млн<sup class="fn">4</sup></p></div><div class="res-tile" data-fit data-min="12.5" data-max="21"><span class="res-num">05</span><p>Первый заказ по договору с предоплатой и отзыв заказчика — твой первый кейс</p></div><div class="res-tile" data-fit data-min="12.5" data-max="21"><span class="res-num">06</span><p>План на <b class="num">3</b> месяца: <b class="num">3–4</b> заказа по <b class="num">$300</b> (≈<b class="num">3,5</b> млн сум<sup class="fn">2</sup>) — около <b class="num">$1000</b> в месяц<sup class="fn">1</sup>, это расчёт</p></div></div>
+    
+    <div class="honest">Честно: школа запускает первый поток, поэтому отзывов и доходов учеников мы не показываем — их пока нет. Результат зависит от тебя: сколько сообщений отправишь и сколько заданий сдашь. Школа даёт уроки, шаблоны, проверку каждого задания и разбор каждого шага; заказ и деньги приносит твоя работа. $1000 в месяц — расчёт из цены заказа<sup class="fn">1</sup>, а не обещание дохода.</div>
+  </div>
+</section>
+<section class="slide sources">
+  <div class="deco faint"></div>
+  <div class="top"><div class="week"><span class="pill">Источники</span><span class="pill-note">откуда цифры</span></div><div class="brand">Первый заказ на ИИ · программа <b>14 / 14</b></div></div>
+  <h2 class="s-title">Откуда цифры</h2>
+  <p class="s-intro">Цены на рынке и расчёты — из исследования проекта. Где первоисточник не перепроверен, так и написано.</p>
+  <ol class="src-list" data-fit data-min="10" data-max="14"><li><sup class="fn">1</sup>$1000 в месяц = 3–4 заказа по $300 — расчёт оффера, не статистика учеников: research/08-miro-kastdevy-segmenty/voronka-i-metodika/01-offer-i-voronka-urokov.md, раздел «Оффер».</li><li><sup class="fn">2</sup>Цена заказа $300 — из расчёта оффера (research/08-miro-kastdevy-segmenty/voronka-i-metodika/01-offer-i-voronka-urokov.md, «Оффер» и «Урок 4»); $300 ≈ 3,5 млн сум по курсу ЦБ Узбекистана 11 765 сум за $1 на 15.09.2026 — research/01-brif-rynka/index.html, строка «Метод» под заголовком.</li><li><sup class="fn">3</sup>Сайт для бизнеса в Ташкенте — 3–8 млн сум: research/08-miro-kastdevy-segmenty/voronka-i-metodika/01-offer-i-voronka-urokov.md, «Урок 1», и research/08-miro-kastdevy-segmenty/voronka-i-metodika/03-troyki-po-hantu-hooki.md, «С чем сравнивают», п. 7. В сводке ресёрча лендинг — 3–18 млн сум (отчёт 05): research/08-miro-kastdevy-segmenty/research/00-svodka-resercha-i-segmenty.md, «Рынок обучения». Первоисточник отчёта 05 не перенесён — не проверено.</li><li><sup class="fn">4</sup>Бот с оплатой через Payme или Click — около 3 млн сум: research/08-miro-kastdevy-segmenty/segmenty/03-jun-frilanser-s-potolkom.md, «1. Знаю» (отчёт 05); все боты — 0,3–10 млн сум: research/08-miro-kastdevy-segmenty/research/00-svodka-resercha-i-segmenty.md, «Рынок обучения». Первоисточник не перенесён — не проверено.</li><li><sup class="fn">5</sup>Средняя зарплата: Ташкент — 12,01 млн сум, Кашкадарья — 4,85 млн сум: research/08-miro-kastdevy-segmenty/research/00-svodka-resercha-i-segmenty.md, «Деньги» (отчёт 01). Такси — около 8 млн сум за 26 смен: research/08-miro-kastdevy-segmenty/voronka-i-metodika/03-troyki-po-hantu-hooki.md, «С чем сравнивают». Первоисточник отчёта 01 не перенесён — не проверено.</li><li><sup class="fn">7</sup>Однушка в Ташкенте — $380–420, почти половина зарплаты; на кредиты уходит в среднем 34% дохода; кредит на свадьбу — на срок до 5 лет: research/08-miro-kastdevy-segmenty/research/00-svodka-resercha-i-segmenty.md, «Жильё» и «Той» (отчёт 01). Первоисточник не перенесён — не проверено.</li></ol>
+</section>
+<script>
+// Каждый блок с data-fit уменьшает шрифт, пока текст не влезет. Блоки с data-spread
+// потом раздают лишнее место промежуткам между пунктами.
+function overflowing(el) { return el.scrollHeight > el.clientHeight + 2 || el.scrollWidth > el.clientWidth + 2; }
+function fit(el, fromCurrent) {
+  const min = parseFloat(el.dataset.min || '11'), max = parseFloat(el.dataset.max || '16');
+  let size = fromCurrent ? parseFloat(el.style.fontSize) || max : max; el.style.fontSize = size + 'px';
+  while (overflowing(el) && size > min) { size -= 0.25; el.style.fontSize = size + 'px'; }
+  if (el.dataset.spread) {
+    const items = [...el.querySelectorAll(el.dataset.spread)];
+    let gap = 0.5;
+    while (gap < 1.3 && !overflowing(el)) { gap += 0.05; items.forEach(i => { i.style.marginBottom = gap + 'em'; }); }
+    if (overflowing(el)) { gap -= 0.05; items.forEach(i => { i.style.marginBottom = gap + 'em'; }); }
+  }
+}
+document.fonts.ready.then(() => {
+  // «Материалы» у Тимочко не должны заходить под рамку «Результат».
+  document.querySelectorAll('.module.t').forEach(s => {
+    const aside = s.querySelector('.aside'), res = s.querySelector('.result');
+    fit(res);
+    const room = res.getBoundingClientRect().top - aside.getBoundingClientRect().top - 12;
+    aside.style.maxHeight = room + 'px';
+  });
+  document.querySelectorAll('[data-fit]').forEach(el => { if (!el.classList.contains('result')) fit(el, false); });
+  // второй проход: соседние блоки могли поменять высоту строк сетки
+  document.querySelectorAll('[data-fit]').forEach(el => { if (overflowing(el)) fit(el, true); });
+  document.body.dataset.fitted = '1';
+});
+</script></body></html>

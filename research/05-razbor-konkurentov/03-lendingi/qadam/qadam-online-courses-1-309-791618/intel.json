@@ -1,0 +1,56 @@
+{
+ "url": "https://qadam.online",
+ "domain": "qadam.online",
+ "pages_scanned": [
+  "https://qadam.online/courses/1/309"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)",
+   "Google Tag Manager"
+  ],
+  "ad_pixel": [
+   "Meta Pixel"
+  ]
+ },
+ "seo_metadata": {
+  "title": "Uzum Start",
+  "description": "Uzum Marketda savdoni 0 dan o‘rganing va oyiga $500 dan $2000 gacha daromad qilishni boshlang 💸\n\n🎁 Bepul darslarda siz:\n✔️ Uzum sizga mos yoki yo‘qligini\n✔️ Qanday qilib to‘g‘ri boshlash kerakligini\n✔️ Eng ko‘p xatolardan qochishni bilib olasiz\n\nUshbu darsliklar sizning yangi daromad manbaingiz sari birinchi qadam 🔥",
+  "open_graph": {
+   "title": "Uzum Start",
+   "site_name": "qadam.exode.biz",
+   "image": "https://storage.exode.biz/production/course/2622/ncn-otKaNh5BJC5uhxM3K/Uzum%20Start.png",
+   "description": "Uzum Marketda savdoni 0 dan o‘rganing va oyiga $500 dan $2000 gacha daromad qilishni boshlang 💸\n\n🎁 Bepul darslarda siz:\n✔️ Uzum sizga mos yoki yo‘qligini\n✔️ Qanday qilib to‘g‘ri boshlash kerakligini\n✔️ Eng ko‘p xatolardan qochishni bilib olasiz\n\nUshbu darsliklar sizning yangi daromad manbaingiz sari birinchi qadam 🔥",
+   "keywords": "Uzum Start, Uzum",
+   "url": "https://qadam.exode.biz/courses/1/309",
+   "type": "website"
+  },
+  "canonical": "https://qadam.exode.biz/courses/1/309"
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [
+   "https://storage.exode.biz/production/school/2622/Du2iV6fqwydvPc0HLv51A/qadam-logo.png"
+  ],
+  "total_images_found": 5
+ },
+ "integration_links": [],
+ "hidden_elements": {
+  "html_comments": [
+   "Meta Pixel Code",
+   "End Meta Pixel Code",
+   "Yandex.Metrika counter",
+   "/Yandex.Metrika counter"
+  ]
+ },
+ "google_ids": {
+  "gtm": [
+   "GTM-TSDTR92H"
+  ]
+ }
+}

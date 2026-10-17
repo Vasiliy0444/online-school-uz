@@ -1,0 +1,71 @@
+{
+ "creative_id": "1203153641644086",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "≤15 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Ingliz tilini ona tilingizdek bilmoqchi bo'lsangiz… Havola orqali ro'yxatdan o'ting.",
+  "types": [
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: мужчина в свитере с жёлтым буклетом Inter Nation на фоне стены с логотипом школы, говорит на камеру",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Ingilis tirlini ona tirlingiz kaba bilmokchi bolsangiz.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:02] Hawa ala orqali, roi xatnavati.",
+    "timecode": "00:02"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "статус"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Ingilis tirlini ona tirlingiz kaba bilmokchi bolsangiz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "Очень короткий ролик (4.8с), текста на кадрах нет — хук только по расшифровке, написание исправлено («Ingilis tirlini ona tirlingiz kaba bilmokchi bolsangiz» → «Ingliz tilini ona tilingizdek bilmoqchi bo'lsangiz»; «Hawa ala orqali, roi xatnavati» → «Havola orqali ro'yxatdan o'ting», по смыслу совпадает с призывом в других роликах школы). ad_text пуст, оффера и конкретного смысла в кадрах не видно — meaning.main «статус» подобран по смыслу фразы («знать английский как родной») с низкой уверенностью, возможен другой прочтение. Aspect 9:16 — предположение по кадрированию (портретные кадры), в метаданных явного указания нет."
+}

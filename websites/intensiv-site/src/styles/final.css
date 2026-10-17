@@ -1,0 +1,187 @@
+/* Блок 4 и подвал: бонус в синей карточке, частые вопросы (серые карточки и синий круг «+») — из элементов образца.
+   Сначала телефон, с 960 px — десктоп (артборд Tilda 1200). Замеры — DESIGN.md. */
+
+/* ── Финал: бонус и частые вопросы ──────────────────────────────────────── */
+.lead {
+  margin: 20px auto 0;
+  font-size: 16px;
+  line-height: 25px;
+  text-align: center;
+}
+
+.bonus-card {
+  gap: 0;
+  max-width: 810px;
+  margin: 40px auto 0;
+}
+
+.bonus-card__name {
+  margin: 20px 0 0;
+  font-size: 18px;
+  line-height: 25px;
+  font-weight: 500;
+}
+
+.bonus-card__text {
+  margin: 10px 0 0;
+  font-size: 16px;
+  line-height: 25px;
+}
+
+.faq-title {
+  margin-top: 80px;
+}
+
+.faq {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 810px;
+  margin: 40px auto 0;
+}
+
+.faq__item {
+  border-radius: var(--radius-card);
+  background: var(--band);
+}
+
+.faq__q {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  min-height: 64px;
+  padding: 16px 20px;
+  border-radius: var(--radius-card);
+  font-size: 16px;
+  line-height: 25px;
+  font-weight: 500;
+  list-style: none;
+  cursor: pointer;
+}
+
+.faq__q::-webkit-details-marker {
+  display: none;
+}
+
+/* Синий круг «+» — как круги с номерами */
+.faq__toggle {
+  position: relative;
+  flex: none;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: var(--blue);
+  transition: transform 0.2s ease;
+}
+
+.faq__toggle::before,
+  .faq__toggle::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 14px;
+  height: 2px;
+  margin: -1px 0 0 -7px;
+  border-radius: 1px;
+  background: var(--white);
+}
+
+.faq__toggle::after {
+  transform: rotate(90deg);
+}
+
+.faq__item[open] .faq__toggle {
+  transform: rotate(45deg);
+}
+
+.faq__a {
+  margin: 0;
+  padding: 0 20px 20px;
+  font-size: 16px;
+  line-height: 25px;
+}
+
+/* ── Подвал ─────────────────────────────────────────────────────────────── */
+.footer {
+  padding: 40px 0 36px;
+}
+
+.footer__inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.footer__logo {
+  margin: 0;
+  font-size: 18px;
+  line-height: 18px;
+  letter-spacing: 2px;
+  color: var(--black);
+}
+
+.footer__policy {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  margin-top: 8px;
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 500;
+  color: var(--black);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.footer__legal {
+  margin: 0;
+  font-size: 12px;
+  line-height: 19px;
+  color: var(--legal);
+}
+
+.footer__policy + .footer__legal {
+  margin-top: 6px;
+}
+
+.footer .ph {
+  color: var(--legal);
+}
+
+@media (min-width: 960px) {
+  .lead {
+    font-size: 18px;
+    line-height: 28px;
+  }
+
+  .bonus-card {
+    margin-top: 50px;
+  }
+
+  .bonus-card__name {
+    font-size: 20px;
+    line-height: 28px;
+  }
+
+  .bonus-card__text {
+    font-size: 18px;
+    line-height: 28px;
+  }
+
+  .faq-title {
+    margin-top: 100px;
+  }
+
+  .faq__q {
+    padding: 22px 28px;
+    font-size: 18px;
+    line-height: 28px;
+  }
+
+  .faq__a {
+    padding: 0 28px 24px;
+  }
+}

@@ -1,0 +1,93 @@
+{
+ "creative_id": "1388961993343806",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "постановка или скетч",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Ishga kirayotganda sertifikat kerak bo'ladimi o'zi?",
+  "types": [
+   "вопрос"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: девушка держит рамку с сертификатом, «ISHGA KIRAYOTGANDA» → «SERTIFIKAT KERAK BO'LADIMI O'Z…»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Ishki krivotkanda sertifikat gere boladim o'zu?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта"
+  ],
+  "income_claim": "web dasturchilar uchun 2000 dollardan 3000 dollargacha (вакансии HeadHunter.uz, по расшифровке)",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 1 из 4 (≈0:05): «LEKIN O'Z ISHINING USTASI»",
+    "timecode": "00:05"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:02] Sertifikatini bilmadim o'u, lekin o'z ishin ussasi bolgan bu taqasis xar dan kerek.",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:30] Siz bunu uzingiz Headhunter uz saytidan tixirib korsayngiz boladi.",
+    "timecode": "00:30"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бонус",
+   "гарантия"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈0:15): «VA 100%»",
+    "timecode": "00:15"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:17] uch oy biyopula maliyot va use voice ishki jorlash izike faulatini baz beramiz.",
+    "timecode": "00:17"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Копия того же длинного ролика про web full stack, что и 1305865178166269 (идентичный текст объявления, тот же смысл: сертификат не так важен, как реальное мастерство; 3 месяца бесплатной практики + 100% гарантия трудоустройства; вакансии на HeadHunter.uz 2000–3000$), но с другой актрисой и другим хуком (сертификат вместо долга по телефону)."
+}

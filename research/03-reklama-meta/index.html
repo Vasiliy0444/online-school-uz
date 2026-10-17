@@ -1,0 +1,276 @@
+<title>Воронки узбекоязычной рекламы</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Unbounded:wght@500;600&display=swap">
+<link rel="stylesheet" href="brief.css">
+<style>
+  .stats { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: var(--gap-2); }
+  .stat { border-radius: 8px; padding: var(--gap-2) var(--gap-3); display: flex; flex-direction: column; gap: 2px; background: var(--sunk); }
+  .stat b { font-family: var(--f-mono); font-size: var(--fs-xl); font-weight: 500; line-height: 1.1; color: var(--ink); }
+  .stat span { font-size: var(--fs-s); color: var(--ink-2); }
+  .stat.bad b { color: var(--bad); }
+  .stat.warn b { color: var(--warn); }
+  tr.earn td.first::after { content: " ●"; color: var(--accent); font-size: 11px; }
+  @media (max-width: 960px) {
+    .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .stat:last-child { grid-column: span 2; }
+  }
+</style>
+
+<div class="page">
+  <nav class="toc" aria-label="Содержание">
+    <span class="toc-label">Содержание</span>
+    <ol>
+      <li><a href="#summary"><span class="tag">832</span>Итог</a></li>
+      <li><a href="#niches"><span class="tag">16</span>Кто рекламируется</a></li>
+      <li><a href="#funnels"><span class="tag">75%</span>Как устроены воронки</a></li>
+      <li><a href="#leaders"><span class="tag">38</span>Лидеры</a></li>
+      <li><a href="#earning"><span class="tag">6</span>Ниши заработка</a></li>
+      <li><a href="#landings"><span class="tag">16</span>Лендинги</a></li>
+      <li><a href="#borrow"><span class="tag">↗</span>Что перенять</a></li>
+      <li><a href="#risk"><span class="tag">10</span>Зона риска</a></li>
+      <li><a href="#gaps"><span class="tag">7</span>Пустые места</a></li>
+      <li><a href="#ideas"><span class="tag">8</span>Идеи объявлений</a></li>
+      <li><a href="#limits"><span class="tag">?</span>Ограничения</a></li>
+    </ol>
+  </nav>
+
+  <main>
+    <header class="masthead">
+      <div class="eyebrow"><span>Скан Meta Ad Library</span><span>15–16 сентября 2026</span><span>Узбекоязычная реклама обучения</span></div>
+      <h1>Как узбекоязычные школы продают обучение через рекламу</h1>
+      <p class="lede">Вся активная реклама курсов, вебинаров, марафонов и наставничества на узбекском, которую Meta показывала в Узбекистане: ниши, механики входа, лендинги, лидеры, зона риска и пустые места. Продолжение <a href="https://claude.ai/artifact/RGUpxwR5Sn9F54wb1Eq5Hb">брифа по рынку</a> и <a href="https://claude.ai/artifact/7XsjMmF3N1Y5hFMKcbCN5Z">карты блогеров</a>.</p>
+      <p class="method">Метод: 136 запросов на узбекском (латиница и кириллица) → 2 648 карточек → 2 104 уникальных объявления → 832 узбекоязычных объявления об обучении от 292 рекламодателей. Разметка правилами с тестами, затем ручной разбор трёх выборок скиллами competitor-ad-intelligence, ad-to-landing-page-auditor и landing-page-intel. Проверка: 8 случайных объявлений сверены с Ad Library вручную — 8 из 8 совпали; из 33 рекламодателей, замеченных в рекламе при ручном поиске, скан нашёл 28 (85%). Звёздочкой отмечены цифры, которые рекламодатели заявляют о себе сами.</p>
+    </header>
+
+    <section class="verdict" id="summary" aria-labelledby="summary-title">
+      <div class="call">
+        <h2 id="summary-title">Рынок продаёт через переписку, прячет цены и не даёт гарантий</h2>
+        <p>Три из четырёх рекламодателей зовут написать в директ или в комментарии. В нишах заработка цену показывают 5% объявлений, гарантий с понятным условием и подписок нет, а рассрочку не показывает ни один из 16 разобранных лендингов.</p>
+      </div>
+      <div class="stats">
+        <div class="stat"><b>832</b><span>объявления об обучении</span></div>
+        <div class="stat"><b>292</b><span>рекламодателя, из них 121 — в нишах заработка</span></div>
+        <div class="stat"><b>75%</b><span>ведут в директ или комментарии</span></div>
+        <div class="stat warn"><b>5%</b><span>объявлений ниш заработка с ценой</span></div>
+        <div class="stat bad"><b>10</b><span>рекламодателей в зоне риска, 46 объявлений</span></div>
+      </div>
+    </section>
+
+    <section id="tldr" aria-labelledby="tldr-title">
+      <div class="sec-head"><span class="sec-tag">TL;DR</span><h2 id="tldr-title">Коротко</h2></div>
+      <ul class="tldr">
+        <li><span><strong>Переписка вместо сайта.</strong> 75% рекламодателей используют «напишите в директ / оставьте комментарий». Основной канал у 70% — Instagram или Messenger, свой сайт — у 22%, прямая ссылка в Telegram — у 2%.</span></li>
+        <li><span><strong>Вебинар — не главный вход.</strong> Бесплатный урок или вебинар используют 27% рекламодателей, марафон — 8%, лид-магнит — 7%. Чаще всего вебинар в ИИ: это основной вход у 31% рекламодателей ниши, но и там чаще зовут в директ.</span></li>
+        <li><span><strong>Ниши заработка — 121 рекламодатель из 292.</strong> Больше всего — фриланс, IT и дизайн (33), маркетинг и SMM (26); маркетплейсов — 12, ИИ — 13. Самые многочисленные ниши вне заработка — языки (48) и школьная подготовка (31).</span></li>
+        <li><span><strong>Лидер по активности — Qadam.online:</strong> 38 объявлений одновременно, 35 из них идут дольше месяца.</span></li>
+        <li><span><strong>Пустые места:</strong> открытая цена, рассрочка, гарантия с условием, проверяемые доказательства, честный разговор о доходе, подписка.</span></li>
+        <li><span><strong>Зона риска — трейдинг, форекс и инвестиции:</strong> 10 рекламодателей и 46 объявлений, крупнейший — 28 объявлений. Оговорку «доход не гарантируется» пишет только Uznetix.</span></li>
+      </ul>
+    </section>
+
+    <section id="niches" aria-labelledby="niches-title">
+      <div class="sec-head"><span class="sec-tag">Структура рынка</span><h2 id="niches-title">Кто рекламируется</h2></div>
+      <p class="prose muted">Рекламодатели по основной нише — той, где больше всего их объявлений. Точкой отмечены ниши заработка.</p>
+      <div class="table-wrap">
+        <table class="mid">
+          <thead><tr><th class="first">Ниша</th><th class="num">Рекламодателей</th><th class="num">Доля</th></tr></thead>
+          <tbody>
+            <tr><td class="first">Языки</td><td class="num">48</td><td class="num">16%</td></tr>
+            <tr class="earn"><td class="first">Фриланс, IT, дизайн</td><td class="num">33</td><td class="num">11%</td></tr>
+            <tr><td class="first">Школа, дети, поступление</td><td class="num">31</td><td class="num">11%</td></tr>
+            <tr><td class="first">Бизнес и финансы</td><td class="num">29</td><td class="num">10%</td></tr>
+            <tr><td class="first">Без явной ниши</td><td class="num">28</td><td class="num">10%</td></tr>
+            <tr class="earn"><td class="first">Маркетинг и SMM</td><td class="num">26</td><td class="num">9%</td></tr>
+            <tr class="earn"><td class="first">Заработок в целом</td><td class="num">21</td><td class="num">7%</td></tr>
+            <tr class="earn"><td class="first">Монтаж и видео</td><td class="num">16</td><td class="num">5%</td></tr>
+            <tr><td class="first">Ремёсла и бьюти</td><td class="num">16</td><td class="num">5%</td></tr>
+            <tr class="earn"><td class="first">ИИ</td><td class="num">13</td><td class="num">4%</td></tr>
+            <tr class="earn"><td class="first">Маркетплейсы</td><td class="num">12</td><td class="num">4%</td></tr>
+            <tr><td class="first">Бухгалтерия, медицина, здоровье, другие</td><td class="num">19</td><td class="num">7%</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="caption">«Без явной ниши» — техническая корзина разметки, в ней есть и объявления не про обучение. Язык объявлений: 89% — узбекская латиница, 7% — с русским дублем, 4% — кириллица. Регионы в текстах: Ташкент — 37 рекламодателей, Самарканд — 16, Андижан — 9, Фергана — 8, Бухара — 7.</p>
+    </section>
+
+    <section id="funnels" aria-labelledby="funnels-title">
+      <div class="sec-head"><span class="sec-tag">Механика входа</span><h2 id="funnels-title">Как устроены воронки</h2></div>
+      <div class="table-wrap">
+        <table class="mid">
+          <thead><tr><th class="first">Механика</th><th class="num">Все 292 · используют</th><th class="num">121 в нишах заработка · основная</th></tr></thead>
+          <tbody>
+            <tr><td class="first">Слово в директ или комментарий</td><td class="num">75%</td><td class="num">64%</td></tr>
+            <tr><td class="first">Заявка или звонок</td><td class="num">34%</td><td class="num">4%</td></tr>
+            <tr><td class="first">Вебинар или бесплатный урок</td><td class="num">27%</td><td class="num">19%</td></tr>
+            <tr><td class="first">Офлайн-группа</td><td class="num">24%</td><td class="num">—</td></tr>
+            <tr><td class="first">Telegram-бот или канал</td><td class="num">15%</td><td class="num">2%</td></tr>
+            <tr><td class="first">Прямая продажа с ценой</td><td class="num">15%</td><td class="num">1%</td></tr>
+            <tr><td class="first">Марафон или интенсив</td><td class="num">8%</td><td class="num">3%</td></tr>
+            <tr><td class="first">Лид-магнит: PDF, гайд</td><td class="num">7%</td><td class="num">2%</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="caption">В первой колонке рекламодатель считается во всех механиках, которые использует, во второй — только в основной. Кнопки объявлений: без кнопки — 309, «Learn more» — 242, «Sign up» — 146, «Send message» — 84, «Apply now» — 39.</p>
+    </section>
+
+    <section id="leaders" aria-labelledby="leaders-title">
+      <div class="sec-head"><span class="sec-tag">По числу активных объявлений</span><h2 id="leaders-title">Лидеры</h2></div>
+      <div class="table-wrap">
+        <table class="wide">
+          <thead><tr><th class="first">Рекламодатель</th><th class="num">Объявлений</th><th>Ниша</th><th>Что видно</th><th>Пример</th></tr></thead>
+          <tbody>
+            <tr><td class="first">Qadam.online</td><td class="num">38</td><td>маркетплейсы</td><td>PDF-гайд, бесплатный урок и заявка; 35 объявлений идут дольше месяца, самое долгое — 295 дней</td><td><a href="https://www.facebook.com/ads/library/?id=1366425478509152">объявление</a></td></tr>
+            <tr><td class="first">Mjcompanyuz</td><td class="num">28</td><td><span class="chip lo">риск</span> трейдинг</td><td>бесплатный видеоурок «как попасть в топ-5% трейдеров»</td><td><a href="https://www.facebook.com/ads/library/?id=1756046018633090">объявление</a></td></tr>
+            <tr><td class="first">Najot Ta'lim</td><td class="num">27</td><td>ИИ, монтаж, IT</td><td>хук «ИИ не займёт ваше место — займут те, кто умеет им пользоваться», бонусы на 3,65 млн сум</td><td><a href="https://www.facebook.com/ads/library/?id=1794551768233503">объявление</a></td></tr>
+            <tr><td class="first">Shahlo Alikhanova</td><td class="num">26</td><td>заработок, ИИ</td><td>видеоурок «5 способов заработка на ИИ» → вебинар 16–17.09</td><td><a href="https://www.facebook.com/ads/library/?id=1632092101784848">объявление</a></td></tr>
+            <tr><td class="first">Proweb</td><td class="num">21</td><td>монтаж, IT</td><td>бесплатный открытый урок; 20 000+ выпускников*</td><td><a href="https://www.facebook.com/ads/library/?id=1568852241281518">объявление</a></td></tr>
+            <tr><td class="first">IbrahimGulyamov</td><td class="num">19</td><td>бизнес</td><td>3-дневные интенсивы для владельцев бизнеса по городам</td><td><a href="https://www.facebook.com/ads/library/?id=1922756175349115">объявление</a></td></tr>
+            <tr><td class="first">Englify School</td><td class="num">17</td><td>языки</td><td>единственный лендинг с открытой ценой: 1,64 млн сум за 3 месяца (≈ $139)</td><td><a href="https://www.facebook.com/ads/library/?id=920120907740417">объявление</a></td></tr>
+            <tr><td class="first">Simona LadyFit</td><td class="num">16</td><td>здоровье</td><td>бесплатный 3-дневный марафон; лучшее совпадение лендинга с объявлением — 46/50</td><td><a href="https://www.facebook.com/ads/library/?id=2295195261232255">объявление</a></td></tr>
+            <tr><td class="first">Barno Askarova</td><td class="num">16</td><td>языки</td><td>бесплатный мастер-класс; 10 000+ учеников*</td><td><a href="https://www.facebook.com/ads/library/?id=1771826157380200">объявление</a></td></tr>
+            <tr><td class="first">Top Mentors</td><td class="num">13</td><td>маркетинг</td><td>кейс «418 договоров за 10 дней»*, анкета вместо директа</td><td><a href="https://www.facebook.com/ads/library/?id=2975117179496681">объявление</a></td></tr>
+            <tr><td class="first">Aipply Academy</td><td class="num">12</td><td>ИИ</td><td>компьютерная грамотность + ИИ; 3 000+ учеников*</td><td><a href="https://www.facebook.com/ads/library/?id=3931634066978799">объявление</a></td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="caption">Число объявлений и срок показа говорят о масштабе и устойчивости, но не об эффективности: расходов Meta не раскрывает. Дольше всех в «заработке в целом» идут объявления Instagram-«кураторов», которые зовут «работать онлайн»: <a href="https://www.facebook.com/ads/library/?id=1387836352608432">588 дней</a> и <a href="https://www.facebook.com/ads/library/?id=1209866587237878">513 дней</a>, с размытыми офферами.</p>
+    </section>
+
+    <section id="earning" aria-labelledby="earning-title">
+      <div class="sec-head"><span class="sec-tag">Разбор креативов · 131 объявление</span><h2 id="earning-title">Ниши заработка: что работает</h2></div>
+      <div class="grid-2">
+        <article class="card">
+          <h3>Маркетплейсы</h3>
+          <p class="small">Хуки «не знаете, с чего начать на Uzum» и «начните безопасно», вход через PDF-гайд и бесплатный урок. Именных кейсов учеников нет — только общее «стабильно $1000 в месяц»* (<a href="https://www.facebook.com/ads/library/?id=2314615639050259">Qadam</a>).</p>
+        </article>
+        <article class="card">
+          <h3>Монтаж и видео</h3>
+          <p class="small">Мобилография: учебные центры с офлайн-группами и онлайн-курсы блогеров. Хук «телефон есть, а денег он не приносит» (<a href="https://www.facebook.com/ads/library/?id=1053401327099594">Space Academy</a>). Долго держатся региональные центры: объявление Geeks Andijan идёт 150 дней (<a href="https://www.facebook.com/ads/library/?id=910488435138125">объявление</a>).</p>
+        </article>
+        <article class="card">
+          <h3>Маркетинг и SMM</h3>
+          <p class="small">Директ — основной вход у 23 из 26 рекламодателей. Ценовой якорь «<s>$100</s> → 250 000 сум» (<a href="https://www.facebook.com/ads/library/?id=1613201869778665">SMM Target</a>), личный бренд для врачей (<a href="https://www.facebook.com/ads/library/?id=957753550700915">объявление</a>), курс Aloqabank «SMM AI Savodxon» (<a href="https://www.facebook.com/ads/library/?id=1010276021897178">объявление</a>).</p>
+        </article>
+        <article class="card">
+          <h3>ИИ</h3>
+          <p class="small">Вебинар — основной вход у 4 из 13 рекламодателей: больше, чем в других нишах заработка. Главный хук — страх замены (<a href="https://www.facebook.com/ads/library/?id=1794551768233503">Najot Ta'lim</a>). Объявления самые свежие: дольше месяца идут 2 из 54.</p>
+        </article>
+        <article class="card">
+          <h3>Фриланс, IT, дизайн</h3>
+          <p class="small">Длинные программы; у 16 из 33 рекламодателей есть объявления старше месяца. Самый прямой доход-хук рынка — «10–30 млн сум в месяц, всего 10 мест»* (<a href="https://www.facebook.com/ads/library/?id=1584527929717116">Logist Academy</a>). Рейтинг вместо самоотчёта — «4,75 из 5 по 26 293 оценкам» (<a href="https://www.facebook.com/ads/library/?id=1093227573085760">Skillbox</a>).</p>
+        </article>
+        <article class="card">
+          <h3>Заработок в целом</h3>
+          <p class="small">Самая размытая ниша: сборные курсы «всё сразу» со скидкой на 3 дня «700 000 → 99 000 сум» (<a href="https://www.facebook.com/ads/library/?id=1209866587237878">объявление</a>) и безусловное «гарантируем, что справитесь» у «кураторов» (<a href="https://www.facebook.com/ads/library/?id=1387836352608432">объявление</a>).</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="landings" aria-labelledby="landings-title">
+      <div class="sec-head"><span class="sec-tag">Разбор 16 лендингов</span><h2 id="landings-title">Лендинги</h2></div>
+      <div class="findings">
+        <div class="finding">
+          <ul>
+            <li><strong>Типовая структура:</strong> заголовок-обещание → форма на 1–2 поля на первом экране → блок «лет опыта × учеников» → отзывы → переход в Telegram-бот. Сразу после формы в Telegram передают 7 из 16.</li>
+            <li><strong>Цена открыта только у Englify.</strong> Рассрочку (Uzum Nasiya, Alif, банк) не показывает ни один лендинг.</li>
+            <li><strong>Совпадение с объявлением</strong> — от 46/50 у Simona LadyFit до 15/50 у Inter Nation English School. У Fintechhub объявление продаёт кибербезопасность, а лендинг — программирование вообще (<a href="https://www.facebook.com/ads/library/?id=1750360909467972">объявление</a>).</li>
+            <li><strong>Технологии:</strong> 3 лендинга на технических доменах vercel.app, один на конструкторе lovable.dev, у остальных свои сборки; пиксель Meta и GA4 почти везде.</li>
+            <li><strong>Деньги в пустоту:</strong> лендинг PDP Junior не открывался 16.09.2026, а объявление активно (<a href="https://www.facebook.com/ads/library/?id=1349895489943786">объявление</a>).</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="borrow" aria-labelledby="borrow-title">
+      <div class="sec-head"><span class="sec-tag">Из соседних ниш</span><h2 id="borrow-title">Что перенять в школу заработка</h2></div>
+      <div class="table-wrap">
+        <table class="wide">
+          <thead><tr><th class="first">Приём</th><th>Кто использует</th><th>Как адаптировать</th></tr></thead>
+          <tbody>
+            <tr><td class="first">Гарантия с условием</td><td>Ib career — «не удвоим продажи, вернём 100%» (<a href="https://www.facebook.com/ads/library/?id=2023358994815259">объявление</a>); Avtovoditel.uz — «прошли весь курс и не сдали экзамен — экспресс-курс бесплатно» (<a href="https://www.facebook.com/ads/library/?id=1342827581318165">объявление</a>)</td><td>«Не сдал итоговый проект — повторный поток бесплатно» вместо гарантии суммы дохода</td></tr>
+            <tr><td class="first">Отбор в поток</td><td>School 21 — бесплатное обучение только после отборочного «бассейна» (<a href="https://www.facebook.com/ads/library/?id=2136835870205213">объявление</a>)</td><td>Вступительное задание или короткий звонок перед премиум-группой</td></tr>
+            <tr><td class="first">Два преподавателя</td><td>Blitz — основной учитель плюс ежедневная практика со вторым (<a href="https://www.facebook.com/ads/library/?id=1561731425598135">объявление</a>)</td><td>Разделить роли: кто объясняет и кто тренирует</td></tr>
+            <tr><td class="first">Короткий интенсив</td><td>IbrahimGulyamov — 3 дня для владельцев бизнеса (<a href="https://www.facebook.com/ads/library/?id=1922756175349115">объявление</a>)</td><td>Мостик между бесплатным уроком и полным курсом</td></tr>
+            <tr><td class="first">Сегменты со «своим» преподавателем</td><td>Avtovoditel.uz — женские группы с женщинами-инструкторами (<a href="https://www.facebook.com/ads/library/?id=1342827581318165">объявление</a>)</td><td>Отдельные группы для женщин, студентов, 40+</td></tr>
+            <tr><td class="first">Проверяемые детали</td><td>Excel Masters — «20% теории, 80% практики», работодатели выпускников Artel, AKFA, Beeline* (<a href="https://www.facebook.com/ads/library/?id=1563508788647680">объявление</a>)</td><td>Называть конкретные платформы и компании, а не «топовых работодателей»</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="risk" aria-labelledby="risk-title">
+      <div class="sec-head"><span class="sec-tag">10 рекламодателей · 46 объявлений</span><h2 id="risk-title">Зона риска</h2></div>
+      <p class="prose muted">Трейдинг, форекс и инвестиции с обещаниями дохода. Юридических выводов о компаниях здесь нет — только то, что написано в объявлениях. После ручной проверки из флага риска убраны «инвестиция в себя» у школ и вузов, франшиза пиццерии и «trading» у логистов.</p>
+      <div class="table-wrap">
+        <table class="mid">
+          <thead><tr><th class="first">Рекламодатель</th><th class="num">С флагом риска</th><th>Что продают</th><th>Пример</th></tr></thead>
+          <tbody>
+            <tr><td class="first">Mjcompanyuz</td><td class="num">28</td><td>видеоурок о стратегии «как попасть в топ-5% трейдеров»</td><td><a href="https://www.facebook.com/ads/library/?id=1756046018633090">объявление</a></td></tr>
+            <tr><td class="first">Uznetix</td><td class="num">3</td><td>вебинары об инвестициях в акции; единственный с оговоркой «доход не гарантируется»</td><td><a href="https://www.facebook.com/ads/library/?id=1687841545835931">объявление</a></td></tr>
+            <tr><td class="first">HBS academy Uzbekistan</td><td class="num">3</td><td>трейдинг и инвестиции «для дополнительного дохода», есть отдельный оффер для женщин</td><td><a href="https://www.facebook.com/ads/library/?id=1066810239141010">объявление</a></td></tr>
+            <tr><td class="first">Myfxbro</td><td class="num">3</td><td>«торгуйте счётом $10 000, не рискуя своим $1»</td><td><a href="https://www.facebook.com/ads/library/?id=1701613094264072">объявление</a></td></tr>
+            <tr><td class="first">Ilhomjon Ibrokhimov</td><td class="num">3</td><td>наставничество в трейдинге, отбор 10 человек</td><td><a href="https://www.facebook.com/ads/library/?id=1712126239888659">объявление</a></td></tr>
+            <tr><td class="first">Hirex</td><td class="num">1</td><td>Telegram-канал с «ИИ-роботом для трейдинга»</td><td><a href="https://www.facebook.com/ads/library/?id=1258670336344494">объявление</a></td></tr>
+            <tr><td class="first">Abdulaziz Rakhmanov</td><td class="num">1</td><td>трейдинг: «$30–40 в день»</td><td><a href="https://www.facebook.com/ads/library/?id=1604061408039984">объявление</a></td></tr>
+            <tr><td class="first">Libertex</td><td class="num">1</td><td>вебинар по трейдингу «со стабильным результатом»</td><td><a href="https://www.facebook.com/ads/library/?id=1646544990366206">объявление</a></td></tr>
+            <tr><td class="first">RRR Academy</td><td class="num">1</td><td>офлайн-курс трейдинга в Бухаре</td><td><a href="https://www.facebook.com/ads/library/?id=2101798577088311">объявление</a></td></tr>
+            <tr><td class="first">Treyder xudoyorov</td><td class="num">1</td><td>обучение трейдингу в Telegram</td><td><a href="https://www.facebook.com/ads/library/?id=2774432619679602">объявление</a></td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="caption">Сорок шестое объявление с флагом — сборный курс «ONLINE DAROMAD 100%» со страницы, имя которой сборщик не распознал. У Uznetix и Hirex есть ещё по одному объявлению без флага.</p>
+    </section>
+
+    <section id="gaps" aria-labelledby="gaps-title">
+      <div class="sec-head"><span class="sec-tag">Возможности</span><h2 id="gaps-title">Пустые места на рынке</h2></div>
+      <div class="prose">
+        <ol>
+          <li><strong>Открытая цена</strong> в объявлении и на лендинге — у единиц: 18 из 361 объявления ниш заработка и 1 из 16 лендингов.</li>
+          <li><strong>Рассрочка</strong> — ни на одном из 16 лендингов, а в текстах 832 объявлений её упоминают только трейдер, магазин микрофонов и университет. При этом Uzum Nasiya и Alif — стандарт розницы.</li>
+          <li><strong>Гарантия с понятным условием</strong> в нишах заработка не найдена, а в соседних нишах работает.</li>
+          <li><strong>Проверяемые доказательства</strong> в текстах объявлений — выплаты, именные видеоотзывы, рейтинги площадок — почти нет; рейтинг вместо самоотчёта показывает один Skillbox.</li>
+          <li><strong>Честный разговор о доходе</strong> не найден ни в одном из 361 объявления ниш заработка.</li>
+          <li><strong>Регулярная оплата</strong> — подписку или клуб не продаёт никто.</li>
+          <li><strong>Своя воронка</strong> — 70% рекламодателей ведут основной трафик в Instagram и Messenger, а не на свой сайт.</li>
+        </ol>
+      </div>
+    </section>
+
+    <section id="ideas" aria-labelledby="ideas-title">
+      <div class="sec-head"><span class="sec-tag">Без обещаний дохода · цена открыта</span><h2 id="ideas-title">8 идей объявлений для школы</h2></div>
+      <div class="table-wrap">
+        <table class="wide">
+          <thead><tr><th class="first">Хук</th><th>Вход</th><th>Тип</th></tr></thead>
+          <tbody>
+            <tr><td class="first">«Телефон в руках, а с чего начать в ИИ — непонятно?»</td><td>бесплатный урок на 60–90 минут с тремя инструментами для работы</td><td><span class="chip hi">проверенный паттерн</span></td></tr>
+            <tr><td class="first">«Какая удалённая работа вам подходит? Тест за 2 минуты»</td><td>тест → один из трёх треков → цена сразу</td><td><span class="chip est">непроверенный угол</span></td></tr>
+            <tr><td class="first">«Миллион за неделю не заработать. Навык за 2 месяца — реально»</td><td>программа и фиксированная цена на сайте</td><td><span class="chip est">непроверенный угол</span></td></tr>
+            <tr><td class="first">«5 ИИ-инструментов для старта — чек-лист бесплатно»</td><td>лид-магнит → Telegram</td><td><span class="chip hi">проверенный паттерн</span></td></tr>
+            <tr><td class="first">«Из Нукуса, Термеза или Ферганы учиться можно не хуже, чем из Ташкента»</td><td>онлайн, единая цена по стране</td><td><span class="chip est">непроверенный угол</span></td></tr>
+            <tr><td class="first">Честная история преподавателя без обещаний дохода</td><td>страница преподавателя с программой и ценой</td><td><span class="chip hi">проверенный паттерн</span></td></tr>
+            <tr><td class="first">«4,8 из 5 у первых учеников — почему?»</td><td>ссылка на проверяемые отзывы</td><td><span class="chip est">непроверенный угол</span></td></tr>
+            <tr><td class="first">«Сколько реально платят фрилансерам с ИИ — разбор без прикрас»</td><td>бесплатный разбор → курс</td><td><span class="chip est">непроверенный угол</span></td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="limits" aria-labelledby="limits-title">
+      <div class="sec-head"><span class="sec-tag">Честно</span><h2 id="limits-title">Ограничения</h2></div>
+      <div class="prose">
+        <ul>
+          <li><strong>Поиск по тексту объявления</strong>, до 20–30 карточек на запрос: большие портфели видны не целиком, а тот, кто не пишет искомых слов, не найден. Полнота по известному списку — 85%.</li>
+          <li><strong>Разметка правилами.</strong> После ручной проверки остался шум: в «без явной ниши» 28 рекламодателей, часть из них не про обучение.</li>
+          <li><strong>Только текст.</strong> Картинки и видео объявлений не разбирались.</li>
+          <li><strong>Снимок активной рекламы</strong> на 15–16.09.2026. Расходов и показов для коммерческой рекламы вне ЕС Meta не раскрывает.</li>
+          <li><strong>Цифры рекламодателей о себе</strong> — самоотчёт, отмечены *.</li>
+          <li>Автоматический сбор из библиотеки объявлений может противоречить правилам Meta; здесь разовый сбор публичных данных без входа в аккаунт.</li>
+        </ul>
+      </div>
+      <p class="caption">Данные и разборы лежат в папке «Онлайн школа УЗ» → research/03-reklama-meta: ИТОГ.md, ads_uz_info.csv, advertisers.csv, analysis/ с тремя разборами по скиллам.</p>
+    </section>
+
+    <footer>Скан Meta Ad Library · 15–16.09.2026 · задача CURSOR-ptgt. Только публичная информация из рекламы. Цифры со звёздочкой — заявления самих рекламодателей.</footer>
+  </main>
+</div>

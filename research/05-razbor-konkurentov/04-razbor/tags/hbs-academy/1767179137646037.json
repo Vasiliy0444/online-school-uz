@@ -1,0 +1,90 @@
+{
+ "creative_id": "1767179137646037",
+ "platform": "meta",
+ "school_id": "hbs-academy",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Feruz opa, nega aynan treyding sohasini tanlagansiz?",
+  "types": [
+   "вопрос",
+   "соцдоказательство"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s (караоке по словам): «Feruz opa, nega aynan treyding sohasini tanlagansiz?» — слово «treyding» видно на кадре 1.5s (в отличие от 1060086169879221, где то же слово пропало между кадрами)",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Firsota, nige aynan trading soxasini darmagansiz?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для мам",
+   "доход",
+   "без опыта"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "🌸 Ayollar uchun yangi imkoniyat! Uy yumushlari yoki asosiy ishingizni tark etmasdan ham qo'shimcha daromad qilish mumkin."
+   },
+   {
+    "source": "текст объявления",
+    "quote": "📈 Investitsiya va treydingni noldan o'rganing, tajribali mentorlar bilan amaliy darslarda qatnashing."
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (~0:29): «Treydingni endi boshlamoqchi»",
+    "timecode": "00:29"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:27] Tradingi indi boshlamakchi bulganlarga, [00:30] Trading soxhazidi kop odamli tez va oson pul topish yoladi qarashadi, lekin trading tez doyb kitish yoli imaz, va unge kas sifatidi qarash girey, shumda rezultat ozgi yarashi olad.",
+    "timecode": "00:27"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "скидка"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "✨ Kunduzgi offline guruhlar uchun maxsus narx sizni kutmoqda."
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "неизвестно",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "ученик"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "средняя",
+ "notes": "risk = true по правилу инструкции для трейдинга и инвестиций (приведено к одному виду 17.09). Тот же формат интервью, что у 1066810239141010 (Zilola opa) и 1060086169879221 (Dildor opa), героиня здесь — «Feruz opa» (по правилу учеников не называем в public_name). Хук полностью подтверждён кадрами дословно, включая слово «treyding» (в отличие от 1060086169879221, где это же слово выпало между снятыми кадрами — здесь видно на 1.5s, что подтверждает мою реконструкцию там). Обзорный кадр 2 из 4 (~0:17) показывает класс/торговый зал с несколькими учениками (в том числе в хиджабах) за мониторами с графиками котировок — подпись «bo'lgani uchun va treyding florga» («trading floor»). Финал расшифровки [00:27–00:35] — важная смысловая деталь: героиня прямо говорит тем, кто только начинает трейдинг, что многие считают это «быстрым и лёгким способом разбогатеть», но трейдинг — не путь к быстрому богатству, к нему нужно относиться как к профессии — этот отрывок скорее снижает, а не завышает ожидания (похоже по духу на предостережение в 1011282651883948). Расшифровка обрывается до конца ролика (46.4 с) — итоговый CTA не виден, отсюда «неизвестно»."
+}

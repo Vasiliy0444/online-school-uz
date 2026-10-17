@@ -1,0 +1,120 @@
+{
+ "creative_id": "742177388962148",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Uzum Marketdagi o'quvchimiz bir oy davomida bolalar o'yinchog'ini sotib, 44 million savdo aylanmasi qildi…",
+  "types": [
+   "соцдоказательство",
+   "результат или доход",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "таймер или обратный отсчёт",
+   "логотип площадки (Uzum и т.п.)"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s: таймер «00:36», «21+»; мужчина в костюме сидит и смотрит в камеру",
+    "timecode": "00:00"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.5s–1.5s: логотип Uzum Market поверх кадра",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s–2.5s: «1 OY DAVOMIDA»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 1 из 4 (≈00:05): «44 MILLION SAVDO AYLANMASI»",
+    "timecode": "00:05"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Uzun markettagi oquchimiz bura o'ydamimi di bollar oyuncağini sotup 44 milyon sado aylanmasi kildi va bularinin barchasi Fultik Metro Fibers Yunarishdi idi.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "свой бизнес",
+   "доход",
+   "без опыта"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Uzumda o'z biznesingizni xavf-xatarsiz yo'lga qo'ying!"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:19] Shukursda biz sizge dukan atishdan bashlap, daramatli maqsilatlarin tanlap, ularin satuga chikarish,",
+    "timecode": "00:19"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:25] wa salda jarayanlarin aftamatilashdishkeche bolgan jarayanin noldan urgatib baramiz.",
+    "timecode": "00:25"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (≈00:24): «MAHSULOTLARNI TANLAB», летящие купюры",
+    "timecode": "00:24"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:33] Khazrak ariza qaldirin, wa uzun marketta daramat qilishni biz bilan bashlayin.",
+    "timecode": "00:33"
+   }
+  ],
+  "revenue_claim": "1 OY DAVOMIDA 44 MILLION SAVDO AYLANMASI (ученик, кадры); 5 milliarddan ortiq savdo aylanmasi (автор курса о себе, по расшифровке)"
+ },
+ "offer": {
+  "items": [
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈00:33): «JOYLAR SONI CHEKLANGAN»",
+    "timecode": "00:33"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:30] Yangi guruklarimizgi qabul atip, lekin jalar sona chekilanya.",
+    "timecode": "00:30"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "основатель или эксперт",
+  "public_name": "Sarvar Xayrullayev"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Хук по расшифровке, написание исправлено («oquchimiz bura o'ydamimi di bollar oyuncağini sotup … sado aylanmasi kildi» → «o'quvchimiz bir oy davomida bolalar o'yinchog'ini sotib … savdo aylanmasi qildi»); «1 OY DAVOMIDA» и «44 MILLION SAVDO AYLANMASI» подтверждены кадрами. Хвост фразы «va bularinin barchasi Fultik Metro Fibers Yunarishdi idi» неразборчив — в verbatim не включён. Это оборот ученика, не доход — income_claim не заполнен. Спикер представляется [00:09]: «Man khayrlayiq sarva. Marketplislarda 5 milyarddan oshuk sado aylanmasi ki ege bugan sot uchiq soblanima» = «Men Xayrullayev Sarvar, marketpleyslarda 5 milliarddan ortiq savdo aylanmasiga ega bo'lgan sotuvchi hisoblanaman», дальше «uch yillik tajribamni … bitta amaliy kursga yig'dim» → «основатель или эксперт»; имя по речи, на кадрах не написано. Курс: от открытия магазина и выбора прибыльных товаров до автоматизации продаж, с нуля. Призыв [00:33]: «Hoziroq ariza qoldiring va Uzum Marketda daromad qilishni biz bilan boshlang» (написание исправлено). Текст объявления обещает старт «xavf-xatarsiz» — risk не ставлю: сумм дохода нет."
+}

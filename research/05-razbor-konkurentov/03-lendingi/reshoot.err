@@ -1,0 +1,300 @@
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.21s 
+[FETCH]... ↓ https://ithouseedu.uz/                                                                               | ✓ | ⏱: 8.73s 
+[SCRAPE].. ◆ https://ithouseedu.uz/                                                                               | ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://ithouseedu.uz/                                                                               | ✓ | ⏱: 8.90s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.14s 
+[FETCH]... ↓ https://ithouseedu.uz/courses/4-frontend-dasturlash                                                  | ✓ | ⏱: 8.24s 
+[SCRAPE].. ◆ https://ithouseedu.uz/courses/4-frontend-dasturlash                                                  | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://ithouseedu.uz/courses/4-frontend-dasturlash                                                  | ✓ | ⏱: 8.31s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.15s 
+[FETCH]... ↓ https://ithouseedu.uz/courses/6-kiberxavfsizlik                                                      | ✓ | ⏱: 8.16s 
+[SCRAPE].. ◆ https://ithouseedu.uz/courses/6-kiberxavfsizlik                                                      | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://ithouseedu.uz/courses/6-kiberxavfsizlik                                                      | ✓ | ⏱: 8.22s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.14s 
+[FETCH]... ↓ https://ithouseedu.uz/courses/7-smm                                                                  | ✓ | ⏱: 8.31s 
+[SCRAPE].. ◆ https://ithouseedu.uz/courses/7-smm                                                                  | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://ithouseedu.uz/courses/7-smm                                                                  | ✓ | ⏱: 8.37s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.15s 
+[FETCH]... ↓ https://ithouseedu.uz/courses/8-foundation                                                           | ✓ | ⏱: 8.25s 
+[SCRAPE].. ◆ https://ithouseedu.uz/courses/8-foundation                                                           | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://ithouseedu.uz/courses/8-foundation                                                           | ✓ | ⏱: 8.31s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.17s 
+[FETCH]... ↓ https://kurslar.najottalim.uz/dizayn                                                                 | ✓ | ⏱: 10.88s 
+[SCRAPE].. ◆ https://kurslar.najottalim.uz/dizayn                                                                 | ✓ | ⏱: 0.11s 
+[COMPLETE] ● https://kurslar.najottalim.uz/dizayn                                                                 | ✓ | ⏱: 11.04s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.05s 
+[FETCH]... ↓ https://kurslar.najottalim.uz/umumiyforma?amp;amp;utm_term=aijonlichat                               | ✓ | ⏱: 9.32s 
+[SCRAPE].. ◆ https://kurslar.najottalim.uz/umumiyforma?amp;amp;utm_term=aijonlichat                               | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://kurslar.najottalim.uz/umumiyforma?amp;amp;utm_term=aijonlichat                               | ✓ | ⏱: 9.37s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.23s 
+[FETCH]... ↓ https://najottalim.uz/                                                                               | ✓ | ⏱: 8.71s 
+[SCRAPE].. ◆ https://najottalim.uz/                                                                               | ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://najottalim.uz/                                                                               | ✓ | ⏱: 8.88s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.12s 
+[FETCH]... ↓ https://najottalim.uz/kurslar                                                                        | ✓ | ⏱: 8.12s 
+[SCRAPE].. ◆ https://najottalim.uz/kurslar                                                                        | ✓ | ⏱: 0.03s 
+[COMPLETE] ● https://najottalim.uz/kurslar                                                                        | ✓ | ⏱: 8.18s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.11s 
+[FETCH]... ↓ https://najottalim.uz/kurslar/full-stack                                                             | ✓ | ⏱: 8.07s 
+[SCRAPE].. ◆ https://najottalim.uz/kurslar/full-stack                                                             | ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://najottalim.uz/kurslar/full-stack                                                             | ✓ | ⏱: 8.15s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.11s 
+[FETCH]... ↓ https://najottalim.uz/kurslar/smm-pro                                                                | ✓ | ⏱: 8.15s 
+[SCRAPE].. ◆ https://najottalim.uz/kurslar/smm-pro                                                                | ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://najottalim.uz/kurslar/smm-pro                                                                | ✓ | ⏱: 8.26s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.15s 
+[FETCH]... ↓ https://najottalim.uz/kurslar/start-junior                                                           | ✓ | ⏱: 8.27s 
+[SCRAPE].. ◆ https://najottalim.uz/kurslar/start-junior                                                           | ✓ | ⏱: 0.09s 
+[COMPLETE] ● https://najottalim.uz/kurslar/start-junior                                                           | ✓ | ⏱: 8.40s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.20s 
+[FETCH]... ↓ https://najottalim.uz/kurslar/sun-iy-intellekt-asoslari                                              | ✓ | ⏱: 8.26s 
+[SCRAPE].. ◆ https://najottalim.uz/kurslar/sun-iy-intellekt-asoslari                                              | ✓ | ⏱: 0.10s 
+[COMPLETE] ● https://najottalim.uz/kurslar/sun-iy-intellekt-asoslari                                              | ✓ | ⏱: 8.40s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.11s 
+[FETCH]... ↓ https://qadam.education/ai-hunarmand                                                                 | ✓ | ⏱: 9.48s 
+[SCRAPE].. ◆ https://qadam.education/ai-hunarmand                                                                 | ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://qadam.education/ai-hunarmand                                                                 | ✓ | ⏱: 9.66s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.11s 
+[FETCH]... ↓ https://qadam.education/excel-sheets-course                                                          | ✓ | ⏱: 9.16s 
+[SCRAPE].. ◆ https://qadam.education/excel-sheets-course                                                          | ✓ | ⏱: 0.10s 
+[COMPLETE] ● https://qadam.education/excel-sheets-course                                                          | ✓ | ⏱: 9.31s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.11s 
+[FETCH]... ↓ https://qadam.education/naym-quiz                                                                    | ✓ | ⏱: 9.87s 
+[SCRAPE].. ◆ https://qadam.education/naym-quiz                                                                    | ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://qadam.education/naym-quiz                                                                    | ✓ | ⏱: 9.96s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.09s 
+[FETCH]... ↓ https://qadam.education/uzum                                                                         | ✓ | ⏱: 9.00s 
+[SCRAPE].. ◆ https://qadam.education/uzum                                                                         | ✓ | ⏱: 0.14s 
+[COMPLETE] ● https://qadam.education/uzum                                                                         | ✓ | ⏱: 9.19s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.08s 
+[FETCH]... ↓ https://qadam.education/uzum-form                                                                    | ✓ | ⏱: 8.98s 
+[SCRAPE].. ◆ https://qadam.education/uzum-form                                                                    | ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://qadam.education/uzum-form                                                                    | ✓ | ⏱: 9.15s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.11s 
+[FETCH]... ↓ https://qadam.education/uzum-inomarka-v3                                                             | ✓ | ⏱: 8.99s 
+[SCRAPE].. ◆ https://qadam.education/uzum-inomarka-v3                                                             | ✓ | ⏱: 0.11s 
+[COMPLETE] ● https://qadam.education/uzum-inomarka-v3                                                             | ✓ | ⏱: 9.16s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.07s 
+[FETCH]... ↓ https://qadam.education/uzum-inomarka-v5                                                             | ✓ | ⏱: 8.78s 
+[SCRAPE].. ◆ https://qadam.education/uzum-inomarka-v5                                                             | ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://qadam.education/uzum-inomarka-v5                                                             | ✓ | ⏱: 8.96s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.07s 
+[FETCH]... ↓ https://qadam.education/uzum-masterklass                                                             | ✓ | ⏱: 8.75s 
+[SCRAPE].. ◆ https://qadam.education/uzum-masterklass                                                             | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://qadam.education/uzum-masterklass                                                             | ✓ | ⏱: 8.82s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.05s 
+[FETCH]... ↓ https://qadam.education/uzum-pdf                                                                     | ✓ | ⏱: 8.58s 
+[SCRAPE].. ◆ https://qadam.education/uzum-pdf                                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://qadam.education/uzum-pdf                                                                     | ✓ | ⏱: 8.63s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.19s 
+[FETCH]... ↓ https://qadam.education/uzum-popup                                                                   | ✓ | ⏱: 9.61s 
+[SCRAPE].. ◆ https://qadam.education/uzum-popup                                                                   | ✓ | ⏱: 0.16s 
+[COMPLETE] ● https://qadam.education/uzum-popup                                                                   | ✓ | ⏱: 9.85s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.05s 
+[FETCH]... ↓ https://qadam.education/uzum/quiz/3                                                                  | ✓ | ⏱: 9.09s 
+[SCRAPE].. ◆ https://qadam.education/uzum/quiz/3                                                                  | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://qadam.education/uzum/quiz/3                                                                  | ✓ | ⏱: 9.12s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.08s 
+[FETCH]... ↓ https://qadam.education/uzum/quiz                                                                    | ✓ | ⏱: 8.85s 
+[SCRAPE].. ◆ https://qadam.education/uzum/quiz                                                                    | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://qadam.education/uzum/quiz                                                                    | ✓ | ⏱: 8.90s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.07s 
+[FETCH]... ↓ https://qadam.education/uzum-tg                                                                      | ✓ | ⏱: 9.07s 
+[SCRAPE].. ◆ https://qadam.education/uzum-tg                                                                      | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://qadam.education/uzum-tg                                                                      | ✓ | ⏱: 9.13s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.11s 
+[FETCH]... ↓ https://qadam.education/youtube-express                                                              | ✓ | ⏱: 8.82s 
+[SCRAPE].. ◆ https://qadam.education/youtube-express                                                              | ✓ | ⏱: 0.14s 
+[COMPLETE] ● https://qadam.education/youtube-express                                                              | ✓ | ⏱: 9.02s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.14s 
+[FETCH]... ↓ https://qadam.online/courses/1/309                                                                   | ✓ | ⏱: 11.99s 
+[SCRAPE].. ◆ https://qadam.online/courses/1/309                                                                   | ✓ | ⏱: 0.09s 
+[COMPLETE] ● https://qadam.online/courses/1/309                                                                   | ✓ | ⏱: 12.16s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.42s 
+[FETCH]... ↓ https://aicreator.academy/                                                                           | ✓ | ⏱: 9.47s 
+[SCRAPE].. ◆ https://aicreator.academy/                                                                           | ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://aicreator.academy/                                                                           | ✓ | ⏱: 9.58s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.04s 
+[FETCH]... ↓ https://aicreator.academy/signup                                                                     | ✓ | ⏱: 8.37s 
+[SCRAPE].. ◆ https://aicreator.academy/signup                                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://aicreator.academy/signup                                                                     | ✓ | ⏱: 8.40s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.06s 
+[FETCH]... ↓ https://aicreator.academy/terms                                                                      | ✓ | ⏱: 8.32s 
+[SCRAPE].. ◆ https://aicreator.academy/terms                                                                      | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://aicreator.academy/terms                                                                      | ✓ | ⏱: 8.34s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.15s 
+[FETCH]... ↓ https://alikhanova.aicreator.academy/                                                                | ✓ | ⏱: 10.66s 
+[SCRAPE].. ◆ https://alikhanova.aicreator.academy/                                                                | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://alikhanova.aicreator.academy/                                                                | ✓ | ⏱: 10.71s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.11s 
+[FETCH]... ↓ https://apply.englify.uz/listeningwithmike                                                           | ✓ | ⏱: 11.32s 
+[SCRAPE].. ◆ https://apply.englify.uz/listeningwithmike                                                           | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://apply.englify.uz/listeningwithmike                                                           | ✓ | ⏱: 11.36s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.06s 
+[FETCH]... ↓ https://englify.uz/                                                                                  | ✓ | ⏱: 9.08s 
+[SCRAPE].. ◆ https://englify.uz/                                                                                  | ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://englify.uz/                                                                                  | ✓ | ⏱: 9.23s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.06s 
+[FETCH]... ↓ https://englify.uz/public-offer                                                                      | ✓ | ⏱: 8.56s 
+[SCRAPE].. ◆ https://englify.uz/public-offer                                                                      | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://englify.uz/public-offer                                                                      | ✓ | ⏱: 8.63s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.07s 
+[FETCH]... ↓ https://instant.englify.uz/                                                                          | ✓ | ⏱: 8.06s 
+[SCRAPE].. ◆ https://instant.englify.uz/                                                                          | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://instant.englify.uz/                                                                          | ✓ | ⏱: 8.10s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.19s 
+[FETCH]... ↓ https://mini-web.englify.uz/f9c4hs                                                                   | ✓ | ⏱: 8.29s 
+[SCRAPE].. ◆ https://mini-web.englify.uz/f9c4hs                                                                   | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://mini-web.englify.uz/f9c4hs                                                                   | ✓ | ⏱: 8.31s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.11s 
+[FETCH]... ↓ https://mini-web.englify.uz/g6z5nq                                                                   | ✓ | ⏱: 8.10s 
+[SCRAPE].. ◆ https://mini-web.englify.uz/g6z5nq                                                                   | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://mini-web.englify.uz/g6z5nq                                                                   | ✓ | ⏱: 8.11s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.21s 
+[FETCH]... ↓ https://mini-web.englify.uz/k7m2xq                                                                   | ✓ | ⏱: 7.95s 
+[SCRAPE].. ◆ https://mini-web.englify.uz/k7m2xq                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://mini-web.englify.uz/k7m2xq                                                                   | ✓ | ⏱: 7.97s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.21s 
+[FETCH]... ↓ https://mini-web.englify.uz/m2y7cv                                                                   | ✓ | ⏱: 8.36s 
+[SCRAPE].. ◆ https://mini-web.englify.uz/m2y7cv                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://mini-web.englify.uz/m2y7cv                                                                   | ✓ | ⏱: 8.39s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.09s 
+[FETCH]... ↓ https://mini-web.englify.uz/n2q6xv                                                                   | ✓ | ⏱: 8.01s 
+[SCRAPE].. ◆ https://mini-web.englify.uz/n2q6xv                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://mini-web.englify.uz/n2q6xv                                                                   | ✓ | ⏱: 8.03s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.10s 
+[FETCH]... ↓ https://mini-web.englify.uz/p4v9tz                                                                   | ✓ | ⏱: 8.01s 
+[SCRAPE].. ◆ https://mini-web.englify.uz/p4v9tz                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://mini-web.englify.uz/p4v9tz                                                                   | ✓ | ⏱: 8.03s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.19s 
+[FETCH]... ↓ https://mini-web.englify.uz/r5m8kd                                                                   | ✓ | ⏱: 8.12s 
+[SCRAPE].. ◆ https://mini-web.englify.uz/r5m8kd                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://mini-web.englify.uz/r5m8kd                                                                   | ✓ | ⏱: 8.15s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.05s 
+[FETCH]... ↓ https://mini-web.englify.uz/r6d1ks                                                                   | ✓ | ⏱: 8.09s 
+[SCRAPE].. ◆ https://mini-web.englify.uz/r6d1ks                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://mini-web.englify.uz/r6d1ks                                                                   | ✓ | ⏱: 8.11s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.13s 
+[FETCH]... ↓ https://mini-web.englify.uz/w7b3jt                                                                   | ✓ | ⏱: 8.07s 
+[SCRAPE].. ◆ https://mini-web.englify.uz/w7b3jt                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://mini-web.englify.uz/w7b3jt                                                                   | ✓ | ⏱: 8.09s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.06s 
+[FETCH]... ↓ https://web.englify.uz/                                                                              | ✓ | ⏱: 8.30s 
+[SCRAPE].. ◆ https://web.englify.uz/                                                                              | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://web.englify.uz/                                                                              | ✓ | ⏱: 8.35s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.07s 
+[FETCH]... ↓ https://hbstrading.net/crypto-investor                                                               | ✓ | ⏱: 8.83s 
+[SCRAPE].. ◆ https://hbstrading.net/crypto-investor                                                               | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://hbstrading.net/crypto-investor                                                               | ✓ | ⏱: 8.86s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.06s 
+[FETCH]... ↓ https://hbstrading.net/                                                                              | ✓ | ⏱: 8.73s 
+[SCRAPE].. ◆ https://hbstrading.net/                                                                              | ✓ | ⏱: 0.04s 
+[COMPLETE] ● https://hbstrading.net/                                                                              | ✓ | ⏱: 8.79s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.08s 
+[FETCH]... ↓ https://hbstrading.net/express                                                                       | ✓ | ⏱: 8.62s 
+[SCRAPE].. ◆ https://hbstrading.net/express                                                                       | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://hbstrading.net/express                                                                       | ✓ | ⏱: 8.65s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.10s 
+[FETCH]... ↓ https://hbstrading.net/finversity                                                                    | ✓ | ⏱: 8.55s 
+[SCRAPE].. ◆ https://hbstrading.net/finversity                                                                    | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://hbstrading.net/finversity                                                                    | ✓ | ⏱: 8.58s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.09s 
+[FETCH]... ↓ https://hbstrading.net/hbs-academy                                                                   | ✓ | ⏱: 8.48s 
+[SCRAPE].. ◆ https://hbstrading.net/hbs-academy                                                                   | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://hbstrading.net/hbs-academy                                                                   | ✓ | ⏱: 8.50s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.02s 
+[FETCH]... ↓ https://hbstrading.net/terms-of-service                                                              | ✓ | ⏱: 7.93s 
+[SCRAPE].. ◆ https://hbstrading.net/terms-of-service                                                              | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://hbstrading.net/terms-of-service                                                              | ✓ | ⏱: 7.95s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.11s 
+[FETCH]... ↓ https://inter-nation.uz/                                                                             | ✓ | ⏱: 9.87s 
+[SCRAPE].. ◆ https://inter-nation.uz/                                                                             | ✓ | ⏱: 0.05s 
+[COMPLETE] ● https://inter-nation.uz/                                                                             | ✓ | ⏱: 9.94s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.08s 
+[FETCH]... ↓ https://inter-nation.uz/l/instagram_samarqand                                                        | ✓ | ⏱: 9.00s 
+[SCRAPE].. ◆ https://inter-nation.uz/l/instagram_samarqand                                                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://inter-nation.uz/l/instagram_samarqand                                                        | ✓ | ⏱: 9.02s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.05s 
+[FETCH]... ↓ https://inter-nation.uz/l/online                                                                     | ✓ | ⏱: 9.41s 
+[SCRAPE].. ◆ https://inter-nation.uz/l/online                                                                     | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://inter-nation.uz/l/online                                                                     | ✓ | ⏱: 9.43s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.03s 
+[FETCH]... ↓ https://inter-nation.uz/locations                                                                    | ✓ | ⏱: 9.40s 
+[SCRAPE].. ◆ https://inter-nation.uz/locations                                                                    | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://inter-nation.uz/locations                                                                    | ✓ | ⏱: 9.43s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.06s 
+[FETCH]... ↓ https://inter-nation.uz/Registration                                                                 | ✓ | ⏱: 9.19s 
+[SCRAPE].. ◆ https://inter-nation.uz/Registration                                                                 | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://inter-nation.uz/Registration                                                                 | ✓ | ⏱: 9.21s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.02s 
+[FETCH]... ↓ https://inter-nation.uz/success-alumni                                                               | ✓ | ⏱: 9.18s 
+[SCRAPE].. ◆ https://inter-nation.uz/success-alumni                                                               | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://inter-nation.uz/success-alumni                                                               | ✓ | ⏱: 9.20s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.05s 
+[FETCH]... ↓ https://bir-group-webinar.vercel.app/                                                                | ✓ | ⏱: 8.51s 
+[SCRAPE].. ◆ https://bir-group-webinar.vercel.app/                                                                | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://bir-group-webinar.vercel.app/                                                                | ✓ | ⏱: 8.52s 
+[INIT].... → Crawl4AI 0.9.3 
+[EXPORT].. ℹ Exporting media (PDF/MHTML/screenshot) took 1.04s 
+[FETCH]... ↓ https://logistacademy.uz/                                                                            | ✓ | ⏱: 9.25s 
+[SCRAPE].. ◆ https://logistacademy.uz/                                                                            | ✓ | ⏱: 0.02s 
+[COMPLETE] ● https://logistacademy.uz/                                                                            | ✓ | ⏱: 9.29s 

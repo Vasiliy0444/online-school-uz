@@ -1,0 +1,85 @@
+{
+ "creative_id": "1887891171766252",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "ANDIJONLIK OTA-ONALAR DIQQATIGA! Sizlar farzandingizni har xil kurslarga berib charchadingizmi va natija ko'rmayapsizmi?",
+  "types": [
+   "боль",
+   "вопрос",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.0s: жёлтый текст «ANDIJONLIK OTA-ONALAR DIQQATIGA!» на фоне амфитеатра с логотипом Inter Nation",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:01] Siz farzanningizni harxili kurslarige berib charchadinizmi",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:04] va natice kormayaksimi?",
+    "timecode": "00:04"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость",
+   "для регионов"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "biz har bir o'quvchining maqsad sari uzluksiz va kechikishlarsiz harakatlanishiga ahamiyat beramiz... Chunki biz uchun eng muhimi — ta'lim sifati"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.0s: «ANDIJONLIK OTA-ONALAR DIQQATIGA!»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:06] International bilan bungi hawatiri yok.",
+    "timecode": "00:06"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук — заголовок на кадре «ANDIJONLIK OTA-ONALAR DIQQATIGA!» (Внимание, родители Андижана!), далее по расшифровке продолжается вопрос о боли (написание исправлено: «Siz farzanningizni harxili kurslarige berib charchadinizmi va natice kormayaksimi?» → «Sizlar farzandingizni har xil kurslarga berib charchadingizmi va natija ko'rmayapsizmi?»). Ролик про систему контроля успеваемости Red List — эмоция «нет повода для тревоги» ближе к доверию/окупаемости, чем к доходу. Явных субтитров всей речи на кадрах нет, только заголовок в начале."
+}

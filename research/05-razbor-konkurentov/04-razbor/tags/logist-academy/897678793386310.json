@@ -1,0 +1,83 @@
+{
+ "creative_id": "897678793386310",
+ "platform": "meta",
+ "school_id": "logist-academy",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "$2000 - $3000 ENDI ORZU EMAS. DISPATCHER BO'LING.",
+  "types": [
+   "цифра",
+   "результат или доход"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: неизменный бейдж «$2000 - $3000 ENDI ORZU EMAS DISPATCHER BOLING»; парень в очках в машине",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Siz dispatcherlar qanchi pul topshini bilasiz?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта",
+   "быстрый старт"
+  ],
+  "income_claim": "$2000-3000 (кадр); orto chasi 1.500-2.000 dolar, ba'zilari ayiga 7000 dollargacha (по черновой расшифровке, о выпускниках-диспетчерах)",
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:22] Hazir kundi, meni dispatcher shagirdlarim kampanyay diishlayb ayige yeddi min dolar gechi pul topshi yapdoy. [00:25] orto chasi 1.500-2.000 dolar atrofta pul topiyab,",
+    "timecode": "00:22"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:35] taji sertifikatla kereyemaz, [00:41] yoyki universitetdi diplomi kereyemaz,",
+    "timecode": "00:35"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Joylar: Atigi 10 ta! Bugun ro'yxatdan o'tmasangiz, ertaga joy qolmasligi mumkin."
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "основатель или эксперт",
+  "public_name": "Ismoyil"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "средняя",
+ "notes": "Спикер называет себя по имени и стажу: «[00:16] Abid, zor taklifim bar beni. [00:18] Ismim Ismayil. [00:20] Ozi logistika diishlaykkanimgi alti il bolu» = «Ismim Ismoyil, o'zim logistikada olti yildan beri ishlayman» (написание исправлено) — роль «основатель или эксперт», имя Ismoyil (в расшифровке «Ismayil»). Конец ролика (58.1с) в доступных кадрах и расшифровке не виден чётко — расшифровка обрывается повторяющимися пустыми таймкодами [00:57], последняя разборчивая фраза «[00:55] qam payne qe dispatch że ziz qol zbogu» не поддаётся уверенной расшифровке. cta.in_creative указал по аналогии с остальными 11 креативами этой же ad_text-серии (все ведут на форму Meta через призыв «зарегистрируйтесь по ссылке ниже») — это предположение по паттерну, не прямое подтверждение для именно этого ролика. Точная сумма $2000-3000 на кадре и цифры 1500-2000/7000$ в речи не противоречат друг другу, но и не идентичны — оставил обе. Конкретная сумма + «сертификат/диплом не нужны» посчитал избыточно уверенным обещанием — risk=true."
+}

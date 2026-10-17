@@ -1,0 +1,73 @@
+{
+ "creative_id": "1053753323930564",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Kompyuter savodxonligi",
+  "types": [
+   "вопрос",
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.5s–2.5s: «KOMPYUTER» → «SAVODXONLIGI» → «Lekin munosib joy topa olmayapsiz,» — тот же мужчина в клетчатом пиджаке, фон с размытыми красными огнями",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Computer sa'at xaliginiz a'ştimaqtisiz.\n[00:01] Lekin münasib choy tapolmayabsi shundaymi?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта",
+   "быстрый старт"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:07] Sababı sizgiya computer sa'at xaligini qisqan bundat itchida orget edi.",
+    "timecode": "00:07"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "IT HOUSE akademiyasi tezlashtirilgan kurs tashkil etdi"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Ссылки нет (link_url/landing_domain пусты) — destination определён по смыслу текста объявления («Ro'yxatdan o'ting! Bepul ma'lumot oling!»), как и у 1591878965927205. Тот же актёр и пиджак, что в 1591878965927205, но другой фон (размытые красные огни вместо гостиной) и другой дубль реплики — вариант того же скетча «есть желание учиться компьютеру, но негде» с одинаковым текстом объявления (см. список повторов в 1591878965927205.json)."
+}

@@ -1,0 +1,70 @@
+{
+ "creative_id": "1081554477744090",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": ">120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Katta odam bilan gaplashgandek bo'lyapman-e! Yoshingiz nechida?",
+  "types": [
+   "вопрос",
+   "соцдоказательство"
+  ],
+  "visual": [
+   "крупный текст",
+   "лицо в первом кадре"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: чёрно-белая съёмка «под камеру», субтитры «KATTA» → «BILAN» → «BILAN GAPLASHGANDEK» → «BILAN GAPLASHGANDEK BO'LYAPMAN-E» → «YOSHINGIZ» → «YOSHINGIZ NECHIDA?»"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Suhbat davomida u Foundation kursidan oldin kompyuterni ochib ham ko'rmagani, kurs davomida esa ko'pgina yangi narsalarni o'rganganligi haqida gapirib berdi"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:15] Foundeshinda aldin, hesh narsani bilmaksdim. [00:17] Kamputurni umrumda ochimegenman, notebookki kilib.",
+    "timecode": "00:15"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Agar siz ham dasturlashni 0'dan o'rganishni istasangiz..."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Visit Instagram profile",
+  "in_creative": "слово в комментарии",
+  "destination": "Instagram",
+  "funnel_stage": "директ"
+ },
+ "speaker": {
+  "role": "ученик"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "Отзыв ученика Valiyev Muhammad (Foundation), имя не выношу в speaker. Хук — удивлённая реплика интервьюера про «взрослый» уровень разговора с 16-летним подростком, надёжный источник (кадр). Ключевой факт — до курса герой ни разу не открывал компьютер, после Foundation свободно работает с ним; это подтверждает offer/meaning «без опыта» (курс подходит начинающим с нуля). Расшифровка на 143 с крайне искажена, большая часть overview («SINF», «YOSHLIGIMDAN», «BIRINCHI», «NAJOT») — разрозненные слова без уверенного контекста, не включены в evidence. Оффера нет, призыв — «➕» в комментариях."
+}

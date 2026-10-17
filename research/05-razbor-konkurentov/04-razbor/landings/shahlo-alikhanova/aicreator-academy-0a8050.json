@@ -1,0 +1,94 @@
+{
+ "url": "https://aicreator.academy/",
+ "school_id": "shahlo-alikhanova",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "основной продукт",
+ "promise": {
+  "found": true,
+  "value": "5-недельный практический AI-челлендж: выйти на доход с ИИ за 5 недель — собрать портфолио и выйти к реальным клиентам; «деньги вернутся или выиграете ноутбук»",
+  "quote": "5 haftalik amaliy AI challenge\nAI bilan 5 haftada daromadga chiqing.\n5 haftada tayyor portfolio yasab, real mijozlarga chiqasiz. Pulingiz qaytadi yoki noutbuk yutasiz.",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": true,
+  "value": "«1 500+ учеников вышли на доход» — первый экран, блок цифр и вступление экспертов; в видеокарточках «Sovrindor» — «$300 ishlab topdi»; к 5-й неделе обещаны первый реальный клиент и доход. Сумм, кроме $300, нет; всё — самоотчёт без источника",
+  "quote": "1 500+ o'quvchi daromadga chiqdi\n…\nbugungacha 1 500+ odamni AI bilan daromadga olib chiqdik\n…\n$300 ishlab topdi\n…\nNatija: birinchi real mijoz va daromad",
+  "where": "первый экран"
+ },
+ "audience": {
+  "found": true,
+  "value": "Новички без опыта в ИИ и программировании («noldan boshlaymiz», «oddiy odamlar»): много слышат про ИИ, но не пользуются, нет портфолио и дохода, действуют в одиночку и без системы; нужны устройство, интернет и 1–2 часа в день",
+  "quote": "Bugun\n— AI haqida ko'p eshitasiz, lekin ishlatmaysiz\n— Portfolio yo'q, AI'dan daromad yo'q\n— Yolg'iz, tizimsiz harakat qilasiz\n…\nAI bo'yicha tajriba yoki dasturlash kerakmi?\nYo'q, noldan boshlaymiz. Programist bo'lish shart emas — ko'pchilik o'quvchimiz oddiy odamlar. Sizga qurilma, internet va kuniga 1–2 soat kerak.",
+  "where": "середина"
+ },
+ "program": {
+  "found": true,
+  "modules": 5,
+  "duration": "5 недель; живой эфир с основными преподавателями раз в неделю; 1–2 часа в день; доступ к видеоурокам 6 месяцев после челленджа",
+  "format": "онлайн",
+  "quote": "5 haftalik yo'l, bosqichma-bosqich\n…\n1-hafta\nPrompt engineering\nPromptlar bilan ishlaysiz, custom GPT va shaxsiy assistent yasaysiz.\n…\n2-hafta\nBiznes to'laydigan rasmlar\n…\n3-hafta\nReklama & multfilm\n…\n4-hafta\nBot & avtomatlashtirish\nClaude assistent va Telegram bot yasab, Instagram kontentini avtomatlashtirasiz.\n…\n5-hafta\nMijoz & daromad\nQayerdan mijoz, qanday gaplashish, qancha narx. 5-haftada ustoz o'z Instagramidan e'lon beradi, sizni mijozga bog'laymiz.\n…\nHar hafta\nJonli efir + masterklass\nAsosiy o'qituvchilar bilan haftada 1 marta jonli efir."
+ },
+ "speaker": {
+  "found": true,
+  "value": "Два «AI-эксперта из Швеции» (самоотчёт): Shahlo Alikhanova — «Marketing va AI mutaxassisi», автор практических программ, которые выводят людей на реальный доход с ИИ; Akmalidin Alimov — «Muhandis va AI mutaxassisi», инженер платформы и AI-процессов. Вступление от первого лица: с супругом («Turmush o'rtog'im bilan») работают в AI-проектах в Узбекистане и Швеции и вывели на доход 1 500+ человек; челлендж сделали, потому что уроки на YouTube разрозненные и на английском. Фото нет — инициалы «SH» и «A»",
+  "quote": "Sizni Shvetsiyalik AI ekspertlar o'qitadi\nTurmush o'rtog'im bilan O'zbekiston va Shvetsiyada AI loyihalarida ishlaymiz, bugungacha 1 500+ odamni AI bilan daromadga olib chiqdik. YouTube darslari tarqoq va ingliz tilida — shuning uchun to'g'ri, ketma-ket tizimni challenge qilib berdik.\n…\nShahlo Alikhanova\nMarketing va AI mutaxassisi\nOdamlarni AI bilan real daromadga olib chiquvchi amaliy dasturlar muallifi. Shvetsiyadan.\n…\nAkmalidin Alimov\nMuhandis va AI mutaxassisi\nPlatforma va AI ish oqimlari ortidagi muhandis — g'oyadan tayyor mahsulotgacha.",
+  "where": "середина"
+ },
+ "social_proof": {
+  "types": [
+   "число учеников",
+   "видеоотзывы"
+  ],
+  "count_claim": "«1 500+ o'quvchi daromadga chiqdi» (первый экран и блок цифр) и «bugungacha 1 500+ odamni AI bilan daromadga olib chiqdik» — самоотчёт; счётчик миссии «100 000 hayotni o'zgartirish» в снимке показывает «0 o'quvchi» (анимация не успела)",
+  "reviews_count": 10
+ },
+ "price": {
+  "found": true,
+  "tariffs": [
+   {
+    "name": "To'liq challenge dasturi",
+    "price_uzs": 3990000,
+    "old_price_uzs": 4290000,
+    "period": "одним платежом за весь челлендж (5 недель)",
+    "quote": "To'liq challenge dasturi\n5 modul · 5 hafta · gamifikatsiya · jonli efirlar\n4 290 000 so'm3 990 000 so'm\n✦ Videoni oxirigacha ko'rganlar uchun narx · kuniga 1–2 soat"
+   }
+  ]
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": true,
+  "value": "Возврат — не всем, а по конкурсу: оплату полностью вернут только топ-5 ученикам, которые хорошо сдали дипломную работу и были активны; из первых 100 полностью оплативших топ-3 с отличным результатом выиграют ноутбук. На первом экране это подано как «Pulingiz qaytadi yoki noutbuk yutasiz», в FAQ на вопрос о возврате денег — «Ha». Других условий возврата (сроки, порядок, причины) на странице нет; топ-5 считают на поток или вообще — не сказано",
+  "quote": "Pulingiz qaytadi yoki noutbuk yutasiz.\n…\nXavfni biz o'zimiz olamiz\nBitta to'lov — hamma narsa ichida. Yaxshi natija ko'rsatsangiz, pulingiz qaytadi.\n…\nPul qaytadi\nDiplom ishini yaxshi topshirgan va aktiv bo'lgan top-5 o'quvchi to'lovini to'liq qaytarib oladi.\n…\nNoutbuk sovrini\nBirinchi 100 to'liq to'lovchidan a'lo natijali top-3 noutbuk yutadi.\n…\nTo'lagan pulimni qaytarib olsam bo'ladimi?\nHa. Diplom ishini yaxshi topshirgan va aktiv bo'lgan top-5 o'quvchi to'lovini to'liq qaytarib oladi. Birinchi 100 to'lovchidan a'lo top-3 esa noutbuk yutadi.",
+  "where": "первый экран"
+ },
+ "discounts": {
+  "found": true,
+  "value": "Цена «для тех, кто досмотрел видео до конца»: 3 990 000 сум вместо 4 290 000 сум (−300 000 сум, ≈7%)",
+  "quote": "4 290 000 so'm3 990 000 so'm\n✦ Videoni oxirigacha ko'rganlar uchun narx",
+  "where": "середина"
+ },
+ "bonuses": {
+  "found": true,
+  "value": "3 бонусных курса бесплатно — SMM, мобилография, YouTube; доступ к видеоурокам 6 месяцев после челленджа; сертификат, готовое портфолио и возможность попасть в команду школы; AI-кураторы и личный помощник; геймификация с призами в конце; бесплатный AI-урок в подарок в Telegram-боте",
+  "quote": "3 bonus kurs sovg'a\nSMM · Mobilografiya · YouTube kurslari — qo'shilganlarga bepul.\n…\n6 oy dostup\nChallengedan keyin ham video darslarga 6 oy kirasiz.\n…\n✓ Sertifikat, tayyor portfolio, jamoaga qo'shilish imkoni\n…\nBepul AI dars sovg'asini Telegram botimizdan oling · o'rinlar cheklangan",
+  "where": "середина"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "имя",
+   "телефон"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "notes": "Продающая страница 5-недельного челленджа «AI Creators» (живой снимок 16.09.2026; адрес отдаёт 307 на www.aicreator.academy; в Wayback — снимки с 03.03 по 13.05.2026). Объявлений на неё в ads_meta.csv нет — все 15 ведут на видеоурок alikhanova.aicreator.academy, поэтому message_match не заполнялся. Связь с видеоуроком — подпись к цене «Videoni oxirigacha ko'rganlar uchun narx» и ответ в FAQ «Pastdagi Telegram botdan bepul AI darsni ham sovg'a olishingiz mumkin»: цену, судя по подписи, показывают досмотревшим урок; прямой ссылки с урока на эту страницу в снимке нет. Порядок блоков: шапка (Challenge, Ekspertlar, Natijalar, Narx, Savollar; «Kirish» → /login; «Yangi guruh tez orada»; «Qo'shilish →») → первый экран → макет приложения «AI CREATORS · Mini App» (XP, серия «12 kun», «oyning top 5%», «Midjourney bilan brending», «3-modul · 4-dars · +50 XP», рейтинг группы — образец интерфейса, имена не записаны) → цифры (1 500+, 5 недель, 5 модулей, 6 месяцев доступа) → «Kim o'rgatadi va nega» → «Biz kurs sotmaymiz. Biz hayotlarni o'zgartiramiz.» и счётчик «100 000 hayotni o'zgartirish» → «Bugun» / «5 haftadan keyin» → программа по неделям и еженедельный эфир → «Sovrin yutgan o'quvchilarimiz» → «Challenge ichida nima bor» → «Narx va kafolat» → FAQ (5 вопросов) → форма → подвал; внизу экрана закреплена плашка с ценой и кнопкой «Challengega qo'shilish →».\nЦена: один тариф «To'liq challenge dasturi» — 3 990 000 сум «для досмотревших видео», перед ней 4 290 000 сум (по порядку цифр и нижней плашке с 3 990 000 — старая, зачёркнутая; стиль в тексте не виден); «Bitta to'lov — hamma narsa ichida» — одним платежом. Рассрочки (в том числе через партнёров nasiya) и помесячной оплаты нет. Гарантия на деле — конкурс: полный возврат только топ-5 «хорошо сдавшим дипломную работу и активным», ноутбук — топ-3 из первых 100 полностью оплативших; формулировки «Pulingiz qaytadi yoki noutbuk yutasiz» на первом экране, «sovrinlar: noutbuk · pul qaytarish» и «Ha» в FAQ звучат как возврат для всех. В подводке к отзывам приз назван иначе — «kompyuter yutib oling», в условиях — «noutbuk». В Terms of Service сайта — «do not guarantee specific outcomes», условий возврата нет; /oferta — 404 (см. aicreator-academy-terms-8cfcdc.json). Дефицит без даты: «Yangi guruh · o'rinlar cheklangan», «Yangi guruh tez orada», «Birinchi 100 to'liq to'lovchidan», у подарка в боте — «o'rinlar cheklangan»; дедлайна нет.\nСоцдоказательства: 10 видеокарточек «Sovrindor» без имён (в тексте карусель повторена дважды): «Umra safarini yutdi» ×2, «Turkiyaga sayohat yutdi», «$300 ishlab topdi», «To'lovini qaytarib oldi» ×3, «AI'ni biznesiga qo'shdi», «Sertifikat bilan yakunladi» ×2; в подводке — прошлые участники выигрывали поездку в Турцию и Умру. «$300» ≈ 3 529 500 сум по курсу 11 765 — это заработок ученика, не цена, и он меньше цены челленджа. «1 500+» — самоотчёт; на видеоуроке та же цифра подана как «1,500 odam sinab ko'rdi», в варианте shahlo — «7,268+ Qo'shilganlar Soni».\nОбещания программы: на 5-й неделе «ustoz o'z Instagramidan e'lon beradi, biznes egalari forma to'ldiradi, biz esa aktiv o'quvchilarni ularga bog'laymiz» (клиентов ищут через Instagram преподавателя); «3 oyda o'rganadigan narsani 1 oyda o'zlashtirasiz»; «Eng yaxshi natija ko'rsatganlar bizning jamoaga qo'shilishi mumkin»; инструменты в тексте — custom GPT, Claude, Telegram-бот, Midjourney (в макете приложения). Форма «Challengega ariza qoldiring»: «Ismingiz», «Telefon», кнопка «Ariza yuborish →», сообщение «✓ Rahmat! Tez orada bog'lanamiz.» (не отправляли); ссылки «Telegram», «Instagram», «Bog'lanish» в подвале ведут не в соцсети, а к форме (#lead). Техника: intel.json пуст (ни аналитики, ни пикселей, 1 картинка, 0 кнопок) — похоже, в исходном HTML только оболочка приложения, поэтому builder и pixels не заполнены (на поддоменах alikhanova и shahlo — GA4 и Meta Pixel). SEO-теги — на английском и про другую версию продукта: «A 14-hour curriculum for the new generation of AI-native creators. Foundations to image, video, content, and monetization — five modules, twenty lessons, designed to compound.» (на /signup — 8 модулей, 14 часов, 20 уроков). Подвал: «© 2026 AI Creators · Shvetsiyadan AI ekspertlarMade with ✦ in Uzbekistan & Sweden». Скриншот 390×844 — тёмный первый экран: «5 HAFTALIK AMALIY AI CHALLENGE», заголовок с выделенным «daromadga chiqing», подзаголовок про возврат и ноутбук, плашка «Yangi guruh · o'rinlar cheklangan», кнопка «Challengega qo'shilish» (вторая закреплена внизу), аватары с буквами, пять звёзд и «1 500+ o'quvchi daromadga chiqdi · sovrinlar: noutbuk · pul qaytarish»."
+}

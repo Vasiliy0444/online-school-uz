@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>edgroup hero — первый экран интенсива «ИИ на заказ»</title>
+  <!--
+    Superdesign MCP, superdesign_generate (ui, 1 вариант), 28.09.2026.
+    Задача: первый экран один в один по edgroup.biz/mk_telegram, стиль — superdesign/design_system/design-system.json.
+    Правила системы образца (заглавные, два синих, срезанные углы) важнее общих правил Superdesign о чёрно-белой палитре.
+    Стили — те же файлы, что в сборке (src/styles), поэтому макет и сайт не расходятся. Картинок нет — заглушки CSS.
+  -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../src/styles/tokens.css">
+  <link rel="stylesheet" href="../../src/styles/base.css">
+  <link rel="stylesheet" href="../../src/styles/ui.css">
+  <link rel="stylesheet" href="../../src/styles/hero.css">
+  <style>
+    @font-face {
+      font-family: 'EDG Display';
+      src: url('../../src/fonts/roboto-flex-display.woff2') format('woff2');
+      font-weight: 530;
+      font-display: swap;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <!-- Блок 1. Первый экран = первый экран образца -->
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="container hero__inner">
+        <dl class="hero__info">
+          <div class="info-tab">
+            <dt class="info-tab__label"><svg class="info-tab__icon" viewBox="0 0 12 12" aria-hidden="true"><path d="M11.4.6.9 4.7c-.6.2-.6 1 0 1.2l2.6.9 1 3.2c.2.5.8.6 1.1.2l1.5-1.6 2.7 2c.4.3 1 .1 1.1-.4L12.3 1.4c.1-.6-.4-1-.9-.8Z"/></svg>Формат:</dt>
+            <dd class="info-tab__value">Бесплатный интенсив в&nbsp;Telegram</dd>
+          </div>
+          <div class="info-tab">
+            <dt class="info-tab__label"><svg class="info-tab__icon" viewBox="0 0 12 12" aria-hidden="true"><path d="M1 1.5h10v2H1zM1 5h10v2H1zM1 8.5h10v2H1z"/></svg>Программа:</dt>
+            <dd class="info-tab__value">3 урока</dd>
+          </div>
+        </dl>
+
+        <p class="eyebrow eyebrow--play hero__eyebrow">Ведут Василий Беляков и Никита Попко</p>
+
+        <h1 id="hero-title" class="h1 hero__title" tabindex="-1">Как заработать на&nbsp;ИИ в&nbsp;2026&nbsp;году и&nbsp;выйти на&nbsp;стабильные $1000 в&nbsp;месяц</h1>
+        
+        <div class="hero__sub">
+          <p class="hero__accent">без вложений и даже без знаний программирования</p>
+          <p>Делаешь для бизнеса ИИ-услуги: сайты, Telegram-ботов, контент, дизайн, автоматизацию. 3–4 заказа по&nbsp;$300 в&nbsp;месяц — это и&nbsp;есть $1000.</p>
+        </div>
+
+        <div class="cta cta--hero">
+          <a class="btn btn--white" href="#" data-cta="hero">Забрать 3 бесплатных урока <span aria-hidden="true">→</span></a>
+          <p class="cta__note">Уроки придут в&nbsp;Telegram-бот, смотреть можно с&nbsp;телефона.</p>
+        </div>
+
+        <div class="hero__tags">
+          <p class="eyebrow">На интенсиве:</p>
+          <ul class="tags">
+            <li class="tag">Покажем, как без опыта <b>зарабатывать $300 за&nbsp;заказ</b></li>
+            <li class="tag">Разберём <b>5 способов заработать на&nbsp;ИИ</b> и&nbsp;скажем, с&nbsp;какого начать</li>
+            <li class="tag">Дадим <b>план выхода на&nbsp;$1000:</b> сколько заказов и&nbsp;по&nbsp;какой цене</li>
+            <li class="tag">Найдёшь <b>3 компании в&nbsp;своём районе,</b> которым можно продать сайт</li>
+          </ul>
+        </div>
+
+        <div class="bonus hero__bonus">
+          <p class="bonus__label"><svg class="bonus__icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 8h18v4H3zM4.5 13h6.5v9H4.5zM13 13h6.5v9H13zM11 8h2v4h-2zM12 7.5C10.8 5 8.7 3 7 3.6c-1.6.6-1.3 3.3 1.4 3.9Zm0 0c1.2-2.5 3.3-4.5 5-3.9 1.6.6 1.3 3.3-1.4 3.9Z"/></svg>Бонус за регистрацию:</p>
+          <p class="bonus__name">«Топ-10 каналов, где найти клиентов на&nbsp;ИИ-услуги»</p>
+        </div>
+
+        <div class="hero__photo"><div class="slot slot--hosts slot--empty" role="img" aria-label="Место для фото ведущих"><span class="slot__title">Фото Василия и Никиты</span><span class="slot__hint">вместе, по пояс, PNG без фона — img/hosts.png</span></div></div>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

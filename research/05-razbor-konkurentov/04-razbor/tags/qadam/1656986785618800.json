@@ -1,0 +1,102 @@
+{
+ "creative_id": "1656986785618800",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Uzum Marketda daromad topmoqchisiz, lekin nimadan boshlashni bilmayapsizmi?",
+  "types": [
+   "вопрос",
+   "боль"
+  ],
+  "visual": [
+   "крупный текст",
+   "таймер или обратный отсчёт",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s: «Uzum Marketda», таймер «00:15», «21+»; ведущая в солнцезащитных очках идёт к камере по парку, лицо мелко",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.5s–1.5s: «daromad topmoqchisiz»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s–2.5s: «nimadan boshlashni ?»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Uzumarkita daromad top moqchisiz, lekin nimadan boqshayashni bilmayapsiz mi?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта",
+   "доход"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈00:06): слайд «KO'PCHILIK ayni boshlanishda TO'XTAB QOLADI»",
+    "timecode": "00:06"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:03] Kopchilik aynan boqshayanishda tohtab koladi, chunki koplar nima saotishni bilmaydi,",
+    "timecode": "00:03"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (≈00:10): пузыри «xato qillshdan», «qorqishadi»",
+    "timecode": "00:10"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:12] va biz sizgi noldan boqshayashchun anik yol xaritasli korsatamiz.",
+    "timecode": "00:12"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:10] Joylar sonu chekilangan, xozrok ariza koldirin,",
+    "timecode": "00:10"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Apply now",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Хук — текст на кадрах («Uzum Marketda», «daromad topmoqchisiz», «nimadan boshlashni ?»), полная фраза по расшифровке, написание исправлено («daromad top moqchisiz, lekin nimadan boqshayashni bilmayapsiz mi» → «daromad topmoqchisiz, lekin nimadan boshlashni bilmayapsizmi»). Дальше: большинство останавливается на старте — не знают, что продавать, с чего начать, боятся ошибиться (слайд «KO'PCHILIK ayni boshlanishda TO'XTAB QOLADI», пузыри «xato qillshdan», «qorqishadi» — так на кадре). Призыв [00:10–00:12]: «Joylar soni cheklangan, hoziroq ariza qoldiring, va biz sizga noldan boshlash uchun aniq yo'l xaritasini ko'rsatamiz» (написание исправлено) — «yo'l xaritasi» здесь описание обучения, не отдельный PDF, лид-магнит не отмечен. «Лицо в первом кадре» не отмечено: ведущая далеко и в очках. Длительность 15,7 с → «16–30 с»."
+}

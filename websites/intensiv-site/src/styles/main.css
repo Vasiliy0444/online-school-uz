@@ -1,0 +1,25 @@
+@import 'tailwindcss';
+
+/* Текст — Inter 400/500 со своих файлов (без запросов к Google). Браузер скачивает только нужные диапазоны символов. */
+@import '@fontsource/inter/400.css';
+@import '@fontsource/inter/500.css';
+
+@import './tokens.css';
+@import './base.css';
+@import './ui.css';
+@import './hero.css';
+@import './lessons.css';
+@import './hosts.css';
+@import './final.css';
+@import './doc.css';
+
+/* Заголовки. У образца — Druk Cyr Medium (платный, Commercial Type). Здесь бесплатный близнец:
+   Roboto Flex, экземпляр opsz 144 · wdth 35 · wght 530, кириллица + латиница, лицензия OFL (public/fonts/RobotoFlex-OFL.txt).
+   Купите Druk — положите файл в src/fonts/ и замените src ниже. */
+@font-face {
+  font-family: 'EDG Display';
+  src: url('../fonts/roboto-flex-display.woff2') format('woff2');
+  font-weight: 530;
+  font-style: normal;
+  font-display: swap;
+}

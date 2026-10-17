@@ -1,0 +1,70 @@
+{
+ "url": "https://kurslar.najottalim.uz",
+ "domain": "kurslar.najottalim.uz",
+ "pages_scanned": [
+  "https://kurslar.najottalim.uz/dizayn"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)"
+  ],
+  "ad_pixel": [
+   "Meta Pixel",
+   "Google Ads"
+  ]
+ },
+ "seo_metadata": {
+  "title": "Grafik dizayn kursi «Najot Ta'lim»",
+  "description": "Grafik dizayn kurslarimiz orqali dizayn sohasidagi eng so&#039;nggi san&#039;at va texnikalarni o&#039;rganib, kreativlik va professional dizayn qobiliyatlarini rivojlantiring. Bizning ekspert mentorlarimiz bilan birgalikda, logotiplar, bannerlar, veb-saytlar va boshqa",
+  "open_graph": {
+   "url": "https://kurslar.najottalim.uz/dizayn",
+   "title": "«Najot Ta&#039;lim» Grafik dizayn kursi",
+   "type": "website",
+   "image": "https://static.tildacdn.one/tild6263-3639-4362-b532-313839653037/Grafik_dizayn.png"
+  },
+  "canonical": "https://kurslar.najottalim.uz/dizayn"
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [
+   "https://thb.tildacdn.one/tild3962-3533-4664-b962-613838656563/-/empty/001_logo.jpg",
+   "https://thb.tildacdn.one/tild6530-3530-4232-b234-656332396330/-/empty/ISHONCH_LOGO-green.png"
+  ],
+  "total_images_found": 37
+ },
+ "integration_links": [],
+ "hidden_elements": {
+  "html_comments": [
+   "metatextblock",
+   "/metatextblock",
+   "Marquiz script start",
+   "Yandex.Metrika counter",
+   "/Yandex.Metrika counter",
+   "Yandex.Metrika counter",
+   "/Yandex.Metrika counter",
+   "Pixel Tag Code",
+   "End Pixel Tag Code",
+   "Meta Pixel Code",
+   "End Meta Pixel Code",
+   "Yandex.Metrika counter",
+   "/Yandex.Metrika counter",
+   "nominify end",
+   "Meta Pixel Code",
+   "End Meta Pixel Code",
+   "Meta Pixel Code",
+   "End Meta Pixel Code",
+   "nominify end",
+   "Facebook Pixel Code"
+  ]
+ },
+ "google_ids": {
+  "ga4": [
+   "G-PSDL8JT25N"
+  ]
+ }
+}

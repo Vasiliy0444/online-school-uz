@@ -1,0 +1,105 @@
+{
+ "creative_id": "1954419281909335",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Siz Uzum Market kursiga qiziqqansiz, lekin hali ham ariza qoldirmadingizmi?",
+  "types": [
+   "вопрос",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "движение или смена кадра",
+   "таймер или обратный отсчёт",
+   "логотип площадки (Uzum и т.п.)"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s: таймер «01:00», «21+»; ведущая садится за стол, лицо в кадре частично",
+    "timecode": "00:00"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.5s–1.0s: логотип Uzum Market поверх кадра, ведущая говорит в камеру",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.5s–2.5s: «qiziqqansiz», «lekin hali ham»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Siz uzun market kursige qizilqansiz, dekin xalxam arizakoldirmadiniz mi?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость",
+   "доход"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Ko‘pchilikni quyidagi savollar to‘xtatadi: ❓ Mahsulot noto‘g‘ri tanlansa-chi? ❓ Pul yo‘qotib qo‘ysam-chi? ❓ O‘zini oqlaydimi?"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 1 из 4 (≈00:08): «bu ichga shubhalar»",
+    "timecode": "00:08"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:13] Shubxalar bolishi tabi, kiling endi faktlargi.",
+    "timecode": "00:13"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:45] Bizni okutizmimiz boyi qi, alli qi qo iki yariminin orti qadam yudikishin bitiruxilari daromat topishmokti.",
+    "timecode": "00:45"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈00:55): спутниковая карта с подписью «Toshkent Shaharining»",
+    "timecode": "00:55"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "2500+ bitiruvchilar 📜 Sertifikat + real amaliy tizim 🏢 Rasmiy ta’lim platformasi"
+   }
+  ],
+  "revenue_claim": "40 000 000 AYLANMA (ученик, кадр); 5 mlrd so‘mdan ortiq aylanma (автор курса, текст объявления)"
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Apply now",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Ретаргетинг: ссылка /uzum-retarget, текст объявления обращается к тем, кто уже смотрел курс. Хук — субтитры («qiziqqansiz», «lekin hali ham»), полная фраза по расшифровке, написание исправлено («kursige qizilqansiz, dekin xalxam arizakoldirmadiniz mi» → «kursiga qiziqqansiz, lekin hali ham ariza qoldirmadingizmi»). Перевод: «вы интересовались курсом по Uzum Market, но так и не оставили заявку?». Смысл — снятие сомнений и доверие: «ichki shubhalar» (субтитр на кадре — «bu ichga shubhalar»), страхи выбрать не тот товар и потерять деньги; «keling endi faktlarga»: спикер курса — Xayrullayev Sarvar (в речи «xarulayaf sarvar», [00:15]), 3 года опыта и оборот 5+ млрд сумов; программа курса; отзывы и обороты учеников (кадр 3 из 4 — «40 000 000 AYLANMA», оборот, не доход); сертификат; «2,5 mingdan ortiq Qadam bitiruvchilari daromad topishmoqda»; официальный учебный центр и офис в центре Ташкента. Говорит ведущая, автор курса в кадрах не виден → «актёр или ведущий», public_name не ставлю. Призыв [01:00]: «Ariza qoldiring va biz siz bilan bog'lanamiz» (написание исправлено). Сертификат и обещание связаться в список офферов схемы не входят → «без оффера». В тексте объявления «Biz “tez va oson” demaymiz» — risk нет."
+}

@@ -1,0 +1,76 @@
+{
+ "creative_id": "1767676874475610",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Xorazmliklar uchun zo'r yangilik! Xorazmda yoshlarimiz uchun zo'r yangilik.",
+  "types": [
+   "обращение к сегменту",
+   "новость"
+  ],
+  "visual": [
+   "крупный текст",
+   "лицо в первом кадре"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: заголовок «Xorazmliklar uchun zo'r yangilik😱», субтитры «Xorazmda» → «Xorazmda yoshlarimizda» → «zo'r yangilik» → «Agar» → «Agar siz qisqa»"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Xarazinli yashla staraz zor yengilikim ba.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для регионов",
+   "профессия будущего"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:01] Agersiz kiska vaqt icinda zamana yukasini, yani IT-ni, urgeni amandigdan bolsaniz, sizini urgenisdagi nacat talimi xarazin filanini teklifikalamiz.",
+    "timecode": "00:01"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бонус",
+   "гарантия",
+   "дедлайн или ограничение мест",
+   "скидка"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "3 650 000 so'mlik bonuslar - Faqatgina sentyabr oyi uchun! — Kursni tugatib, natijadan qoniqmasangiz — 2 yil ichida bepul qayta o'qish huquqi — Robbit va Edfix kurslariga 500 ming so'mlik chegirma"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Visit Instagram profile",
+  "in_creative": "заполнить форму",
+  "destination": "Instagram",
+  "funnel_stage": "оферта или оплата"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "Региональный вариант того же сентябрьского бонусного объявления, что и 1379707713766932, но с отдельным роликом: мужчина на фоне заката адресует хук именно жителям Хорезма («Xorazmliklar uchun zo'r yangilik»), а не жителям Ташкента — ссылка ведёт на основной аккаунт instagram.com/najottalim (не /najottalim_talabalari). Конец расшифровки называет и заполнение заявки по ссылке, и звонок по номеру («havolani bosib ariza qoldiring, ya u masada telefon qiling») — выбран «заполнить форму» как основной, расхождение с destination (кнопка ведёт в Instagram, а не на форму) отмечаю здесь. Спикер — ведущий/диктор, читающий рекламный текст, не идентифицирован как ученик или основатель. Оффер идентичен 1379707713766932 (бонусы на 3 650 000 сум, гарантия бесплатного переобучения, скидки, дедлайн «faqatgina sentyabr oyi»)."
+}

@@ -1,0 +1,73 @@
+{
+ "creative_id": "1788566905499471",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "O'n ikki, o'n to'rt yoshli farzandingiz IT-ga qiziqishi bor-yo'qligini bilmoqchimisiz?",
+  "types": [
+   "вопрос",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: мальчик в очках за ноутбуком, крупные цифры «12» и «14» → «YOSHLI FARZANDINGIZ» → «IT-GA QIZIQISHI»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Unikki, on tur yosh farzandingiz IT-ge kizikishi bar, yok yok ligini bilmok chimisi,",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для мам",
+   "профессия будущего"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:04] Foundation kursimiz alqali farzandingiz dasturilash olamgi birinci kadamini koyadi.",
+    "timecode": "00:04"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (≈0:12): класс, преподаватель и ребёнок за ноутбуком — «DASTURLASH ASOSLARI»",
+    "timecode": "00:12"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "слово в комментарии",
+  "destination": "форма Meta",
+  "funnel_stage": "директ"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Формат идентичен 1093451579688011 и 2519053205243658 (Kids, призыв оставить слово в комментарии): ad_text «Izohga BOLA so'zini qoldiring» и кадр «HOZIROQ BOLA so'zini» (≈0:07) совпадают дословно. Как и в других Kids-роликах — расхождение между призывом ролика (комментарий/директ) и механикой кнопки (Sign up → форма Meta)."
+}

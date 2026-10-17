@@ -1,0 +1,50 @@
+{
+ "library_id": "1935694397074090",
+ "model": "mlx-community/whisper-large-v3-mlx",
+ "language_arg": "uz",
+ "detected_language": "uz",
+ "seconds": 15.6,
+ "duration_s": 35.5,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.36,
+   "text": "Милойатан дырып, узум маркетта савдоа кылышын нолдан оргян сам боладыма?"
+  },
+  {
+   "start": 3.74,
+   "end": 6.3,
+   "text": "Ха, албатта болады. Видеону охр гече корин."
+  },
+  {
+   "start": 7.94,
+   "end": 15.08,
+   "text": "Милойатан дырып, узум маркетта савдоа кылышын нолдан оргян сам боладыма?"
+  },
+  {
+   "start": 15.16,
+   "end": 18.38,
+   "text": "Хазыр коргянлари гіз, qadamudication bitruyushilarmin real natijalari."
+  },
+  {
+   "start": 18.56,
+   "end": 21.08,
+   "text": "Ular xam aynansiz kiya baxamasin noldan boshlaygan."
+  },
+  {
+   "start": 21.08,
+   "end": 25.88,
+   "text": "Mukhumi ular boshidan tajribali mutakhisitlar tuzgan anix yol xaritas boychi xarikat qilishgan."
+  },
+  {
+   "start": 25.88,
+   "end": 31.8,
+   "text": "Uzum marketta oge 2000 dolar daramatki chikash yol xaritasini bugun telegram kanalimizda John Lee masterclassda korsatamiz."
+  },
+  {
+   "start": 32.02,
+   "end": 35.3,
+   "text": "Qatna shishchunaysa xavol orqali otayin va telegram kanalimizga abunabolin."
+  }
+ ]
+}

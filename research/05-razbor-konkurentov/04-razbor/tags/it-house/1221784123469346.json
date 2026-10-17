@@ -1,0 +1,80 @@
+{
+ "creative_id": "1221784123469346",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "неизвестно"
+ },
+ "style": [
+  "постановка или скетч",
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Yiyam, man bu fail sakha niz bomi apta korber o'lisanm?",
+  "types": [
+   "история"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Yiyam, man bu fail sakha niz bomi apta korber o'lisanm?",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:09] Usta, shu fail sakha niz bomi apta karabirin?",
+    "timecode": "00:09"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:27] Bu yerdasiz noldan toluq kompüterdan faydalanishe va iski kerek bolediyan barchi programmalardan faydalanishe na organasiz.",
+    "timecode": "00:27"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:34] Qullas, xichkimye muhtoch bol midiyan daracada kompüterda ishlaishna organasiz.",
+    "timecode": "00:34"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:44] Shukhakti Foundation boyche bi bulo chikdaslarimiz bolu botada.",
+    "timecode": "00:44"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:47] Joyingizni band qilush uchun xozroq izoglarda plus belgesini qazdariyn.",
+    "timecode": "00:47"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "слово в комментарии",
+  "destination": "неизвестно",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "Проверено вручную 17.09: листы кадров в папке 2305373090205462 относятся к этому же ролику (51 с, видео-дубль по media_key), с роликом 1591878965927205 они не совпадают (разные md5) — предупреждение разметчика о чужих кадрах ошибочно. ВАЖНАЯ АНОМАЛИЯ: sheet_hook.jpg и sheet_overview.jpg, указанные для этого creative_id (папка 2305373090205462), побайтово повторяют кадры ролика 1591878965927205 («KOMPYUTER O'RGANISHNI XOHLAYSIZ», финал ITHOUSE, те же тайминги 0:02/0:06/0:10/0:13) — не похоже на реальный ролик этой записи: длительность (51.3s) и расшифровка совершенно другие (диалог про правку файла с «usta», затем «Foundation kursimiz dalbatdi»). Похоже на ошибку пайплайна извлечения кадров (перепутана папка). Кадры для тегов НЕ использованы — hook и остальные поля взяты из расшифровки. Первая реплика (0–9с) — черновая расшифровка нечитаема даже после попытки исправления («Yiyam, man bu fail sakha niz bomi apta korber o'lisanm?» / «Usta, shu fail sakha niz bomi apta karabirin?» — судя по словам fail/usta, вероятно про срочную правку файла мастером), поэтому привожу как есть, без реконструкции — отсюда низкая уверенность и confidence «низкая». Концовка (после 00:26) совпадает почти дословно с 1556609115939952 и 1524755899458482 («Foundation kursimiz dalbatdi/dalbada… noldan to'liq kompyuterdan foydalanishni… bonus zamonaviy sun'iy intellekt dasturlaridan foydalanishni ham o'rganasiz… Foundation bo'yicha bepul darslarimiz bo'lib o'tadi… joyingizni band qilish uchun izohlarda plus belgisini qoldiring») — три ролика с разной завязкой (файл/усто; собеседование «Боб»; торг с «хозяином» про зарплату) и одинаковой концовкой-питчем. aspect не проверен (кадры недостоверны) — оставлен «неизвестно». burned_subtitles не заполнено — по кадрам данной записи судить нельзя."
+}

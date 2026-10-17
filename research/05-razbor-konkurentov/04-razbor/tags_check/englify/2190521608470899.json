@@ -1,0 +1,79 @@
+{
+  "creative_id": "2190521608470899",
+  "platform": "meta",
+  "school_id": "englify",
+  "format": {
+    "type": "видео",
+    "duration_bucket": "31–60 с",
+    "aspect": "9:16"
+  },
+  "style": ["отзыв ученика", "съёмка на телефон", "запись экрана"],
+  "hook": {
+    "verbatim": "Qizim uch oydan keyin ingliz tili o'qitiladigan maktabga chiqadi.",
+    "types": ["история"],
+    "visual": [],
+    "evidence": [
+      {
+        "source": "расшифровка",
+        "quote": "Qizam uchaydanki ingilis tildi oqtilagiya maktabki chqada.",
+        "timecode": "00:00"
+      },
+      {
+        "source": "кадр без текста",
+        "quote": "sheet_hook.jpg 0.0s–2.5s: школьный класс с жёлтыми стульями, девочка у стены с плакатами, текста нет",
+        "timecode": "00:00"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["для мам", "экономия времени", "доверие и окупаемость"],
+    "evidence": [
+      {
+        "source": "кадр без текста",
+        "quote": "sheet_overview.jpg ~0:05 и ~0:35: мама с дочкой собирают пазл за столом, читают на кровати (у девочки планшет)",
+        "timecode": "00:05"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Slanyan farzandi ila agar ingilis talin bashlu vatkan bosa,\n[00:36] aynan ingli fi programasini korib chikish ilan tafsiyaq ilama.",
+        "timecode": "00:34"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Darsli uzo mas shuu uchun zirikmidi.",
+        "timecode": "00:19"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Har kunaz gina vaxtla jiratuamiz,\n[00:27] vas ekin seki nati jali sezil vatdi,",
+        "timecode": "00:26"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "yani en kulayi oto onu nazor atayan borlogi,\n[00:31] farzandi zyutuklarini bem olal korib tur aulisis.",
+        "timecode": "00:29"
+      },
+      {
+        "source": "текст объявления",
+        "quote": "⏰ Har kuni atigi 10 daqiqa bilan boshlang"
+      }
+    ]
+  },
+  "offer": {
+    "items": ["без оффера"]
+  },
+  "cta": {
+    "button": "Install now",
+    "in_creative": "нет призыва",
+    "destination": "приложение",
+    "funnel_stage": "основной продукт"
+  },
+  "speaker": {
+    "role": "ученик"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": false,
+  "risk": false,
+  "confidence": "средняя",
+  "notes": "Хук только в речи — по расшифровке, написание исправлено («uchaydanki» прочитано как «uch oydan keyin»). Отзыв мамы ученицы (клиент приложения): роль «ученик» — ближайшая; по кадрам речь идёт поверх домашних сцен и записей экрана приложения (Resurslar, Kitoblar), субтитров нет. «для мам» — сегмент родителей (мама выбирает приложение для дочери), а не мамы, ищущие заработок; «доверие и окупаемость» — заметный результат и родительский контроль. Механики действия в конце нет — только рекомендация «ingli fi programasini korib chikish ilan tafsiyaq ilama» (00:36); последние ~3 с ролика в кадрах не видны. Перевод хука: «Дочка через три месяца пойдёт в школу, где преподают английский»."
+}

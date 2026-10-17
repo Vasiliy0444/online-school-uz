@@ -1,0 +1,74 @@
+{
+ "url": "https://ithouseedu.uz/courses/4-frontend-dasturlash",
+ "school_id": "it-house",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "основной продукт",
+ "builder": "Next.js",
+ "pixels": [
+  "Google Analytics (GA4)"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Вместо обещания результата — описание профессии: фронтенд-разработчики работают с внешней частью сайтов, программ и приложений и следят, чтобы всё правильно отображалось и работало",
+  "quote": "Frontend-dasturchilar saytlar, dasturlar va ilovalarning tashqi qismi bilan ishlaydi. Hamma narsa to‘g‘ri ko‘rsatilishi va ishlashini aynan frontend-dasturchilar nazorat qiladi.",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "program": {
+  "found": true,
+  "modules": 6,
+  "format": "неизвестно",
+  "quote": "1-modul: HTML & CSS\n2-modul: Advanced CSS & UI\n3-modul: JavaScript Fundamentals\n4-modul: Advanced JavaScript + TypeScript\n5-modul: Vue.js\n6-modul: Nuxt.js"
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [
+   "нет"
+  ],
+  "reviews_count": 0
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "цены нет ни на странице курса, ни на главной; после программы — только общий блок «Contact» с формой (выбор курса → «Yuborish») и телефонами"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "другое"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "notes": "Шаблон страницы курса одинаков для всех 6 курсов: баннер-картинка, заголовок, «Batafsil ma'lumot» с одной фразой о профессии, затем общий блок «Contact» с формой и подвал. У Frontend дополнительно иконки технологий и 6 модулей — это самая наполненная из разобранных страниц. Модули — свёрнутые заголовки, их содержание в снимок не попало; уроков, длительности, формата, преподавателя, отзывов, цены, рассрочки, гарантии, скидок, бонусов и дедлайна на странице нет. Длительность — только на карточке главной: «7 oy». Иконки (HTML, CSS, JavaScript, GitHub, Bootstrap) не совпадают с модулями: в модулях есть TypeScript, Vue.js и Nuxt.js, а Bootstrap нет. Преподаватели направления — только на главной (Jonibek Turapov — Fullstack developer, Umidjon Turabov — frontend-dasturlash). На баннере-картинке (мелкий текст, прочитан по скриншоту) — призыв изучить современные фронтенд-технологии и создавать интерактивные веб-приложения. Ближайшая реклама — 9 объявлений про «web full stack» (с 06.09, ранг 10, мгновенные формы Meta): работа из любого места со свободным графиком, трудоустройство после курса, достаточно быть старше 18 лет. На сайт они не ведут; курса full stack на сайте нет (есть отдельные Frontend и Backend), обещания трудоустройства и возрастного порога на странице нет. Форма: в снимке виден только список «Kursni tanlang» (в схеме «другое») и кнопка «Yuborish»; поля ввода в текстовый снимок не попадают, форму не отправляли. Следующий шаг «звонок менеджера» — вывод по форме консультации, прямо не сказано. Оферты и юридических документов нет — ссылки подвала ведут на эту же страницу. Скриншот — первый экран: баннер, заголовок и карточка описания, текст которой почти не виден (светло-серый на белом), ниже начинаются иконки технологий."
+}

@@ -1,0 +1,73 @@
+{
+ "creative_id": "1093451579688011",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Farzandingiz IT-ga qiziqadi, lekin qaysi yo'nalishdan boshlashi kerakligini bilmaysizmi?",
+  "types": [
+   "вопрос",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.0s: стилизованная иллюстрация — человек на распутье перед указателями «JavaScript», «Java», «Python», «C++»; 2.5s — «QAYSI YO'NALISHDAN», переход на говорящую девушку",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Farzanningiz IT-ga qiziqadi, lekin o qaysiyonayisdan basash kiriligina bilmisizmi?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для мам",
+   "профессия будущего"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:04] 12-14 yoshli bolelar uchun maqsus ishlab chikarilgan Computer Savathaniqi kursi.",
+    "timecode": "00:04"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈0:10): «SAVODXONLIGI KURSI.»",
+    "timecode": "00:10"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "слово в комментарии",
+  "destination": "форма Meta",
+  "funnel_stage": "директ"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Необычная для подборки IT House стилизованная заставка-иллюстрация (человек на распутье дорог с указателями языков программирования) вместо обычной прямой съёмки — отличается визуально от остальных роликов школы. Финал ролика прямо предлагает два равнозначных канала: «Hoziroq kommentariyaga yoki direktga bolangiz niyatini yozib qoldiring» (комментарий ИЛИ direct) — на кадре 0:22 текст «DIRECT'GA»; выбран «слово в комментарии» как in_creative (упомянут первым в тексте объявления «Izohga 'BOLA' so'zini qoldiring»), funnel_stage «директ», поскольку итог — это переписка с менеджером, а не лендинг. cta_button/link (Sign up, fb.me) — механически это форма Meta, расхождение с призывом ролика (комментарий/директ) как и у других Kids-роликов этой школы (2519053205243658, 1788566905499471)."
+}

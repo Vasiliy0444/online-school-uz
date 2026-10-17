@@ -1,0 +1,39 @@
+/* Страница политики конфиденциальности.
+   Сначала телефон, с 960 px — десктоп (артборд Tilda 1200). Замеры — DESIGN.md. */
+
+/* ── Страница политики ──────────────────────────────────────────────────── */
+.doc {
+  max-width: 760px;
+  padding-block: 32px 80px;
+  font-size: 17px;
+  line-height: 1.55;
+}
+
+.doc-back {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  font-weight: 500;
+  color: var(--blue);
+  text-decoration: none;
+}
+
+.doc .h2 {
+  margin-top: 16px;
+}
+
+.doc-h {
+  margin: 32px 0 8px;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 500;
+}
+
+.doc ul {
+  padding-left: 20px;
+  list-style: disc;
+}
+
+.doc-note {
+  margin-top: 16px;
+}

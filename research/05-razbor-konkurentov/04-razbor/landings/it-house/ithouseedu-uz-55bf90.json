@@ -1,0 +1,78 @@
+{
+ "url": "https://ithouseedu.uz/",
+ "school_id": "it-house",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "главная или каталог",
+ "builder": "Next.js",
+ "pixels": [
+  "Google Analytics (GA4)"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Общее обещание без конкретного результата: научим современным навыкам с нуля; IT House — место, где всё возможно: новая IT-карьера, новое будущее",
+  "quote": "Zamonaviy ko‘nikmalarni boshlang‘ichdan o‘rgatamiz\nIT HOUSE – hamma narsani amalga oshirish mumkin bo‘lgan joy, yangi IT karera, yangi kelajak",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": true,
+  "value": "Средняя стартовая зарплата «300+» — валюта не указана, источника нет (самоотчёт); строкой выше — «1000%» устроившихся на работу за 3 месяца",
+  "quote": "1000%3 oyda ishga kirganlar\n300+O'rtacha boshlang'ich maosh",
+  "where": "середина"
+ },
+ "audience": {
+  "found": true,
+  "value": "Широкая, «возраст и опыт не важны — всему научим с нуля»: студенты; работающие (учиться вечером в удобное время); кто хочет сменить профессию; школьники",
+  "quote": "Yoshingiz va tajribangiz muhim emas — hammasini 0 o'rgatamiz\nTalabalar … Xodimlar\nKechki vaqt o'zingizga qulay payt IT'ni o'rganishingiz mumkin … Kasbini o'zgartirmoqchilar … Maktab o'quvchilari",
+  "where": "середина"
+ },
+ "program": {
+  "found": false
+ },
+ "speaker": {
+  "found": true,
+  "value": "Основатель не назван. Блок «Professional O'qituvchilar» — 5 преподавателей (в карусели повторены дважды), стаж и число учеников — самоотчёт: Jonibek Turapov — Fullstack developer, 5+ лет, 400+ учеников, сертификаты Google и IBM; Nodirbek Kuchkarov — Data-analitika, 3+, 120+; Muhammadamin Yunusov — Interyer Dizay[n], 8+, 1600+; Umidjon Turabov — frontend-dasturlash, 3+, 260+; Noʻmonjonov Shohruhmirzo — Foundation, 3+, 410+. Преподавателей Backend, Kiberxavfsizlik и SMM нет",
+  "quote": "Professional O'qituvchilar\nKo'p yillik tajribaga ega va ko'plab yirik loyihalar bilan ishlagan mutaxassislarimizdan ta'lim olasiz!",
+  "where": "середина"
+ },
+ "social_proof": {
+  "types": [
+   "число учеников"
+  ],
+  "count_claim": "Первый экран: «3000+ Talabalar», «2200+ Bitiruvchilar», «1000% Ishga joylashgan», «7 oy O'rta o'qish damovimligi»; блок «Bizning yutuqlarimiz»: «2200+ o'quvchilar», «1000% 3 oyda ishga kirganlar», «300+ O'rtacha boshlang'ich maosh», «1000+ Muvaffaqiyatli bitiruvchilar», «3+ Hamkor kompaniyalar»; YouTube: «700+ Video», «14K+ obunachilar», «700k+ ko'rishlar» — самоотчёт",
+  "reviews_count": 0
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "цены на сайте нет — ни на главной, ни на страницах курсов; вместо неё бесплатная консультация «Bepul Maslahat» и форма с выбором курса"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "другое"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "notes": "Главная и каталог на одной странице: блок «Bizning kurslar» — 6 курсов (в карусели повторены дважды) с длительностью: Frontend-dasturlash «7 oy», Backend-dasturlash «5 oy», Kiberxavfsizlik «12 oy», SMM «3 oy», Foundation «2 oy», Interyer Dizayn «6 oy»; отдельной страницы каталога в sitemap нет. Цены, рассрочки, скидок, гарантии, бонусов и дедлайна на сайте нет. В FAQ «Savol-Javoblar» шесть вопросов (можно ли с нуля, сколько длятся курсы, «Bo'lib-bo'lib to'lash imkoniyati mavjudmi?», помогают ли с работой, онлайн или офлайн, дают ли сертификат) — ответы свёрнуты и в текстовый снимок не попали; сам вопрос про оплату частями рассрочкой не считается. Цифры школы — самоотчёт и противоречат себе: «1000%» трудоустроенных (невозможное значение, и на первом экране, и в достижениях); «2200+ Bitiruvchilar» на первом экране и «1000+ Muvaffaqiyatli bitiruvchilar» в достижениях; «10 + IT» на первом экране при 6 курсах; SEO-описание обещает направления Mobile и AI — таких страниц нет. «300+» стартовой зарплаты — валюта не указана (если это доллары, ≈ 3 529 500 сум — пересчёт условный). Там же без примеров: ученики не только устраиваются на работу, но и основывают свои компании; призыв работать «dunyoning yirik kompaniyalarida». Гарантии нет: в блоке «Afzalliklarimiz» — обещание помощи, а не трудоустройства: «Kursni muvaffaqiyatli tamomlagan o'quvchilarni albatta ish topishiga ko'maklashamiz». Там же компьютер на время учёбы тем, у кого нет ноутбука, «70%» практики, портфолио на реальных проектах, поддержка при пропусках, soft skills — это условия обучения, не бонусы. Формат прямо не назван: один адрес — «Toshkent, Uchtepa tumani, OAZIS savdo markazi, 2-qavat», вечерние занятия для работающих и компьютеры на занятиях указывают на офлайн; в рекламе — «Hamda Online va Offline ham bor». Преподаватели — самоотчёт: у пятерых в сумме 2790+ учеников, из них 1600+ у преподавателя интерьерного дизайна; есть наставник «Data-analitika», а курса по аналитике данных на сайте нет. Отзывов и видео выпускников нет, хотя в меню есть «Bitiruvchilar»; в полосе логотипов один и тот же файл company_logos/logo.jpg дважды (чей логотип — по снимку не видно). Блок «So‘nggi Yangiliklar» — 6 заглушек «Lorem ipsum»; в sitemap есть страница-заглушка наставника /mentors/6-lorem. Юридических документов и публичной оферты нет: «Foydalanish shartlari», «Mahfiylik siyosati», «Shartlar», «Cookie» ведут на эту же страницу, поэтому условий возврата и оплаты частями взять неоткуда; в подвале «© 2025». Кнопки: «Bepul Maslahat» → форма #support; «Kurslarni ko'rish» → #courses; «Bepul Maslahat oling» и «Ro'yhatdan o'tish» → #faq (FAQ стоит прямо над формой); «Batafsil ma’lumot» → страницы курсов; «Sertifikat» в меню → отдельный сайт ithouseid.uz (не снимали). Форма «Savollaringiz bormi? Biz har doim yordam berishga tayyormiz.»: в снимке виден только список «Kursni tanlang» (6 курсов — в схеме «другое») и кнопка «Yuborish»; поля ввода (имя, телефон) в текстовый снимок не попадают, форму не открывали и не отправляли. Следующий шаг «звонок менеджера» — вывод по бесплатной консультации и форме, прямо «перезвоним» не сказано; рядом два телефона, e-mail на gmail.com, Telegram, Instagram и YouTube ithouse_edu. Страницы, не разобранные отдельно (тот же шаблон, без цены): Backend-dasturlash — 10 разделов программы (Python, ООП, базы данных, Django, DRF, Telegram-бот на Aiogram 3.x, Celery, real-time, деплой); Interyer Dizayn — одна фраза с обещанием зарабатывать «har bir m2 uchun»; страницы наставников /mentors/1–5 — фото, стаж, «Kompaniya: IT House», число учеников, у двух — биография (на мобильном скриншоте белый текст на белой карточке). Поддомен ithouse.ithouseedu.uz не открылся — ошибка DNS; grafik., k. и legalassistance.uz. помечены его дублями (тот же пустой текст). Реклама: в ads_meta.csv 82 объявления IT House (83% от счётчика Meta); 63 ведут на мгновенные формы Meta (fb.me), у 19 ссылки нет; на сайт — ни одного, поэтому message_match не заполнялся; расшифровок роликов IT House нет. Темы рекламы шире сайта: AutoCAD (16 объявлений), Data analitika (7), Sun’iy intellekt (3), детские курсы («KIDS», «BOLA»), ускоренный курс офисных программ (14, самые показываемые) — страниц под них на сайте нет. Техника: Next.js, контент и картинки с api.ithouseedu.uz, только GA4 — Meta Pixel нет. Сайт недавно пересобран: баннеры курсов — файлы «ChatGPT_Image_Jul_23_2026…», в Wayback 2025 — старая сборка (/public/assets/…). Скриншот — первый экран: логотип, «IT HOUSE - kelajak shu yerda», заголовок, кнопки «Bepul Maslahat» и «Kurslarni ko'rish», плитки «3000+», «2200+», «1000%», «7 oy»."
+}

@@ -1,0 +1,89 @@
+{
+ "url": "https://qadam.education/uzum/quiz",
+ "school_id": "qadam",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "квиз",
+ "builder": "Tilda (квиз на собственном JS)",
+ "pixels": [
+  "Meta Pixel",
+  "Google Analytics (GA4)",
+  "Google Tag Manager",
+  "Яндекс.Метрика"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Ответьте на несколько вопросов — подберём подходящий путь (как 4000+ учеников, научившихся торговать на Uzum)",
+  "quote": "4.000 dan ortiq o'quvchi Qadam Education orqali Uzum Marketda savdo qilishni o'rgandi\nSizga ham mos yo'lni tanlash uchun bir nechta savolga javob bering",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "program": {
+  "found": false
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [
+   "число учеников"
+  ],
+  "count_claim": "«📈 7.000+ o'quvchi» и «4.000 dan ortiq o'quvchi…» на одном экране — самоотчёт, цифры расходятся"
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "цены нет: в конце квиза «30% chegirma» без базовой цены; скидку подтверждает куратор после заявки"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": true,
+  "value": "Скидка 30% в конце квиза («Sizga chegirma tegdi») — после заявки её «подтверждает» куратор; от какой цены — не сказано",
+  "quote": "Tabriklaymiz!\nSizga chegirma tegdi\n30% chegirma\nAriza qoldirganingizdan so'ng kurator siz bilan bog'lanadi va chegirmani tasdiqlaydi\nChegirmani olish",
+  "where": "всплывающее окно"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "квиз-вопросы",
+   "телефон"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "message_match": {
+  "library_id": "1719024256020733",
+  "scores": {
+   "promise_continuity": 6,
+   "language_match": 5,
+   "visual_continuity": 3,
+   "cta_alignment": 9,
+   "specificity_match": 4,
+   "emotional_match": 6
+  },
+  "total_of_60": 33
+ },
+ "notes": "Отдельный квиз на собственном JS внутри Tilda (в intel.json комментарии «ЭКРАНЫ КВИЗА (генерируются JS…)» и «WHEEL MODAL»; title «Blank page»). В снимке только стартовый экран и экран скидки; сами вопросы генерирует скрипт, в page.md их нет — видно лишь, что шагов 9 («0/9»), поэтому в полях формы только «квиз-вопросы» и телефон. Порядок: логотип и счётчик шагов → плашка «📈 7.000+ o'quvchi» → групповое фото выпускников → «4.000 dan ortiq o'quvchi…» → «Boshlash» → вопросы → «колесо» (WHEEL MODAL) → «Tabriklaymiz! Sizga chegirma tegdi 30% chegirma» → «Chegirmani olish» → телефон «+998» и «Arizani yuborish». В снимке один вариант экрана скидки — 30%; базовая цена нигде не названа. stage_auto «страница спасибо» ошибочен — скрипт принял экран скидки за «спасибо». Цифры учеников расходятся и с другими страницами: 3000+ на naym-quiz, 25 388 на Uzum Start, «2500+ bitiruvchilar» в объявлениях retarget, «yetti mingdan ortiq» в ролике AI. Реклама: 5 объявлений UZUM_QUIZ V1–V5 с 26.08 (22 дня, без ранга; в utm нет utm_source). Варианты без отдельного файла: 1) uzum/quiz/2 — копия (title «Copy of Blank page»), 11 шагов («0/11»), на экране скидки «Sizga chegirma taqdim etildi» и «menejer» вместо «kurator»; 5 объявлений UZUM_QUIZ_V2 с 04–08.09 (расшифровок нет). 2) ai/quiz — квиз курса AI Hunarmand на том же шаблоне: плашка «🤖 60 soniyalik test», «Kelajak sun'iy intellektni biladigan insonlar qo'lida», «Qaysi yo'nalish sizga mosligini bilish uchun bir nechta savolga javob bering», 10 шагов, та же скидка 30% и «menejer»; 3 объявления AI_QUIZ с 07–15.09 (ролик: бесплатный тест за 60 секунд — сможете ли зарабатывать на ИИ). 3) uzum/quiz/3 — другой исход (бесплатный Telegram-канал, без скидки) — отдельный файл. message_match: у всех 5 объявлений одинаково 22 дня и нет ранга — взято V1, 1719024256020733 (ролик 15 с без текста). Черновая расшифровка: можно ли зарабатывать на Uzum от $500 до $2000 в месяц — «biz aynan siz uchun bepul test tayyorladik», за 60 секунд узнаете, выйдете ли на этот доход, жмите ссылку; на экране «$500-$2000», «Bepul test tayyorladik», стрелка вниз. Квиз сразу начинается кнопкой «Boshlash» — действие совпадает; но на странице нет ни $500–2000, ни «60 soniya», ни слова «test», вместо этого — число учеников и в конце скидка 30%, о которой ролик молчит. $500 ≈ 5 882 500 сум, $2000 ≈ 23 530 000 сум — обещание в ролике, не цена."
+}

@@ -1,0 +1,63 @@
+{
+ "creative_id": "1269552338463876",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "картинка",
+  "duration_bucket": "не видео",
+  "aspect": "9:16"
+ },
+ "style": [
+  "статичный дизайн"
+ ],
+ "hook": {
+  "verbatim": "Toshkentda Mobilografiya kursi narxi qancha?",
+  "types": [
+   "вопрос"
+  ],
+  "visual": [
+   "крупный текст",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: заголовок «Toshkentda Mobilografiya kursi narxi qancha?», ниже «Batafsil ma'lumot olish» со стрелкой вниз, вверху лого NAJOT TA'LIM — тот же шаблон, что у 956928187004755 (Kiberxavfsizlik)"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта",
+   "профессия будущего"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Toshkentda mobilografga talab har qachongidan yuqori."
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Biz bilan hammasini 0 dan o'rganasiz: Sifatli kadrlarni to'g'ri tanlash; CapCut va boshqa ilovalarda kreativ montaj; Yorug'lik va ranglar bilan ishlash sirlari."
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "никого"
+ },
+ "language": "узбекский латиница",
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Статичный дизайн, идентичный шаблон с объявлением 956928187004755 (Kiberxavfsizlik): заголовок-вопрос о цене курса + «Batafsil ma'lumot olish» + стрелка + лого. Текст объявления обещает обучение с нуля («0 dan o'rganasiz») и упор на практику («Balandparvoz gaplarsiz, faqat amaliyot va real keyslar»), в конце — «Kurs yakunida top-brendlar uchun sifatli Reels va videolar tayyorlay olasiz» (перспектива работы с брендами, доход не назван конкретной суммой — income_claim не заполняю). Оффер не назван, «Narxni bilish» — кликбейт о цене без ответа."
+}

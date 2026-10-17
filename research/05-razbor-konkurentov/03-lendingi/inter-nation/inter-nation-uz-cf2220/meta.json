@@ -1,0 +1,18 @@
+{
+ "school_id": "inter-nation",
+ "url": "https://inter-nation.uz/",
+ "sources": "ads:meta | crtsh | site:sitemap | wayback",
+ "first_seen": "2014-08-20",
+ "last_seen": "2026-09-16",
+ "stage_auto_url": "",
+ "is_archive": false,
+ "snapshot_at": "2026-09-16T21:14:15+00:00",
+ "live_status": 200,
+ "final_url": "https://inter-nation.uz/",
+ "title": "Inter Nation — O'zbekistondagi #1 ingliz tili va IELTS o'quv markazi",
+ "screenshot": "/Users/Bel-a/Data/online-shkola-uz/05-razbor-konkurentov/lendingi/inter-nation/inter-nation-uz-cf2220/screenshot-mobile.jpg",
+ "stage_auto": "вебинар или мастер-класс",
+ "stage_reason": "текст страницы",
+ "text_chars": 24780,
+ "reshot_at": "2026-09-17T00:49:52+00:00"
+}

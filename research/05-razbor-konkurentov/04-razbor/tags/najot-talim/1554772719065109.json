@@ -1,0 +1,72 @@
+{
+ "creative_id": "1554772719065109",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Hali ham kod yozib dasturchi bo'laman desangiz, zamondan haligacha orqada ekansiz.",
+  "types": [
+   "запрет или ошибка",
+   "тренд ИИ"
+  ],
+  "visual": [
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: архивные кадры компьютерного класса с крупным текстом «HALI XAM CODE yozib dasturchi bo'laman desangiz», затем силуэты людей и текст «ZAMONDAN haligacha orqada ekansiz»"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Xaliam kod yazub dasturchi bolimandaysangi, zamandan xali gechi arkadi ikansiz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "профессия будущего",
+   "страх отстать"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Oddiy kod yozish davri o'tdi, siz hali ham eskichami? Hozir IT bozorida sun'iy intellektdan foydalanib, kodni 3 barobar tezroq yozadigan dasturchilar qadrlanmoqda."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:16] Xazirgi kunda addii web sadyaki serem dasturini yashbarlar suni intelek blambirgelikte bir kunda uzdi qilip koyishyabdi.",
+    "timecode": "00:16"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "основатель или эксперт"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук — архивные/стоковые кадры старого компьютерного класса с крупным текстом, надёжный источник, дословно совпадает с расшифровкой (написание исправлено). После хука (по sheet_overview) в кадре появляется молодой человек, идущий у здания «NAJOT TA'LIM» мимо флажков партнёров (Robbit, «...smonaut», Techjobs) с подписью «DASTURLASHNI ham 4 oyda o'rganasiz» — представляет AI coding курс лично на территории школы, поэтому отнесён к «основатель или эксперт», а не к «блогеру» (в отличие от уличного ролика 1319848900040925); публичное имя не звучит. Оффера нет, только приглашение зарегистрироваться по ссылке."
+}

@@ -1,0 +1,465 @@
+{
+  "version": "2026-10-15",
+  "doc": "research/18-struktura-kampaniy-i-piksel/02-ТЗ-ПИКСЕЛЬ-CAPI.md",
+  "pixel_id": "{{PIXEL_ID}}",
+  "id_rules": {
+    "vid": "постоянный ID посетителя: 16 знаков base36 (строчные латинские и цифры), localStorage + cookie 1 год",
+    "sid": "ID визита: 12 знаков base36 (строчные латинские и цифры), sessionStorage; новый на каждый заход с меткой рекламы",
+    "start_payload": "vm-<sid>-<ad_id> или vm-<sid>, если ad_id нет; не длиннее 64, только A-Z a-z 0-9 _ -",
+    "external_id": "SHA-256 от строки ID; на лендинге [vid], в боте и дальше [vid, tg_id]",
+    "fbc": "fb.1.<время первого появления fbclid в мс>.<fbclid как есть, регистр не менять>",
+    "fbp": "cookie _fbp, которую ставит пиксель; передавать как есть",
+    "event_time": "UTC, секунды; не старше 7 дней на момент отправки",
+    "country": "SHA-256 от 'uz'"
+  },
+  "events": [
+    {
+      "name": "PageView",
+      "standard": true,
+      "stage": "лендинг: загрузка",
+      "trigger": "каждая загрузка лендинга, страницы курса и комнаты практики",
+      "source": [
+        "pixel",
+        "capi"
+      ],
+      "action_source": "website",
+      "event_id": "pv_<id загрузки страницы>",
+      "custom_data": [
+        "page",
+        "hook",
+        "utm_content"
+      ],
+      "custom_conversion": null,
+      "optimization": false,
+      "audiences": [
+        "CA_LP_14D",
+        "CA_LP_30D"
+      ]
+    },
+    {
+      "name": "ViewContent",
+      "standard": true,
+      "stage": "лендинг: вовлёкся",
+      "trigger": "50% прокрутки или 15 секунд на лендинге, один раз за визит",
+      "source": [
+        "pixel",
+        "capi"
+      ],
+      "action_source": "website",
+      "event_id": "vc_<sid>",
+      "custom_data": {
+        "content_name": "landing_engaged",
+        "content_category": "mini_course",
+        "hook": "<хук>"
+      },
+      "custom_conversion": {
+        "name": "CC_LANDING_ENGAGED",
+        "rule": "ViewContent и content_name = landing_engaged"
+      },
+      "optimization": false,
+      "audiences": []
+    },
+    {
+      "name": "BlockView",
+      "standard": false,
+      "stage": "лендинг: увидел блок",
+      "trigger": "событие block_view из dataLayer (блок попал в экран)",
+      "source": [
+        "pixel"
+      ],
+      "action_source": "website",
+      "event_id": "bv_<sid>_<block>",
+      "custom_data": [
+        "block",
+        "id"
+      ],
+      "custom_conversion": {
+        "name": "CC_BLOCK_FINAL",
+        "rule": "BlockView и block = final (дочитал до финального блока)"
+      },
+      "optimization": false,
+      "audiences": []
+    },
+    {
+      "name": "FaqOpen",
+      "standard": false,
+      "stage": "лендинг: открыл вопрос",
+      "trigger": "событие faq_open из dataLayer",
+      "source": [
+        "pixel"
+      ],
+      "action_source": "website",
+      "event_id": "faq_<sid>_<item>",
+      "custom_data": [
+        "item"
+      ],
+      "custom_conversion": {
+        "name": "CC_FAQ",
+        "rule": "FaqOpen, любое"
+      },
+      "optimization": false,
+      "audiences": []
+    },
+    {
+      "name": "ClickElement",
+      "standard": false,
+      "stage": "лендинг: любой другой клик",
+      "trigger": "клик по любому элементу с data-track, кроме кнопок «Начать»",
+      "source": [
+        "pixel"
+      ],
+      "action_source": "website",
+      "event_id": "ce_<sid>_<счётчик>",
+      "custom_data": [
+        "element",
+        "block",
+        "label"
+      ],
+      "custom_conversion": null,
+      "optimization": false,
+      "audiences": []
+    },
+    {
+      "name": "Lead",
+      "standard": true,
+      "stage": "лендинг: нажал «Начать бесплатно»",
+      "trigger": "первый клик по кнопке с data-cta за визит (hero, program, final, faq, dock)",
+      "source": [
+        "pixel",
+        "capi"
+      ],
+      "action_source": "website",
+      "event_id": "lead_<sid>",
+      "custom_data": {
+        "place": "hero|program|final|faq|dock",
+        "hook": "<хук>"
+      },
+      "custom_conversion": {
+        "name": "CC_LEAD_HERO / CC_LEAD_PROGRAM / CC_LEAD_FINAL / CC_LEAD_FAQ / CC_LEAD_DOCK",
+        "rule": "Lead и place = hero | program | final | faq | dock — по одной на место"
+      },
+      "optimization": "запасное событие",
+      "audiences": [
+        "CA_LEAD_7D"
+      ]
+    },
+    {
+      "name": "CompleteRegistration",
+      "standard": true,
+      "stage": "старт бота = регистрация",
+      "trigger": "первый /start с меткой vm-<sid> от этого Telegram ID",
+      "source": [
+        "capi"
+      ],
+      "action_source": "website",
+      "action_source_note": "event_source_url, IP и User-Agent — из сессии лендинга по sid; без sid в Meta не шлём",
+      "event_id": "reg_<tg_id>",
+      "custom_data": {
+        "content_name": "bot_start",
+        "sid": "<sid>",
+        "ad_id": "<ad_id>",
+        "hook": "<хук>"
+      },
+      "custom_conversion": null,
+      "optimization": true,
+      "audiences": [
+        "CA_REG_30D",
+        "CA_REG_180D"
+      ]
+    },
+    {
+      "name": "LessonOpen",
+      "standard": false,
+      "stage": "бот: открыл урок",
+      "trigger": "бот выдал урок N (после кнопки или кодового слова)",
+      "source": [
+        "capi"
+      ],
+      "action_source": "chat",
+      "event_id": "lesson<N>_<tg_id>",
+      "custom_data": {
+        "lesson": "1|2|3"
+      },
+      "custom_conversion": {
+        "name": "CC_LESSON1 / CC_LESSON2 / CC_LESSON3",
+        "rule": "LessonOpen и lesson = N"
+      },
+      "optimization": false,
+      "audiences": []
+    },
+    {
+      "name": "BotMedal",
+      "standard": false,
+      "stage": "бот: получил медаль",
+      "trigger": "бот выдал медаль",
+      "source": [
+        "capi"
+      ],
+      "action_source": "chat",
+      "event_id": "medal<N>_<tg_id>",
+      "custom_data": {
+        "medal": "1..9"
+      },
+      "custom_conversion": null,
+      "optimization": false,
+      "audiences": [],
+      "note": "для глубины изучения бота; в Meta можно не слать, если мешает — главное в базе"
+    },
+    {
+      "name": "Lesson3Done",
+      "standard": false,
+      "stage": "бот: прислал 3 компании",
+      "trigger": "бот принял задание урока 3",
+      "source": [
+        "capi"
+      ],
+      "action_source": "chat",
+      "event_id": "l3done_<tg_id>",
+      "custom_data": {
+        "companies": "<сколько прислал>"
+      },
+      "custom_conversion": {
+        "name": "CC_L3DONE",
+        "rule": "Lesson3Done"
+      },
+      "optimization": false,
+      "audiences": [
+        "CA_L3_30D"
+      ]
+    },
+    {
+      "name": "ChannelJoin",
+      "standard": false,
+      "stage": "бот: подписался на канал",
+      "trigger": "бот проверил подписку (getChatMember), первый раз",
+      "source": [
+        "capi"
+      ],
+      "action_source": "chat",
+      "event_id": "chan_<tg_id>",
+      "custom_data": {},
+      "custom_conversion": {
+        "name": "CC_CHANNEL",
+        "rule": "ChannelJoin"
+      },
+      "optimization": false,
+      "audiences": []
+    },
+    {
+      "name": "PracticeBooked",
+      "standard": false,
+      "stage": "бот: записался на практику",
+      "trigger": "выбрал дату и время практического урока",
+      "source": [
+        "capi"
+      ],
+      "action_source": "chat",
+      "event_id": "book_<tg_id>_<дата практики>",
+      "custom_data": {
+        "practice_date": "YYYY-MM-DD",
+        "slot": "HH:MM"
+      },
+      "custom_conversion": {
+        "name": "CC_BOOKED",
+        "rule": "PracticeBooked"
+      },
+      "optimization": "позже, кампания C7",
+      "audiences": [
+        "CA_BOOK_14D"
+      ]
+    },
+    {
+      "name": "PracticeJoinClick",
+      "standard": false,
+      "stage": "практика: перешёл по личной ссылке",
+      "trigger": "запрос к шлюзу GET /go/practice?t=<токен>",
+      "source": [
+        "capi"
+      ],
+      "action_source": "chat",
+      "event_id": "join_<tg_id>_<дата практики>",
+      "custom_data": {
+        "practice_date": "YYYY-MM-DD"
+      },
+      "custom_conversion": {
+        "name": "CC_JOINCLICK",
+        "rule": "PracticeJoinClick"
+      },
+      "optimization": false,
+      "audiences": []
+    },
+    {
+      "name": "PracticeAttend",
+      "standard": false,
+      "stage": "практика: пришёл",
+      "trigger": "5+ минут в комнате (пульс страницы) или кодовое слово в боте",
+      "source": [
+        "capi"
+      ],
+      "action_source": "website (своя комната) | chat (кодовое слово)",
+      "event_id": "att_<tg_id>_<дата практики>",
+      "custom_data": {
+        "practice_date": "YYYY-MM-DD",
+        "minutes": "<минут в комнате>",
+        "mode": "live|code_word"
+      },
+      "custom_conversion": {
+        "name": "CC_ATTEND",
+        "rule": "PracticeAttend"
+      },
+      "optimization": false,
+      "audiences": [
+        "CA_ATT_30D"
+      ]
+    },
+    {
+      "name": "PracticeOffer",
+      "standard": false,
+      "stage": "практика: досидел до оффера",
+      "trigger": "был в комнате в минуту оффера или ввёл кодовое слово конца урока",
+      "source": [
+        "capi"
+      ],
+      "action_source": "website | chat",
+      "event_id": "offer_<tg_id>_<дата практики>",
+      "custom_data": {
+        "practice_date": "YYYY-MM-DD"
+      },
+      "custom_conversion": {
+        "name": "CC_OFFER",
+        "rule": "PracticeOffer"
+      },
+      "optimization": false,
+      "audiences": []
+    },
+    {
+      "name": "RecordingView",
+      "standard": false,
+      "stage": "практика: смотрел запись",
+      "trigger": "не был вживую и открыл запись; 5+ минут просмотра",
+      "source": [
+        "pixel",
+        "capi"
+      ],
+      "action_source": "website",
+      "event_id": "rec_<tg_id>_<дата практики>",
+      "custom_data": {
+        "practice_date": "YYYY-MM-DD",
+        "minutes": "<минут>"
+      },
+      "custom_conversion": {
+        "name": "CC_RECORDING",
+        "rule": "RecordingView"
+      },
+      "optimization": false,
+      "audiences": []
+    },
+    {
+      "name": "ViewContent",
+      "standard": true,
+      "stage": "страница курса: открыл",
+      "trigger": "загрузка страницы курса Никиты в режиме «из бота»",
+      "source": [
+        "pixel"
+      ],
+      "action_source": "website",
+      "event_id": "vcc_<id загрузки страницы>",
+      "custom_data": {
+        "content_name": "course_page"
+      },
+      "custom_conversion": {
+        "name": "CC_COURSE_VIEW",
+        "rule": "ViewContent и content_name = course_page"
+      },
+      "optimization": false,
+      "audiences": []
+    },
+    {
+      "name": "Contact",
+      "standard": true,
+      "stage": "страница курса: написал менеджеру",
+      "trigger": "событие manager_click на странице курса",
+      "source": [
+        "pixel"
+      ],
+      "action_source": "website",
+      "event_id": "ct_<id загрузки страницы>",
+      "custom_data": {},
+      "custom_conversion": null,
+      "optimization": false,
+      "audiences": []
+    },
+    {
+      "name": "InitiateCheckout",
+      "standard": true,
+      "stage": "страница курса: нажал «Оплатить»",
+      "trigger": "события tariff_click / pay_click на странице курса",
+      "source": [
+        "pixel",
+        "capi"
+      ],
+      "action_source": "website",
+      "event_id": "ic_<uid>_<тариф>_<время в мс>",
+      "custom_data": {
+        "value": "<цена тарифа в USD>",
+        "currency": "USD",
+        "content_name": "<тариф>",
+        "value_uzs": "<цена в сумах>"
+      },
+      "custom_conversion": null,
+      "optimization": false,
+      "audiences": []
+    },
+    {
+      "name": "Purchase",
+      "standard": true,
+      "stage": "оплата",
+      "trigger": "первый платёж по заказу: вебхук Tribute или отметка менеджера",
+      "source": [
+        "capi"
+      ],
+      "action_source": "chat",
+      "action_source_note": "оплата идёт в Telegram; если chat-событие не собирает аудитории — website с данными сессии",
+      "event_id": "order_<order_id>",
+      "custom_data": {
+        "value": "<полная цена заказа в USD по курсу ЦБ на дату оплаты>",
+        "currency": "USD",
+        "value_uzs": "<сумма в сумах>",
+        "content_name": "<тариф>",
+        "order_id": "<order_id>",
+        "installments": "1|2"
+      },
+      "custom_conversion": null,
+      "optimization": "позже, когда 50+ в неделю",
+      "audiences": [
+        "CA_BUY_180D"
+      ]
+    },
+    {
+      "name": "InstallmentPaid",
+      "standard": false,
+      "stage": "оплата: второй платёж",
+      "trigger": "второй платёж по заказу частями",
+      "source": [
+        "capi"
+      ],
+      "action_source": "chat",
+      "event_id": "inst<N>_<order_id>",
+      "custom_data": {
+        "value": "<сумма платежа в USD>",
+        "currency": "USD",
+        "order_id": "<order_id>"
+      },
+      "custom_conversion": null,
+      "optimization": false,
+      "audiences": [],
+      "note": "не Purchase: иначе один заказ посчитается дважды"
+    }
+  ],
+  "not_sent_to_meta": [
+    {
+      "name": "BotStartDirect",
+      "why": "старт бота без sid (пришёл мимо лендинга) — только в базу, чтобы органика не засоряла оптимизацию"
+    }
+  ]
+}

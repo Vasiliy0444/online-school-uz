@@ -1,0 +1,98 @@
+{
+ "creative_id": "2286249102188390",
+ "platform": "meta",
+ "school_id": "shahlo-alikhanova",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "сток"
+ ],
+ "hook": {
+  "verbatim": "Sizga bitta narsani aytaymi, siz AI bo'yicha videolarni ko'rib, o'zingizga saqlab olyapsiz,",
+  "types": [
+   "вопрос",
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: «Sizga» → «Sizga bitta narsani» → «Sizga bitta narsani aytaymi,» → «siz» → «siz AI bo'yicha» → «siz AI bo'yicha videolarni» — субтитры появляются по словам; женщина в очках и хиджабе на скамейке, европейская архитектура на фоне, держит чёрный чехол/футляр",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 1 из 4 (~0:04): «o'zingizga saqlab olyapsiz,» — продолжение фразы",
+    "timecode": "00:04"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Sizgi bitan arsan ediyim mi? Siz AI boyche videolani korvasiz, uizgi sakraynz korvasiz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "доверие и окупаемость",
+   "статус"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (~0:22): «man Shahlo Shvetsiyadan AI ekspert,» — спикер представляется по имени",
+    "timecode": "00:22"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (~0:31): «aii orqali daromad» — продолжение фразы про доход через AI",
+    "timecode": "00:31"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:08] Sizi namadir toqtas kuruldi. [00:10] AI orqali pultafotgan insolla bilan, [00:12] AI videolani tomoshak botirgan insollan ajat buradigan bitan arsi bu haraket.",
+    "timecode": "00:08"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный урок"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "[BEPUL VIDEODARS] - Qanday Qilib Sun'iy Intellekt Orqali Daromad Qilish Mumkin?"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:33] Webpul darsilini korushchun, pastagitun manabasim.",
+    "timecode": "00:33"
+   }
+  ]
+ },
+ "cta": {
+  "button": "See details",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "основатель или эксперт",
+  "public_name": "Shahlo Alikhanova"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Единственный креатив порции, где спикер прямо называет себя по имени на кадре («man Shahlo Shvetsiyadan AI ekspert,» — «я Шахло, AI-эксперт из Швеции»); это подтверждает, что повторяющееся в расшифровках других креативов слово «Shvetsiya»/«Shvetsaran»/«Shweetsaran» — не ошибка распознавания, а реальный заявляемый факт (Швеция), и что героиня всех «говорящая голова»-роликов кампании — сама Shahlo Alikhanova. Хук почти дословно совпадает у субтитров и расшифровки, поэтому уверенность выше обычной для этой порции. Расшифровка целиком (написание исправлено, смысл сохранён): «Sizga bitta narsa aytaymi? Siz AI bo'yicha videolarni ko'rasiz, o'zingizga saqlab qo'yasiz. ...AI orqali pul topgan insonlar bilan AI videolarni tomosha qilib turgan insonlar orasidagi bitta farq — bu harakat» (разница между теми, кто зарабатывает на AI, и теми, кто просто смотрит видео про AI — это действие). Финал — призыв смотреть bepul video dars, соответствует тексту объявления. Вставка «смеющаяся женщина в офисе» на sheet_overview (между «ai videolarni» и «man Shahlo») визуально не связана с остальным роликом — вероятно короткая монтажная вставка/сток, не описываю как отдельный смысловой блок."
+}

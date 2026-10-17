@@ -1,0 +1,91 @@
+{
+ "creative_id": "1963596064333266",
+ "platform": "meta",
+ "school_id": "englify",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон",
+  "запись экрана",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "2 yildan beri ingliz tili bilan shug'ullanayotgan bo'lsam ham, hech shu \"speaking\"imni [oshira olmayotgan edim].",
+  "types": [
+   "боль",
+   "история"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.5s–1.5s: «2 yildan beri ingliz tili bilan»; девушка в тёмной комнате (деревянная обшивка стен)",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s–2.5s: «shug'ullanayotgan bo'lsam ham»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:04: «hech shu \"speaking\"imni»",
+    "timecode": "00:04"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Iki yildan beri ingilistiri bilan shukurlanayotkan, bugun sanxam, kesh shukur speakingimni oshir olmayadik kalyanim.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "без опыта"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:12: скриншот чата ИИ — «Hello! Let's talk about best friends. Who is your best friend?»",
+    "timecode": "00:12"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:20: «mening darajamga moslashib»; ~0:28: «uyalmasdan oshiqmoqchi bo'lsangiz»",
+    "timecode": "00:20"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Ilovani yuklab olish uchun video ostidagi havolani bosing 👇 ILOVANI YUKLAB OLISH"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Install now",
+  "in_creative": "перейти по ссылке",
+  "destination": "приложение",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "ученик"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Личный отзыв от первого лица (девушка, дом. интерьер): «занимаюсь английским уже 2 года, но speaking не улучшался» → решение — разговорный ИИ-партнёр в приложении, который подстраивается под уровень и позволяет тренироваться без стеснения (кадр с примером диалога «Let's talk about best friends»). Кадры хорошо совпадают с расшифровкой. По selected_because этот же ролик значится с копиями (ads_with_this_creative=3, релонч 2)."
+}

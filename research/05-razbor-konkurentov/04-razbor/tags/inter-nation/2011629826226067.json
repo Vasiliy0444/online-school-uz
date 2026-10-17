@@ -1,0 +1,70 @@
+{
+ "creative_id": "2011629826226067",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "≤15 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Student App. Siz uchun Students App.",
+  "types": [
+   "новость"
+  ],
+  "visual": [
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.5s: золотой курсивный текст «Student App» на фоне телефона в руке с открытым приложением",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Siz uchun Students App.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "экономия времени"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "to‘liq raqamlashtirilgan uy vazifalari... qo‘shimcha materiallar"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:05] Barcha se telefon ingizde.",
+    "timecode": "00:05"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук по кадру (золотая надпись «Student App» на фоне телефона) и первой фразе речи «Siz uchun Students App». Расшифровка сильно испорчена («Uygevay tifalar, yangi soslar» — смысл не восстановлен, в hook не включено). Смысл «всё в вашем телефоне» ([00:05] «Barcha se telefon ingizde» → «Barchasi sizning telefoningizda») — экономия времени/удобство, не про доход. Спикер — девушка в деловом жакете с бейджем на ресепшене филиала, не названа по имени."
+}

@@ -1,0 +1,68 @@
+{
+  "creative_id": "1391693422432221",
+  "platform": "meta",
+  "school_id": "najot-talim",
+  "format": {
+    "type": "видео",
+    "duration_bucket": ">120 с",
+    "aspect": "9:16"
+  },
+  "style": ["отзыв ученика", "реакция или разделённый экран"],
+  "hook": {
+    "verbatim": "ERTALAB 4'DA YOLGA CHIQASIZMI ROSTAN?",
+    "types": ["вопрос", "история", "боль"],
+    "visual": ["лицо в первом кадре", "движение или смена кадра"],
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_hook.jpg 0.0s–1.0s: ERTALAB / ERTALAB 4'DA YOLGA / YOLGA CHIQASIZMI; 1.5s: ROSTAN? (разделённый экран: сверху студент, снизу мужчина в бежевом пиджаке, рамка камеры REC); 2.0s–2.5s: ASSALOMU / ALAYKUM",
+        "timecode": "00:00"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Yed talib, kurdurga chikasim, rostar.",
+        "timecode": "00:00"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["экономия времени", "для регионов"],
+    "evidence": [
+      {
+        "source": "текст объявления",
+        "quote": "har kuni Angren shahridan Najot Ta’limdagi Full Stack kursi darslariga qatnaydi."
+      },
+      {
+        "source": "текст объявления",
+        "quote": "Biz esa sizning vaqtingiz yo‘llarda emas, bilim olishga, o‘zingiz ustida ishlashga sarflanishini istaymiz."
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Toshkene vilayati, Angirani shakhri da yashimim.",
+        "timecode": "00:03"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~1:41: ODATDA COWORKINGDA FOYDALANGANLARDA",
+        "timecode": "01:41"
+      }
+    ]
+  },
+  "offer": {
+    "items": ["без оффера"]
+  },
+  "cta": {
+    "button": "Visit Instagram profile",
+    "in_creative": "нет призыва",
+    "destination": "Instagram",
+    "funnel_stage": "неизвестно"
+  },
+  "speaker": {
+    "role": "ученик"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": true,
+  "risk": false,
+  "confidence": "средняя",
+  "notes": "Интервью-история (2:41, середина расшифровки вырезана): студент из Ангрена каждый день ездит на занятия Full Stack в Ташкент и выезжает в 4 утра; представитель Najot Ta'lim (мужчина в бежевом пиджаке, имя не звучит) расспрашивает, советует пользоваться коворкингом, упоминает гранты («yakinda biz grand helamakldi», 01:08) и уважение к отцу. Роль «ученик» — по главному герою; второй спикер — представитель школы. Хук по субтитрам на кадрах, в расшифровке фраза искажена. «экономия времени» — по тексту объявления (время уходит на дорогу), «для регионов» — студент из Ташкентской области. Гранты упомянуты как новость, а не как предложение зрителю — оффер не отмечен. Конец ролика в расшифровке — благодарность и прощание, призыва нет; кнопка ведёт в Instagram najottalim_talabalari, этап воронки не назван → «неизвестно». Перевод хука: «Выезжаете в 4 утра? Правда?»"
+}

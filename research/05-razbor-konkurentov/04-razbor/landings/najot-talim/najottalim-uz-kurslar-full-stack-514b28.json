@@ -1,0 +1,118 @@
+{
+ "url": "https://najottalim.uz/kurslar/full-stack",
+ "school_id": "najot-talim",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "основной продукт",
+ "builder": "Next.js",
+ "pixels": [
+  "Google Analytics (GA4)"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Изучите full-stack-разработку у специалистов: освойте профессию за короткий срок и выйдите на доход (Frontend + Backend + AI)",
+  "quote": "Full-stack dasturlashni mutaxassislardan oʻrganing\nQisqa muddatda kasb oʻrganib, daromadga chiqing! Frontend + Backend + AI.",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": true,
+  "value": "Средний месячный доход выпускников: самый низкий $300, средний $800, самый высокий $2000+ (самоотчёт)",
+  "quote": "Bitiruvchilarning oʻrtacha oylik daromadi\nEng past maosh\n$300\nOʻrtacha maosh\n$800\nEng yuqori maosh\n$2000+",
+  "where": "середина"
+ },
+ "audience": {
+  "found": true,
+  "value": "3 сегмента: кто хочет востребованную профессию с высоким доходом; сменить профессию; создать стартап",
+  "quote": "Bu kurs kimlar uchun?\nZamonaviy va talab yuqori boʻlgan kasb egasi boʻlishni istaganlar",
+  "where": "середина"
+ },
+ "program": {
+  "found": true,
+  "modules": 6,
+  "duration": "10 месяцев, 3 дня в неделю по 2 часа",
+  "format": "офлайн",
+  "quote": "10 oy · haftada 3 kun · 2 soat"
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [
+   "видеоотзывы",
+   "логотипы работодателей"
+  ],
+  "reviews_count": 11
+ },
+ "price": {
+  "found": true,
+  "tariffs": [
+   {
+    "name": "Toshkent shahri — помесячно",
+    "price_uzs": 1600000,
+    "period": "в месяц (курс 10 мес.)",
+    "quote": "Toshkent shahri\nMashhur\n1 600 000 soʻm/ oyiga"
+   },
+   {
+    "name": "Toshkent shahri — «Ikkiga boʻlib»",
+    "price_uzs": 7600000,
+    "period": "за каждый из 2 платежей (по арифметике страницы)",
+    "quote": "Ikkiga boʻlib7 600 000 soʻm (800 ming tejaysiz)"
+   },
+   {
+    "name": "Toshkent shahri — «Bittada toʻliq»",
+    "price_uzs": 14400000,
+    "period": "разово за весь курс",
+    "quote": "Bittada toʻliq14 400 000 soʻm (1 600 000 tejaysiz)"
+   },
+   {
+    "name": "Viloyatlar uchun — помесячно",
+    "price_uzs": 1000000,
+    "period": "в месяц (курс 10 мес.)",
+    "quote": "Viloyatlar uchun\n1 000 000 soʻm/ oyiga"
+   },
+   {
+    "name": "Viloyatlar uchun — «Ikkiga boʻlib»",
+    "price_uzs": 4750000,
+    "period": "за каждый из 2 платежей (по арифметике страницы)",
+    "quote": "Ikkiga boʻlib4 750 000 soʻm (500 ming tejaysiz)"
+   },
+   {
+    "name": "Viloyatlar uchun — «Bittada toʻliq»",
+    "price_uzs": 9000000,
+    "period": "разово за весь курс",
+    "quote": "Bittada toʻliq9 000 000 soʻm (1 000 000 tejaysiz)"
+   }
+  ]
+ },
+ "installments": {
+  "found": true,
+  "value": "Явное деление платежа: «Ikkiga boʻlib» — курс двумя платежами (в Ташкенте по 7 600 000 сум за платёж — по арифметике страницы). Рассрочки через банк или сервис (Uzum Nasiya, Alif) нет.",
+  "quote": "Ikkiga boʻlib7 600 000 soʻm (800 ming tejaysiz)",
+  "where": "низ страницы"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": true,
+  "value": "Скидки за способ оплаты во всех ценовых зонах (Toshkent shahri, Viloyatlar uchun): двумя платежами («Ikkiga boʻlib») — экономия 800 000 сум, целиком («Bittada toʻliq») — 1 600 000 сум (цифры Ташкента); также грант Агентства по делам молодёжи «Kelajak kasblari»: если заявку одобрят, оплату курса покрывают — до 6 месяцев, до 1 млн 300 тыс. сум",
+  "quote": "Ikkiga boʻlib7 600 000 soʻm (800 ming tejaysiz)\nBittada toʻliq14 400 000 soʻm (1 600 000 tejaysiz) … Yoshlar ishlari agentligining \"Kelajak kasblari\" granti asosida oʻqishingiz mumkin. Ariza tasdiqlansa, 6 oygacha 1 mln 300 minggacha kurs toʻlovi qoplab beriladi.",
+  "where": "низ страницы"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "notes": "По арифметике страницы: Toshkent shahri: 10 × 1 600 000 = 16 000 000; 2 × 7 600 000 = 15 200 000 (экономия 800 000); разово 14 400 000 (экономия 1 600 000) | Viloyatlar uchun: 10 × 1 000 000 = 10 000 000; 2 × 4 750 000 = 9 500 000 (экономия 500 000); разово 9 000 000 (экономия 1 000 000). Доход — самоотчёт: $300 ≈ 3 529 500 сум, $800 ≈ 9 412 000 сум, $2000 ≈ 23 530 000 сум (на странице «$2000+»). Подзаголовок обещает «Qisqa muddatda» (за короткий срок) при длительности 10 месяцев. Программа: 6 разделов, 24 темы; темы в разделах сдвинуты (в «2-boʻlim. JavaScript Pro + TypeScript» — React, State, Props, Hooks; в «3-boʻlim. Frontend — React» — Node.js, Express); lessons не заполнено — на странице темы, а не уроки. Две ценовые зоны: «Toshkent shahri» (метка «Mashhur») и «Viloyatlar uchun». Помесячная оплата («soʻm/ oyiga») — базовая цена обучения, по правилу не рассрочка. Видео «Bitiruvchi video-hikoyasi» (11) и 63 логотипа «Bitiruvchilarimiz ish joylari» одинаковые на всех страницах курсов — не про конкретный курс. Гарантии нет; в общем FAQ: «maʼlum shartlar asosida ish taklifi beriladi» (условия не раскрыты). Публичная оферта сайта (najottalim.uz/documents/oferta-nt.pdf, разбор — oferta-najottalim-uz-documents-oferta-nt-pdf-2d28fc.json) условий оплаты частями и возврата денег не содержит: она про бесплатные материалы онлайн-платформы, для платного обучения — отдельный договор (п. 2.2). Формат «офлайн» — вывод по странице: цены разные по филиалам/регионам и в FAQ перечислены филиалы; слова «oflayn» на странице нет. Кнопки «Roʻyxatdan oʻtish» в тексте без ссылки — видимо, открывают всплывающую форму; её полей в снимке нет, форму не открывали, поэтому fields не заполнены. Следующий шаг «звонок менеджера» — по форме на главной («biz siz bilan bogʻlanamiz»), на самой странице курса прямо не сказано. Скриншот (один кадр 390×844) показывает финальный призыв и подвал, а не первый экран — «первый экран» определён по порядку текста в page.md."
+}

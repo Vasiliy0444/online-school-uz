@@ -1,0 +1,96 @@
+{
+ "creative_id": "1613766710407861",
+ "platform": "meta",
+ "school_id": "bir-group",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "нарезка эфира или подкаста"
+ ],
+ "hook": {
+  "verbatim": "Aka, rostdan shunaqa qilmoqchimisizlar?",
+  "types": [
+   "вопрос"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.0s–2.5s: субтитры последовательно собираются в фразу «Aka» → «Aka rostdan» → «shunaqa» → «qilmoqchimisizlar» (целиком: «Aka rostdan shunaqa qilmoqchimisizlar?»); два мужчины сидят в креслах в лобби отеля",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Oki rostamashnaqna yasakim aqshumis va o'zim?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость",
+   "без опыта",
+   "стабильность"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:25] Kupmana, tekinge oqitdiyle, o'khiyan nangin rezultat boladim o'ki.",
+    "timecode": "00:25"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:29] Bizi atilin rezultat boladi.",
+    "timecode": "00:29"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:45] yoshilani isbilan tamillash bu uchi.",
+    "timecode": "00:45"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Zamonaviy kasbni 0 dan o'rganing — BEPUL!"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:47] Qaz yana 500 da oku uchini tekin ge okutmah uchisili?",
+    "timecode": "00:47"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[01:19] 25-ci sentyabr kunu onlayn taqdimat bolibotadi, oshi taqdimatda qatnashib, batafsil malamatki ege bolib, arizi qaldirisi,",
+    "timecode": "01:19"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Формат — интервью/подкаст: двое мужчин в креслах в лобби (похоже на нарезку из выпуска подкаста/интервью), со вставкой кадра выступления на сцене с презентационным экраном «BIR TA'LIM - ta'lim[dan] natija[ga] yo'l...» и логотипами «BIR GROUP» + «USTOZ MEDIA» (~0:12 и ~1:02) — похоже на реальное интервью/мероприятие, а не постановочная реклама с актёрами. Хук взят по субтитрам на кадре (надёжнее расшифровки): субтитры последовательно собираются в фразу «Aka, rostdan shunaqa qilmoqchimisizlar?» («Брат, вы правда собираетесь так сделать?»); расшифровка для 00:00 этой фразе явно не соответствует (сильно искажена распознаванием), поэтому даю её отдельной сырой цитатой, а не как альтернативную версию той же фразы. Кто из двух говорящих отвечает по существу о программе — по доступным кадрам не различить, имя ни разу не звучит и не показано субтитрами; хотя контекст (BIR GROUP x USTOZ MEDIA, прямой вопрос «вы правда это делаете?») намекает на интервью с представителем компании, я НЕ приписываю роль «основатель или эксперт» без явного подтверждения именем/титром — оставляю «актёр или ведущий». Telegram-CTA прямо подтверждён в расшифровке этого ролика (~01:32: «padrobni tibmasini basib, telegram kanalamizgi xochili bayib»), не только шаблоном из текста объявления. Ролик зовёт в Telegram-канал, но link_url ведёт на лендинг bir-group-webinar.vercel.app/b/."
+}

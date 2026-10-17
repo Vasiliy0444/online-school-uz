@@ -1,0 +1,86 @@
+{
+ "url": "https://qadam.education/excel-sheets-course",
+ "school_id": "qadam",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "основной продукт",
+ "builder": "Tilda",
+ "pixels": [
+  "Meta Pixel",
+  "Google Analytics (GA4)",
+  "Google Tag Manager",
+  "Яндекс.Метрика"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Освоить Excel и Google Sheets с нуля и увеличить доход",
+  "quote": "Excel va Google Sheets’ni 0 dan o‘rganib, daromadingizni oshiring!",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": true,
+  "value": "Кто без чёткой профессии, не знает, с чего начать, не понимает таблиц, мучается с отчётами, чувствует нехватку навыков для роста дохода и «застрял на месте»",
+  "quote": "Bu kurs siz uchun, agar siz:\nHozir aniq kasbingiz yo’q bo’lsa\nQayerdan boshlashni bilmasangiz\nElektron jadvallarni umuman tushunmasangiz\nHisobotlar topshirishda doim qiynalsangiz\nDaromadingiz o'sishi uchun ko‘nikmalar yetishmayotganini sezsangiz\nO‘zingizni bir joyda qotib qolgandek his qilsangiz",
+  "where": "середина"
+ },
+ "program": {
+  "found": true,
+  "modules": 9,
+  "duration": "1 месяц",
+  "format": "онлайн",
+  "quote": "Format:\nOnline videodarsliklar\nKurs davomiyligi:\n1 oy\n…\n1-modul | Elektron jadvallar bilan tanishuv\n…\n9-modul | Yakuniy loyihalar"
+ },
+ "speaker": {
+  "found": true,
+  "value": "Umidjon Arslonov — преподаватель курса: 5 лет в Excel, Google Sheets и бизнес-анализе; бизнес-аналитик Amir Group Holding, аналитик продаж PepsiCo Uzbekistan, дата-аналитик Mono Electric (самоотчёт)",
+  "quote": "5 yil\ntajribaga ega Excel, Google Sheets va biznes tahlili bo‘yicha\nAmir Group Holding — Biznes Analitik\nYillik savdoni 25% ga oshirgan va avtomatlashtirilgan hisobot tizimlarini joriy qilgan\nPepsiCo Uzbekistan — Sotuv Analitik\nSavdo ma’lumotlari asosida hisobot va tahlil tizimlarini ishlab chiqqan\nMono Electric — Data Analitik\nSavdo hajmini 200% ga oshirgan va ish samaradorligini 120% ga yaxshilagan\n\"Maqsadim — sizni Excel orqali natija qiladigan mutaxassisga aylantirish\"\nUmidjon Arslonov\nKurs ustozi",
+  "where": "середина"
+ },
+ "social_proof": {
+  "types": [
+   "нет"
+  ]
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "цены нет: указаны только способы оплаты «Naqd va nasiya»; после квиза — имя и телефон"
+ },
+ "installments": {
+  "found": true,
+  "value": "Способы оплаты — наличные и рассрочка («nasiya»); партнёр рассрочки и условия не названы",
+  "quote": "To'lov turlari:\nNaqd va nasiya",
+  "where": "середина"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "квиз-вопросы",
+   "возраст",
+   "имя",
+   "телефон"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "notes": "Курс «Excel va Google Sheets» (title «Excel va Google Sheets - Yangi»). Рекламы в ads_meta.csv на эту страницу нет (источники — sitemap и Wayback, last_seen в sitemap 10.05.2026), страница жива (200), message_match не заполнялся. Порядок: заголовок и кнопки «Kursga yozilish», «Kurs dasturi» → карточки «Kurs yakunida: Tayyor portfolio», «Format: Online videodarsliklar», «To'lov turlari: Naqd va nasiya», «Kurs davomiyligi: 1 oy» → «Bu kurs siz uchun, agar siz:» (6 болей) → сравнение «Oddiy ijrochi xodim» и «Professional foydalanuvchi» → что дают Excel и Google Sheets → «Malakali mutaxassislar / Amaliy mashqlar / Natijali dastur» → преподаватель → программа из 9 модулей («1-modul | Elektron jadvallar bilan tanishuv» … «6-modul | Pivot table (svodnaya jadval)» … «9-modul | Yakuniy loyihalar») → «Lavozim Elektron jadvallar ustasi», навыки → сертификат → квиз «Kursimizga qabul cheklangan. Testdan o'ting, shunda siz bizga mos ekanligingizni bilamiz» (возраст, занятость, опыт с таблицами, цель, готовность вложить деньги и время, когда начать; «Step: 1/7») → имя, телефон. Полосы «Siz → Yangi Daromad» в шапке нет. «Naqd va nasiya» — единственное упоминание рассрочки: без партнёров и условий; записано как рассрочка, потому что «nasiya» — это оплата частями. Цены, гарантии, скидок, бонусов нет; «qabul cheklangan» — дефицит без даты, deadline не заполнен. «Tayyor portfolio» и сертификат — обещания курса, не бонусы. Дохода в цифрах нет (income_claim не заполнен). Этап «основной продукт»; stage_auto «оферта или оплата» — из-за ссылки на оферту в подвале. Следующий шаг «звонок менеджера» — вывод по форме с телефоном: прямо «позвоним» здесь не сказано (на Uzum-страницах того же шаблона — «qayta aloqaga chiqishimiz uchun»). Скриншот совпадает с первым экраном (заголовок, иллюстрация, кнопки, карточки «Kurs yakunida» и «Format»)."
+}

@@ -1,0 +1,17 @@
+{
+ "school_id": "inter-nation",
+ "url": "https://inter-nation.uz/en/locations",
+ "sources": "site:sitemap | wayback",
+ "first_seen": "2026-06-09",
+ "last_seen": "2026-06-09",
+ "stage_auto_url": "",
+ "is_archive": false,
+ "snapshot_at": "2026-09-16T21:18:53+00:00",
+ "live_status": 200,
+ "final_url": "https://inter-nation.uz/en/locations",
+ "title": "Inter Nation English School",
+ "screenshot": "/Users/Bel-a/Data/online-shkola-uz/05-razbor-konkurentov/lendingi/inter-nation/inter-nation-uz-en-locations-ef206d/screenshot-mobile.jpg",
+ "stage_auto": "прочее",
+ "stage_reason": "признаков нет — решить по скриншоту",
+ "text_chars": 3803
+}

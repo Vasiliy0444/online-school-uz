@@ -1,0 +1,91 @@
+{
+ "creative_id": "1661650509022254",
+ "platform": "meta",
+ "school_id": "shahlo-alikhanova",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "анимация",
+  "нарезка эфира или подкаста"
+ ],
+ "hook": {
+  "verbatim": "Agar oyiga 5 million topish imkoni bo'lsa, lekin buning...",
+  "types": [
+   "вопрос",
+   "результат или доход",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "деньги или результат на экране",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: «Agar» → «Agar oyiga» → «Agar oyiga 5 million topish» → «imkoni» → «bo'lsa,» → «bo'lsa, lekin buning...»; поверх кадра анимация падающих купюр по 100 долларов; Shahlo Alikhanova на той же европейской площади (собор на фоне)",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Agar ayage 5 milyon topshish imqanu bosay, lekin buni uchun suni intiliklana organish girey bosay. Organar mı diz?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "статус",
+   "доверие и окупаемость"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg (~0:11): мужчина-соведущий на сцене, подпись «AI eksportlar va xalqaro spikerlar»",
+    "timecode": "00:11"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:17] Bu video darsiyin siz korganizdan kimi, xaysi daromad topshish yuli sizgin bakulligini bulvalarsiz,",
+    "timecode": "00:17"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный урок"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "[BEPUL VIDEODARS] - Qanday Qilib Sun'iy Intellekt Orqali Daromad Qilish Mumkin?"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:24] Pasti ki tugmanabosu vidyo dasidi albat de kori,",
+    "timecode": "00:24"
+   }
+  ]
+ },
+ "cta": {
+  "button": "See details",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "основатель или эксперт",
+  "public_name": "Shahlo Alikhanova"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Один из наиболее продакшн-насыщенных хуков порции: риторический вопрос про 5 млн/месяц сопровождается CGI-анимацией падающих 100-долларовых купюр — единственный явный случай тега «деньги или результат на экране» в этой партии. Расшифровка целиком (написание исправлено): «Agar oyiga 5 million topish imkoni bo'lsa-yu, lekin buning uchun sun'iy intellektni o'rganish kerak bo'lsa. O'rganar edingizmi? Agar javobingiz ha, o'rganardim desangiz — biz Shvetsiyalik ekspertlar va xalqaro spikerlar, 2026-yil O'zbekistonda qanaqa qilib daromad topish mumkinligini [ko'rsatamiz]. Shu haqida biz video dars tayyorladik, va biz ishonamizki, bu video dars sizga foydali bo'ladi. Bu video darsni ko'rganingizdan keyin, qaysi daromad topish yo'li sizga mos ekanligini bilib olasiz, o'sha yo'lni ko'rib, siz ham daromad topishingiz mumkin bo'ladi. Pastagi tugmani bosib, video darsni albatta ko'ring, chunki biz ishonamizki, bu sizga foydali bo'ladi» — снова дуэт Shahlo + соведущий, тот же конференц-кадр, что и в других роликах пары."
+}

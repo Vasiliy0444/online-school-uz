@@ -1,0 +1,72 @@
+{
+ "creative_id": "1138106408410378",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "постановка или скетч",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Servislar kup, lekin bunaqasini ko'rmagansiz.",
+  "types": [
+   "новость"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.0s: текст «Servislar kop»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s–2.5s: текст «bunaqasini ko'rmagansiz»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Servislar kup, lekin buna katsana anak kurmagansiz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:37] Alkenche, barca darajalar uchun narghiye birxil. Hech kanda ortgiche tolog shabgalar yuk.",
+    "timecode": "00:37"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "слово в комментарии",
+  "destination": "лендинг",
+  "funnel_stage": "директ"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук по кадру и расшифровке хорошо совпадают («Servislar kup, lekin bunaqasini ko'rmagansiz»). Постановочный ролик-обзор: герой с бейджем «GUEST» проходит путь клиента филиала (охрана на входе, администраторы, презентация центра, тестирование уровня, разговор о стоимости — «barcha darajalar uchun narghiye birxil, hech qanday ortiqcha to'lov yo'q» = единая цена без скрытых доплат, тетради и книги входят в стоимость курса). Финал — прямой призыв «Kommentariyada \"+\" belgisini qoldiring, ular o'zlari siz bilan aloqaga chiqishadi» → «слово в комментарии»/«директ», расхождение с кнопкой Sign up/лендингом (instagram_samarqand) отмечаю здесь."
+}

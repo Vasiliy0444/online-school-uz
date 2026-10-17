@@ -1,0 +1,84 @@
+{
+  "creative_id": "1379707713766932",
+  "platform": "meta",
+  "school_id": "najot-talim",
+  "format": {
+    "type": "видео",
+    "duration_bucket": "61–120 с",
+    "aspect": "9:16"
+  },
+  "style": ["постановка или скетч", "говорящая голова", "сток"],
+  "hook": {
+    "verbatim": "Bolajonim, onamning bitta gaplari bor edi. Aravaning birinchi g'ildiragi qaysi tarafga qarab yursa, qolganlari ham shu tomonga qarab yuradi derdilar.",
+    "types": ["история"],
+    "visual": ["лицо в первом кадре"],
+    "evidence": [
+      {
+        "source": "расшифровка",
+        "quote": "Bola canim, onamu bitta geplari baridi. Aravanin burinci qildarigi qas tarafgi qarab yursa, qogel lariyam shu tamangi qarab yuradi dirdili.",
+        "timecode": "00:00"
+      },
+      {
+        "source": "кадр без текста",
+        "quote": "sheet_hook.jpg 0.0s–2.5s: женщина в хиджабе разговаривает с сыном в кепке в гостиной, текста нет",
+        "timecode": "00:00"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["для мам", "страх отстать", "профессия будущего", "доверие и окупаемость"],
+    "evidence": [
+      {
+        "source": "расшифровка",
+        "quote": "kompüterini zor bolus kerek bolgan zamanda yashayabmiz.",
+        "timecode": "00:28"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Ozbegistandagi en qatda iti markezlardan bir najat talim,\n[00:38] dasturla suni intelek, kompüter sabat xalili gin or getadi.",
+        "timecode": "00:35"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Nacad Talim Ukum Markyazi farzandi gelecegi bi-farq bolmagan otta analar uchun,",
+        "timecode": "01:04"
+      },
+      {
+        "source": "кадр без текста",
+        "quote": "sheet_overview.jpg ~0:27: женщина одна говорит в камеру; ~0:45 и ~1:03: подростки на занятиях, за ноутбуком",
+        "timecode": "00:27"
+      }
+    ]
+  },
+  "offer": {
+    "items": ["бонус", "гарантия", "дедлайн или ограничение мест"],
+    "evidence": [
+      {
+        "source": "текст объявления",
+        "quote": "3 650 000 so'mlik bonuslar - Faqatgina sentyabr oyi uchun!"
+      },
+      {
+        "source": "текст объявления",
+        "quote": "— Kursni tugatib, natijadan qoniqmasangiz — 2 yil ichida bepul qayta o‘qish huquqi"
+      },
+      {
+        "source": "текст объявления",
+        "quote": "— Robbit va Edfix kurslariga 500 ming so'mlik chegirma"
+      }
+    ]
+  },
+  "cta": {
+    "button": "Visit Instagram profile",
+    "in_creative": "позвонить",
+    "destination": "Instagram",
+    "funnel_stage": "основной продукт"
+  },
+  "speaker": {
+    "role": "блогер"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": false,
+  "risk": false,
+  "confidence": "средняя",
+  "notes": "Постановка: мама говорит сыну, что он стал примером для младших и поступил в вуз своими знаниями; дальше она же в камеру советует родителям Najot Ta'lim (программирование, ИИ, компьютерная грамотность). Хук только в речи — по расшифровке, написание исправлено («qogel lariyam» прочитано как «qolganlari ham»). Роль «блогер» — рассказывает о своей семье и рекомендует школу, клиенткой не представлена (может быть и актриса) — неоднозначно. «для мам» — сегмент родителей («ota-onalar uchun»). Субтитров нет. Офферы только в тексте объявления: бонусы на 3 650 000 сумов только в сентябре («дедлайн»), бесплатное повторное обучение в течение 2 лет при недовольстве результатом («гарантия»), скидки на курсы партнёров (не на курс школы, поэтому «скидка» не отмечена). Расхождение: ролик зовёт позвонить по номерам внизу («pastiki rakamlargi kongirak qilin», 01:08), текст объявления — «ro'yxatdan o'ting», а кнопка ведёт в Instagram-профиль najottalim. Перевод хука: «Сынок, у моей мамы была поговорка: куда едет переднее колесо арбы, туда едут и остальные»."
+}

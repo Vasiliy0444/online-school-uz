@@ -1,0 +1,77 @@
+{
+ "creative_id": "1242978800914937",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "ad_goal": "найм сотрудников",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Inter Nation School Samarqand filiali kengaymoqda va bizga ingliz tili o'qituvchilari kerak.",
+  "types": [
+   "обращение к сегменту",
+   "результат или доход"
+  ],
+  "visual": [
+   "лицо в первом кадре"
+  ],
+  "evidence": [
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: мужчина в костюме в клетку говорит на камеру в парке",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] International School Samarkand filiali, kengay maqti wa bizge ingilis siloqt uchilari kerek.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_overview.jpg ~0:10: зал с публикой на мероприятии школы (синяя подсветка сцены)",
+    "timecode": "00:10"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:05] Oylik maqisha 23 milyon somdan 43 yarim milyon som gecha.",
+    "timecode": "00:05"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "✅ Высокую стабильную зарплату ✅ Дружный коллектив ✅ Карьерный рост"
+   }
+  ],
+  "income_claim": "oylik maosh (примерно) 2 300 000 so'mdan 4 300 000–4,5 million so'mgacha — по черновой расшифровке, точные разряды не гарантированы"
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Apply now",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "неизвестно"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Вакансия ESL Teacher, филиал Самарканд (ad_goal = найм сотрудников, cta_button «Apply now», ссылка /hr/esl-teacher). Зарплата озвучена в расшифровке («23 milyon somdan 43 yarim milyon som gecha»), в тексте объявления цифр нет (только «высокая стабильная зарплата») — цифры из расшифровки привожу с оговоркой, разряды («43 yarim») читаются неуверенно. Текст объявления также упоминает тимбилдинг на курортах, бесплатный курс CELTA и систему ИИ для проверки домашних заданий — это рабочие бонусы для сотрудника, не оффер для покупателя курса, поэтому offer.items = «без оффера». funnel_stage не про воронку продаж курса — оставлен «неизвестно»."
+}

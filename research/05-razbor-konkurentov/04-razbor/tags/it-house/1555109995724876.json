@@ -1,0 +1,81 @@
+{
+ "creative_id": "1555109995724876",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Erkin grafik. Ortiqcha cheklovlarsiz, boshlang'ich 500$ dan",
+  "types": [
+   "результат или доход",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: «ERKIN GRAFIK» → «Ortiqcha cheklovlarsiz» → счётчик цифр «500$ Ortiqcha cheklovlarsiz boshlang'ich» — тот же мужчина в клетчатом пиджаке на фоне тёмных штор и растения",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Erkin grafik. Artikcha chekla olarsiz barsanatish 500 dolurgan 1000 dollari gecha daromad.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "удалёнка и свобода",
+   "доход"
+  ],
+  "income_claim": "500 dollardan 1000 dollargacha daromad",
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Bu yo‘nalishni muvaffaqiyatli tamomlasangiz sizni ish bilan ham ta’minlaymiz"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:06] Kan deyishtib sorasangiz web full stack bima.",
+    "timecode": "00:06"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:21] Shoshlin, jaylar sahani cheklangan.",
+    "timecode": "00:21"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Тот же актёр/пиджак/декорации (тёмные шторы, растение), что и в 1372606148420516 — короткий вариант рекламы web full stack курса; цифра «500$» появляется как анимированный счётчик. Ограничение мест озвучено в конце, но на кадрах хука/обзора не видно (только в расшифровке)."
+}

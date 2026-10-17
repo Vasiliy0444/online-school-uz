@@ -1,0 +1,102 @@
+{
+ "creative_id": "1361488052487340",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика",
+  "слайды или текст на экране"
+ ],
+ "hook": {
+  "verbatim": "Uzum Marketda kurs narxi o'zini oqlashidan shubhalanyapsizmi?",
+  "types": [
+   "вопрос",
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "таймер или обратный отсчёт",
+   "деньги или результат на экране",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s: таймер «00:54», «21+», значок Uzum; на 0.5s — смена плана",
+    "timecode": "00:00"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.5s–2.5s: ведущая за столом держит долларовые купюры",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s: «O'ZINI OQLASHIDAN»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.5s: «SHUBHANGIZ BO…» (дописывается анимацией)",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Uzun marketta kursnarx o'zunu oqilashidan shubqalan yapsiz mi?",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:08] Kulum koyup getmaydimi?",
+    "timecode": "00:08"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:41] alli qi qiqo 2,5 minu orti qadam yudigeyshin bitir uchilari daroma topshmokti.",
+    "timecode": "00:41"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "O‘zini oqlaydimi?"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (≈00:35): «30000000 AYLANMA» у выпускницы с сертификатом",
+    "timecode": "00:35"
+   }
+  ],
+  "revenue_claim": "30000000 AYLANMA"
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Apply now",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Ретаргетинг: ссылка /uzum-retarget, текст объявления обращается к тем, кто уже смотрел курс. Хук: ключевые слова на кадрах («O'ZINI OQLASHIDAN», «SHUBHANGIZ BO…»), полная фраза по расшифровке, написание исправлено («kursnarx o'zunu oqilashidan shubqalan yapsiz mi» → «kurs narxi o'zini oqlashidan shubhalanyapsizmi»). Перевод: «сомневаетесь, окупится ли цена курса?»; дальше «Pulim kuyib ketmaydimi?» («не сгорят ли мои деньги?»). Основной смысл — снятие возражения и доверие: автор курса — эксперт с оборотом 5+ млрд сумов (запись [00:09]: «Kursning muallifi Xayrullayev Sarvar», по расшифровке «xarulayef sarvar»; говорит ведущая, автор в обзорных кадрах не виден), программа курса (кадр-слайд «1 DAROMADLI TOVAR TANLASH»), отзывы и обороты учеников (оборот, не доход), сертификат, «2,5 mingdan ortiq bitiruvchilar daromad topmoqda», официальный учебный центр в центре Ташкента (кадр 4 — карта «AFROSIYOB, 2»). Значения «доверие/надёжность» в схеме нет, отмечен только «доход». Призыв: «Ariza qoldiring va biz siz bilan bog'lanamiz» (написание исправлено); сертификат и обещание связаться в список офферов схемы не входят → «без оффера». Текст объявления прямо говорит «Biz “tez va oson” demaymiz» — risk не ставлю."
+}

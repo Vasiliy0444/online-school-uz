@@ -1,0 +1,90 @@
+{
+ "creative_id": "1427913545904151",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "постановка или скетч",
+  "запись экрана"
+ ],
+ "hook": {
+  "verbatim": "Kursni ham tugatdim, endi-chi? Endi men aniq ishga joylashaman",
+  "types": [
+   "история",
+   "результат или доход"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.5s: девушка держит рамку с сертификатом, «Kursni ham tugatdim»; 2.0–2.5s — другая сцена, «Endi men aniq ishga joylashaman»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Kursiyam tukatdim, endi chi?\n[00:01] Endiman, annig ishki jolashaman, chungi IT House buni kefalatini bergan.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "доверие и окупаемость"
+  ],
+  "income_claim": "AutoCAD o'rganing – $700–800 oylik daromad (текст объявления); в ролике — вакансии «interyer dizaynerlar» на hh.uz «400 dolardan 1200 dolargacha»",
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:01] chungi IT House buni kefalatini bergan.",
+    "timecode": "00:01"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈0:11): значок «hh», «interyer dizaynerlar uchun kompaniyalar»",
+    "timecode": "00:11"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "гарантия"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (≈0:18): запись экрана AutoCAD — «3 oy bepul amaliyot»",
+    "timecode": "00:18"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈0:25): «mutlaqo bepul ochiq dars bo'lib o'tadi»",
+    "timecode": "00:25"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Отличается от остальных роликов AutoCAD/hh.uz-семейства завязкой «от противного»: хук показывает результат (сертификат об окончании курса, обещание трудоустройства) вместо боли в начале. Единственный из этого семейства, где слово «kafolat» (гарантия) звучит явно в самом хуке — отсюда добавлен тег offer «гарантия»."
+}

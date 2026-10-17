@@ -1,0 +1,61 @@
+{
+ "url": "https://qadam.education",
+ "domain": "qadam.education",
+ "pages_scanned": [
+  "https://qadam.education/uzum-tg"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)",
+   "Google Tag Manager"
+  ],
+  "ad_pixel": [
+   "Meta Pixel"
+  ]
+ },
+ "seo_metadata": {
+  "title": "UZUM Tg канал",
+  "description": "Qo&#039;llanmani olish uchun ma&#039;lumotlaringizni to&#039;ldiring va telegram kanalimizga o&#039;ting",
+  "open_graph": {
+   "url": "https://qadam.education/uzum-tg",
+   "title": "UZUM Tg канал",
+   "description": "Qo&#039;llanmani olish uchun ma&#039;lumotlaringizni to&#039;ldiring va telegram kanalimizga o&#039;ting",
+   "type": "website"
+  },
+  "canonical": "https://qadam.education/uzum-tg"
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [],
+  "total_images_found": 2
+ },
+ "integration_links": [],
+ "hidden_elements": {
+  "html_comments": [
+   "metatextblock",
+   "/metatextblock",
+   "Meta Pixel Code",
+   "End Meta Pixel Code",
+   "nominify end",
+   "Global Site Tag (gtag.js) - Google Analytics",
+   "googleoff: all",
+   "googleon: all",
+   "/allrecords",
+   "Yandex.Metrika counter 102020541",
+   "/Yandex.Metrika counter"
+  ]
+ },
+ "google_ids": {
+  "ga4": [
+   "G-PTHDY45413"
+  ],
+  "gtm": [
+   "GTM-T5VCRHRZ"
+  ]
+ }
+}

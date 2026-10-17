@@ -1,0 +1,72 @@
+{
+ "creative_id": "1655768062172430",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Tasavvur qiling, yoz oxirida siz IELTSdan kerakli balni olgansiz va sizni oldinda yangi imkoniyatlar kutmoqda.",
+  "types": [
+   "результат или доход"
+  ],
+  "visual": [
+   "лицо в первом кадре"
+  ],
+  "evidence": [
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: мужчина в поло с бейджем «REGIONAL MANAGER» на тёмном фоне",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Tasaur qili, yoz o'khiri va siz ayastan kirakli balni olgan siz va sizini oldizdi, yangi inkonyatlar kutmoxti.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "быстрый старт"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] ...yoz o'khiri va siz ayastan kirakli balni olgan siz...",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный урок",
+   "бонус"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "📄 IDP bilan hamkorlikda bepul IELTS Mock imtihoni 💰 Haqiqiy imtihonda yuqori ball olganlar uchun cashback"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук — техника визуализации результата («представьте, что к концу лета у вас нужный балл IELTS»), написание исправлено по смыслу и контексту ad_text. У героя на бейдже читается «REGIONAL MANAGER» — управленческая должность, не «основатель/эксперт» по методике курса, поэтому роль оставлена «актёр или ведущий». Два отдельных пункта оффера из текста объявления: бесплатный мок-экзамен IELTS с IDP и кэшбэк за высокий балл на реальном экзамене (бонус)."
+}

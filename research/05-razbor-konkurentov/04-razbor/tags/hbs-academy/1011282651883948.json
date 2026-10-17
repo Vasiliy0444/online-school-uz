@@ -1,0 +1,87 @@
+{
+ "creative_id": "1011282651883948",
+ "platform": "meta",
+ "school_id": "hbs-academy",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "постановка или скетч"
+ ],
+ "hook": {
+  "verbatim": "Prop ko'rsatib ko'pchilikni aldayotgan qo'shtirnoq...",
+  "types": [
+   "запрет или ошибка",
+   "результат или доход"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s (караоке по словам, за рулём машины): «Prop» → «ko'rsatib» → «ko'rsatib» → «ko'pchilikni» → «aldayotgan» → «qo'shtirnoq»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Probshotunu kursda, kupchiliini aldaatgan, kushtarnani chilii traderli, kup ayuk etdi.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "⚠️ Ayrim «treyderlar» sizga millionlab va'da berishadi-yu, amalda ularning hech biri sodir bo'lmaydi."
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Investitsiya va treyding haqida savollaringiz bormi? ⚠️ Ayrim «treyderlar» sizga millionlab va'da berishadi-yu, amalda ularning hech biri sodir bo'lmaydi."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:16] jayus usurladayan saudagilish yollari barmi. [00:18] Ejbe sakadaymasti, sizgi jayus usurladin, stabil daramatki irishkan, mutakayisili darsotadi.",
+    "timecode": "00:16"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "консультация"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Savollaringizga offline konsultatsiya orqali javob oling. Buning uchun pastdagi havola ustiga bosing."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:29] programı kuydagi havali orqali offline konferensiyagi roh khattan otik [00:33] va menedzirlarini sizgi aloqaya chikisadik.",
+    "timecode": "00:29"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "основатель или эксперт"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "средняя",
+ "notes": "risk = true по правилу инструкции для трейдинга и инвестиций (приведено к одному виду 17.09). Единственный в порции креатив с явно критической рамкой: открывается предостережением про псевдо-«трейдеров» в кавычках, которые обещают миллионы, но по факту ничего не происходит (дословно совпадает с ad_text) — HBS позиционируется как честная альтернатива. Первое слово хука обрезано на кадре 0.0s («Prop» — вероятно начало слова «Profit»/«Profitni»), «treyderlar» после «qo'shtirnoq» не попало в снятые 2.5s, но подтверждается и текстом объявления, и расшифровкой. Оффер — не курс напрямую, а «offline konsultatsiya»/«offline konferensiya» с менеджерами по вопросам инвестирования и трейдинга (redko для этой школы: обычно оффера нет или ведут сразу на курс). funnel_stage «вебинар или мастер-класс» — ближайший вариант схемы для офлайн-консультации, прямого соответствия в перечне нет. risk=false: несмотря на тему трейдинга, сам креатив прямо критикует обещания гарантированного дохода у «других», а не даёт такое обещание сам; в расшифровке [00:18] звучит нечто похожее на «stabil daromatga erishgan mutaxassislar darsda o'rgatadi» (неуверенно), но конкретной цифры/% нет."
+}

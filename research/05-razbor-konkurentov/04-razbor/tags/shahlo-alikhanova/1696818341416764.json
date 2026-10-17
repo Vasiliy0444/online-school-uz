@@ -1,0 +1,91 @@
+{
+ "creative_id": "1696818341416764",
+ "platform": "meta",
+ "school_id": "shahlo-alikhanova",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "постановка или скетч"
+ ],
+ "hook": {
+  "verbatim": "Biz kelinlarga ham qiyin, bizlar ham uyda o'tirib pul topkimiz keladi.",
+  "types": [
+   "боль",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: «biz» → «biz kelinlarga» → «biz kelinlarga ham qiyin,» → «bizlar ham» → «bizlar ham uyda o'tirib» — субтитры по словам; девушка в национальном бордовом платье с сюзане-передником доит корову, смотрит в камеру",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Biz kelinlargi yan qiyin, bizayam uyda otirib pul topkimiz keladib.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "удалёнка и свобода",
+   "доход",
+   "для мам"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:04] Lekin uyda gi ishlardan ortib, bosh vaqtimizda qiladigan ish topish muhammo. [00:09] Lekin man ozim uchum bitti yaxshi daromad topish yolini topdim.",
+    "timecode": "00:04"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:14] Shvetsiyadan suni intelekt eksperti Shakhlo Obani depul ochiq darslargi qatmaship, [00:20] suni intelekt bilan videolar qilishni organib, keyin isham topdim.",
+    "timecode": "00:14"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_overview.jpg: та же героиня в национальном костюме печёт лепёшки в тандыре, готовит плов в казане, метёт двор, поливает цветы — постановочный ролик про традиционную «келин»",
+    "timecode": "00:21"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный урок"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "[BEPUL VIDEODARS] - Qanday Qilib Sun'iy Intellekt Orqali Daromad Qilish Mumkin?"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:29] biz pastagi tugmani basib, sayitke krib, [00:31] acik darslargi koshil balin.",
+    "timecode": "00:29"
+   }
+  ]
+ },
+ "cta": {
+  "button": "See details",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "ученик"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук на кадре почти дословно совпадает с расшифровкой — надёжная цитата. Героиня — постановочный образ традиционной «kelin» (невестка), рассказывающая от первого лица историю ученицы, а не сама Shahlo Alikhanova, поэтому speaker.role — «ученик» (имя не называется, по правилу учеников не называть). Расшифровка целиком (написание исправлено): «Lekin uydagi ishlardan ortib, bo'sh vaqtimizda qiladigan ish topish mushkul. Lekin men o'zim uchun bitta yaxshi daromad topish yo'lini topdim. Qanaqa qilib deysizmi? Shvetsiyadan sun'iy intellekt eksperti Shahlo Alikhanovaning bepul ochiq darslariga qatnashib, sun'iy intellekt bilan videolar qilishni o'rganib, keyin ish topdim. Agar sizam sun'iy intellektni qadam-baqadam amalda o'rganmoqchi bo'lsangiz, pastagi tugmani bosib, saytga kirib, ochiq darslarga qo'shiling» — имя основательницы прочитывается как искажённое «Shakhlo Obani» ≈ Shahlo Alikhanova(ning). Формулировка «ochiq darslarga» (открытые уроки, множественное число) отличается от единственного «video dars» в тексте объявления — возможно намёк на серию/мини-курс, но лендинг у всей порции один и тот же (одиночный бесплатный видеоурок), поэтому offer оставлен как «бесплатный урок» с этой оговоркой."
+}

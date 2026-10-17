@@ -1,0 +1,13 @@
+{
+ "school_id": "shahlo-alikhanova",
+ "url": "https://alikhanova.aicreator.academy/offer",
+ "sources": "site:/offer",
+ "first_seen": "",
+ "last_seen": "",
+ "stage_auto_url": "оферта или оплата",
+ "is_archive": false,
+ "snapshot_at": "2026-09-16T21:04:51+00:00",
+ "live_status": 200,
+ "duplicate_of": "https://alikhanova.aicreator.academy/oferta",
+ "stage_auto": "дубль (тот же текст)"
+}

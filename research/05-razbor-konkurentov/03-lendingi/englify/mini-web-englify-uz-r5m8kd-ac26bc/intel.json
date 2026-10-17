@@ -1,0 +1,52 @@
+{
+ "url": "https://mini-web.englify.uz",
+ "domain": "mini-web.englify.uz",
+ "pages_scanned": [
+  "https://mini-web.englify.uz/r5m8kd"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)"
+  ]
+ },
+ "seo_metadata": {
+  "title": "Ingliz tilini istalgan yoshda oʻrganish sirlari",
+  "description": "Teacher Azam bilan bepul master-klass: kuniga 50 tagacha soʻz yodlash va ularni bir umr eslab qolish metodikasi.",
+  "open_graph": {
+   "title": "Ingliz tilini istalgan yoshda oʻrganish sirlari",
+   "description": "Teacher Azam bilan bepul master-klass: kuniga 50 tagacha soʻz yodlash va ularni bir umr eslab qolish metodikasi.",
+   "type": "website"
+  },
+  "headings": {
+   "h1": [
+    "Ingliz tiliniistalgan yoshdaoʻrganish sirlari"
+   ],
+   "h2": [
+    "Masterklassda siz:"
+   ]
+  }
+ },
+ "ctas": [],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [],
+  "total_images_found": 1
+ },
+ "integration_links": [],
+ "hidden_elements": {
+  "html_comments": [
+   "englify-fonts https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap",
+   "/englify-fonts",
+   "englify-phone-intl",
+   "/englify-phone-intl",
+   "englify-modal-fix",
+   "/englify-modal-fix",
+   "englify-analytics",
+   "/englify-analytics"
+  ]
+ }
+}

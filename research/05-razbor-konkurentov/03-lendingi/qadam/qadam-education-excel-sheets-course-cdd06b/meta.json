@@ -1,0 +1,18 @@
+{
+ "school_id": "qadam",
+ "url": "https://qadam.education/excel-sheets-course",
+ "sources": "site:sitemap | wayback",
+ "first_seen": "2026-02-13",
+ "last_seen": "2026-05-10",
+ "stage_auto_url": "основной продукт",
+ "is_archive": false,
+ "snapshot_at": "2026-09-16T19:55:52+00:00",
+ "live_status": 200,
+ "final_url": "https://qadam.education/excel-sheets-course",
+ "title": "Excel va Google Sheets - Yangi",
+ "screenshot": "/Users/Bel-a/Data/online-shkola-uz/05-razbor-konkurentov/lendingi/qadam/qadam-education-excel-sheets-course-cdd06b/screenshot-mobile.jpg",
+ "stage_auto": "оферта или оплата",
+ "stage_reason": "текст (оферта или оплата) против адреса (основной продукт) — проверить по скриншоту",
+ "text_chars": 6478,
+ "reshot_at": "2026-09-17T00:28:40+00:00"
+}

@@ -1,0 +1,70 @@
+{
+ "library_id": "1935694397074090",
+ "model": "mlx-community/whisper-large-v3-turbo",
+ "language_arg": "uz",
+ "detected_language": "uz",
+ "seconds": 5.7,
+ "duration_s": 35.5,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.38,
+   "text": "Vilaayyatand durub, Uzunmarkedda savdaqılışını noldan orgen san boladi mə?"
+  },
+  {
+   "start": 3.38,
+   "end": 6.38,
+   "text": "Ha, albatta boladi. Videonu oxurgeci korigin."
+  },
+  {
+   "start": 6.38,
+   "end": 9.74,
+   "text": "Umi abarot imas, izaziflepki milan gəcik."
+  },
+  {
+   "start": 9.74,
+   "end": 11.48,
+   "text": "Milyonge yaxan abarot qildib."
+  },
+  {
+   "start": 11.48,
+   "end": 12.9,
+   "text": "Umiyi 1 milan dravimlans odoludu."
+  },
+  {
+   "start": 12.9,
+   "end": 15.12,
+   "text": "30 milan çay, naberna, abarot boldu."
+  },
+  {
+   "start": 15.12,
+   "end": 18.42,
+   "text": "Qazırk orgenləriniz qadamütükəşin bitiruqçilərinin reyal nəticələri."
+  },
+  {
+   "start": 18.42,
+   "end": 21.12,
+   "text": "Ular xam aynansız kəb xamasını noldan boş legan."
+  },
+  {
+   "start": 21.12,
+   "end": 25.96,
+   "text": "Muqlumai ular boşıdan təcrübeli mutaxəsizlər tüzgən anıq yol xaritas boyca xarikat qilishkən."
+  },
+  {
+   "start": 25.96,
+   "end": 29.0,
+   "text": "Uzunmarkedda oge 2 mil dolar daramatke çıqqash yol xaritasını"
+  },
+  {
+   "start": 29.0,
+   "end": 32.0,
+   "text": "bugün Telegram kanalımızda John Lee Masterclassda qorsadamız."
+  },
+  {
+   "start": 32.0,
+   "end": 35.42,
+   "text": "Qatnaşı şücünleysa xavala orqale otayin və Telegram kanalımızge abunab olin."
+  }
+ ]
+}

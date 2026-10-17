@@ -1,0 +1,72 @@
+{
+ "url": "https://inter-nation.uz/Registration",
+ "school_id": "inter-nation",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "заявка или консультация",
+ "builder": "Next.js",
+ "pixels": [
+  "Google Analytics (GA4)",
+  "Google Tag Manager"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Хотите выучить английский — оставьте номер, ответим на все вопросы; о бесплатном первом уроке, ради которого сюда ведёт FAQ главной, на самой странице ни слова",
+  "quote": "INGLIZ TILI ni\no`rganmoqchimisiz?\nU holda raqamingizni qoldiring va biz barcha savollaringizga javob beramiz.",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "program": {
+  "found": false,
+  "format": "неизвестно"
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [],
+  "count_claim": "TALABALARIMIZNING IELTS 8.5 GACHA NATIJALARI"
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "на странице только форма; цены — на главной в блоке «Tariflar va narxlar»"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "имя",
+   "телефон"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "notes": "Страница записи, на которую отправляет FAQ главной: «Birinchi dars bepulmi? Ha, Inter Nation da birinchi dars bepul. Ro'yxatdan o'tish uchun https://inter-nation.uz/Registration sahifasiga kiring yoki +998 78 777 77 07 raqamiga qo'ng'iroq qiling.» Сама страница — та же лид-форма, что у рекламных /l/instagram_* (текст совпадает, кроме последней строки «Inter Nation English School»; на скриншоте тот же слайдер из 7 слайдов с баннером «TALABALARIMIZNING IELTS 8.5 GACHA NATIJALARI»): заголовок «INGLIZ TILI ni o`rganmoqchimisiz?», поля «Ismingiz» и «+998 Telefon raqami» (подсказки — только на скриншоте), кнопка «Yuborish» (форму не отправляли). О бесплатном уроке, ценах, формате (онлайн или офлайн), филиале, программе и гарантиях на странице ничего нет; выбрать филиал или формат нельзя — всё выясняют в звонке («biz barcha savollaringizga javob beramiz»). /en/Registration и /ru/Registration — дубли с тем же текстом. Реклама сюда напрямую не ведёт (объявления — на /l/*), поэтому message_match не заполнялся. Соцдоказательство — баннер о результатах учеников до IELTS 8.5 (самоотчёт; типа «результаты IELTS» в схеме нет — types пустой, текст баннера в count_claim). Техника (intel.json): Next.js, GA4 и Google Tag Manager; Meta Pixel не обнаружен."
+}

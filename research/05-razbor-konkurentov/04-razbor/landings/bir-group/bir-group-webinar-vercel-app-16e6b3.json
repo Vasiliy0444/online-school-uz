@@ -1,0 +1,89 @@
+{
+ "url": "https://bir-group-webinar.vercel.app/",
+ "school_id": "bir-group",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "вебинар или мастер-класс",
+ "builder": "Vercel (домен *.vercel.app); конкретный фреймворк/конструктор в intel.json не определён — по структуре похоже на кастомную статику/SPA, не на no-code конструктор (Tilda/lovable)",
+ "pixels": [
+  "Meta Pixel",
+  "Google Analytics (GA4)"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Бесплатно освоить одну из современных профессий и получить шанс выиграть один из 500 грантов на обучение",
+  "quote": "Zamonaviy kasblardan birini bepul o‘rganing!\n500 ta grantdan birini qo‘lga kiritish imkoniyatiga ega bo‘ling!",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "program": {
+  "found": false,
+  "quote": "Bepul vebinarda siz\n01 Zamonaviy va talabgir kasblardan birini bepul o‘rganish imkoniyati\n02 500 ta grant dan birini yutib olish imkoniyati\n03 Zamonaviy kasbni o‘rganib, internet orqali daromad qilish imkoniyatlari"
+ },
+ "speaker": {
+  "found": true,
+  "value": "На фото первого экрана — мужчина, имя на самой странице не подписано (alt-атрибут изображения — просто «Spiker»). По метаданным рекламного кабинета (ads_meta.csv: page_name «Yo'ldosh Yusupov», page_categories «Producer», page_likes 42) и по вводным данным задачи это продюсер Yo'ldosh Yusupov, лицо бренда Bir Group. В видео самого показываемого объявления (превью-кадр библиотеки объявлений, дубль с идентичным текстом library_id 1585286413377416) — тот же человек: чёрно-белая съёмка на фоне настольного флажка «Bir Group», в стиле «сырого» видеообращения (рамка REC/таймкод)",
+  "quote": "Spiker",
+  "where": "первый экран"
+ },
+ "social_proof": {
+  "types": [
+   "нет"
+  ]
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "цены на странице нет вообще — это бесплатный вебинар-регистрация, а не продажа курса; что происходит после вебинара (тарифы, оплата), ни на одной из 3 версий не раскрыто"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": true,
+  "value": "Весь оффер лендинга построен как розыгрыш 500 «грантов» на бесплатное обучение среди участников вебинара; по сути это и есть оффер целиком, а не скидка поверх объявленной цены (цены нет). Классифицирую сюда по общему правилу разбора («гранты — в discounts»), хотя формально это не скидка на конкретный тариф",
+  "quote": "500 ta grantdan birini qo‘lga kiritish imkoniyatiga ega bo‘ling!",
+  "where": "первый экран"
+ },
+ "bonuses": {
+  "found": true,
+  "value": "Отдельный блок-«подарок» на главной и в /a повторяет тот же грантовый оффер под видом бонуса за участие; формулировка «100%-й» шанс неоднозначна — гарантия ли это выигрыша или маркетинговый оборот, на странице не поясняется",
+  "quote": "qatnashuvchilar uchun sovg'a\nQatnashuvchilar uchun sovg'a\n100% lik grand yutish imkoniyatiga ega bo'lasiz",
+  "where": "первый экран"
+ },
+ "deadline": {
+  "found": true,
+  "value": "Дата и время вебинара показаны как фиксированная отметка в шапке всех 3 версий: 25 сентября, 20:30. На главной и в /a это статичный бейдж без обратного отсчёта; в варианте /b вместо (или вместе с) него работает JS-таймер обратного отсчёта до начала + фраза о нехватке мест — см. notes",
+  "quote": "25-Sentabr … 20:30",
+  "where": "первый экран"
+ },
+ "form": {
+  "present": false
+ },
+ "next_step": "Telegram-канал",
+ "closed": true,
+ "message_match": {
+  "library_id": "1063363156316745",
+  "scores": {
+   "promise_continuity": 9,
+   "language_match": 8,
+   "visual_continuity": 6,
+   "cta_alignment": 9,
+   "specificity_match": 4,
+   "emotional_match": 6
+  },
+  "total_of_60": 42
+ },
+ "notes": "СТРУКТУРА ФАЙЛА: разобрана главная (/); отличия /a и /b — ниже и в message_match, отдельных файлов не создавал, так как это A/B/C-варианты одного и того же одноэкранного лендинга-регистрации на вебинар (общая шапка с датой/временем, идентичные 3 буллита «Bepul vebinarda siz», единственная кнопка-CTA без формы), а не разные по содержанию страницы. РАЗЛИЧИЯ ВАРИАНТОВ (заголовок / кнопка / форма / прочее): главная (/, снимок bir-group-webinar-vercel-app-16e6b3, 1041 симв., 8 картинок) — заголовок «Zamonaviy kasblardan birini bepul o‘rganing! 500 ta grantdan birini qo‘lga kiritish imkoniyatiga ega bo‘ling!», светлый (белый) фон, кнопка «grant yutib olish» со стрелкой (cta-go.png) → t.me/+63rab14r7cY5NjFi, внизу повторная кнопка с ДРУГОЙ подписью «BEPUL QATNASHISH» на ту же ссылку, есть блок-подарок «qatnashuvchilar uchun sovg'a / 100% lik grand yutish imkoniyatiga ega bo'lasiz», формы нет. /a (bir-group-webinar-vercel-app-a-9efbe0, 1160 симв., 10 картинок) — заголовок в вопросительной форме «Yangi va daromadli kasb o‘rganmoqchimisiz? Uni bepul o‘rganing va 500 ta grantdan birini yutib olish imkoniyatini qo‘lga kiriting!», тот же светлый фон, кнопка «GRANT YUTIB OLISH» (заглавными) с иконкой пальца (finger.png) → t.me/+LinzLbHwCrozMjFi (другая ссылка-приглашение), вместо подарка — рамка «MAxsus bonus: Qatnashuvchilar uchun 100% grand yutish imkoniyati», формы нет. /b (bir-group-webinar-vercel-app-b-cfba28, 892 симв., 6 картинок) — заголовок «Zamonaviy kasbni bepul o‘rganing! 500 ta grantdan biri aynan sizniki bo‘lishi mumkin!» (персонализация «именно твой»), ТЁМНЫЙ (чёрный) фон вместо белого, кнопка «grant yutib olish» со стрелкой (arrow.png, золотая заливка) → t.me/+Aew2bIt8s9c2Mzky (третья ссылка-приглашение), подарка/бонус-блока нет, зато есть работающий обратный отсчёт «Qatnashish uchun qolgan vaqt: 01:52» (мм:сс) и фраза дефицита «Shoshiling joylar soni cheklangan!» (мест мало) — самый «urgency»-заряженный вариант. Дата и время вебинара (25 сентября, 20:30) одинаковы во всех 3 версиях; 3 буллита «Bepul vebinarda siz» дословно совпадают везде. Скриншоты 390×844 всех трёх версий совпадают с порядком блоков в page.md. РЕКЛАМА: все 70 объявлений школы в ads_meta.csv (school_id=bir-group) ведут на этот домен и имеют ОДИН И ТОТ ЖЕ текст объявления слово в слово; различаются только тем, на какой из 3 вариантов ссылаются: 36 (51.4%) → /a, 24 (34.3%) → /b, 10 (14.3%) → главная. Все 70 запущены 12–14.09.2026, идут 3–5 дней, все is_active=True на момент сбора (2026-09-16) — свежий, ещё не отфильтрованный тест. MESSAGE_MATCH: заполнен для самого показываемого объявления по правилу (наименьший top30_rank) — library_id 1063363156316745, top30_rank=2, идёт с 2026-09-13 (4 дня), реклама на Facebook/Instagram/Audience Network/WhatsApp/Threads, cta_text «Learn more», ссылка ведёт именно на /a — поэтому баллы выставлены по факту того, что реально видит кликнувший (/a), а не по тексту главной; выбор /a дополнительно подтверждается тем, что это самый частый landing_domain-путь у всех 70 объявлений (51.4%). У самого library_id 1063363156316745 расшифровки видео в transcripts_index.csv нет; но текст объявления слово в слово совпадает у 7 других library_id, включая 1585286413377416, для которого расшифровка есть (качество «черновое», распознавание сильно шумное) — использована она как заменитель для описания видео, это явно тот же ролик/тот же формат: «500-ta iqtidori var … 500 grant loyihasi … Graphic design, targeting, video montage, [SMM], suni intellect, rabat tekniki … 25 sentiya … 20:30 … taqdimat bolatiyan kanaliga koshil balin» (черновой автоперевод, много ошибок распознавания). Превью-кадр (thumb.jpg) того же library_id — чёрно-белое селфи-видео говорящего в кадр мужчины за столом с настольным флажком «Bir Group», оверлей «REC» и текст «500 TA IQTIDORLI…» — визуально тот же человек, что и на фото лендинга (первого экрана /a — тот же портрет что и на главной, просто без рамки-highlight). Текст объявления полностью: «Zamonaviy kasblarni bepul o'rganish imkoniyatini sizga \"Bir Group\" beradi. Siz grafik dizayn, targeting, videomontaj, SMM va boshqa 7 ta zamonaviy yo'nalishdan birini tanlab, grant asosida bepul ta'lim olishingiz mumkin. Buning uchun 500 ta grant ajratilgan. 25-sentabr kuni onlayn taqdimot bo'lib o'tadi. Unda grant shartlari va ta'lim imkoniyatlari batafsil tushuntiriladi. Joyingizni band qilish hoziroq «Подробнее» tugmasini bosib telegram kanalga qo'shilib oling. Zamonaviy kasbni 0 dan o'rganing — BEPUL! «Подробнее» tugmasini bosing!». ОЦЕНКА ПО 6 ИЗМЕРЕНИЯМ (против /a): promise_continuity 9/10 — обещание («bepul o'rganish», 500 grant, дата/время) совпадает почти дословно. language_match 8/10 — общая лексика («bepul», «grant», дата), но объявление говорит «taqdimot», страница — «vebinar» (разные слова для одного события). visual_continuity 6/10 — тот же человек в кадре, но стилистика разная: сырое ч/б видео с эффектом REC в объявлении против полированного цветного студийного портрета на лендинге. cta_alignment 9/10 — и там, и там призыв нажать кнопку и вступить в Telegram-канал, где будут раскрыты условия. specificity_match 4/10 — САМЫЙ большой разрыв: объявление называет 7 конкретных направлений (grafik dizayn, targeting, videomontaj, SMM, sun'iy intellekt, robot texnika), а лендинг (все 3 версии) ни разу не называет ни одного направления — везде только общее «zamonaviy kasb» (современная профессия). emotional_match 6/10 — в объявлении акцент на отборе «500 iqtidorli yoshlar» (500 талантливых) и срочности «joyingizni band qiling hoziroq»; на /a нет счётчика/таймера (он есть только в /b), только блок «MAXSUS BONUS», поэтому срочность передана слабее, чем в самом объявлении. Итог 42/60 — «хорошо», но специфика направлений — главная точка потери. ПРОЧЕЕ: страница — исключительно верхняя часть воронки (регистрация на бесплатный вебинар через Telegram-канал), без цены, рассрочки, гарантии, аудитории, программы обучения и соцдоказательств — ни один из этих элементов не найден ни на одной из 3 версий. next_step = Telegram-канал: все CTA — прямые ссылки-приглашения t.me/+хэш (не бот, без формы), при этом у каждой из 3 версий — СВОЯ уникальная ссылка-приглашение (разные хэши), что похоже на канал-трекинг по варианту, а не единый канал. Ссылки не открывал (по правилам разбора — работал только с файлами на диске)."
+}

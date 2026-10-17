@@ -1,0 +1,90 @@
+{
+ "creative_id": "1344047170964882",
+ "platform": "meta",
+ "school_id": "englify",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "85-90% odamlar ingliz tili o'rganayotganda, ikki oy ichida tashlab ketishadi.",
+  "types": [
+   "цифра",
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.0s: «85-90» / «85-90 % odamlar ingliz»; мужчина в машине (белый пиджак, галстук)",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 1.5s–2.5s: «85-90% odamlar ingliz tili o'rganayotganda»",
+    "timecode": "00:01"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] 85-90% adamli ingresli orga matkanda, iki ay brai da tashabi baradi, iki tas azi sabab bar, bit tasa bud.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "страх отстать",
+   "доверие и окупаемость"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:27: «Ikkinchi, motivatsiyani o'ldirmaydigan va oxirigacha olib boradigan narsa»",
+    "timecode": "00:27"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:46: «Shularni bilgan holda biz Englifyda aynan ishli odamlar uchun shunaqa tizimlashtirilgan»",
+    "timecode": "00:46"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~1:04: «o'sha paytda o'rganasiz, probkada mi, ishxonada mi, uyda mi — farqi yo'q.»",
+    "timecode": "01:04"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "HAVOLA USTIGA BOSING"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Тот же ведущий (машина, белый пиджак с галстуком) и близкий сценарий к 1030904319872614/1548157493646590 (статистика отсева 85-90%), но самый длинный ролик пачки (73 с) с более развёрнутой структурой «две причины отсева → как Englify решает обе». Кадры хорошо совпадают по ключевым тезисам с расшифровкой, но сама расшифровка сильно искажена (черновая), поэтому уверенность средняя."
+}

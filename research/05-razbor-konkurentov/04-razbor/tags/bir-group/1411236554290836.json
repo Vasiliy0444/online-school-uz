@@ -1,0 +1,80 @@
+{
+ "creative_id": "1411236554290836",
+ "platform": "meta",
+ "school_id": "bir-group",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "Zamonaviy kasbni o'rganmoqchisiz, lekin kurslarga borib pullab o'qishga hozircha daromadingiz yo'q bo'lsa, siz uchun zo'r imkoniyat.",
+  "types": [
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Zamana wekas plan organ maqtisiz, lekin kursluge barib tolap o'qish ki hazar chadaromadiz yoq bolsa, siz uchun zor imkaniyat.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: молодой человек в бежевой футболке говорит в камеру, снято на телефон в салоне едущей машины (виден ремень безопасности, окно), текста на кадре нет",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] ...ki hazar chadaromadiz yoq bolsa, siz uchun zor imkaniyat.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Zamonaviy kasbni 0 dan o'rganing — BEPUL!"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:24] 25 Sentyabrkunu online taqdimat bubutadi. Online taqdimatda qatnashisya mutlaka bebul, lekin xaziret bubutkarimdi jaylarimiz sonu shekilanyan bar yogi 500 dagan oku uchini sarala mutlaka bebulga uchichargan.",
+    "timecode": "00:24"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "блогер"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук только в речи (на кадрах 0.0–2.5s текста нет, только лицо в салоне едущей машины) — verbatim дан по расшифровке с исправлением явных ошибок распознавания, сырая цитата — в evidence; середина фразы («ki hazar chadaromadiz yoq bolsa») восстановлена по смыслу как «hozircha daromadingiz yo'q bo'lsa» (пока нет дохода). Спикер говорит о «Bir group»/проекте в третьем лице («Bir grup, bir grup kampanyasi 500-ta grant loyokasini yolgo koyushibdi» — компания Bir Group запустила проект), а не «мы создали», поэтому role «блогер», не «основатель». Конкретных цифр личного дохода в этом ролике не звучит (в отличие от 1091595333325222, 920006017429811, 4299106007046611, где называют «$500-1000»). Telegram-CTA прямо подтверждён в расшифровке этого ролика (~00:38: «pastiki tukmani basib, ruhatdan otib, telegram kanalga abunibub koyin»). Ролик зовёт в Telegram-канал, но link_url ведёт на лендинг bir-group-webinar.vercel.app/b/."
+}

@@ -1,0 +1,80 @@
+{
+ "creative_id": "1576051770866862",
+ "platform": "meta",
+ "school_id": "englify",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Ingliz tili o'rganishdagi xato.",
+  "types": [
+   "боль",
+   "история"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: «Ingliz tili o'rganishdagi xato» (с иконками флагов США и другой страны); девушка со смартфоном в руке в ресторане/лаунже, затем на фоне современного здания (кампус)",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Birpaytlar ingilis dil digaplashki o'daam topolmaganim uchun tel o'ganishmiga o'ylar, balki yillarga chuzilgan.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "статус"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:05] Bugun dunyonin topun yusitlaridan barada 100-200 grand bulan o'qiman, va turli davratlarga sayokat qal yapman.",
+    "timecode": "00:05"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:27] En kopdi oqqan fokusasi yasa, AI bilanchiksiz ingilishchada sukbat qilish imkon yadim.",
+    "timecode": "00:27"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "RO'YXATDAN O'TISH"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "ученик"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Личный отзыв девушки (новый типаж — не встречается в других роликах пачки): раньше не могла найти собеседника для практики, теперь учится в дорогом зарубежном университете (сумма «100-200 grand» = 100–200 тысяч долларов по расшифровке, кадром не подтверждена) и путешествует; решение — Englify с ИИ-собеседником без ограничений. Текст объявления называет «teacherazam» как автора уроков в приложении, но сама героиня — ученица/бенефициар (говорит «мен» о своём опыте), а не преподаватель, поэтому public_name не проставляю, роль «ученик». Расшифровка сильно искажена (черновая), сумму денег не привожу как точный факт."
+}

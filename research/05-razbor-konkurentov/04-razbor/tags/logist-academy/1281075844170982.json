@@ -1,0 +1,73 @@
+{
+ "creative_id": "1281075844170982",
+ "platform": "meta",
+ "school_id": "logist-academy",
+ "format": {
+  "type": "картинка",
+  "duration_bucket": "не видео",
+  "aspect": "4:5"
+ },
+ "style": [
+  "статичный дизайн"
+ ],
+ "hook": {
+  "verbatim": "TIF SOHASIDA OYIGA 1300$ va undan ortiq daromad qilishni xohlaysanmi?",
+  "types": [
+   "вопрос",
+   "результат или доход",
+   "цифра"
+  ],
+  "visual": [
+   "крупный текст",
+   "логотип бренда",
+   "лицо в первом кадре"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: заголовок «TIF SOHASIDA OYIGA 1300$ va undan ortiq daromad qilishni xohlaysanmi?»; сток-фото улыбающегося мужчины в костюме; лого LOGIST ACADEMY сверху слева"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "статус"
+  ],
+  "income_claim": "Oyiga 1300$ va undan ortiq",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: «Oyiga 1300$ va undan ortiq daromad qilishni xohlaysanmi?»"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "TIF sohasida katta daromad va barqaror martaba istaganlar uchun eng yaxshi imkoniyat!"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Qo'ng'iroq qiling: 📞 +998 95 101 58 88 📲 Yoki hoziroq direktga yozing — kelajagingizni bugundan boshlang!"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Apply now",
+  "in_creative": "написать в директ",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "никого"
+ },
+ "language": "смешанный",
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Пиксель-в-пиксель та же картинка и тот же текст объявления, что и в 2225112211355851 (а также в 2085403345652231 и 2294784331274260) — школа перезапускает один и тот же имидж-креатив под новыми library_id (copies_max у части этих карточек 3-5). Разметка идентична карточке 2225112211355851, см. её notes для деталей по неоднозначным полям."
+}

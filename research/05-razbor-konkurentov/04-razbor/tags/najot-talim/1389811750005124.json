@@ -1,0 +1,70 @@
+{
+ "creative_id": "1389811750005124",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": ">120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "6 yil Moskvada ishladim.",
+  "types": [
+   "история",
+   "цифра"
+  ],
+  "visual": [
+   "крупный текст",
+   "лицо в первом кадре"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–0.5s: чёрно-белая съёмка «под камеру» (REC/ISO/F1.8), надпись «6 yil Moskvada» поверх мужчины"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "Rossiyada ishlab, Najot Ta'limga o'qish uchun keldim ⚡️ 6 yil Moskvada ishlab kelgan o'quvchimiz Husniddin..."
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость",
+   "для регионов"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "6 yil Moskvada ishlab kelgan o'quvchimiz Husniddin hozirda Farg'ona filialimizda Grafik Dizayn kursida o'qiydi."
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~1.0s: плашка «NAJOT TA'LIM markazi — Farg'ona filial — 78-888-9-888»"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Visit Instagram profile",
+  "in_creative": "слово в комментарии",
+  "destination": "Instagram",
+  "funnel_stage": "директ"
+ },
+ "speaker": {
+  "role": "ученик"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "Отзыв ученика Husniddin (Farg'ona filiali, Grafik Dizayn), имя не выношу в speaker. Хук почти дословно повторяет заголовок текста объявления про 6 лет работы в Москве — надёжный источник (кадр). История о трудовом мигранте, вернувшемся учиться, вместо продолжения работы за рубежом — хорошо ложится на «доверие и окупаемость» (стоило вернуться ради обучения). Расшифровка на 109 с сильно искажена и почти не поддаётся уверенной цитате за пределами хука, поэтому confidence низкая. Оффера нет, призыв — «➕» в комментариях."
+}

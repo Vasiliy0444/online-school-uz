@@ -1,0 +1,75 @@
+{
+  "creative_id": "1678596329886775",
+  "platform": "meta",
+  "school_id": "hbs-academy",
+  "format": {
+    "type": "динамическое (DCO)",
+    "duration_bucket": "31–60 с",
+    "aspect": "9:16"
+  },
+  "style": ["говорящая голова"],
+  "hook": {
+    "verbatim": "Hammamiz farzandimizning eng yaxshi universitetda o'qishini yoki nufuzli kompaniyalarda ishlashini xohlaymiz, to'g'rimi?",
+    "types": ["вопрос", "обращение к сегменту"],
+    "visual": ["движение или смена кадра"],
+    "evidence": [
+      {
+        "source": "кадр без текста",
+        "quote": "sheet_hook.jpg 0.0s–0.5s: мужчина со спины ведёт двоих детей за руки; далее быстрая смена семейных фото (дети с грамотой, малыш в выпускной шапочке, фото на ноутбуке)",
+        "timecode": "00:00"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_hook.jpg 1.0s: eng yaxshi; 1.5s: universitetda; 2.0s: o'qishi",
+        "timecode": "00:01"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Hammamiz farzantimizin en yakshi universiteti o'qishi,\n[00:02] yaki nufuzli kampanyayla da ishlaishini xaxilayimiz, toqrami?",
+        "timecode": "00:00"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["доход", "стабильность"],
+    "income_claim": "har oyda 200 dollardan investitsiya qilib, o'rtacha 20% hisoblaganda 5 yildan keyin +18000 dollar, 10 yildan keyin esa 60000 dollar atrofida",
+    "evidence": [
+      {
+        "source": "расшифровка",
+        "quote": "Mesalan, xar ayda aksiya bazariga 200 dolardan invensiya qili borsanigiz\n[00:27] ba urtachaf ayda gana 20% xisabladigan borsayib,\n[00:30] 5 yillan kin plus 18000 dolar,\n[00:32] 10 yillan kin isa 60000 dolar atrafida bolardib.",
+        "timecode": "00:23"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Farzantizi kirijigiy uchun,\n[00:36] xazirdan invensiya qilisda borslayin.",
+        "timecode": "00:35"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:26: investitsiya; ~0:37: hozirdan",
+        "timecode": "00:26"
+      },
+      {
+        "source": "текст объявления",
+        "quote": "Qo'shimcha daromad qilishni istaysizmi? 💰"
+      }
+    ]
+  },
+  "offer": {
+    "items": ["без оффера"]
+  },
+  "cta": {
+    "button": "Sign up",
+    "in_creative": "перейти по ссылке",
+    "destination": "форма Meta",
+    "funnel_stage": "основной продукт"
+  },
+  "speaker": {
+    "role": "основатель или эксперт"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": true,
+  "risk": true,
+  "confidence": "средняя",
+  "notes": "DCO: видеовариант + несколько вариантов текста объявления (все про инвестиции и трейдинг «noldan», «Joylarni band qiling» без явного лимита — оффер не отмечен). Хук: ключевые слова на кадрах + полная фраза по расшифровке, написание исправлено. Спикер — мужчина в бежевой куртке, в начале его семейные фото с детьми; объясняет расчёт доходности как эксперт, имя не звучит. Суммы по расшифровке, написание исправлено; период ставки неразборчив («urtachaf ayda gana 20%»), но 18 000 $ за 5 лет и ~60 000 $ за 10 лет сходятся с 20% годовых. Это прогноз роста вложений ученика — записан в income_claim. Упоминаются акции и крипто («aksiya ve kripto sahasi», 00:17) → risk. Призыв: «pastagi xalqaliga basayin» (00:40), ссылка — мгновенная форма. Перевод хука: «Все мы хотим, чтобы наш ребёнок учился в лучшем университете или работал в престижной компании, верно?»"
+}

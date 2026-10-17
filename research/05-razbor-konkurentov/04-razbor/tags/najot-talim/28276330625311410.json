@@ -1,0 +1,73 @@
+{
+ "creative_id": "28276330625311410",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": ">120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "Instagramdan foydalanasizmi? — O'chirib yuborganman. Qarsak chalib qo'yinglar shu...",
+  "types": [
+   "вопрос",
+   "история"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: субтитры «Instagramdan» → «foydalanasizmi o'chirib» → «yuborganman qarsak» → «chalib qo'yinglar shu» поверх собеседника в тёмной толстовке",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Instagram faydalan nasim?\n[00:00] Ujir vargim.\n[00:01] Rasta.\n[00:01] Karsay chak uaylo, shu yitki.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "статус",
+   "свой бизнес"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Googleda, Facebook, Amazonlarda ishlayman... Qahramonimiz shundoq ham top universitet va kompaniyalarni maqsad qilgan..."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:35] En kambida startuplar yukoshilish tavsiyaqlaman",
+    "timecode": "00:35"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Visit Instagram profile",
+  "in_creative": "слово в комментарии",
+  "destination": "Instagram",
+  "funnel_stage": "директ"
+ },
+ "speaker": {
+  "role": "основатель или эксперт",
+  "public_name": "Temurbek Adhamov"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "низкая",
+ "notes": "Видео с канала-отзывов «najottalim_talabalari»: интервью-беседа собеседника в тёмной толстовке с мужчиной в бежевом поло (тот же типаж «съёмки под камеру», что и в 1617350793344143 и 1087002090576562). Текст объявления прямо называет мужчину, дающего советы, основателем — «asoschimiz Temurbek Adhamov», поэтому public_name указан именно для этой карточки (в кадре и назван, по инструкции); в самом ролике имя вслух/на кадре не звучит — атрибуция только по ad_text. Хук — вопрос об Instagram и ответ, что аккаунт удалён, с шуточным «qarsak chalib qo'yinglar» (похлопайте); дальше по расшифровке — разговор о нацеленности на топ-университеты, международные компании (Google/Facebook/Amazon), стартапы, комьюнити, наставников. Расшифровка на 155 секунд крайне искажена и с большим вырезанным куском [...], поэтому confidence низкая, часть смысловых тегов — по интерпретации общей канвы разговора, а не дословных цитат. Оффера нет, призыв — комментарий «➕»."
+}

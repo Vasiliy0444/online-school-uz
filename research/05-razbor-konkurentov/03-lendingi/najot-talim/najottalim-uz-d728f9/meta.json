@@ -1,0 +1,18 @@
+{
+ "school_id": "najot-talim",
+ "url": "https://najottalim.uz/",
+ "sources": "crtsh | site:sitemap | telegram:najottalim | wayback",
+ "first_seen": "2020-12-08",
+ "last_seen": "2026-06-13",
+ "stage_auto_url": "",
+ "is_archive": false,
+ "snapshot_at": "2026-09-16T19:48:07+00:00",
+ "live_status": 200,
+ "final_url": "https://najottalim.uz/",
+ "title": "Najot Taʼlim — Zamonaviy AyTi taʼlim markazi",
+ "screenshot": "/Users/Bel-a/Data/online-shkola-uz/05-razbor-konkurentov/lendingi/najot-talim/najottalim-uz-d728f9/screenshot-mobile.jpg",
+ "stage_auto": "лид-магнит",
+ "stage_reason": "текст страницы",
+ "text_chars": 21347,
+ "reshot_at": "2026-09-17T00:27:04+00:00"
+}

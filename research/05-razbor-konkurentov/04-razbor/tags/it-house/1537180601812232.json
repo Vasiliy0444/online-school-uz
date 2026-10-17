@@ -1,0 +1,90 @@
+{
+ "creative_id": "1537180601812232",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "постановка или скетч",
+  "запись экрана"
+ ],
+ "hook": {
+  "verbatim": "Faqat uydagilardan pul so'rab yurish jonizga tegdimi?",
+  "types": [
+   "боль",
+   "вопрос"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "деньги или результат на экране"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: девушка держит пачку купюр, субтитр «faqat uydagilardan pul so'rab yurish jonizga tegdimi?»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Fakat, uydagilardan pul sorabirus, canizgit eydimi?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта"
+  ],
+  "income_claim": "AutoCAD o'rganing – $700–800 oylik daromad (текст объявления); в ролике — вакансии «interyer dizaynerlar» на hh.uz «400 dolardan 1200 dolargacha»",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈0:11): значок «hh», «headhunter vakansiyalari saytida»",
+    "timecode": "00:11"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:11] interior designerlar uchun kampanyalar 400 dolordan 1200 dolorgache toleshke tayyor.",
+    "timecode": "00:11"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 1 из 4 (≈0:04): «o'zingni rasxodlarizni o'ziz yopib»",
+    "timecode": "00:04"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈0:27): «mutlaqo bepul ochiq dars bo'lib o'tadi»",
+    "timecode": "00:27"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Ещё один вариант шаблона AutoCAD/hh.uz (см. 1091042456797892, 1388249096753064): хук здесь — про финансовую независимость (девушка с деньгами в кадре), середина — та же вакансия «interyer dizayner» с hh.uz, концовка — «mutlaqo bepul ochiq dars»."
+}

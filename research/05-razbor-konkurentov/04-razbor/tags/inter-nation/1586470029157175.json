@@ -1,0 +1,59 @@
+{
+ "creative_id": "1586470029157175",
+ "platform": "meta",
+ "school_id": "inter-nation",
+ "format": {
+  "type": "картинка",
+  "duration_bucket": "не видео",
+  "aspect": "4:5"
+ },
+ "style": [
+  "статичный дизайн"
+ ],
+ "hook": {
+  "verbatim": "IELTS-X: IELTS'dan yuqori natijaga tayyorlovchi noyob dastur",
+  "types": [
+   "результат или доход"
+  ],
+  "visual": [
+   "крупный текст",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: три сложенные жёлтые папки «IELTS-X», заголовок «IELTS-X — IELTS'dan yuqori natijaga tayyorlovchi noyob dastur», внизу «Quyidagi havola orqali o'ting va Ingliz tili kurslarimizga yoziling»"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доверие и окупаемость"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "U IELTS 9.0 natijasiga ega ekspertlar, native speakerlar va CELTA sertifikatiga ega o'qituvchilar tomonidan ishlab chiqilgan"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "перейти по ссылке",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "никого"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": false,
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Статичный предметный кадр (три папки IELTS-X), текст объявления совпадает с видео 1499909571833116 — тот же оффер программы в формате картинки."
+}

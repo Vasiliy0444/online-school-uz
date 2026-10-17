@@ -1,0 +1,9 @@
+node_modules/
+# Генерируются scripts/build-pages.mjs из src/template.html
+/index.html
+/privacy/
+# Отчёты и скриншоты проверок
+/qa-report/
+.DS_Store
+# Галерея Superdesign — собирается командой superdesign_gallery
+/superdesign/gallery.html

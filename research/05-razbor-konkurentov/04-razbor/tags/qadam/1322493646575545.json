@@ -1,0 +1,119 @@
+{
+ "creative_id": "1322493646575545",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова"
+ ],
+ "hook": {
+  "verbatim": "…o'quvchimiz drel va shurupovyortlar sotib, bir oy davomida 360 million savdo aylanmasi qildi.",
+  "types": [
+   "соцдоказательство",
+   "результат или доход",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "таймер или обратный отсчёт"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s: таймер «00:35», «21+»; мужчина в костюме говорит в камеру",
+    "timecode": "00:00"
+   },
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.5s–1.5s: иконки дрели и шуруповёрта поверх кадра",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 2.0s–2.5s: «1 OY DAVOMIDA»",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Dog uqchimiz drill va shurpa yurlarik satib,",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:02] bu ay davamida 360 milyon sauda aylanmasi qildi.",
+    "timecode": "00:02"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "свой бизнес",
+   "доход",
+   "без опыта"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Uzumda o'z biznesingizni xavf-xatarsiz yo'lga qo'ying!"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:20] sizga dokon ochisdan boshlab, daromatli",
+    "timecode": "00:20"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:28] noldan orgatib baramiz.",
+    "timecode": "00:28"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 3 из 4 (≈00:23): «MAHSULOTLARNI TANLAB», летящие купюры",
+    "timecode": "00:23"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:34] va uzun marketta daramatqilishni biz bilan boshlayin.",
+    "timecode": "00:34"
+   }
+  ],
+  "revenue_claim": "bir oy davomida 360 million savdo aylanmasi (ученик; сумма только по черновой расшифровке, кадром подтверждено «1 OY DAVOMIDA»); 5 milliarddan ortiq savdo aylanmasi (автор курса о себе, по расшифровке)"
+ },
+ "offer": {
+  "items": [
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈00:32): «JOYLAR SONI CHEKLANGAN»",
+    "timecode": "00:32"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:31] lekin jawlar sonni chekilangya.",
+    "timecode": "00:31"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "основатель или эксперт",
+  "public_name": "Sarvar Xayrullayev"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук по расшифровке, написание исправлено («drill va shurpa yurlarik satib, bu ay davamida 360 milyon sauda aylanmasi qildi» → «drel va shurupovyortlar sotib, bir oy davomida 360 million savdo aylanmasi qildi»); первое слово «Dog» неразборчиво, заменено на «…». Кадрами подтверждены иконки дрели и шуруповёрта и «1 OY DAVOMIDA»; сумма 360 млн — только по расшифровке, разряды не проверены. Это оборот ученика, не доход. [00:04] «Agar siz ham Uzum Marketda savdo qilishni xohlasangiz, videoni oxirigacha ko'ring». Спикер [00:08–00:18]: «Man khayrlayog Sarvab. Marketplacelarda 5 milyarddan oshok sauda aylanmasiki ege bogan sot uchik soblanima» = «Men Xayrullayev Sarvar … sotuvchi hisoblanaman» (на кадре 2 из 4 — «SOTUVCHI HISOBLANAMAN»), «uch yillik tajribamni … bitta amaliy kursga yig'dim» → «основатель или эксперт». Курс — от открытия магазина и выбора прибыльных товаров до автоматизации, с нуля. Призыв [00:33]: «Hoziroq ariza qoldiring va Uzum Marketda daromad qilishni biz bilan boshlang» (написание исправлено). Та же структура ролика, что у 742177388962148."
+}

@@ -1,0 +1,71 @@
+{
+  "finish_when_done": true,
+  "yadisk": [
+    {
+      "course": "dymshakov",
+      "public_key": "https://disk.yandex.ru/d/TKrkqyopySGL_g",
+      "path": "/04. Протипирование"
+    }
+  ],
+  "youtube": [
+    {
+      "course": "timochko",
+      "url": "https://www.youtube.com/watch?v=fA9yVLT3ZSE"
+    }
+  ],
+  "telegram_files": [
+    {
+      "course": "dymshakov",
+      "pattern": "Идеальный_продукт",
+      "ext": ".pdf"
+    }
+  ],
+  "telegram_videos": [
+    {
+      "course": "dymshakov",
+      "name": "Блок 2. Идеальный продукт и продуктовая линейка",
+      "duration": 6068,
+      "size_mb": 485.5
+    },
+    {
+      "course": "timochko",
+      "name": "Урок 02 — Пишем большое обещание курса",
+      "duration": 105.27,
+      "tolerance_s": 2
+    },
+    {
+      "course": "timochko",
+      "name": "Урок 09 — Продуктовая линейка",
+      "duration": 779.71,
+      "tolerance_s": 2
+    },
+    {
+      "course": "timochko",
+      "name": "Урок 10 — Кради как художник у конкурентов",
+      "duration": 373.87,
+      "tolerance_s": 2
+    },
+    {
+      "course": "timochko",
+      "name": "Урок 11 — Продающий сайт, финал упаковки продукта",
+      "duration": 1260.5,
+      "tolerance_s": 2
+    },
+    {
+      "course": "timochko",
+      "name": "Урок 13 — Продающая часть вебинара",
+      "duration": 1210.07,
+      "tolerance_s": 2
+    }
+  ],
+  "watch_folders": [
+    {
+      "course": "timochko",
+      "path": "~/Downloads/Тимочко — модуль 2"
+    },
+    {
+      "course": "timochko",
+      "path": "~/Desktop/CURSOR/БИЗНЕС/Онлайн школа УЗ/research/07-prototip-produkta/timochko/_audio"
+    }
+  ]
+}

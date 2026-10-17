@@ -1,0 +1,255 @@
+/* Общие элементы системы edgroup: шрифт заголовков, H1/H2, надзаголовок, кнопка со срезанным углом, места под картинки, отступы секций, липкая кнопка.
+   Сначала телефон, с 960 px — десктоп (артборд Tilda 1200). Замеры — DESIGN.md. */
+
+/* Компоненты по образцу edgroup.biz/mk_telegram. Сначала телефон, с 960 px — десктоп (артборд Tilda 1200).
+   Размеры в комментариях «у образца» сняты с живой страницы 28.09.2026, см. DESIGN.md. */
+/* ── Шрифт заголовков (Druk Cyr у образца) ─────────────────────────────── */
+.h1,
+  .h2,
+  .btn,
+  .info-tab__value,
+  .bonus__label,
+  .host__name,
+  .fact__num,
+  .portrait__name,
+  .footer__logo,
+  .slot__title {
+  font-family: var(--font-display);
+  font-weight: var(--display-weight);
+  letter-spacing: var(--display-tracking);
+  text-transform: uppercase;
+  font-synthesis: none;
+}
+
+.h1 {
+  margin: 0;
+  font-size: 45px;
+  line-height: 41px;
+}
+
+.h2 {
+  margin: 0;
+  font-size: 40px;
+  line-height: 36px;
+  color: var(--ink);
+}
+
+.h2--center {
+  text-align: center;
+}
+
+.hl {
+  color: var(--blue);
+}
+
+.hl--cyan {
+  color: var(--cyan);
+}
+
+/* Надзаголовок: «● МАСТЕР-КЛАСС ОТ …» */
+.eyebrow {
+  margin: 0;
+  text-wrap: balance;
+  font-size: 10px;
+  line-height: 15px;
+  font-weight: 500;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+}
+
+/* ── Кнопка: 310×80, правый нижний угол срезан на 21 px ────────────────── */
+.btn {
+  --btn-bg: var(--blue);
+  --btn-fg: var(--white);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.3em;
+  width: 100%;
+  max-width: 310px;
+  min-height: 80px;
+  padding: 8px 24px;
+  border-radius: var(--radius-btn);
+  background: var(--btn-bg);
+  color: var(--btn-fg);
+  font-size: 30px;
+  line-height: 1;
+  text-align: center;
+  text-decoration: none;
+  clip-path: polygon(0 0, 100% 0, 100% calc(100% - var(--cut-btn)), calc(100% - var(--cut-btn)) 100%, 0 100%);
+  transition: filter 0.2s ease;
+}
+
+.btn:hover {
+  filter: brightness(1.06);
+}
+
+/* Обводка фокуса обрезалась бы по срезанному углу, поэтому рисуем её внутри */
+.btn:focus-visible {
+  outline: none;
+  box-shadow: inset 0 0 0 3px var(--ink);
+}
+
+.btn--white {
+  --btn-bg: var(--white);
+  --btn-fg: var(--blue);
+}
+
+.cta {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  margin-top: 40px;
+}
+
+.cta__note {
+  margin: 0;
+  max-width: 310px;
+  font-size: 12px;
+  line-height: 19px;
+  color: var(--muted);
+  text-align: center;
+}
+
+/* ── Места под фото и скриншоты ─────────────────────────────────────────── */
+.slot {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+img.slot {
+  object-fit: cover;
+}
+
+.slot--empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 20px;
+  border: 2px dashed currentColor;
+  text-align: center;
+}
+
+.slot__title {
+  font-size: 22px;
+  line-height: 22px;
+}
+
+.slot__hint {
+  max-width: 220px;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+/* ── Секции ─────────────────────────────────────────────────────────────── */
+.section {
+  padding-block: 80px 40px;
+}
+
+.final {
+  padding-block: 80px;
+}
+
+/* ── Липкая кнопка на телефоне и подсказка ──────────────────────────────── */
+.sticky-cta {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: calc(12px + env(safe-area-inset-bottom));
+  z-index: 50;
+  display: flex;
+  justify-content: center;
+  padding: 0 12px;
+  transform: translateY(160%);
+  transition: transform 0.35s ease;
+  pointer-events: none;
+}
+
+.sticky-cta.is-visible {
+  transform: none;
+  pointer-events: auto;
+}
+
+.btn--sticky {
+  max-width: 420px;
+  min-height: 64px;
+  font-size: 26px;
+}
+
+.toast {
+  position: fixed;
+  left: 50%;
+  top: calc(16px + env(safe-area-inset-top));
+  z-index: 60;
+  width: max-content;
+  max-width: calc(100vw - 32px);
+  padding: 12px 18px;
+  border-radius: var(--radius-btn);
+  transform: translateX(-50%);
+  background: var(--ink);
+  color: var(--white);
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.toast[hidden] {
+  display: none;
+}
+
+@media (min-width: 960px) {
+  .h1 {
+    font-size: 60px;
+    line-height: 54px;
+  }
+
+  .h2 {
+    font-size: 60px;
+    line-height: 54px;
+  }
+
+  .eyebrow {
+    font-size: 12px;
+    line-height: 19px;
+    letter-spacing: 3px;
+  }
+
+  .eyebrow--play {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  /* Белый кружок с синим треугольником «play» */
+  .eyebrow--play::before {
+    content: '';
+    flex: none;
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    background: var(--white) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 6 6'%3E%3Cpath d='M1.6 1 5 3 1.6 5z' fill='%234ba1ff'/%3E%3C/svg%3E") center / 6px no-repeat;
+  }
+
+  .btn {
+    width: auto;
+    min-width: 310px;
+    max-width: none;
+    padding: 0 32px;
+  }
+
+  .cta {
+    align-items: flex-start;
+  }
+
+  .cta--center {
+    align-items: center;
+  }
+
+  .sticky-cta {
+    display: none;
+  }
+}

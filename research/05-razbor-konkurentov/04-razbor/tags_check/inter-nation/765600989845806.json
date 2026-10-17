@@ -1,0 +1,59 @@
+{
+  "creative_id": "765600989845806",
+  "platform": "meta",
+  "school_id": "inter-nation",
+  "format": {
+    "type": "видео",
+    "duration_bucket": "≤15 с",
+    "aspect": "9:16"
+  },
+  "style": ["говорящая голова"],
+  "hook": {
+    "verbatim": "International School Andijon filialida barcha bosqichlar bo'yicha qabullarimiz davom etyapti.",
+    "types": ["новость"],
+    "visual": ["лицо в первом кадре", "логотип бренда"],
+    "evidence": [
+      {
+        "source": "расшифровка",
+        "quote": "International School Anjan filialda barchi basqishbo icha khabularimiz domayt yaqti.",
+        "timecode": "00:00"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_hook.jpg 0.0s–2.5s: логотип inter nation english school на стене за спикером с бейджем ADMINISTRATION; субтитров нет",
+        "timecode": "00:00"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["для регионов"],
+    "evidence": [
+      {
+        "source": "расшифровка",
+        "quote": "International School Anjan filialda barchi basqishbo icha khabularimiz domayt yaqti.",
+        "timecode": "00:00"
+      },
+      {
+        "source": "текст объявления",
+        "quote": "INTER NATIONning Andijon filialida barcha darajadagi ingliz tili kurslariga qabul boshlandi!"
+      }
+    ]
+  },
+  "offer": {
+    "items": ["без оффера"]
+  },
+  "cta": {
+    "button": "Sign up",
+    "in_creative": "заполнить форму",
+    "destination": "лендинг",
+    "funnel_stage": "основной продукт"
+  },
+  "speaker": {
+    "role": "актёр или ведущий"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": false,
+  "risk": false,
+  "confidence": "средняя",
+  "notes": "Ролик 7 с: хук и весь текст только в речи — по расшифровке, написание исправлено. Спикер с бейджем ADMINISTRATION в зале школы, как основатель или эксперт не представлен. Смысл — идёт набор на все уровни в Андижанском филиале; «для регионов» — ближайшее значение, других смыслов нет. Призыв: «Khaziro, khawala damroqatna oti» (00:04) = «Hoziroq havola orqali ro'yxatdan o'ting» — зовёт зарегистрироваться → «заполнить форму» (неоднозначно с «перейти по ссылке»). В тексте объявления есть телефон 78 777 7707. Ссылка inter-nation.uz/l/instagram_andijan — свой домен. Перевод хука: «В Андижанском филиале International School продолжается набор на все уровни»."
+}

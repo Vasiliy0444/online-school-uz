@@ -1,0 +1,87 @@
+{
+ "creative_id": "1113177281137576",
+ "platform": "meta",
+ "school_id": "bir-group",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "съёмка на телефон"
+ ],
+ "hook": {
+  "verbatim": "Agar siz bu yil ham universitetga kira olmagan bo'lsangiz...",
+  "types": [
+   "боль",
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: мужчина с бородой снимает себя на телефон на фоне неба; субтитры «AGAR SIZ BU YIL» → «HAM UNIVERSITETGA» → «KIRA OLMAGAN» → «BO'LSANGIZ»; во втором ряду — рука крупным планом заполняет бланк теста (кружки-ответы)",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Agar siz bu ilam universiteti kiramayam bo sez, reyedir, rasiye kitish, o'qish yi kanagadur basqa ish lan qilish bose, halam kechamaz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для студентов",
+   "профессия будущего"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:11] Bize de bir talim granti bar, iki aili o'qish, yetisli o'qish, zamanami kaspli hamase, targetin, dizayn, mablografi, videografi, sato menajirli, suni intelikt, ve rabat texniki o'qishlardi.",
+    "timecode": "00:11"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:39: спикер на фоне здания, оверлей-бейдж «Bir Ta'lim Grafik Dizayn» с иконками Ps/Ai/Pr, подпись «O'ZINGIZNI DARAJANGIZNI»",
+    "timecode": "00:39"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Buning uchun 500 ta grant ajratilgan. 25-sentabr kuni onlayn taqdimot bo'lib o'tadi."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:29] qalisi 25 centiya burkunu\n[00:32] Telegram kanalini zi jannli efer bovotadi",
+    "timecode": "00:29"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук по кадру («AGAR SIZ BU YIL HAM UNIVERSITETGA KIRA OLMAGAN BO'LSANGIZ») точнее сильно искажённой расшифровки; во втором ряду хук-кадров — крупный план бланка теста с кружками-ответами и заполняющей его рукой, визуально усиливает тему непоступления в вуз. Сегмент — не поступившие в университет, ближайший тег схемы — «для студентов». Концовка ролика в расшифровке ([00:38–00:43] «...xozira padrobni tukmasini basin va rohqatni otin» ≈ «hozir tugmani bosing va ro'yxatdan o'ting») НЕ повторяет слово «Telegram» явно, в отличие от большинства роликов пачки — просто зовёт нажать кнопку и «зарегистрироваться». Классифицирую in_creative как Telegram по более ранней реплике [00:29–00:35] о прямом эфире именно в Telegram-канале 25 сентября и по тексту объявления — это отдельное от типового расхождение, отмечаю его специально. Link_url при этом всё равно ведёт на лендинг bir-group-webinar.vercel.app, а не в t.me. В обзорных кадрах — вставка со стройки (рабочий в каске) и бейдж «Bir Ta'lim Grafik Dizayn»: визуально акцент на одном направлении (графдизайн), хотя реплика говорит про все направления сразу."
+}

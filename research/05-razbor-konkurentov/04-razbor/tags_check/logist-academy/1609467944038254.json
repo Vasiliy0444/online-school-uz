@@ -1,0 +1,81 @@
+{
+  "creative_id": "1609467944038254",
+  "platform": "meta",
+  "school_id": "logist-academy",
+  "format": {
+    "type": "видео",
+    "duration_bucket": "31–60 с",
+    "aspect": "9:16"
+  },
+  "style": ["говорящая голова", "съёмка на телефон"],
+  "hook": {
+    "verbatim": "ENDI OYIGA $2000 - $3000 DIPLOMSIZ VA 18-30 YOSHDA INGLIZ TILINI BILSANGIZ",
+    "types": ["результат или доход", "цифра", "обращение к сегменту"],
+    "visual": ["лицо в первом кадре", "крупный текст", "деньги или результат на экране"],
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_hook.jpg 0.0s–2.5s: ENDI OYIGA $2000 - $3000 DIPLOMSIZ VA 18-30 YOSHDA INGLIZ TILINI BILSANGIZ (плашка-заголовок над селфи-видео)",
+        "timecode": "00:00"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Ular ishla yapdi.\n[00:02] Ular aygi 2000-3000-5000$ liyadchi.",
+        "timecode": "00:00"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["доход", "без опыта", "быстрый старт"],
+    "income_claim": "OYIGA $2000 - $3000; oyiga 2000-3000-5000 dollar olyapti; Oylik daromad: 10.000.000 dan 30.000.000 so'mgacha",
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "sheet_overview.jpg ~0:06–0:31: плашка ENDI OYIGA $2000 - $3000 DIPLOMSIZ VA 18-30 YOSHDA INGLIZ TILINI BILSANGIZ",
+        "timecode": "00:06"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Diplomun ariyam yok.",
+        "timecode": "00:22"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "Hich kanaka IELTS sertifikat ham keremaz.",
+        "timecode": "00:26"
+      },
+      {
+        "source": "расшифровка",
+        "quote": "birayda ammida uzumsilayga, yaxshilay lagi iskani orqatama",
+        "timecode": "00:28"
+      },
+      {
+        "source": "текст объявления",
+        "quote": "Bu imkoniyat sizga ham tegishli: 2 oyda o‘rganib, real daromadga chiqish. Oylik daromad: 10.000.000 dan 30.000.000 so'mgacha"
+      }
+    ]
+  },
+  "offer": {
+    "items": ["дедлайн или ограничение мест"],
+    "evidence": [
+      {
+        "source": "текст объявления",
+        "quote": "Joylar: Atigi 10 ta! Bugun ro‘yxatdan o‘tmasangiz, ertaga joy qolmasligi mumkin."
+      }
+    ]
+  },
+  "cta": {
+    "button": "Sign up",
+    "in_creative": "заполнить форму",
+    "destination": "форма Meta",
+    "funnel_stage": "основной продукт"
+  },
+  "speaker": {
+    "role": "основатель или эксперт"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": false,
+  "risk": true,
+  "confidence": "средняя",
+  "notes": "Хук — плашка-заголовок на кадрах (держится минимум до ~0:31, к ~0:44 исчезает); первая фраза речи — «Ular ishlayapti. Ular oyiga 2000-3000-5000 dollar olyapti» (по расшифровке, написание исправлено). Селфи-съёмка, сплошных субтитров нет → burned_subtitles false. Спикер (похоже, тот же, что в 1756158795421697) рассказывает об учениках академии 19–21 года с доходом 2000–3000 $ и обещает «o'zimiz… logistikani o'rgatamiz… dispatch, update yo'nalishlaridan bittasiga ishga qo'yib qo'yamiz» (00:28, разобрано неуверенно); в конце условие «yaxshi o'rganadigan bo'lsangiz» — «гарантия» не отмечена. Роль по подаче (говорит от лица академии как руководитель), имя не звучит. «без опыта» — ближайшее значение для «без диплома и IELTS». «быстрый старт» — «bir oy davomida» (по расшифровке) и «2 oyda» (текст объявления). Призыв: «pastegi tudumarkali roxatdan otin, tolu orham alimad veramiz» (00:44) ≈ «pastdagi tugma orqali ro'yxatdan o'ting, to'liq ma'lumot beramiz». risk: доход 2000–3000 $ в месяц без диплома после 1–2 месяцев. Перевод хука: «Теперь 2000–3000 $ в месяц — без диплома, в 18–30 лет, если знаете английский»."
+}

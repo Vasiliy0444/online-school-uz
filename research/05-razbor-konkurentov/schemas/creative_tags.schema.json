@@ -1,0 +1,375 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Теги одного креатива (Meta или Google)",
+  "description": "Агент заполняет по кадрам хука, обзорным кадрам, расшифровке и тексту объявления. Числа и доли считает aggregate.py, не агент. У каждого содержательного тега — доказательство: цитата из текста объявления, текст на кадре (имя файла кадра) или фрагмент расшифровки с таймкодом.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "creative_id",
+    "platform",
+    "school_id",
+    "format",
+    "style",
+    "hook",
+    "meaning",
+    "offer",
+    "cta",
+    "speaker",
+    "language",
+    "confidence"
+  ],
+  "$defs": {
+    "evidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "source",
+        "quote"
+      ],
+      "properties": {
+        "source": {
+          "enum": [
+            "текст объявления",
+            "текст на кадре",
+            "расшифровка",
+            "кадр без текста"
+          ]
+        },
+        "quote": {
+          "type": "string",
+          "description": "дословно; для кадра — имя файла и что на нём"
+        },
+        "timecode": {
+          "type": "string",
+          "description": "MM:SS для расшифровки и кадров"
+        }
+      }
+    }
+  },
+  "properties": {
+    "creative_id": {
+      "type": "string",
+      "description": "library_id Meta (представитель креатива) или creative_id Google"
+    },
+    "platform": {
+      "enum": [
+        "meta",
+        "google"
+      ]
+    },
+    "school_id": {
+      "type": "string"
+    },
+    "ad_goal": {
+      "enum": [
+        "продажа обучения",
+        "найм сотрудников",
+        "другое"
+      ],
+      "description": "цель объявления; без поля — продажа обучения. Найм в доли по курсам не входит"
+    },
+    "format": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "type"
+      ],
+      "properties": {
+        "type": {
+          "enum": [
+            "видео",
+            "картинка",
+            "карусель",
+            "динамическое (DCO)",
+            "текстовое (Google)"
+          ]
+        },
+        "duration_bucket": {
+          "enum": [
+            "≤15 с",
+            "16–30 с",
+            "31–60 с",
+            "61–120 с",
+            ">120 с",
+            "не видео"
+          ]
+        },
+        "aspect": {
+          "enum": [
+            "9:16",
+            "4:5",
+            "1:1",
+            "16:9",
+            "другое",
+            "неизвестно"
+          ]
+        }
+      }
+    },
+    "style": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "enum": [
+          "говорящая голова",
+          "съёмка на телефон",
+          "запись экрана",
+          "слайды или текст на экране",
+          "отзыв ученика",
+          "уличный опрос",
+          "нарезка эфира или подкаста",
+          "анимация",
+          "сток",
+          "постановка или скетч",
+          "статичный дизайн",
+          "реакция или разделённый экран"
+        ]
+      }
+    },
+    "hook": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "verbatim",
+        "types",
+        "evidence"
+      ],
+      "properties": {
+        "verbatim": {
+          "type": "string",
+          "description": "речь 0–3 с и/или текст на первых кадрах, дословно; для картинки — главный заголовок"
+        },
+        "types": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "enum": [
+              "вопрос",
+              "боль",
+              "результат или доход",
+              "цифра",
+              "запрет или ошибка",
+              "история",
+              "соцдоказательство",
+              "авторитет спикера",
+              "событие с датой",
+              "обращение к сегменту",
+              "тренд ИИ",
+              "страх упустить",
+              "бесплатно",
+              "новость"
+            ]
+          }
+        },
+        "visual": {
+          "type": "array",
+          "items": {
+            "enum": [
+              "лицо в первом кадре",
+              "крупный текст",
+              "движение или смена кадра",
+              "таймер или обратный отсчёт",
+              "деньги или результат на экране",
+              "логотип бренда",
+              "логотип площадки (Uzum и т.п.)"
+            ]
+          }
+        },
+        "evidence": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/evidence"
+          }
+        }
+      }
+    },
+    "meaning": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "main",
+        "evidence"
+      ],
+      "properties": {
+        "main": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "enum": [
+              "доход",
+              "удалёнка и свобода",
+              "без опыта",
+              "быстрый старт",
+              "профессия будущего",
+              "стабильность",
+              "для мам",
+              "для студентов",
+              "для регионов",
+              "статус",
+              "свой бизнес",
+              "экономия времени",
+              "страх отстать",
+              "доверие и окупаемость",
+              "без стартового капитала"
+            ]
+          }
+        },
+        "income_claim": {
+          "type": "string",
+          "description": "сумма и период дословно, если есть (это заявление школы — в отчёте со звёздочкой)"
+        },
+        "evidence": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/evidence"
+          }
+        },
+        "revenue_claim": {
+          "type": "string",
+          "description": "оборот или выручка (aylanma, savdo) дословно — не путать с доходом"
+        }
+      }
+    },
+    "offer": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "items"
+      ],
+      "properties": {
+        "items": {
+          "type": "array",
+          "items": {
+            "enum": [
+              "бесплатный вебинар",
+              "бесплатный урок",
+              "лид-магнит (PDF, гайд)",
+              "марафон",
+              "мини-курс",
+              "скидка",
+              "рассрочка",
+              "гарантия",
+              "бонус",
+              "дедлайн или ограничение мест",
+              "цена названа",
+              "консультация",
+              "без оффера"
+            ]
+          }
+        },
+        "price_quote": {
+          "type": "string"
+        },
+        "evidence": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/evidence"
+          }
+        }
+      }
+    },
+    "cta": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "button",
+        "in_creative",
+        "destination"
+      ],
+      "properties": {
+        "button": {
+          "type": "string",
+          "description": "текст кнопки объявления"
+        },
+        "in_creative": {
+          "enum": [
+            "написать в директ",
+            "слово в комментарии",
+            "перейти по ссылке",
+            "бот или канал Telegram",
+            "заполнить форму",
+            "позвонить",
+            "нет призыва",
+            "неизвестно"
+          ]
+        },
+        "destination": {
+          "enum": [
+            "лендинг",
+            "Telegram",
+            "Instagram",
+            "Messenger или WhatsApp",
+            "форма Meta",
+            "приложение",
+            "YouTube",
+            "неизвестно"
+          ]
+        },
+        "funnel_stage": {
+          "enum": [
+            "лид-магнит",
+            "вебинар или мастер-класс",
+            "мини-курс или трипвайер",
+            "основной продукт",
+            "оферта или оплата",
+            "Telegram",
+            "директ",
+            "неизвестно"
+          ]
+        }
+      }
+    },
+    "speaker": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "role"
+      ],
+      "properties": {
+        "role": {
+          "enum": [
+            "основатель или эксперт",
+            "блогер",
+            "ученик",
+            "актёр или ведущий",
+            "голос за кадром",
+            "никого"
+          ]
+        },
+        "public_name": {
+          "type": "string",
+          "description": "только если это публичный человек бренда"
+        }
+      }
+    },
+    "language": {
+      "enum": [
+        "узбекский латиница",
+        "узбекский кириллица",
+        "русский",
+        "смешанный",
+        "без речи"
+      ]
+    },
+    "burned_subtitles": {
+      "type": "boolean",
+      "description": "true — речь дублируется текстом на экране: сплошные субтитры или ключевые слова"
+    },
+    "risk": {
+      "type": "boolean",
+      "description": "нереалистичные обещания, трейдинг, гарантии дохода"
+    },
+    "confidence": {
+      "enum": [
+        "высокая",
+        "средняя",
+        "низкая"
+      ]
+    },
+    "notes": {
+      "type": "string"
+    }
+  }
+}

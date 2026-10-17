@@ -1,0 +1,72 @@
+{
+ "url": "https://qadam.education/dogovor-oferta",
+ "school_id": "qadam",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "оферта или оплата",
+ "promise": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": true,
+  "value": "Физические и юридические лица, индивидуальные предприниматели («Buyurtmachi»)",
+  "quote": "jismoniy va yuridik shaxsga, shuningdek, yakka tartibdagi tadbirkorga jo‘natilgan, bundan keyin “Buyurtmachi” deb yuritiladigan",
+  "where": "оферта"
+ },
+ "program": {
+  "found": false
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [
+   "нет"
+  ]
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "в оферте цен нет: перечень услуг и цены — на сайте qadam.education или в Telegram-канале t.me/qadameducation (первый пункт раздела 1); на страницах курсов цен тоже нет"
+ },
+ "installments": {
+  "found": true,
+  "value": "Напрямую школе — 100% предоплата в течение 3 рабочих дней с даты договора (п. 3.2). Оплата частями или в кредит — только через партнёров школы («Hamkorlar»): заказчик обязан гасить долг по графику независимо от посещения занятий (п. 4.9). О процентах и пенях оферта молчит",
+  "quote": "3.2. To‘lov Buyurtmachi tomonidan Shartnoma tuzilgan kundan boshlab 3 ish kuni ichida o`quv narxining 100% miqdorini oldindan to‘lov orqali amalga oshiriladi.\n…\n4.9. Agar kurslar Buyurtmachi tomonidan Bajaruvchining Hamkorlari orqali kurslar bo‘lib-bo‘lib yoki kredit asosida sotib olingan bo‘lsa, Buyurtmachi kurslarga qatnashuvidan qat’iy nazar, ushbu Hamkorlar bilan tuzilgan shartnomaga asosan qarzlarini to‘lov grafikiga muvofiq qaytarishga majbur.",
+  "where": "оферта"
+ },
+ "guarantee": {
+  "found": true,
+  "value": "Возврата денег после принятия оферты нет, кроме трёх случаев: смерть кормильца заказчика (или признание его умершим судом) после оплаты и до конца курса; смерть самого заказчика — деньги «могут быть возвращены» наследникам; школа по своей вине не открыла доступ к платформе в течение 5 рабочих дней после оплаты (п. 3.3). Вместо возврата оплата считается «депозитом» на 6 месяцев: передать третьему лицу (если курс не начался и заказчик не был ни на одном занятии), перенести обучение по согласованию, перейти на другой активный курс; иначе деньги остаются у школы (п. 3.7)",
+  "quote": "3.3. Shartnoma-offerta qabul qilingandan so‘ng shartnomani bekor qilishga va o‘tkazilgan to‘lovni qaytarishga yo‘l qo‘yilmaydi. Bunda, quyidagi hollar mustasno:\n·Agar Buyurtmachining boquvchisi kursga to‘lov o‘tkazilgan sanadan so‘ng lekin kurs tugagunga qadar vafot etgan bo‘lsa yoki sud tomonidan vafot etgan deb tan olinsa.\n·Agar Buyurtmachining o‘zi vafot etgan bo‘lsa. Bunda o‘tkazilgan to‘lov miqdori Buyurtmachining huquqiy vorislariga qaytarilishi mumkin.\n·Bajaruvchi tomonidan uni aybi bilan to‘lov o‘tkazilgan kundan 5 (besh) ish kuni ichida kurslarni o‘tish uchun mo‘ljallangan platformaga kirish taqdim etilmagan bo‘lsa.\n…\n3.7. Agar Buyurtmachi Kurslar uchun to‘lovini amalga oshirsa, ushbu to‘lov Buyurtmachining depoziti deb hisoblanadi va u keyingi 6 (olti) oy ichida quyidagi huquqlarga ega bo‘ladi:\n- Agar kurs boshlanmagan bo‘lsa va Buyurtmachi hech qanday darsda qatnashmagan bo‘lsa, depozitingizni uchinchi shaxsga o‘tkazish;\n- Bajaruvchi bilan kelishilgan holda kurslarda o‘qishni boshqa muddatga qoldirish;\n- Bajaruvchi uchun faol bo‘lgan boshqa yo‘nalish bo‘yicha o‘quv kursini o‘tish.\nBoshqa hollarda, shuningdek, ushbu bandda ko‘rsatilgan muddatda depozitdan foydalanilmagan taqdirda, Kurslarda o‘qitish uchun to‘langan to‘lov (to‘lov/depozit) Bajaruvchining mulkiga aylanadi va qaytarib berilmaydi.",
+  "where": "оферта"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "имя",
+   "телефон",
+   "другое"
+  ]
+ },
+ "next_step": "неизвестно",
+ "closed": true,
+ "notes": "Публичная оферта «OMMAVIY SHARTNOMA-OFFERTA ta'lim sohasida xizmatlar ko'rsatish» — страница по ссылке «Ommaviy oferta» из подвала всех лендингов (Tilda по адресам картинок; intel.json и скриншота нет, поэтому builder и pixels не заполнены). «Kuchga kirish sanasi: 01.01.25», Ташкент. Юрлицо: ООО «QADAM EDU» (в тексте «“QADAM EDU” MChJ», «Bajaruvchi»); адрес «г. Ташкент, Мирабадский район, Афросиаб-2»; STIR (ИНН) 311034759; IFUT (ОКЭД) 89590; банк АО «ANOR BANK», MFO 01183; телефон +99878 113 66 88; директор — I. R. Kurbanov. Оплата: акцепт — оплата (п. 1.2) или кнопка «To‘lash» на сайте / подпись квитанции в офисе (п. 1.6); цены школа может менять в любой момент без уведомления (п. 1.5), после оплаты цена фиксируется (п. 3.1); 100% предоплата за 3 рабочих дня (п. 3.2). На лендингах рассрочка обещана «Uzum nasiya, Alif nasiya, PayMe nasiya, Imanum … foiz va penyasiz», в оферте — только обязанность платить партнёру по графику (п. 4.9). Помесячной оплаты нет. Прочие условия для сравнения: заказчик обязан пройти курс полностью (п. 4.7); групповые занятия не переносятся, преподаватель ждёт 10 минут, пропуск считается оказанной услугой (п. 5.2); школа может отменить занятие, предупредив за 2 часа (п. 5.4); сертификат выдаётся «faqat ko'rgazma va reklama maqsadlarida» и юридической силы не имеет (п. 5.5), итоговой аттестации и документа о квалификации нет (п. 2.4); никаких гарантий сдачи экзаменов, собеседований и трудоустройства (п. 7.6), ответственности за несоответствие ожиданиям нет (п. 7.7); акт услуг считается принятым, если за 5 календарных дней нет мотивированного отказа (п. 11.1); школа получает бесплатную всемирную лицензию на 15 лет на материалы заказчика, включая видеозаписи занятий (п. 8.4); штраф за нарушение интеллектуальной собственности — 1000 базовых расчётных величин (п. 8.6); договор меняется в одностороннем порядке без уведомления (п. 9.1); доступ могут закрыть, если заказчик распространяет в СМИ «asossiz ayblovchi materiallar, tuhmat va yolg‘on ma‘lumotlar» (п. 11.3); согласие на запись занятий и разговоров (п. 12.2); язык судопроизводства — русский (п. 7.2); п. 12.3 сформулирован наоборот («Buyurtmachi … reklama xarakteridagi xabarlarni yuborish huquqiga ega»). Текст скопирован с оферты другой школы: в пп. 1.5–1.7 и 3.1 под надписями «www.qadam.education» и «https://t.me/qadameducation» стоят ссылки на tehnikum.uz и t.me/tehnikum_school; нумерация 4.8–4.9 повторяется. Вверху ссылка «Shartnomani imzolash», внизу форма: «Ismingiz», «Telefon raqamingiz», согласие «Men ommaviy oferta shartlariga roziman — Ha, men roziman», кнопка «Ariza jonatish» (не отправляли); что происходит после заявки, не сказано, поэтому next_step = неизвестно, closed = true (дальше заявка). В шапке — пункты меню главной («Kurslar», «Ustozlar», «Sharhlar»)."
+}

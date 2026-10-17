@@ -1,0 +1,84 @@
+{
+ "url": "https://inter-nation.uz/l/instagram_samarqand",
+ "school_id": "inter-nation",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "заявка или консультация",
+ "builder": "Next.js",
+ "pixels": [
+  "Google Analytics (GA4)",
+  "Google Tag Manager"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Общий заход без обещания результата: хотите выучить английский — оставьте номер, ответим на все вопросы",
+  "quote": "INGLIZ TILI ni\no`rganmoqchimisiz?\nU holda raqamingizni qoldiring va biz barcha savollaringizga javob beramiz.",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "program": {
+  "found": false,
+  "format": "неизвестно"
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [],
+  "count_claim": "TALABALARIMIZNING IELTS 8.5 GACHA NATIJALARI"
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "на странице только форма: цены, программы и формата нет; цены — на главной в блоке «Tariflar va narxlar»"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "имя",
+   "телефон"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "message_match": {
+  "library_id": "2011629826226067",
+  "scores": {
+   "promise_continuity": 3,
+   "language_match": 4,
+   "visual_continuity": 4,
+   "cta_alignment": 7,
+   "specificity_match": 2,
+   "emotional_match": 4
+  },
+  "total_of_60": 24
+ },
+ "notes": "Лид-форма без меню и подвала (stage_auto «прочее»; этап — «заявка или консультация»). Первый экран (скриншот 390×844): логотип, флажки uz/ru, слайдер из 7 слайдов (на снимке — баннер «TALABALARIMIZNING IELTS 8.5 GACHA NATIJALARI» с плакатом «IELTS 8.5»), заголовок «INGLIZ TILI ni o`rganmoqchimisiz?», поля «Ismingiz» и «+998 Telefon raqami» (подсказки полей видны только на скриншоте, в page.md их нет), кнопка «Yuborish» (форму не отправляли). Цены, программы, формата (онлайн или офлайн), города и филиала, преподавателей, оффера, гарантии, дедлайна и ссылки на оферту нет. Соцдоказательство — только баннер слайдера о результатах учеников до IELTS 8.5 (самоотчёт); типа «результаты IELTS» в схеме нет, поэтому types пустой, а текст баннера — в count_claim; остальные 6 слайдов в снимок не попали. Следующий шаг — звонок: «biz barcha savollaringizga javob beramiz»; что происходит после «Yuborish», не проверяли. Тот же текст — ещё на 6 адресах (в snapshots_index это дубли): /l/instagram_andijan, /l/Instagram, /l/Instagram1, /l/instagram_fergana, /l/instagram_namangan, /l/instagram_ielts_x; та же форма стоит на /Registration (разобрана отдельно). На семейство /l/instagram* ведут 104 из 128 активных объявлений школы: andijan 40 (37 — со страницы INTER Nation Andijan), Instagram 29 (основная страница), samarqand 28 (27 — INTER Nation Samarkand), fergana 3 и namangan 2 (основная страница, все запущены 10.09.2026, 7 дней — похоже на старт новых филиалов), ielts_x 1, Instagram1 1; 60 из 104 идут 60+ дней. Город на самой странице не указан — адреса, видимо, метят источник заявки. Остальные объявления: 6 — на /l/online, 1 — на главную, 17 — на вакансии /hr (не разбирались). message_match: объявление 2011629826226067 (страница INTER Nation Samarkand, ведёт прямо на этот адрес, ранг 1, с 09.06.2026, 100 дней, видео 10,5 с, CTA «Sign up»). Расшифровок роликов inter-nation в 02-reklama/transcripts_index.csv нет — оценка по тексту объявления и 8 кадрам ролика без звука. Текст: «Есть много причин изучать английский в INTER NATION, и одна из них — инновационное приложение Students’ App 📱 В нём вы найдёте: 🔹️ 126 видео-уроков, снятых в 7 странах мира 🔹️ полностью цифровые домашние задания 🔹️ система мониторинга … 🔹️ собственный Shop …» (дальше то же на узбекском). В кадрах — сотрудница с бейджем в филиале (оранжевые пуфы) показывает приложение на телефоне, надпись «Student App», в конце стрелка вниз к кнопке. На странице о приложении ни слова; совпадают только фирменный жёлтый цвет и действие «оставить заявку». Другие лидеры семейства: 1203153641644086 (основная страница, ранг 1, 363 дня, ведёт на /l/Instagram1; ролик 4,8 с без текста — не оценивался) и 1887891171766252 (INTER Nation Andijan, ранг 1, 315 дней, на /l/instagram_andijan; текст про систему контроля «Red List» и мониторинг для родителей: «Farzandingiz ta’limini INTER NATIONga ishonib topshiring…») — этих обещаний на странице тоже нет. Техника (intel.json): Next.js, GA4 и Google Tag Manager (GTM-M34NDCLF); Meta Pixel не обнаружен (мог грузиться через GTM — по снимку не проверить)."
+}

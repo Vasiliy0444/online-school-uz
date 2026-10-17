@@ -1,0 +1,90 @@
+{
+ "url": "https://qadam.education/uzum-pdf",
+ "school_id": "qadam",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "лид-магнит",
+ "builder": "Tilda",
+ "pixels": [
+  "Meta Pixel",
+  "Google Analytics (GA4)",
+  "Google Tag Manager",
+  "Яндекс.Метрика"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Пособие: как с нуля торговать на Uzum Market и за 3 месяца выйти на $2000 дохода",
+  "quote": "Uzum Marketda 0 dan savdo qilib 3 oyda $2000 daromadga chiqish uchun qo'llanma",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": true,
+  "value": "$2000 дохода: «3 oyda» в заголовке и «Oyiga $2000» в пункте — без источника",
+  "quote": "Uzum Marketda 0 dan savdo qilib 3 oyda $2000 daromadga chiqish uchun qo'llanma\n…\nOyiga $2000 daromad",
+  "where": "первый экран"
+ },
+ "audience": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "program": {
+  "found": true,
+  "format": "онлайн",
+  "quote": "Boshlang'ich harakatlar\nDaromadli tovarlar topish siri\nBozor va Xitoy bilan ishlash\nOyiga $2000 daromad"
+ },
+ "speaker": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "social_proof": {
+  "types": [
+   "нет"
+  ]
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "лид-магнит: пособие выдают за имя и телефон через Telegram-канал; слова «bepul» на самой странице нет"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "имя",
+   "телефон"
+  ]
+ },
+ "next_step": "Telegram-канал",
+ "closed": true,
+ "message_match": {
+  "library_id": "1935694397074090",
+  "scores": {
+   "promise_continuity": 6,
+   "language_match": 5,
+   "visual_continuity": 3,
+   "cta_alignment": 6,
+   "specificity_match": 4,
+   "emotional_match": 5
+  },
+  "total_of_60": 29
+ },
+ "notes": "Лид-магнит: карточка с заголовком, 4 пункта («Boshlang'ich harakatlar», «Daromadli tovarlar topish siri», «Bozor va Xitoy bilan ishlash», «Oyiga $2000 daromad») и форма «Qo'llanmani olish uchun ma'lumotlaringizni to'ldiring va telegram kanalimizga o'ting» (поле «Ismingiz» и телефон с маской UZ); кнопка «Qo'llanmani olish» ведёт на приглашение telegram.dog/+DieQ90ypRwI3ZDYy (зеркало t.me, закрытый канал — не переходили). Страница целиком помещается в первый экран, скриншот совпадает с текстом. stage_auto «оферта или оплата» — из-за ссылки на оферту в подвале. Цены курса, рассрочки, гарантии нет; $2000 ≈ 23 530 000 сум — обещание дохода. Та же ссылка-приглашение и тот же шаблон у uzum-masterklass («masterklass»), uzum-tg («BEPUL JONLI EFIR», «yopiq telegram kanal»), tg-uzum и sirli-xazina-tg: один закрытый канал упакован в пять «обёрток» (пособие, мастер-класс, прямой эфир). Вариант без отдельного файла — sirli-xazina-tg: заголовок «Uzum Marketda 0 dan savdo qilib 1 mlrd aylanmaga chiqish uchun qo'llanma», последний пункт «1 milliard aylanma xaritasi» вместо «Oyiga $2000 daromad», другая иконка у формы и строка «Hozir telegramga yo‘naltirilasiz»; title остался от uzum-pdf. На sirli-xazina-tg — 6 объявлений-картинок без utm с 04.05 (136 дней, ранг 18): картинка «Uzumda 1 MILLIARD aylanmaga chiqishning YO'L XARITASI. MUTLAQO BEPUL» и текст «Men bu bo‘yicha bepul qo‘llanma tayyorladim 🚀 Qo‘llanmani olish uchun kanalga o‘ting U biriktirilgan xabarda sizni kutyapti» — совпадение с её страницей сильное. Реклама uzum-pdf: 8 объявлений без utm (с 11.04–05.05, 135–159 дней; ранги 1, 2, 4, 7, 19, 24 — лучшие по показам у Qadam); у 6 из 8 текст «📥 Uzum Market’da 0 dan savdo boshlash bo‘yicha bepul PDF qo‘llanma … oyiga stabil $1000 daromad…» (в одном — $2000), 2 ролика без текста (ранги 1 и 19) — про результаты выпускников. message_match: объявление 1935694397074090 (ранг 1, 157 дней, ролик 35 с без текста). По черновой расшифровке: можно ли из региона научиться торговать на Uzum с нуля — «ha, albatta», обороты выпускников (на экране «30 000 000 AYLANMA»), и приглашение: дорожную карту к $2000 в месяц «bugun Telegram kanalimizda jonli masterklassda ko'rsatamiz», подпишитесь на канал; на экране «JONLI MASTERKLASS». Страница вместо мастер-класса выдаёт пособие («qo'llanma»), даты эфира и результатов выпускников нет; совпадают $2000, «0 dan» и переход в Telegram. Обратная путаница у uzum-masterklass: там ролики про PDF-пособие ведут на страницу мастер-класса. Объявление ранга 2 (1619259022669630, текст про PDF-пособие и $2000) совпало бы с этой страницей лучше."
+}

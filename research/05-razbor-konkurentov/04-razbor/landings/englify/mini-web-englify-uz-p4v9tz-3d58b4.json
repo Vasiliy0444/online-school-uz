@@ -1,0 +1,90 @@
+{
+ "url": "https://mini-web.englify.uz/p4v9tz",
+ "school_id": "englify",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "вебинар или мастер-класс",
+ "builder": "своя сборка (фреймворк не определён)",
+ "pixels": [
+  "Google Analytics (GA4)"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Бесплатный мастер-класс: начать говорить по-английски с нуля за 30 дней; перейти от «понимаю, но не говорю» к быстрой и свободной речи",
+  "quote": "BEPUL MASTER-KLASS\n22-23-24 Sentyabr·Soat 20:00\nIngliz tilida 0 dan 30 kunda gapirishni boshlash",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "program": {
+  "found": true,
+  "duration": "22, 23 и 24 сентября в 20:00 — одна встреча на выбор или серия из трёх, на странице не сказано",
+  "format": "онлайн",
+  "quote": "Master-klassda siz:\n30 kunda ingliz tilida gapirishni boshlash metodikasini\nYodlagan soʻzlaringizni amalda ishlatishni\nTushunib, gapirolmaslikdan → Tez va ravon gaplashishga oʻtishni oʻrganasiz"
+ },
+ "speaker": {
+  "found": true,
+  "value": "Teacher Azam — подпись (alt) фото ведущего на первом экране; в видимом тексте имени нет, в описании страницы — «Teacher Azam bilan bepul master-klass…». По web.englify.uz это основатель Englify Azam Qahramoniy",
+  "quote": "Teacher Azam",
+  "where": "первый экран"
+ },
+ "social_proof": {
+  "types": [
+   "нет"
+  ]
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "бесплатный мастер-класс («BEPUL MASTER-KLASS») — цены нет, цена курса не упоминается"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": true,
+  "value": "Даты мастер-класса: 22, 23 и 24 сентября в 20:00 (год не указан; снимок от 16.09.2026)",
+  "quote": "22-23-24 Sentyabr·Soat 20:00",
+  "where": "первый экран"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "имя",
+   "телефон"
+  ]
+ },
+ "next_step": "Telegram-канал",
+ "closed": true,
+ "message_match": {
+  "library_id": "1110623588313861",
+  "scores": {
+   "promise_continuity": 9,
+   "language_match": 8,
+   "visual_continuity": 6,
+   "cta_alignment": 8,
+   "specificity_match": 8,
+   "emotional_match": 7
+  },
+  "total_of_60": 46
+ },
+ "notes": "Один из 9 снятых вариантов страницы одного бесплатного мастер-класса на mini-web.englify.uz (десятый, /l3v7yb, есть в рекламе, но не снят). У всех одинаковые бейдж «BEPUL MASTER-KLASS», даты «22-23-24 Sentyabr·Soat 20:00», фото ведущего (alt «Teacher Azam») и блок «Master-klassda siz:»; различаются заголовок, цветовая тема, фото и один из двух наборов пунктов (про «30 kunda … gapirishni» или про «Kuniga 50 tagacha soʻz») — A/B-тест заголовков под разные ролики. Этот вариант: тёмная тема с салатовым акцентом, бейджи «Speaking» и «30 kun», форма прямо на первом экране — «Ismingiz», «Telefon raqamingiz» (+998), кнопка «ROʻYXATDAN OʻTISH», под ней «Raqamingiz faqat shu efir uchun ishlatiladi.» (эфир — отсюда format «онлайн»). Больше на странице ничего нет: ни программы по дням, ни отзывов, ни цены курса, ни ссылки на оферту. Куда ведёт регистрация, на странице не сказано; next_step «Telegram-канал» — по роликам: во всех расшифровках роликов мастер-класса призыв «зарегистрироваться по ссылке и вступить в закрытый Telegram-канал» ведущего. Техника: intel.json видит только GA4 (Meta Pixel не найден, хотя трафик из Meta); фреймворк не определён, в HTML именованные вставки «englify-fonts», «englify-phone-intl», «englify-modal-fix», «englify-analytics». Реклама: 5 объявлений — 2 с 11.09 (6 дней), 2 с 14.09, 1 с 15.09; без рангов; текст у всех один (у одного кнопка-подпись «BEPUL MASTER-KLASSDA QATNASHISH»): «Master-klassda siz: ✅ Tilni tushunib lekin gapirolmaslikdan qutilish ✅ 30 kunda ingliz tilida gapirishni boshlash ✅ Til o'rganishni yarimida tashlab ketmay, oxirigacha borish siri haqida gaplashamiz. ✅ Va qisqa vaqt ichida IELTS yoki milliy sertifikatidan yuqori ball olish uchun nimalar qilish kerakligi haqida batafsil gaplashamiz. MASTER-KLASSDA QATNASHISH»; дат в тексте нет. message_match: объявление 1110623588313861 (6 дней; при равенстве со вторым, 1014702238291006, — первое по списку; у второго другой хук: «можно ли выучить английский самому и онлайн?»). Ролик (черновая расшифровка, 37 с): ведущий на пляже, титр «YILIGA» — путешествуете несколько раз в год и там нужен английский; даже американцы в быту обходятся небольшим набором слов и времён; если выучить самые нужные темы, за 30 дней с нуля заговорите на бытовые темы; «Teacher Azam», помог выучить английский 25 тысячам учеников (самоотчёт); 22, 23, 24 сентября бесплатный онлайн-мастер-класс — как с нуля за 30 дней заговорить на бытовые темы; участие бесплатное, регистрация по ссылке и закрытый Telegram-канал. Заголовок страницы почти дословно повторяет главное обещание ролика и текста («0 dan 30 kunda gapirishni boshlash»), совпадают даты и «bepul»; нет темы путешествий, 25 тысяч учеников и IELTS / национального сертификата из текста рекламы."
+}

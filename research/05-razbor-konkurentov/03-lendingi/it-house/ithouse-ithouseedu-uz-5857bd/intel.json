@@ -1,0 +1,3 @@
+{
+ "error": "rt=443): Failed to resolve 'ithouse.ithouseedu.uz' ([Errno 8] nodename nor servname provided, or not known)\"))\n  [SKIP] Could not fetch https://ithouse.ithouseedu.uz\n[ERROR] No pages could be fetched."
+}

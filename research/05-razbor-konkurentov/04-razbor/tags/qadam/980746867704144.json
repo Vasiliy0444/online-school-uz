@@ -1,0 +1,102 @@
+{
+ "creative_id": "980746867704144",
+ "platform": "meta",
+ "school_id": "qadam",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "61–120 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "…o'zingizning savdoingiz bor bozorlarda, … onlayn savdoingizni kuchaytirmoqchi bo'lsangiz, bu sizga zo'r biznes bo'ladi shunaqa.",
+  "types": [
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "лицо в первом кадре"
+  ],
+  "evidence": [
+   {
+    "source": "кадр без текста",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: мужчина у фиолетового спорткара говорит в камеру; текста нет",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Ki ozi izi, savdaayiz bar bazarili di.",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:02] Qujum chiayni onlayi savdaayini kuchaytirmakchi bu siz.",
+    "timecode": "00:02"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:05] Bu sizgi zor biznis boladi shani.",
+    "timecode": "00:05"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "свой бизнес",
+   "статус",
+   "доход"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:12] di shani, katta biznismen bub getas.",
+    "timecode": "00:12"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (≈00:29): субтитр «oborotimiz» у ученика в офисе",
+    "timecode": "00:29"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:28] Abarotamizi 40 minun naqshu atdi.",
+    "timecode": "00:28"
+   }
+  ],
+  "revenue_claim": "oborotimiz 40 million…; bir oy ichida 30 million… oborot (ученики, по черновой расшифровке; на кадре только субтитр «oborotimiz»)"
+ },
+ "offer": {
+  "items": [
+   "мини-курс",
+   "рассрочка"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[01:03] Pastda balim abzidu qaldir sez, be pul darsli ta shaberlad.",
+    "timecode": "01:03"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:50] Tol olayan, halisiz nakti diz, halisiz bolib toleshgan, polisi bolidi.",
+    "timecode": "00:50"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "лендинг",
+  "funnel_stage": "мини-курс или трипвайер"
+ },
+ "speaker": {
+  "role": "блогер"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук только в речи, по расшифровке, написание исправлено частично: «…o'zingizning savdoingiz bor bozorlarda, … onlayn savdoingizni kuchaytirmoqchi bo'lsangiz, bu sizga zo'r biznes bo'ladi shunaqa»; неразборчивые «Ki» и «Qujum chiayni» заменены на «…». Перевод: «если у вас своя торговля на базарах и хотите усилить онлайн-продажи — это отличный бизнес для вас». Текста на кадрах хука нет. Та же речь, что у 938821005625255 (там сверху кадры магазина), но финал другой: [01:03–01:11] «Pastda ma'lumotlaringizni qoldirsangiz, bepul darslik(lar) … beriladi … Pastda ssilka bor…» (написание исправлено) → бесплатные уроки, «мини-курс». Несовпадение: ролик зовёт за бесплатными уроками, а ссылка — лендинг qadam.education/uzum-inomarka-v4, тот же адрес, что у 938821005625255, где финал — заявка и звонок менеджера. Обороты учеников в речи (в расшифровке «247 mln», «40 mln», «30 mln за месяц») — оборот, не доход. «bo'lib to'lash» → «рассрочка». Подача от третьего лица, utm UZUM_BLOGER_INOMARKA_BM → «блогер». Текста объявления нет."
+}

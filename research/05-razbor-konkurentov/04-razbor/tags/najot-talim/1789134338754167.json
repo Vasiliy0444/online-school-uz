@@ -1,0 +1,79 @@
+{
+ "creative_id": "1789134338754167",
+ "platform": "meta",
+ "school_id": "najot-talim",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "сток"
+ ],
+ "hook": {
+  "verbatim": "Xorazmliklar diqqatiga!",
+  "types": [
+   "обращение к сегменту"
+  ],
+  "visual": [
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.0s: аэросъёмка минарета Кальта-Минор в Хиве с крупной надписью «XORAZMLIKLAR diqqatiga»; на 2.5s смена на женщину в хиджабе в помещении"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Harazimli la isla uchun zimzor yangilikimiz ba.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "для регионов",
+   "профессия будущего"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:07: «ZAMONAVIY kasb egasi»; ~0:21: «DASTURLASH yo'nalishi bo'yicha» поверх экрана с кодом"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бонус",
+   "гарантия",
+   "дедлайн или ограничение мест",
+   "скидка"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg ~0:34: «500 MING so'mlik chegirma» на фоне вывески NAJOT TA'LIM"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "3 650 000 so'mlik bonuslar - Faqatgina sentyabr oyi uchun! — Kursni tugatib, natijadan qoniqmasangiz — 2 yil ichida bepul qayta o'qish huquqi"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Visit Instagram profile",
+  "in_creative": "заполнить форму",
+  "destination": "Instagram",
+  "funnel_stage": "оферта или оплата"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Третий вариант сентябрьской бонусной кампании (тот же текст объявления, что у 1379707713766932 и 1767676874475610), но с более постановочной картинкой: дрон-съёмка минарета Калта-Минор в Хиве плюс профессиональная ведущая-девушка в студии — визуально отличается от «репортажных» роликов с REC-видоискателем. Скидка «500 MING so'mlik chegirma» подтверждена крупным текстом на кадре (надёжный источник), в отличие от 1379707713766932, где offer подтверждён только текстом объявления. Расшифровка сильно искажена, но крупные подписи на кадрах хорошо читаются. Конец расшифровки — призыв заполнить заявку по ссылке или позвонить; выбран «заполнить форму» как основной."
+}

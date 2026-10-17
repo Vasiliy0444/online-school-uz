@@ -1,0 +1,100 @@
+{
+ "url": "https://qadam.education/youtube-express",
+ "school_id": "qadam",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "основной продукт",
+ "builder": "Tilda",
+ "pixels": [
+  "Meta Pixel",
+  "Google Analytics (GA4)",
+  "Google Tag Manager",
+  "Яндекс.Метрика"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Открыть YouTube-канал с нуля и зарабатывать онлайн",
+  "quote": "YouTube kanalingizni 0 dan ochib, onlayn daromad qiling",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": true,
+  "value": "Доходы спикера и учеников (самоотчёт): у спикера «$4,000» в месяц с 2 каналов и «$60,000» за 5 месяцев; в блоке «Natijalar» — «256 mln so'mdan ortiq», «$4,877» за 3 месяца, «$3.8 ming» за 28 дней",
+  "quote": "2 ta kanaldan oyiga $4,000 daromad\n5 oyda $60,000 daromad\n…\n2.3 million ko'rish, 256 mln so'mdan ortiq daromad\n…\n3 oyda $4,877 daromad\n…\n3,185 obunachi, 28 kunda $3.8 ming daromad",
+  "where": "середина"
+ },
+ "audience": {
+  "found": true,
+  "value": "Кто хочет сделать YouTube основным доходом; кто хочет вести блог; кто хочет подработку вне учёбы или работы; новички без технических знаний",
+  "quote": "Bu kursimiz kim uchun mo'ljallangan?\nAsosiy ish sifatida daromad topmoqchi bo'lganlar uchun\nO'z g'oyalarini videolarga aylantirib, blog yuritmoqchi bo'lganlar uchun\nO’qish yoki ishdan tashqari vaqtda pul ishlamoqchi bo'lganlar uchun\nYangi boshlovchilar — texnik bilim va tajriba shart emas",
+  "where": "середина"
+ },
+ "program": {
+  "found": true,
+  "modules": 4,
+  "format": "онлайн",
+  "quote": "\"YouTube Express\" kurs dasturi\n1-modul | Kanalni noldan ochish\n2-modul | Videoni sifatli qilish\n3-modul | Ko'proq odamga yetish va pul topish\n4-modul | Sun'iy intellekt yordamida video yasash\n…\nDarslar qayerda o'tiladi va qanday formatda?\nDarslar onlayn, video-darsliklar orqali o'tiladi. O'zingizga qulay vaqtda ko'rib, tushunmagan joylaringizni qayta-qayta ko’rshingiz mumkin"
+ },
+ "speaker": {
+  "found": true,
+  "value": "Qaxxorov Asomiddinxoja — спикер направления YouTube: 2 года опыта, «20+» учеников с результатом, «10+» монетизированных каналов, $4 000 в месяц с 2 каналов, $60 000 за 5 месяцев (самоотчёт)",
+  "quote": "YouTube yo'nalishi spikeri\nQaxxorov Asomiddinxoja\nYouTube sohasida 2 yillik tajriba\nAmaliy natijalar:\n20+ o'quvchi natijaga chiqargan\n10+ monetizatsiyaga chiqqan kanal\n2 ta kanaldan oyiga $4,000 daromad\n5 oyda $60,000 daromad",
+  "where": "середина"
+ },
+ "social_proof": {
+  "types": [
+   "скриншоты доходов"
+  ],
+  "count_claim": "«20+ o'quvchi natijaga chiqargan», «10+ monetizatsiyaga chiqqan kanal» — самоотчёт спикера"
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "цены нет; после квиза из 6 вопросов — имя и телефон «Bog'lanish uchun»"
+ },
+ "installments": {
+  "found": true,
+  "value": "Рассрочка через партнёров: Uzum Nasiya, Alif Nasiya, Variant Nasiya (условия не раскрыты)",
+  "quote": "Hozir bittada to'lashga pulim yo'q edi, bo'lib to'lash imkoniyati bormi?\nHa, albatta mumkin. Biz Uzum Nasiya, Alif Nasiya, Variant Nasiya bilan hamkorlikda ishlaymiz",
+  "where": "низ страницы"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "квиз-вопросы",
+   "возраст",
+   "имя",
+   "телефон"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "message_match": {
+  "library_id": "1035818272561672",
+  "scores": {
+   "promise_continuity": 9,
+   "language_match": 8,
+   "visual_continuity": 6,
+   "cta_alignment": 9,
+   "specificity_match": 5,
+   "emotional_match": 7
+  },
+  "total_of_60": 44
+ },
+ "notes": "Курс «YouTube Express» (first_seen 21.08.2026; utm_medium YT_TEST — тестовая кампания). Порядок: шапка с «Siz → Yangi Daromad» и «Sahifani yopmang va yangilamang» → заголовок и «Bepul konsultatsiya» → «Bu kursimiz kim uchun mo'ljallangan?» → спикер с результатами → программа из 4 модулей (канал с нуля; качество видео — монтаж, заголовок, обложка, аналитика; алгоритм, Shorts и заработок; видео с помощью ИИ) → «Natijalar» (6 карточек-скриншотов с подписями просмотров и дохода; это не отзывы, поэтому reviews_count не заполнен) → сертификат → квиз «Yangi daromadingiz sari atigi 1% qoldi» (возраст от «15–17», цель, желаемый доход $500/$1000/$1500, когда начать, понимание, что нужны знания и время, финансовое положение; «Step: 1/7») → имя, телефон → FAQ из 6 вопросов (можно с нуля; онлайн-видеоуроки; рассрочка; нужны компьютер и интернет; английский не нужен; подходит домохозяйкам) → подвал. Длительность курса на странице не указана (в объявлении — «1 oyda»). Цены, гарантии, скидок, бонусов, дедлайна нет. Доходы — самоотчёт: $4 000 ≈ 47 060 000 сум, $60 000 ≈ 705 900 000 сум, $4 877 ≈ 57 378 905 сум, $3 800 ≈ 44 707 000 сум; «256 mln so'm» указаны в сумах. Этап «основной продукт»; stage_auto «оферта или оплата» — из-за ссылки на оферту. Реклама: 5 объявлений YT_TEST V1–V5 с 21.08 (27 дней, без ранга; utm без utm_source), текст у всех один. message_match: срок одинаковый, ранга нет — взято V1, 1035818272561672. Текст объявления: «🎥 YouTube orqali qo‘shimcha daromad qilishni xohlaysizmi? 📌 1 oyda: • YouTube kanal yaratish va yuritish • Video tayyorlash va montaj qilish • Monetizatsiya orqali daromad olish • 🤖 AI yordamida kontent yaratish 💰 Kurs yakunida oyiga $500–$2000 gacha daromad olish uchun kerakli ko‘nikmalarga ega bo‘lasiz. 🚀 Bepul konsultatsiyaga yoziling…»; ролик (черновая расшифровка) — то же, плюс уроки по ИИ «bonus sifatida»; на экране «YOUTUBE KANAL OCHISH / ALGORITMNI O'RGANISH / VIDEO MONTAJ QILISH». Страница совпадает по обещанию, темам модулей и кнопке «Bepul konsultatsiya»; на ней нет «1 oyda», «$500–$2000» (≈ 5 882 500–23 530 000 сум) и слова «bonus» про уроки ИИ. Скриншот совпадает с первым экраном."
+}

@@ -1,0 +1,84 @@
+{
+ "creative_id": "1817481843031892",
+ "platform": "meta",
+ "school_id": "it-house",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "16–30 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "постановка или скетч",
+  "запись экрана"
+ ],
+ "hook": {
+  "verbatim": "6 oy o'qisangiz, bittada ishli bo'lib olasiz.",
+  "types": [
+   "результат или доход",
+   "цифра"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–2.5s: девушка держит в руках книгу, «6 oy o'qisang bittada ishli bo'lib olasiz»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] 6 ay oqsanyiz, bit tada ish li bu alasiz.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "без опыта"
+  ],
+  "income_claim": "AutoCAD o'rganing – $700–800 oylik daromad (текст объявления); в ролике — вакансии «interyer dizaynerlar» на hh.uz «400 dolardan 1200 dolardache»",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 1 из 4 (≈0:03): «Yo'q hozir man kitob haqida gapirmayapman»",
+    "timecode": "00:03"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:07] Xazir siske zor narsi korsitaman, Xat Hunter Vakantalar saytidan, interior designerlar uchun kampanyalar 400 dolardan 1200 dolardache tolashke tayyor.",
+    "timecode": "00:07"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 4 из 4 (≈0:24): «mutlaqo bepul ochiq dars bo'lib o'tadi»",
+    "timecode": "00:24"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "заполнить форму",
+  "destination": "форма Meta",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "актёр или ведущий"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Игровой хук с книгой в руках («6 месяцев учёбы — и вы трудоустроены»), затем твист «нет, сейчас я не про книгу» — далее типовая для семейства AutoCAD/hh.uz середина и концовка (см. 1091042456797892 и другие)."
+}

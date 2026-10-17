@@ -1,0 +1,92 @@
+{
+ "creative_id": "1060086169879221",
+ "platform": "meta",
+ "school_id": "hbs-academy",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "отзыв ученика"
+ ],
+ "hook": {
+  "verbatim": "Dildor opa, nega aynan [treyding] sohasini tanladingiz?",
+  "types": [
+   "вопрос",
+   "соцдоказательство"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "логотип бренда"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg 0.0s–1.5s: «Dildor opa, nega aynan»; 2.0s–2.5s: «sohasini tanladingiz?» (слово между «aynan» и «sohasini» не попало ни в один из снятых кадров 0.0–2.5s)",
+    "timecode": "00:00"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Qindil dorobda, nige aylan trading soxasini talladiniz?",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "удалёнка и свобода",
+   "доход",
+   "доверие и окупаемость"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:11] va uydu otrib daroma topishi qizqtiradi manim.",
+    "timecode": "00:11"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:17] Toris netam, aldan onlayin kurslidi kop oqigan man, lekin rezultati bomagan.",
+    "timecode": "00:17"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:22] HPS Akademiyasini tallashini asosiy ikiti sabab bor, bunuz bremsi offlayin darsli otu berishligi, [00:29] ikinsi, kopili tazribi gegi mentrlar jamu asi.",
+    "timecode": "00:22"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_overview.jpg кадр 2 из 4 (~0:15): «qiziqtiradi meni.»",
+    "timecode": "00:15"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "скидка"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "✨ Kunduzgi offline guruhlar uchun maxsus narx sizni kutmoqda."
+   }
+  ]
+ },
+ "cta": {
+  "button": "Sign up",
+  "in_creative": "неизвестно",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "ученик"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": true,
+ "confidence": "средняя",
+ "notes": "risk = true по правилу инструкции для трейдинга и инвестиций (приведено к одному виду 17.09). Тот же формат интервью, что у 1066810239141010 (Zilola opa), здесь героиня — «Dildor opa» (по правилу учеников не называем в public_name). Хук почти дословно совпал по кадрам, кроме слова «treyding/trading» — оно не попало ни в один из снятых 0.5-секундных кадров (проскочило в промежутке), но подтверждено расшифровкой и по аналогии со структурой близнеца-креатива 1066810239141010, поэтому вставлено в квадратных скобках. Сильная тема — прошлый неудачный опыт с онлайн-курсами («oldin onlayn kurslarni ko'p oldim, lekin natija bo'lmagan») против офлайн-формата и опытных менторов HBS — тег «доверие и окупаемость». Обзорные кадры показывают групповое обучение в переговорной с экраном котировок и флагами на столе. Расшифровка обрывается на ~0:34 при длительности 39.1 с — финал и явный CTA не видны, отсюда «неизвестно» у cta.in_creative. Конкретных цифр дохода нет — risk=false."
+}

@@ -1,0 +1,85 @@
+{
+ "url": "https://hbstrading.net/hbs-academy",
+ "school_id": "hbs-academy",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "главная или каталог",
+ "builder": "Nuxt",
+ "pixels": [
+  "Meta Pixel",
+  "Google Analytics (GA4)",
+  "Google Tag Manager"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Научиться торговать в трейдинге с абсолютного нуля",
+  "quote": "HBS AKADEMIYASI\nTreyding sohasida mutlaqo 0’dan savdo qilishni o'rganing",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": true,
+  "value": "Цифр дохода нет; обещание дохода без цифр — в общем подвале всех страниц сайта: путь к «halol daromad» через обучение торговле",
+  "quote": "Haqiqiy Boylik Sirini kashf eting\nBiz bilan halol daromad topish yo'lini oching savdoni o'rganish orqali",
+  "where": "низ страницы"
+ },
+ "audience": {
+  "found": true,
+  "value": "Новички: учиться «mutlaqo 0’dan» (с абсолютного нуля)",
+  "quote": "Treyding sohasida mutlaqo 0’dan savdo qilishni o'rganing",
+  "where": "первый экран"
+ },
+ "program": {
+  "found": true,
+  "duration": "Express Trading — 1.5 oy (1,5 месяца), офлайн; Finversity — 2.5 oy (2,5 месяца), онлайн + офлайн-практика",
+  "format": "гибрид",
+  "quote": "Express Trading\nMentor:Bakhodir Abdurakhimov, Amirxon Oripov\nFormat:Offline\nShaxar:Toshkent\nMuddati:1.5 oy\nBatafsil\nFinversity\nMentor:Abdulloh Shokirov, Ma'mur Bakhromov\nFormat:Online + Offline praktika\nShaxar:Toshkent\nMuddati:2.5 oy"
+ },
+ "speaker": {
+  "found": true,
+  "value": "Шесть менторов (публичные спикеры бренда): Mamur Bahromov, Abdulloh Shokirov, Bahodir Abdurahimov, Amir Oripov, Eldorbek Sotvoldiev, Madina Kamilovna; в карточках курсов — Express Trading: Bakhodir Abdurakhimov и Amirxon Oripov, Finversity: Abdulloh Shokirov и Ma'mur Bakhromov. На первом экране — фото мужчины в костюме без подписи",
+  "quote": "Professional o'qituvchilar\nAmaliy tajribaga ega bo'lgan professional mentorlar: • Mamur Bahromov • Abdulloh Shokirov • Bahodir Abdurahimov • Amir Oripov • Eldorbek Sotvoldiev • Madina Kamilovna",
+  "where": "середина"
+ },
+ "social_proof": {
+  "types": [
+   "число учеников"
+  ],
+  "count_claim": "«3 000+ O'quvchilar», «40+ Jamoa a’zolari», «2021 Yildan beri ta’lim beriladi», «2TA Fillial (Toshkent, Dubay)», «$3M+ Boshqaruv kapitali» — самоотчёт"
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "цен нет: карточки курсов ведут на их страницы («Batafsil»), внизу — форма заявки на звонок"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "имя",
+   "телефон",
+   "Telegram",
+   "другое"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "notes": "Главная страница академии (title «HBS Academy — professional treyding kurslari»), каталог курсов; RU-версия — hbstrading.net/ru/hbs-academy (снимок hbstrading-net-ru-hbs-academy-9e4e4e). Этап «главная или каталог»: stage_auto «вебинар или мастер-класс» дан по словам «bepul dars» и «jonli efir» из блока о составе академии (бесплатные уроки на YouTube, еженедельные эфиры) — вебинара на странице нет.\nПорядок блоков: шапка (назад, логотип HBS Academy, «Akademiyamiz», «Kurslarimiz») → первый экран: «HBS AKADEMIYASI», «Treyding sohasida mutlaqo 0’dan savdo qilishni o'rganing», фото мужчины в костюме на фоне зала (без подписи), кнопки нет → «Akademiyamiz»: «2021 Yildan beri ta’lim beriladi», «3 000+ O'quvchilar», «40+ Jamoa a’zolari», «+++ Qadriyatlarga asoslangan», «2TA Fillial (Toshkent, Dubay)», «$3M+ Boshqaruv kapitali» (≈ 35 295 000 000 сум; всё — самоотчёт) → «KURSLARIMIZ»: две карточки со ссылкой «Batafsil» — Express Trading («Mentor:Bakhodir Abdurakhimov, Amirxon Oripov», «Format:Offline», «Shaxar:Toshkent», «Muddati:1.5 oy») и Finversity («Mentor:Abdulloh Shokirov, Ma'mur Bakhromov», «Format:Online + Offline praktika», «Muddati:2.5 oy») → «Akademiyamiz nimalarni o'z ichiga oladi»: «Maxsus platforma», «Professional o'qituvchilar» (6 имён), «Hamjamiyat» («HBS Traders Community»), «Resurslar» («YouTube'da bepul darslar, sharhlar va ta’limiy videolar mavjud.»), «Jonli muloqot» («Har haftalik jonli efirlar - savol-javoblar, bozor tahlillari va dolzarb mavzular muhokamasi.») → блок «“Pul psixologiyasi” kitobi» с подписью «Morgna Hauzel» (опечатка в UZ; в RU — «Психология денег», «Морган Хаузел»): картинка книги без пояснения — подарок ли это, не сказано, поэтому в bonuses не внесено → 5 фото академии → форма «Kontaktlar» → филиалы → общий подвал.\nТретий курс сайта — Crypto Investor (/crypto-investor, есть в карте сайта) — в «KURSLARIMIZ» не показан и в списке курсов формы отсутствует (там только «Finversity», «Express Trading», «Umumiy ma'lumot»). Старый адрес каталога /academy-courses отдаёт 404 («Page not found»), архивного снимка нет (в Wayback был с 26.05.2024 по 08.12.2024).\nЦен, рассрочки, гарантии, скидок, бонусов и сроков нет. income_claim — только общий подвал всех страниц («Haqiqiy Boylik Sirini kashf eting», «Biz bilan halol daromad topish yo'lini oching savdoni o'rganish orqali»), цифр дохода учеников на странице нет. Форма — как на всех страницах: имя, телефон, Telegram-ник, удобное время звонка, выбор курса; next_step = звонок менеджера.\nНА ЭТОЙ СТРАНИЦЕ: доходности — не найдено («$3M+ Boshqaruv kapitali» — капитал под управлением, не доходность учеников); лицензии и регуляторы — не найдено (юрлицо — «ООО \"ACADEMY HBS\"» в подвале, без реквизитов); дисклеймеры о рисках — не найдено.\nЗАЯВЛЕННЫЕ ДОХОДНОСТИ ПО САЙТУ (цифры — самоотчёт, источники не указаны): Express Trading — «Aylanma: 300 ming$ Natija: 7 oy ichida aksiya bozorida: $3000 ni $18,000 gacha olib chiqgan» ($3 000 ≈ 35 295 000 сум, $18 000 ≈ 211 770 000 сум) и «Aylanma: 500 ming $ Natija: 6 oy davomida 20% dan 42% gacha stavil daromad»; «Jamoamiz bilan katta kapitallarni (3mln$+) bo’shqarishda ishlatadigan strategiyalarni o’rganasiz» ($3 млн ≈ 35 295 000 000 сум); Finversity и Crypto Investor — анонимные карточки учеников «10-30% gacha daromad», «40% real shotda daromad», «Hozir 20% foydada», «20-25% daromad» (период и база не указаны); заголовок видеоотзыва «MEN HAM, AYOLIM HAM 25-30% FOYDA QILAMIZ!» (Express, Finversity); Crypto Investor — «2 oy ichida kripto bozorida boshqalar yo'qotayotgan joyda siz daromad qilishni o'rganing»; главная — «Risk boshqaruvi va strategiyalar - xavflarni kamaytirib, barqaror foyda olish»; /hbs-academy — «$3M+ Boshqaruv kapitali»; подвал всех страниц — «Biz bilan halol daromad topish yo'lini oching savdoni o'rganish orqali».\nЛИЦЕНЗИИ И РЕГУЛЯТОРЫ: не найдено — ни на одной из 28 снятых страниц нет лицензий, регуляторов (ни узбекских, ни ОАЭ), регистрационных номеров, ИНН и адреса юрлица; юрлицо — только строка «ООО \"ACADEMY HBS\"» в подвале. Единственное упоминание лицензий — в условиях, и оно про права на контент: «HBS Group yoki litsenziatlarning mulki bo‘lishi mumkin». Рядом по смыслу: «Rasmiy sertifikat» (Finversity) и «Sertifikat» (Crypto Investor) — кем выдаётся, не сказано; «J.P. Morgan xalqaro bankida amaliyot» у преподавателя Crypto Investor; на /saraf — шариатский советник Saraf Screening Doktor Farrukh Habib (шариатская экспертиза, не финансовый надзор).\nДИСКЛЕЙМЕРЫ О РИСКАХ: на страницах академии — не найдено. На всём сайте одна оговорка, в «Xizmat shartlari»: «Saytda joylashtirilgan ma’lumotlar umumiy tanishtirish xarakterida bo‘lib, investitsiya yoki boshqa professional maslahat hisoblanmaydi.» (RU: «Материалы на сайте носят общий информационный характер и не являются персональной инвестиционной или иной профессиональной рекомендацией.»). Предупреждений о возможной потере денег и о том, что прошлые результаты не гарантируют будущих, нет; риск упоминается как тема обучения или в обещаниях контроля: «Treydingda pullaringizni yoqotishdan qo'rqmaysiz, chunki kuchli nazorat va strategiyalar bilan ishlaysiz» (Express), «Aqlli botlar sizni yo'qotishlardan himoya qiladi» (главная, Saraf Robot).\nRU-версия — отличия: «Научитесь торговать с нуля в сфере трейдинга»; «2021 лет обучаем» (в UZ «2021 Yildan beri ta’lim beriladi» — с 2021 года); «Капитал под управлением»; имена менторов в списке — кириллицей, а в карточках курсов оставлены латиница и «1.5 oy», «2.5 oy», «Toshkent»; «Морган Хаузел» без опечатки; подвал «Откройте путь к честному доходу вместе с нами через обучение торговле».\nТехника: GA4, Meta Pixel, GTM-5XW7TCSH (intel.json); Nuxt. Реклама: в ads_meta.csv 30 объявлений страницы «HBS academy Uzbekistan» (все активны, старт 24.07–11.09.2026), все ведут на мгновенные формы Meta (link_url http://fb.me/, CTA «Sign up»), на сайт — ни одного, поэтому message_match не заполнялся.\nСкриншот 390×844: первый экран — шапка, фото, заголовок, подзаголовок, ниже заголовок блока «Akademiyamiz» и карточка «2021»; текст совпадает с page.md."
+}

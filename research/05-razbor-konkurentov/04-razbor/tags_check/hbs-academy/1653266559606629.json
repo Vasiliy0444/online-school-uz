@@ -1,0 +1,74 @@
+{
+  "creative_id": "1653266559606629",
+  "platform": "meta",
+  "school_id": "hbs-academy",
+  "format": {
+    "type": "динамическое (DCO)",
+    "duration_bucket": "не видео",
+    "aspect": "9:16"
+  },
+  "style": ["статичный дизайн"],
+  "hook": {
+    "verbatim": "Ayollar uchun maxsus taklif",
+    "types": ["обращение к сегменту"],
+    "visual": ["крупный текст", "логотип бренда"],
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "image_512.jpg: Ayollar uchun maxsus taklif (крупный заголовок, розовый и белый, на фоне розовых пионов)"
+      },
+      {
+        "source": "текст на кадре",
+        "quote": "image_512.jpg: логотип HBS TREYDERLAR AKADEMIYASI вверху"
+      }
+    ]
+  },
+  "meaning": {
+    "main": ["доход", "для мам", "удалёнка и свобода"],
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "image_512.jpg: Uyda qo'shimcha daromad olish uchun moliya bozori va investitsiyalarini imtiyozli narxda kunduzgi guruhlarda o'rganing; format: Offline"
+      },
+      {
+        "source": "текст объявления",
+        "quote": "🎓 Ayollar uchun maxsus kunduzgi offline guruhlar."
+      },
+      {
+        "source": "текст объявления",
+        "quote": "Kuniga bir necha soat ajratib, moliyaviy bilimlaringizni oshiring va qo'shimcha daromad qilishni boshlang."
+      }
+    ]
+  },
+  "offer": {
+    "items": ["скидка", "дедлайн или ограничение мест"],
+    "evidence": [
+      {
+        "source": "текст на кадре",
+        "quote": "image_512.jpg: …investitsiyalarini imtiyozli narxda kunduzgi guruhlarda o'rganing"
+      },
+      {
+        "source": "текст объявления",
+        "quote": "💸 Imtiyozli narx faqat cheklangan muddatga."
+      },
+      {
+        "source": "текст объявления",
+        "quote": "👇 Joyingizni band qilish uchun havolani bosing."
+      }
+    ]
+  },
+  "cta": {
+    "button": "Sign up",
+    "in_creative": "нет призыва",
+    "destination": "форма Meta",
+    "funnel_stage": "основной продукт"
+  },
+  "speaker": {
+    "role": "никого"
+  },
+  "language": "узбекский латиница",
+  "burned_subtitles": false,
+  "risk": true,
+  "confidence": "высокая",
+  "notes": "DCO-объявление, в выборке одна картинка 9:16 (image_512). На самой картинке призыва нет; в тексте объявления — «Joyingizni band qilish uchun havolani bosing». «для мам» — ближайшее значение для сегмента «ayollar» (женщины; дневные группы, доход «uyda»). «удалёнка и свобода» — по «Uyda qo'shimcha daromad», хотя обучение офлайн. «скидка» — «imtiyozli narx» (льготная цена), сама цена не названа; «дедлайн» — «faqat cheklangan muddatga». risk: академия трейдеров (TREYDERLAR AKADEMIYASI), финансовые рынки + обещание дополнительного дохода. Перевод заголовка: «Специальное предложение для женщин»."
+}

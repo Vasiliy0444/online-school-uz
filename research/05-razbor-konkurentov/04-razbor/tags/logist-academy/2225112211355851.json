@@ -1,0 +1,77 @@
+{
+ "creative_id": "2225112211355851",
+ "platform": "meta",
+ "school_id": "logist-academy",
+ "format": {
+  "type": "картинка",
+  "duration_bucket": "не видео",
+  "aspect": "4:5"
+ },
+ "style": [
+  "статичный дизайн"
+ ],
+ "hook": {
+  "verbatim": "TIF SOHASIDA OYIGA 1300$ va undan ortiq daromad qilishni xohlaysanmi?",
+  "types": [
+   "вопрос",
+   "результат или доход",
+   "цифра"
+  ],
+  "visual": [
+   "крупный текст",
+   "логотип бренда",
+   "лицо в первом кадре"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: заголовок «TIF SOHASIDA OYIGA 1300$ va undan ortiq daromad qilishni xohlaysanmi?»; сток-фото улыбающегося мужчины в костюме; лого LOGIST ACADEMY сверху слева"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "статус"
+  ],
+  "income_claim": "Oyiga 1300$ va undan ortiq",
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg: «Oyiga 1300$ va undan ortiq daromad qilishni xohlaysanmi?»"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "image_512.jpg, нижний баннер: «Sen yuqori daromad va martaba o'sishiga yo'l ochadigan kasbni egallaysan!»"
+   },
+   {
+    "source": "текст объявления",
+    "quote": "TIF sohasida katta daromad va barqaror martaba istaganlar uchun eng yaxshi imkoniyat!"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "без оффера"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Qo'ng'iroq qiling: 📞 +998 95 101 58 88 📲 Yoki hoziroq direktga yozing — kelajagingizni bugundan boshlang!"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Apply now",
+  "in_creative": "написать в директ",
+  "destination": "форма Meta",
+  "funnel_stage": "основной продукт"
+ },
+ "speaker": {
+  "role": "никого"
+ },
+ "language": "смешанный",
+ "risk": false,
+ "confidence": "высокая",
+ "notes": "Статичная картинка, текст читается однозначно. Лицо на фото — стоковая фотомодель (безликий «успешный мужчина в костюме»), не реальный человек школы — speaker.role поставил «никого», а не «актёр». Три бейджа-плашки на картинке: «Bojxona deklaratsiyalari», «Xalqaro shartnomalar», «Haqiqiy ish holatlari (keyslar)» — описывают программу курса, не самостоятельные теги схемы. Текст объявления двуязычный (UZ+RU), сама картинка — только на узбекском, поэтому language поставил «смешанный» (по объявлению в целом, а не только по картинке). Ad_text предлагает и звонок, и direct в равной мере — cta.in_creative выбрал «написать в директ» как более частый паттерн школы, но звонок («позвонить») тоже прямо назван. Этот же текст объявления и та же картинка (с вариациями) встречаются ещё в 3 креативах порции (1281075844170982, 2085403345652231, 2294784331274260)."
+}

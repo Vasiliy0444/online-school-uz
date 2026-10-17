@@ -1,0 +1,187 @@
+Usage: meta ads creative create [OPTIONS]
+
+  Create an ad creative with image/video and ad copy, or a DCO creative.
+
+  Standard creative examples:
+      meta ads creative create --name "Summer Sale" --image ./banner.jpg \
+        --page-id 123456 --body "50% off everything!" \
+        --link-url https://example.com --title "Summer Sale - Up to 50% Off" \
+        --call-to-action SHOP_NOW
+  
+      meta ads creative create --name "Video Ad" --video ./promo.mp4 \
+        --page-id 123456 --body "Watch now!" \
+        --link-url https://example.com --title "Introducing Our New Product" \
+        --call-to-action LEARN_MORE
+
+  Dynamic Creative Optimization (DCO) examples:
+      # NOTE: a DCO creative can only run in a Dynamic Creative ad set — create
+      # the ad set with `meta ads adset create ... --dynamic-creative`.
+      # ad_format is auto-detected from the media (here: SINGLE_IMAGE).
+      meta ads creative create --name "DCO Creative" --page-id 123456 \
+        --link-url https://example.com \
+        --images ./img1.jpg --images ./img2.jpg --images ./img3.jpg \
+        --titles "Title A" --titles "Title B" \
+        --bodies "Body 1" --bodies "Body 2" \
+        --call-to-actions SHOP_NOW --call-to-actions LEARN_MORE
+
+  Boost an existing post (no media upload, no --page-id):
+      # Existing Facebook Page post
+      meta ads creative create --name "Boost Post" \
+        --object-story-id 123456_789012
+      # Existing Instagram post
+      meta ads creative create --name "Boost IG" \
+        --source-instagram-media-id 17900000000000000
+
+  Catalog / dynamic product ad (DPA):
+      meta ads creative create --name "Catalog Ad" --page-id 123456 \
+        --product-set-id 555 --link-url https://example.com \
+        --body "Shop our catalog"
+
+  Advanced (raw JSON) — for shapes the shortcut flags don't cover:
+      # Carousel via raw object_story_spec (inline JSON or @file.json)
+      meta ads creative create --name "Carousel" \
+        --object-story-spec @oss.json --call-to-action SHOP_NOW
+      # Full Advantage+ enhancement control
+      meta ads creative create --name "AdvantagePlus" --page-id 123456 \
+        --asset-feed-spec @feed.json \
+        --degrees-of-freedom-spec @dof.json
+
+  Modes:
+    Standard: --image/--video + single --body/--title/etc.
+    DCO: --images/--titles/--bodies/etc. (Meta tests combinations).
+    Existing post: --object-story-id / --source-instagram-media-id /
+      --instagram-permalink-url (reuses an organic post).
+    Raw JSON: --object-story-spec / --asset-feed-spec (escape hatch for
+      carousels, deep links, custom feeds; replaces the shortcut flags).
+  DCO limits: 10 images/videos, 5 titles, 5 bodies, 5 descriptions, 5 CTAs.
+
+  Performance & compliance flags (work with any mode) — when to use each:
+    --degrees-of-freedom-spec  Raw JSON to opt into Advantage+ creative
+                               enhancements (individual creative_features_spec
+                               features, each OPT_IN / OPT_OUT).
+    --contextual-multi-ads     Allow this ad to appear alongside related ads in
+                               feed. Use to add reach/liquidity on broad
+                               Advantage+ campaigns.
+    --status                   Stage a creative as PAUSED before any ad uses
+                               it; omit to let it default to ACTIVE.
+    --applink-treatment        Only for deep-linked app-promotion creatives —
+                               controls the no-app-installed fallback.
+    --url-tags                 UTM/tracking params for the destination link.
+    --authorization-category   Required for political / social-issue ads.
+    --product-set-id           Catalog product set for dynamic ads (DPA).
+
+Options:
+  --name TEXT                     Name for the ad creative.  [required]
+  --image FILE                    Path to an image file (jpg, png, gif, bmp,
+                                  webp).
+  --video FILE                    Path to a video file (mp4, mov, avi, mkv,
+                                  wmv).
+  --image-hash TEXT               Hash of an already-uploaded image to use
+                                  directly (skips upload).
+  --video-id TEXT                 ID of an already-uploaded video to use
+                                  directly (skips upload).
+  --page-id TEXT                  Facebook Page ID for the ad's identity
+                                  (required for new image/video/DCO
+                                  creatives). List available pages with `meta
+                                  ads page list`.
+  --body TEXT                     Primary text / ad copy shown above the
+                                  media. Use on every standard creative; for a
+                                  media-less text creative this is the only
+                                  content.
+  --title TEXT                    Headline shown below the media. Use for link
+                                  and video ads; it is ignored for photo
+                                  (page-post) creatives.
+  --link-url TEXT                 Destination URL when the ad is clicked.
+                                  Providing it switches the creative to link-
+                                  ad format (clickable card with a CTA
+                                  button).
+  --description TEXT              Link description shown below the headline.
+                                  Use to add a secondary line of supporting
+                                  copy on link/video ads.
+  --call-to-action [APPLY_NOW|BOOK_TRAVEL|BUY_NOW|CONTACT_US|DOWNLOAD|GET_OFFER|GET_QUOTE|LEARN_MORE|NO_BUTTON|OPEN_LINK|SHOP_NOW|SIGN_UP|SUBSCRIBE|WATCH_MORE]
+                                  Call-to-action button type. Use whenever
+                                  --link-url is set so the ad shows an
+                                  actionable button (e.g. SHOP_NOW for sales,
+                                  LEARN_MORE for traffic, SIGN_UP for leads).
+  --instagram-user-id TEXT        Instagram account ID used as the ad
+                                  identity. Use when the ad should run on
+                                  Instagram placements under your IG account
+                                  rather than the Page.
+  --images FILE                   Multiple image paths for DCO (up to 10).
+                                  Repeat flag for each image.
+  --titles TEXT                   Multiple headlines for DCO (up to 5). Repeat
+                                  flag for each title.
+  --bodies TEXT                   Multiple primary texts for DCO (up to 5).
+                                  Repeat flag for each body.
+  --descriptions TEXT             Multiple descriptions for DCO (up to 5).
+                                  Repeat flag for each.
+  --call-to-actions [APPLY_NOW|BOOK_TRAVEL|BUY_NOW|CONTACT_US|DOWNLOAD|GET_OFFER|GET_QUOTE|LEARN_MORE|NO_BUTTON|OPEN_LINK|SHOP_NOW|SIGN_UP|SUBSCRIBE|WATCH_MORE]
+                                  Multiple CTAs for DCO (up to 5). Repeat flag
+                                  for each.
+  --videos FILE                   Multiple video paths for DCO (up to 10).
+                                  Repeat flag for each video.
+  --ad-format [SINGLE_IMAGE|SINGLE_VIDEO|CAROUSEL|AUTOMATIC_FORMAT]
+                                  DCO ad format. A DCO asset feed requires
+                                  exactly one format; the CLI auto-detects it
+                                  from your media (SINGLE_IMAGE for --images,
+                                  SINGLE_VIDEO for --videos), so you normally
+                                  omit this. Set it explicitly for
+                                  CAROUSEL/AUTOMATIC_FORMAT, or when you pass
+                                  both --images and --videos.
+  --object-story-id TEXT          Boost an EXISTING Page post as the creative
+                                  (format: PAGEID_POSTID). No media upload or
+                                  --page-id needed.
+  --source-instagram-media-id TEXT
+                                  Boost an EXISTING Instagram post/media by
+                                  its Instagram media ID.
+  --instagram-permalink-url TEXT  Boost an existing Instagram post by its
+                                  public permalink URL.
+  --product-set-id TEXT           Product set ID for catalog / dynamic product
+                                  ads (DPA).
+  --url-tags TEXT                 URL query params appended to the destination
+                                  link for tracking (e.g. 'utm_source=facebook
+                                  &utm_campaign=summer_sale').
+  --authorization-category [NONE|POLITICAL|POLITICAL_WITH_DIGITALLY_CREATED_MEDIA]
+                                  Declared category for ads about social
+                                  issues, elections or politics. Use POLITICAL
+                                  (or POLITICAL_WITH_DIGITALLY_CREATED_MEDIA)
+                                  for such ads.
+  --contextual-multi-ads / --no-contextual-multi-ads
+                                  Opt in/out of contextual multi-ads (Meta may
+                                  show this ad alongside related ads in feed).
+                                  Use to boost reach/liquidity on Advantage+
+                                  campaigns; leave unset to inherit the
+                                  account default.
+  --status [ACTIVE|PAUSED]        Initial creative status. Use PAUSED to stage
+                                  a creative without it going live until an ad
+                                  activates it; defaults to ACTIVE on Meta's
+                                  side.
+  --applink-treatment [automatic|deeplink_with_appstore_fallback|deeplink_with_web_fallback|web_only]
+                                  Fallback when a deep-linked ad is opened
+                                  without the app installed. Use with app-
+                                  promotion / deep-link creatives:
+                                  deeplink_with_appstore_fallback sends them
+                                  to the store, deeplink_with_web_fallback to
+                                  the website, web_only ignores the app.
+  --object-story-spec TEXT        Raw object_story_spec as JSON, or
+                                  @path/to/file.json. Escape hatch for
+                                  advanced creatives the shortcut flags don't
+                                  cover — carousels
+                                  (link_data.child_attachments), app deep
+                                  links (app_link_spec), image overlays, etc.
+                                  Replaces the --page-id/--image/--body/...
+                                  shortcuts.
+  --asset-feed-spec TEXT          Raw asset_feed_spec as JSON, or
+                                  @path/to/file.json. Full control of
+                                  Advantage+/DCO multi-asset feeds beyond
+                                  --images/--titles/.... Pair with --object-
+                                  story-spec (or --page-id) to supply the page
+                                  identity.
+  --degrees-of-freedom-spec TEXT  Raw degrees_of_freedom_spec as JSON, or
+                                  @path/to/file.json. Opt into Advantage+
+                                  creative enhancements by setting individual
+                                  features under creative_features_spec (e.g.
+                                  image_brightness_and_contrast,
+                                  text_improvements), each with an
+                                  enroll_status of OPT_IN / OPT_OUT.
+  -h, --help                      Show this message and exit.

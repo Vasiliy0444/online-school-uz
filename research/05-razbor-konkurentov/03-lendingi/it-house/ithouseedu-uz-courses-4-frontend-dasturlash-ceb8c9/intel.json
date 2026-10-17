@@ -1,0 +1,88 @@
+{
+ "url": "https://ithouseedu.uz",
+ "domain": "ithouseedu.uz",
+ "pages_scanned": [
+  "https://ithouseedu.uz/courses/4-frontend-dasturlash"
+ ],
+ "tech_stack": {
+  "analytics": [
+   "Google Analytics (GA4)"
+  ],
+  "platform": [
+   "Next.js"
+  ]
+ },
+ "seo_metadata": {
+  "title": "Frontend-dasturlash | IT House | IT House",
+  "description": "Frontend-dasturchilar saytlar, dasturlar va ilovalarning tashqi qismi bilan ishlaydi. Hamma narsa to‘g‘ri ko‘rsatilishi va ishlashini aynan frontend-dastur...",
+  "open_graph": {
+   "title": "Frontend-dasturlash kursi",
+   "description": "Frontend-dasturchilar saytlar, dasturlar va ilovalarning tashqi qismi bilan ishlaydi. Hamma narsa to‘g‘ri ko‘rsatilishi va ishlashini aynan frontend-dastur...",
+   "image": "https://api.ithouseedu.uz/media/course_banners/ChatGPT_Image_Jul_23_2026_01_30_02_PM.png",
+   "type": "website"
+  },
+  "twitter_card": {
+   "card": "summary_large_image",
+   "title": "Frontend-dasturlash",
+   "description": "Frontend-dasturchilar saytlar, dasturlar va ilovalarning tashqi qismi bilan ishlaydi. Hamma narsa to‘g‘ri ko‘rsatilishi va ishlashini aynan frontend-dastur...",
+   "image": "https://api.ithouseedu.uz/media/course_banners/ChatGPT_Image_Jul_23_2026_01_30_02_PM.png"
+  },
+  "structured_data": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Frontend-dasturlash",
+    "description": "Frontend-dasturchilar saytlar, dasturlar va ilovalarning tashqi qismi bilan ishlaydi. Hamma narsa to‘g‘ri ko‘rsatilishi va ishlashini aynan frontend-dasturchilar nazorat qiladi.",
+    "provider": {
+     "@type": "Organization",
+     "name": "IT House",
+     "sameAs": "https://www.ithouseedu.uz/"
+    },
+    "image": "https://api.ithouseedu.uz/media/course_banners/ChatGPT_Image_Jul_23_2026_01_30_02_PM.png"
+   }
+  ],
+  "headings": {
+   "h1": [
+    "Frontend-dasturlash"
+   ],
+   "h2": [
+    "Batafsil ma&#x27;lumot",
+    "IT HOUSE - Kelajak shu yerda"
+   ],
+   "h3": [
+    "1-modul: HTML &amp; CSS",
+    "2-modul: Advanced CSS &amp; UI",
+    "3-modul: JavaScript Fundamentals",
+    "4-modul: Advanced JavaScript + TypeScript",
+    "5-modul: Vue.js",
+    "6-modul: Nuxt.js",
+    "Ijtimoiy tarmoqlar"
+   ]
+  }
+ },
+ "ctas": [
+  {
+   "text": "Contact",
+   "href": "#support"
+  }
+ ],
+ "sales_motion": {
+  "motion": "unclear",
+  "signals": []
+ },
+ "social_proof": {},
+ "images": {
+  "likely_logos": [
+   "https://ithouseedu.uz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-white.fce634ce.png&amp;w=128&amp;q=75",
+   "https://ithouseedu.uz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-white.fce634ce.png&amp;w=64&amp;q=75"
+  ],
+  "total_images_found": 52
+ },
+ "integration_links": [],
+ "hidden_elements": {
+  "experiments_or_flags": [
+   "outline",
+   "default"
+  ]
+ }
+}

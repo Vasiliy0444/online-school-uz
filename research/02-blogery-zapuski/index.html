@@ -1,0 +1,236 @@
+<title>Карта запусков Узбекистана</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Unbounded:wght@500;600&display=swap">
+<link rel="stylesheet" href="brief.css">
+<style>
+  .stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--gap-2); }
+  .stat { border-radius: 8px; padding: var(--gap-2) var(--gap-3); display: flex; flex-direction: column; gap: 2px; }
+  .stat b { font-family: var(--f-mono); font-size: var(--fs-xl); font-weight: 500; line-height: 1.1; }
+  .stat span { font-size: var(--fs-s); }
+  .stat.ok { background: var(--ok-soft); color: var(--ok); }
+  .stat.warn { background: var(--warn-soft); color: var(--warn); }
+  .stat.bad { background: var(--bad-soft); color: var(--bad); }
+  td .big { font-family: var(--f-mono); font-weight: 500; white-space: nowrap; }
+  @media (max-width: 560px) { .stats { grid-template-columns: 1fr; } }
+</style>
+
+<div class="page">
+  <nav class="toc" aria-label="Содержание">
+    <span class="toc-label">Содержание</span>
+    <ol>
+      <li><a href="#summary"><span class="tag">19</span>Итог</a></li>
+      <li><a href="#earning"><span class="tag">11</span>Ниша заработка</a></li>
+      <li><a href="#adjacent"><span class="tag">3</span>B2B и смежные</a></li>
+      <li><a href="#risk"><span class="tag">5</span>Зона риска</a></li>
+      <li><a href="#first"><span class="tag">→</span>Кого разобрать первым</a></li>
+      <li><a href="#patterns"><span class="tag">≈</span>Как они запускаются</a></li>
+      <li><a href="#gaps"><span class="tag">?</span>Что не проверено</a></li>
+      <li><a href="#sources"><span class="tag">41</span>Источники</a></li>
+    </ol>
+  </nav>
+
+  <main>
+    <header class="masthead">
+      <div class="eyebrow"><span>Дипресёрч</span><span>15 сентября 2026</span><span>Узбекоязычные блогеры</span></div>
+      <h1>Кто в Узбекистане сам запускает курсы по заработку</h1>
+      <p class="lede">Узбекоязычные блогеры с лицом, которые продают собственные курсы и наставничество и запускались в 2025–2026 годах. Продолжение <a href="https://claude.ai/artifact/RGUpxwR5Sn9F54wb1Eq5Hb">брифа по рынку</a>; как весь рынок продаёт через рекламу в Meta — в разборе <a href="https://claude.ai/artifact/7gqxKPKaLiTeGXqRkx3Ctd">воронок узбекоязычной рекламы</a>.</p>
+      <p class="method">Метод: три параллельных поиска — реклама в Meta Ad Library <sup class="src"><a href="#b41">41</a></sup> (21 запрос на узбекском, 200+ объявлений), рейтинги инфлюенсеров, СМИ и продюсеры, Telegram-каталоги и посты. Отсмотрено ~70 кандидатов, критерии прошли 19. Подписчиков Instagram читали из описания профиля, Telegram — со страницы t.me; всё 15.09.2026. Звёздочкой отмечены цифры, которые блогер заявляет о себе сам. Курс: <span class="num">$1 = 11 765</span> сум. Уже известные по брифу игроки (Moxie School, Space Academy, Shahlo Alikhanova и другие) здесь не повторяются.</p>
+    </header>
+
+    <section class="verdict" id="summary" aria-labelledby="summary-title">
+      <div class="call">
+        <h2 id="summary-title">Крупные запускающиеся есть — и живут они в Instagram</h2>
+        <p>У трёх самых больших блогеров в Instagram от 434 до 764 тысяч подписчиков, а Telegram у них маленький. Запуски идут через Instagram: живые разборы, слово в директ, ссылка в профиле. Выручку запусков не раскрывает никто.</p>
+      </div>
+      <div class="stats">
+        <div class="stat ok"><b>11</b><span>ниша заработка: SMM, таргет, ИИ, мобилография, маркетинг</span></div>
+        <div class="stat warn"><b>3</b><span>B2B и смежные: курсы для владельцев бизнеса и агентства</span></div>
+        <div class="stat bad"><b>5</b><span>зона риска: трейдинг, инвестиции, сетевые схемы, эзотерика</span></div>
+      </div>
+    </section>
+
+    <section id="tldr" aria-labelledby="tldr-title">
+      <div class="sec-head"><span class="sec-tag">TL;DR</span><h2 id="tldr-title">Коротко</h2></div>
+      <ul class="tldr">
+        <li><span><strong>Три больших имени:</strong> Asror Iskandarov (764 тыс., школа личного бренда InstaVibe), Alima Oybekovna (756 тыс., маркетинг, живой разбор 23 сентября), seva_ravshanovna_ (434 тыс., SMM и ИИ за $13–21).</span></li>
+        <li><span><strong>Два ценовых полюса.</strong> Массовый дешёвый продукт через рекламу и директ — $8–25. Дорогой продукт для предпринимателей и ИИ — $150–700 у avrangzeb.si и индивидуальное наставничество «20 предпринимателей в год» у Ikhtiyar Dosmetov.</span></li>
+        <li><span><strong>ИИ — самая горячая тема сентября 2026:</strong> ИИ есть в оффере у 3 из 11 блогеров ниши заработка и у Shahlo Alikhanova, которая ведёт две воронки одновременно.</span></li>
+        <li><span><strong>Зона риска рекламируется активнее всех:</strong> инвестиции Uznetix (4+ креатива), форекс Myfxbro («$5 000 → $100 000 за 3 месяца»*), сетевая Premium Pro, которую kun.uz описывает как признаки финансовой пирамиды.</span></li>
+        <li><span><strong>Кейсов с выручкой нет ни у кого.</strong> Посмотреть, как устроена продажа, можно только изнутри воронки: записаться на бесплатный разбор или урок.</span></li>
+      </ul>
+    </section>
+
+    <section id="earning" aria-labelledby="earning-title">
+      <div class="sec-head"><span class="sec-tag">Группа 1 · 11 блогеров</span><h2 id="earning-title">Ниша заработка</h2></div>
+      <div class="table-wrap">
+        <table class="wide">
+          <thead><tr><th class="first">Блогер</th><th>Ниша</th><th class="num">Instagram</th><th class="num">Telegram</th><th>Продукт и цена</th><th>Запуск: механика и дата</th><th>Масштаб</th></tr></thead>
+          <tbody>
+            <tr><td class="first">Asror Iskandarov <sup class="src"><a href="#b1">1</a></sup></td><td>личный бренд и блог для владельцев бизнеса</td><td class="num"><span class="big">764 тыс.</span></td><td class="num">2 988 <sup class="src"><a href="#b3">3</a></sup></td><td>программа InstaVibe: онлайн и офлайн, куратор, созвоны; цена скрыта</td><td>в профиле — ссылка «записаться на уроки», в Telegram регулярные посты о наборе</td><td>700+ учеников InstaVibe* <sup class="src"><a href="#b2">2</a></sup></td></tr>
+            <tr><td class="first">Alima Oybekovna <sup class="src"><a href="#b4">4</a></sup></td><td>маркетинг с нуля, наставничество для бизнеса</td><td class="num"><span class="big">756 тыс.</span></td><td class="num">4 834 <sup class="src"><a href="#b5">5</a></sup></td><td>«Marketing Noldan», «Biznes 101 Mentorlik»; цена скрыта</td><td>в профиле анонс «23 сентября — живой разбор»; Telegram молчит с 09.2024, сайт не открывается</td><td>1 457 публикаций</td></tr>
+            <tr><td class="first">seva_ravshanovna_ <sup class="src"><a href="#b6">6</a></sup></td><td>SMM, ИИ, мобилография, таргет</td><td class="num"><span class="big">434 тыс.</span></td><td class="num">34</td><td>курс по ИИ — 150 тыс. сум ($13); SMM и мобилография — 250 тыс. сум ($21, «было $100»)</td><td>реклама с 08.06 и 30.07.2026 <sup class="src"><a href="#b7">7</a></sup> <sup class="src"><a href="#b8">8</a></sup>; купить — написать «Ai kurs» в директ</td><td>—</td></tr>
+            <tr><td class="first">Ikhtiyar Dosmetov <sup class="src"><a href="#b9">9</a></sup></td><td>цели и бизнес-коучинг</td><td class="num"><span class="big">129 тыс.</span></td><td class="num">5 076 <sup class="src"><a href="#b10">10</a></sup></td><td>30-дневный онлайн-курс «Qadam-baqadam 2.0», книга; личное наставничество</td><td>в профиле «20 предпринимателей в год, только индивидуально»; курс идёт потоками</td><td>5 000+ учеников за всё время*</td></tr>
+            <tr><td class="first">Doniyor FX <sup class="src"><a href="#b11">11</a></sup></td><td>мобилография</td><td class="num"><span class="big">83 тыс.</span></td><td class="num">1 869 <sup class="src"><a href="#b12">12</a></sup></td><td>курс на 2 месяца, 3 занятия в неделю, коллаборации с брендами; цена скрыта</td><td>бесплатный 2-дневный урок «$1000 с одним телефоном»; в названии канала — «11–12 июня, 20:00»</td><td>«около 1 000 учеников»* в Instagram, «150+»* в Telegram</td></tr>
+            <tr><td class="first">avrangzeb.si <sup class="src"><a href="#b13">13</a></sup></td><td>ИИ-контент и вайбкодинг с Claude</td><td class="num">21 тыс.</td><td class="num">админ</td><td>ИИ-контент $150 / $300 / $600; вайбкодинг $200 / $400 / $700 <sup class="src"><a href="#b14">14</a></sup></td><td>реклама с 24.08.2026 <sup class="src"><a href="#b15">15</a></sup>; таймер на 72 часа, VIP на 10–15 мест, возврат 14 дней</td><td>500+ учеников*</td></tr>
+            <tr><td class="first">Rohila Jo'rayeva <sup class="src"><a href="#b16">16</a></sup></td><td>таргет в Meta</td><td class="num">17 тыс.</td><td class="num">контакт</td><td>курс из 15 уроков; цена скрыта</td><td>реклама с 14.09.2026, «места ограничены» <sup class="src"><a href="#b17">17</a></sup></td><td>3 года практики*</td></tr>
+            <tr><td class="first">FURKATOVNA SMM <sup class="src"><a href="#b19">19</a></sup></td><td>личный бренд, SMM, ИИ, продажи, запуски</td><td class="num">100</td><td class="num">3 709 в группе <sup class="src"><a href="#b20">20</a></sup></td><td>курс из 7 блоков, в том числе «Zapusk» — как упаковать и запустить проект; цена скрыта</td><td>реклама с 09.09.2026 <sup class="src"><a href="#b21">21</a></sup>; раньше — «последний набор в декабре»</td><td>—</td></tr>
+            <tr><td class="first">Bepul SMM kurslari <sup class="src"><a href="#b18">18</a></sup></td><td>SMM и заработок на блоге; <span class="chip gap">без лица</span></td><td class="num">—</td><td class="num">4 467</td><td>видеокурс по SMM — 300 тыс. сум ($25), на распродаже 99 тыс. ($8)</td><td>распродажа «только 3 дня», 16.07.2026</td><td>—</td></tr>
+            <tr><td class="first">Aziza Ahmadova</td><td>SMM, мобилография, монтаж</td><td class="num">не найден</td><td class="num">контакт</td><td>офлайн-курс SMM PRO, 30 дней; цена скрыта</td><td>реклама с 26.06.2026, «мест мало» <sup class="src"><a href="#b22">22</a></sup></td><td><span class="chip md">личность не подтверждена</span></td></tr>
+            <tr><td class="first">Salihov Target</td><td>таргет</td><td class="num">не проверен</td><td class="num">контакт</td><td>индивидуальные уроки; цена скрыта</td><td>реклама с 14.08.2026, заявка через директ <sup class="src"><a href="#b23">23</a></sup></td><td>—</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="caption">Обновление по уже известной Shahlo Alikhanova: сейчас идут сразу две воронки — вебинар по ИИ 16–17.09.2026 (12+ объявлений) <sup class="src"><a href="#b39">39</a></sup> и видеоурок про заработок на ИИ (4+ объявления) <sup class="src"><a href="#b38">38</a></sup>.</p>
+    </section>
+
+    <section id="adjacent" aria-labelledby="adjacent-title">
+      <div class="sec-head"><span class="sec-tag">Группа 2 · 3 проекта</span><h2 id="adjacent-title">B2B и смежные</h2></div>
+      <div class="table-wrap">
+        <table class="mid">
+          <thead><tr><th class="first">Проект</th><th>Для кого</th><th class="num">Telegram</th><th>Запуск</th><th>Масштаб</th></tr></thead>
+          <tbody>
+            <tr><td class="first">Tizim Markaz (Axrolxo'ja Raxmatxo'jayev)</td><td>владельцы учебных центров: систематизация за 2 месяца, курс ораторского мастерства</td><td class="num">1 023</td><td>набор 03.06.2026 <sup class="src"><a href="#b24">24</a></sup></td><td>350+ выпускников*</td></tr>
+            <tr><td class="first">Top Mentors (Miralisher Xanjarov)</td><td>застройщики: системы продаж и маркетинга</td><td class="num">—</td><td>реклама с 28.08.2026, заявка через форму <sup class="src"><a href="#b25">25</a></sup></td><td>кейс «418 договоров за 10 дней, 40 млрд сум»*</td></tr>
+            <tr><td class="first">Otabek Sharapov</td><td>канал про маркетинг; руководит агентством 605 и креативной школой Duv-Duv Gap <sup class="src"><a href="#b27">27</a></sup></td><td class="num">9 883 <sup class="src"><a href="#b26">26</a></sup></td><td>явного платного запуска в ленте не видно</td><td>—</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="risk" aria-labelledby="risk-title">
+      <div class="sec-head"><span class="sec-tag">Группа 3 · 5 проектов</span><h2 id="risk-title">Зона риска: конкурируют за ту же аудиторию</h2></div>
+      <div class="table-wrap">
+        <table class="wide">
+          <thead><tr><th class="first">Проект</th><th>Что продают</th><th class="num">Telegram</th><th>Запуск</th><th>Почему риск</th></tr></thead>
+          <tbody>
+            <tr><td class="first">Uranus <sup class="src"><a href="#b28">28</a></sup></td><td>трейдинг и инвестиции; тарифы около 10 / 12 / 25 млн сум ($850 / $1 020 / $2 125) по статье 2024 года <sup class="src"><a href="#b29">29</a></sup></td><td class="num">17 627</td><td>ежедневная аналитика, отдельный канал с результатами учеников</td><td>высокий чек, результаты — самоотчёт</td></tr>
+            <tr><td class="first">Uznetix (Azam Azizov) <sup class="src"><a href="#b30">30</a></sup></td><td>инвестиции в акции США и Узбекистана</td><td class="num">13 485</td><td>4+ креатива с 22.07.2026 <sup class="src"><a href="#b31">31</a></sup>; бесплатный онлайн-тренинг как вход</td><td>обещания дохода от инвестиций</td></tr>
+            <tr><td class="first">Myfxbro <sup class="src"><a href="#b32">32</a></sup></td><td>3-месячный курс форекса с ноутбуком и книгами</td><td class="num">5 902</td><td>реклама с 07.09.2026 <sup class="src"><a href="#b33">33</a></sup></td><td>обещание «с $5 000 до $100 000»*; 3 200+ учеников*</td></tr>
+            <tr><td class="first">Premium Pro (Ikromjon Tojiddinov) <sup class="src"><a href="#b34">34</a></sup></td><td>сетевой маркетинг духов, «бизнес без вложений»; 1,56–4,69 млн сум ($133–398)</td><td class="num">861</td><td>Instagram основателя — 29 тыс. <sup class="src"><a href="#b40">40</a></sup></td><td>kun.uz (27.03 и 04.07.2026): закупка в Дубае за $9–15, доход идёт от привлечения людей, признаки финансовой пирамиды, пострадавшие теряли 7–30 млн сум <sup class="src"><a href="#b35">35</a></sup> <sup class="src"><a href="#b36">36</a></sup>; реакции регуляторов в статьях нет</td></tr>
+            <tr><td class="first">Mavlyuda Dadajonova</td><td>«диагностика денежного блока» по авторской методике</td><td class="num">контакт</td><td>реклама с 08.09.2026 <sup class="src"><a href="#b37">37</a></sup></td><td>эзотерический коучинг дохода</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="first" aria-labelledby="first-title">
+      <div class="sec-head"><span class="sec-tag">Что изучить</span><h2 id="first-title">Кого разобрать первым</h2></div>
+      <div class="grid-2">
+        <article class="card">
+          <h3>Alima Oybekovna — живой разбор 23 сентября</h3>
+          <p class="small">Самое свежее событие у крупного блогера. Можно увидеть весь цикл продажи вживую: разбор → оффер → чек.</p>
+          <p class="small muted">Посмотреть: что продают в конце эфира, какую цену называют, ведут ли в директ или к менеджеру.</p>
+        </article>
+        <article class="card">
+          <h3>Asror Iskandarov — InstaVibe</h3>
+          <p class="small">Самая большая аудитория (764 тыс.) и отдельная школа для владельцев бизнеса. 700+ учеников*.</p>
+          <p class="small muted">Посмотреть: цену и тарифы (сайт закрывает доступ роботам), как устроена запись.</p>
+        </article>
+        <article class="card">
+          <h3>seva_ravshanovna_ — массовый дешёвый продукт</h3>
+          <p class="small">434 тыс. подписчиков, курсы за $13–21, продажа по слову в директ без лендинга. Ближе всего к «запуску без вебинара».</p>
+          <p class="small muted">Посмотреть: что приходит в ответ на «Ai kurs», есть ли апсейл после дешёвого курса.</p>
+        </article>
+        <article class="card">
+          <h3>avrangzeb.si — дорогой ИИ</h3>
+          <p class="small">Цены в долларах от $150 до $700, таймер, ограниченный VIP, возврат 14 дней. Ближе всего к твоей идее про ИИ.</p>
+          <p class="small muted">Посмотреть: сколько живут скидки после окончания таймера, что входит в менторство.</p>
+        </article>
+        <article class="card">
+          <h3>Doniyor FX — классика «бесплатный урок → курс»</h3>
+          <p class="small">83 тыс. подписчиков, двухдневный бесплатный урок с обещанием «$1000 с одним телефоном».</p>
+          <p class="small muted">Посмотреть: доходимость, как на втором дне появляется продажа, какая цена и рассрочка.</p>
+        </article>
+        <article class="card">
+          <h3>Как пройти воронки</h3>
+          <p class="small">Регистрироваться на вебинары и писать в директ я не могу: для этого нужны твои контакты. Удобнее всего с отдельного Instagram и Telegram-аккаунта. Могу подготовить чек-лист, что фиксировать на каждом шаге.</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="patterns" aria-labelledby="patterns-title">
+      <div class="sec-head"><span class="sec-tag">Наблюдения</span><h2 id="patterns-title">Как они запускаются</h2></div>
+      <div class="findings">
+        <div class="finding">
+          <ul>
+            <li><strong>Instagram — главная площадка, Telegram — вспомогательная.</strong> У трёх крупнейших в Telegram от 34 до 4 834 подписчиков против 434–764 тысяч в Instagram. Исключение — новые блогеры: у FURKATOVNA SMM 3 709 человек в Telegram-группе и 100 в Instagram.</li>
+            <li><strong>Продажа без лендинга.</strong> «Напишите слово в директ» (seva_ravshanovna_), «оставьте комментарий kurs» (avrangzeb.si), ссылка в профиле (Asror Iskandarov). Лендинг с ценами — редкость.</li>
+            <li><strong>Бесплатный вход короткий.</strong> 2-дневный урок (Doniyor FX, Shahlo Alikhanova), живой разбор (Alima Oybekovna), бесплатный тренинг (Uznetix).</li>
+            <li><strong>Срочность — стандарт.</strong> Таймер на 72 часа, «места ограничены», «последний набор», «только 3 дня», «было $100 — стало 250 тыс. сум».</li>
+            <li><strong>Цены почти всегда скрыты.</strong> Открыто показывают только avrangzeb.si, seva_ravshanovna_ (в объявлении) и распродажа Bepul SMM.</li>
+            <li><strong>Двое из трёх крупнейших продают предпринимателям, а не «заработок с нуля».</strong> Личный бренд для владельцев бизнеса, маркетинг, индивидуальное наставничество — там и аудитория, и чек выше.</li>
+          </ul>
+        </div>
+      </div>
+      <p class="caption">Кроме блогеров, в той же рекламе видны 13 школ, в том числе региональные (Наманган, Андижан, Каракалпакстан), и государственная бесплатная программа SMM AI Savodxon.</p>
+    </section>
+
+    <section id="gaps" aria-labelledby="gaps-title">
+      <div class="sec-head"><span class="sec-tag">Честно</span><h2 id="gaps-title">Что не удалось проверить</h2></div>
+      <div class="prose">
+        <ul>
+          <li>Выручку и число продаж запусков не раскрывает ни один блогер.</li>
+          <li>Цены у Asror Iskandarov, Alima Oybekovna, Doniyor FX, Rohila Jo'rayeva и Ikhtiyar Dosmetov — только после записи, директа или звонка.</li>
+          <li>После нескольких проверок подряд Instagram стал закрывать профили без входа. У Myfxbro, Mavlyuda Dadajonova, Salihov Target и Aziza Ahmadova подписчики не проверены.</li>
+          <li>Отсутствие рекламы у Alima Oybekovna, InstaVibe и Doniyor FX не доказано: библиотека Meta ищет по тексту объявлений, а не по названию страницы.</li>
+          <li>Личность Aziza Ahmadova и владелец FURKATOVNA SMM подтверждены не полностью.</li>
+          <li>Годы в анонсах («11–12 июня» у Doniyor FX, «последний набор в декабре» у FURKATOVNA SMM) явно не указаны.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="sources" aria-labelledby="sources-title">
+      <div class="sec-head"><span class="sec-tag">41 источник · проверено 15.09.2026</span><h2 id="sources-title">Источники</h2></div>
+      <h3>Профили, каналы, лендинги и объявления</h3>
+      <ol class="sources">
+        <li id="b1" value="1"><a href="https://www.instagram.com/asror.iskandar0v/">Asror Iskandarov в Instagram</a> <span class="dom">instagram.com</span></li>
+        <li id="b2" value="2"><a href="https://www.instagram.com/instavibe.uz/">InstaVibe в Instagram</a> <span class="dom">instagram.com</span></li>
+        <li id="b3" value="3"><a href="https://t.me/asroriskandarov">Asror Iskandarov в Telegram</a> <span class="dom">t.me</span></li>
+        <li id="b4" value="4"><a href="https://www.instagram.com/alima_oybekovna/">Alima Oybekovna в Instagram</a> <span class="dom">instagram.com</span></li>
+        <li id="b5" value="5"><a href="https://t.me/marketingnooldan">Marketing Noldan в Telegram</a> <span class="dom">t.me</span></li>
+        <li id="b6" value="6"><a href="https://www.instagram.com/seva_ravshanovna_/">seva_ravshanovna_ в Instagram</a> <span class="dom">instagram.com</span></li>
+        <li id="b7" value="7"><a href="https://www.facebook.com/ads/library/?id=1613201869778665">Объявление: курс SMM и мобилографии</a> <span class="dom">Meta Ad Library</span></li>
+        <li id="b8" value="8"><a href="https://www.facebook.com/ads/library/?id=2987436708261481">Объявление: курс по ИИ</a> <span class="dom">Meta Ad Library</span></li>
+        <li id="b9" value="9"><a href="https://www.instagram.com/ikhtiyar_dosmetov/">Ikhtiyar Dosmetov в Instagram</a> <span class="dom">instagram.com</span></li>
+        <li id="b10" value="10"><a href="https://t.me/ikhtiyar_dosmetov_official">Ikhtiyar Dosmetov в Telegram</a> <span class="dom">t.me</span></li>
+        <li id="b11" value="11"><a href="https://www.instagram.com/doniyorfx/">Doniyor FX в Instagram</a> <span class="dom">instagram.com</span></li>
+        <li id="b12" value="12"><a href="https://t.me/doniyorfx">Doniyor FX в Telegram</a> <span class="dom">t.me</span></li>
+        <li id="b13" value="13"><a href="https://www.instagram.com/avrangzeb.si/">avrangzeb.si в Instagram</a> <span class="dom">instagram.com</span></li>
+        <li id="b14" value="14"><a href="https://avrangzeb-si.vercel.app/">Лендинг avrangzeb.si: тарифы</a> <span class="dom">vercel.app</span></li>
+        <li id="b15" value="15"><a href="https://www.facebook.com/ads/library/?id=1371165798558828">Объявление avrangzeb.si</a> <span class="dom">Meta Ad Library</span></li>
+        <li id="b16" value="16"><a href="https://www.instagram.com/latibjonova_rohila/">Rohila Jo'rayeva в Instagram</a> <span class="dom">instagram.com</span></li>
+        <li id="b17" value="17"><a href="https://www.facebook.com/ads/library/?id=943146635501211">Объявление: курс таргета из 15 уроков</a> <span class="dom">Meta Ad Library</span></li>
+        <li id="b18" value="18"><a href="https://t.me/bepul_smm_kurs/2880">Bepul SMM kurslari: пост о распродаже</a> <span class="dom">t.me · 16.07.2026</span></li>
+        <li id="b19" value="19"><a href="https://www.instagram.com/furkatovna.smm/">FURKATOVNA SMM в Instagram</a> <span class="dom">instagram.com</span></li>
+        <li id="b20" value="20"><a href="https://t.me/furkatovna_smm">FURKATOVNA SMM: группа в Telegram</a> <span class="dom">t.me</span></li>
+        <li id="b21" value="21"><a href="https://www.facebook.com/ads/library/?id=1057114310531276">Объявление: курс с блоком «Zapusk»</a> <span class="dom">Meta Ad Library</span></li>
+        <li id="b22" value="22"><a href="https://www.facebook.com/ads/library/?id=1020863190802159">Объявление: офлайн-курс SMM PRO</a> <span class="dom">Meta Ad Library</span></li>
+        <li id="b23" value="23"><a href="https://www.facebook.com/ads/library/?id=1359258849193669">Объявление: индивидуальные уроки таргета</a> <span class="dom">Meta Ad Library</span></li>
+        <li id="b24" value="24"><a href="https://t.me/TizimMarkaz/768">Tizim Markaz: пост о наборе</a> <span class="dom">t.me · 03.06.2026</span></li>
+        <li id="b25" value="25"><a href="https://www.facebook.com/ads/library/?id=3651638781656079">Объявление Top Mentors</a> <span class="dom">Meta Ad Library</span></li>
+        <li id="b26" value="26"><a href="https://t.me/marketingbolimi">Marketing bo'limi в Telegram</a> <span class="dom">t.me</span></li>
+        <li id="b27" value="27"><a href="https://605agency.uz/">Агентство 605</a> <span class="dom">605agency.uz</span></li>
+        <li id="b28" value="28"><a href="https://t.me/uranus_invest_uz">Uranus в Telegram</a> <span class="dom">t.me</span></li>
+        <li id="b30" value="30"><a href="https://t.me/uznetix">Uznetix в Telegram</a> <span class="dom">t.me</span></li>
+        <li id="b31" value="31"><a href="https://www.facebook.com/ads/library/?id=1687841545835931">Объявление Uznetix</a> <span class="dom">Meta Ad Library</span></li>
+        <li id="b32" value="32"><a href="https://t.me/myfxbro">Myfxbro в Telegram</a> <span class="dom">t.me</span></li>
+        <li id="b33" value="33"><a href="https://www.facebook.com/ads/library/?id=1095898190053365">Объявление Myfxbro</a> <span class="dom">Meta Ad Library</span></li>
+        <li id="b34" value="34"><a href="https://t.me/Ikromjon_Tojiddinov">Ikromjon Tojiddinov в Telegram</a> <span class="dom">t.me</span></li>
+        <li id="b37" value="37"><a href="https://www.facebook.com/ads/library/?id=1554174292563445">Объявление: «денежный блок»</a> <span class="dom">Meta Ad Library</span></li>
+        <li id="b38" value="38"><a href="https://alikhanova.aicreator.academy/">Лендинг Shahlo Alikhanova</a> <span class="dom">aicreator.academy</span></li>
+        <li id="b39" value="39"><a href="https://www.facebook.com/ads/library/?id=1632092101784848">Объявление: вебинар Shahlo Alikhanova</a> <span class="dom">Meta Ad Library</span></li>
+        <li id="b40" value="40"><a href="https://www.instagram.com/ikromjon_tojiddinov/">Ikromjon Tojiddinov в Instagram</a> <span class="dom">instagram.com</span></li>
+        <li id="b41" value="41"><a href="https://www.facebook.com/ads/library/">Meta Ad Library: поиск объявлений по стране</a> <span class="dom">facebook.com</span></li>
+      </ol>
+      <h3>СМИ</h3>
+      <ol class="sources">
+        <li id="b29" value="29"><a href="https://www.spot.uz/oz/2024/04/26/trading/">Трейдинг-школы и их тарифы</a> <span class="dom">spot.uz · 04.2024</span></li>
+        <li id="b35" value="35"><a href="https://kun.uz/news/2026/03/27/biznes-trenerdan-tqarmoqli-marketing-atir-illyuziyasi-va-pufak-biznes">Расследование о Premium Pro, часть 1</a> <span class="dom">kun.uz · 27.03.2026</span></li>
+        <li id="b36" value="36"><a href="https://kun.uz/news/2026/07/04/premium-pro-ishi-vadalar-sirlar-va-xonavayron-bolayotgan-odamlar-2-qism">Расследование о Premium Pro, часть 2</a> <span class="dom">kun.uz · 04.07.2026</span></li>
+      </ol>
+    </section>
+
+    <footer>Дипресёрч · 15.09.2026 · задача CURSOR-dyh6. Только публичная информация о публичных аккаунтах. Цифры со звёздочкой — заявления самих блогеров.</footer>
+  </main>
+</div>

@@ -1,0 +1,76 @@
+{
+  "url": "https://qadam.education",
+  "domain": "qadam.education",
+  "pages_scanned": [
+    "https://qadam.education/uzum-pdf",
+    "https://qadam.education/smmvebinar",
+    "https://qadam.education/oferta"
+  ],
+  "tech_stack": {
+    "analytics": [
+      "Google Analytics (GA4)",
+      "Google Tag Manager"
+    ],
+    "ad_pixel": [
+      "Meta Pixel"
+    ]
+  },
+  "seo_metadata": {
+    "title": "Uzum Marketda 0 dan savdo qilib 3 oyda $2000 daromadga chiqish uchun qo'llanma",
+    "description": "Qo&#039;llanmani olish uchun ma&#039;lumotlaringizni to&#039;ldiring va telegram kanalimizga o&#039;ting",
+    "open_graph": {
+      "url": "https://qadam.education/oferta",
+      "title": "\u041f\u0443\u0431\u043b\u0438\u0447\u043d\u0430\u044f \u043e\u0444\u0435\u0440\u0442\u0430",
+      "description": "Vebinarda qatnashing va barcha savollaringizga javob oling",
+      "type": "website",
+      "image": "https://static.tildacdn.one/tild3162-3234-4237-a662-356237333232/Frame_181.png"
+    },
+    "canonical": "https://qadam.education/uzum-pdf"
+  },
+  "ctas": [],
+  "sales_motion": {
+    "motion": "unclear",
+    "signals": []
+  },
+  "social_proof": {},
+  "images": {
+    "likely_logos": [
+      "https://static.tildacdn.one/tild6338-6537-4661-a239-346462383264/Star_12.svg",
+      "https://static.tildacdn.one/tild6466-3763-4132-b166-633339363166/Logoblock_3.svg"
+    ],
+    "total_images_found": 5
+  },
+  "integration_links": [],
+  "hidden_elements": {
+    "html_comments": [
+      "metatextblock",
+      "/metatextblock",
+      "Meta Pixel Code",
+      "End Meta Pixel Code",
+      "nominify end",
+      "Global Site Tag (gtag.js) - Google Analytics",
+      "googleoff: all",
+      "googleon: all",
+      "/allrecords",
+      "Yandex.Metrika counter 102020541",
+      "/Yandex.Metrika counter",
+      "metatextblock",
+      "/metatextblock",
+      "Meta Pixel Code",
+      "End Meta Pixel Code",
+      "nominify end",
+      "Global Site Tag (gtag.js) - Google Analytics",
+      "@classes t-title t-text t-btn",
+      "/allrecords",
+      "Yandex.Metrika counter 102020541"
+    ]
+  },
+  "google_ids": {
+    "ga4": [
+      "G-PTHDY45413"
+    ],
+    "gtm": [
+      "GTM-T5VCRHRZ"
+    ]
+  }
+}

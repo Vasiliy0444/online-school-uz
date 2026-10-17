@@ -1,0 +1,97 @@
+{
+ "url": "https://qadam.education/ai-hunarmand",
+ "school_id": "qadam",
+ "snapshot_date": "2026-09-16",
+ "is_archive": false,
+ "stage": "основной продукт",
+ "builder": "Tilda",
+ "pixels": [
+  "Meta Pixel",
+  "Google Analytics (GA4)",
+  "Google Tag Manager",
+  "Яндекс.Метрика"
+ ],
+ "promise": {
+  "found": true,
+  "value": "Будущее — за теми, кто владеет ИИ: один курс и 4 навыка — контент, сайт, бот, приложение",
+  "quote": "Kelajak Sun'iy Intellektni biladigan insonlar qo'lida!\nKontent\nSayt\nBot\nIlova\n…\n1 ta kursda 4 ta\nkuchli ko'nikma",
+  "where": "первый экран"
+ },
+ "income_claim": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "audience": {
+  "found": true,
+  "value": "Шесть групп: представители творческих профессий, технические специалисты, маркетологи и SMM, предприниматели и стартаперы, все, кто ищет новые возможности, будущие программисты",
+  "quote": "Bu kursimiz kim uchun mo'ljallangan?\nIjodiy soha vakillari uchun\nTexnik mutaxassislar uchun\nMarketing va SMM bilan ishlaydiganlar uchun\nTadbirkorlar va startapchilar uchun\nYangi imkoniyat izlayotgan har kim uchun\nDasturchi bo'lmoqchi bo'lganlar uchun",
+  "where": "середина"
+ },
+ "program": {
+  "found": true,
+  "modules": 18,
+  "format": "неизвестно",
+  "quote": "\"AI Hunarmand\" kurs dasturi\nKontent yaratish yo'nalish dasturi:\n1-modul | AI Inqilobi va \"Miya\"ni Sozlash\n…\n8-modul | Bonus darslar\nVibe Coding yo'nalish dasturi:\n1-modul | Vibe-koder tafakkuri va bozor\n…\n10-modul | Masshtablash va tizimli daromad"
+ },
+ "speaker": {
+  "found": true,
+  "value": "Два спикера (самоотчёт): Orifjon Solijonov — направление «Kontent yaratish», 3 года в digital, около 2 лет в контенте и маркетинге, 1 год контента с ИИ, «100+ webdizaynlar, 70+ video-roliklar, 100+ dizayn proektlar»; Zokirov Javlon — направление «Vibe Coding», Senior Fullstack с опытом 5+ лет, работал с местными (Xonsaroy, Uzbegim Development, ADM HOLDING и др.) и международными (Sigma Software, First BIT) компаниями",
+  "quote": "Kontent yaratish yo'nalishi spikeri\nOrifjon Solijonov\nDigital sferada 3 yillik tajriba\nKontent making va marketing sohada 2 yilga yaqin tajriba\nSun'iy intellektlar orqali kontent qilishda 1 yillik tajriba\n…\nVibe Coding yo'nalishi spikeri\nZokirov Javlon\n5+ yildan ortiq tajribaga ega Senior Fullstack dasturchi",
+  "where": "середина"
+ },
+ "social_proof": {
+  "types": [
+   "нет"
+  ]
+ },
+ "price": {
+  "found": false,
+  "hidden_reason": "цены нет; после квиза из 4 вопросов — имя и телефон «Bog'lanish uchun» (обратная связь)"
+ },
+ "installments": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "guarantee": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "discounts": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "bonuses": {
+  "found": true,
+  "value": "Бонусные уроки — 8-й модуль направления «Kontent yaratish»",
+  "quote": "8-modul | Bonus darslar",
+  "where": "середина"
+ },
+ "deadline": {
+  "found": false,
+  "where": "не найдено"
+ },
+ "form": {
+  "present": true,
+  "fields": [
+   "квиз-вопросы",
+   "возраст",
+   "имя",
+   "телефон"
+  ]
+ },
+ "next_step": "звонок менеджера",
+ "closed": true,
+ "message_match": {
+  "library_id": "1626748059011560",
+  "scores": {
+   "promise_continuity": 8,
+   "language_match": 7,
+   "visual_continuity": 5,
+   "cta_alignment": 9,
+   "specificity_match": 5,
+   "emotional_match": 8
+  },
+  "total_of_60": 42
+ },
+ "notes": "Курс «AI Hunarmand» (first_seen 26.08.2026): два направления в одном курсе — «Kontent yaratish» (8 модулей, в том числе «2-modul | Vizual Muhandislik: Nano Banana Pro», «6-modul | \"Grand Master\" Amaliyoti: AI Mini-Serial», «7-modul | Daromad va Portfolio», «8-modul | Bonus darslar») и «Vibe Coding» (10 модулей: промпт-инжиниринг, IDE, фронтенд с ИИ, «Backend va Python», «Flutter va mobil ilovalar», «Pul va mijozlar», «Shaxsiy brend va upakovka», «Masshtablash va tizimli daromad»); modules = 8 + 10. Длительность и формат (онлайн/офлайн) не указаны; FAQ на странице нет — поэтому нет и рассрочки (на Uzum- и YouTube-страницах она в FAQ). Порядок: шапка с полосой «Siz → Yangi Daromad» и плашкой «Sahifani yopmang va yangilamang» → заголовок, «Kontent › Sayt › Bot › Ilova», кнопки «Bepul konsultatsiya» и «Kurs dasturi» → лента логотипов инструментов (на скриншоте Cursor, Higgsfield, Google Veo 3, ElevenLabs) → «Bu kursimiz kim uchun mo'ljallangan?» → «1 ta kursda 4 ta kuchli ko'nikma» → спикеры с портфолио → программа → «Sun’iy intellekt — bu imkoniyat. Kim uni birinchi o‘rgansa, o‘sha yutadi!» → сертификат «…rezyumega qo’shib qo’yasiz» → квиз «Yangi daromadingiz sari atigi 1% qoldi» (возраст от «15–18», зачем учить ИИ, какой результат, когда начать; «Step: 1/5») → имя и телефон → подвал. Соцдоказательств учеников нет — только портфолио и клиенты спикеров (самоотчёт). Цены, гарантии, скидок, дедлайна нет; дохода в цифрах на странице нет (income_claim не заполнен). Сертификат — обещание курса, не бонус. Этап «основной продукт»; stage_auto «оферта или оплата» — из-за ссылки на оферту. Реклама: 5 объявлений AI_Ismoil V1–V5 с 26.08 (22 дня, без ранга). Квиз этого курса — ai/quiz (3 объявления AI_QUIZ с 07.09): шаблон uzum/quiz, «🤖 60 soniyalik test», в конце скидка 30% и звонок менеджера — описан в notes qadam-education-uzum-quiz-c4e4fa.json. message_match: у 5 объявлений одинаковый срок и нет ранга — взято V1, 1626748059011560 (текст «🤖 AI kursi: Sun’iy intellekt orqali daromad qilishni o‘rganing! … 📥 Joylar soni cheklangan — ro‘yxatdan o‘ting va yangi daromad manbaini oching!», ролик 78 с, CTA «Learn more»). Черновая расшифровка: сколько ИИ-специалист зарабатывает за день; «talab bor, lekin taklif yo'q»; день специалиста — ролик для строительной компании за $100 (≈ 1 176 500 сум), делается за 4–5 часов с помощью Nano Banana, Higgsfield и других ИИ-сервисов, два таких в день; курс AI Hunarmand учит фото, видео, сайт, Telegram-бот и приложение; школа обучила «yetti mingdan ortiq» человек; «bepul konsultatsiyaga yoziling»; на экране «KUNLIK DAROMAD 2 430 000». Страница продолжает оффер (те же 4 навыка, «Bepul konsultatsiya», Nano Banana, логотипы Higgsfield и Veo) и тон «успей первым»; на ней нет дохода в цифрах, числа «7000+» и «joylar soni cheklangan». Скриншот совпадает с первым экраном."
+}

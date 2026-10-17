@@ -1,0 +1,98 @@
+{
+ "creative_id": "2643039256114579",
+ "platform": "meta",
+ "school_id": "bir-group",
+ "format": {
+  "type": "видео",
+  "duration_bucket": "31–60 с",
+  "aspect": "9:16"
+ },
+ "style": [
+  "говорящая голова",
+  "постановка или скетч"
+ ],
+ "hook": {
+  "verbatim": "Hech kim kelib seni hayotingni o'zgartirib bermaydi, yoki buni uchun yordam bermaydi.",
+  "types": [
+   "боль"
+  ],
+  "visual": [
+   "лицо в первом кадре",
+   "крупный текст",
+   "движение или смена кадра"
+  ],
+  "evidence": [
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg верхний ряд, 0.0s–2.5s: мужчина в белой футболке на фоне мечети/медресе (минарет), говорит в камеру; титры собираются в «HECH KIM KELIB» → «SENI HAYOTINGNI» → «O'ZGARTIRIB» → «BERMAYDI» → «YOKI BUNI UCHUN» → «YORDAM BERMAYDI»",
+    "timecode": "00:00"
+   },
+   {
+    "source": "текст на кадре",
+    "quote": "sheet_hook.jpg нижний ряд (~3–5с, оценочно): постановочная вставка — мужчина лежит на диване со смартфоном, затем смена на ночную сцену (тот же силуэт со смартфоном в синем свете экрана)",
+    "timecode": "00:03"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:00] Hechkim gelib sen hayatin uzgadir bermeydi, ya ki bunuchun yardan bermeydi.",
+    "timecode": "00:00"
+   }
+  ]
+ },
+ "meaning": {
+  "main": [
+   "доход",
+   "доверие и окупаемость",
+   "профессия будущего"
+  ],
+  "evidence": [
+   {
+    "source": "расшифровка",
+    "quote": "[00:22] 650 milion somdan kub daramat tapishti.",
+    "timecode": "00:22"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:20] Bunna aling yorklarimizda okukyan okuchilar,",
+    "timecode": "00:20"
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:25] Grafik dizayn, mablografiya, video mantaj, [00:28] va baska zamani kasklar boycha.",
+    "timecode": "00:25"
+   }
+  ]
+ },
+ "offer": {
+  "items": [
+   "бесплатный вебинар",
+   "бонус",
+   "дедлайн или ограничение мест"
+  ],
+  "evidence": [
+   {
+    "source": "текст объявления",
+    "quote": "Buning uchun 500 ta grant ajratilgan. 25-sentabr kuni onlayn taqdimot bo‘lib o‘tadi."
+   },
+   {
+    "source": "расшифровка",
+    "quote": "[00:13] birgirov jamasildan 500-ta talim grant-i. [00:16] Yetkili zamani kask boycha, be pulga oqishiz munkun.",
+    "timecode": "00:13"
+   }
+  ]
+ },
+ "cta": {
+  "button": "Learn more",
+  "in_creative": "бот или канал Telegram",
+  "destination": "лендинг",
+  "funnel_stage": "вебинар или мастер-класс"
+ },
+ "speaker": {
+  "role": "основатель или эксперт"
+ },
+ "language": "узбекский латиница",
+ "burned_subtitles": true,
+ "risk": false,
+ "confidence": "средняя",
+ "notes": "Хук на кадре («Hech kim kelib seni hayotingni o'zgartirib bermaydi, yoki buni uchun yordam bermaydi» — «Никто не придёт и не изменит твою жизнь за тебя, и не поможет тебе в этом») хорошо совпадает с расшифровкой — высокая согласованность для этого ролика. Тот же спикер (белая футболка, круглый петличный микрофон, фон — мечеть/медресе с минаретом) по кадрам похож на ведущего из sheet_overview креатива 1129820676137866 — вероятно, один и тот же исполнитель/локация для нескольких роликов подборки. После хука — постановочная вставка «диванный лентяй со смартфоном» (день/ночь), это скетч-иллюстрация «пассивности», не реальный отзыв. income_claim: «650 million so'mdan ko'p daromad topishdi» — по написанию исправлено из расшифровки «650 milion somdan kub daramat tapishti»; это совокупный доход учеников ПРЕДЫДУЩИХ потоков в целом («bunna aldin o'qigan o'quvchilar» — по смыслу расшифровки), а не подушевой доход и не доход текущего набора — фиксирую как заявление школы (со звёздочкой). Профессии (grafik dizayn, mablografiya/videografiya) явно названы в самой расшифровке этого ролика, не только в тексте объявления — поэтому «профессия будущего» опирается на собственный контент креатива. Ролик зовёт нажать кнопку и присоединиться к каналу таqdimot («pastak digmanı basib 25-ci sentyabr gün boladiga, onlayn taqdimatimiz kanalgi koshilin»), а link_url ведёт на лендинг bir-group-webinar.vercel.app/a/ — стандартное расхождение Telegram/лендинг."
+}
