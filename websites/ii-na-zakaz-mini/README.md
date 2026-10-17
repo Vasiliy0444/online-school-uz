@@ -12,9 +12,12 @@
 
 ## Настройки — `js/main.js`
 
-- `BOT_USERNAME` — имя бота мини-курса без @. Пока пусто, кнопки ведут на `https://t.me/`.
+- `BOT_USERNAME` — имя бота мини-курса без @: `uz_ai_school_bot` (Вася, 17.10.2026). Если стереть, кнопки ведут на `https://t.me/`.
 - Метка для бота уходит в параметр `start`: `vm-<utm_source>-<utm_campaign>-<utm_content>` или `vm-direct`, не длиннее 64 знаков. Источник — последний: метки из адреса запоминаются в браузере.
-- События уходят в `window.dataLayer`: `page_view`, `cta_click`, `block_view`, `faq_open`. Пикселя Meta и Метрики пока нет.
+- События уходят в `window.dataLayer`: `page_view`, `cta_click`, `block_view`, `faq_open`. Метрики нет.
+- Пиксель Meta — датасет `UZ_course_pix` (`3217856658404769`) в БМ кабинета «Uzbekustan RK». Базовый код с `PageView` — в `<head>` (`src/index.src.html`).
+  `Lead` уходит из `js/main.js` при нажатии любой кнопки в бота, один раз за загрузку страницы: на это событие оптимизируются группы объявлений.
+  Под автотестами (`navigator.webdriver`) пиксель не грузится, чтобы `qa.py` не слал события в Meta.
 
 ## Заголовки под хуки
 

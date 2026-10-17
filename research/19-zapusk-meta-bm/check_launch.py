@@ -171,7 +171,11 @@ def check_fresh(launch: dict, registry: list[dict], errors: list[str]) -> None:
 
 def check_placeholders(launch: dict, warnings: list[str]) -> None:
     account = launch["account"]
+    ids = json.loads(L.IDS_FILE.read_text(encoding="utf-8"))
     for key in ("pixel_id", "page_id", "instagram_user_id"):
+        # Instagram можно не подключать, если решение записано в ids.json (instagram_note)
+        if key == "instagram_user_id" and ids.get("instagram_note"):
+            continue
         if not account.get(key):
             warnings.append(f"ids.json: {key} не задан — до заливки нужен реальный ID (этап 0 плана)")
 
