@@ -1,0 +1,327 @@
+{
+ "_about": "Пересборка 17.10 по голосовому Васи: группы по аудиториям (широкая, Advantage+, 3 интересные; похожая — позже). Каждый креатив минимум в 2 аудиториях, в группе до 5 объявлений. UZ, мужчины и женщины, 18–45. Ссылки на https://aibuyurtma.com/.",
+ "landing": "https://aibuyurtma.com/",
+ "daily_budget_cents": 170,
+ "audiences": {
+  "br": {
+   "title": "Широкая, без интересов",
+   "targeting": {
+    "geo_locations": {
+     "countries": [
+      "UZ"
+     ],
+     "location_types": [
+      "home",
+      "recent"
+     ]
+    },
+    "age_min": 18,
+    "age_max": 45,
+    "publisher_platforms": [
+     "facebook",
+     "instagram"
+    ],
+    "excluded_custom_audiences": [
+     {
+      "id": "52606772644595"
+     },
+     {
+      "id": "52606772644795"
+     }
+    ],
+    "targeting_automation": {
+     "advantage_audience": 0
+    }
+   }
+  },
+  "adv": {
+   "title": "Advantage+, Meta выбирает сама",
+   "targeting": {
+    "geo_locations": {
+     "countries": [
+      "UZ"
+     ],
+     "location_types": [
+      "home",
+      "recent"
+     ]
+    },
+    "age_min": 18,
+    "publisher_platforms": [
+     "facebook",
+     "instagram"
+    ],
+    "excluded_custom_audiences": [
+     {
+      "id": "52606772644595"
+     },
+     {
+      "id": "52606772644795"
+     }
+    ],
+    "targeting_automation": {
+     "advantage_audience": 1
+    }
+   }
+  },
+  "biz": {
+   "title": "Интересы: бизнес",
+   "targeting": {
+    "geo_locations": {
+     "countries": [
+      "UZ"
+     ],
+     "location_types": [
+      "home",
+      "recent"
+     ]
+    },
+    "age_min": 18,
+    "age_max": 45,
+    "publisher_platforms": [
+     "facebook",
+     "instagram"
+    ],
+    "excluded_custom_audiences": [
+     {
+      "id": "52606772644595"
+     },
+     {
+      "id": "52606772644795"
+     }
+    ],
+    "targeting_automation": {
+     "advantage_audience": 0
+    }
+   },
+   "interests_to_add": [
+    "Small business",
+    "Entrepreneurship",
+    "Business"
+   ]
+  },
+  "ai": {
+   "title": "Интересы: ИИ и технологии",
+   "targeting": {
+    "geo_locations": {
+     "countries": [
+      "UZ"
+     ],
+     "location_types": [
+      "home",
+      "recent"
+     ]
+    },
+    "age_min": 18,
+    "age_max": 45,
+    "publisher_platforms": [
+     "facebook",
+     "instagram"
+    ],
+    "excluded_custom_audiences": [
+     {
+      "id": "52606772644595"
+     },
+     {
+      "id": "52606772644795"
+     }
+    ],
+    "targeting_automation": {
+     "advantage_audience": 0
+    }
+   },
+   "interests_to_add": [
+    "Artificial intelligence",
+    "ChatGPT",
+    "Technology"
+   ]
+  },
+  "fr": {
+   "title": "Интересы: фриланс и заработок",
+   "targeting": {
+    "geo_locations": {
+     "countries": [
+      "UZ"
+     ],
+     "location_types": [
+      "home",
+      "recent"
+     ]
+    },
+    "age_min": 18,
+    "age_max": 45,
+    "publisher_platforms": [
+     "facebook",
+     "instagram"
+    ],
+    "excluded_custom_audiences": [
+     {
+      "id": "52606772644595"
+     },
+     {
+      "id": "52606772644795"
+     }
+    ],
+    "targeting_automation": {
+     "advantage_audience": 0
+    }
+   },
+   "interests_to_add": [
+    "Freelancer",
+    "Upwork",
+    "Make money online"
+   ]
+  },
+  "lal": {
+   "title": "Похожие на зарегистрированных — когда в CA_REG_30D будет 100+ человек",
+   "later": true
+  }
+ },
+ "types": {
+  "LONG": [
+   "I1-1",
+   "I1-2",
+   "I2-1",
+   "I2-2",
+   "I2-3"
+  ],
+  "SHORT": [
+   "I1-1S",
+   "I1-2S",
+   "I2-1S",
+   "I2-2S",
+   "I2-3S"
+  ],
+  "MEME": [
+   "M2",
+   "M3",
+   "M4",
+   "M5",
+   "M7"
+  ],
+  "MIX": [
+   "I1-4",
+   "I3-1",
+   "I3-1S",
+   "I3-3S",
+   "I2-4S"
+  ],
+  "CAR": [
+   "K2-1",
+   "K2-1b",
+   "K2-3"
+  ],
+  "RSTAT": [
+   "I2-4",
+   "I3-3",
+   "M1",
+   "M6"
+  ],
+  "RVID": [
+   "V4b",
+   "V1",
+   "V2"
+  ]
+ },
+ "campaigns": {
+  "uz_lead_main_2610": {
+   "id": "52606742677395",
+   "old_name": "uz_lead_broad_2610",
+   "adsets": {
+    "BR_LONG": {
+     "aud": "br",
+     "type": "LONG",
+     "reuse": "52606749117395",
+     "id": "52606749117395"
+    },
+    "BR_SHORT": {
+     "aud": "br",
+     "type": "SHORT",
+     "reuse": "52606749345195",
+     "id": "52606749345195"
+    },
+    "ADV_MEME": {
+     "aud": "adv",
+     "type": "MEME",
+     "reuse": "52606749348995",
+     "id": "52606749348995"
+    },
+    "ADV_MIX": {
+     "aud": "adv",
+     "type": "MIX",
+     "reuse": "52606749356195",
+     "id": "52606749356195"
+    },
+    "BIZ_CAR": {
+     "aud": "biz",
+     "type": "CAR",
+     "reuse": "52606749360995",
+     "id": "52606749360995"
+    },
+    "BIZ_LONG": {
+     "aud": "biz",
+     "type": "LONG",
+     "id": "52606777151995"
+    },
+    "AI_SHORT": {
+     "aud": "ai",
+     "type": "SHORT",
+     "id": "52606777152395"
+    },
+    "AI_MEME": {
+     "aud": "ai",
+     "type": "MEME",
+     "id": "52606777152795"
+    },
+    "FR_MIX": {
+     "aud": "fr",
+     "type": "MIX",
+     "id": "52606777153195"
+    },
+    "FR_CAR": {
+     "aud": "fr",
+     "type": "CAR",
+     "id": "52606777153595"
+    }
+   }
+  },
+  "uz_lead_risk_2610": {
+   "id": "52606742690995",
+   "adsets": {
+    "RK_STAT_BR": {
+     "aud": "br",
+     "type": "RSTAT",
+     "reuse": "52606749363795",
+     "id": "52606749363795"
+    },
+    "RK_STAT_ADV": {
+     "aud": "adv",
+     "type": "RSTAT",
+     "reuse": "52606749368395",
+     "id": "52606749368395"
+    },
+    "RK_VID_BR": {
+     "aud": "br",
+     "type": "RVID",
+     "reuse": "52606749367395",
+     "id": "52606749367395"
+    },
+    "RK_VID_ADV": {
+     "aud": "adv",
+     "type": "RVID",
+     "id": "52606777154595"
+    }
+   }
+  }
+ },
+ "naming": "объявление: {креатив}_{хук}_{аудитория}, напр. I1-1_math_br; хук определяет заголовок лендинга",
+ "steps_done": [
+  "audiences_created",
+  "exclusions_on_old_8_adsets",
+  "test_delete_old_ad_V2_r2_math",
+  "c1_renamed_uz_lead_main_2610_and_paused",
+  "reused_8_adsets_renamed_retargeted_budget170",
+  "BIZ_CAR_paused",
+  "created_6_new_adsets"
+ ]
+}

@@ -11,7 +11,8 @@
   "pixel_id": "3217856658404769",
   "pixel_name": "UZ_course_pix",
   "pixel_note": "Создан Васей 17.10 в Events Manager внутри БМ, кабинет его видит (MCP ads_get_datasets). Базовый код и Lead по кнопке подготовлены 17.10 в websites/ii-na-zakaz-mini, на живой лендинг не выложены — событий пока нет.",
-  "landing_url": "https://vasiliy0444.github.io/ii-na-zakaz-mini/",
+  "landing_url": "https://aibuyurtma.com/",
   "bot_username": "uz_ai_school_bot",
-  "bot_note": "Бот мини-курса, Вася 17.10. Прописан в websites/ii-na-zakaz-mini/js/main.js (BOT_USERNAME)."
+  "bot_note": "Бот мини-курса, Вася 17.10. Прописан в websites/ii-na-zakaz-mini/js/main.js (BOT_USERNAME).",
+  "landing_note": "С 17.10 лендинг на домене aibuyurtma.com (репозиторий Vasiliy0444/ii-na-zakaz-mini, GitHub Pages): узбекская версия в корне, русская в /ru/. Старый адрес vasiliy0444.github.io/ii-na-zakaz-mini перекидывает на домен."
 }

@@ -51,31 +51,34 @@ WAVE2 = {"K2-4", "I1-3", "I1-3B", "I3-2"}
 NEVER = {"V4"}
 
 # --- Кампании недели 1 (решения Васи 17.10: Lead, риск отдельной кампанией с 4-го дня, неделя до $150) -----
-CAMPAIGNS = [
-    dict(key="C1", name="uz_lead_broad_2610", start="день 1", spend_cap_usd=105, labels=[],
-         purpose="тест креативов низкого риска на широкой аудитории",
-         adsets=[
-             dict(key="lg", name="BR_LONG", budget=3, ads=["I1-1", "I1-2", "I2-1", "I2-2", "I2-3"],
-                  test="длинный текст на картинке"),
-             dict(key="sh", name="BR_SHORT", budget=3, ads=["I1-1S", "I1-2S", "I2-1S", "I2-2S", "I2-3S"],
-                  test="те же 5 концептов с коротким текстом — зеркало BR_LONG"),
-             dict(key="me", name="BR_MEME", budget=3, ads=["M2", "M3", "M4", "M5", "M7"], test="мемы-раздача"),
-             dict(key="mx", name="BR_MIX", budget=3, ads=["I1-4", "I3-1", "I3-1S", "I3-3S", "I2-4S"],
-                  test="остальная статика низкого риска"),
-             dict(key="ca", name="BR_CAR", budget=3, ads=["K2-1", "K2-1b", "K2-3"],
-                  test="карусели; K2-1 с цифрами против K2-1b без"),
-         ]),
-    dict(key="RISK", name="uz_lead_risk_2610", start="день 4", spend_cap_usd=45, labels=["RISK"],
-         purpose="креативы среднего и высокого риска модерации; в черновике до 4-го дня",
-         adsets=[
-             dict(key="rs", name="RK_STAT", budget=3, ads=["I2-4", "I3-3", "M1", "M6"],
-                  test="статика и мемы среднего риска"),
-             dict(key="rv", name="RK_VID", budget=3, ads=["V4b", "V1"],
-                  test="ролики среднего риска: монтаж против моушна, текст пула 2"),
-             dict(key="r2", name="RK_V2", budget=3, ads=["V2"],
-                  test="V2 высокого риска отдельно: при первом отказе выключить и не перезаливать"),
-         ]),
-]
+PLAN_FILE = HERE / "v2_plan.json"
+TYPE_TEST = {
+    "LONG": "длинный текст на картинке", "SHORT": "те же 5 концептов с коротким текстом — зеркало LONG",
+    "MEME": "мемы-раздача", "MIX": "остальная статика низкого риска",
+    "CAR": "карусели; K2-1 с цифрами против K2-1b без",
+    "RSTAT": "статика и мемы среднего риска", "RVID": "ролики среднего и высокого риска; V2 — выключить при первом отказе",
+}
+# Пересборка 17.10 по голосовому Васи: группы по аудиториям, каждый креатив минимум в 2 аудиториях (v2_plan.json).
+CAMPAIGN_META = {
+    "uz_lead_main_2610": dict(key="C1", start="день 1", spend_cap_usd=120, labels=[],
+                              purpose="креативы низкого риска на 5 аудиториях: широкая, Advantage+, три по интересам"),
+    "uz_lead_risk_2610": dict(key="RISK", start="день 4", spend_cap_usd=100, labels=["RISK"],
+                              purpose="креативы среднего и высокого риска на широкой и Advantage+; включаем с 4-го дня"),
+}
+
+
+def load_plan() -> tuple[list[dict], dict]:
+    plan = json.loads(PLAN_FILE.read_text(encoding="utf-8"))
+    campaigns = []
+    for name, camp in plan["campaigns"].items():
+        adsets = [dict(key=a["aud"], name=adset_name, aud=a["aud"], type=a["type"], budget=plan["daily_budget_cents"] / 100,
+                       ads=plan["types"][a["type"]], test=TYPE_TEST[a["type"]])
+                  for adset_name, a in camp["adsets"].items()]
+        campaigns.append(dict(CAMPAIGN_META[name], name=name, adsets=adsets))
+    return campaigns, plan
+
+
+CAMPAIGNS, PLAN = load_plan()
 DAYS_IN_WEEK = {"день 1": 7, "день 4": 4}
 
 # Свои аудитории сайта: event=None — все посетители лендинга.
@@ -166,16 +169,25 @@ def audience_rule(aud: dict, pixel_id: str) -> str:
     return json.dumps(rule, ensure_ascii=False)
 
 
-def build_ad(code: str, adset_key: str, camp: dict, pools: dict, ids: dict, index: dict, meta: dict) -> dict:
+def ad_link(landing: str, campaign: str, adset: str, name: str) -> str:
+    """Ссылка объявления — как в креативе: готовые метки, без макросов (у инструмента создания креатива нет url_tags)."""
+    q = urllib.parse.urlencode(dict(utm_source="meta", utm_medium="paid", utm_campaign=campaign, utm_term=adset, utm_content=name))
+    return f"{landing}?{q}"
+
+
+def build_ad(code: str, adset: dict, camp: dict, pools: dict, ids: dict, index: dict, meta: dict) -> dict:
     creo = CREATIVES[code]
     pool = creo["pool"]
     hook = B.HOOK_BY_POOL[pool]
-    name = f"{code}_{adset_key}_{hook}"
+    name = f"{code}_{hook}_{adset['aud']}"
     video = creo["kind"] == "video"
+    landing = PLAN["landing"]
     ad_defaults = dict(B.AD_DEFAULTS,
-                       link_url=ids.get("landing_url") or "{{LANDING_URL}}",
+                       link_url=ad_link(landing, camp["name"], adset["name"], name),
+                       url_tags="",
+                       conversion_domain=urllib.parse.urlparse(landing).netloc,
                        page_id=ids.get("page_id") or "{{PAGE_ID}}",
-                       instagram_user_id=ids.get("instagram_user_id") or "{{IG_USER_ID}}")
+                       instagram_user_id=ids.get("instagram_user_id"))
     return dict(
         name=name,
         creative_code=code,
@@ -183,9 +195,9 @@ def build_ad(code: str, adset_key: str, camp: dict, pools: dict, ids: dict, inde
         media=media_list(code, index, meta["media"]),
         text_pool=pool,
         hook=hook,
-        body_keys=["short"] if video else ["short", "mid", "long"],
+        body_keys=["short"] if video else ["mid"],
         body_options=B.bodies(pools[pool], creo["kind"]),
-        body_fallback=pools[pool]["short" if video else "mid"],  # если API не примет варианты текста с медиа по плейсментам
+        body_fallback=pools[pool]["short" if video else "mid"],  # один текст: при медиа по плейсментам API принимает только его
         bot_start_tag=start_tag(camp["name"], name),
         risk=creo["risk"],
         risk_note=creo.get("note", ""),
@@ -196,22 +208,26 @@ def build_ad(code: str, adset_key: str, camp: dict, pools: dict, ids: dict, inde
 
 
 def build_adset(adset: dict, camp: dict, pools: dict, ids: dict, index: dict, meta: dict) -> dict:
-    targeting = dict(B.TARGETING_BASE)
-    targeting.update({k: v for k, v in B.BROAD_AUDIENCE.items() if k != "note"})
+    aud = PLAN["audiences"][adset["aud"]]
     defaults = dict(B.ADSET_DEFAULTS,
                     promoted_object={"pixel_id": ids.get("pixel_id") or "{{PIXEL_ID}}", "custom_event_type": "LEAD"})
     return dict(
         name=adset["name"],
         key=adset["key"],
+        audience=adset["aud"],
+        audience_title=aud["title"],
+        interests_to_add=aud.get("interests_to_add", []),
+        paused_until_interests=bool(aud.get("interests_to_add")),
+        creative_type=adset["type"],
         start=camp["start"],
         daily_budget_usd=adset["budget"],
         daily_budget_minor=round(adset["budget"] * 100),
         test=adset["test"],
-        targeting=targeting,
-        audience_note=B.BROAD_AUDIENCE["note"],
+        targeting=aud["targeting"],
+        audience_note=aud["title"],
         labels=camp["labels"],
         meta_id=meta["adsets"].get(f"{camp['name']}/{adset['name']}"),
-        ads=[build_ad(code, adset["key"], camp, pools, ids, index, meta) for code in adset["ads"]],
+        ads=[build_ad(code, adset, camp, pools, ids, index, meta) for code in adset["ads"]],
         **defaults,
     )
 
@@ -231,7 +247,7 @@ def build_campaigns(pools: dict, ids: dict, index: dict, meta: dict) -> list[dic
 
 def status_of(code: str, placed: dict) -> str:
     if code in placed:
-        return "волна 1 · RISK с 4-го дня" if placed[code]["campaign"].startswith("uz_lead_risk") else "волна 1 · C1 с дня 1"
+        return "волна 1 · RISK с 4-го дня" if placed[code][0]["campaign"].startswith("uz_lead_risk") else "волна 1 · C1 с дня 1"
     if code in NEVER:
         return "не для Meta"
     if code in RESERVE:
@@ -242,35 +258,34 @@ def status_of(code: str, placed: dict) -> str:
 
 
 def build_registry(campaigns: list[dict], pools_uz: dict, pools_ru: dict, index: dict, meta: dict) -> list[dict]:
-    placed = {}
+    placed: dict[str, list] = {}
     for camp in campaigns:
         for adset in camp["adsets"]:
             for ad in adset["ads"]:
-                placed[ad["creative_code"]] = dict(campaign=camp["name"], adset=adset["name"], ad=ad)
+                placed.setdefault(ad["creative_code"], []).append(dict(
+                    campaign=camp["name"], adset=adset["name"], audience=adset["audience"], ad_name=ad["name"],
+                    bot_start_tag=ad["bot_start_tag"], meta=ad["meta"]))
     registry = []
     for code, creo in CREATIVES.items():
-        hit = placed.get(code)
-        media = hit["ad"]["media"] if hit else media_list(code, index, meta["media"])
+        hits = placed.get(code, [])
+        media = media_list(code, index, meta["media"])
         folders = sorted({str(Path(m["path"]).parent.relative_to(B.CREO_DIR.relative_to(ROOT)))
                           for m in media if m.get("path")})
+        video = creo["kind"] == "video"
         registry.append(dict(
             code=code,
             kind=creo["kind"],
             folder=folders[0] if len(folders) == 1 else folders,
             status=status_of(code, placed),
-            campaign=hit["campaign"] if hit else None,
-            adset=hit["adset"] if hit else None,
-            ad_name=hit["ad"]["name"] if hit else None,
-            bot_start_tag=hit["ad"]["bot_start_tag"] if hit else None,
+            placements=hits,
             pool=creo["pool"],
             pool_title_ru=pools_ru[creo["pool"]]["title"],
             pool_title_uz=pools_uz[creo["pool"]]["title_uz"],
             hook=B.HOOK_BY_POOL[creo["pool"]],
-            texts_used=(hit["ad"]["body_keys"] if hit else None),
+            texts_used=(["short"] if video else ["mid"]) if hits else None,
             risk=creo["risk"],
             risk_note=creo.get("note", ""),
             media=media,
-            meta=hit["ad"]["meta"] if hit else {},
         ))
     return registry
 
@@ -295,7 +310,8 @@ def md_files(item: dict) -> str:
 
 
 def md_meta(item: dict) -> str:
-    bits = [f"{k}: `{v}`" for k, v in item["meta"].items()]
+    bits = [f"`{h['ad_name']}`: ad `{h['meta'].get('ad_id', '—')}`, creative `{h['meta'].get('creative_id', '—')}`"
+            for h in item["placements"]]
     uploaded = sum(1 for m in item["media"] if m.get("meta"))
     if uploaded:
         bits.append(f"медиа загружено {uploaded}/{len(item['media'])}")
@@ -306,58 +322,84 @@ def build_md(campaigns: list[dict], registry: list[dict], pools_uz: dict, pools_
     lines = [
         "# Реестр креативов и текстов — запуск Meta в кабинете БМ",
         "",
-        f"Собирает `build_launch.py` ({VERSION}) из каталога креативов `research/18-struktura-kampaniy-i-piksel/build_structure.py`, "
-        "текстов `research/17-teksty-ru-uz/pools_uz_final.json`, `ids.json` и `meta_ids.json`. "
-        "Руками не править: правки — в источниках, потом `python3 build_launch.py`. Почему так — `01-ПЛАН-ЗАПУСКА.md`.",
+        f"Собирает `build_launch.py` ({VERSION}) из `v2_plan.json` (структура по аудиториям), каталога креативов "
+        "`research/18-struktura-kampaniy-i-piksel/build_structure.py`, текстов `research/17-teksty-ru-uz/pools_uz_final.json`, "
+        "`ids.json` и `meta_ids.json`. Руками не править: правки — в источниках, потом `python3 build_launch.py`. "
+        "Почему так — `01-ПЛАН-ЗАПУСКА.md`, раздел 10.",
         "",
         f"Кабинет `{ids['ad_account_id']}` «{ids['ad_account_name']}», БМ {ids['business']}. "
-        f"Страница: {ids.get('page_id') or 'не задана'}. Instagram: {ids.get('instagram_user_id') or 'не задан'}. "
-        f"Пиксель: {ids.get('pixel_id') or 'не задан'}. Лендинг: {ids['landing_url']}",
+        f"Страница: {ids.get('page_id') or 'не задана'}. Instagram: {ids.get('instagram_user_id') or 'нет — решение Васи'}. "
+        f"Пиксель: {ids.get('pixel_id') or 'не задан'}. Лендинг: {PLAN['landing']}",
+        "",
+        "## Аудитории",
+        "",
+        "Везде Узбекистан (живут или недавно были), мужчины и женщины, Facebook и Instagram, "
+        "исключены `CA_REG_180D` и `CA_BUY_180D`.",
+        "",
+        "| Код | Аудитория | Возраст | Advantage+ аудитория | Что добавить |",
+        "|---|---|---|---|---|",
+    ]
+    for key, aud in PLAN["audiences"].items():
+        if aud.get("later"):
+            lines.append(f"| `{key}` | {aud['title']} | — | — | группа появится позже |")
+            continue
+        t = aud["targeting"]
+        age = f"{t['age_min']}–{t['age_max']}" if t.get("age_max") else f"от {t['age_min']}, дальше решает Meta"
+        adv = "включена" if t["targeting_automation"]["advantage_audience"] else "выключена"
+        todo = ("интересы вручную в Ads Manager: " + ", ".join(aud["interests_to_add"]) +
+                " (у инструмента нет поиска ID интересов); до этого группы на паузе") if aud.get("interests_to_add") else "—"
+        lines.append(f"| `{key}` | {aud['title']} | {age} | {adv} | {todo} |")
+    lines += [
         "",
         "## Кампании и группы — неделя 1",
         "",
-        "| Кампания | Группа | В день | С какого дня | Объявления | Что проверяем |",
-        "|---|---|---|---|---|---|",
+        "| Кампания | Группа | Аудитория | В день | С какого дня | Объявления | Что проверяем |",
+        "|---|---|---|---|---|---|---|",
     ]
     for camp in campaigns:
         for adset in camp["adsets"]:
             ads = ", ".join(f"`{ad['name']}`" for ad in adset["ads"])
-            lines.append(f"| `{camp['name']}` | `{adset['name']}` | ${adset['daily_budget_usd']:g} | {camp['start']} | {ads} | {adset['test']} |")
+            paused = " · на паузе до интересов" if adset["paused_until_interests"] else ""
+            lines.append(f"| `{camp['name']}` | `{adset['name']}` | `{adset['audience']}`{paused} | ${adset['daily_budget_usd']:g} | "
+                         f"{camp['start']} | {ads} | {adset['test']} |")
     lines.append("")
+    planned = 0
     for camp in campaigns:
         per_day = sum(a["daily_budget_usd"] for a in camp["adsets"])
         days = DAYS_IN_WEEK[camp["start"]]
+        planned += per_day * days
         lines.append(f"- `{camp['name']}`: ${per_day:g} в день × {days} дн. ≈ ${per_day * days:g}, "
-                     f"лимит трат кампании ${camp['spend_cap_usd']}." + (" Метка RISK, в черновике до 4-го дня." if camp["labels"] else ""))
-    lines += [f"- Неделя не больше ${WEEK_CAP_USD}: лимиты трат кампаний в сумме ${sum(c['spend_cap_usd'] for c in campaigns)}.", ""]
+                     f"лимит трат кампании ${camp['spend_cap_usd']}." + (" Метка RISK, включаем с 4-го дня." if camp["labels"] else ""))
+    lines += [f"- План недели ≈ ${planned:g}. Потолок ${WEEK_CAP_USD} держит лимит расходов кабинета: лимиты кампаний "
+              f"в сумме ${sum(c['spend_cap_usd'] for c in campaigns)}, меньше $100 на кампанию Meta не принимает.", ""]
 
     lines += [
         "## Креативы — все из папки «АКТУАЛЬНЫЕ креативы УЗ — Meta»",
         "",
-        "| Код | Тип | Статус | Группа → объявление | Пул · хук | Тексты | Риск | Файлы | ID в Meta |",
+        "| Код | Тип | Статус | Где стоит: группа → объявление | Пул · хук | Текст | Риск | Файлы | ID в Meta |",
         "|---|---|---|---|---|---|---|---|---|",
     ]
     for item in registry:
-        where = f"`{item['adset']}` → `{item['ad_name']}`" if item["ad_name"] else "—"
+        where = "<br>".join(f"`{h['adset']}` → `{h['ad_name']}`" for h in item["placements"]) or "—"
         texts = "/".join({"short": "S", "mid": "M", "long": "L"}[k] for k in item["texts_used"]) if item["texts_used"] else "—"
         risk = RISK_RU[item["risk"]] + (f": {item['risk_note']}" if item["risk_note"] else "")
         lines.append(f"| {item['code']} | {KIND_RU[item['kind']]} | {item['status']} | {where} | "
                      f"{item['pool']} · {item['hook']} | {texts} | {risk} | {md_files(item)} | {md_meta(item)} |")
-    lines += ["", "Тексты: S — короткий, M — средний, L — лонгрид. У картинок и каруселей S, M и L идут вариантами основного текста "
-              "в одном объявлении; если API не примет их вместе с медиа по плейсментам — только M. У видео только S.", ""]
+    lines += ["", "Текст: один на объявление — M (средний) у картинок и каруселей, S (короткий) у видео: при разных медиа "
+              "для лент и для Stories/Reels API принимает только один основной текст.", ""]
 
     lines += [
         "## Тексты под постами",
         "",
         "Полные тексты: узбекский — [`03-ТЕКСТЫ-ПУЛЫ-UZ.md`](../17-teksty-ru-uz/03-ТЕКСТЫ-ПУЛЫ-UZ.md), "
         "русский — [`02-ТЕКСТЫ-ПУЛЫ-RU.md`](../17-teksty-ru-uz/02-ТЕКСТЫ-ПУЛЫ-RU.md). "
-        "Заголовок у всех объявлений — «Bepul mini-kurs», описание пустое, кнопка — «Подробнее».",
+        "Заголовок у всех объявлений — «Bepul mini-kurs», кнопка — «Подробнее».",
         "",
         "| Пул | Тема | Креативы волны 1 | Знаков UZ: S / M / L | Начало текста (UZ) |",
         "|---|---|---|---|---|",
     ]
     for n, pool in pools_uz.items():
-        wave1 = ", ".join(i["code"] for i in registry if i["pool"] == n and i["ad_name"]) or "—"
+        wave1 = ", ".join(i["code"] for i in registry if i["pool"] == n and i["placements"]) or "—"
         texts = pool["texts"]
         first = texts["short"].split("\n")[0]
         lines.append(f"| {n} | {pools_ru[n]['title']} / {pool['title_uz']} | {wave1} | "
@@ -366,15 +408,15 @@ def build_md(campaigns: list[dict], registry: list[dict], pools_uz: dict, pools_
         "",
         "## Метка в боте",
         "",
-        "Кнопка лендинга передаёт боту метку `start`. По ней видно, какое объявление привело человека. "
-        "Решения по креативам принимаем по стартам бота с этой меткой. Метки объявлений:",
+        "Кнопка лендинга передаёт боту метку `start`: кампания и объявление, а в имени объявления — код аудитории. "
+        "По ней видно, какое объявление и какая аудитория привели человека. Метки объявлений:",
         "",
     ]
-    lines += [f"- `{i['ad_name']}` → `{i['bot_start_tag']}`" for i in registry if i["ad_name"]]
+    lines += [f"- `{h['ad_name']}` → `{h['bot_start_tag']}`" for i in registry for h in i["placements"]]
     lines += ["", "## Как добавить креатив или текст", "",
               "1. Файл — в «АКТУАЛЬНЫЕ креативы УЗ — Meta/<папка>» под именем «<код> <название> — 4x5.png» и «— 9x16.png» "
               "(видео — .mp4, карусель — «<код>_card<N>_1x1.png»).",
-              "2. Код креатива — в `EXTRA_CREATIVES` в `build_launch.py`: тип, пул, риск. В группу — в `CAMPAIGNS`.",
+              "2. Код креатива — в `EXTRA_CREATIVES` в `build_launch.py`: тип, пул, риск. В группу — в `v2_plan.json` (`types`, `adsets`).",
               "3. Новый текст — новым пулом в `pools_ru.json` и `pools_uz_final.json`, проверка `check_uz.py`.",
               "4. `python3 build_launch.py && python3 check_launch.py`, коммит и пуш.", ""]
     return "\n".join(lines)
@@ -395,18 +437,20 @@ def build_all() -> tuple[dict, list[dict], str]:
         version=VERSION,
         source="research/19-zapusk-meta-bm/build_launch.py",
         plan="research/19-zapusk-meta-bm/01-ПЛАН-ЗАПУСКА.md",
+        structure="research/19-zapusk-meta-bm/v2_plan.json",
         based_on="research/18-struktura-kampaniy-i-piksel (план 15.10)",
         kpi_usd=B.KPI_USD,
         week_cap_usd=WEEK_CAP_USD,
         account=ids,
         rules_for_executor=[
-            "Всё создаётся только в черновике Ads Manager. Публикует Вася или Claude по его прямой команде.",
-            "RISK uz_lead_risk_2610 не публиковать до 4-го дня. При публикации C1 выбирать только объекты C1.",
+            "Создаётся в черновике Ads Manager. Публикуем выключенным: кампании на паузе, публикация без включения (решение Васи 17.10).",
+            "Включает Вася или Claude по его прямой команде. RISK uz_lead_risk_2610 — с 4-го дня.",
+            "Группы по интересам (biz, ai, fr) на паузе, пока Вася не добавит интересы в Ads Manager.",
             "V4 не загружать никогда.",
-            "Плейсхолдеры {{...}} заменить реальными ID из ids.json до записи; пустое поле не заменять догадкой.",
             "Картинки и видео — медиа по плейсментам: 4x5 — ленты, 9x16 — Stories и Reels. Карусели — карточки 1x1.",
-            "body_options — варианты основного текста в одном объявлении; не принимает API — body_fallback.",
+            "Один основной текст на объявление (body_fallback): M у картинок и каруселей, S у видео.",
             "Улучшения Advantage+ creative — все OPT_OUT; standard_enhancements в API не передавать.",
+            "Ссылка — готовые метки в link_url, conversion_domain — домен лендинга.",
             "После ошибки записи сначала читать кабинет, повтор вслепую запрещён.",
             "ID созданных объектов — в meta_ids.json, затем python3 build_launch.py.",
         ],

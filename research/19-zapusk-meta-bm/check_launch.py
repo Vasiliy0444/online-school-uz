@@ -94,10 +94,9 @@ def check_ad(ad: dict, adset: dict, camp: dict, errors: list[str], warnings: lis
             break
     if ad["title"] != B.HEADLINE or ad["call_to_action"] != B.CTA or ad["description"] != "":
         errors.append(f"{label}: заголовок, описание или кнопка не по плану")
-    if "{{ad.name}}" not in ad["url_tags"] or "utm_source=meta" not in ad["url_tags"]:
-        errors.append(f"{label}: в параметрах URL нет utm_source=meta или {{{{ad.name}}}}")
-    if not (ad["link_url"].startswith("https://") or ad["link_url"] == "{{LANDING_URL}}"):
-        errors.append(f"{label}: ссылка {ad['link_url']!r} без https://")
+    want_link = L.ad_link(L.PLAN["landing"], camp["name"], adset["name"], ad["name"])
+    if ad["link_url"] != want_link or not want_link.startswith("https://"):
+        errors.append(f"{label}: ссылка {ad['link_url']!r}, нужна {want_link!r}")
     if camp["labels"] != ad["labels"]:
         errors.append(f"{label}: метки объявления {ad['labels']} не совпадают с кампанией {camp['labels']}")
     if ad["risk"] in ("medium", "high") and "RISK" not in camp["labels"]:
@@ -135,11 +134,17 @@ def check_structure(launch: dict, errors: list[str], warnings: list[str]) -> Non
                 codes.append(ad["creative_code"])
                 names.append(ad["name"])
                 check_ad(ad, adset, camp, errors, warnings)
-    if caps > launch["week_cap_usd"]:
-        errors.append(f"лимиты трат кампаний ${caps} больше недельного потолка ${launch['week_cap_usd']}")
-    dupes = sorted({c for c in codes if codes.count(c) > 1})
-    if dupes:
-        errors.append(f"креативы стоят больше одного раза: {dupes}")
+    planned = sum(sum(a["daily_budget_usd"] for a in c["adsets"]) * L.DAYS_IN_WEEK.get(c["start"], 7) for c in launch["campaigns"])
+    if planned > launch["week_cap_usd"]:
+        errors.append(f"план недели ${planned:g} больше потолка ${launch['week_cap_usd']}")
+    audiences: dict[str, set] = {}
+    for camp in launch["campaigns"]:
+        for adset in camp["adsets"]:
+            for ad in adset["ads"]:
+                audiences.setdefault(ad["creative_code"], set()).add(adset["audience"])
+    few = sorted(c for c, a in audiences.items() if len(a) < 2)
+    if few:
+        errors.append(f"креативы меньше чем в 2 аудиториях (требование Васи 17.10): {few}")
     if len(set(names)) != len(names):
         errors.append("имена объявлений повторяются")
     plan_1510 = {code for adset in B.CAMPAIGNS[0]["adsets"] for code in adset["ads"]}
@@ -159,7 +164,7 @@ def check_registry(registry: list[dict], errors: list[str], warnings: list[str])
     for item in registry:
         if item["status"] == "не распределён":
             warnings.append(f"{item['code']}: не распределён ни в волну, ни в резерв")
-        if item["code"] not in L.NEVER and not item["ad_name"]:
+        if item["code"] not in L.NEVER and not item["placements"]:
             check_media(item["code"], item["kind"], item["media"], errors)
 
 

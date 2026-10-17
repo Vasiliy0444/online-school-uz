@@ -1,5 +1,5 @@
 {
-  "_note": "ID объектов, созданных в Meta. Заполняется при заливке через MCP; build_launch.py переносит их в реестр.",
+  "_note": "ID объектов, созданных в Meta. Заполняется при заливке через MCP; build_launch.py переносит их в реестр. | 17.10 ночью: пересборка по аудиториям (v2_plan.json). ads — новые 60 объявлений; ads_v1_deleted — первые 30 объявлений, в черновике помечены удалёнными; adsets_v1 — старые имена групп.",
   "media": {
     "research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/01 Инста — эксперт на фото/I1-1 Как заработать на ИИ в 2026 — 4x5.png": {
       "image_hash": "4d12a084f946cb2ca54459cadad23a2c",
@@ -290,22 +290,48 @@
       "name": "V2 9x16"
     }
   },
-  "audiences": {},
+  "audiences": {
+    "CA_REG_180D": "52606772644595",
+    "CA_BUY_180D": "52606772644795",
+    "CA_REG_30D": "52606772645195",
+    "CA_LP_14D": "52606772645395",
+    "CA_LP_30D": "52606772648595",
+    "CA_LEAD_7D": "52606772648795"
+  },
   "campaigns": {
-    "uz_lead_broad_2610": "52606742677395",
+    "uz_lead_main_2610": "52606742677395",
     "uz_lead_risk_2610": "52606742690995"
   },
   "adsets": {
-    "uz_lead_broad_2610/BR_LONG": "52606749117395",
-    "uz_lead_broad_2610/BR_SHORT": "52606749345195",
-    "uz_lead_broad_2610/BR_MEME": "52606749348995",
-    "uz_lead_broad_2610/BR_MIX": "52606749356195",
-    "uz_lead_broad_2610/BR_CAR": "52606749360995",
-    "uz_lead_risk_2610/RK_STAT": "52606749363795",
-    "uz_lead_risk_2610/RK_VID": "52606749367395",
-    "uz_lead_risk_2610/RK_V2": "52606749368395"
+    "uz_lead_main_2610/BR_LONG": "52606749117395",
+    "uz_lead_main_2610/BR_SHORT": "52606749345195",
+    "uz_lead_main_2610/ADV_MEME": "52606749348995",
+    "uz_lead_main_2610/ADV_MIX": "52606749356195",
+    "uz_lead_main_2610/BIZ_CAR": "52606749360995",
+    "uz_lead_main_2610/BIZ_LONG": "52606777151995",
+    "uz_lead_main_2610/AI_SHORT": "52606777152395",
+    "uz_lead_main_2610/AI_MEME": "52606777152795",
+    "uz_lead_main_2610/FR_MIX": "52606777153195",
+    "uz_lead_main_2610/FR_CAR": "52606777153595",
+    "uz_lead_risk_2610/RK_STAT_BR": "52606749363795",
+    "uz_lead_risk_2610/RK_STAT_ADV": "52606749368395",
+    "uz_lead_risk_2610/RK_VID_BR": "52606749367395",
+    "uz_lead_risk_2610/RK_VID_ADV": "52606777154595"
   },
-  "ads": {
+  "ads": {},
+  "progress": {
+    "exclusions_done": "all 8 old adsets",
+    "old_ads_deleted": "all 30 old ads staged DELETED (17.10 night)",
+    "interest_adsets_paused": [
+      "BIZ_CAR",
+      "BIZ_LONG",
+      "AI_SHORT",
+      "AI_MEME",
+      "FR_MIX",
+      "FR_CAR"
+    ]
+  },
+  "ads_v1_deleted": {
     "I1-1_lg_math": {
       "creative_id": "1002453478895493",
       "ad_id": "52606749440595"
@@ -426,5 +452,15 @@
       "creative_id": "1530647702156686",
       "ad_id": "52606749645195"
     }
+  },
+  "adsets_v1": {
+    "uz_lead_broad_2610/BR_LONG": "52606749117395",
+    "uz_lead_broad_2610/BR_SHORT": "52606749345195",
+    "uz_lead_broad_2610/BR_MEME": "52606749348995",
+    "uz_lead_broad_2610/BR_MIX": "52606749356195",
+    "uz_lead_broad_2610/BR_CAR": "52606749360995",
+    "uz_lead_risk_2610/RK_STAT": "52606749363795",
+    "uz_lead_risk_2610/RK_VID": "52606749367395",
+    "uz_lead_risk_2610/RK_V2": "52606749368395"
   }
 }

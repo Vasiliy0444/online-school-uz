@@ -4,18 +4,30 @@
     "kind": "image",
     "folder": "01 Инста — эксперт на фото",
     "status": "волна 1 · C1 с дня 1",
-    "campaign": "uz_lead_broad_2610",
-    "adset": "BR_LONG",
-    "ad_name": "I1-1_lg_math",
-    "bot_start_tag": "vm-meta-uz_lead_broad_2610-i1_1_lg_math",
+    "placements": [
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "BR_LONG",
+        "audience": "br",
+        "ad_name": "I1-1_math_br",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_1_math_br",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "BIZ_LONG",
+        "audience": "biz",
+        "ad_name": "I1-1_math_biz",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_1_math_biz",
+        "meta": {}
+      }
+    ],
     "pool": 1,
     "pool_title_ru": "Путь к $1000",
     "pool_title_uz": "$1000 sari yo‘l",
     "hook": "math",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "low",
     "risk_note": "",
@@ -46,29 +58,37 @@
           "name": "I1-1 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "1002453478895493",
-      "ad_id": "52606749440595"
-    }
+    ]
   },
   {
     "code": "I1-2",
     "kind": "image",
     "folder": "01 Инста — эксперт на фото",
     "status": "волна 1 · C1 с дня 1",
-    "campaign": "uz_lead_broad_2610",
-    "adset": "BR_LONG",
-    "ad_name": "I1-2_lg_math",
-    "bot_start_tag": "vm-meta-uz_lead_broad_2610-i1_2_lg_math",
+    "placements": [
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "BR_LONG",
+        "audience": "br",
+        "ad_name": "I1-2_math_br",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_2_math_br",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "BIZ_LONG",
+        "audience": "biz",
+        "ad_name": "I1-2_math_biz",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_2_math_biz",
+        "meta": {}
+      }
+    ],
     "pool": 1,
     "pool_title_ru": "Путь к $1000",
     "pool_title_uz": "$1000 sari yo‘l",
     "hook": "math",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "low",
     "risk_note": "",
@@ -99,29 +119,37 @@
           "name": "I1-2 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "2173115946605318",
-      "ad_id": "52606749441195"
-    }
+    ]
   },
   {
     "code": "I1-4",
     "kind": "image",
     "folder": "01 Инста — эксперт на фото",
     "status": "волна 1 · C1 с дня 1",
-    "campaign": "uz_lead_broad_2610",
-    "adset": "BR_MIX",
-    "ad_name": "I1-4_mx_clients",
-    "bot_start_tag": "vm-meta-uz_lead_broad_2610-i1_4_mx_clients",
+    "placements": [
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "ADV_MIX",
+        "audience": "adv",
+        "ad_name": "I1-4_clients_adv",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_4_clients_adv",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "FR_MIX",
+        "audience": "fr",
+        "ad_name": "I1-4_clients_fr",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_4_clients_fr",
+        "meta": {}
+      }
+    ],
     "pool": 5,
     "pool_title_ru": "Что продавать бизнесу и где брать первых клиентов",
     "pool_title_uz": "Biznesga nima sotish va ilk mijozlarni qayerdan topish",
     "hook": "clients",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "low",
     "risk_note": "",
@@ -152,29 +180,37 @@
           "name": "I1-4 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "1591813635358476",
-      "ad_id": "52606749587395"
-    }
+    ]
   },
   {
     "code": "I2-1",
     "kind": "image",
     "folder": "02 Инста — вопрос-ответ",
     "status": "волна 1 · C1 с дня 1",
-    "campaign": "uz_lead_broad_2610",
-    "adset": "BR_LONG",
-    "ad_name": "I2-1_lg_math",
-    "bot_start_tag": "vm-meta-uz_lead_broad_2610-i2_1_lg_math",
+    "placements": [
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "BR_LONG",
+        "audience": "br",
+        "ad_name": "I2-1_math_br",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_1_math_br",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "BIZ_LONG",
+        "audience": "biz",
+        "ad_name": "I2-1_math_biz",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_1_math_biz",
+        "meta": {}
+      }
+    ],
     "pool": 1,
     "pool_title_ru": "Путь к $1000",
     "pool_title_uz": "$1000 sari yo‘l",
     "hook": "math",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "low",
     "risk_note": "",
@@ -205,29 +241,37 @@
           "name": "I2-1 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "1128329066211331",
-      "ad_id": "52606749441595"
-    }
+    ]
   },
   {
     "code": "I2-2",
     "kind": "image",
     "folder": "02 Инста — вопрос-ответ",
     "status": "волна 1 · C1 с дня 1",
-    "campaign": "uz_lead_broad_2610",
-    "adset": "BR_LONG",
-    "ad_name": "I2-2_lg_compare",
-    "bot_start_tag": "vm-meta-uz_lead_broad_2610-i2_2_lg_compare",
+    "placements": [
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "BR_LONG",
+        "audience": "br",
+        "ad_name": "I2-2_compare_br",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_2_compare_br",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "BIZ_LONG",
+        "audience": "biz",
+        "ad_name": "I2-2_compare_biz",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_2_compare_biz",
+        "meta": {}
+      }
+    ],
     "pool": 3,
     "pool_title_ru": "Моя ситуация: работаю целый день, денег не хватает",
     "pool_title_uz": "Mening holatim: kun bo‘yi ishlayman, pul yetmaydi",
     "hook": "compare",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "low",
     "risk_note": "",
@@ -258,29 +302,37 @@
           "name": "I2-2 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "3571332619683219",
-      "ad_id": "52606749442195"
-    }
+    ]
   },
   {
     "code": "I2-3",
     "kind": "image",
     "folder": "02 Инста — вопрос-ответ",
     "status": "волна 1 · C1 с дня 1",
-    "campaign": "uz_lead_broad_2610",
-    "adset": "BR_LONG",
-    "ad_name": "I2-3_lg_compare",
-    "bot_start_tag": "vm-meta-uz_lead_broad_2610-i2_3_lg_compare",
+    "placements": [
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "BR_LONG",
+        "audience": "br",
+        "ad_name": "I2-3_compare_br",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_3_compare_br",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "BIZ_LONG",
+        "audience": "biz",
+        "ad_name": "I2-3_compare_biz",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_3_compare_biz",
+        "meta": {}
+      }
+    ],
     "pool": 3,
     "pool_title_ru": "Моя ситуация: работаю целый день, денег не хватает",
     "pool_title_uz": "Mening holatim: kun bo‘yi ishlayman, pul yetmaydi",
     "hook": "compare",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "low",
     "risk_note": "",
@@ -311,29 +363,37 @@
           "name": "I2-3 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "1601177458157056",
-      "ad_id": "52606749443395"
-    }
+    ]
   },
   {
     "code": "I2-4",
     "kind": "image",
     "folder": "02 Инста — вопрос-ответ",
     "status": "волна 1 · RISK с 4-го дня",
-    "campaign": "uz_lead_risk_2610",
-    "adset": "RK_STAT",
-    "ad_name": "I2-4_rs_compare",
-    "bot_start_tag": "vm-meta-uz_lead_risk_2610-i2_4_rs_compare",
+    "placements": [
+      {
+        "campaign": "uz_lead_risk_2610",
+        "adset": "RK_STAT_BR",
+        "audience": "br",
+        "ad_name": "I2-4_compare_br",
+        "bot_start_tag": "vm-meta-uz_lead_risk_2610-i2_4_compare_br",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_risk_2610",
+        "adset": "RK_STAT_ADV",
+        "audience": "adv",
+        "ad_name": "I2-4_compare_adv",
+        "bot_start_tag": "vm-meta-uz_lead_risk_2610-i2_4_compare_adv",
+        "meta": {}
+      }
+    ],
     "pool": 3,
     "pool_title_ru": "Моя ситуация: работаю целый день, денег не хватает",
     "pool_title_uz": "Mening holatim: kun bo‘yi ishlayman, pul yetmaydi",
     "hook": "compare",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "medium",
     "risk_note": "«$1000 через 2–3 месяца» — риск «нереалистичный результат»",
@@ -364,29 +424,37 @@
           "name": "I2-4 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "1086562390853150",
-      "ad_id": "52606749638795"
-    }
+    ]
   },
   {
     "code": "I3-1",
     "kind": "image",
     "folder": "03 Инста — текст и фон",
     "status": "волна 1 · C1 с дня 1",
-    "campaign": "uz_lead_broad_2610",
-    "adset": "BR_MIX",
-    "ad_name": "I3-1_mx_math",
-    "bot_start_tag": "vm-meta-uz_lead_broad_2610-i3_1_mx_math",
+    "placements": [
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "ADV_MIX",
+        "audience": "adv",
+        "ad_name": "I3-1_math_adv",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i3_1_math_adv",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "FR_MIX",
+        "audience": "fr",
+        "ad_name": "I3-1_math_fr",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i3_1_math_fr",
+        "meta": {}
+      }
+    ],
     "pool": 1,
     "pool_title_ru": "Путь к $1000",
     "pool_title_uz": "$1000 sari yo‘l",
     "hook": "math",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "low",
     "risk_note": "",
@@ -417,29 +485,37 @@
           "name": "I3-1 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "2105000643438230",
-      "ad_id": "52606749588995"
-    }
+    ]
   },
   {
     "code": "I3-3",
     "kind": "image",
     "folder": "03 Инста — текст и фон",
     "status": "волна 1 · RISK с 4-го дня",
-    "campaign": "uz_lead_risk_2610",
-    "adset": "RK_STAT",
-    "ad_name": "I3-3_rs_clients",
-    "bot_start_tag": "vm-meta-uz_lead_risk_2610-i3_3_rs_clients",
+    "placements": [
+      {
+        "campaign": "uz_lead_risk_2610",
+        "adset": "RK_STAT_BR",
+        "audience": "br",
+        "ad_name": "I3-3_clients_br",
+        "bot_start_tag": "vm-meta-uz_lead_risk_2610-i3_3_clients_br",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_risk_2610",
+        "adset": "RK_STAT_ADV",
+        "audience": "adv",
+        "ad_name": "I3-3_clients_adv",
+        "bot_start_tag": "vm-meta-uz_lead_risk_2610-i3_3_clients_adv",
+        "meta": {}
+      }
+    ],
     "pool": 7,
     "pool_title_ru": "Не умею находить клиентов и беру дёшево",
     "pool_title_uz": "Mijoz topishni bilmayman, xizmatimni arzonga sotaman",
     "hook": "clients",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "medium",
     "risk_note": "«$1000 через 2–3 месяца»",
@@ -470,29 +546,37 @@
           "name": "I3-3 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "2528968694249565",
-      "ad_id": "52606749640995"
-    }
+    ]
   },
   {
     "code": "I1-1S",
     "kind": "image",
     "folder": "08 Инста — короткие тексты (A-B)",
     "status": "волна 1 · C1 с дня 1",
-    "campaign": "uz_lead_broad_2610",
-    "adset": "BR_SHORT",
-    "ad_name": "I1-1S_sh_math",
-    "bot_start_tag": "vm-meta-uz_lead_broad_2610-i1_1s_sh_math",
+    "placements": [
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "BR_SHORT",
+        "audience": "br",
+        "ad_name": "I1-1S_math_br",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_1s_math_br",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "AI_SHORT",
+        "audience": "ai",
+        "ad_name": "I1-1S_math_ai",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_1s_math_ai",
+        "meta": {}
+      }
+    ],
     "pool": 1,
     "pool_title_ru": "Путь к $1000",
     "pool_title_uz": "$1000 sari yo‘l",
     "hook": "math",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "low",
     "risk_note": "",
@@ -523,29 +607,37 @@
           "name": "I1-1S 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "1152223480988158",
-      "ad_id": "52606749444395"
-    }
+    ]
   },
   {
     "code": "I1-2S",
     "kind": "image",
     "folder": "08 Инста — короткие тексты (A-B)",
     "status": "волна 1 · C1 с дня 1",
-    "campaign": "uz_lead_broad_2610",
-    "adset": "BR_SHORT",
-    "ad_name": "I1-2S_sh_math",
-    "bot_start_tag": "vm-meta-uz_lead_broad_2610-i1_2s_sh_math",
+    "placements": [
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "BR_SHORT",
+        "audience": "br",
+        "ad_name": "I1-2S_math_br",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_2s_math_br",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "AI_SHORT",
+        "audience": "ai",
+        "ad_name": "I1-2S_math_ai",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_2s_math_ai",
+        "meta": {}
+      }
+    ],
     "pool": 1,
     "pool_title_ru": "Путь к $1000",
     "pool_title_uz": "$1000 sari yo‘l",
     "hook": "math",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "low",
     "risk_note": "",
@@ -576,29 +668,37 @@
           "name": "I1-2S 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "1832460021228558",
-      "ad_id": "52606749449595"
-    }
+    ]
   },
   {
     "code": "I2-1S",
     "kind": "image",
     "folder": "08 Инста — короткие тексты (A-B)",
     "status": "волна 1 · C1 с дня 1",
-    "campaign": "uz_lead_broad_2610",
-    "adset": "BR_SHORT",
-    "ad_name": "I2-1S_sh_math",
-    "bot_start_tag": "vm-meta-uz_lead_broad_2610-i2_1s_sh_math",
+    "placements": [
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "BR_SHORT",
+        "audience": "br",
+        "ad_name": "I2-1S_math_br",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_1s_math_br",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "AI_SHORT",
+        "audience": "ai",
+        "ad_name": "I2-1S_math_ai",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_1s_math_ai",
+        "meta": {}
+      }
+    ],
     "pool": 1,
     "pool_title_ru": "Путь к $1000",
     "pool_title_uz": "$1000 sari yo‘l",
     "hook": "math",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "low",
     "risk_note": "",
@@ -629,29 +729,37 @@
           "name": "I2-1S 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "1895333588119513",
-      "ad_id": "52606749450395"
-    }
+    ]
   },
   {
     "code": "I2-2S",
     "kind": "image",
     "folder": "08 Инста — короткие тексты (A-B)",
     "status": "волна 1 · C1 с дня 1",
-    "campaign": "uz_lead_broad_2610",
-    "adset": "BR_SHORT",
-    "ad_name": "I2-2S_sh_compare",
-    "bot_start_tag": "vm-meta-uz_lead_broad_2610-i2_2s_sh_compare",
+    "placements": [
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "BR_SHORT",
+        "audience": "br",
+        "ad_name": "I2-2S_compare_br",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_2s_compare_br",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "AI_SHORT",
+        "audience": "ai",
+        "ad_name": "I2-2S_compare_ai",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_2s_compare_ai",
+        "meta": {}
+      }
+    ],
     "pool": 3,
     "pool_title_ru": "Моя ситуация: работаю целый день, денег не хватает",
     "pool_title_uz": "Mening holatim: kun bo‘yi ishlayman, pul yetmaydi",
     "hook": "compare",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "low",
     "risk_note": "",
@@ -682,29 +790,37 @@
           "name": "I2-2S 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "1851560052829411",
-      "ad_id": "52606749451595"
-    }
+    ]
   },
   {
     "code": "I2-3S",
     "kind": "image",
     "folder": "08 Инста — короткие тексты (A-B)",
     "status": "волна 1 · C1 с дня 1",
-    "campaign": "uz_lead_broad_2610",
-    "adset": "BR_SHORT",
-    "ad_name": "I2-3S_sh_compare",
-    "bot_start_tag": "vm-meta-uz_lead_broad_2610-i2_3s_sh_compare",
+    "placements": [
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "BR_SHORT",
+        "audience": "br",
+        "ad_name": "I2-3S_compare_br",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_3s_compare_br",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "AI_SHORT",
+        "audience": "ai",
+        "ad_name": "I2-3S_compare_ai",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_3s_compare_ai",
+        "meta": {}
+      }
+    ],
     "pool": 3,
     "pool_title_ru": "Моя ситуация: работаю целый день, денег не хватает",
     "pool_title_uz": "Mening holatim: kun bo‘yi ishlayman, pul yetmaydi",
     "hook": "compare",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "low",
     "risk_note": "",
@@ -735,29 +851,37 @@
           "name": "I2-3S 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "1803607097325697",
-      "ad_id": "52606749452395"
-    }
+    ]
   },
   {
     "code": "I2-4S",
     "kind": "image",
     "folder": "08 Инста — короткие тексты (A-B)",
     "status": "волна 1 · C1 с дня 1",
-    "campaign": "uz_lead_broad_2610",
-    "adset": "BR_MIX",
-    "ad_name": "I2-4S_mx_compare",
-    "bot_start_tag": "vm-meta-uz_lead_broad_2610-i2_4s_mx_compare",
+    "placements": [
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "ADV_MIX",
+        "audience": "adv",
+        "ad_name": "I2-4S_compare_adv",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_4s_compare_adv",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "FR_MIX",
+        "audience": "fr",
+        "ad_name": "I2-4S_compare_fr",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_4s_compare_fr",
+        "meta": {}
+      }
+    ],
     "pool": 3,
     "pool_title_ru": "Моя ситуация: работаю целый день, денег не хватает",
     "pool_title_uz": "Mening holatim: kun bo‘yi ishlayman, pul yetmaydi",
     "hook": "compare",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "low",
     "risk_note": "",
@@ -788,29 +912,37 @@
           "name": "I2-4S 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "2540837849747154",
-      "ad_id": "52606749595995"
-    }
+    ]
   },
   {
     "code": "I3-1S",
     "kind": "image",
     "folder": "08 Инста — короткие тексты (A-B)",
     "status": "волна 1 · C1 с дня 1",
-    "campaign": "uz_lead_broad_2610",
-    "adset": "BR_MIX",
-    "ad_name": "I3-1S_mx_math",
-    "bot_start_tag": "vm-meta-uz_lead_broad_2610-i3_1s_mx_math",
+    "placements": [
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "ADV_MIX",
+        "audience": "adv",
+        "ad_name": "I3-1S_math_adv",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i3_1s_math_adv",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "FR_MIX",
+        "audience": "fr",
+        "ad_name": "I3-1S_math_fr",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i3_1s_math_fr",
+        "meta": {}
+      }
+    ],
     "pool": 1,
     "pool_title_ru": "Путь к $1000",
     "pool_title_uz": "$1000 sari yo‘l",
     "hook": "math",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "low",
     "risk_note": "",
@@ -841,29 +973,37 @@
           "name": "I3-1S 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "1408189411529946",
-      "ad_id": "52606749591595"
-    }
+    ]
   },
   {
     "code": "I3-3S",
     "kind": "image",
     "folder": "08 Инста — короткие тексты (A-B)",
     "status": "волна 1 · C1 с дня 1",
-    "campaign": "uz_lead_broad_2610",
-    "adset": "BR_MIX",
-    "ad_name": "I3-3S_mx_clients",
-    "bot_start_tag": "vm-meta-uz_lead_broad_2610-i3_3s_mx_clients",
+    "placements": [
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "ADV_MIX",
+        "audience": "adv",
+        "ad_name": "I3-3S_clients_adv",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i3_3s_clients_adv",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "FR_MIX",
+        "audience": "fr",
+        "ad_name": "I3-3S_clients_fr",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i3_3s_clients_fr",
+        "meta": {}
+      }
+    ],
     "pool": 7,
     "pool_title_ru": "Не умею находить клиентов и беру дёшево",
     "pool_title_uz": "Mijoz topishni bilmayman, xizmatimni arzonga sotaman",
     "hook": "clients",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "low",
     "risk_note": "",
@@ -894,29 +1034,37 @@
           "name": "I3-3S 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "2062061401174849",
-      "ad_id": "52606749594595"
-    }
+    ]
   },
   {
     "code": "M1",
     "kind": "image",
     "folder": "04 Мемы",
     "status": "волна 1 · RISK с 4-го дня",
-    "campaign": "uz_lead_risk_2610",
-    "adset": "RK_STAT",
-    "ad_name": "M1_rs_clients",
-    "bot_start_tag": "vm-meta-uz_lead_risk_2610-m1_rs_clients",
+    "placements": [
+      {
+        "campaign": "uz_lead_risk_2610",
+        "adset": "RK_STAT_BR",
+        "audience": "br",
+        "ad_name": "M1_clients_br",
+        "bot_start_tag": "vm-meta-uz_lead_risk_2610-m1_clients_br",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_risk_2610",
+        "adset": "RK_STAT_ADV",
+        "audience": "adv",
+        "ad_name": "M1_clients_adv",
+        "bot_start_tag": "vm-meta-uz_lead_risk_2610-m1_clients_adv",
+        "meta": {}
+      }
+    ],
     "pool": 5,
     "pool_title_ru": "Что продавать бизнесу и где брать первых клиентов",
     "pool_title_uz": "Biznesga nima sotish va ilk mijozlarni qayerdan topish",
     "hook": "clients",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "medium",
     "risk_note": "пародия на логотип сайта для взрослых",
@@ -947,21 +1095,31 @@
           "name": "M1 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "1587705625952761",
-      "ad_id": "52606749642395"
-    }
+    ]
   },
   {
     "code": "M2",
     "kind": "video",
     "folder": "04 Мемы",
     "status": "волна 1 · C1 с дня 1",
-    "campaign": "uz_lead_broad_2610",
-    "adset": "BR_MEME",
-    "ad_name": "M2_me_zero",
-    "bot_start_tag": "vm-meta-uz_lead_broad_2610-m2_me_zero",
+    "placements": [
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "ADV_MEME",
+        "audience": "adv",
+        "ad_name": "M2_zero_adv",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-m2_zero_adv",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "AI_MEME",
+        "audience": "ai",
+        "ad_name": "M2_zero_ai",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-m2_zero_ai",
+        "meta": {}
+      }
+    ],
     "pool": 4,
     "pool_title_ru": "Раздача: дополнительный доход из дома",
     "pool_title_uz": "Bepul tarqatish: uydan turib qo‘shimcha daromad",
@@ -1002,29 +1160,37 @@
           "name": "M2 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "1446961201825102",
-      "ad_id": "52606749582395"
-    }
+    ]
   },
   {
     "code": "M3",
     "kind": "image",
     "folder": "04 Мемы",
     "status": "волна 1 · C1 с дня 1",
-    "campaign": "uz_lead_broad_2610",
-    "adset": "BR_MEME",
-    "ad_name": "M3_me_zero",
-    "bot_start_tag": "vm-meta-uz_lead_broad_2610-m3_me_zero",
+    "placements": [
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "ADV_MEME",
+        "audience": "adv",
+        "ad_name": "M3_zero_adv",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-m3_zero_adv",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "AI_MEME",
+        "audience": "ai",
+        "ad_name": "M3_zero_ai",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-m3_zero_ai",
+        "meta": {}
+      }
+    ],
     "pool": 4,
     "pool_title_ru": "Раздача: дополнительный доход из дома",
     "pool_title_uz": "Bepul tarqatish: uydan turib qo‘shimcha daromad",
     "hook": "zero",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "low",
     "risk_note": "",
@@ -1055,29 +1221,37 @@
           "name": "M3 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "1560235079470954",
-      "ad_id": "52606749582995"
-    }
+    ]
   },
   {
     "code": "M4",
     "kind": "image",
     "folder": "04 Мемы",
     "status": "волна 1 · C1 с дня 1",
-    "campaign": "uz_lead_broad_2610",
-    "adset": "BR_MEME",
-    "ad_name": "M4_me_zero",
-    "bot_start_tag": "vm-meta-uz_lead_broad_2610-m4_me_zero",
+    "placements": [
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "ADV_MEME",
+        "audience": "adv",
+        "ad_name": "M4_zero_adv",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-m4_zero_adv",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "AI_MEME",
+        "audience": "ai",
+        "ad_name": "M4_zero_ai",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-m4_zero_ai",
+        "meta": {}
+      }
+    ],
     "pool": 4,
     "pool_title_ru": "Раздача: дополнительный доход из дома",
     "pool_title_uz": "Bepul tarqatish: uydan turib qo‘shimcha daromad",
     "hook": "zero",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "low",
     "risk_note": "«бесплатно до 23:59» должно быть правдой",
@@ -1108,29 +1282,37 @@
           "name": "M4 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "1003091569477685",
-      "ad_id": "52606749583995"
-    }
+    ]
   },
   {
     "code": "M5",
     "kind": "image",
     "folder": "04 Мемы",
     "status": "волна 1 · C1 с дня 1",
-    "campaign": "uz_lead_broad_2610",
-    "adset": "BR_MEME",
-    "ad_name": "M5_me_zero",
-    "bot_start_tag": "vm-meta-uz_lead_broad_2610-m5_me_zero",
+    "placements": [
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "ADV_MEME",
+        "audience": "adv",
+        "ad_name": "M5_zero_adv",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-m5_zero_adv",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "AI_MEME",
+        "audience": "ai",
+        "ad_name": "M5_zero_ai",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-m5_zero_ai",
+        "meta": {}
+      }
+    ],
     "pool": 4,
     "pool_title_ru": "Раздача: дополнительный доход из дома",
     "pool_title_uz": "Bepul tarqatish: uydan turib qo‘shimcha daromad",
     "hook": "zero",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "low",
     "risk_note": "",
@@ -1161,29 +1343,37 @@
           "name": "M5 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "1144936897875727",
-      "ad_id": "52606749585195"
-    }
+    ]
   },
   {
     "code": "M6",
     "kind": "image",
     "folder": "04 Мемы",
     "status": "волна 1 · RISK с 4-го дня",
-    "campaign": "uz_lead_risk_2610",
-    "adset": "RK_STAT",
-    "ad_name": "M6_rs_compare",
-    "bot_start_tag": "vm-meta-uz_lead_risk_2610-m6_rs_compare",
+    "placements": [
+      {
+        "campaign": "uz_lead_risk_2610",
+        "adset": "RK_STAT_BR",
+        "audience": "br",
+        "ad_name": "M6_compare_br",
+        "bot_start_tag": "vm-meta-uz_lead_risk_2610-m6_compare_br",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_risk_2610",
+        "adset": "RK_STAT_ADV",
+        "audience": "adv",
+        "ad_name": "M6_compare_adv",
+        "bot_start_tag": "vm-meta-uz_lead_risk_2610-m6_compare_adv",
+        "meta": {}
+      }
+    ],
     "pool": 3,
     "pool_title_ru": "Моя ситуация: работаю целый день, денег не хватает",
     "pool_title_uz": "Mening holatim: kun bo‘yi ishlayman, pul yetmaydi",
     "hook": "compare",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "medium",
     "risk_note": "кадры «Рика и Морти», авторские права",
@@ -1214,29 +1404,37 @@
           "name": "M6 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "1587597605857391",
-      "ad_id": "52606749643395"
-    }
+    ]
   },
   {
     "code": "M7",
     "kind": "image",
     "folder": "04 Мемы",
     "status": "волна 1 · C1 с дня 1",
-    "campaign": "uz_lead_broad_2610",
-    "adset": "BR_MEME",
-    "ad_name": "M7_me_zero",
-    "bot_start_tag": "vm-meta-uz_lead_broad_2610-m7_me_zero",
+    "placements": [
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "ADV_MEME",
+        "audience": "adv",
+        "ad_name": "M7_zero_adv",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-m7_zero_adv",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "AI_MEME",
+        "audience": "ai",
+        "ad_name": "M7_zero_ai",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-m7_zero_ai",
+        "meta": {}
+      }
+    ],
     "pool": 4,
     "pool_title_ru": "Раздача: дополнительный доход из дома",
     "pool_title_uz": "Bepul tarqatish: uydan turib qo‘shimcha daromad",
     "hook": "zero",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "low",
     "risk_note": "",
@@ -1267,21 +1465,31 @@
           "name": "M7 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "1065125416558993",
-      "ad_id": "52606749585595"
-    }
+    ]
   },
   {
     "code": "V1",
     "kind": "video",
     "folder": "05 Видео",
     "status": "волна 1 · RISK с 4-го дня",
-    "campaign": "uz_lead_risk_2610",
-    "adset": "RK_VID",
-    "ad_name": "V1_rv_now",
-    "bot_start_tag": "vm-meta-uz_lead_risk_2610-v1_rv_now",
+    "placements": [
+      {
+        "campaign": "uz_lead_risk_2610",
+        "adset": "RK_VID_BR",
+        "audience": "br",
+        "ad_name": "V1_now_br",
+        "bot_start_tag": "vm-meta-uz_lead_risk_2610-v1_now_br",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_risk_2610",
+        "adset": "RK_VID_ADV",
+        "audience": "adv",
+        "ad_name": "V1_now_adv",
+        "bot_start_tag": "vm-meta-uz_lead_risk_2610-v1_now_adv",
+        "meta": {}
+      }
+    ],
     "pool": 2,
     "pool_title_ru": "Ролик сделал нейросеть (продаю результат, не время)",
     "pool_title_uz": "Rolikni AI yaratdi (vaqtni emas, natijani sotaman)",
@@ -1322,21 +1530,31 @@
           "name": "V1 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "1417516747160640",
-      "ad_id": "52606749644795"
-    }
+    ]
   },
   {
     "code": "V2",
     "kind": "video",
     "folder": "05 Видео",
     "status": "волна 1 · RISK с 4-го дня",
-    "campaign": "uz_lead_risk_2610",
-    "adset": "RK_V2",
-    "ad_name": "V2_r2_math",
-    "bot_start_tag": "vm-meta-uz_lead_risk_2610-v2_r2_math",
+    "placements": [
+      {
+        "campaign": "uz_lead_risk_2610",
+        "adset": "RK_VID_BR",
+        "audience": "br",
+        "ad_name": "V2_math_br",
+        "bot_start_tag": "vm-meta-uz_lead_risk_2610-v2_math_br",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_risk_2610",
+        "adset": "RK_VID_ADV",
+        "audience": "adv",
+        "ad_name": "V2_math_adv",
+        "bot_start_tag": "vm-meta-uz_lead_risk_2610-v2_math_adv",
+        "meta": {}
+      }
+    ],
     "pool": 1,
     "pool_title_ru": "Путь к $1000",
     "pool_title_uz": "$1000 sari yo‘l",
@@ -1377,21 +1595,14 @@
           "name": "V2 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "1530647702156686",
-      "ad_id": "52606749645195"
-    }
+    ]
   },
   {
     "code": "V3",
     "kind": "video",
     "folder": "05 Видео",
     "status": "резерв",
-    "campaign": null,
-    "adset": null,
-    "ad_name": null,
-    "bot_start_tag": null,
+    "placements": [],
     "pool": 4,
     "pool_title_ru": "Раздача: дополнительный доход из дома",
     "pool_title_uz": "Bepul tarqatish: uydan turib qo‘shimcha daromad",
@@ -1424,18 +1635,31 @@
         "audio": true,
         "meta": {}
       }
-    ],
-    "meta": {}
+    ]
   },
   {
     "code": "V4b",
     "kind": "video",
     "folder": "05 Видео",
     "status": "волна 1 · RISK с 4-го дня",
-    "campaign": "uz_lead_risk_2610",
-    "adset": "RK_VID",
-    "ad_name": "V4b_rv_now",
-    "bot_start_tag": "vm-meta-uz_lead_risk_2610-v4b_rv_now",
+    "placements": [
+      {
+        "campaign": "uz_lead_risk_2610",
+        "adset": "RK_VID_BR",
+        "audience": "br",
+        "ad_name": "V4b_now_br",
+        "bot_start_tag": "vm-meta-uz_lead_risk_2610-v4b_now_br",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_risk_2610",
+        "adset": "RK_VID_ADV",
+        "audience": "adv",
+        "ad_name": "V4b_now_adv",
+        "bot_start_tag": "vm-meta-uz_lead_risk_2610-v4b_now_adv",
+        "meta": {}
+      }
+    ],
     "pool": 2,
     "pool_title_ru": "Ролик сделал нейросеть (продаю результат, не время)",
     "pool_title_uz": "Rolikni AI yaratdi (vaqtni emas, natijani sotaman)",
@@ -1476,29 +1700,37 @@
           "name": "V4b 9x16"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "1016188101494136",
-      "ad_id": "52606749643995"
-    }
+    ]
   },
   {
     "code": "K2-1",
     "kind": "carousel",
     "folder": "06 Красивые — карусели 1x1/K2-1 — карусель",
     "status": "волна 1 · C1 с дня 1",
-    "campaign": "uz_lead_broad_2610",
-    "adset": "BR_CAR",
-    "ad_name": "K2-1_ca_compare",
-    "bot_start_tag": "vm-meta-uz_lead_broad_2610-k2_1_ca_compare",
+    "placements": [
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "BIZ_CAR",
+        "audience": "biz",
+        "ad_name": "K2-1_compare_biz",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-k2_1_compare_biz",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "FR_CAR",
+        "audience": "fr",
+        "ad_name": "K2-1_compare_fr",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-k2_1_compare_fr",
+        "meta": {}
+      }
+    ],
     "pool": 6,
     "pool_title_ru": "Классная подработка, которая не мешает учёбе и работе",
     "pool_title_uz": "O‘qish va ishga xalal bermaydigan zo‘r qo‘shimcha ish",
     "hook": "compare",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "low",
     "risk_note": "цифру «такси ~8 млн сум» подтвердить",
@@ -1581,29 +1813,37 @@
           "name": "K2-1 card6"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "1612927050529811",
-      "ad_id": "52606749636995"
-    }
+    ]
   },
   {
     "code": "K2-1b",
     "kind": "carousel",
     "folder": "06 Красивые — карусели 1x1/K2-1b — карусель",
     "status": "волна 1 · C1 с дня 1",
-    "campaign": "uz_lead_broad_2610",
-    "adset": "BR_CAR",
-    "ad_name": "K2-1b_ca_compare",
-    "bot_start_tag": "vm-meta-uz_lead_broad_2610-k2_1b_ca_compare",
+    "placements": [
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "BIZ_CAR",
+        "audience": "biz",
+        "ad_name": "K2-1b_compare_biz",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-k2_1b_compare_biz",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "FR_CAR",
+        "audience": "fr",
+        "ad_name": "K2-1b_compare_fr",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-k2_1b_compare_fr",
+        "meta": {}
+      }
+    ],
     "pool": 6,
     "pool_title_ru": "Классная подработка, которая не мешает учёбе и работе",
     "pool_title_uz": "O‘qish va ishga xalal bermaydigan zo‘r qo‘shimcha ish",
     "hook": "compare",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "low",
     "risk_note": "",
@@ -1686,29 +1926,37 @@
           "name": "K2-1b card6"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "4052714631698192",
-      "ad_id": "52606749637595"
-    }
+    ]
   },
   {
     "code": "K2-3",
     "kind": "carousel",
     "folder": "06 Красивые — карусели 1x1/K2-3 — карусель",
     "status": "волна 1 · C1 с дня 1",
-    "campaign": "uz_lead_broad_2610",
-    "adset": "BR_CAR",
-    "ad_name": "K2-3_ca_clients",
-    "bot_start_tag": "vm-meta-uz_lead_broad_2610-k2_3_ca_clients",
+    "placements": [
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "BIZ_CAR",
+        "audience": "biz",
+        "ad_name": "K2-3_clients_biz",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-k2_3_clients_biz",
+        "meta": {}
+      },
+      {
+        "campaign": "uz_lead_main_2610",
+        "adset": "FR_CAR",
+        "audience": "fr",
+        "ad_name": "K2-3_clients_fr",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-k2_3_clients_fr",
+        "meta": {}
+      }
+    ],
     "pool": 5,
     "pool_title_ru": "Что продавать бизнесу и где брать первых клиентов",
     "pool_title_uz": "Biznesga nima sotish va ilk mijozlarni qayerdan topish",
     "hook": "clients",
     "texts_used": [
-      "short",
-      "mid",
-      "long"
+      "mid"
     ],
     "risk": "low",
     "risk_note": "нужен бонус «Топ-10 каналов»",
@@ -1791,21 +2039,14 @@
           "name": "K2-3 card6"
         }
       }
-    ],
-    "meta": {
-      "creative_id": "1133040315763351",
-      "ad_id": "52606749638395"
-    }
+    ]
   },
   {
     "code": "K2-4",
     "kind": "carousel",
     "folder": "06 Красивые — карусели 1x1/K2-4 — карусель",
     "status": "волна 2",
-    "campaign": null,
-    "adset": null,
-    "ad_name": null,
-    "bot_start_tag": null,
+    "placements": [],
     "pool": 8,
     "pool_title_ru": "Зарабатывать дома, не уезжая на заработки",
     "pool_title_uz": "Chetga ishlagani ketmasdan, uyda pul ishlash",
@@ -1854,18 +2095,14 @@
         "height": 1080,
         "meta": {}
       }
-    ],
-    "meta": {}
+    ]
   },
   {
     "code": "I1-3",
     "kind": "image",
     "folder": "01 Инста — эксперт на фото",
     "status": "волна 2",
-    "campaign": null,
-    "adset": null,
-    "ad_name": null,
-    "bot_start_tag": null,
+    "placements": [],
     "pool": 9,
     "pool_title_ru": "Не верю в $1000 — покажите реальный сайт",
     "pool_title_uz": "$1000 ga ishonmayman — haqiqiy saytni ko‘rsating",
@@ -1894,18 +2131,14 @@
         "height": 1920,
         "meta": {}
       }
-    ],
-    "meta": {}
+    ]
   },
   {
     "code": "I1-3B",
     "kind": "image",
     "folder": "01 Инста — эксперт на фото",
     "status": "волна 2",
-    "campaign": null,
-    "adset": null,
-    "ad_name": null,
-    "bot_start_tag": null,
+    "placements": [],
     "pool": 9,
     "pool_title_ru": "Не верю в $1000 — покажите реальный сайт",
     "pool_title_uz": "$1000 ga ishonmayman — haqiqiy saytni ko‘rsating",
@@ -1934,18 +2167,14 @@
         "height": 1920,
         "meta": {}
       }
-    ],
-    "meta": {}
+    ]
   },
   {
     "code": "I3-2",
     "kind": "video",
     "folder": "03 Инста — текст и фон",
     "status": "волна 2",
-    "campaign": null,
-    "adset": null,
-    "ad_name": null,
-    "bot_start_tag": null,
+    "placements": [],
     "pool": 9,
     "pool_title_ru": "Не верю в $1000 — покажите реальный сайт",
     "pool_title_uz": "$1000 ga ishonmayman — haqiqiy saytni ko‘rsating",
@@ -1978,18 +2207,14 @@
         "audio": true,
         "meta": {}
       }
-    ],
-    "meta": {}
+    ]
   },
   {
     "code": "V4",
     "kind": "video",
     "folder": "05 Видео",
     "status": "не для Meta",
-    "campaign": null,
-    "adset": null,
-    "ad_name": null,
-    "bot_start_tag": null,
+    "placements": [],
     "pool": 2,
     "pool_title_ru": "Ролик сделал нейросеть (продаю результат, не время)",
     "pool_title_uz": "Rolikni AI yaratdi (vaqtni emas, natijani sotaman)",
@@ -2022,7 +2247,6 @@
         "audio": true,
         "meta": {}
       }
-    ],
-    "meta": {}
+    ]
   }
 ]
