@@ -1,0 +1,8 @@
+{
+  "_note": "ID объектов, созданных в Meta. Заполняется при заливке через MCP; build_launch.py переносит их в реестр.",
+  "media": {},
+  "audiences": {},
+  "campaigns": {},
+  "adsets": {},
+  "ads": {}
+}
