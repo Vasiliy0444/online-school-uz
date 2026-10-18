@@ -6,3 +6,5 @@ __pycache__/
 .venv/
 .vercel/
 .next/
+research/19-zapusk-meta-bm/rebuild_state/**/.lock
+research/19-zapusk-meta-bm/rebuild_state/**/*.tmp

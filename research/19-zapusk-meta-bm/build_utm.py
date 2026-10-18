@@ -57,7 +57,7 @@ def read_headlines() -> dict[str, str]:
 
 
 def state_kind(state: str) -> str:
-    """Короткий вид состояния для страницы: опубликовано / черновик без Instagram / RISK."""
+    """Короткий вид состояния для страницы: опубликовано / черновик / RISK."""
     if state.startswith("опубликовано"):
         return "live"
     if "RISK" in state:
@@ -168,7 +168,7 @@ def write_csv(data: dict) -> None:
 
 
 def md_state(a: dict) -> str:
-    return {"live": "опубликовано", "risk": "черновик RISK", "draft": "черновик, нужен Instagram"}[a["state_kind"]]
+    return {"live": "опубликовано", "risk": "черновик RISK", "draft": "черновик, не опубликовано"}[a["state_kind"]]
 
 
 def write_md(data: dict) -> None:
