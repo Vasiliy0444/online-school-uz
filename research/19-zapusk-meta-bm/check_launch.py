@@ -92,8 +92,14 @@ def check_ad(ad: dict, adset: dict, camp: dict, errors: list[str], warnings: lis
         if re.search("[А-Яа-яЁё]", text):
             errors.append(f"{label}: кириллица в узбекском тексте")
             break
-    if ad["title"] != B.HEADLINE or ad["call_to_action"] != B.CTA or ad["description"] != "":
+    sign_up = ad["name"].endswith(L.PLAN["cta"]["sign_up_suffix"])
+    want_cta = "SIGN_UP" if sign_up else B.CTA
+    if ad["title"] != B.HEADLINE or ad["call_to_action"] != want_cta or ad["description"] != "":
         errors.append(f"{label}: заголовок, описание или кнопка не по плану")
+    if sign_up and any("Batafsil" in t for t in [ad["body_fallback"], *ad["body_options"]]):
+        errors.append(f"{label}: кнопка «Зарегистрироваться», а текст зовёт нажать «Batafsil»")
+    if not ad["display_name"].startswith(ad["name"] + " · "):
+        errors.append(f"{label}: имя в Meta {ad['display_name']!r} должно начинаться с utm_content")
     want_link = L.ad_link(L.PLAN["landing"], camp["name"], adset["name"], ad["name"])
     if ad["link_url"] != want_link or not want_link.startswith("https://"):
         errors.append(f"{label}: ссылка {ad['link_url']!r}, нужна {want_link!r}")
@@ -120,7 +126,7 @@ def check_structure(launch: dict, errors: list[str], warnings: list[str]) -> Non
         if days is None:
             errors.append(f"{camp['name']}: неизвестный день старта {camp['start']!r}")
         elif per_day * days > camp["spend_cap_usd"]:
-            errors.append(f"{camp['name']}: ${per_day:g} × {days} дн. больше лимита трат ${camp['spend_cap_usd']}")
+            warnings.append(f"{camp['name']}: ${per_day:g} × {days} дн. больше лимита трат ${camp['spend_cap_usd']}: кампания остановится, когда лимит кончится")
         for adset in camp["adsets"]:
             if adset["daily_budget_minor"] < MIN_DAILY_MINOR:
                 errors.append(f"{camp['name']}/{adset['name']}: бюджет меньше минимума кабинета")
@@ -136,7 +142,8 @@ def check_structure(launch: dict, errors: list[str], warnings: list[str]) -> Non
                 check_ad(ad, adset, camp, errors, warnings)
     planned = sum(sum(a["daily_budget_usd"] for a in c["adsets"]) * L.DAYS_IN_WEEK.get(c["start"], 7) for c in launch["campaigns"])
     if planned > launch["week_cap_usd"]:
-        errors.append(f"план недели ${planned:g} больше потолка ${launch['week_cap_usd']}")
+        warnings.append(f"план недели ${planned:g} больше потолка ${launch['week_cap_usd']}: открут остановят лимиты трат "
+                        f"кампаний и лимит расходов кабинета ${launch['week_cap_usd']} (бюджеты $4 — просьба Васи 18.10)")
     audiences: dict[str, set] = {}
     for camp in launch["campaigns"]:
         for adset in camp["adsets"]:

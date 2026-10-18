@@ -175,14 +175,26 @@ def ad_link(landing: str, campaign: str, adset: str, name: str) -> str:
     return f"{landing}?{q}"
 
 
+def signup_text(text: str) -> str:
+    """Текст под кнопку «Зарегистрироваться»: ссылки на кнопку «Batafsil» в таком объявлении быть не должно."""
+    return text.replace("«Batafsil» tugmasini", "Tugmani")
+
+
 def build_ad(code: str, adset: dict, camp: dict, pools: dict, ids: dict, index: dict, meta: dict) -> dict:
     creo = CREATIVES[code]
     pool = creo["pool"]
     hook = B.HOOK_BY_POOL[pool]
-    name = f"{code}_{hook}_{adset['aud']}"
+    base = f"{code}_{hook}_{adset['aud']}"
+    cta_plan = PLAN["cta"]
+    sign_up = base in cta_plan["sign_up_ads"]
+    cta = "SIGN_UP" if sign_up else cta_plan["default"]
+    name = base + cta_plan["sign_up_suffix"] if sign_up else base  # он же utm_content в ссылке
+    title_ru = PLAN["titles"][code]
+    text = signup_text if sign_up else (lambda t: t)
     video = creo["kind"] == "video"
     landing = PLAN["landing"]
     ad_defaults = dict(B.AD_DEFAULTS,
+                       call_to_action=cta,
                        link_url=ad_link(landing, camp["name"], adset["name"], name),
                        url_tags="",
                        conversion_domain=urllib.parse.urlparse(landing).netloc,
@@ -190,14 +202,17 @@ def build_ad(code: str, adset: dict, camp: dict, pools: dict, ids: dict, index: 
                        instagram_user_id=ids.get("instagram_user_id"))
     return dict(
         name=name,
+        display_name=f"{name} · {title_ru} · {cta_plan['button_ru'][cta]}",  # имя объявления и креатива в Meta
+        title_ru=title_ru,
+        replaces=base if sign_up else None,
         creative_code=code,
         format=creo["kind"],
         media=media_list(code, index, meta["media"]),
         text_pool=pool,
         hook=hook,
         body_keys=["short"] if video else ["mid"],
-        body_options=B.bodies(pools[pool], creo["kind"]),
-        body_fallback=pools[pool]["short" if video else "mid"],  # один текст: при медиа по плейсментам API принимает только его
+        body_options=[text(t) for t in B.bodies(pools[pool], creo["kind"])],
+        body_fallback=text(pools[pool]["short" if video else "mid"]),  # один текст: при медиа по плейсментам API принимает только его
         bot_start_tag=start_tag(camp["name"], name),
         risk=creo["risk"],
         risk_note=creo.get("note", ""),
@@ -264,6 +279,7 @@ def build_registry(campaigns: list[dict], pools_uz: dict, pools_ru: dict, index:
             for ad in adset["ads"]:
                 placed.setdefault(ad["creative_code"], []).append(dict(
                     campaign=camp["name"], adset=adset["name"], audience=adset["audience"], ad_name=ad["name"],
+                    display_name=ad["display_name"], cta=ad["call_to_action"],
                     bot_start_tag=ad["bot_start_tag"], meta=ad["meta"]))
     registry = []
     for code, creo in CREATIVES.items():
@@ -359,7 +375,7 @@ def build_md(campaigns: list[dict], registry: list[dict], pools_uz: dict, pools_
     ]
     for camp in campaigns:
         for adset in camp["adsets"]:
-            ads = ", ".join(f"`{ad['name']}`" for ad in adset["ads"])
+            ads = ", ".join(f"`{ad['name']}`" + (" (рег.)" if ad["call_to_action"] == "SIGN_UP" else "") for ad in adset["ads"])
             paused = " · на паузе до интересов" if adset["paused_until_interests"] else ""
             lines.append(f"| `{camp['name']}` | `{adset['name']}` | `{adset['audience']}`{paused} | ${adset['daily_budget_usd']:g} | "
                          f"{camp['start']} | {ads} | {adset['test']} |")
@@ -381,10 +397,11 @@ def build_md(campaigns: list[dict], registry: list[dict], pools_uz: dict, pools_
         "|---|---|---|---|---|---|---|---|---|",
     ]
     for item in registry:
-        where = "<br>".join(f"`{h['adset']}` → `{h['ad_name']}`" for h in item["placements"]) or "—"
+        where = "<br>".join(f"`{h['adset']}` → `{h['ad_name']}` · {PLAN['cta']['button_ru'][h['cta']]}" for h in item["placements"]) or "—"
         texts = "/".join({"short": "S", "mid": "M", "long": "L"}[k] for k in item["texts_used"]) if item["texts_used"] else "—"
         risk = RISK_RU[item["risk"]] + (f": {item['risk_note']}" if item["risk_note"] else "")
-        lines.append(f"| {item['code']} | {KIND_RU[item['kind']]} | {item['status']} | {where} | "
+        title = f" — {PLAN['titles'][item['code']]}" if item["code"] in PLAN["titles"] else ""
+        lines.append(f"| {item['code']}{title} | {KIND_RU[item['kind']]} | {item['status']} | {where} | "
                      f"{item['pool']} · {item['hook']} | {texts} | {risk} | {md_files(item)} | {md_meta(item)} |")
     lines += ["", "Текст: один на объявление — M (средний) у картинок и каруселей, S (короткий) у видео: при разных медиа "
               "для лент и для Stories/Reels API принимает только один основной текст.", ""]
@@ -394,7 +411,8 @@ def build_md(campaigns: list[dict], registry: list[dict], pools_uz: dict, pools_
         "",
         "Полные тексты: узбекский — [`03-ТЕКСТЫ-ПУЛЫ-UZ.md`](../17-teksty-ru-uz/03-ТЕКСТЫ-ПУЛЫ-UZ.md), "
         "русский — [`02-ТЕКСТЫ-ПУЛЫ-RU.md`](../17-teksty-ru-uz/02-ТЕКСТЫ-ПУЛЫ-RU.md). "
-        "Заголовок у всех объявлений — «Bepul mini-kurs», кнопка — «Подробнее».",
+        "Заголовок у всех объявлений — «Bepul mini-kurs». Кнопка — «Подробнее», у 27 объявлений с `_su` в имени — "
+        "«Зарегистрироваться», и в их тексте ««Batafsil» tugmasini» заменено на «Tugmani» (план, раздел 11).",
         "",
         "| Пул | Тема | Креативы волны 1 | Знаков UZ: S / M / L | Начало текста (UZ) |",
         "|---|---|---|---|---|",

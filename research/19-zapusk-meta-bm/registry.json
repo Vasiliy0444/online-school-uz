@@ -9,14 +9,16 @@
         "campaign": "uz_lead_main_2610",
         "adset": "BR_LONG",
         "audience": "br",
-        "ad_name": "I1-1_math_br",
-        "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_1_math_br",
+        "ad_name": "I1-1_math_br_su",
+        "display_name": "I1-1_math_br_su · Эксперт: Как заработать на ИИ в 2026 · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_1_math_br_su",
         "meta": {
-          "creative_id": "1873100843857061",
-          "ad_id": "52606777502795",
+          "creative_id": "1098374593109597",
+          "ad_id": "52606880299595",
           "campaign": "uz_lead_main_2610",
           "adset": "BR_LONG",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       },
       {
@@ -24,13 +26,15 @@
         "adset": "BIZ_LONG",
         "audience": "biz",
         "ad_name": "I1-1_math_biz",
+        "display_name": "I1-1_math_biz · Эксперт: Как заработать на ИИ в 2026 · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_1_math_biz",
         "meta": {
           "creative_id": "1776336043593870",
           "ad_id": "52606777604595",
           "campaign": "uz_lead_main_2610",
           "adset": "BIZ_LONG",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       }
     ],
@@ -83,27 +87,31 @@
         "adset": "BR_LONG",
         "audience": "br",
         "ad_name": "I1-2_math_br",
+        "display_name": "I1-2_math_br · Эксперт: Как начать зарабатывать удалённо · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_2_math_br",
         "meta": {
           "creative_id": "28987750257515854",
           "ad_id": "52606777524995",
           "campaign": "uz_lead_main_2610",
           "adset": "BR_LONG",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       },
       {
         "campaign": "uz_lead_main_2610",
         "adset": "BIZ_LONG",
         "audience": "biz",
-        "ad_name": "I1-2_math_biz",
-        "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_2_math_biz",
+        "ad_name": "I1-2_math_biz_su",
+        "display_name": "I1-2_math_biz_su · Эксперт: Как начать зарабатывать удалённо · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_2_math_biz_su",
         "meta": {
-          "creative_id": "1795107245058648",
-          "ad_id": "52606777621195",
+          "creative_id": "2239405473276121",
+          "ad_id": "52606880318195",
           "campaign": "uz_lead_main_2610",
           "adset": "BIZ_LONG",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       }
     ],
@@ -156,27 +164,31 @@
         "adset": "ADV_MIX",
         "audience": "adv",
         "ad_name": "I1-4_clients_adv",
+        "display_name": "I1-4_clients_adv · Эксперт: 5 способов заработать на ИИ · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_4_clients_adv",
         "meta": {
           "creative_id": "4083905725248549",
           "ad_id": "52606777580995",
           "campaign": "uz_lead_main_2610",
           "adset": "ADV_MIX",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       },
       {
         "campaign": "uz_lead_main_2610",
         "adset": "FR_MIX",
         "audience": "fr",
-        "ad_name": "I1-4_clients_fr",
-        "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_4_clients_fr",
+        "ad_name": "I1-4_clients_fr_su",
+        "display_name": "I1-4_clients_fr_su · Эксперт: 5 способов заработать на ИИ · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_4_clients_fr_su",
         "meta": {
-          "creative_id": "1718579699785462",
-          "ad_id": "52606777619595",
+          "creative_id": "1678654023874142",
+          "ad_id": "52606880423395",
           "campaign": "uz_lead_main_2610",
           "adset": "FR_MIX",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       }
     ],
@@ -228,14 +240,16 @@
         "campaign": "uz_lead_main_2610",
         "adset": "BR_LONG",
         "audience": "br",
-        "ad_name": "I2-1_math_br",
-        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_1_math_br",
+        "ad_name": "I2-1_math_br_su",
+        "display_name": "I2-1_math_br_su · Вопрос: Как выйти на $1000 удалённо · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_1_math_br_su",
         "meta": {
-          "creative_id": "1084247354454268",
-          "ad_id": "52606777480795",
+          "creative_id": "1893376631647311",
+          "ad_id": "52606880300395",
           "campaign": "uz_lead_main_2610",
           "adset": "BR_LONG",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       },
       {
@@ -243,13 +257,15 @@
         "adset": "BIZ_LONG",
         "audience": "biz",
         "ad_name": "I2-1_math_biz",
+        "display_name": "I2-1_math_biz · Вопрос: Как выйти на $1000 удалённо · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_1_math_biz",
         "meta": {
           "creative_id": "1723267382106019",
           "ad_id": "52606777616395",
           "campaign": "uz_lead_main_2610",
           "adset": "BIZ_LONG",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       }
     ],
@@ -302,27 +318,31 @@
         "adset": "BR_LONG",
         "audience": "br",
         "ad_name": "I2-2_compare_br",
+        "display_name": "I2-2_compare_br · Вопрос: Надоело брать деньги у родителей · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_2_compare_br",
         "meta": {
           "creative_id": "1823469675563313",
           "ad_id": "52606777504195",
           "campaign": "uz_lead_main_2610",
           "adset": "BR_LONG",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       },
       {
         "campaign": "uz_lead_main_2610",
         "adset": "BIZ_LONG",
         "audience": "biz",
-        "ad_name": "I2-2_compare_biz",
-        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_2_compare_biz",
+        "ad_name": "I2-2_compare_biz_su",
+        "display_name": "I2-2_compare_biz_su · Вопрос: Надоело брать деньги у родителей · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_2_compare_biz_su",
         "meta": {
-          "creative_id": "1758307942964271",
-          "ad_id": "52606777591995",
+          "creative_id": "1129701339617972",
+          "ad_id": "52606880318995",
           "campaign": "uz_lead_main_2610",
           "adset": "BIZ_LONG",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       }
     ],
@@ -374,14 +394,16 @@
         "campaign": "uz_lead_main_2610",
         "adset": "BR_LONG",
         "audience": "br",
-        "ad_name": "I2-3_compare_br",
-        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_3_compare_br",
+        "ad_name": "I2-3_compare_br_su",
+        "display_name": "I2-3_compare_br_su · Вопрос: Работаю целый день, а денег нет · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_3_compare_br_su",
         "meta": {
-          "creative_id": "1882595733106428",
-          "ad_id": "52606777535795",
+          "creative_id": "1419515463697318",
+          "ad_id": "52606880302395",
           "campaign": "uz_lead_main_2610",
           "adset": "BR_LONG",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       },
       {
@@ -389,13 +411,15 @@
         "adset": "BIZ_LONG",
         "audience": "biz",
         "ad_name": "I2-3_compare_biz",
+        "display_name": "I2-3_compare_biz · Вопрос: Работаю целый день, а денег нет · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_3_compare_biz",
         "meta": {
           "creative_id": "1463254548990817",
           "ad_id": "52606777617395",
           "campaign": "uz_lead_main_2610",
           "adset": "BIZ_LONG",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       }
     ],
@@ -447,11 +471,13 @@
         "campaign": "uz_lead_risk_2610",
         "adset": "RK_STAT_BR",
         "audience": "br",
-        "ad_name": "I2-4_compare_br",
-        "bot_start_tag": "vm-meta-uz_lead_risk_2610-i2_4_compare_br",
+        "ad_name": "I2-4_compare_br_su",
+        "display_name": "I2-4_compare_br_su · Вопрос: Стыдно просить деньги у родителей · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_risk_2610-i2_4_compare_br_su",
         "meta": {
-          "creative_id": "1655292492870342",
-          "ad_id": "52606777645795",
+          "creative_id": "1687404193130132",
+          "ad_id": "52606880426995",
           "campaign": "uz_lead_risk_2610",
           "adset": "RK_STAT_BR",
           "state": "черновик, RISK до 4-го дня"
@@ -462,6 +488,8 @@
         "adset": "RK_STAT_ADV",
         "audience": "adv",
         "ad_name": "I2-4_compare_adv",
+        "display_name": "I2-4_compare_adv · Вопрос: Стыдно просить деньги у родителей · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_risk_2610-i2_4_compare_adv",
         "meta": {
           "creative_id": "1091192646829152",
@@ -520,14 +548,16 @@
         "campaign": "uz_lead_main_2610",
         "adset": "ADV_MIX",
         "audience": "adv",
-        "ad_name": "I3-1_math_adv",
-        "bot_start_tag": "vm-meta-uz_lead_main_2610-i3_1_math_adv",
+        "ad_name": "I3-1_math_adv_su",
+        "display_name": "I3-1_math_adv_su · Текст: Дарю план выхода на $1000 · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i3_1_math_adv_su",
         "meta": {
-          "creative_id": "1437482115005393",
-          "ad_id": "52606777593195",
+          "creative_id": "2020465101977408",
+          "ad_id": "52606880313995",
           "campaign": "uz_lead_main_2610",
           "adset": "ADV_MIX",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       },
       {
@@ -535,13 +565,15 @@
         "adset": "FR_MIX",
         "audience": "fr",
         "ad_name": "I3-1_math_fr",
+        "display_name": "I3-1_math_fr · Текст: Дарю план выхода на $1000 · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i3_1_math_fr",
         "meta": {
           "creative_id": "1090482270445718",
           "ad_id": "52606777662395",
           "campaign": "uz_lead_main_2610",
           "adset": "FR_MIX",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       }
     ],
@@ -594,6 +626,8 @@
         "adset": "RK_STAT_BR",
         "audience": "br",
         "ad_name": "I3-3_clients_br",
+        "display_name": "I3-3_clients_br · Текст: Не умеешь находить клиентов · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_risk_2610-i3_3_clients_br",
         "meta": {
           "creative_id": "4375959666049222",
@@ -607,11 +641,13 @@
         "campaign": "uz_lead_risk_2610",
         "adset": "RK_STAT_ADV",
         "audience": "adv",
-        "ad_name": "I3-3_clients_adv",
-        "bot_start_tag": "vm-meta-uz_lead_risk_2610-i3_3_clients_adv",
+        "ad_name": "I3-3_clients_adv_su",
+        "display_name": "I3-3_clients_adv_su · Текст: Не умеешь находить клиентов · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_risk_2610-i3_3_clients_adv_su",
         "meta": {
-          "creative_id": "1807852447018342",
-          "ad_id": "52606777731395",
+          "creative_id": "4431509107179416",
+          "ad_id": "52606880429195",
           "campaign": "uz_lead_risk_2610",
           "adset": "RK_STAT_ADV",
           "state": "черновик, RISK до 4-го дня"
@@ -667,27 +703,31 @@
         "adset": "BR_SHORT",
         "audience": "br",
         "ad_name": "I1-1S_math_br",
+        "display_name": "I1-1S_math_br · Эксперт: Как зарабатывать $1000 в месяц · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_1s_math_br",
         "meta": {
           "creative_id": "1410160167445848",
           "ad_id": "52606777538995",
           "campaign": "uz_lead_main_2610",
           "adset": "BR_SHORT",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       },
       {
         "campaign": "uz_lead_main_2610",
         "adset": "AI_SHORT",
         "audience": "ai",
-        "ad_name": "I1-1S_math_ai",
-        "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_1s_math_ai",
+        "ad_name": "I1-1S_math_ai_su",
+        "display_name": "I1-1S_math_ai_su · Эксперт: Как зарабатывать $1000 в месяц · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_1s_math_ai_su",
         "meta": {
-          "creative_id": "1471111224906477",
-          "ad_id": "52606777636995",
+          "creative_id": "1590835129735810",
+          "ad_id": "52606880319995",
           "campaign": "uz_lead_main_2610",
           "adset": "AI_SHORT",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       }
     ],
@@ -739,14 +779,16 @@
         "campaign": "uz_lead_main_2610",
         "adset": "BR_SHORT",
         "audience": "br",
-        "ad_name": "I1-2S_math_br",
-        "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_2s_math_br",
+        "ad_name": "I1-2S_math_br_su",
+        "display_name": "I1-2S_math_br_su · Эксперт: Как выйти на $1000 удалённо · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_2s_math_br_su",
         "meta": {
-          "creative_id": "869254566215575",
-          "ad_id": "52606777530195",
+          "creative_id": "2318683238867814",
+          "ad_id": "52606880304195",
           "campaign": "uz_lead_main_2610",
           "adset": "BR_SHORT",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       },
       {
@@ -754,13 +796,15 @@
         "adset": "AI_SHORT",
         "audience": "ai",
         "ad_name": "I1-2S_math_ai",
+        "display_name": "I1-2S_math_ai · Эксперт: Как выйти на $1000 удалённо · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_2s_math_ai",
         "meta": {
           "creative_id": "1486701026695367",
           "ad_id": "52606777629795",
           "campaign": "uz_lead_main_2610",
           "adset": "AI_SHORT",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       }
     ],
@@ -813,27 +857,31 @@
         "adset": "BR_SHORT",
         "audience": "br",
         "ad_name": "I2-1S_math_br",
+        "display_name": "I2-1S_math_br · Вопрос: Как выйти на $1000 удалённо · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_1s_math_br",
         "meta": {
           "creative_id": "1102444509308962",
           "ad_id": "52606777538595",
           "campaign": "uz_lead_main_2610",
           "adset": "BR_SHORT",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       },
       {
         "campaign": "uz_lead_main_2610",
         "adset": "AI_SHORT",
         "audience": "ai",
-        "ad_name": "I2-1S_math_ai",
-        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_1s_math_ai",
+        "ad_name": "I2-1S_math_ai_su",
+        "display_name": "I2-1S_math_ai_su · Вопрос: Как выйти на $1000 удалённо · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_1s_math_ai_su",
         "meta": {
-          "creative_id": "1432145395794748",
-          "ad_id": "52606777603395",
+          "creative_id": "2307757216714285",
+          "ad_id": "52606880324995",
           "campaign": "uz_lead_main_2610",
           "adset": "AI_SHORT",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       }
     ],
@@ -885,14 +933,16 @@
         "campaign": "uz_lead_main_2610",
         "adset": "BR_SHORT",
         "audience": "br",
-        "ad_name": "I2-2S_compare_br",
-        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_2s_compare_br",
+        "ad_name": "I2-2S_compare_br_su",
+        "display_name": "I2-2S_compare_br_su · Вопрос: Надоело брать деньги у родителей · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_2s_compare_br_su",
         "meta": {
-          "creative_id": "2611945399243685",
-          "ad_id": "52606777569195",
+          "creative_id": "2529216880932611",
+          "ad_id": "52606880305195",
           "campaign": "uz_lead_main_2610",
           "adset": "BR_SHORT",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       },
       {
@@ -900,13 +950,15 @@
         "adset": "AI_SHORT",
         "audience": "ai",
         "ad_name": "I2-2S_compare_ai",
+        "display_name": "I2-2S_compare_ai · Вопрос: Надоело брать деньги у родителей · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_2s_compare_ai",
         "meta": {
           "creative_id": "1454983059905076",
           "ad_id": "52606777629395",
           "campaign": "uz_lead_main_2610",
           "adset": "AI_SHORT",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       }
     ],
@@ -959,27 +1011,31 @@
         "adset": "BR_SHORT",
         "audience": "br",
         "ad_name": "I2-3S_compare_br",
+        "display_name": "I2-3S_compare_br · Вопрос: Работаю весь день, а денег нет · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_3s_compare_br",
         "meta": {
           "creative_id": "1120190957609840",
           "ad_id": "52606777565995",
           "campaign": "uz_lead_main_2610",
           "adset": "BR_SHORT",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       },
       {
         "campaign": "uz_lead_main_2610",
         "adset": "AI_SHORT",
         "audience": "ai",
-        "ad_name": "I2-3S_compare_ai",
-        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_3s_compare_ai",
+        "ad_name": "I2-3S_compare_ai_su",
+        "display_name": "I2-3S_compare_ai_su · Вопрос: Работаю весь день, а денег нет · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_3s_compare_ai_su",
         "meta": {
-          "creative_id": "1820775966041204",
-          "ad_id": "52606777652795",
+          "creative_id": "3373170489738787",
+          "ad_id": "52606880416195",
           "campaign": "uz_lead_main_2610",
           "adset": "AI_SHORT",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       }
     ],
@@ -1032,27 +1088,31 @@
         "adset": "ADV_MIX",
         "audience": "adv",
         "ad_name": "I2-4S_compare_adv",
+        "display_name": "I2-4S_compare_adv · Вопрос: Стыдно просить деньги у родителей · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_4s_compare_adv",
         "meta": {
           "creative_id": "1250995217226648",
           "ad_id": "52606777592395",
           "campaign": "uz_lead_main_2610",
           "adset": "ADV_MIX",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       },
       {
         "campaign": "uz_lead_main_2610",
         "adset": "FR_MIX",
         "audience": "fr",
-        "ad_name": "I2-4S_compare_fr",
-        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_4s_compare_fr",
+        "ad_name": "I2-4S_compare_fr_su",
+        "display_name": "I2-4S_compare_fr_su · Вопрос: Стыдно просить деньги у родителей · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_4s_compare_fr_su",
         "meta": {
-          "creative_id": "1629274955274775",
-          "ad_id": "52606777635995",
+          "creative_id": "4402661756651603",
+          "ad_id": "52606880425395",
           "campaign": "uz_lead_main_2610",
           "adset": "FR_MIX",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       }
     ],
@@ -1105,27 +1165,31 @@
         "adset": "ADV_MIX",
         "audience": "adv",
         "ad_name": "I3-1S_math_adv",
+        "display_name": "I3-1S_math_adv · Текст: План выхода на $1000 · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i3_1s_math_adv",
         "meta": {
           "creative_id": "2165645947493604",
           "ad_id": "52606777591195",
           "campaign": "uz_lead_main_2610",
           "adset": "ADV_MIX",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       },
       {
         "campaign": "uz_lead_main_2610",
         "adset": "FR_MIX",
         "audience": "fr",
-        "ad_name": "I3-1S_math_fr",
-        "bot_start_tag": "vm-meta-uz_lead_main_2610-i3_1s_math_fr",
+        "ad_name": "I3-1S_math_fr_su",
+        "display_name": "I3-1S_math_fr_su · Текст: План выхода на $1000 · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i3_1s_math_fr_su",
         "meta": {
-          "creative_id": "2288030865373674",
-          "ad_id": "52606777694995",
+          "creative_id": "1125980733319266",
+          "ad_id": "52606880423995",
           "campaign": "uz_lead_main_2610",
           "adset": "FR_MIX",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       }
     ],
@@ -1177,14 +1241,16 @@
         "campaign": "uz_lead_main_2610",
         "adset": "ADV_MIX",
         "audience": "adv",
-        "ad_name": "I3-3S_clients_adv",
-        "bot_start_tag": "vm-meta-uz_lead_main_2610-i3_3s_clients_adv",
+        "ad_name": "I3-3S_clients_adv_su",
+        "display_name": "I3-3S_clients_adv_su · Текст: Не можешь найти клиентов · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-i3_3s_clients_adv_su",
         "meta": {
-          "creative_id": "2371940316939048",
-          "ad_id": "52606777567395",
+          "creative_id": "1104322069259887",
+          "ad_id": "52606880315995",
           "campaign": "uz_lead_main_2610",
           "adset": "ADV_MIX",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       },
       {
@@ -1192,13 +1258,15 @@
         "adset": "FR_MIX",
         "audience": "fr",
         "ad_name": "I3-3S_clients_fr",
+        "display_name": "I3-3S_clients_fr · Текст: Не можешь найти клиентов · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i3_3s_clients_fr",
         "meta": {
           "creative_id": "2335213800351187",
           "ad_id": "52606777685395",
           "campaign": "uz_lead_main_2610",
           "adset": "FR_MIX",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       }
     ],
@@ -1250,11 +1318,13 @@
         "campaign": "uz_lead_risk_2610",
         "adset": "RK_STAT_BR",
         "audience": "br",
-        "ad_name": "M1_clients_br",
-        "bot_start_tag": "vm-meta-uz_lead_risk_2610-m1_clients_br",
+        "ad_name": "M1_clients_br_su",
+        "display_name": "M1_clients_br_su · Мем: Научись создавать сайты · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_risk_2610-m1_clients_br_su",
         "meta": {
-          "creative_id": "1391311059410478",
-          "ad_id": "52606777749795",
+          "creative_id": "2555094764974720",
+          "ad_id": "52606880427395",
           "campaign": "uz_lead_risk_2610",
           "adset": "RK_STAT_BR",
           "state": "черновик, RISK до 4-го дня"
@@ -1265,6 +1335,8 @@
         "adset": "RK_STAT_ADV",
         "audience": "adv",
         "ad_name": "M1_clients_adv",
+        "display_name": "M1_clients_adv · Мем: Научись создавать сайты · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_risk_2610-m1_clients_adv",
         "meta": {
           "creative_id": "2169800137269724",
@@ -1323,14 +1395,16 @@
         "campaign": "uz_lead_main_2610",
         "adset": "ADV_MEME",
         "audience": "adv",
-        "ad_name": "M2_zero_adv",
-        "bot_start_tag": "vm-meta-uz_lead_main_2610-m2_zero_adv",
+        "ad_name": "M2_zero_adv_su",
+        "display_name": "M2_zero_adv_su · Мем-видео: Пишем от руки · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-m2_zero_adv_su",
         "meta": {
-          "creative_id": "1112038188352151",
-          "ad_id": "52606777536595",
+          "creative_id": "1108894615329847",
+          "ad_id": "52606880306395",
           "campaign": "uz_lead_main_2610",
           "adset": "ADV_MEME",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       },
       {
@@ -1338,13 +1412,15 @@
         "adset": "AI_MEME",
         "audience": "ai",
         "ad_name": "M2_zero_ai",
+        "display_name": "M2_zero_ai · Мем-видео: Пишем от руки · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-m2_zero_ai",
         "meta": {
           "creative_id": "1078515798519838",
           "ad_id": "52606777645395",
           "campaign": "uz_lead_main_2610",
           "adset": "AI_MEME",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       }
     ],
@@ -1401,27 +1477,31 @@
         "adset": "ADV_MEME",
         "audience": "adv",
         "ad_name": "M3_zero_adv",
+        "display_name": "M3_zero_adv · Мем: Каждому по курсу · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-m3_zero_adv",
         "meta": {
           "creative_id": "1132310072839579",
           "ad_id": "52606777567995",
           "campaign": "uz_lead_main_2610",
           "adset": "ADV_MEME",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       },
       {
         "campaign": "uz_lead_main_2610",
         "adset": "AI_MEME",
         "audience": "ai",
-        "ad_name": "M3_zero_ai",
-        "bot_start_tag": "vm-meta-uz_lead_main_2610-m3_zero_ai",
+        "ad_name": "M3_zero_ai_su",
+        "display_name": "M3_zero_ai_su · Мем: Каждому по курсу · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-m3_zero_ai_su",
         "meta": {
-          "creative_id": "3019867618347038",
-          "ad_id": "52606777612795",
+          "creative_id": "1551319083433736",
+          "ad_id": "52606880422395",
           "campaign": "uz_lead_main_2610",
           "adset": "AI_MEME",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       }
     ],
@@ -1473,14 +1553,16 @@
         "campaign": "uz_lead_main_2610",
         "adset": "ADV_MEME",
         "audience": "adv",
-        "ad_name": "M4_zero_adv",
-        "bot_start_tag": "vm-meta-uz_lead_main_2610-m4_zero_adv",
+        "ad_name": "M4_zero_adv_su",
+        "display_name": "M4_zero_adv_su · Мем: Как научиться зарабатывать на ИИ · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-m4_zero_adv_su",
         "meta": {
-          "creative_id": "2978515312498941",
-          "ad_id": "52606777586595",
+          "creative_id": "1399557601922007",
+          "ad_id": "52606880306995",
           "campaign": "uz_lead_main_2610",
           "adset": "ADV_MEME",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       },
       {
@@ -1488,13 +1570,15 @@
         "adset": "AI_MEME",
         "audience": "ai",
         "ad_name": "M4_zero_ai",
+        "display_name": "M4_zero_ai · Мем: Как научиться зарабатывать на ИИ · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-m4_zero_ai",
         "meta": {
           "creative_id": "2091075265106053",
           "ad_id": "52606777641795",
           "campaign": "uz_lead_main_2610",
           "adset": "AI_MEME",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       }
     ],
@@ -1547,27 +1631,31 @@
         "adset": "ADV_MEME",
         "audience": "adv",
         "ad_name": "M5_zero_adv",
+        "display_name": "M5_zero_adv · Мем: Раздаём курс по заработку на ИИ · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-m5_zero_adv",
         "meta": {
           "creative_id": "1765904774678625",
           "ad_id": "52606777579995",
           "campaign": "uz_lead_main_2610",
           "adset": "ADV_MEME",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       },
       {
         "campaign": "uz_lead_main_2610",
         "adset": "AI_MEME",
         "audience": "ai",
-        "ad_name": "M5_zero_ai",
-        "bot_start_tag": "vm-meta-uz_lead_main_2610-m5_zero_ai",
+        "ad_name": "M5_zero_ai_su",
+        "display_name": "M5_zero_ai_su · Мем: Раздаём курс по заработку на ИИ · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-m5_zero_ai_su",
         "meta": {
-          "creative_id": "1478789387560098",
-          "ad_id": "52606777677795",
+          "creative_id": "1037837959369766",
+          "ad_id": "52606880422995",
           "campaign": "uz_lead_main_2610",
           "adset": "AI_MEME",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       }
     ],
@@ -1620,6 +1708,8 @@
         "adset": "RK_STAT_BR",
         "audience": "br",
         "ad_name": "M6_compare_br",
+        "display_name": "M6_compare_br · Мем: Хочешь работать дома за компьютером · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_risk_2610-m6_compare_br",
         "meta": {
           "creative_id": "1171406522215571",
@@ -1633,11 +1723,13 @@
         "campaign": "uz_lead_risk_2610",
         "adset": "RK_STAT_ADV",
         "audience": "adv",
-        "ad_name": "M6_compare_adv",
-        "bot_start_tag": "vm-meta-uz_lead_risk_2610-m6_compare_adv",
+        "ad_name": "M6_compare_adv_su",
+        "display_name": "M6_compare_adv_su · Мем: Хочешь работать дома за компьютером · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_risk_2610-m6_compare_adv_su",
         "meta": {
-          "creative_id": "1631843851748447",
-          "ad_id": "52606777764795",
+          "creative_id": "2007334259843146",
+          "ad_id": "52606880429795",
           "campaign": "uz_lead_risk_2610",
           "adset": "RK_STAT_ADV",
           "state": "черновик, RISK до 4-го дня"
@@ -1692,14 +1784,16 @@
         "campaign": "uz_lead_main_2610",
         "adset": "ADV_MEME",
         "audience": "adv",
-        "ad_name": "M7_zero_adv",
-        "bot_start_tag": "vm-meta-uz_lead_main_2610-m7_zero_adv",
+        "ad_name": "M7_zero_adv_su",
+        "display_name": "M7_zero_adv_su · Мем: Научим зарабатывать от $1000 на ИИ · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_main_2610-m7_zero_adv_su",
         "meta": {
-          "creative_id": "1097537779862280",
-          "ad_id": "52606777543795",
+          "creative_id": "1421107856200607",
+          "ad_id": "52606880307995",
           "campaign": "uz_lead_main_2610",
           "adset": "ADV_MEME",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       },
       {
@@ -1707,13 +1801,15 @@
         "adset": "AI_MEME",
         "audience": "ai",
         "ad_name": "M7_zero_ai",
+        "display_name": "M7_zero_ai · Мем: Научим зарабатывать от $1000 на ИИ · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-m7_zero_ai",
         "meta": {
           "creative_id": "1102742988829264",
           "ad_id": "52606777665595",
           "campaign": "uz_lead_main_2610",
           "adset": "AI_MEME",
-          "state": "черновик: публикация через MCP не прошла 18.10"
+          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
         }
       }
     ],
@@ -1766,6 +1862,8 @@
         "adset": "RK_VID_BR",
         "audience": "br",
         "ad_name": "V1_now_br",
+        "display_name": "V1_now_br · Видео: Этот ролик сделал ИИ · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_risk_2610-v1_now_br",
         "meta": {
           "creative_id": "29249733947945678",
@@ -1779,11 +1877,13 @@
         "campaign": "uz_lead_risk_2610",
         "adset": "RK_VID_ADV",
         "audience": "adv",
-        "ad_name": "V1_now_adv",
-        "bot_start_tag": "vm-meta-uz_lead_risk_2610-v1_now_adv",
+        "ad_name": "V1_now_adv_su",
+        "display_name": "V1_now_adv_su · Видео: Этот ролик сделал ИИ · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_risk_2610-v1_now_adv_su",
         "meta": {
-          "creative_id": "1150043720689715",
-          "ad_id": "52606777714195",
+          "creative_id": "1467264938608043",
+          "ad_id": "52606880431195",
           "campaign": "uz_lead_risk_2610",
           "adset": "RK_VID_ADV",
           "state": "черновик, RISK до 4-го дня"
@@ -1842,11 +1942,13 @@
         "campaign": "uz_lead_risk_2610",
         "adset": "RK_VID_BR",
         "audience": "br",
-        "ad_name": "V2_math_br",
-        "bot_start_tag": "vm-meta-uz_lead_risk_2610-v2_math_br",
+        "ad_name": "V2_math_br_su",
+        "display_name": "V2_math_br_su · Видео: Освой профессию AI-специалиста · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_risk_2610-v2_math_br_su",
         "meta": {
-          "creative_id": "1100554206281494",
-          "ad_id": "52606777789195",
+          "creative_id": "2205867126994784",
+          "ad_id": "52606880430595",
           "campaign": "uz_lead_risk_2610",
           "adset": "RK_VID_BR",
           "state": "черновик, RISK до 4-го дня"
@@ -1857,6 +1959,8 @@
         "adset": "RK_VID_ADV",
         "audience": "adv",
         "ad_name": "V2_math_adv",
+        "display_name": "V2_math_adv · Видео: Освой профессию AI-специалиста · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_risk_2610-v2_math_adv",
         "meta": {
           "creative_id": "1036792856041779",
@@ -1959,11 +2063,13 @@
         "campaign": "uz_lead_risk_2610",
         "adset": "RK_VID_BR",
         "audience": "br",
-        "ad_name": "V4b_now_br",
-        "bot_start_tag": "vm-meta-uz_lead_risk_2610-v4b_now_br",
+        "ad_name": "V4b_now_br_su",
+        "display_name": "V4b_now_br_su · Видео: Монтаж HyperFrames · Регистрация",
+        "cta": "SIGN_UP",
+        "bot_start_tag": "vm-meta-uz_lead_risk_2610-v4b_now_br_su",
         "meta": {
-          "creative_id": "1118461480528648",
-          "ad_id": "52606777686195",
+          "creative_id": "1778099284322571",
+          "ad_id": "52606880430195",
           "campaign": "uz_lead_risk_2610",
           "adset": "RK_VID_BR",
           "state": "черновик, RISK до 4-го дня"
@@ -1974,6 +2080,8 @@
         "adset": "RK_VID_ADV",
         "audience": "adv",
         "ad_name": "V4b_now_adv",
+        "display_name": "V4b_now_adv · Видео: Монтаж HyperFrames · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_risk_2610-v4b_now_adv",
         "meta": {
           "creative_id": "1822895252478541",
@@ -2037,6 +2145,8 @@
         "adset": "BIZ_CAR",
         "audience": "biz",
         "ad_name": "K2-1_compare_biz",
+        "display_name": "K2-1_compare_biz · Карусель: Подработка, сравнение с цифрами · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-k2_1_compare_biz",
         "meta": {
           "creative_id": "1471011764883302",
@@ -2051,13 +2161,15 @@
         "adset": "FR_CAR",
         "audience": "fr",
         "ad_name": "K2-1_compare_fr",
+        "display_name": "K2-1_compare_fr · Карусель: Подработка, сравнение с цифрами · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-k2_1_compare_fr",
         "meta": {
           "creative_id": "1458578329523558",
           "ad_id": "52606777683595",
           "campaign": "uz_lead_main_2610",
           "adset": "FR_CAR",
-          "state": "опубликовано выключенным, на модерации 18.10"
+          "state": "опубликовано выключенным, модерация пройдена 18.10"
         }
       }
     ],
@@ -2162,13 +2274,15 @@
         "adset": "BIZ_CAR",
         "audience": "biz",
         "ad_name": "K2-1b_compare_biz",
+        "display_name": "K2-1b_compare_biz · Карусель: Подработка, сравнение без цифр · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-k2_1b_compare_biz",
         "meta": {
           "creative_id": "1675779940748983",
           "ad_id": "52606777603795",
           "campaign": "uz_lead_main_2610",
           "adset": "BIZ_CAR",
-          "state": "опубликовано выключенным, на модерации 18.10"
+          "state": "опубликовано выключенным, модерация пройдена 18.10"
         }
       },
       {
@@ -2176,13 +2290,15 @@
         "adset": "FR_CAR",
         "audience": "fr",
         "ad_name": "K2-1b_compare_fr",
+        "display_name": "K2-1b_compare_fr · Карусель: Подработка, сравнение без цифр · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-k2_1b_compare_fr",
         "meta": {
           "creative_id": "1111228711380619",
           "ad_id": "52606777721395",
           "campaign": "uz_lead_main_2610",
           "adset": "FR_CAR",
-          "state": "опубликовано выключенным, на модерации 18.10"
+          "state": "опубликовано выключенным, модерация пройдена 18.10"
         }
       }
     ],
@@ -2287,13 +2403,15 @@
         "adset": "BIZ_CAR",
         "audience": "biz",
         "ad_name": "K2-3_clients_biz",
+        "display_name": "K2-3_clients_biz · Карусель: Что продавать бизнесу и где клиенты · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-k2_3_clients_biz",
         "meta": {
           "creative_id": "1153528650436940",
           "ad_id": "52606777581395",
           "campaign": "uz_lead_main_2610",
           "adset": "BIZ_CAR",
-          "state": "опубликовано выключенным, на модерации 18.10"
+          "state": "опубликовано выключенным, модерация пройдена 18.10"
         }
       },
       {
@@ -2301,6 +2419,8 @@
         "adset": "FR_CAR",
         "audience": "fr",
         "ad_name": "K2-3_clients_fr",
+        "display_name": "K2-3_clients_fr · Карусель: Что продавать бизнесу и где клиенты · Подробнее",
+        "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-k2_3_clients_fr",
         "meta": {
           "creative_id": "1094072673537272",
