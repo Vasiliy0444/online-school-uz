@@ -285,7 +285,7 @@ footer p { max-width: 90ch; }
     <div class="notes">
       <div class="note main"><h3>Бот</h3><p>Старты по метке из параметра <code>start</code>. Это главный результат: креативы оцениваем по стартам бота (раздел 5 плана запуска).</p></div>
       <div class="note"><h3>Meta</h3><p>Показы, клики и <code>Lead</code>: пиксель шлёт его, когда человек жмёт кнопку «в бота» на лендинге. Отчёт склеивается с реестром по ID объявления или по началу имени.</p></div>
-      <div class="note"><h3>Лендинг</h3><p>События <code>page_view</code> и <code>cta_click</code> пишутся в <code>dataLayer</code>, но счётчика, который их забирает, на странице нет: в коде лендинга нет ни GTM, ни Метрики.</p></div>
+      <div class="note"><h3>Лендинг</h3><p>События <code>page_view</code> и <code>cta_click</code> пишутся в <code>dataLayer</code>, но счётчика, который их забирает, на странице нет: в коде лендинга нет ни GTM, ни Метрики. Пиксель Meta заходы видит, но адрес хранит без меток.</p></div>
     </div>
     <div class="legend">
       <div><h3>Аудитории</h3><ul id="legend-aud"></ul></div>
