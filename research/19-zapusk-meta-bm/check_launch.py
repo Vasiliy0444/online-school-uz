@@ -143,7 +143,7 @@ def check_structure(launch: dict, errors: list[str], warnings: list[str]) -> Non
     planned = sum(sum(a["daily_budget_usd"] for a in c["adsets"]) * L.DAYS_IN_WEEK.get(c["start"], 7) for c in launch["campaigns"])
     if planned > launch["week_cap_usd"]:
         warnings.append(f"план недели ${planned:g} больше потолка ${launch['week_cap_usd']}: открут остановят лимиты трат "
-                        f"кампаний и лимит расходов кабинета ${launch['week_cap_usd']} (бюджеты $4 — просьба Васи 18.10)")
+                        f"кампаний и лимит расходов кабинета ${launch['week_cap_usd']} (бюджеты $4 — просьба Васи 18.10, лимиты оставлены — решение Васи 18.10)")
     audiences: dict[str, set] = {}
     for camp in launch["campaigns"]:
         for adset in camp["adsets"]:
