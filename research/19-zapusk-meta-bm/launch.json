@@ -29,7 +29,7 @@
     "Включает Вася или Claude по его прямой команде. RISK uz_lead_risk_2610 — с 4-го дня.",
     "Группы по интересам (biz, ai, fr) на паузе, пока Вася не добавит интересы в Ads Manager.",
     "V4 не загружать никогда.",
-    "Картинки и видео — медиа по плейсментам: 4x5 — ленты, 9x16 — Stories и Reels. Карусели — карточки 1x1.",
+    "Картинки и видео — одно медиа 4x5 на все места (план Б 18.10, раздел 11.8): креатив с разными медиа для лент и Stories/Reels Meta не публикует без Instagram, ошибка 1772103. Ролик — с обложкой covers/<код>.jpg по image_hash из meta_ids.json → covers, не по ссылке. Карусели — карточки 1x1.",
     "Один основной текст на объявление (body_fallback): M у картинок и каруселей, S у видео.",
     "Улучшения Advantage+ creative — все OPT_OUT; standard_enhancements в API не передавать.",
     "Ссылка — готовые метки в link_url, conversion_domain — домен лендинга.",
@@ -182,6 +182,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 1,
               "hook": "math",
               "body_keys": [
@@ -198,11 +202,11 @@
               "risk_note": "",
               "labels": [],
               "meta": {
-                "creative_id": "1098374593109597",
-                "ad_id": "52606880299595",
+                "creative_id": "1665958125188949",
+                "ad_id": "52606903254995",
                 "campaign": "uz_lead_main_2610",
                 "adset": "BR_LONG",
-                "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+                "state": "опубликовано выключенным 18.10 вечером, план Б (одно медиа 4:5); на проверке Meta (PENDING_REVIEW)"
               },
               "title": "Bepul mini-kurs",
               "description": "",
@@ -251,6 +255,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 1,
               "hook": "math",
               "body_keys": [
@@ -267,11 +275,11 @@
               "risk_note": "",
               "labels": [],
               "meta": {
-                "creative_id": "28987750257515854",
-                "ad_id": "52606777524995",
+                "creative_id": "2342384746504876",
+                "ad_id": "52606903453795",
                 "campaign": "uz_lead_main_2610",
                 "adset": "BR_LONG",
-                "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+                "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
               },
               "title": "Bepul mini-kurs",
               "description": "",
@@ -320,6 +328,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 1,
               "hook": "math",
               "body_keys": [
@@ -336,11 +348,11 @@
               "risk_note": "",
               "labels": [],
               "meta": {
-                "creative_id": "1893376631647311",
-                "ad_id": "52606880300395",
+                "creative_id": "3237006326469585",
+                "ad_id": "52606903453995",
                 "campaign": "uz_lead_main_2610",
                 "adset": "BR_LONG",
-                "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+                "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
               },
               "title": "Bepul mini-kurs",
               "description": "",
@@ -389,6 +401,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 3,
               "hook": "compare",
               "body_keys": [
@@ -405,11 +421,11 @@
               "risk_note": "",
               "labels": [],
               "meta": {
-                "creative_id": "1823469675563313",
-                "ad_id": "52606777504195",
+                "creative_id": "1605444871334790",
+                "ad_id": "52606903455195",
                 "campaign": "uz_lead_main_2610",
                 "adset": "BR_LONG",
-                "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+                "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
               },
               "title": "Bepul mini-kurs",
               "description": "",
@@ -458,6 +474,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 3,
               "hook": "compare",
               "body_keys": [
@@ -474,11 +494,11 @@
               "risk_note": "",
               "labels": [],
               "meta": {
-                "creative_id": "1419515463697318",
-                "ad_id": "52606880302395",
+                "creative_id": "913501051696696",
+                "ad_id": "52606903459795",
                 "campaign": "uz_lead_main_2610",
                 "adset": "BR_LONG",
-                "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+                "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
               },
               "title": "Bepul mini-kurs",
               "description": "",
@@ -593,6 +613,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 1,
               "hook": "math",
               "body_keys": [
@@ -609,11 +633,11 @@
               "risk_note": "",
               "labels": [],
               "meta": {
-                "creative_id": "1410160167445848",
-                "ad_id": "52606777538995",
+                "creative_id": "1097216622756176",
+                "ad_id": "52606903460995",
                 "campaign": "uz_lead_main_2610",
                 "adset": "BR_SHORT",
-                "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+                "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
               },
               "title": "Bepul mini-kurs",
               "description": "",
@@ -662,6 +686,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 1,
               "hook": "math",
               "body_keys": [
@@ -678,11 +706,11 @@
               "risk_note": "",
               "labels": [],
               "meta": {
-                "creative_id": "2318683238867814",
-                "ad_id": "52606880304195",
+                "creative_id": "1623919992519736",
+                "ad_id": "52606903461195",
                 "campaign": "uz_lead_main_2610",
                 "adset": "BR_SHORT",
-                "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+                "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
               },
               "title": "Bepul mini-kurs",
               "description": "",
@@ -731,6 +759,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 1,
               "hook": "math",
               "body_keys": [
@@ -747,11 +779,11 @@
               "risk_note": "",
               "labels": [],
               "meta": {
-                "creative_id": "1102444509308962",
-                "ad_id": "52606777538595",
+                "creative_id": "1749345456368245",
+                "ad_id": "52606903461795",
                 "campaign": "uz_lead_main_2610",
                 "adset": "BR_SHORT",
-                "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+                "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
               },
               "title": "Bepul mini-kurs",
               "description": "",
@@ -800,6 +832,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 3,
               "hook": "compare",
               "body_keys": [
@@ -816,11 +852,11 @@
               "risk_note": "",
               "labels": [],
               "meta": {
-                "creative_id": "2529216880932611",
-                "ad_id": "52606880305195",
+                "creative_id": "989419077532049",
+                "ad_id": "52606903467995",
                 "campaign": "uz_lead_main_2610",
                 "adset": "BR_SHORT",
-                "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+                "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
               },
               "title": "Bepul mini-kurs",
               "description": "",
@@ -869,6 +905,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 3,
               "hook": "compare",
               "body_keys": [
@@ -885,11 +925,11 @@
               "risk_note": "",
               "labels": [],
               "meta": {
-                "creative_id": "1120190957609840",
-                "ad_id": "52606777565995",
+                "creative_id": "1843140916677135",
+                "ad_id": "52606903468395",
                 "campaign": "uz_lead_main_2610",
                 "adset": "BR_SHORT",
-                "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+                "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
               },
               "title": "Bepul mini-kurs",
               "description": "",
@@ -1007,6 +1047,14 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": {
+                  "path": "research/19-zapusk-meta-bm/covers/M2.jpg",
+                  "image_hash": "45ebb3171e855a9cc8954ef81668f366",
+                  "uploaded_from": "https://raw.githubusercontent.com/Vasiliy0444/online-school-uz/47d161d7087d840f9955d10d639764ba2802201e/research/19-zapusk-meta-bm/covers/M2.jpg"
+                }
+              },
               "text_pool": 4,
               "hook": "zero",
               "body_keys": [
@@ -1021,11 +1069,11 @@
               "risk_note": "",
               "labels": [],
               "meta": {
-                "creative_id": "1108894615329847",
-                "ad_id": "52606880306395",
+                "creative_id": "2693155064521461",
+                "ad_id": "52606907454195",
                 "campaign": "uz_lead_main_2610",
                 "adset": "ADV_MEME",
-                "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+                "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
               },
               "title": "Bepul mini-kurs",
               "description": "",
@@ -1074,6 +1122,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 4,
               "hook": "zero",
               "body_keys": [
@@ -1090,11 +1142,11 @@
               "risk_note": "",
               "labels": [],
               "meta": {
-                "creative_id": "1132310072839579",
-                "ad_id": "52606777567995",
+                "creative_id": "1836827894326838",
+                "ad_id": "52606907737395",
                 "campaign": "uz_lead_main_2610",
                 "adset": "ADV_MEME",
-                "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+                "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
               },
               "title": "Bepul mini-kurs",
               "description": "",
@@ -1143,6 +1195,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 4,
               "hook": "zero",
               "body_keys": [
@@ -1212,6 +1268,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 4,
               "hook": "zero",
               "body_keys": [
@@ -1281,6 +1341,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 4,
               "hook": "zero",
               "body_keys": [
@@ -1415,6 +1479,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 5,
               "hook": "clients",
               "body_keys": [
@@ -1484,6 +1552,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 1,
               "hook": "math",
               "body_keys": [
@@ -1553,6 +1625,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 1,
               "hook": "math",
               "body_keys": [
@@ -1622,6 +1698,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 7,
               "hook": "clients",
               "body_keys": [
@@ -1691,6 +1771,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 3,
               "hook": "compare",
               "body_keys": [
@@ -1882,6 +1966,7 @@
                   }
                 }
               ],
+              "media_in_meta": null,
               "text_pool": 6,
               "hook": "compare",
               "body_keys": [
@@ -2003,6 +2088,7 @@
                   }
                 }
               ],
+              "media_in_meta": null,
               "text_pool": 6,
               "hook": "compare",
               "body_keys": [
@@ -2124,6 +2210,7 @@
                   }
                 }
               ],
+              "media_in_meta": null,
               "text_pool": 5,
               "hook": "clients",
               "body_keys": [
@@ -2263,6 +2350,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 1,
               "hook": "math",
               "body_keys": [
@@ -2332,6 +2423,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 1,
               "hook": "math",
               "body_keys": [
@@ -2401,6 +2496,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 1,
               "hook": "math",
               "body_keys": [
@@ -2417,11 +2516,11 @@
               "risk_note": "",
               "labels": [],
               "meta": {
-                "creative_id": "1723267382106019",
-                "ad_id": "52606777616395",
+                "creative_id": "1692760645889561",
+                "ad_id": "52606907689195",
                 "campaign": "uz_lead_main_2610",
                 "adset": "BIZ_LONG",
-                "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+                "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
               },
               "title": "Bepul mini-kurs",
               "description": "",
@@ -2470,6 +2569,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 3,
               "hook": "compare",
               "body_keys": [
@@ -2539,6 +2642,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 3,
               "hook": "compare",
               "body_keys": [
@@ -2678,6 +2785,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 1,
               "hook": "math",
               "body_keys": [
@@ -2747,6 +2858,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 1,
               "hook": "math",
               "body_keys": [
@@ -2816,6 +2931,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 1,
               "hook": "math",
               "body_keys": [
@@ -2885,6 +3004,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 3,
               "hook": "compare",
               "body_keys": [
@@ -2954,6 +3077,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 3,
               "hook": "compare",
               "body_keys": [
@@ -3097,6 +3224,14 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": {
+                  "path": "research/19-zapusk-meta-bm/covers/M2.jpg",
+                  "image_hash": "45ebb3171e855a9cc8954ef81668f366",
+                  "uploaded_from": "https://raw.githubusercontent.com/Vasiliy0444/online-school-uz/47d161d7087d840f9955d10d639764ba2802201e/research/19-zapusk-meta-bm/covers/M2.jpg"
+                }
+              },
               "text_pool": 4,
               "hook": "zero",
               "body_keys": [
@@ -3164,6 +3299,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 4,
               "hook": "zero",
               "body_keys": [
@@ -3233,6 +3372,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 4,
               "hook": "zero",
               "body_keys": [
@@ -3302,6 +3445,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 4,
               "hook": "zero",
               "body_keys": [
@@ -3318,11 +3465,11 @@
               "risk_note": "",
               "labels": [],
               "meta": {
-                "creative_id": "1037837959369766",
-                "ad_id": "52606880422995",
+                "creative_id": "1652794829786762",
+                "ad_id": "52606907737795",
                 "campaign": "uz_lead_main_2610",
                 "adset": "AI_MEME",
-                "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+                "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
               },
               "title": "Bepul mini-kurs",
               "description": "",
@@ -3371,6 +3518,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 4,
               "hook": "zero",
               "body_keys": [
@@ -3510,6 +3661,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 5,
               "hook": "clients",
               "body_keys": [
@@ -3579,6 +3734,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 1,
               "hook": "math",
               "body_keys": [
@@ -3648,6 +3807,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 1,
               "hook": "math",
               "body_keys": [
@@ -3717,6 +3880,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 7,
               "hook": "clients",
               "body_keys": [
@@ -3786,6 +3953,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 3,
               "hook": "compare",
               "body_keys": [
@@ -3977,6 +4148,7 @@
                   }
                 }
               ],
+              "media_in_meta": null,
               "text_pool": 6,
               "hook": "compare",
               "body_keys": [
@@ -4098,6 +4270,7 @@
                   }
                 }
               ],
+              "media_in_meta": null,
               "text_pool": 6,
               "hook": "compare",
               "body_keys": [
@@ -4219,6 +4392,7 @@
                   }
                 }
               ],
+              "media_in_meta": null,
               "text_pool": 5,
               "hook": "clients",
               "body_keys": [
@@ -4376,6 +4550,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 3,
               "hook": "compare",
               "body_keys": [
@@ -4447,6 +4625,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 7,
               "hook": "clients",
               "body_keys": [
@@ -4518,6 +4700,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 5,
               "hook": "clients",
               "body_keys": [
@@ -4589,6 +4775,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 3,
               "hook": "compare",
               "body_keys": [
@@ -4727,6 +4917,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 3,
               "hook": "compare",
               "body_keys": [
@@ -4745,11 +4939,11 @@
                 "RISK"
               ],
               "meta": {
-                "creative_id": "1091192646829152",
-                "ad_id": "52606777664995",
+                "creative_id": "2047434979302074",
+                "ad_id": "52606907735595",
                 "campaign": "uz_lead_risk_2610",
                 "adset": "RK_STAT_ADV",
-                "state": "черновик, RISK до 4-го дня"
+                "state": "черновик, RISK до 4-го дня; план Б (одно медиа 4:5), создано 18.10 вечером"
               },
               "title": "Bepul mini-kurs",
               "description": "",
@@ -4798,6 +4992,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 7,
               "hook": "clients",
               "body_keys": [
@@ -4869,6 +5067,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 5,
               "hook": "clients",
               "body_keys": [
@@ -4940,6 +5142,10 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": null
+              },
               "text_pool": 3,
               "hook": "compare",
               "body_keys": [
@@ -5083,6 +5289,14 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": {
+                  "path": "research/19-zapusk-meta-bm/covers/V4b.jpg",
+                  "image_hash": "d2d0689f6ccb846fb5463f494f0f1342",
+                  "uploaded_from": "https://raw.githubusercontent.com/Vasiliy0444/online-school-uz/47d161d7087d840f9955d10d639764ba2802201e/research/19-zapusk-meta-bm/covers/V4b.jpg"
+                }
+              },
               "text_pool": 2,
               "hook": "now",
               "body_keys": [
@@ -5156,6 +5370,14 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": {
+                  "path": "research/19-zapusk-meta-bm/covers/V1.jpg",
+                  "image_hash": "ab92ab8b05c21fa5554fe30a8cda6987",
+                  "uploaded_from": "https://raw.githubusercontent.com/Vasiliy0444/online-school-uz/47d161d7087d840f9955d10d639764ba2802201e/research/19-zapusk-meta-bm/covers/V1.jpg"
+                }
+              },
               "text_pool": 2,
               "hook": "now",
               "body_keys": [
@@ -5229,6 +5451,14 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": {
+                  "path": "research/19-zapusk-meta-bm/covers/V2.jpg",
+                  "image_hash": "617cfc4862d435e836475de9f8ef2453",
+                  "uploaded_from": "https://raw.githubusercontent.com/Vasiliy0444/online-school-uz/47d161d7087d840f9955d10d639764ba2802201e/research/19-zapusk-meta-bm/covers/V2.jpg"
+                }
+              },
               "text_pool": 1,
               "hook": "math",
               "body_keys": [
@@ -5369,6 +5599,14 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": {
+                  "path": "research/19-zapusk-meta-bm/covers/V4b.jpg",
+                  "image_hash": "d2d0689f6ccb846fb5463f494f0f1342",
+                  "uploaded_from": "https://raw.githubusercontent.com/Vasiliy0444/online-school-uz/47d161d7087d840f9955d10d639764ba2802201e/research/19-zapusk-meta-bm/covers/V4b.jpg"
+                }
+              },
               "text_pool": 2,
               "hook": "now",
               "body_keys": [
@@ -5442,6 +5680,14 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": {
+                  "path": "research/19-zapusk-meta-bm/covers/V1.jpg",
+                  "image_hash": "ab92ab8b05c21fa5554fe30a8cda6987",
+                  "uploaded_from": "https://raw.githubusercontent.com/Vasiliy0444/online-school-uz/47d161d7087d840f9955d10d639764ba2802201e/research/19-zapusk-meta-bm/covers/V1.jpg"
+                }
+              },
               "text_pool": 2,
               "hook": "now",
               "body_keys": [
@@ -5515,6 +5761,14 @@
                   }
                 }
               ],
+              "media_in_meta": {
+                "all_placements": "feed_4x5",
+                "cover": {
+                  "path": "research/19-zapusk-meta-bm/covers/V2.jpg",
+                  "image_hash": "617cfc4862d435e836475de9f8ef2453",
+                  "uploaded_from": "https://raw.githubusercontent.com/Vasiliy0444/online-school-uz/47d161d7087d840f9955d10d639764ba2802201e/research/19-zapusk-meta-bm/covers/V2.jpg"
+                }
+              },
               "text_pool": 1,
               "hook": "math",
               "body_keys": [

@@ -72,6 +72,21 @@ def check_media(label: str, kind: str, media: list[dict], errors: list[str]) -> 
             errors.append(f"{where}: в коммите {m['commit'][:7]} нет файла")
 
 
+def check_media_in_meta(label: str, ad: dict, errors: list[str]) -> None:
+    """План Б 18.10: картинка или ролик — одно медиа 4:5 на все места, у ролика обложка с хэшем из meta_ids.json."""
+    used = ad["media_in_meta"]
+    if ad["format"] == "carousel":
+        if used is not None:
+            errors.append(f"{label}: у карусели не бывает одного медиа на все места")
+        return
+    if not used or used["all_placements"] not in {m["role"] for m in ad["media"] if m.get("path")}:
+        errors.append(f"{label}: не задано медиа 4:5 для Meta")
+        return
+    cover = used.get("cover") or {}
+    if ad["format"] == "video" and not (cover.get("image_hash") and (L.ROOT / cover.get("path", "-")).is_file()):
+        errors.append(f"{label}: у ролика нет обложки — файл в covers/ и image_hash в meta_ids.json → covers")
+
+
 def check_ad(ad: dict, adset: dict, camp: dict, errors: list[str], warnings: list[str]) -> None:
     label = f"{camp['name']}/{adset['name']}/{ad['name']}"
     if not NAME_RE.match(ad["name"]) or len(ad["name"]) > 20:
@@ -110,6 +125,7 @@ def check_ad(ad: dict, adset: dict, camp: dict, errors: list[str], warnings: lis
     if ad["risk"] == "low" and "RISK" in camp["labels"]:
         warnings.append(f"{label}: креатив низкого риска в RISK-кампании")
     check_media(label, ad["format"], ad["media"], errors)
+    check_media_in_meta(label, ad, errors)
 
 
 def check_structure(launch: dict, errors: list[str], warnings: list[str]) -> None:

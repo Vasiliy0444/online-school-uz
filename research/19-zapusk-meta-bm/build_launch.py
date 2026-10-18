@@ -37,6 +37,9 @@ OUT_LAUNCH = HERE / "launch.json"
 OUT_REGISTRY = HERE / "registry.json"
 OUT_MD = HERE / "РЕЕСТР-КРЕАТИВОВ-И-ТЕКСТОВ.md"
 WEEK_CAP_USD = 150
+# План Б 18.10 (01-ПЛАН-ЗАПУСКА.md, 11.8): у кабинета нет Instagram, а креатив с разными медиа для лент и Stories/Reels
+# Meta без него не публикует (ошибка 1772103). Картинки и ролики идут одним медиа 4:5 на все места, ролик — с обложкой.
+SINGLE_MEDIA_ROLE = "feed_4x5"
 
 # Этих креативов нет в каталоге 15.10. I1-3, I1-3B, I3-2 носитель проверил 17.10 — волна 2. V4 — для полноты реестра.
 EXTRA_CREATIVES = {
@@ -208,11 +211,13 @@ def build_ad(code: str, adset: dict, camp: dict, pools: dict, ids: dict, index: 
         creative_code=code,
         format=creo["kind"],
         media=media_list(code, index, meta["media"]),
+        media_in_meta=None if creo["kind"] == "carousel" else dict(
+            all_placements=SINGLE_MEDIA_ROLE, cover=meta.get("covers", {}).get(code) if video else None),
         text_pool=pool,
         hook=hook,
         body_keys=["short"] if video else ["mid"],
         body_options=[text(t) for t in B.bodies(pools[pool], creo["kind"])],
-        body_fallback=text(pools[pool]["short" if video else "mid"]),  # один текст: при медиа по плейсментам API принимает только его
+        body_fallback=text(pools[pool]["short" if video else "mid"]),  # один текст на объявление
         bot_start_tag=start_tag(camp["name"], name),
         risk=creo["risk"],
         risk_note=creo.get("note", ""),
@@ -302,6 +307,7 @@ def build_registry(campaigns: list[dict], pools_uz: dict, pools_ru: dict, index:
             risk=creo["risk"],
             risk_note=creo.get("note", ""),
             media=media,
+            cover=meta.get("covers", {}).get(code) if hits and video else None,
         ))
     return registry
 
@@ -332,6 +338,8 @@ def md_meta(item: dict) -> str:
     uploaded = sum(1 for m in item["media"] if m.get("meta"))
     if uploaded:
         bits.append(f"медиа загружено {uploaded}/{len(item['media'])}")
+    if item["cover"]:
+        bits.append(f"обложка `{item['cover']['image_hash']}`")
     return "; ".join(bits) or "—"
 
 
@@ -343,6 +351,10 @@ def build_md(campaigns: list[dict], registry: list[dict], pools_uz: dict, pools_
         "`research/18-struktura-kampaniy-i-piksel/build_structure.py`, текстов `research/17-teksty-ru-uz/pools_uz_final.json`, "
         "`ids.json` и `meta_ids.json`. Руками не править: правки — в источниках, потом `python3 build_launch.py`. "
         "Почему так — `01-ПЛАН-ЗАПУСКА.md`, раздел 10.",
+        "",
+        "Картинки и ролики идут в Meta одним медиа 4:5 на все места, в Stories и Reels тоже (план Б 18.10, раздел 11.8 плана): "
+        "у кабинета нет Instagram, а креатив с разными медиа для лент и для Stories/Reels Meta без него не публикует. "
+        "Файлы 9:16 лежат на случай, когда Instagram появится. Обложки роликов — кадр 4:5 на 1-й секунде, `covers/`.",
         "",
         f"Кабинет `{ids['ad_account_id']}` «{ids['ad_account_name']}», БМ {ids['business']}. "
         f"Страница: {ids.get('page_id') or 'не задана'}. Instagram: {ids.get('instagram_user_id') or 'нет — решение Васи'}. "
@@ -403,8 +415,9 @@ def build_md(campaigns: list[dict], registry: list[dict], pools_uz: dict, pools_
         title = f" — {PLAN['titles'][item['code']]}" if item["code"] in PLAN["titles"] else ""
         lines.append(f"| {item['code']}{title} | {KIND_RU[item['kind']]} | {item['status']} | {where} | "
                      f"{item['pool']} · {item['hook']} | {texts} | {risk} | {md_files(item)} | {md_meta(item)} |")
-    lines += ["", "Текст: один на объявление — M (средний) у картинок и каруселей, S (короткий) у видео: при разных медиа "
-              "для лент и для Stories/Reels API принимает только один основной текст.", ""]
+    lines += ["", "Текст: один на объявление — M (средний) у картинок и каруселей, S (короткий) у видео. Так решили, когда "
+              "у объявлений были разные медиа для лент и для Stories/Reels: API принимало с ними только один основной текст. "
+              "С одним медиа 4:5 (план Б) текст тот же.", ""]
 
     lines += [
         "## Тексты под постами",
@@ -466,7 +479,9 @@ def build_all() -> tuple[dict, list[dict], str]:
             "Включает Вася или Claude по его прямой команде. RISK uz_lead_risk_2610 — с 4-го дня.",
             "Группы по интересам (biz, ai, fr) на паузе, пока Вася не добавит интересы в Ads Manager.",
             "V4 не загружать никогда.",
-            "Картинки и видео — медиа по плейсментам: 4x5 — ленты, 9x16 — Stories и Reels. Карусели — карточки 1x1.",
+            "Картинки и видео — одно медиа 4x5 на все места (план Б 18.10, раздел 11.8): креатив с разными медиа для лент и "
+            "Stories/Reels Meta не публикует без Instagram, ошибка 1772103. Ролик — с обложкой covers/<код>.jpg по image_hash "
+            "из meta_ids.json → covers, не по ссылке. Карусели — карточки 1x1.",
             "Один основной текст на объявление (body_fallback): M у картинок и каруселей, S у видео.",
             "Улучшения Advantage+ creative — все OPT_OUT; standard_enhancements в API не передавать.",
             "Ссылка — готовые метки в link_url, conversion_domain — домен лендинга.",

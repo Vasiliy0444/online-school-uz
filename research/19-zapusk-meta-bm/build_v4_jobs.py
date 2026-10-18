@@ -5,15 +5,18 @@
 каждое такое объявление создаётся заново с одним медиа 4:5 на все места — как у каруселей, которые опубликовались.
 Имя, метка, текст, заголовок, кнопка и ссылка — прежние; прежнее объявление (черновик, не публиковалось) → DELETED.
 
-create — креатив (картинка 4:5 или ролик 4:5 с обложкой) + объявление в той же группе;
-delete — прежнее объявление с разными медиа.
-Обложки роликов — covers/<код>.jpg (кадр 4:5 на 1-й секунде), ссылка raw по SHA коммита, где они лежат.
-Данные — launch.json и meta_ids.json. Запуск: python3 build_v4_jobs.py <папка> <sha коммита с covers/>
+create — креатив (картинка 4:5 или ролик 4:5 с обложкой) + объявление в той же группе. Уже пересобранные
+(прежняя версия лежит в meta_ids.json → ads_v3_replaced, новая — в ads) в задания не попадают;
+delete — прежнее объявление с разными медиа: ID только из ads_v3_replaced или, пока объявление не пересобрано, из ads.
+Помеченные удалёнными ("deleted": true в ads_v3_replaced) в delete не попадают.
+Обложки роликов — covers/<код>.jpg (кадр 4:5 на 1-й секунде). Их загружают в Meta по ссылке raw и пишут хэш
+в meta_ids.json → covers. В креатив идёт хэш: с ссылкой инструмент кладёт в video_data и ссылку, и хэш, и Meta
+отказывает (ObjectStorySpecRedundant, 1443051).
+Данные — launch.json и meta_ids.json. Запуск: python3 build_v4_jobs.py <папка>
 """
 import json
 import subprocess
 import sys
-import urllib.parse
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
@@ -21,7 +24,6 @@ ROOT = HERE.parent.parent
 LAUNCH = json.loads((HERE / "launch.json").read_text(encoding="utf-8"))
 META = json.loads((HERE / "meta_ids.json").read_text(encoding="utf-8"))
 COVERS = HERE / "covers"
-REPO_RAW = "https://raw.githubusercontent.com/Vasiliy0444/online-school-uz"
 COVER_AT_S = 1
 
 DOF = {"creative_features_spec": {k: {"enroll_status": "OPT_OUT"} for k in [
@@ -43,7 +45,7 @@ def cover(code: str, video_path: str) -> Path:
 
 
 def main() -> None:
-    out_dir, sha = Path(sys.argv[1]), sys.argv[2] if len(sys.argv) > 2 else ""
+    out_dir = Path(sys.argv[1])
     page_id = LAUNCH["account"]["page_id"]
     create, delete = [], []
     for camp in LAUNCH["campaigns"]:
@@ -52,7 +54,12 @@ def main() -> None:
             for ad in adset["ads"]:
                 if ad["format"] == "carousel":
                     continue
-                old = META["ads"][ad["name"]]
+                replaced = META.get("ads_v3_replaced", {}).get(ad["name"])
+                old = replaced or META["ads"][ad["name"]]
+                if not old.get("deleted"):
+                    delete.append(dict(name=ad["name"], ad_id=old["ad_id"], creative_id=old["creative_id"]))
+                if replaced:
+                    continue
                 feed = next(m for m in ad["media"] if m["role"] == "feed_4x5")
                 cr = dict(name=ad["display_name"], page_id=page_id, link_url=ad["link_url"], headline=ad["title"],
                           call_to_action_type=ad["call_to_action"], message=ad["body_fallback"],
@@ -60,22 +67,22 @@ def main() -> None:
                 if ad["format"] == "image":
                     cr["image_hash"] = feed["meta"]["image_hash"]
                 else:
-                    path = cover(ad["creative_code"], feed["path"]).relative_to(ROOT).as_posix()
+                    cover(ad["creative_code"], feed["path"])
                     cr["video_id"] = feed["meta"]["video_id"]
-                    cr["image_url"] = f"{REPO_RAW}/{sha}/{urllib.parse.quote(path)}" if sha else ""
+                    cr["image_hash"] = META["covers"][ad["creative_code"]]["image_hash"]
                 new_ad = dict(ad_name=ad["display_name"], ad_set_id=adset["meta_id"], conversion_domain=ad["conversion_domain"])
                 if risk:
                     new_ad["adlabels"] = json.dumps([{"name": "RISK"}])
                 create.append(dict(name=ad["name"], campaign=camp["name"], adset=adset["name"], format=ad["format"],
                                    creative=cr, ad=new_ad))
-                delete.append(dict(name=ad["name"], ad_id=old["ad_id"], creative_id=old["creative_id"]))
     out_dir.mkdir(parents=True, exist_ok=True)
     for label, data in (("create", create), ("delete", delete)):
         (out_dir / f"{label}.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
     c1 = sum(1 for j in create if j["campaign"] == LAUNCH["campaigns"][0]["name"])
-    assert len(create) == 54 and c1 == 40, (len(create), c1)
-    print(f"создать {len(create)} (C1 {c1}, RISK {len(create) - c1}; видео {sum(j['format'] == 'video' for j in create)}), "
-          f"пометить удалёнными {len(delete)} → {out_dir}")
+    done = len(META.get("ads_v3_replaced", {}))
+    assert len(create) + done == 54, (len(create), done)
+    print(f"пересобрано {done} из 54; создать {len(create)} (C1 {c1}, RISK {len(create) - c1}; "
+          f"видео {sum(j['format'] == 'video' for j in create)}), пометить удалёнными {len(delete)} → {out_dir}")
 
 
 if __name__ == "__main__":

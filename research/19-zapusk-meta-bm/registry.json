@@ -14,11 +14,11 @@
         "cta": "SIGN_UP",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_1_math_br_su",
         "meta": {
-          "creative_id": "1098374593109597",
-          "ad_id": "52606880299595",
+          "creative_id": "1665958125188949",
+          "ad_id": "52606903254995",
           "campaign": "uz_lead_main_2610",
           "adset": "BR_LONG",
-          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+          "state": "опубликовано выключенным 18.10 вечером, план Б (одно медиа 4:5); на проверке Meta (PENDING_REVIEW)"
         }
       },
       {
@@ -74,7 +74,8 @@
           "name": "I1-1 9x16"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "I1-2",
@@ -91,11 +92,11 @@
         "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_2_math_br",
         "meta": {
-          "creative_id": "28987750257515854",
-          "ad_id": "52606777524995",
+          "creative_id": "2342384746504876",
+          "ad_id": "52606903453795",
           "campaign": "uz_lead_main_2610",
           "adset": "BR_LONG",
-          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+          "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
         }
       },
       {
@@ -151,7 +152,8 @@
           "name": "I1-2 9x16"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "I1-4",
@@ -228,7 +230,8 @@
           "name": "I1-4 9x16"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "I2-1",
@@ -245,11 +248,11 @@
         "cta": "SIGN_UP",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_1_math_br_su",
         "meta": {
-          "creative_id": "1893376631647311",
-          "ad_id": "52606880300395",
+          "creative_id": "3237006326469585",
+          "ad_id": "52606903453995",
           "campaign": "uz_lead_main_2610",
           "adset": "BR_LONG",
-          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+          "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
         }
       },
       {
@@ -261,11 +264,11 @@
         "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_1_math_biz",
         "meta": {
-          "creative_id": "1723267382106019",
-          "ad_id": "52606777616395",
+          "creative_id": "1692760645889561",
+          "ad_id": "52606907689195",
           "campaign": "uz_lead_main_2610",
           "adset": "BIZ_LONG",
-          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+          "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
         }
       }
     ],
@@ -305,7 +308,8 @@
           "name": "I2-1 9x16"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "I2-2",
@@ -322,11 +326,11 @@
         "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_2_compare_br",
         "meta": {
-          "creative_id": "1823469675563313",
-          "ad_id": "52606777504195",
+          "creative_id": "1605444871334790",
+          "ad_id": "52606903455195",
           "campaign": "uz_lead_main_2610",
           "adset": "BR_LONG",
-          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+          "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
         }
       },
       {
@@ -382,7 +386,8 @@
           "name": "I2-2 9x16"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "I2-3",
@@ -399,11 +404,11 @@
         "cta": "SIGN_UP",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_3_compare_br_su",
         "meta": {
-          "creative_id": "1419515463697318",
-          "ad_id": "52606880302395",
+          "creative_id": "913501051696696",
+          "ad_id": "52606903459795",
           "campaign": "uz_lead_main_2610",
           "adset": "BR_LONG",
-          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+          "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
         }
       },
       {
@@ -459,7 +464,8 @@
           "name": "I2-3 9x16"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "I2-4",
@@ -492,11 +498,11 @@
         "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_risk_2610-i2_4_compare_adv",
         "meta": {
-          "creative_id": "1091192646829152",
-          "ad_id": "52606777664995",
+          "creative_id": "2047434979302074",
+          "ad_id": "52606907735595",
           "campaign": "uz_lead_risk_2610",
           "adset": "RK_STAT_ADV",
-          "state": "черновик, RISK до 4-го дня"
+          "state": "черновик, RISK до 4-го дня; план Б (одно медиа 4:5), создано 18.10 вечером"
         }
       }
     ],
@@ -536,7 +542,8 @@
           "name": "I2-4 9x16"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "I3-1",
@@ -613,7 +620,8 @@
           "name": "I3-1 9x16"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "I3-3",
@@ -690,7 +698,8 @@
           "name": "I3-3 9x16"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "I1-1S",
@@ -707,11 +716,11 @@
         "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_1s_math_br",
         "meta": {
-          "creative_id": "1410160167445848",
-          "ad_id": "52606777538995",
+          "creative_id": "1097216622756176",
+          "ad_id": "52606903460995",
           "campaign": "uz_lead_main_2610",
           "adset": "BR_SHORT",
-          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+          "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
         }
       },
       {
@@ -767,7 +776,8 @@
           "name": "I1-1S 9x16"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "I1-2S",
@@ -784,11 +794,11 @@
         "cta": "SIGN_UP",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i1_2s_math_br_su",
         "meta": {
-          "creative_id": "2318683238867814",
-          "ad_id": "52606880304195",
+          "creative_id": "1623919992519736",
+          "ad_id": "52606903461195",
           "campaign": "uz_lead_main_2610",
           "adset": "BR_SHORT",
-          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+          "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
         }
       },
       {
@@ -844,7 +854,8 @@
           "name": "I1-2S 9x16"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "I2-1S",
@@ -861,11 +872,11 @@
         "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_1s_math_br",
         "meta": {
-          "creative_id": "1102444509308962",
-          "ad_id": "52606777538595",
+          "creative_id": "1749345456368245",
+          "ad_id": "52606903461795",
           "campaign": "uz_lead_main_2610",
           "adset": "BR_SHORT",
-          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+          "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
         }
       },
       {
@@ -921,7 +932,8 @@
           "name": "I2-1S 9x16"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "I2-2S",
@@ -938,11 +950,11 @@
         "cta": "SIGN_UP",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_2s_compare_br_su",
         "meta": {
-          "creative_id": "2529216880932611",
-          "ad_id": "52606880305195",
+          "creative_id": "989419077532049",
+          "ad_id": "52606903467995",
           "campaign": "uz_lead_main_2610",
           "adset": "BR_SHORT",
-          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+          "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
         }
       },
       {
@@ -998,7 +1010,8 @@
           "name": "I2-2S 9x16"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "I2-3S",
@@ -1015,11 +1028,11 @@
         "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-i2_3s_compare_br",
         "meta": {
-          "creative_id": "1120190957609840",
-          "ad_id": "52606777565995",
+          "creative_id": "1843140916677135",
+          "ad_id": "52606903468395",
           "campaign": "uz_lead_main_2610",
           "adset": "BR_SHORT",
-          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+          "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
         }
       },
       {
@@ -1075,7 +1088,8 @@
           "name": "I2-3S 9x16"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "I2-4S",
@@ -1152,7 +1166,8 @@
           "name": "I2-4S 9x16"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "I3-1S",
@@ -1229,7 +1244,8 @@
           "name": "I3-1S 9x16"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "I3-3S",
@@ -1306,7 +1322,8 @@
           "name": "I3-3S 9x16"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "M1",
@@ -1383,7 +1400,8 @@
           "name": "M1 9x16"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "M2",
@@ -1400,11 +1418,11 @@
         "cta": "SIGN_UP",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-m2_zero_adv_su",
         "meta": {
-          "creative_id": "1108894615329847",
-          "ad_id": "52606880306395",
+          "creative_id": "2693155064521461",
+          "ad_id": "52606907454195",
           "campaign": "uz_lead_main_2610",
           "adset": "ADV_MEME",
-          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+          "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
         }
       },
       {
@@ -1464,7 +1482,12 @@
           "name": "M2 9x16"
         }
       }
-    ]
+    ],
+    "cover": {
+      "path": "research/19-zapusk-meta-bm/covers/M2.jpg",
+      "image_hash": "45ebb3171e855a9cc8954ef81668f366",
+      "uploaded_from": "https://raw.githubusercontent.com/Vasiliy0444/online-school-uz/47d161d7087d840f9955d10d639764ba2802201e/research/19-zapusk-meta-bm/covers/M2.jpg"
+    }
   },
   {
     "code": "M3",
@@ -1481,11 +1504,11 @@
         "cta": "LEARN_MORE",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-m3_zero_adv",
         "meta": {
-          "creative_id": "1132310072839579",
-          "ad_id": "52606777567995",
+          "creative_id": "1836827894326838",
+          "ad_id": "52606907737395",
           "campaign": "uz_lead_main_2610",
           "adset": "ADV_MEME",
-          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+          "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
         }
       },
       {
@@ -1541,7 +1564,8 @@
           "name": "M3 9x16"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "M4",
@@ -1618,7 +1642,8 @@
           "name": "M4 9x16"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "M5",
@@ -1651,11 +1676,11 @@
         "cta": "SIGN_UP",
         "bot_start_tag": "vm-meta-uz_lead_main_2610-m5_zero_ai_su",
         "meta": {
-          "creative_id": "1037837959369766",
-          "ad_id": "52606880422995",
+          "creative_id": "1652794829786762",
+          "ad_id": "52606907737795",
           "campaign": "uz_lead_main_2610",
           "adset": "AI_MEME",
-          "state": "черновик: Meta не публикует без Instagram-идентичности (ошибка 1772103)"
+          "state": "черновик, план Б (одно медиа 4:5): создано 18.10 вечером, не опубликовано — пропал доступ к странице (01-ПЛАН-ЗАПУСКА.md, 11.8)"
         }
       }
     ],
@@ -1695,7 +1720,8 @@
           "name": "M5 9x16"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "M6",
@@ -1772,7 +1798,8 @@
           "name": "M6 9x16"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "M7",
@@ -1849,7 +1876,8 @@
           "name": "M7 9x16"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "V1",
@@ -1930,7 +1958,12 @@
           "name": "V1 9x16"
         }
       }
-    ]
+    ],
+    "cover": {
+      "path": "research/19-zapusk-meta-bm/covers/V1.jpg",
+      "image_hash": "ab92ab8b05c21fa5554fe30a8cda6987",
+      "uploaded_from": "https://raw.githubusercontent.com/Vasiliy0444/online-school-uz/47d161d7087d840f9955d10d639764ba2802201e/research/19-zapusk-meta-bm/covers/V1.jpg"
+    }
   },
   {
     "code": "V2",
@@ -2011,7 +2044,12 @@
           "name": "V2 9x16"
         }
       }
-    ]
+    ],
+    "cover": {
+      "path": "research/19-zapusk-meta-bm/covers/V2.jpg",
+      "image_hash": "617cfc4862d435e836475de9f8ef2453",
+      "uploaded_from": "https://raw.githubusercontent.com/Vasiliy0444/online-school-uz/47d161d7087d840f9955d10d639764ba2802201e/research/19-zapusk-meta-bm/covers/V2.jpg"
+    }
   },
   {
     "code": "V3",
@@ -2051,7 +2089,8 @@
         "audio": true,
         "meta": {}
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "V4b",
@@ -2132,7 +2171,12 @@
           "name": "V4b 9x16"
         }
       }
-    ]
+    ],
+    "cover": {
+      "path": "research/19-zapusk-meta-bm/covers/V4b.jpg",
+      "image_hash": "d2d0689f6ccb846fb5463f494f0f1342",
+      "uploaded_from": "https://raw.githubusercontent.com/Vasiliy0444/online-school-uz/47d161d7087d840f9955d10d639764ba2802201e/research/19-zapusk-meta-bm/covers/V4b.jpg"
+    }
   },
   {
     "code": "K2-1",
@@ -2261,7 +2305,8 @@
           "name": "K2-1 card6"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "K2-1b",
@@ -2390,7 +2435,8 @@
           "name": "K2-1b card6"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "K2-3",
@@ -2519,7 +2565,8 @@
           "name": "K2-3 card6"
         }
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "K2-4",
@@ -2575,7 +2622,8 @@
         "height": 1080,
         "meta": {}
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "I1-3",
@@ -2611,7 +2659,8 @@
         "height": 1920,
         "meta": {}
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "I1-3B",
@@ -2647,7 +2696,8 @@
         "height": 1920,
         "meta": {}
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "I3-2",
@@ -2687,7 +2737,8 @@
         "audio": true,
         "meta": {}
       }
-    ]
+    ],
+    "cover": null
   },
   {
     "code": "V4",
@@ -2727,6 +2778,7 @@
         "audio": true,
         "meta": {}
       }
-    ]
+    ],
+    "cover": null
   }
 ]

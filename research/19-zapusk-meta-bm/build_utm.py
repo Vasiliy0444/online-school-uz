@@ -36,7 +36,7 @@ VIDEO_FRAME_S = 1
 
 AUD_SHORT = {"br": "широкая", "adv": "Advantage+", "biz": "бизнес", "ai": "ИИ", "fr": "фриланс"}
 BUTTON = {"LEARN_MORE": "Подробнее", "SIGN_UP": "Зарегистрироваться"}
-FORMAT = {"image": "картинка 4:5 + 9:16", "video": "видео 4:5 + 9:16", "carousel": "карусель 1:1, 6 карточек"}
+FORMAT = {"image": "картинка 4:5 на все места", "video": "видео 4:5 на все места", "carousel": "карусель 1:1, 6 карточек"}
 CSV_FIELDS = ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content", "creative", "title_ru", "format",
               "hook", "landing_hook", "audience", "audience_title", "cta", "button", "meta_ad_name", "ad_id", "creative_id",
               "adset_id", "campaign_id", "state", "bot_start_tag", "link_url", "risk", "thumb"]
