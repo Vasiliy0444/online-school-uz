@@ -16,6 +16,7 @@ python3 check_launch.py --online   # плюс проверка ссылок raw,
 ```
 
 **Источники данных:**
+- структура по аудиториям — `v2_plan.json` (план, раздел 10);
 - креативы — `research/16-kreativy-meta/АКТУАЛЬНЫЕ креативы УЗ — Meta/`;
 - каталог креативов и общие настройки — `research/18…/build_structure.py`;
 - тексты — `research/17-teksty-ru-uz/pools_uz_final.json`;

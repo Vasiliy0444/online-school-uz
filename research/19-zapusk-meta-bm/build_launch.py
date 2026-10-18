@@ -311,6 +311,7 @@ def md_files(item: dict) -> str:
 
 def md_meta(item: dict) -> str:
     bits = [f"`{h['ad_name']}`: ad `{h['meta'].get('ad_id', '—')}`, creative `{h['meta'].get('creative_id', '—')}`"
+            + (f" — {h['meta']['state']}" if h['meta'].get('state') else "")
             for h in item["placements"]]
     uploaded = sum(1 for m in item["media"] if m.get("meta"))
     if uploaded:
