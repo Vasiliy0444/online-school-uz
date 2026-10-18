@@ -1,7 +1,7 @@
 export const meta = {
   name: 'meta-rebuild-1v1',
-  description: 'Пересборка запуска Meta 1в1 на новой странице (или в новом кабинете): 60 креативов и объявлений, уборка старых, публикация C1 выключенной, проверка, запись в репозиторий',
-  whenToUse: 'Прежняя страница или кабинет недоступны, Вася дал ID новой страницы. Разрешено без подтверждений (Вася, 18.10). Ранбук — research/19-zapusk-meta-bm/04-ПЕРЕСБОРКА-1В1.md',
+  description: 'Пересборка запуска Meta 1в1 на новой странице (или в новом кабинете), либо продолжение плана Б на прежней: креативы и объявления, уборка старых, публикация C1 выключенной, проверка, запись в репозиторий',
+  whenToUse: 'Прежняя страница или кабинет недоступны и Вася дал ID новой страницы (mode page или account), или прежнюю страницу вернули (mode resume). Разрешено без подтверждений (Вася, 18.10). Ранбук — research/19-zapusk-meta-bm/04-ПЕРЕСБОРКА-1В1.md',
   phases: [
     { title: 'Подготовка и доступ', detail: 'проверка сборки, задания, кабинет, страница, пиксель' },
     { title: 'Кабинет', detail: 'только новый кабинет: медиа, аудитории, кампании, группы' },
@@ -14,14 +14,15 @@ export const meta = {
   ],
 }
 
-// args: { page_id (обязательно), page_name, mode: 'page'|'account', account_id, account_name, pixel_id,
+// args: { page_id (обязательно), page_name, mode: 'page'|'account'|'resume', account_id, account_name, pixel_id,
 //         date: 'ДД.ММ.ГГГГ', reason, repo, run_dir, workers, conversation_id, advertiser_request }
 const A = args || {}
 const PAGE = String(A.page_id || '').trim()
 if (!/^\d{5,}$/.test(PAGE)) {
   return { ok: false, error: 'Нужен args.page_id — ID новой страницы, только цифры. Ранбук: research/19-zapusk-meta-bm/04-ПЕРЕСБОРКА-1В1.md' }
 }
-const MODE = A.mode === 'account' ? 'account' : 'page'
+// page — новая страница, account — новый кабинет, resume — прежнюю страницу вернули: продолжение плана Б
+const MODE = ['account', 'resume'].includes(A.mode) ? A.mode : 'page'
 if (MODE === 'account' && !(A.account_id && A.pixel_id)) {
   return { ok: false, error: 'Режим account: нужны args.account_id и args.pixel_id (пиксель должен быть доступен новому кабинету)' }
 }
@@ -31,7 +32,9 @@ const RUN = A.run_dir || `${REPO}/research/19-zapusk-meta-bm/rebuild_state/${PAG
 const W = Math.max(1, Math.min(4, Number(A.workers) || 2))
 const RB = `python3 ${REPO}/research/19-zapusk-meta-bm/rebuild.py`
 const REQ = A.advertiser_request || 'если страницу не разбанят чтоб мы сделали 1в1 без моих подтвреждений на новой странице'
-const REASON = A.reason || 'Прежняя страница недоступна: Meta отвечает «Cannot access page» (01-ПЛАН-ЗАПУСКА.md, 11.8).'
+const REASON = A.reason || (MODE === 'resume'
+  ? 'Доступ к странице вернулся — продолжение плана Б (01-ПЛАН-ЗАПУСКА.md, 11.8).'
+  : 'Прежняя страница недоступна: Meta отвечает «Cannot access page» (01-ПЛАН-ЗАПУСКА.md, 11.8).')
 const q = s => `'${String(s).replace(/'/g, '')}'`
 
 const COMMON = [
@@ -120,7 +123,7 @@ if (MODE === 'account') {
   }
 }
 
-// --- 3. Проба: одно объявление от новой страницы ------------------------------------------------------------------
+// --- 3. Проба: одно объявление -----------------------------------------------------------------------------------
 phase('Проба')
 const CREATE_STEPS = key => [
   `${RB} job ${RUN} creatives_ads '${key}' печатает JSON: steps[0] — ads_create_creative, steps[1] — ads_create_ad; done — что уже сделано; complete; ready.`,
@@ -132,7 +135,7 @@ const canary = await agent([
   COMMON, '',
   `Задание: пробное объявление. Ключ K возьми из ${RB} keys ${RUN} (поле canary).`,
   CREATE_STEPS('K'),
-  MODE === 'page'
+  MODE !== 'account'
     ? [
       'Затем опубликуй только его, выключенным: mcp__Meta_Ads__ads_activate_entity с ad_account_id, entity_id = ad_id, entity_type "ad", object_ids [ad_id], publish_as_active false.',
       `Успех → ${RB} save ${RUN} creatives_ads 'K' published 1.`,
@@ -175,12 +178,12 @@ if (stop) {
   log(`Стоп: ${result.stop_reason}`)
 }
 
-// --- 5. Уборка старых (только новая страница) ---------------------------------------------------------------------
-if (MODE === 'page' && !stop) {
+// --- 5. Уборка старых (новая страница и продолжение плана Б) ---------------------------------------------------
+if (MODE !== 'account' && !stop) {
   phase('Уборка')
   const retire = await agent([
     COMMON, '',
-    `Задание: убрать старые объявления от прежней страницы. ${RB} jobs ${RUN} retire --pending → список: key — ID старого объявления.`,
+    `Задание: убрать старые объявления — те, у которых уже есть замена. ${RB} jobs ${RUN} retire --pending → список: key — ID старого объявления.`,
     '1. Какие опубликованы: mcp__Meta_Ads__ads_get_ad_entities (ad_account_id, level "ad", object_ids — все key, до 100 за вызов, fields ["name","status","effective_status"]). Кто есть в ответе — опубликован, кого нет — черновик. Чтение не удалось — ничего не трогать, вернуть failed.',
     `2. Опубликованным: mcp__Meta_Ads__ads_update_entity (entity_type "ad", entity_id key, fields — fields_if_live) → ${RB} save ${RUN} retire 'key' action PAUSED, затем save retire 'key' done 1.`,
     '3. Черновикам: fields — fields_if_draft → save action DELETED, done 1. «Invalid adgroup status» или «Instagram Account Is Missing» в active_errors черновика — ожидаемо, не ошибка. Если на DELETED ответ is_draft=false — объявление было опубликовано: больше ничего не удалять, вернуть failed.',
