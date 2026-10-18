@@ -318,7 +318,368 @@
     "uz_lead_risk_2610/RK_VID_BR": "52606749367395",
     "uz_lead_risk_2610/RK_VID_ADV": "52606777154595"
   },
-  "ads": {},
+  "ads": {
+    "I1-1_math_br": {
+      "creative_id": "1873100843857061",
+      "ad_id": "52606777502795",
+      "campaign": "uz_lead_main_2610",
+      "adset": "BR_LONG"
+    },
+    "I1-2_math_br": {
+      "creative_id": "28987750257515854",
+      "ad_id": "52606777524995",
+      "campaign": "uz_lead_main_2610",
+      "adset": "BR_LONG"
+    },
+    "I2-1_math_br": {
+      "creative_id": "1084247354454268",
+      "ad_id": "52606777480795",
+      "campaign": "uz_lead_main_2610",
+      "adset": "BR_LONG"
+    },
+    "I2-2_compare_br": {
+      "creative_id": "1823469675563313",
+      "ad_id": "52606777504195",
+      "campaign": "uz_lead_main_2610",
+      "adset": "BR_LONG"
+    },
+    "I2-3_compare_br": {
+      "creative_id": "1882595733106428",
+      "ad_id": "52606777535795",
+      "campaign": "uz_lead_main_2610",
+      "adset": "BR_LONG"
+    },
+    "I1-1S_math_br": {
+      "creative_id": "1410160167445848",
+      "ad_id": "52606777538995",
+      "campaign": "uz_lead_main_2610",
+      "adset": "BR_SHORT"
+    },
+    "I1-2S_math_br": {
+      "creative_id": "869254566215575",
+      "ad_id": "52606777530195",
+      "campaign": "uz_lead_main_2610",
+      "adset": "BR_SHORT"
+    },
+    "I2-1S_math_br": {
+      "creative_id": "1102444509308962",
+      "ad_id": "52606777538595",
+      "campaign": "uz_lead_main_2610",
+      "adset": "BR_SHORT"
+    },
+    "I2-2S_compare_br": {
+      "creative_id": "2611945399243685",
+      "ad_id": "52606777569195",
+      "campaign": "uz_lead_main_2610",
+      "adset": "BR_SHORT"
+    },
+    "I2-3S_compare_br": {
+      "creative_id": "1120190957609840",
+      "ad_id": "52606777565995",
+      "campaign": "uz_lead_main_2610",
+      "adset": "BR_SHORT"
+    },
+    "M2_zero_adv": {
+      "creative_id": "1112038188352151",
+      "ad_id": "52606777536595",
+      "campaign": "uz_lead_main_2610",
+      "adset": "ADV_MEME"
+    },
+    "M3_zero_adv": {
+      "creative_id": "1132310072839579",
+      "ad_id": "52606777567995",
+      "campaign": "uz_lead_main_2610",
+      "adset": "ADV_MEME"
+    },
+    "M4_zero_adv": {
+      "creative_id": "2978515312498941",
+      "ad_id": "52606777586595",
+      "campaign": "uz_lead_main_2610",
+      "adset": "ADV_MEME"
+    },
+    "M5_zero_adv": {
+      "creative_id": "1765904774678625",
+      "ad_id": "52606777579995",
+      "campaign": "uz_lead_main_2610",
+      "adset": "ADV_MEME"
+    },
+    "M7_zero_adv": {
+      "creative_id": "1097537779862280",
+      "ad_id": "52606777543795",
+      "campaign": "uz_lead_main_2610",
+      "adset": "ADV_MEME"
+    },
+    "I1-4_clients_adv": {
+      "creative_id": "4083905725248549",
+      "ad_id": "52606777580995",
+      "campaign": "uz_lead_main_2610",
+      "adset": "ADV_MIX"
+    },
+    "I3-1_math_adv": {
+      "creative_id": "1437482115005393",
+      "ad_id": "52606777593195",
+      "campaign": "uz_lead_main_2610",
+      "adset": "ADV_MIX"
+    },
+    "I3-1S_math_adv": {
+      "creative_id": "2165645947493604",
+      "ad_id": "52606777591195",
+      "campaign": "uz_lead_main_2610",
+      "adset": "ADV_MIX"
+    },
+    "I3-3S_clients_adv": {
+      "creative_id": "2371940316939048",
+      "ad_id": "52606777567395",
+      "campaign": "uz_lead_main_2610",
+      "adset": "ADV_MIX"
+    },
+    "I2-4S_compare_adv": {
+      "creative_id": "1250995217226648",
+      "ad_id": "52606777592395",
+      "campaign": "uz_lead_main_2610",
+      "adset": "ADV_MIX"
+    },
+    "K2-1_compare_biz": {
+      "creative_id": "1471011764883302",
+      "ad_id": "52606777608395",
+      "campaign": "uz_lead_main_2610",
+      "adset": "BIZ_CAR"
+    },
+    "K2-1b_compare_biz": {
+      "creative_id": "1675779940748983",
+      "ad_id": "52606777603795",
+      "campaign": "uz_lead_main_2610",
+      "adset": "BIZ_CAR"
+    },
+    "K2-3_clients_biz": {
+      "creative_id": "1153528650436940",
+      "ad_id": "52606777581395",
+      "campaign": "uz_lead_main_2610",
+      "adset": "BIZ_CAR"
+    },
+    "I1-1_math_biz": {
+      "creative_id": "1776336043593870",
+      "ad_id": "52606777604595",
+      "campaign": "uz_lead_main_2610",
+      "adset": "BIZ_LONG"
+    },
+    "I1-2_math_biz": {
+      "creative_id": "1795107245058648",
+      "ad_id": "52606777621195",
+      "campaign": "uz_lead_main_2610",
+      "adset": "BIZ_LONG"
+    },
+    "I2-1_math_biz": {
+      "creative_id": "1723267382106019",
+      "ad_id": "52606777616395",
+      "campaign": "uz_lead_main_2610",
+      "adset": "BIZ_LONG"
+    },
+    "I2-2_compare_biz": {
+      "creative_id": "1758307942964271",
+      "ad_id": "52606777591995",
+      "campaign": "uz_lead_main_2610",
+      "adset": "BIZ_LONG"
+    },
+    "I2-3_compare_biz": {
+      "creative_id": "1463254548990817",
+      "ad_id": "52606777617395",
+      "campaign": "uz_lead_main_2610",
+      "adset": "BIZ_LONG"
+    },
+    "I1-1S_math_ai": {
+      "creative_id": "1471111224906477",
+      "ad_id": "52606777636995",
+      "campaign": "uz_lead_main_2610",
+      "adset": "AI_SHORT"
+    },
+    "I1-2S_math_ai": {
+      "creative_id": "1486701026695367",
+      "ad_id": "52606777629795",
+      "campaign": "uz_lead_main_2610",
+      "adset": "AI_SHORT"
+    },
+    "I2-1S_math_ai": {
+      "creative_id": "1432145395794748",
+      "ad_id": "52606777603395",
+      "campaign": "uz_lead_main_2610",
+      "adset": "AI_SHORT"
+    },
+    "I2-2S_compare_ai": {
+      "creative_id": "1454983059905076",
+      "ad_id": "52606777629395",
+      "campaign": "uz_lead_main_2610",
+      "adset": "AI_SHORT"
+    },
+    "I2-3S_compare_ai": {
+      "creative_id": "1820775966041204",
+      "ad_id": "52606777652795",
+      "campaign": "uz_lead_main_2610",
+      "adset": "AI_SHORT"
+    },
+    "M2_zero_ai": {
+      "creative_id": "1078515798519838",
+      "ad_id": "52606777645395",
+      "campaign": "uz_lead_main_2610",
+      "adset": "AI_MEME"
+    },
+    "M3_zero_ai": {
+      "creative_id": "3019867618347038",
+      "ad_id": "52606777612795",
+      "campaign": "uz_lead_main_2610",
+      "adset": "AI_MEME"
+    },
+    "M4_zero_ai": {
+      "creative_id": "2091075265106053",
+      "ad_id": "52606777641795",
+      "campaign": "uz_lead_main_2610",
+      "adset": "AI_MEME"
+    },
+    "M5_zero_ai": {
+      "creative_id": "1478789387560098",
+      "ad_id": "52606777677795",
+      "campaign": "uz_lead_main_2610",
+      "adset": "AI_MEME"
+    },
+    "M7_zero_ai": {
+      "creative_id": "1102742988829264",
+      "ad_id": "52606777665595",
+      "campaign": "uz_lead_main_2610",
+      "adset": "AI_MEME"
+    },
+    "I1-4_clients_fr": {
+      "creative_id": "1718579699785462",
+      "ad_id": "52606777619595",
+      "campaign": "uz_lead_main_2610",
+      "adset": "FR_MIX"
+    },
+    "I3-1_math_fr": {
+      "creative_id": "1090482270445718",
+      "ad_id": "52606777662395",
+      "campaign": "uz_lead_main_2610",
+      "adset": "FR_MIX"
+    },
+    "I3-1S_math_fr": {
+      "creative_id": "2288030865373674",
+      "ad_id": "52606777694995",
+      "campaign": "uz_lead_main_2610",
+      "adset": "FR_MIX"
+    },
+    "I3-3S_clients_fr": {
+      "creative_id": "2335213800351187",
+      "ad_id": "52606777685395",
+      "campaign": "uz_lead_main_2610",
+      "adset": "FR_MIX"
+    },
+    "I2-4S_compare_fr": {
+      "creative_id": "1629274955274775",
+      "ad_id": "52606777635995",
+      "campaign": "uz_lead_main_2610",
+      "adset": "FR_MIX"
+    },
+    "K2-1_compare_fr": {
+      "creative_id": "1458578329523558",
+      "ad_id": "52606777683595",
+      "campaign": "uz_lead_main_2610",
+      "adset": "FR_CAR"
+    },
+    "K2-1b_compare_fr": {
+      "creative_id": "1111228711380619",
+      "ad_id": "52606777721395",
+      "campaign": "uz_lead_main_2610",
+      "adset": "FR_CAR"
+    },
+    "K2-3_clients_fr": {
+      "creative_id": "1094072673537272",
+      "ad_id": "52606777719595",
+      "campaign": "uz_lead_main_2610",
+      "adset": "FR_CAR"
+    },
+    "I2-4_compare_br": {
+      "creative_id": "1655292492870342",
+      "ad_id": "52606777645795",
+      "campaign": "uz_lead_risk_2610",
+      "adset": "RK_STAT_BR"
+    },
+    "I3-3_clients_br": {
+      "creative_id": "4375959666049222",
+      "ad_id": "52606777712795",
+      "campaign": "uz_lead_risk_2610",
+      "adset": "RK_STAT_BR"
+    },
+    "M1_clients_br": {
+      "creative_id": "1391311059410478",
+      "ad_id": "52606777749795",
+      "campaign": "uz_lead_risk_2610",
+      "adset": "RK_STAT_BR"
+    },
+    "M6_compare_br": {
+      "creative_id": "1171406522215571",
+      "ad_id": "52606777736395",
+      "campaign": "uz_lead_risk_2610",
+      "adset": "RK_STAT_BR"
+    },
+    "I2-4_compare_adv": {
+      "creative_id": "1091192646829152",
+      "ad_id": "52606777664995",
+      "campaign": "uz_lead_risk_2610",
+      "adset": "RK_STAT_ADV"
+    },
+    "I3-3_clients_adv": {
+      "creative_id": "1807852447018342",
+      "ad_id": "52606777731395",
+      "campaign": "uz_lead_risk_2610",
+      "adset": "RK_STAT_ADV"
+    },
+    "M1_clients_adv": {
+      "creative_id": "2169800137269724",
+      "ad_id": "52606777768195",
+      "campaign": "uz_lead_risk_2610",
+      "adset": "RK_STAT_ADV"
+    },
+    "M6_compare_adv": {
+      "creative_id": "1631843851748447",
+      "ad_id": "52606777764795",
+      "campaign": "uz_lead_risk_2610",
+      "adset": "RK_STAT_ADV"
+    },
+    "V4b_now_br": {
+      "creative_id": "1118461480528648",
+      "ad_id": "52606777686195",
+      "campaign": "uz_lead_risk_2610",
+      "adset": "RK_VID_BR"
+    },
+    "V1_now_br": {
+      "creative_id": "29249733947945678",
+      "ad_id": "52606777759395",
+      "campaign": "uz_lead_risk_2610",
+      "adset": "RK_VID_BR"
+    },
+    "V2_math_br": {
+      "creative_id": "1100554206281494",
+      "ad_id": "52606777789195",
+      "campaign": "uz_lead_risk_2610",
+      "adset": "RK_VID_BR"
+    },
+    "V4b_now_adv": {
+      "creative_id": "1822895252478541",
+      "ad_id": "52606777778395",
+      "campaign": "uz_lead_risk_2610",
+      "adset": "RK_VID_ADV"
+    },
+    "V1_now_adv": {
+      "creative_id": "1150043720689715",
+      "ad_id": "52606777714195",
+      "campaign": "uz_lead_risk_2610",
+      "adset": "RK_VID_ADV"
+    },
+    "V2_math_adv": {
+      "creative_id": "1036792856041779",
+      "ad_id": "52606777777595",
+      "campaign": "uz_lead_risk_2610",
+      "adset": "RK_VID_ADV"
+    }
+  },
   "progress": {
     "exclusions_done": "all 8 old adsets",
     "old_ads_deleted": "all 30 old ads staged DELETED (17.10 night)",
@@ -329,7 +690,8 @@
       "AI_MEME",
       "FR_MIX",
       "FR_CAR"
-    ]
+    ],
+    "ads_created": "60 из 60 (17–18.10 ночью), креатив на каждое объявление свой"
   },
   "ads_v1_deleted": {
     "I1-1_lg_math": {
